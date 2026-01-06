@@ -1,5 +1,6 @@
 import Map from "@/components/Map";
-import { exampleStadiums } from "@/data/stadiums";
+// import { exampleStadiums } from "@/data/stadiums";
+import teams from "@/data/teams.json";
 
 export default function Home() {
   const MAPBOX_TOKEN = process.env.REACT_APP_MAPBOX_TOKEN || '';
@@ -18,12 +19,12 @@ export default function Home() {
         </div>
       </div>
       <div className='ml-0 md:ml-64 flex-auto'>
-      <Map
-        stadiums={exampleStadiums}
-        accessToken={MAPBOX_TOKEN}
-        initialZoom={2}
-        initialCenter={[10, 30]}
-      /></div>
+        <Map
+          stadiums={teams}
+          accessToken={MAPBOX_TOKEN}
+          initialZoom={8}
+          initialCenter={[5, 52]}
+        /></div>
     </div>
   );
 }

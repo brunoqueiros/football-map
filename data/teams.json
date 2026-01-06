@@ -1,0 +1,200 @@
+[
+  {
+    "id": "netherlands-afc-ajax",
+    "name": "Ajax",
+    "country": "Netherlands",
+    "city": "Amsterdam",
+    "stadium": "Johan Cruyff Arena",
+    "latitude": 52.31457426207562,
+    "longitude": 4.941864814158152,
+    "capacity": 55865,
+    "tier": "professional"
+  },
+  {
+    "id": "netherlands-az-alkmaar",
+    "name": "AZ",
+    "country": "Netherlands",
+    "city": "Alkmaar",
+    "stadium": "AFAS Stadium",
+    "latitude": 52.61293447600286,
+    "longitude": 4.74206105652524,
+    "capacity": 19500,
+    "tier": "professional"
+  },
+  {
+    "id": "netherlands-excelsior-rotterdam",
+    "name": "Excelsior Rotterdam",
+    "country": "Netherlands",
+    "city": "Rotterdam",
+    "stadium": "Van Donge & De Roo Stadion",
+    "latitude": 51.917417904487635,
+    "longitude": 4.519812755521161,
+    "capacity": 4400,
+    "tier": "professional"
+  },
+  {
+    "id": "netherlands-fc-groningen",
+    "name": "FC Groningen",
+    "country": "Netherlands",
+    "city": "Groningen",
+    "stadium": "Euroborg Stadium",
+    "latitude": 53.206261760661505,
+    "longitude": 6.591239774609432,
+    "capacity": 22550,
+    "tier": "professional"
+  },
+  {
+    "id": "netherlands-feyenoord",
+    "name": "Feyenoord",
+    "country": "Netherlands",
+    "city": "Rotterdam",
+    "stadium": "Stadion Feijenoord (De Kuip)",
+    "latitude": 51.89403661707197,
+    "longitude": 4.523202226657144,
+    "capacity": 47500,
+    "tier": "professional"
+  },
+  {
+    "id": "netherlands-fortuna-sittard",
+    "name": "Fortuna Sittard",
+    "country": "Netherlands",
+    "city": "Sittard",
+    "stadium": "Fortuna Sittard Stadion",
+    "latitude": 50.9920981854425,
+    "longitude": 5.8437041419577715,
+    "capacity": 12000,
+    "tier": "professional"
+  },
+  {
+    "id": "netherlands-go-ahead-eagles",
+    "name": "Go Ahead Eagles",
+    "country": "Netherlands",
+    "city": "Deventer",
+    "stadium": "De Adelaarshorst",
+    "latitude": 52.26045840879131,
+    "longitude": 6.172597555511405,
+    "capacity": 10000,
+    "tier": "professional"
+  },
+  {
+    "id": "netherlands-sc-heerenveen",
+    "name": "sc Heerenveen",
+    "country": "Netherlands",
+    "city": "Heerenveen",
+    "stadium": "Abe Lenstra Stadion",
+    "latitude": 52.958262843566345,
+    "longitude": 5.936799455545991,
+    "capacity": 27224,
+    "tier": "professional"
+  },
+  {
+    "id": "netherlands-heracles-almelo",
+    "name": "Heracles Almelo",
+    "country": "Netherlands",
+    "city": "Almelo",
+    "stadium": "Asito Stadion",
+    "latitude": 52.33917766518072,
+    "longitude": 6.6509865420238095,
+    "capacity": 12080,
+    "tier": "professional"
+  },
+  {
+    "id": "netherlands-nac-breda",
+    "name": "NAC Breda",
+    "country": "Netherlands",
+    "city": "Breda",
+    "stadium": "Rat Verlegh Stadium",
+    "latitude": 51.59490901087713,
+    "longitude": 4.750366827191135,
+    "capacity": 20500,
+    "tier": "professional"
+  },
+  {
+    "id": "netherlands-nec-nijmegen",
+    "name": "N.E.C. Nijmegen",
+    "country": "Netherlands",
+    "city": "Nijmegen",
+    "stadium": "Goffertstadion",
+    "latitude": 51.82253500167679,
+    "longitude": 5.837236498361646,
+    "capacity": 12650,
+    "tier": "professional"
+  },
+  {
+    "id": "netherlands-pec-zwolle",
+    "name": "PEC Zwolle",
+    "country": "Netherlands",
+    "city": "Zwolle",
+    "stadium": "MAC³PARK stadion",
+    "latitude": 52.51729626052382,
+    "longitude": 6.1209173560507315,
+    "capacity": 14000,
+    "tier": "professional"
+  },
+  {
+    "id": "netherlands-psv",
+    "name": "PSV",
+    "country": "Netherlands",
+    "city": "Eindhoven",
+    "stadium": "Philips Stadion",
+    "latitude": 51.44185444458988,
+    "longitude": 5.467469256022608,
+    "capacity": 35000,
+    "tier": "professional"
+  },
+  {
+    "id": "netherlands-sparta-rotterdam",
+    "name": "Sparta Rotterdam",
+    "country": "Netherlands",
+    "city": "Rotterdam",
+    "stadium": "Sparta Stadion Het Kasteel",
+    "latitude": 51.92009848001512,
+    "longitude": 4.433150400212042,
+    "capacity": 11000,
+    "tier": "professional"
+  },
+  {
+    "id": "netherlands-telstar",
+    "name": "Telstar",
+    "country": "Netherlands",
+    "city": "Velsen-Zuid",
+    "stadium": "BUKO stadium",
+    "latitude": 52.455311268848526,
+    "longitude": 4.633974927213698,
+    "capacity": 5338,
+    "tier": "professional"
+  },
+  {
+    "id": "netherlands-fc-twente",
+    "name": "FC Twente",
+    "country": "Netherlands",
+    "city": "Enschede",
+    "stadium": "De Grolsch Veste",
+    "latitude": 52.23663702733821,
+    "longitude": 6.83782521186628,
+    "capacity": 30000,
+    "tier": "professional"
+  },
+  {
+    "id": "netherlands-fc-utrecht",
+    "name": "FC Utrecht",
+    "country": "Netherlands",
+    "city": "Utrecht",
+    "stadium": "Stadion Galgenwaard",
+    "latitude": 52.07848905312732,
+    "longitude": 5.145867313710011,
+    "capacity": 23750,
+    "tier": "professional"
+  },
+  {
+    "id": "netherlands-fc-volendam",
+    "name": "FC Volendam",
+    "country": "Netherlands",
+    "city": "Volendam",
+    "stadium": "Kras Stadion",
+    "latitude": 52.49452752163647,
+    "longitude": 5.066227469543893,
+    "capacity": 6800,
+    "tier": "professional"
+  }
+]
