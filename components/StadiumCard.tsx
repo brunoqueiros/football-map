@@ -32,13 +32,13 @@ const StadiumCard: React.FC<StadiumCardProps> = ({ stadium, onClose }) => {
         </button>
 
         <div className="stadium-card-header">
-            {/* <img src={logo} alt='AFC Ajax' style={{ width: '48px', height: '48px' }} /> */}
-            <Image
-              src={`/logos/${stadium.id}.svg`}
-              width={48}
-              height={48}
-              alt={stadium.name}
-            />
+          {/* <img src={logo} alt='AFC Ajax' style={{ width: '48px', height: '48px' }} /> */}
+          <Image
+            src={`/logos/${stadium.id}.svg`}
+            width={48}
+            height={48}
+            alt={stadium.name}
+          />
           <h2 className="stadium-card-title">{stadium.name}</h2>
         </div>
 
