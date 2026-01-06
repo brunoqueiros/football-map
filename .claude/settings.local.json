@@ -1,0 +1,11 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(node download-logos.js)",
+      "WebFetch(domain:nl.wikipedia.org)",
+      "Bash(curl:*)",
+      "Bash(find:*)",
+      "Bash(node update-stadium-ids.js:*)"
+    ]
+  }
+}
