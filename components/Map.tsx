@@ -44,18 +44,18 @@ const Map: React.FC<MapProps> = ({
       style: 'mapbox://styles/mapbox/dark-v11',
       center: initialCenter,
       zoom: initialZoom,
-      projection: { name: 'mercator' }
+      projection: { name: 'globe' }
     });
 
     map.on('load', () => {
       setMapLoaded(true);
 
       map.setFog({
-        color: 'rgb(186, 210, 235)',
+        color: 'transparent',
         'high-color': 'rgb(36, 92, 223)',
-        'horizon-blend': 0.02,
-        'space-color': 'rgb(11, 11, 25)',
-        'star-intensity': 0.6
+        'horizon-blend': 0.0,
+        'space-color': '#090909',
+        'star-intensity': 0.1
       });
     });
 
