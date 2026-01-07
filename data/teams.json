@@ -418,6 +418,49 @@
     "tier": "professional"
   },
   {
+    "id": "netherlands-acv",
+    "name": "ACV",
+    "country": "Netherlands",
+    "city": "Assen",
+    "stadium": "Univé Sportpark (Stadsbroek)",
+    "latitude": 52.9822461927554,
+    "longitude": 6.547029797496635,
+    "tier": "amateur"
+  },
+  {
+    "id": "netherlands-amsterdamsche-fc",
+    "name": "AFC (Amsterdamsche FC)",
+    "country": "Netherlands",
+    "city": "Amsterdam",
+    "stadium": "Sportpark Goed Genoeg",
+    "latitude": 52.337724668942414,
+    "longitude": 4.882195056046026,
+    "capacity": 8000,
+    "tier": "amateur"
+  },
+  {
+    "id": "netherlands-bvv-barendrecht",
+    "name": "BVV Barendrecht",
+    "country": "Netherlands",
+    "city": "Barendrecht",
+    "stadium": "Sportpark Nieuw Vosseveld",
+    "latitude": 51.86068081524456,
+    "longitude": 4.543270140691871,
+    "capacity": 1500,
+    "tier": "amateur"
+  },
+  {
+    "id": "netherlands-excelsior-maassluis",
+    "name": "Excelsior Maassluis",
+    "country": "Netherlands",
+    "city": "Maassluis",
+    "stadium": "Sportpark Dijkpolder",
+    "latitude": 51.92738897673117,
+    "longitude": 4.256647227199788,
+    "capacity": null,
+    "tier": "amateur"
+  },
+  {
     "id": "brazil-athletico-paranaense",
     "name": "Athletico Paranaense",
     "country": "Brazil",
@@ -2307,6 +2350,28 @@
     "latitude": -28.943193165850786,
     "longitude": -51.54983305750736,
     "capacity": 4720,
+    "tier": "professional"
+  },
+  {
+    "id": "brazil-jaboticabal-atletico",
+    "name": "Jaboticabal Atlético",
+    "country": "Brazil",
+    "city": "Jaboticabal",
+    "stadium": "Jardim das Rosas",
+    "latitude": -21.270781598721722,
+    "longitude": -48.35919139178482,
+    "capacity": 0,
+    "tier": "amateur"
+  },
+  {
+    "id": "brazil-atletico-cearense",
+    "name": "Atlético Cearense",
+    "country": "Brazil",
+    "city": "Fortaleza",
+    "stadium": "Arena Arigooll Sports",
+    "latitude": -3.818420615860641,
+    "longitude": -38.449536932461,
+    "capacity": 10000,
     "tier": "professional"
   }
 ]
