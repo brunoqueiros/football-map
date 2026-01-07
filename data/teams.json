@@ -2110,5 +2110,203 @@
     "longitude": -47.63711564413837,
     "capacity": 18000,
     "tier": "professional"
+  },
+  {
+    "id": "brazil-monsoon",
+    "name": "Monsoon",
+    "country": "Brazil",
+    "city": "Capão da Canoa",
+    "stadium": "Estádio Francisco Novelletto Neto (Passo d'Areia)",
+    "latitude": -30.006452749028064,
+    "longitude": -51.17352301515661,
+    "capacity": 10600,
+    "tier": "professional"
+  },
+  {
+    "id": "brazil-ec-avenida",
+    "name": "Avenida",
+    "country": "Brazil",
+    "city": "Santa Cruz do Sul",
+    "stadium": "Estádio Francisco Novelletto Neto (Passo d'Areia)",
+    "latitude": -29.706652218178036,
+    "longitude": -52.4421712016716,
+    "capacity": 3600,
+    "tier": "professional"
+  },
+  {
+    "id": "brazil-ec-pelotas",
+    "name": "Pelotas",
+    "country": "Brazil",
+    "city": "Pelotas",
+    "stadium": "Estádio Boca do Lobo",
+    "latitude": -31.760822474127576,
+    "longitude": -52.33599957278953,
+    "capacity": 23336,
+    "tier": "professional"
+  },
+  {
+    "id": "brazil-ce-aimore",
+    "name": "Aimoré",
+    "country": "Brazil",
+    "city": "Novo Hamburgo",
+    "stadium": "Estádio João Corrêa da Silveira",
+    "latitude": -29.78234978697702,
+    "longitude": -51.155484301669915,
+    "capacity": 10000,
+    "tier": "professional"
+  },
+  {
+    "id": "brazil-ge-bage",
+    "name": "Bagé",
+    "country": "Brazil",
+    "city": "Bagé",
+    "stadium": "Estádio João Corrêa da Silveira",
+    "latitude": -31.329894814432766,
+    "longitude": -54.116748630471655,
+    "capacity": 10000,
+    "tier": "professional"
+  },
+  {
+    "id": "brazil-brasil-de-farroupilha",
+    "name": "Brasil de Farroupilha",
+    "country": "Brazil",
+    "city": "Farroupilha",
+    "stadium": "Estádio João Corrêa da Silveira",
+    "latitude": -29.209108667460924,
+    "longitude": -51.349518279796584,
+    "capacity": 3500,
+    "tier": "professional"
+  },
+  {
+    "id": "brazil-clube-esportivo-bento-goncalves",
+    "name": "Esportivo",
+    "country": "Brazil",
+    "city": "Bento Gonçalves",
+    "stadium": "Parque Esportivo Montanha dos Vinhedos",
+    "latitude": -29.15362415164512,
+    "longitude": -51.53656552928887,
+    "capacity": 12859,
+    "tier": "professional"
+  },
+  {
+    "id": "brazil-sport-clube-gaucho",
+    "name": "Gaúcho",
+    "country": "Brazil",
+    "city": "Passo Fundo",
+    "stadium": "Arena Be8",
+    "latitude": -28.275634800028172,
+    "longitude": -52.44023231704697,
+    "capacity": 3338,
+    "tier": "professional"
+  },
+  {
+    "id": "brazil-ge-gloria",
+    "name": "Glória",
+    "country": "Brazil",
+    "city": "Vacaria",
+    "stadium": "Estádio Altos da Glória",
+    "latitude": -28.497754963091126,
+    "longitude": -50.954158790872945,
+    "capacity": 8000,
+    "tier": "professional"
+  },
+  {
+    "id": "brazil-ce-gramadense",
+    "name": "Gramadense",
+    "country": "Brazil",
+    "city": "Gramado",
+    "stadium": "Estádio Ernesto Volk (Ernestão)",
+    "latitude": -29.37769967825838,
+    "longitude": -50.88260072422672,
+    "capacity": 8000,
+    "tier": "professional"
+  },
+  {
+    "id": "brazil-ec-internacional",
+    "name": "Inter de Santa Maria",
+    "country": "Brazil",
+    "city": "Santa Maria",
+    "stadium": "Estádio Presidente Vargas (Baixada Melancólica)",
+    "latitude": -29.691935192937727,
+    "longitude": -53.82462190167196,
+    "capacity": 8500,
+    "tier": "professional"
+  },
+  {
+    "id": "brazil-ce-lajeadense",
+    "name": "Lajeadense",
+    "country": "Brazil",
+    "city": "Lajeado",
+    "stadium": "Arena Alviazul",
+    "latitude": -29.483762687271533,
+    "longitude": -51.99992545934853,
+    "capacity": 8000,
+    "tier": "professional"
+  },
+  {
+    "id": "brazil-ec-novo-hamburgo",
+    "name": "Novo Hamburgo",
+    "country": "Brazil",
+    "city": "Novo Hamburgo",
+    "stadium": "Estádio do Vale",
+    "latitude": -29.72605893896678,
+    "longitude": -51.14379954081755,
+    "capacity": 5196,
+    "tier": "professional"
+  },
+  {
+    "id": "brazil-ec-passo-fundo",
+    "name": "Passo Fundo",
+    "country": "Brazil",
+    "city": "Passo Fundo",
+    "stadium": "Estádio RazaoInfo Vermelhão da Serra",
+    "latitude": -28.281173812566536,
+    "longitude": -52.37674283239119,
+    "capacity": 15000,
+    "tier": "professional"
+  },
+  {
+    "id": "brazil-real-sport-club",
+    "name": "Real",
+    "country": "Brazil",
+    "city": "Tramandaí",
+    "stadium": "Estádio Municipal Eluzardo Caetano da Silva (Módulo Esportivo)",
+    "latitude": -30.00339468804974,
+    "longitude": -50.156124186320426,
+    "capacity": 0,
+    "tier": "professional"
+  },
+  {
+    "id": "brazil-fc-santa-cruz-rs",
+    "name": "Santa Cruz-RS",
+    "country": "Brazil",
+    "city": "Santa Cruz do Sul",
+    "stadium": "Estádio dos Plátanos",
+    "latitude": -29.709191796803758,
+    "longitude": -52.422552772835175,
+    "capacity": 2490,
+    "tier": "professional"
+  },
+  {
+    "id": "brazil-uniao-frederiquense",
+    "name": "União Frederiquense",
+    "country": "Brazil",
+    "city": "Frederico Westphalen",
+    "stadium": "Complexo Esportivo União Frederiquense (Arena União)",
+    "latitude": -27.364277834266893,
+    "longitude": -53.42509745460349,
+    "capacity": 3000,
+    "tier": "professional"
+  },
+  {
+    "id": "brazil-veranopolis",
+    "name": "Veranópolis",
+    "country": "Brazil",
+    "city": "Frederico Westphalen",
+    "stadium": "Estádio Municipal Antônio David Farina",
+    "latitude": -28.943193165850786,
+    "longitude": -51.54983305750736,
+    "capacity": 4720,
+    "tier": "professional"
   }
 ]
