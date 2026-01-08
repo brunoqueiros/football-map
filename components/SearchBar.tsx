@@ -81,18 +81,19 @@ export default function SearchBar({ onSelectTeam }: SearchBarProps) {
                     setIsFocused(false);
                   }}
                 >
-                  <div className="flex items-center gap-2 flex-1 min-w-0">
+                  <div className="flex gap-3 flex-1 min-w-0">
                     <Image
                       src={`/logos/${team.id}.svg`}
-                      width={20}
-                      height={20}
+                      width={25}
+                      height={25}
                       alt={team.name}
                     />
-                    <span className="text-sm font-medium text-neutral-200 truncate">{team.name}</span>
-                    {/* <div className="flex items-center gap-1.5 text-xs text-neutral-400">
-                      <span>{flag(team.country)}</span>
-                      <span>{team.city}</span>
-                    </div> */}
+                    <div>
+                      <span className="text-sm font-medium text-neutral-200 truncate">{team.name}</span>
+                      <div className="flex items-center gap-1.5 text-xs text-neutral-400">
+                        <span>{team.city}</span>
+                      </div>
+                    </div>
                   </div>
                   <div className="flex items-center gap-1.5 text-neutral-400">
                     <span>{flag(team.country)}</span>
