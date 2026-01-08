@@ -1,10 +1,10 @@
 'use client'
-import React, { useEffect, useRef, useState } from 'react';
+import React, { useEffect, useRef, useState, useImperativeHandle, forwardRef } from 'react';
 import mapboxgl from 'mapbox-gl';
 import 'mapbox-gl/dist/mapbox-gl.css';
 import StadiumCard from './StadiumCard';
 
-interface Stadium {
+export interface Stadium {
   id?: string;
   name: string;
   club?: string;
@@ -21,18 +21,38 @@ interface MapProps {
   accessToken: string;
   initialZoom?: number;
   initialCenter?: [number, number];
+  selectedStadium?: Stadium | null;
+  onSelectStadium?: (stadium: Stadium | null) => void;
 }
 
-const Map: React.FC<MapProps> = ({
+export interface MapRef {
+  flyToLocation: (lng: number, lat: number, zoom?: number) => void;
+}
+
+const Map = forwardRef<MapRef, MapProps>(({
   stadiums,
   accessToken,
   initialZoom = 2,
-  initialCenter = [0, 20]
-}) => {
+  initialCenter = [0, 20],
+  selectedStadium = null,
+  onSelectStadium
+}, ref) => {
   const mapContainerRef = useRef<HTMLDivElement>(null);
   const mapRef = useRef<mapboxgl.Map | null>(null);
   const [mapLoaded, setMapLoaded] = useState(false);
-  const [selectedStadium, setSelectedStadium] = useState<Stadium | null>(null);
+
+  useImperativeHandle(ref, () => ({
+    flyToLocation: (lng: number, lat: number, zoom: number = 14) => {
+      if (mapRef.current) {
+        mapRef.current.flyTo({
+          center: [lng, lat],
+          zoom: zoom,
+          duration: 4000,
+          essential: true
+        });
+      }
+    }
+  }));
 
   useEffect(() => {
     if (!mapContainerRef.current) return;
@@ -44,7 +64,7 @@ const Map: React.FC<MapProps> = ({
       style: 'mapbox://styles/mapbox/dark-v11',
       center: initialCenter,
       zoom: initialZoom,
-      projection: { name: 'globe' }
+      projection: { name: 'mercator' }
     });
 
     map.on('load', () => {
@@ -70,6 +90,7 @@ const Map: React.FC<MapProps> = ({
     if (!mapLoaded || !mapRef.current) return;
 
     const map = mapRef.current;
+    const markers: mapboxgl.Marker[] = [];
 
     stadiums.forEach((stadium) => {
       const el = document.createElement('div');
@@ -92,13 +113,19 @@ const Map: React.FC<MapProps> = ({
       // });
 
       el.addEventListener('click', () => {
-        setSelectedStadium(stadium);
+        onSelectStadium?.(stadium);
       });
 
-      new mapboxgl.Marker(el)
+      const marker = new mapboxgl.Marker(el)
         .setLngLat([stadium.longitude, stadium.latitude])
         .addTo(map);
+
+      markers.push(marker);
     });
+
+    return () => {
+      markers.forEach(marker => marker.remove());
+    };
   }, [mapLoaded, stadiums]);
 
   return (
@@ -113,11 +140,13 @@ const Map: React.FC<MapProps> = ({
       {selectedStadium && (
         <StadiumCard
           stadium={selectedStadium}
-          onClose={() => setSelectedStadium(null)}
+          onClose={() => onSelectStadium?.(null)}
         />
       )}
     </>
   );
-};
+});
+
+Map.displayName = 'Map';
 
 export default Map;
