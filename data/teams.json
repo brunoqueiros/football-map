@@ -2191,7 +2191,7 @@
     "id": "brazil-ce-aimore",
     "name": "Aimoré",
     "country": "Brazil",
-    "city": "Novo Hamburgo",
+    "city": "São Leopoldo",
     "stadium": "Estádio João Corrêa da Silveira",
     "latitude": -29.78234978697702,
     "longitude": -51.155484301669915,
@@ -3032,6 +3032,127 @@
     "latitude": -23.51760270213837,
     "longitude": -46.20611060325586,
     "capacity": 14383,
+    "tier": "professional"
+  },
+  {
+    "id": "brazil-americano-fc",
+    "name": "Americano",
+    "country": "Brazil",
+    "city": "Campos dos Goytacazes",
+    "stadium": "Estádio Godofredo Cruz",
+    "latitude": -21.670618287284444,
+    "longitude": -41.30840200330753,
+    "capacity": 12300,
+    "tier": "professional"
+  },
+  {
+    "id": "brazil-araruama-fc",
+    "name": "Araruama",
+    "country": "Brazil",
+    "city": "Araruama",
+    "stadium": "Estádio Lourival Gomes",
+    "latitude": -22.833401905663383,
+    "longitude": -42.5963664456041,
+    "capacity": 1800,
+    "tier": "professional"
+  },
+  {
+    "id": "brazil-audax-rio",
+    "name": "Audax Rio",
+    "country": "Brazil",
+    "city": "Saquarema",
+    "stadium": "Estádio Elcyr Resende de Mendonça",
+    "latitude": -22.894811557735917,
+    "longitude": -42.47681741676659,
+    "capacity": 8000,
+    "tier": "professional"
+  },
+  {
+    "id": "brazil-bangu-atletico-clube",
+    "name": "Bangu",
+    "country": "Brazil",
+    "city": "Rio de Janeiro",
+    "stadium": "Moça Bonita",
+    "latitude": -22.872341815186402,
+    "longitude": -43.45662163211006,
+    "capacity": 9500,
+    "tier": "professional"
+  },
+  {
+    "id": "brazil-associacao-desportiva-cabofriense",
+    "name": "Cabofriense",
+    "country": "Brazil",
+    "city": "Cabo Frio",
+    "stadium": "Correão",
+    "latitude": -22.890134051946763,
+    "longitude": -42.040073559095376,
+    "capacity": 4200,
+    "tier": "professional"
+  },
+  {
+    "id": "brazil-duque-de-caxias-fc",
+    "name": "Duque de Caxias",
+    "country": "Brazil",
+    "city": "Duque de Caxias",
+    "stadium": "Estádio Romário de Souza Faria (Marrentão)",
+    "latitude": -22.585464659287915,
+    "longitude": -43.30518658793946,
+    "capacity": 3334,
+    "tier": "professional"
+  },
+  {
+    "id": "brazil-olaria-atletico-clube",
+    "name": "Olaria",
+    "country": "Brazil",
+    "city": "Rio de Janeiro",
+    "stadium": "Estádio Antônio Mourão Vieira Filho (Rua Bariri)",
+    "latitude": -22.84110086621551,
+    "longitude": -43.26665327258944,
+    "capacity": 8300,
+    "tier": "professional"
+  },
+  {
+    "id": "brazil-af-perolas-negras",
+    "name": "Pérolas Negras",
+    "country": "Brazil",
+    "city": "Piraí",
+    "stadium": "Estádio do Trabalhador",
+    "latitude": -22.46359558039457,
+    "longitude": -44.455976632449065,
+    "capacity": 7400,
+    "tier": "professional"
+  },
+  {
+    "id": "brazil-petropolis-fc",
+    "name": "Petrópolis",
+    "country": "Brazil",
+    "city": "Petrópolis",
+    "stadium": "Estádio Lourival Gomes de Almeida",
+    "latitude": -22.83335246518948,
+    "longitude": -42.59646300512573,
+    "capacity": 4315,
+    "tier": "professional"
+  },
+  {
+    "id": "brazil-resende-fc",
+    "name": "Resende",
+    "country": "Brazil",
+    "city": "Resende",
+    "stadium": "Estádio do Trabalhador",
+    "latitude": -22.463993186536914,
+    "longitude": -44.45579596307814,
+    "capacity": 7400,
+    "tier": "professional"
+  },
+  {
+    "id": "brazil-sao-gonçalo-ec",
+    "name": "São Gonçalo EC",
+    "country": "Brazil",
+    "city": "São Gonçalo",
+    "stadium": "Estádio de Los Larios",
+    "latitude": -22.610647803892938,
+    "longitude": -43.330693030267334,
+    "capacity": 6300,
     "tier": "professional"
   }
 ]
