@@ -23,6 +23,7 @@ export default function SearchBar({ onSelectTeam }: SearchBarProps) {
   }).slice(0, 10);
 
   const showResults = isFocused && filteredTeams.length > 0;
+  const showNoResults = isFocused && searchQuery.trim() && filteredTeams.length === 0;
 
   return (
     <div className='fixed top-4 left-1/2 -translate-x-1/2 z-50'>
@@ -101,6 +102,25 @@ export default function SearchBar({ onSelectTeam }: SearchBarProps) {
                   </div>
                 </button>
               ))}
+            </div>
+          </div>
+        )}
+
+        {/* No Results Message */}
+        {showNoResults && (
+          <div className='absolute top-full mt-2 w-full'>
+            <div className='p-6 rounded-xl bg-neutral-900/95 backdrop-blur-md border border-neutral-800 shadow-2xl'>
+              <div className="flex flex-col items-center text-center gap-3">
+                <svg className="w-12 h-12 text-neutral-600" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                  <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M9.172 16.172a4 4 0 015.656 0M9 10h.01M15 10h.01M21 12a9 9 0 11-18 0 9 9 0 0118 0z" />
+                </svg>
+                <div>
+                  <p className="text-sm font-medium text-neutral-200 mb-1">No teams found</p>
+                  <p className="text-xs text-neutral-400">
+                    Can't find your team? Contact us to add it to the map!
+                  </p>
+                </div>
+              </div>
             </div>
           </div>
         )}
