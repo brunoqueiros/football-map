@@ -2841,7 +2841,7 @@
     "name": "São-Carlense",
     "country": "Brazil",
     "city": "São Carlos",
-    "stadium": "Estádio Municipal Prof. Luís Augusto de Oliveira (“O Luisão”)",
+    "stadium": "Estádio Municipal Prof. Luís Augusto de Oliveira (Luisão)",
     "latitude": -22.031330026458903,
     "longitude": -47.90177837298686,
     "capacity": 10000,
@@ -2900,6 +2900,138 @@
     "latitude": -23.555280147923842,
     "longitude": -46.29780054412313,
     "capacity": 3445,
+    "tier": "professional"
+  },
+  {
+    "id": "brazil-ca-assisense",
+    "name": "Assisense",
+    "country": "Brazil",
+    "city": "Assis",
+    "stadium": "Estádio Municipal Antônio Viana Silva (Tonicão)",
+    "latitude": -22.659121616622798,
+    "longitude": -50.433443305130744,
+    "capacity": 8525,
+    "tier": "professional"
+  },
+  {
+    "id": "brazil-batatais-fc",
+    "name": "Batatais",
+    "country": "Brazil",
+    "city": "Batatais",
+    "stadium": "Estádio Dr. Osvaldo Scatena",
+    "latitude": -20.896094725693867,
+    "longitude": -47.586093389835185,
+    "capacity": 7500,
+    "tier": "professional"
+  },
+  {
+    "id": "brazil-associacao-atletica-flamengo-sp",
+    "name": "Flamengo-SP",
+    "country": "Brazil",
+    "city": "Guarulhos",
+    "stadium": "Estádio Antônio Soares de Oliveira",
+    "latitude": -23.470364260961095,
+    "longitude": -46.552068043735574,
+    "capacity": 6235,
+    "tier": "professional"
+  },
+  {
+    "id": "brazil-associacao-desportiva-guarulhos",
+    "name": "Guarulhos",
+    "country": "Brazil",
+    "city": "Guarulhos",
+    "stadium": "Estádio Antônio Soares de Oliveira",
+    "latitude": -23.47080711415064,
+    "longitude": -46.5521646032572,
+    "capacity": 6235,
+    "tier": "professional"
+  },
+  {
+    "id": "brazil-independente-de-limeira",
+    "name": "Independente de Limeira",
+    "country": "Brazil",
+    "city": "Limeira",
+    "stadium": "Estádio Comendador Agostinho Prada (Pradão)",
+    "latitude": -22.574173643059577,
+    "longitude": -47.412362343761075,
+    "capacity": 9483,
+    "tier": "professional"
+  },
+  {
+    "id": "brazil-academia-desportiva-manthiqueira",
+    "name": "Manthiqueira",
+    "country": "Brazil",
+    "city": "Guaratinguetá",
+    "stadium": "Estádio Municipal Professor Dario Rodrigues Leite",
+    "latitude": -22.808336801397445,
+    "longitude": -45.18570543026163,
+    "capacity": 15769,
+    "tier": "professional"
+  },
+  {
+    "id": "brazil-maua-fc",
+    "name": "Mauá",
+    "country": "Brazil",
+    "city": "Mauá",
+    "stadium": "Estádio Municipal Pedro Benedetti",
+    "latitude": -23.668760825670173,
+    "longitude": -46.47080145907288,
+    "capacity": 8567,
+    "tier": "professional"
+  },
+  {
+    "id": "brazil-olimpia-sp",
+    "name": "Olímpia-SP",
+    "country": "Brazil",
+    "city": "Olímpia",
+    "stadium": "Estádio Maria Tereza Breda",
+    "latitude": -20.734588405821345,
+    "longitude": -48.91424163031778,
+    "capacity": 15022,
+    "tier": "professional"
+  },
+  {
+    "id": "brazil-associacao-esportiva-santacruzense",
+    "name": "Santacruzense",
+    "country": "Brazil",
+    "city": "Santa Cruz do Rio Pardo",
+    "stadium": "Estádio Municipal Leônidas Camarinha",
+    "latitude": -22.89521600748971,
+    "longitude": -49.62517707443795,
+    "capacity": 7500,
+    "tier": "professional"
+  },
+  {
+    "id": "brazil-sao-carlos-fc",
+    "name": "São Carlos",
+    "country": "Brazil",
+    "city": "São Carlos",
+    "stadium": "Estádio Municipal Prof. Luís Augusto de Oliveira (Luisão)",
+    "latitude": -22.032026203122765,
+    "longitude": -47.90145650938973,
+    "capacity": 10000,
+    "tier": "professional"
+  },
+  {
+    "id": "brazil-tupa-fc",
+    "name": "Tupã",
+    "country": "Brazil",
+    "city": "Tupã",
+    "stadium": "Estádio Municipal Alonso Carvalho Braga",
+    "latitude": -21.933688591826154,
+    "longitude": -50.519678474464676,
+    "capacity": 10000,
+    "tier": "professional"
+  },
+  {
+    "id": "brazil-uniao-mogi",
+    "name": "União Mogi",
+    "country": "Brazil",
+    "city": "Mogi das Cruzes",
+    "stadium": "Estádio Municipal Francisco Ribeiro Nogueira",
+    "latitude": -23.51760270213837,
+    "longitude": -46.20611060325586,
+    "capacity": 14383,
     "tier": "professional"
   }
 ]
