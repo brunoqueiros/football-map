@@ -4,6 +4,7 @@ import teams from "@/data/teams.json";
 import { flag } from "country-emoji";
 import { Stadium } from "./Map";
 import Image from "next/image";
+import { useFuzzySearchList } from '@nozbe/microfuzz/react';
 
 interface SearchBarProps {
   onSelectTeam: (team: Stadium) => void;
@@ -13,13 +14,13 @@ export default function SearchBar({ onSelectTeam }: SearchBarProps) {
   const [searchQuery, setSearchQuery] = useState("");
   const [isFocused, setIsFocused] = useState(false);
 
-  const filteredTeams = searchQuery.trim()
-    ? (teams as Stadium[]).filter(team =>
-      team.name.toLowerCase().includes(searchQuery.toLowerCase()) ||
-      team.country.toLowerCase().includes(searchQuery.toLowerCase()) ||
-      team.city?.toLowerCase().includes(searchQuery.toLowerCase())
-    ).slice(0, 8)
-    : [];
+  const filteredTeams = useFuzzySearchList({
+    list: teams,
+    queryText: searchQuery,
+    strategy: 'smart',
+    getText: (item) => [item.name, item.city, item.country],
+    mapResultItem: ({ item, matches: [] }) => (item)
+  }).slice(0, 10);
 
   const showResults = isFocused && filteredTeams.length > 0;
 
