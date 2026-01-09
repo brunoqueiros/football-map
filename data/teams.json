@@ -3242,5 +3242,60 @@
     "longitude": -36.57174357500689,
     "capacity": 6000,
     "tier": "professional"
+  },
+  {
+    "id": "brazil-santa-cruz-sc-ac",
+    "name": "Santa Cruz-AC",
+    "country": "Brazil",
+    "city": "Rio Branco",
+    "stadium": "Arena da Floresta",
+    "latitude": -10.00281942029402,
+    "longitude": -67.80456823772198,
+    "capacity": 13586,
+    "tier": "professional"
+  },
+  {
+    "id": "brazil-sao-francisco-fc-ac",
+    "name": "São Francisco-AC",
+    "country": "Brazil",
+    "city": "Rio Branco",
+    "stadium": "Estádio Antônio Aquino Lopes (Tonicão)",
+    "latitude": -9.999528341309883,
+    "longitude": -67.8495074731568,
+    "capacity": 1000,
+    "tier": "professional"
+  },
+  {
+    "id": "brazil-ad-vasco-da-gama-ac",
+    "name": "Vasco-AC",
+    "country": "Brazil",
+    "city": "Rio Branco",
+    "stadium": "Arena da Floresta",
+    "latitude": -10.001762843672099,
+    "longitude": -67.80434293216257,
+    "capacity": 13586,
+    "tier": "professional"
+  },
+  {
+    "id": "brazil-rio-branco-fc-ac",
+    "name": "Rio Branco-AC",
+    "country": "Brazil",
+    "city": "Rio Branco",
+    "stadium": "Estádio José de Melo",
+    "latitude": -9.970081287109034,
+    "longitude": -67.80770974432086,
+    "capacity": 6000,
+    "tier": "professional"
+  },
+  {
+    "id": "brazil-adesg-ac",
+    "name": "Adesg",
+    "country": "Brazil",
+    "city": "Senador Guiomard",
+    "stadium": "Estádio Nabor Júnior (Naborzão)",
+    "latitude": -10.148935514567073,
+    "longitude": -67.74092867315501,
+    "capacity": 2000,
+    "tier": "professional"
   }
 ]
