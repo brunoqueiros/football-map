@@ -3770,5 +3770,60 @@
     "longitude": -56.10741875927301,
     "capacity": 2600,
     "tier": "professional"
+  },
+  {
+    "id": "brazil-itabirito-fc-mg",
+    "name": "Itabirito",
+    "country": "Brazil",
+    "city": "Itabirito",
+    "stadium": "Campo do União",
+    "latitude": -20.250488407499454,
+    "longitude": -43.803202746288726,
+    "capacity": 2600,
+    "tier": "professional"
+  },
+  {
+    "id": "brazil-democrata-gv-mg",
+    "name": "Democrata-GV",
+    "country": "Brazil",
+    "city": "Governador Valadares",
+    "stadium": "Estádio José Mammoud Abbas (Mamudão)",
+    "latitude": -18.84925332688407,
+    "longitude": -41.941067989886726,
+    "capacity": 8675,
+    "tier": "professional"
+  },
+  {
+    "id": "brazil-urt-mg",
+    "name": "URT",
+    "country": "Brazil",
+    "city": "Patos de Minas",
+    "stadium": "Arena DB",
+    "latitude": -18.596027558282042,
+    "longitude": -46.521801476400185,
+    "capacity": 6000,
+    "tier": "professional"
+  },
+  {
+    "id": "brazil-north-ec-mg",
+    "name": "North",
+    "country": "Brazil",
+    "city": "Montes Claros",
+    "stadium": "Estádio Juvêncio Augusto Soares (João Botelho)",
+    "latitude": -16.739100325663614,
+    "longitude": -43.86061176109971,
+    "capacity": 4600,
+    "tier": "professional"
+  },
+  {
+    "id": "brazil-betim-futebol-mg",
+    "name": "Betim",
+    "country": "Brazil",
+    "city": "Betim",
+    "stadium": "Estádio Jurandir Elias",
+    "latitude": -19.94871836042598,
+    "longitude": -44.23677208985966,
+    "capacity": 2000,
+    "tier": "professional"
   }
 ]
