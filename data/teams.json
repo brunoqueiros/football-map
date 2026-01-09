@@ -3957,5 +3957,93 @@
     "longitude": -46.60415439011064,
     "capacity": 12000,
     "tier": "professional"
+  },
+  {
+    "id": "brazil-bragantino-pa",
+    "name": "Bragantino-PA",
+    "country": "Brazil",
+    "city": "Bragança",
+    "stadium": "Estádio Olímpico São Benedito - Diogão",
+    "latitude": -1.0617161510777742,
+    "longitude": -46.79847581713698,
+    "capacity": 7500,
+    "tier": "professional"
+  },
+  {
+    "id": "brazil-santa-rosa-pa",
+    "name": "Santa Rosa",
+    "country": "Brazil",
+    "city": "Icoaraci",
+    "stadium": "Estádio Abelardo Conduru (Pinheirense)",
+    "latitude": -1.3013295337213329,
+    "longitude": -48.479615203642716,
+    "capacity": 3500,
+    "tier": "professional"
+  },
+  {
+    "id": "brazil-amazonia-independente-pa",
+    "name": "Amazônia Independente",
+    "country": "Brazil",
+    "city": "Santarém",
+    "stadium": "Estádio Luiz Omar Pinheiro",
+    "latitude": -1.2730872487794023,
+    "longitude": -48.43906969015012,
+    "capacity": 5000,
+    "tier": "professional"
+  },
+  {
+    "id": "brazil-sao-francisco-pa",
+    "name": "São Francisco-PA",
+    "country": "Brazil",
+    "city": "Santarém",
+    "stadium": "Arena Colosso do Tapajós",
+    "latitude": -2.443696573195529,
+    "longitude": -54.71443048459255,
+    "capacity": 8500,
+    "tier": "professional"
+  },
+  {
+    "id": "brazil-capitao-poco-pa",
+    "name": "Capitão Poço",
+    "country": "Brazil",
+    "city": "Capitão Poço",
+    "stadium": "Estádio de Futebol Municipal",
+    "latitude": -1.7526842808522098,
+    "longitude": -47.065335800135564,
+    "capacity": 3500,
+    "tier": "professional"
+  },
+  {
+    "id": "brazil-sao-raimundo-pa",
+    "name": "São Raimundo-PA",
+    "country": "Brazil",
+    "city": "Santarém",
+    "stadium": "Estádio São Raimundo (Panterão)",
+    "latitude": -2.430849444092224,
+    "longitude": -54.71942723247146,
+    "capacity": 3500,
+    "tier": "professional"
+  },
+  {
+    "id": "brazil-cameta-pa",
+    "name": "Cametá",
+    "country": "Brazil",
+    "city": "Cametá",
+    "stadium": "Estádio Municipal de Cametá (Parque do Bacurau)",
+    "latitude": -2.244288971064434,
+    "longitude": -49.49959906130852,
+    "capacity": 8000,
+    "tier": "professional"
+  },
+  {
+    "id": "brazil-castanhal-pa",
+    "name": "Castanhal",
+    "country": "Brazil",
+    "city": "Castanhal",
+    "stadium": "Complexo Esportivo do Japiim",
+    "latitude": -1.270522779544869,
+    "longitude": -47.92521120364311,
+    "capacity": 5000,
+    "tier": "professional"
   }
 ]

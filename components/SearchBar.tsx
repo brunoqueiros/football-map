@@ -89,6 +89,7 @@ export default function SearchBar({ onSelectTeam }: SearchBarProps) {
                       width={25}
                       height={25}
                       alt={team.name}
+                      className="object-contain"
                     />
                     <div>
                       <span className="text-sm font-medium text-neutral-200 truncate">{team.name}</span>
