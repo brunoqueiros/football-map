@@ -754,7 +754,7 @@
     "stadium": "Rei Pelé",
     "latitude": -9.670692415740389,
     "longitude": -35.75940508815372,
-    "capacity": 19105,
+    "capacity": 20800,
     "tier": "professional"
   },
   {
@@ -1346,9 +1346,9 @@
     "country": "Brazil",
     "city": "Maceió",
     "stadium": "Rei Pelé",
-    "latitude": -9.670766450350191,
-    "longitude": -35.75940508815372,
-    "capacity": 17126,
+    "latitude": -9.67152794820353,
+    "longitude": -35.75943727316023,
+    "capacity": 20800,
     "tier": "professional"
   },
   {
@@ -3197,6 +3197,50 @@
     "latitude": -3.1355500285929403,
     "longitude": -58.443658073214195,
     "capacity": 5000,
+    "tier": "professional"
+  },
+  {
+    "id": "brazil-aa-coruripe-al",
+    "name": "Coruripe",
+    "country": "Brazil",
+    "city": "Coruripe",
+    "stadium": "Estádio Gerson Amaral",
+    "latitude": -10.118187012480076,
+    "longitude": -36.181588657810785,
+    "capacity": 7000,
+    "tier": "professional"
+  },
+  {
+    "id": "brazil-ec-cruzeiro-al",
+    "name": "Cruzeiro-AL",
+    "country": "Brazil",
+    "city": "Arapiraca",
+    "stadium": "Estádio Municipal Coaracy da Mata Fonseca",
+    "latitude": -9.746676110877052,
+    "longitude": -36.66663540199552,
+    "capacity": 17000,
+    "tier": "professional"
+  },
+  {
+    "id": "brazil-murici-fc",
+    "name": "Murici",
+    "country": "Brazil",
+    "city": "Murici",
+    "stadium": "Estádio José Gomes da Costa",
+    "latitude": -9.314888368826772,
+    "longitude": -35.94411268665499,
+    "capacity": 3829,
+    "tier": "professional"
+  },
+  {
+    "id": "brazil-sc-penedense",
+    "name": "Penedense",
+    "country": "Brazil",
+    "city": "Penedo",
+    "stadium": "Estádio Alfredo Leahy",
+    "latitude": -10.284883035166303,
+    "longitude": -36.57174357500689,
+    "capacity": 6000,
     "tier": "professional"
   }
 ]
