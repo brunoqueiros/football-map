@@ -3154,5 +3154,49 @@
     "longitude": -43.330693030267334,
     "capacity": 6300,
     "tier": "professional"
+  },
+  {
+    "id": "brazil-sao-raimundo-am",
+    "name": "São Raimundo-AM",
+    "country": "Brazil",
+    "city": "Manaus",
+    "stadium": "Estádio Ismael Benigno",
+    "latitude": -3.121468238500559,
+    "longitude": -60.03730347321438,
+    "capacity": 11000,
+    "tier": "professional"
+  },
+  {
+    "id": "brazil-princesa-do-solimoes-am",
+    "name": "Princesa do Solimões",
+    "country": "Brazil",
+    "city": "Manacapuru",
+    "stadium": "Estádio Olímpico Municipal Gilberto Mestrinho",
+    "latitude": -3.2832589058568775,
+    "longitude": -60.63165227321308,
+    "capacity": 15000,
+    "tier": "professional"
+  },
+  {
+    "id": "brazil-parintins-fc",
+    "name": "Parintins",
+    "country": "Brazil",
+    "city": "Parintins",
+    "stadium": "Estádio Francisco Garcia",
+    "latitude": -2.700064709551263,
+    "longitude": -59.69952492903598,
+    "capacity": 4000,
+    "tier": "professional"
+  },
+  {
+    "id": "brazil-itacoatiara-fc",
+    "name": "Itacoatiara",
+    "country": "Brazil",
+    "city": "Itacoatiara",
+    "stadium": "Estádio Floro de Mendonça",
+    "latitude": -3.1355500285929403,
+    "longitude": -58.443658073214195,
+    "capacity": 5000,
+    "tier": "professional"
   }
 ]
