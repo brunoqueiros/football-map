@@ -5233,5 +5233,203 @@
     "longitude": -0.8963966587257307,
     "capacity": 33608,
     "tier": "professional"
+  },
+  {
+    "id": "germany-augsburg",
+    "name": "FC Augsburg",
+    "country": "Germany",
+    "city": "Augsburg",
+    "stadium": "WWK Arena",
+    "latitude": 48.3236,
+    "longitude": 10.885,
+    "capacity": 30660,
+    "tier": "professional"
+  },
+  {
+    "id": "germany-union-berlin",
+    "name": "Union Berlin",
+    "country": "Germany",
+    "city": "Berlin",
+    "stadium": "Stadion An der Alten Försterei",
+    "latitude": 52.457344,
+    "longitude": 13.568361,
+    "capacity": 22012,
+    "tier": "professional"
+  },
+  {
+    "id": "germany-werder-bremen",
+    "name": "Werder Bremen",
+    "country": "Germany",
+    "city": "Bremen",
+    "stadium": "Weserstadion",
+    "latitude": 53.066667,
+    "longitude": 8.8375,
+    "capacity": 42100,
+    "tier": "professional"
+  },
+  {
+    "id": "germany-borussia-dortmund",
+    "name": "Borussia Dortmund",
+    "country": "Germany",
+    "city": "Dortmund",
+    "stadium": "Signal Iduna Park",
+    "latitude": 51.4925,
+    "longitude": 7.4517,
+    "capacity": 81365,
+    "tier": "professional"
+  },
+  {
+    "id": "germany-eintracht-frankfurt",
+    "name": "Eintracht Frankfurt",
+    "country": "Germany",
+    "city": "Frankfurt",
+    "stadium": "Deutsche Bank Park",
+    "latitude": 50.0686,
+    "longitude": 8.6453,
+    "capacity": 58000,
+    "tier": "professional"
+  },
+  {
+    "id": "germany-freiburg",
+    "name": "SC Freiburg",
+    "country": "Germany",
+    "city": "Freiburg",
+    "stadium": "Europa-Park Stadion",
+    "latitude": 47.9889,
+    "longitude": 7.8933,
+    "capacity": 34700,
+    "tier": "professional"
+  },
+  {
+    "id": "germany-hamburger-sv",
+    "name": "Hamburger SV",
+    "country": "Germany",
+    "city": "Hamburg",
+    "stadium": "Volksparkstadion",
+    "latitude": 53.5872,
+    "longitude": 9.8998,
+    "capacity": 57000,
+    "tier": "professional"
+  },
+  {
+    "id": "germany-heidenheim",
+    "name": "1. FC Heidenheim",
+    "country": "Germany",
+    "city": "Heidenheim",
+    "stadium": "Voith-Arena",
+    "latitude": 48.668597,
+    "longitude": 10.139296,
+    "capacity": 15000,
+    "tier": "professional"
+  },
+  {
+    "id": "germany-hoffenheim",
+    "name": "TSG Hoffenheim",
+    "country": "Germany",
+    "city": "Sinsheim",
+    "stadium": "PreZero Arena",
+    "latitude": 49.238889,
+    "longitude": 8.8869,
+    "capacity": 30150,
+    "tier": "professional"
+  },
+  {
+    "id": "germany-koln",
+    "name": "1. FC Köln",
+    "country": "Germany",
+    "city": "Cologne",
+    "stadium": "RheinEnergieStadion",
+    "latitude": 50.9336,
+    "longitude": 6.8753,
+    "capacity": 49698,
+    "tier": "professional"
+  },
+  {
+    "id": "germany-rb-leipzig",
+    "name": "RB Leipzig",
+    "country": "Germany",
+    "city": "Leipzig",
+    "stadium": "Red Bull Arena",
+    "latitude": 51.3458,
+    "longitude": 12.3481,
+    "capacity": 47069,
+    "tier": "professional"
+  },
+  {
+    "id": "germany-bayer-leverkusen",
+    "name": "Bayer Leverkusen",
+    "country": "Germany",
+    "city": "Leverkusen",
+    "stadium": "BayArena",
+    "latitude": 51.0383,
+    "longitude": 7.0023,
+    "capacity": 30210,
+    "tier": "professional"
+  },
+  {
+    "id": "germany-mainz",
+    "name": "Mainz 05",
+    "country": "Germany",
+    "city": "Mainz",
+    "stadium": "Mewa Arena",
+    "latitude": 49.984167,
+    "longitude": 8.224444,
+    "capacity": 34034,
+    "tier": "professional"
+  },
+  {
+    "id": "germany-borussia-monchengladbach",
+    "name": "Borussia Mönchengladbach",
+    "country": "Germany",
+    "city": "Mönchengladbach",
+    "stadium": "Borussia-Park",
+    "latitude": 51.1744,
+    "longitude": 6.3856,
+    "capacity": 54057,
+    "tier": "professional"
+  },
+  {
+    "id": "germany-bayern-munich",
+    "name": "Bayern Munich",
+    "country": "Germany",
+    "city": "Munich",
+    "stadium": "Allianz Arena",
+    "latitude": 48.218775,
+    "longitude": 11.624753,
+    "capacity": 75024,
+    "tier": "professional"
+  },
+  {
+    "id": "germany-st-pauli",
+    "name": "FC St. Pauli",
+    "country": "Germany",
+    "city": "Hamburg",
+    "stadium": "Millerntor-Stadion",
+    "latitude": 53.554631,
+    "longitude": 9.967583,
+    "capacity": 29546,
+    "tier": "professional"
+  },
+  {
+    "id": "germany-stuttgart",
+    "name": "VfB Stuttgart",
+    "country": "Germany",
+    "city": "Stuttgart",
+    "stadium": "MHPArena",
+    "latitude": 48.792222,
+    "longitude": 9.232222,
+    "capacity": 60449,
+    "tier": "professional"
+  },
+  {
+    "id": "germany-wolfsburg",
+    "name": "VfL Wolfsburg",
+    "country": "Germany",
+    "city": "Wolfsburg",
+    "stadium": "Volkswagen Arena",
+    "latitude": 52.432778,
+    "longitude": 10.803889,
+    "capacity": 28917,
+    "tier": "professional"
   }
 ]
