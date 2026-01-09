@@ -3695,14 +3695,36 @@
     "tier": "professional"
   },
   {
-    "id": "brazil-anapolina-go",
-    "name": "Anapolina",
+    "id": "brazil-tuntum-ec-ma",
+    "name": "Tuntum",
     "country": "Brazil",
-    "city": "Anápolis",
-    "stadium": "Estádio Jonas Duarte",
-    "latitude": -16.34617568114767,
-    "longitude": -48.955533773077654,
-    "capacity": 21170,
+    "city": "Tuntum",
+    "stadium": "Estádio Municipal Dr. Rafael Seabra",
+    "latitude": -5.260575972750614,
+    "longitude": -44.63984976128356,
+    "capacity": 7000,
+    "tier": "professional"
+  },
+  {
+    "id": "brazil-luminense-ac-ma",
+    "name": "Luminense",
+    "country": "Brazil",
+    "city": "Paço do Lumiar",
+    "stadium": "Arena Charles Müller",
+    "latitude": -2.5308006874862867,
+    "longitude": -44.15183690602695,
+    "capacity": 500,
+    "tier": "professional"
+  },
+  {
+    "id": "brazil-itz-sport-ma",
+    "name": "ITZ Sport",
+    "country": "Brazil",
+    "city": "Paço do Lumiar",
+    "stadium": "Estádio Frei Epifânio D'Abadia",
+    "latitude": -5.525325304588376,
+    "longitude": -47.48857207477393,
+    "capacity": 10000,
     "tier": "professional"
   }
 ]
