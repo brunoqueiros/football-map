@@ -5431,5 +5431,203 @@
     "longitude": 10.803889,
     "capacity": 28917,
     "tier": "professional"
+  },
+  {
+    "id": "germany-hertha-bsc",
+    "name": "Hertha BSC",
+    "country": "Germany",
+    "city": "Berlin",
+    "stadium": "Olympiastadion",
+    "latitude": 52.514722,
+    "longitude": 13.239444,
+    "capacity": 74475,
+    "tier": "professional"
+  },
+  {
+    "id": "germany-arminia-bielefeld",
+    "name": "Arminia Bielefeld",
+    "country": "Germany",
+    "city": "Bielefeld",
+    "stadium": "Schüco-Arena",
+    "latitude": 52.031389,
+    "longitude": 8.516667,
+    "capacity": 26515,
+    "tier": "professional"
+  },
+  {
+    "id": "germany-bochum",
+    "name": "VfL Bochum",
+    "country": "Germany",
+    "city": "Bochum",
+    "stadium": "Vonovia Ruhrstadion",
+    "latitude": 51.490278,
+    "longitude": 7.234167,
+    "capacity": 27599,
+    "tier": "professional"
+  },
+  {
+    "id": "germany-eintracht-braunschweig",
+    "name": "Eintracht Braunschweig",
+    "country": "Germany",
+    "city": "Braunschweig",
+    "stadium": "Eintracht-Stadion",
+    "latitude": 52.290278,
+    "longitude": 10.521111,
+    "capacity": 24406,
+    "tier": "professional"
+  },
+  {
+    "id": "germany-darmstadt",
+    "name": "Darmstadt 98",
+    "country": "Germany",
+    "city": "Darmstadt",
+    "stadium": "Merck-Stadion am Böllenfalltor",
+    "latitude": 49.857778,
+    "longitude": 8.674722,
+    "capacity": 17810,
+    "tier": "professional"
+  },
+  {
+    "id": "germany-dynamo-dresden",
+    "name": "Dynamo Dresden",
+    "country": "Germany",
+    "city": "Dresden",
+    "stadium": "Rudolf-Harbig-Stadion",
+    "latitude": 51.040556,
+    "longitude": 13.7475,
+    "capacity": 32066,
+    "tier": "professional"
+  },
+  {
+    "id": "germany-fortuna-dusseldorf",
+    "name": "Fortuna Düsseldorf",
+    "country": "Germany",
+    "city": "Düsseldorf",
+    "stadium": "Merkur Spiel-Arena",
+    "latitude": 51.261667,
+    "longitude": 6.732778,
+    "capacity": 54600,
+    "tier": "professional"
+  },
+  {
+    "id": "germany-elversberg",
+    "name": "SV Elversberg",
+    "country": "Germany",
+    "city": "Spiesen-Elversberg",
+    "stadium": "Ursapharm-Arena an der Kaiserlinde",
+    "latitude": 49.314722,
+    "longitude": 7.125833,
+    "capacity": 9970,
+    "tier": "professional"
+  },
+  {
+    "id": "germany-greuther-furth",
+    "name": "Greuther Fürth",
+    "country": "Germany",
+    "city": "Fürth",
+    "stadium": "Sportpark Ronhof Thomas Sommer",
+    "latitude": 49.486944,
+    "longitude": 10.989722,
+    "capacity": 16626,
+    "tier": "professional"
+  },
+  {
+    "id": "germany-hannover-96",
+    "name": "Hannover 96",
+    "country": "Germany",
+    "city": "Hannover",
+    "stadium": "Heinz von Heiden Arena",
+    "latitude": 52.36,
+    "longitude": 9.731111,
+    "capacity": 49000,
+    "tier": "professional"
+  },
+  {
+    "id": "germany-kaiserslautern",
+    "name": "1. FC Kaiserslautern",
+    "country": "Germany",
+    "city": "Kaiserslautern",
+    "stadium": "Fritz-Walter-Stadion",
+    "latitude": 49.434722,
+    "longitude": 7.777778,
+    "capacity": 49780,
+    "tier": "professional"
+  },
+  {
+    "id": "germany-karlsruher-sc",
+    "name": "Karlsruher SC",
+    "country": "Germany",
+    "city": "Karlsruhe",
+    "stadium": "Wildparkstadion",
+    "latitude": 49.020556,
+    "longitude": 8.4125,
+    "capacity": 29699,
+    "tier": "professional"
+  },
+  {
+    "id": "germany-holstein-kiel",
+    "name": "Holstein Kiel",
+    "country": "Germany",
+    "city": "Kiel",
+    "stadium": "Holstein-Stadion",
+    "latitude": 54.349167,
+    "longitude": 10.116111,
+    "capacity": 15034,
+    "tier": "professional"
+  },
+  {
+    "id": "germany-magdeburg",
+    "name": "1. FC Magdeburg",
+    "country": "Germany",
+    "city": "Magdeburg",
+    "stadium": "Avnet Arena",
+    "latitude": 52.125833,
+    "longitude": 11.670278,
+    "capacity": 27250,
+    "tier": "professional"
+  },
+  {
+    "id": "germany-preussen-munster",
+    "name": "Preußen Münster",
+    "country": "Germany",
+    "city": "Münster",
+    "stadium": "Preußenstadion",
+    "latitude": 51.937222,
+    "longitude": 7.598611,
+    "capacity": 15050,
+    "tier": "professional"
+  },
+  {
+    "id": "germany-nurnberg",
+    "name": "1. FC Nürnberg",
+    "country": "Germany",
+    "city": "Nuremberg",
+    "stadium": "Max-Morlock-Stadion",
+    "latitude": 49.426389,
+    "longitude": 11.125833,
+    "capacity": 50000,
+    "tier": "professional"
+  },
+  {
+    "id": "germany-paderborn",
+    "name": "SC Paderborn",
+    "country": "Germany",
+    "city": "Paderborn",
+    "stadium": "Home Deluxe Arena",
+    "latitude": 51.731111,
+    "longitude": 8.708333,
+    "capacity": 15000,
+    "tier": "professional"
+  },
+  {
+    "id": "germany-schalke-04",
+    "name": "Schalke 04",
+    "country": "Germany",
+    "city": "Gelsenkirchen",
+    "stadium": "Veltins-Arena",
+    "latitude": 51.554444,
+    "longitude": 7.0675,
+    "capacity": 62271,
+    "tier": "professional"
   }
 ]
