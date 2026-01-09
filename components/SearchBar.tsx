@@ -1,7 +1,6 @@
 'use client'
 import { useState } from "react";
 import teams from "@/data/teams.json";
-import { flag } from "country-emoji";
 import { Stadium } from "./Map";
 import Image from "next/image";
 import { useFuzzySearchList } from '@nozbe/microfuzz/react';
@@ -9,6 +8,14 @@ import { useFuzzySearchList } from '@nozbe/microfuzz/react';
 interface SearchBarProps {
   onSelectTeam: (team: Stadium) => void;
 }
+
+const COUNTRIES: Record<string, string> = {
+  'brazil': '🇧🇷',
+  'england': '🏴󠁧󠁢󠁥󠁮󠁧󠁿',
+  'netherlands': '🇳🇱',
+};
+
+export const flag = (country: string) => COUNTRIES[country.toLocaleLowerCase()];
 
 export default function SearchBar({ onSelectTeam }: SearchBarProps) {
   const [searchQuery, setSearchQuery] = useState("");

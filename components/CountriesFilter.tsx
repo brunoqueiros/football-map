@@ -1,7 +1,7 @@
 'use client'
 import teams from "@/data/teams.json";
-import { flag } from "country-emoji";
 import { useState } from "react";
+import { flag } from "./SearchBar";
 
 export default function CountriesFilter() {
   const [isDropdownOpen, setIsDropdownOpen] = useState(false);
