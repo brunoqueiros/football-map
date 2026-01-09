@@ -3396,5 +3396,60 @@
     "longitude": -51.08114816715151,
     "capacity": 13680,
     "tier": "professional"
+  },
+  {
+    "id": "brazil-atletico-ba",
+    "name": "Atlético-BA",
+    "country": "Brazil",
+    "city": "Alagoinhas",
+    "stadium": "Estádio Municipal Antônio de Figueiredo Carneiro - Carneirão",
+    "latitude": -12.140177165763076,
+    "longitude": -38.41504777313266,
+    "capacity": 16000,
+    "tier": "professional"
+  },
+  {
+    "id": "brazil-jequie-ba",
+    "name": "Jequié",
+    "country": "Brazil",
+    "city": "Jequié",
+    "stadium": "Estádio Municipal Waldomiro Borges (Waldomirão)",
+    "latitude": -13.875666687275656,
+    "longitude": -40.084474059619986,
+    "capacity": 3000,
+    "tier": "professional"
+  },
+  {
+    "id": "brazil-bahia-de-feira-ba",
+    "name": "Bahia de Feira",
+    "country": "Brazil",
+    "city": "Feira de Santana",
+    "stadium": "Arena Cajueiro",
+    "latitude": -12.275892101075561,
+    "longitude": -38.93635283080374,
+    "capacity": 7000,
+    "tier": "professional"
+  },
+  {
+    "id": "brazil-barcelona-de-ilheus-ba",
+    "name": "Barcelona de Ilhéus",
+    "country": "Brazil",
+    "city": "Ilhéus",
+    "stadium": "Estadio Mario Pessoa",
+    "latitude": -14.790693312366882,
+    "longitude": -39.03401381728014,
+    "capacity": 10000,
+    "tier": "professional"
+  },
+  {
+    "id": "brazil-galicia-ec-ba",
+    "name": "Galícia",
+    "country": "Brazil",
+    "city": "Ilhéus",
+    "stadium": "Arena Parque Santiago",
+    "latitude": -12.983796614714255,
+    "longitude": -38.47306014428653,
+    "capacity": 8000,
+    "tier": "professional"
   }
 ]
