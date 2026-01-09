@@ -3638,5 +3638,27 @@
     "longitude": -52.01776674590435,
     "capacity": 5000,
     "tier": "professional"
+  },
+  {
+    "id": "brazil-quixada-fc-ce",
+    "name": "Quixadá",
+    "country": "Brazil",
+    "city": "Quixadá",
+    "stadium": "Estádio Abilhão",
+    "latitude": -4.983289941091218,
+    "longitude": -39.018643057856906,
+    "capacity": 5000,
+    "tier": "professional"
+  },
+  {
+    "id": "brazil-maranguape-fc-ce",
+    "name": "Maranguape",
+    "country": "Brazil",
+    "city": "Maranguape",
+    "stadium": "Estádio Moraisão",
+    "latitude": -3.885105125023949,
+    "longitude": -38.67713698670059,
+    "capacity": 5000,
+    "tier": "professional"
   }
 ]
