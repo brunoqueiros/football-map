@@ -1562,7 +1562,7 @@
   },
   {
     "id": "brazil-joinville-ec",
-    "name": "Joinville EC",
+    "name": "Joinville",
     "country": "Brazil",
     "city": "Joinville",
     "stadium": "Arena Joinville",
@@ -3593,6 +3593,50 @@
     "latitude": -20.60868440482987,
     "longitude": -41.20272898835607,
     "capacity": 2000,
+    "tier": "professional"
+  },
+  {
+    "id": "brazil-brusque-fc-sc",
+    "name": "Brusque",
+    "country": "Brazil",
+    "city": "Brusque",
+    "stadium": "Estádio Augusto Bauer",
+    "latitude": -27.101281264785243,
+    "longitude": -48.91608583241578,
+    "capacity": 6000,
+    "tier": "professional"
+  },
+  {
+    "id": "brazil-camboriu-fc-sc",
+    "name": "Camboriú",
+    "country": "Brazil",
+    "city": "Camboriú",
+    "stadium": "Estádio Municipal Roberto Santos Garcia",
+    "latitude": -27.021742466772665,
+    "longitude": -48.648370030564394,
+    "capacity": 3500,
+    "tier": "professional"
+  },
+  {
+    "id": "brazil-carlos-renaux-sc",
+    "name": "Carlos Renaux",
+    "country": "Brazil",
+    "city": "Brusque",
+    "stadium": "Estádio Augusto Bauer",
+    "latitude": -27.101271713947078,
+    "longitude": -48.915967815217996,
+    "capacity": 5000,
+    "tier": "professional"
+  },
+  {
+    "id": "brazil-concordia-sc",
+    "name": "Concórdia",
+    "country": "Brazil",
+    "city": "Concórdia",
+    "stadium": "Estádio Domingos Machado De Lima",
+    "latitude": -27.227601455925814,
+    "longitude": -52.01776674590435,
+    "capacity": 5000,
     "tier": "professional"
   }
 ]
