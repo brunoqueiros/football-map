@@ -3297,5 +3297,49 @@
     "longitude": -67.74092867315501,
     "capacity": 2000,
     "tier": "professional"
+  },
+  {
+    "id": "brazil-desportivo-alianca-al",
+    "name": "Desportivo Aliança",
+    "country": "Brazil",
+    "city": "Barra de Santo Antônio",
+    "stadium": "Estádio O Tadeuzão",
+    "latitude": -7.0827064944956755,
+    "longitude": -35.23363661736588,
+    "capacity": 300,
+    "tier": "professional"
+  },
+  {
+    "id": "brazil-desportivo-alianca-al",
+    "name": "Dimensão Saúde",
+    "country": "Brazil",
+    "city": "Capela",
+    "stadium": "Estádio Manoel Moreira",
+    "latitude": -18.721908381776604,
+    "longitude": -39.85568180187831,
+    "capacity": 3500,
+    "tier": "professional"
+  },
+  {
+    "id": "brazil-ce-miguelense-al",
+    "name": "Miguelense",
+    "country": "Brazil",
+    "city": "São Miguel dos Campos",
+    "stadium": "Estádio Municipal Manoel Ferreira de Amorim (Ferreirão)",
+    "latitude": -9.79310521283192,
+    "longitude": -36.10059977315884,
+    "capacity": 15000,
+    "tier": "professional"
+  },
+  {
+    "id": "brazil-zumbi-ec-al",
+    "name": "Zumbi",
+    "country": "Brazil",
+    "city": "União dos Palmares",
+    "stadium": "Orlandão",
+    "latitude": -9.15610406399597,
+    "longitude": -36.02381560200156,
+    "capacity": 5000,
+    "tier": "professional"
   }
 ]
