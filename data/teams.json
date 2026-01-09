@@ -4122,5 +4122,49 @@
     "longitude": -37.799212617088806,
     "capacity": 5000,
     "tier": "professional"
+  },
+  {
+    "id": "brazil-foz-do-iguacu-pr",
+    "name": "Foz do Iguaçu",
+    "country": "Brazil",
+    "city": "Foz do Iguaçu",
+    "stadium": "Estádio do ABC",
+    "latitude": -25.53319772051376,
+    "longitude": -54.568587397645544,
+    "capacity": 5000,
+    "tier": "professional"
+  },
+  {
+    "id": "brazil-andraus-pr",
+    "name": "Andraus",
+    "country": "Brazil",
+    "city": "Campo Largo",
+    "stadium": "Estádio Atílio Gionédis",
+    "latitude": -25.45621120776748,
+    "longitude": -49.52736230134828,
+    "capacity": 2000,
+    "tier": "professional"
+  },
+  {
+    "id": "brazil-galo-maringa-pr",
+    "name": "Galo Maringá",
+    "country": "Brazil",
+    "city": "Maringá",
+    "stadium": "Estádio Willie Davids",
+    "latitude": -23.412820887484624,
+    "longitude": -51.93815587997396,
+    "capacity": 16226,
+    "tier": "professional"
+  },
+  {
+    "id": "brazil-fc-cascavel-pr",
+    "name": "FC Cascavel",
+    "country": "Brazil",
+    "city": "Cascavel",
+    "stadium": "Estádio Municipal Arnaldo Busato",
+    "latitude": -24.974899788955245,
+    "longitude": -53.50238633204887,
+    "capacity": 28125,
+    "tier": "professional"
   }
 ]
