@@ -1694,7 +1694,7 @@
   },
   {
     "id": "brazil-mixto-ec",
-    "name": "Mixto EC",
+    "name": "Mixto-MT",
     "country": "Brazil",
     "city": "Cuiabá",
     "stadium": "Estádio Dutrinha",
@@ -3725,6 +3725,50 @@
     "latitude": -5.525325304588376,
     "longitude": -47.48857207477393,
     "capacity": 10000,
+    "tier": "professional"
+  },
+  {
+    "id": "brazil-nova-mutum-ec-mt",
+    "name": "Nova Mutum",
+    "country": "Brazil",
+    "city": "Nova Mutum",
+    "stadium": "Estádio Municipal Valdir Doilho Wons",
+    "latitude": -13.830336419857973,
+    "longitude": -56.09462414581654,
+    "capacity": 1200,
+    "tier": "professional"
+  },
+  {
+    "id": "brazil-sport-sinop-mt",
+    "name": "Sport Sinop",
+    "country": "Brazil",
+    "city": "Sinop",
+    "stadium": "Estádio Massami Uriu (Gigante do Norte)",
+    "latitude": -11.870367494914397,
+    "longitude": -55.49899721701593,
+    "capacity": 13000,
+    "tier": "professional"
+  },
+  {
+    "id": "brazil-chapada-mt",
+    "name": "Chapada",
+    "country": "Brazil",
+    "city": "Chapada dos Guimarães",
+    "stadium": "Estádio Municipal Apolônio Bouret de Mello",
+    "latitude": -15.46539451832343,
+    "longitude": -55.73714168811259,
+    "capacity": 3000,
+    "tier": "professional"
+  },
+  {
+    "id": "brazil-varzea-grande-ec-mt",
+    "name": "Várzea Grande",
+    "country": "Brazil",
+    "city": "Várzea Grande",
+    "stadium": "Estádio Municipal Dito Souza",
+    "latitude": -15.644728677363608,
+    "longitude": -56.10741875927301,
+    "capacity": 2600,
     "tier": "professional"
   }
 ]
