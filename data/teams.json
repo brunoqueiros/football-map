@@ -4199,5 +4199,93 @@
     "longitude": -35.02651977474173,
     "capacity": 5459,
     "tier": "professional"
+  },
+  {
+    "id": "brazil-ivinhema-ms",
+    "name": "Ivinhema",
+    "country": "Brazil",
+    "city": "Ivinhema",
+    "stadium": "Estádio Saraivão",
+    "latitude": -22.31271302246552,
+    "longitude": -53.82747998794697,
+    "capacity": 0,
+    "tier": "professional"
+  },
+  {
+    "id": "brazil-cra-ms",
+    "name": "CRA",
+    "country": "Brazil",
+    "city": "Aquidauana",
+    "stadium": "Estádio Municipal Mário Pinto de Souza",
+    "latitude": -20.473939456770296,
+    "longitude": -55.791742230324644,
+    "capacity": 5000,
+    "tier": "professional"
+  },
+  {
+    "id": "brazil-costa-rica-ms",
+    "name": "Costa Rica",
+    "country": "Brazil",
+    "city": "Costa Rica",
+    "stadium": "Estádio Municipal Laerte Paes Coelho (Laertão)",
+    "latitude": -18.529836047856158,
+    "longitude": -53.14525050153725,
+    "capacity": 0,
+    "tier": "professional"
+  },
+  {
+    "id": "brazil-naviraiense-ms",
+    "name": "Naviraiense",
+    "country": "Brazil",
+    "city": "Naviraí",
+    "stadium": "Estádio Municipal de Naviraí",
+    "latitude": -23.05663838692096,
+    "longitude": -54.19054620751141,
+    "capacity": 0,
+    "tier": "professional"
+  },
+  {
+    "id": "brazil-dourados-ms",
+    "name": "Dourados",
+    "country": "Brazil",
+    "city": "Dourados",
+    "stadium": "Estádio Frédis Saldivar (Douradão)",
+    "latitude": -22.244046223886325,
+    "longitude": -54.78202867630646,
+    "capacity": 0,
+    "tier": "professional"
+  },
+  {
+    "id": "brazil-bataguassu-ms",
+    "name": "Bataguassu",
+    "country": "Brazil",
+    "city": "Bataguassu",
+    "stadium": "Estádio Municipal João Pereira de Souza (Pereirão)",
+    "latitude": -21.71739177247831,
+    "longitude": -52.419161718649185,
+    "capacity": 0,
+    "tier": "professional"
+  },
+  {
+    "id": "brazil-aguia-negra-ms",
+    "name": "Águia Negra",
+    "country": "Brazil",
+    "city": "Rio Brilhante",
+    "stadium": "Estádio Ninho do Águia",
+    "latitude": -21.794009364365266,
+    "longitude": -54.553193332140026,
+    "capacity": 0,
+    "tier": "professional"
+  },
+  {
+    "id": "brazil-corumbaense-ms",
+    "name": "Corumbaense",
+    "country": "Brazil",
+    "city": "Corumbá",
+    "stadium": "Estádio Arthur Marinho",
+    "latitude": -19.002613819936236,
+    "longitude": -57.665442332211704,
+    "capacity": 0,
+    "tier": "professional"
   }
 ]
