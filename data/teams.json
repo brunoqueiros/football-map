@@ -1452,7 +1452,7 @@
   },
   {
     "id": "brazil-goiatuba-ec",
-    "name": "Goiatuba EC",
+    "name": "Goiatuba",
     "country": "Brazil",
     "city": "Goiatuba",
     "stadium": "Divino Garcia Rosa",
@@ -1540,7 +1540,7 @@
   },
   {
     "id": "brazil-inhumas-ec",
-    "name": "Inhumas EC",
+    "name": "Inhumas",
     "country": "Brazil",
     "city": "Inhumas",
     "stadium": "Zico Brandão",
@@ -3659,6 +3659,50 @@
     "latitude": -3.885105125023949,
     "longitude": -38.67713698670059,
     "capacity": 5000,
+    "tier": "professional"
+  },
+  {
+    "id": "brazil-centro-oeste-fc-go",
+    "name": "Centro Oeste",
+    "country": "Brazil",
+    "city": "Senador Canedo",
+    "stadium": "Estádio Jaime Guerra",
+    "latitude": -16.402454748336982,
+    "longitude": -49.21822727307687,
+    "capacity": 0,
+    "tier": "professional"
+  },
+  {
+    "id": "brazil-jataiense-go",
+    "name": "Jataiense",
+    "country": "Brazil",
+    "city": "Jataí",
+    "stadium": "Estádio Municipal Jerônimo Ferreira Fraga",
+    "latitude": -17.862391903303863,
+    "longitude": -51.728586759563704,
+    "capacity": 17000,
+    "tier": "professional"
+  },
+  {
+    "id": "brazil-anapolina-go",
+    "name": "Anapolina",
+    "country": "Brazil",
+    "city": "Anápolis",
+    "stadium": "Estádio Jonas Duarte",
+    "latitude": -16.34617568114767,
+    "longitude": -48.955533773077654,
+    "capacity": 21170,
+    "tier": "professional"
+  },
+  {
+    "id": "brazil-anapolina-go",
+    "name": "Anapolina",
+    "country": "Brazil",
+    "city": "Anápolis",
+    "stadium": "Estádio Jonas Duarte",
+    "latitude": -16.34617568114767,
+    "longitude": -48.955533773077654,
+    "capacity": 21170,
     "tier": "professional"
   }
 ]
