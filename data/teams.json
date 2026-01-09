@@ -1786,9 +1786,9 @@
     "country": "Brazil",
     "city": "Macapá",
     "stadium": "Zerão",
-    "latitude": 0.03339077665163838,
-    "longitude": -51.063421502066866,
-    "capacity": 3000,
+    "latitude": -0.000038844710004439115,
+    "longitude": -51.080828777975924,
+    "capacity": 13680,
     "tier": "professional"
   },
   {
@@ -2079,13 +2079,13 @@
   },
   {
     "id": "brazil-trem-dc",
-    "name": "Trem DC",
+    "name": "Trem",
     "country": "Brazil",
     "city": "Macapá",
     "stadium": "Zerão",
-    "latitude": 0.0008891190490560591,
-    "longitude": -51.08155586292565,
-    "capacity": 3000,
+    "latitude": 0.001463192308978024,
+    "longitude": -51.080828777975924,
+    "capacity": 13680,
     "tier": "professional"
   },
   {
@@ -3340,6 +3340,61 @@
     "latitude": -9.15610406399597,
     "longitude": -36.02381560200156,
     "capacity": 5000,
+    "tier": "professional"
+  },
+  {
+    "id": "brazil-ec-macapa-al",
+    "name": "Macapá",
+    "country": "Brazil",
+    "city": "Macapá",
+    "stadium": "Estádio Municipal Glicério de Souza Marques",
+    "latitude": 0.03333713248147585,
+    "longitude": -51.0634107732307,
+    "capacity": 4984,
+    "tier": "professional"
+  },
+  {
+    "id": "brazil-ypiranga-al",
+    "name": "Ypiranga-AP",
+    "country": "Brazil",
+    "city": "Macapá",
+    "stadium": "Zerão",
+    "latitude": 0.00030976191313356223,
+    "longitude": -51.08051516581792,
+    "capacity": 13680,
+    "tier": "professional"
+  },
+  {
+    "id": "brazil-santos-fc-al",
+    "name": "Santos-AP",
+    "country": "Brazil",
+    "city": "Macapá",
+    "stadium": "Estádio Augusto Antunes",
+    "latitude": -0.05913299450293599,
+    "longitude": -51.158014659738775,
+    "capacity": 0,
+    "tier": "professional"
+  },
+  {
+    "id": "brazil-sao-jose-al",
+    "name": "São José-AP",
+    "country": "Brazil",
+    "city": "Macapá",
+    "stadium": "Zerão",
+    "latitude": 0.0008891190490560591,
+    "longitude": -51.08074047137733,
+    "capacity": 13680,
+    "tier": "professional"
+  },
+  {
+    "id": "brazil-independente-ec-ap",
+    "name": "Independente-AP",
+    "country": "Brazil",
+    "city": "Macapá",
+    "stadium": "Zerão",
+    "latitude": 0.00043850794334987015,
+    "longitude": -51.08114816715151,
+    "capacity": 13680,
     "tier": "professional"
   }
 ]
