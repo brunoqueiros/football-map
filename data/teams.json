@@ -3517,5 +3517,82 @@
     "longitude": -47.899137313560296,
     "capacity": 63349,
     "tier": "professional"
+  },
+  {
+    "id": "brazil-serra-fc-es",
+    "name": "Serra",
+    "country": "Brazil",
+    "city": "Serra",
+    "stadium": "Estádio Roberto Siqueira Costa (Robertão)",
+    "latitude": -20.12746142978218,
+    "longitude": -40.30426002883834,
+    "capacity": 2000,
+    "tier": "professional"
+  },
+  {
+    "id": "brazil-desportiva-ferroviaria-es",
+    "name": "Desportiva Ferroviária",
+    "country": "Brazil",
+    "city": "Cariacica",
+    "stadium": "Estádio Engenheiro Alencar Araripe",
+    "latitude": -20.333860376097107,
+    "longitude": -40.356105973015794,
+    "capacity": 7700,
+    "tier": "professional"
+  },
+  {
+    "id": "brazil-rio-branco-vn-es",
+    "name": "Rio Branco VN",
+    "country": "Brazil",
+    "city": "Cariacica",
+    "stadium": "Estádio Olímpio Perim",
+    "latitude": -20.33802012153682,
+    "longitude": -41.13080718650748,
+    "capacity": 2100,
+    "tier": "professional"
+  },
+  {
+    "id": "brazil-vilavelhense-es",
+    "name": "Vilavelhense",
+    "country": "Brazil",
+    "city": "Vila Velha",
+    "stadium": "Estádio Manoel Araújo de Oliveira",
+    "latitude": -20.34024128527249,
+    "longitude": -40.32026911719682,
+    "capacity": 1000,
+    "tier": "professional"
+  },
+  {
+    "id": "brazil-porto-vitoria-es",
+    "name": "Porto Vitória",
+    "country": "Brazil",
+    "city": "Vitória",
+    "stadium": "Estádio Estadual Kleber José de Andrade",
+    "latitude": -20.33268857299059,
+    "longitude": -40.38520738836072,
+    "capacity": 2000,
+    "tier": "professional"
+  },
+  {
+    "id": "brazil-capixaba-es",
+    "name": "Capixaba",
+    "country": "Brazil",
+    "city": "Vila Valério",
+    "stadium": "Estádio Municipal José Maria Mantovanelli",
+    "latitude": -18.993406887930103,
+    "longitude": -40.38590831536568,
+    "capacity": 2500,
+    "tier": "professional"
+  },
+  {
+    "id": "brazil-forte-es",
+    "name": "Forte",
+    "country": "Brazil",
+    "city": "Castelo",
+    "stadium": "Estádio Emílio Nemer",
+    "latitude": -20.60868440482987,
+    "longitude": -41.20272898835607,
+    "capacity": 2000,
+    "tier": "professional"
   }
 ]
