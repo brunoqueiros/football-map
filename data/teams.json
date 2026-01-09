@@ -1366,11 +1366,11 @@
     "id": "brazil-decisao",
     "name": "Decisão",
     "country": "Brazil",
-    "city": "Goiania",
+    "city": "Goiana",
     "stadium": "Estádio José Dionísio do Carmo",
     "latitude": -7.561869995046695,
     "longitude": -35.01235033050121,
-    "capacity": 8000,
+    "capacity": 6100,
     "tier": "professional"
   },
   {
@@ -4165,6 +4165,39 @@
     "latitude": -24.974899788955245,
     "longitude": -53.50238633204887,
     "capacity": 28125,
+    "tier": "professional"
+  },
+  {
+    "id": "brazil-vitoria-pe",
+    "name": "Vitória-PE",
+    "country": "Brazil",
+    "city": "Vitória de Santo Antão",
+    "stadium": "Estádio Severino Cândido Carneiro",
+    "latitude": -8.122617295633457,
+    "longitude": -35.28109461283003,
+    "capacity": 10911,
+    "tier": "professional"
+  },
+  {
+    "id": "brazil-jaguar-pe",
+    "name": "Jaguar",
+    "country": "Brazil",
+    "city": "Jaboatão dos Guararapes",
+    "stadium": "Estádio Gileno de Carli",
+    "latitude": -8.276661901265966,
+    "longitude": -35.02651977474173,
+    "capacity": 5459,
+    "tier": "professional"
+  },
+  {
+    "id": "brazil-jaguar-pe",
+    "name": "Jaguar",
+    "country": "Brazil",
+    "city": "Jaboatão dos Guararapes",
+    "stadium": "Estádio Gileno de Carli",
+    "latitude": -8.276661901265966,
+    "longitude": -35.02651977474173,
+    "capacity": 5459,
     "tier": "professional"
   }
 ]
