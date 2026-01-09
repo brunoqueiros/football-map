@@ -3825,5 +3825,137 @@
     "longitude": -44.23677208985966,
     "capacity": 2000,
     "tier": "professional"
+  },
+  {
+    "id": "brazil-boa-esporte-mg",
+    "name": "Boa Esporte",
+    "country": "Brazil",
+    "city": "Ituiutaba",
+    "stadium": "Estádio Municipal Julia do Prado (Tijucão)",
+    "latitude": -18.972948709044612,
+    "longitude": -49.478623561048046,
+    "capacity": 15471,
+    "tier": "professional"
+  },
+  {
+    "id": "brazil-novo-esporte-mg",
+    "name": "Novo Esporte",
+    "country": "Brazil",
+    "city": "Itabirinha",
+    "stadium": "Estádio Municipal Dr. Adilson Machado de Farias",
+    "latitude": -18.56756192678444,
+    "longitude": -41.23743530708664,
+    "capacity": 0,
+    "tier": "professional"
+  },
+  {
+    "id": "brazil-inter-de-minas-mg",
+    "name": "Inter de Minas",
+    "country": "Brazil",
+    "city": "Itaúna",
+    "stadium": "Universidade de Itaúna Complexo Esportivo",
+    "latitude": -20.067968022783983,
+    "longitude": -44.574127345677816,
+    "capacity": 0,
+    "tier": "professional"
+  },
+  {
+    "id": "brazil-tupi-fc-mg",
+    "name": "Tupi-MG",
+    "country": "Brazil",
+    "city": "Juiz de Fora",
+    "stadium": "Estádio Dr. Francisco de Salles Oliveira",
+    "latitude": -21.787442843454777,
+    "longitude": -43.37797515912572,
+    "capacity": 31863,
+    "tier": "professional"
+  },
+  {
+    "id": "brazil-uniao-luziense-mg",
+    "name": "União Luziense",
+    "country": "Brazil",
+    "city": "Santa Luzia",
+    "stadium": "Arena Frimisa",
+    "latitude": -19.76122823246612,
+    "longitude": -43.88209250335724,
+    "capacity": 2400,
+    "tier": "professional"
+  },
+  {
+    "id": "brazil-serranense-mg",
+    "name": "Serranense",
+    "country": "Brazil",
+    "city": "Nova Serrana",
+    "stadium": "Arena do Calçado",
+    "latitude": -19.887227190395393,
+    "longitude": -44.99881451684677,
+    "capacity": 10000,
+    "tier": "professional"
+  },
+  {
+    "id": "brazil-paracatu-mg",
+    "name": "Paracatu",
+    "country": "Brazil",
+    "city": "Paracatu",
+    "stadium": "Estádio Frei Norberto",
+    "latitude": -17.21587675779565,
+    "longitude": -46.887008132253385,
+    "capacity": 0,
+    "tier": "professional"
+  },
+  {
+    "id": "brazil-essube-mg",
+    "name": "Essube",
+    "country": "Brazil",
+    "city": "Uberlândia",
+    "stadium": "Estádio Parque do Sabiá",
+    "latitude": -18.913848084915408,
+    "longitude": -48.23340564978625,
+    "capacity": 53352,
+    "tier": "professional"
+  },
+  {
+    "id": "brazil-juventus-minasnovense-mg",
+    "name": "Juventus Minasnovense",
+    "country": "Brazil",
+    "city": "Minas Novas",
+    "stadium": "Estádio Municipal Dr. Pedro Anísio Maia (Pequizão)",
+    "latitude": -17.220921365711348,
+    "longitude": -42.58795451876045,
+    "capacity": 8000,
+    "tier": "professional"
+  },
+  {
+    "id": "brazil-coimbra-mg",
+    "name": "Coimbra",
+    "country": "Brazil",
+    "city": "Contagem",
+    "stadium": "Arena Independência",
+    "latitude": -19.908700167987735,
+    "longitude": -43.91732498670194,
+    "capacity": 23018,
+    "tier": "professional"
+  },
+  {
+    "id": "brazil-nacional-uberaba-mg",
+    "name": "Nacional de Uberaba",
+    "country": "Brazil",
+    "city": "Uberaba",
+    "stadium": "Arena Independência",
+    "latitude": -19.73906760385914,
+    "longitude": -47.940595461029176,
+    "capacity": 15000,
+    "tier": "professional"
+  },
+  {
+    "id": "brazil-passos-fc-mg",
+    "name": "Passos",
+    "country": "Brazil",
+    "city": "Passos",
+    "stadium": "Estádio Municipal Starling Soares",
+    "latitude": -20.7275417996449,
+    "longitude": -46.60415439011064,
+    "capacity": 12000,
+    "tier": "professional"
   }
 ]
