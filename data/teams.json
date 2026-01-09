@@ -4045,5 +4045,82 @@
     "longitude": -47.92521120364311,
     "capacity": 5000,
     "tier": "professional"
+  },
+  {
+    "id": "brazil-confianca-pb",
+    "name": "Confiança-PB",
+    "country": "Brazil",
+    "city": "Sapé",
+    "stadium": "Estádio Toca do Papão",
+    "latitude": -7.090311584648811,
+    "longitude": -35.22199631893529,
+    "capacity": 1000,
+    "tier": "professional"
+  },
+  {
+    "id": "brazil-esporte-de-patos-pb",
+    "name": "Esporte de Patos",
+    "country": "Brazil",
+    "city": "Patos",
+    "stadium": "Estádio Mun. de Patos",
+    "latitude": -7.015286257186618,
+    "longitude": -37.28381575659952,
+    "capacity": 8000,
+    "tier": "professional"
+  },
+  {
+    "id": "brazil-campinense-pb",
+    "name": "Campinense",
+    "country": "Brazil",
+    "city": "Campina Grande",
+    "stadium": "Estádio Renato Cunha Lima - Toca da Raposa",
+    "latitude": -7.2190011608286815,
+    "longitude": -35.90300856126206,
+    "capacity": 4000,
+    "tier": "professional"
+  },
+  {
+    "id": "brazil-atletico-pb",
+    "name": "Atlético-PB",
+    "country": "Brazil",
+    "city": "Cajazeiras",
+    "stadium": "Estádio Perpétuo Corrêa Lima (Perpetão)",
+    "latitude": -6.900713119738938,
+    "longitude": -38.5660806324302,
+    "capacity": 12000,
+    "tier": "professional"
+  },
+  {
+    "id": "brazil-nacional-de-patos-pb",
+    "name": "Atlético-PB",
+    "country": "Brazil",
+    "city": "Patos",
+    "stadium": "Estádio Mun. de Patos",
+    "latitude": -7.016138137648648,
+    "longitude": -37.28330077248416,
+    "capacity": 8000,
+    "tier": "professional"
+  },
+  {
+    "id": "brazil-pombal-pb",
+    "name": "Pombal",
+    "country": "Brazil",
+    "city": "Pombal",
+    "stadium": "Estádio Municipal Francisco Pereira Vieira (Pereirão)",
+    "latitude": -6.76080392557054,
+    "longitude": -37.799212617088806,
+    "capacity": 5000,
+    "tier": "professional"
+  },
+  {
+    "id": "brazil-pombal-pb",
+    "name": "Pombal",
+    "country": "Brazil",
+    "city": "Pombal",
+    "stadium": "Estádio Municipal Francisco Pereira Vieira (Pereirão)",
+    "latitude": -6.76080392557054,
+    "longitude": -37.799212617088806,
+    "capacity": 5000,
+    "tier": "professional"
   }
 ]
