@@ -1,5 +1,5 @@
 'use client'
-import React, { useEffect, useRef, useState, useImperativeHandle, forwardRef } from 'react';
+import { useEffect, useRef, useState, useImperativeHandle, forwardRef } from 'react';
 import mapboxgl from 'mapbox-gl';
 import 'mapbox-gl/dist/mapbox-gl.css';
 import StadiumCard from './StadiumCard';
@@ -64,8 +64,12 @@ const Map = forwardRef<MapRef, MapProps>(({
       style: 'mapbox://styles/mapbox/dark-v11',
       center: initialCenter,
       zoom: initialZoom,
+      attributionControl: false,
+      dragRotate: false,
       projection: { name: 'mercator' }
     });
+
+    map.touchZoomRotate.disableRotation();
 
     map.on('load', () => {
       setMapLoaded(true);
@@ -90,42 +94,50 @@ const Map = forwardRef<MapRef, MapProps>(({
     if (!mapLoaded || !mapRef.current) return;
 
     const map = mapRef.current;
-    const markers: mapboxgl.Marker[] = [];
-
-    stadiums.forEach((stadium) => {
-      const el = document.createElement('div');
-      el.className = 'stadium-marker';
-      el.style.width = '8px';
-      el.style.height = '8px';
-      el.style.borderRadius = '50%';
-      el.style.backgroundColor = '#00ff88';
-      el.style.border = '2px solid #ffffff';
-      el.style.cursor = 'pointer';
-      el.style.boxShadow = '0 0 10px rgba(0, 255, 136, 0.5)';
-      // el.style.transition = 'transform 0.2s ease';
-
-      // el.addEventListener('mouseenter', () => {
-      //   el.style.transform = 'scale(1.4)';
-      // });
-
-      // el.addEventListener('mouseleave', () => {
-      //   el.style.transform = 'scale(1)';
-      // });
-
-      el.addEventListener('click', () => {
-        onSelectStadium?.(stadium);
-      });
-
-      const marker = new mapboxgl.Marker(el)
-        .setLngLat([stadium.longitude, stadium.latitude])
-        .addTo(map);
-
-      markers.push(marker);
+    map.addSource('stadiums', {
+      type: 'geojson',
+      data: {
+        type: 'FeatureCollection',
+        features: stadiums.map(s => ({
+          type: 'Feature',
+          geometry: { type: 'Point', coordinates: [s.longitude, s.latitude] },
+          properties: { ...s }
+        }))
+      }
     });
 
-    return () => {
-      markers.forEach(marker => marker.remove());
-    };
+    map.addLayer({
+      id: 'stadium-circles',
+      type: 'circle',
+      source: 'stadiums',
+      paint: {
+        // THIS SCALES THE SIZE AUTOMATICALLY BASED ON ZOOM
+        'circle-radius': [
+          'interpolate',
+          ['linear'],
+          ['zoom'],
+          2, 1,    // At zoom 2, radius is 3px
+          14, 8   // At zoom 14, radius is 15px
+        ],
+        'circle-color': '#fafafa',
+        'circle-stroke-width': 1,
+        'circle-stroke-color': '#ccc'
+      }
+    });
+
+    map.on('click', 'stadium-circles', (e) => {
+      const stadiumData = e.features?.at(0)?.properties as Stadium;
+
+      onSelectStadium?.(stadiumData);
+    });
+
+    map.on('mouseenter', 'stadium-circles', () => {
+      map.getCanvas().style.cursor = 'pointer';
+    });
+
+    map.on('mouseleave', 'stadium-circles', () => {
+      map.getCanvas().style.cursor = '';
+    });
   }, [mapLoaded, stadiums]);
 
   return (
