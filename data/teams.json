@@ -7697,5 +7697,137 @@
     "longitude": -123.112,
     "capacity": 22120,
     "tier": "professional"
+  },
+  {
+    "id": "scotland-aberdeen",
+    "name": "Aberdeen F.C.",
+    "country": "Scotland",
+    "city": "Aberdeen",
+    "stadium": "Pittodrie Stadium",
+    "latitude": 57.159167,
+    "longitude": -2.088889,
+    "capacity": 20866,
+    "tier": "professional"
+  },
+  {
+    "id": "scotland-celtic",
+    "name": "Celtic F.C.",
+    "country": "Scotland",
+    "city": "Glasgow",
+    "stadium": "Celtic Park",
+    "latitude": 55.849722,
+    "longitude": -4.205556,
+    "capacity": 60411,
+    "tier": "professional"
+  },
+  {
+    "id": "scotland-dundee",
+    "name": "Dundee F.C.",
+    "country": "Scotland",
+    "city": "Dundee",
+    "stadium": "Dens Park",
+    "latitude": 56.474722,
+    "longitude": -2.973056,
+    "capacity": 11775,
+    "tier": "professional"
+  },
+  {
+    "id": "scotland-dundee-united",
+    "name": "Dundee United F.C.",
+    "country": "Scotland",
+    "city": "Dundee",
+    "stadium": "Tannadice Park",
+    "latitude": 56.474167,
+    "longitude": -2.969167,
+    "capacity": 14223,
+    "tier": "professional"
+  },
+  {
+    "id": "scotland-falkirk",
+    "name": "Falkirk F.C.",
+    "country": "Scotland",
+    "city": "Falkirk",
+    "stadium": "Falkirk Stadium",
+    "latitude": 56.005278,
+    "longitude": -3.754722,
+    "capacity": 7937,
+    "tier": "professional"
+  },
+  {
+    "id": "scotland-heart-of-midlothian",
+    "name": "Heart of Midlothian F.C.",
+    "country": "Scotland",
+    "city": "Edinburgh",
+    "stadium": "Tynecastle Park",
+    "latitude": 55.939167,
+    "longitude": -3.231944,
+    "capacity": 19852,
+    "tier": "professional"
+  },
+  {
+    "id": "scotland-hibernian",
+    "name": "Hibernian F.C.",
+    "country": "Scotland",
+    "city": "Edinburgh",
+    "stadium": "Easter Road",
+    "latitude": 55.961667,
+    "longitude": -3.165556,
+    "capacity": 20421,
+    "tier": "professional"
+  },
+  {
+    "id": "scotland-kilmarnock",
+    "name": "Kilmarnock F.C.",
+    "country": "Scotland",
+    "city": "Kilmarnock",
+    "stadium": "Rugby Park",
+    "latitude": 55.603889,
+    "longitude": -4.508611,
+    "capacity": 15003,
+    "tier": "professional"
+  },
+  {
+    "id": "scotland-livingston",
+    "name": "Livingston F.C.",
+    "country": "Scotland",
+    "city": "Livingston",
+    "stadium": "Almondvale Stadium",
+    "latitude": 55.886389,
+    "longitude": -3.5225,
+    "capacity": 9713,
+    "tier": "professional"
+  },
+  {
+    "id": "scotland-motherwell",
+    "name": "Motherwell F.C.",
+    "country": "Scotland",
+    "city": "Motherwell",
+    "stadium": "Fir Park",
+    "latitude": 55.779722,
+    "longitude": -3.98,
+    "capacity": 13677,
+    "tier": "professional"
+  },
+  {
+    "id": "scotland-rangers",
+    "name": "Rangers F.C.",
+    "country": "Scotland",
+    "city": "Glasgow",
+    "stadium": "Ibrox Stadium",
+    "latitude": 55.853056,
+    "longitude": -4.309167,
+    "capacity": 51700,
+    "tier": "professional"
+  },
+  {
+    "id": "scotland-st-mirren",
+    "name": "St Mirren F.C.",
+    "country": "Scotland",
+    "city": "Paisley",
+    "stadium": "St Mirren Park",
+    "latitude": 55.850807012554,
+    "longitude": -4.443261599494715,
+    "capacity": 8000,
+    "tier": "professional"
   }
 ]
