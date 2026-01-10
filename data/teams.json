@@ -7169,5 +7169,203 @@
     "longitude": 3.428333,
     "capacity": 12250,
     "tier": "professional"
+  },
+  {
+    "id": "turkey-alanyaspor",
+    "name": "Alanyaspor",
+    "country": "Turkey",
+    "city": "Alanya",
+    "stadium": "Alanya Oba Stadium",
+    "latitude": 36.56282261073833,
+    "longitude": 32.079073816473446,
+    "capacity": 9789,
+    "tier": "professional"
+  },
+  {
+    "id": "turkey-antalyaspor",
+    "name": "Antalyaspor",
+    "country": "Turkey",
+    "city": "Antalya",
+    "stadium": "Corendon Airlines Park",
+    "latitude": 36.88846294894912,
+    "longitude": 30.668493184716187,
+    "capacity": 29307,
+    "tier": "professional"
+  },
+  {
+    "id": "turkey-basaksehir",
+    "name": "İstanbul Başakşehir",
+    "country": "Turkey",
+    "city": "Istanbul",
+    "stadium": "Fatih Terim Stadium",
+    "latitude": 41.122778,
+    "longitude": 28.808056,
+    "capacity": 17067,
+    "tier": "professional"
+  },
+  {
+    "id": "turkey-besiktas",
+    "name": "Beşiktaş",
+    "country": "Turkey",
+    "city": "Istanbul",
+    "stadium": "Tüpraş Stadium",
+    "latitude": 41.039444,
+    "longitude": 28.994444,
+    "capacity": 42445,
+    "tier": "professional"
+  },
+  {
+    "id": "turkey-eyupspor",
+    "name": "Eyüpspor",
+    "country": "Turkey",
+    "city": "Istanbul",
+    "stadium": "Pendik Stadium",
+    "latitude": 40.887685857329515,
+    "longitude": 29.227712828975708,
+    "capacity": 4505,
+    "tier": "professional"
+  },
+  {
+    "id": "turkey-fatih-karagumruk",
+    "name": "Fatih Karagümrük",
+    "country": "Turkey",
+    "city": "Istanbul",
+    "stadium": "Atatürk Olympic Stadium",
+    "latitude": 41.074444,
+    "longitude": 28.765556,
+    "capacity": 77563,
+    "tier": "professional"
+  },
+  {
+    "id": "turkey-fenerbahce",
+    "name": "Fenerbahçe",
+    "country": "Turkey",
+    "city": "Istanbul",
+    "stadium": "Chobani Stadium",
+    "latitude": 40.9875,
+    "longitude": 29.036667,
+    "capacity": 47430,
+    "tier": "professional"
+  },
+  {
+    "id": "turkey-galatasaray",
+    "name": "Galatasaray",
+    "country": "Turkey",
+    "city": "Istanbul",
+    "stadium": "Rams Park",
+    "latitude": 41.102778,
+    "longitude": 28.990556,
+    "capacity": 53978,
+    "tier": "professional"
+  },
+  {
+    "id": "turkey-gaziantep",
+    "name": "Gaziantep FK",
+    "country": "Turkey",
+    "city": "Gaziantep",
+    "stadium": "Gaziantep Stadium",
+    "latitude": 37.124152606163584,
+    "longitude": 37.383130457737884,
+    "capacity": 30320,
+    "tier": "professional"
+  },
+  {
+    "id": "turkey-genclerbirligi",
+    "name": "Gençlerbirliği",
+    "country": "Turkey",
+    "city": "Ankara",
+    "stadium": "Eryaman Stadium",
+    "latitude": 39.980098994793956,
+    "longitude": 32.61380112895703,
+    "capacity": 20000,
+    "tier": "professional"
+  },
+  {
+    "id": "turkey-goztepe-izmir",
+    "name": "Göztepe",
+    "country": "Turkey",
+    "city": "İzmir",
+    "stadium": "Gürsel Aksel Stadium",
+    "latitude": 38.39702740727306,
+    "longitude": 27.075860598236435,
+    "capacity": 20756,
+    "tier": "professional"
+  },
+  {
+    "id": "turkey-kasimpasa",
+    "name": "Kasımpaşa",
+    "country": "Turkey",
+    "city": "Istanbul",
+    "stadium": "Recep Tayyip Erdoğan Stadium",
+    "latitude": 41.033056,
+    "longitude": 28.971944,
+    "capacity": 13797,
+    "tier": "professional"
+  },
+  {
+    "id": "turkey-kayserispor",
+    "name": "Kayserispor",
+    "country": "Turkey",
+    "city": "Kayseri",
+    "stadium": "RHG Enertürk Enerji Stadium",
+    "latitude": 38.738236826645405,
+    "longitude": 35.42354618475177,
+    "capacity": 32856,
+    "tier": "professional"
+  },
+  {
+    "id": "turkey-kocaelispor",
+    "name": "Kocaelispor",
+    "country": "Turkey",
+    "city": "İzmit",
+    "stadium": "Kocaeli Stadium",
+    "latitude": 40.77409906889838,
+    "longitude": 30.0178188559565,
+    "capacity": 34829,
+    "tier": "professional"
+  },
+  {
+    "id": "turkey-konyaspor",
+    "name": "Konyaspor",
+    "country": "Turkey",
+    "city": "Konya",
+    "stadium": "Konya Metropolitan Municipality Stadium",
+    "latitude": 37.94634696314115,
+    "longitude": 32.48815247124461,
+    "capacity": 41600,
+    "tier": "professional"
+  },
+  {
+    "id": "turkey-rizespor",
+    "name": "Çaykur Rizespor",
+    "country": "Turkey",
+    "city": "Rize",
+    "stadium": "Rize City Stadium",
+    "latitude": 41.042086759084285,
+    "longitude": 40.57325501178124,
+    "capacity": 14850,
+    "tier": "professional"
+  },
+  {
+    "id": "turkey-samsunspor",
+    "name": "Samsunspor",
+    "country": "Turkey",
+    "city": "Samsun",
+    "stadium": "Samsun 19 Mayıs Stadium",
+    "latitude": 41.22812111456303,
+    "longitude": 36.457656827129746,
+    "capacity": 33303,
+    "tier": "professional"
+  },
+  {
+    "id": "turkey-trabzonspor",
+    "name": "Trabzonspor",
+    "country": "Turkey",
+    "city": "Trabzon",
+    "stadium": "Papara Park",
+    "latitude": 40.998891917260586,
+    "longitude": 39.646283527124886,
+    "capacity": 40980,
+    "tier": "professional"
   }
 ]
