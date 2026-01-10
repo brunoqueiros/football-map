@@ -9437,29 +9437,29 @@
     "tier": "professional"
   },
   {
-    "id": "korea-anyang",
+    "id": "south-korea-anyang",
     "name": "FC Anyang",
     "country": "South Korea",
     "city": "Anyang",
     "stadium": "Anyang Stadium",
-    "latitude": 37.4042,
-    "longitude": 126.9531,
+    "latitude": 37.40548294511214,
+    "longitude": 126.94655074274823,
     "capacity": 17143,
     "tier": "professional"
   },
   {
-    "id": "korea-bucheon",
+    "id": "south-korea-bucheon",
     "name": "Bucheon FC 1995",
     "country": "South Korea",
     "city": "Bucheon",
     "stadium": "Bucheon Stadium",
-    "latitude": 37.5033,
-    "longitude": 126.8042,
+    "latitude": 37.502592221035066,
+    "longitude": 126.79896459857686,
     "capacity": 34456,
     "tier": "professional"
   },
   {
-    "id": "korea-daejeon",
+    "id": "south-korea-daejeon",
     "name": "Daejeon Hana Citizen",
     "country": "South Korea",
     "city": "Daejeon",
@@ -9470,7 +9470,7 @@
     "tier": "professional"
   },
   {
-    "id": "korea-gangwon",
+    "id": "south-korea-gangwon",
     "name": "Gangwon FC",
     "country": "South Korea",
     "city": "Gangneung",
@@ -9481,18 +9481,18 @@
     "tier": "professional"
   },
   {
-    "id": "korea-gimcheon",
+    "id": "south-korea-gimcheon",
     "name": "Gimcheon Sangmu",
     "country": "South Korea",
     "city": "Gimcheon",
     "stadium": "Gimcheon Stadium",
-    "latitude": 36.1383,
-    "longitude": 128.1006,
+    "latitude": 36.13977577591712,
+    "longitude": 128.08631305435566,
     "capacity": 25000,
     "tier": "professional"
   },
   {
-    "id": "korea-gwangju",
+    "id": "south-korea-gwangju",
     "name": "Gwangju FC",
     "country": "South Korea",
     "city": "Gwangju",
@@ -9503,7 +9503,7 @@
     "tier": "professional"
   },
   {
-    "id": "korea-incheon",
+    "id": "south-korea-incheon",
     "name": "Incheon United",
     "country": "South Korea",
     "city": "Incheon",
@@ -9514,7 +9514,7 @@
     "tier": "professional"
   },
   {
-    "id": "korea-jeju",
+    "id": "south-korea-jeju",
     "name": "Jeju United",
     "country": "South Korea",
     "city": "Seogwipo",
@@ -9525,7 +9525,7 @@
     "tier": "professional"
   },
   {
-    "id": "korea-jeonbuk",
+    "id": "south-korea-jeonbuk",
     "name": "Jeonbuk Hyundai Motors",
     "country": "South Korea",
     "city": "Jeonju",
@@ -9536,7 +9536,7 @@
     "tier": "professional"
   },
   {
-    "id": "korea-pohang",
+    "id": "south-korea-pohang",
     "name": "Pohang Steelers",
     "country": "South Korea",
     "city": "Pohang",
@@ -9547,7 +9547,7 @@
     "tier": "professional"
   },
   {
-    "id": "korea-seoul",
+    "id": "south-korea-seoul",
     "name": "FC Seoul",
     "country": "South Korea",
     "city": "Seoul",
@@ -9558,7 +9558,7 @@
     "tier": "professional"
   },
   {
-    "id": "korea-ulsan",
+    "id": "south-korea-ulsan",
     "name": "Ulsan HD FC",
     "country": "South Korea",
     "city": "Ulsan",
@@ -9566,6 +9566,193 @@
     "latitude": 35.5353,
     "longitude": 129.2594,
     "capacity": 44102,
+    "tier": "professional"
+  },
+  {
+    "id": "south-korea-ansan-greeners",
+    "name": "Ansan Greeners",
+    "country": "South Korea",
+    "city": "Ansan",
+    "stadium": "Ansan Wa Stadium",
+    "latitude": 37.31951591797318,
+    "longitude": 126.8186925411503,
+    "capacity": 35008,
+    "tier": "professional"
+  },
+  {
+    "id": "south-korea-busan-ipark",
+    "name": "Busan IPark",
+    "country": "South Korea",
+    "city": "Busan",
+    "stadium": "Busan Gudeok Stadium",
+    "latitude": 35.11628428943253,
+    "longitude": 129.01500011038843,
+    "capacity": 12349,
+    "tier": "professional"
+  },
+  {
+    "id": "south-korea-cheonan-city",
+    "name": "Cheonan City FC",
+    "country": "South Korea",
+    "city": "Cheonan",
+    "stadium": "Cheonan Stadium",
+    "latitude": 36.818737738575095,
+    "longitude": 127.11514399679393,
+    "capacity": 26000,
+    "tier": "professional"
+  },
+  {
+    "id": "south-korea-cheongju",
+    "name": "Chungbuk Cheongju FC",
+    "country": "South Korea",
+    "city": "Cheongju",
+    "stadium": "Cheongju Stadium",
+    "latitude": 36.6353,
+    "longitude": 127.4722,
+    "capacity": 16280,
+    "tier": "professional"
+  },
+  {
+    "id": "south-korea-chungnam-asan",
+    "name": "Chungnam Asan FC",
+    "country": "South Korea",
+    "city": "Asan",
+    "stadium": "Yi Sun-sin Stadium",
+    "latitude": 36.76839451187024,
+    "longitude": 127.02128989863944,
+    "capacity": 19283,
+    "tier": "professional"
+  },
+  {
+    "id": "south-korea-daegu-fc",
+    "name": "Daegu FC",
+    "country": "South Korea",
+    "city": "Daegu",
+    "stadium": "DGB Daegu Bank Park",
+    "latitude": 35.8814,
+    "longitude": 128.5881,
+    "capacity": 12415,
+    "tier": "professional"
+  },
+  {
+    "id": "south-korea-gimhae-fc",
+    "name": "Gimhae FC",
+    "country": "South Korea",
+    "city": "Gimhae",
+    "stadium": "Gimhae Stadium",
+    "latitude": 35.25576109261915,
+    "longitude": 128.87713206975332,
+    "capacity": 15066,
+    "tier": "professional"
+  },
+  {
+    "id": "south-korea-gimpo-fc",
+    "name": "Gimpo FC",
+    "country": "South Korea",
+    "city": "Gimpo",
+    "stadium": "Gimpo Solteo Football Stadium",
+    "latitude": 37.64095660265589,
+    "longitude": 126.65000374099878,
+    "capacity": 10000,
+    "tier": "professional"
+  },
+  {
+    "id": "south-korea-gyeongnam-fc",
+    "name": "Gyeongnam FC",
+    "country": "South Korea",
+    "city": "Changwon",
+    "stadium": "Changwon Football Center",
+    "latitude": 35.22362352001071,
+    "longitude": 128.70573692557565,
+    "capacity": 15071,
+    "tier": "professional"
+  },
+  {
+    "id": "south-korea-hwaseong-fc",
+    "name": "Hwaseong FC",
+    "country": "South Korea",
+    "city": "Hwaseong",
+    "stadium": "Hwaseong Stadium",
+    "latitude": 37.13735724254476,
+    "longitude": 126.9247269544755,
+    "capacity": 35270,
+    "tier": "professional"
+  },
+  {
+    "id": "south-korea-jeonnam-dragons",
+    "name": "Jeonnam Dragons",
+    "country": "South Korea",
+    "city": "Gwangyang",
+    "stadium": "Gwangyang Football Stadium",
+    "latitude": 34.933355148421064,
+    "longitude": 127.7275288409074,
+    "capacity": 13496,
+    "tier": "professional"
+  },
+  {
+    "id": "south-korea-paju-frontier",
+    "name": "Paju Frontier FC",
+    "country": "South Korea",
+    "city": "Paju",
+    "stadium": "Paju Stadium",
+    "latitude": 37.7563767807911,
+    "longitude": 126.78660027000149,
+    "capacity": 25000,
+    "tier": "professional"
+  },
+  {
+    "id": "south-korea-seongnam-fc",
+    "name": "Seongnam FC",
+    "country": "South Korea",
+    "city": "Seongnam",
+    "stadium": "Tancheon Stadium",
+    "latitude": 37.41032249952506,
+    "longitude": 127.12048399882536,
+    "capacity": 16146,
+    "tier": "professional"
+  },
+  {
+    "id": "south-korea-seoul-eland",
+    "name": "Seoul E-Land FC",
+    "country": "South Korea",
+    "city": "Seoul",
+    "stadium": "Mokdong Stadium",
+    "latitude": 37.5300,
+    "longitude": 126.8825,
+    "capacity": 15511,
+    "tier": "professional"
+  },
+  {
+    "id": "south-korea-suwon-fc",
+    "name": "Suwon FC",
+    "country": "South Korea",
+    "city": "Suwon",
+    "stadium": "Suwon Sports Complex",
+    "latitude": 37.2978,
+    "longitude": 127.0117,
+    "capacity": 11808,
+    "tier": "professional"
+  },
+  {
+    "id": "south-korea-suwon-samsung-bluewings",
+    "name": "Suwon Samsung Bluewings",
+    "country": "South Korea",
+    "city": "Suwon",
+    "stadium": "Suwon World Cup Stadium",
+    "latitude": 37.2861,
+    "longitude": 127.0369,
+    "capacity": 44031,
+    "tier": "professional"
+  },
+  {
+    "id": "south-korea-yongin-fc",
+    "name": "Yongin FC",
+    "country": "South Korea",
+    "city": "Yongin",
+    "stadium": "Yongin Mireu Stadium",
+    "latitude": 37.249880216297136,
+    "longitude": 127.16511523927733,
+    "capacity": 37155,
     "tier": "professional"
   }
 ]
