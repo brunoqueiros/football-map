@@ -6993,5 +6993,181 @@
     "longitude": -58.52065691504936,
     "capacity": 45540,
     "tier": "professional"
+  },
+  {
+    "id": "belgium-anderlecht",
+    "name": "Anderlecht",
+    "country": "Belgium",
+    "city": "Brussels",
+    "stadium": "Lotto Park",
+    "latitude": 50.834167,
+    "longitude": 4.298333,
+    "capacity": 21500,
+    "tier": "professional"
+  },
+  {
+    "id": "belgium-antwerp",
+    "name": "Antwerp",
+    "country": "Belgium",
+    "city": "Antwerp",
+    "stadium": "Bosuilstadion",
+    "latitude": 51.233333,
+    "longitude": 4.469444,
+    "capacity": 16144,
+    "tier": "professional"
+  },
+  {
+    "id": "belgium-cercle-brugge",
+    "name": "Cercle Brugge",
+    "country": "Belgium",
+    "city": "Bruges",
+    "stadium": "Jan Breydel Stadium",
+    "latitude": 51.192778,
+    "longitude": 3.180278,
+    "capacity": 29042,
+    "tier": "professional"
+  },
+  {
+    "id": "belgium-charleroi",
+    "name": "Charleroi",
+    "country": "Belgium",
+    "city": "Charleroi",
+    "stadium": "Stade du Pays de Charleroi",
+    "latitude": 50.41477706866337,
+    "longitude": 4.453797356179409,
+    "capacity": 14000,
+    "tier": "professional"
+  },
+  {
+    "id": "belgium-club-brugge",
+    "name": "Club Brugge",
+    "country": "Belgium",
+    "city": "Bruges",
+    "stadium": "Jan Breydel Stadium",
+    "latitude": 51.192778,
+    "longitude": 3.180278,
+    "capacity": 29042,
+    "tier": "professional"
+  },
+  {
+    "id": "belgium-fcv-dender-eh",
+    "name": "Dender EH",
+    "country": "Belgium",
+    "city": "Denderleeuw",
+    "stadium": "Dender Football Complex",
+    "latitude": 50.88420614600034,
+    "longitude": 4.072718385027569,
+    "capacity": 6429,
+    "tier": "professional"
+  },
+  {
+    "id": "belgium-genk",
+    "name": "Genk",
+    "country": "Belgium",
+    "city": "Genk",
+    "stadium": "Cegeka Arena",
+    "latitude": 51.005278,
+    "longitude": 5.533333,
+    "capacity": 24956,
+    "tier": "professional"
+  },
+  {
+    "id": "belgium-gent",
+    "name": "Gent",
+    "country": "Belgium",
+    "city": "Ghent",
+    "stadium": "Planet Group Arena",
+    "latitude": 51.016111,
+    "longitude": 3.734722,
+    "capacity": 20000,
+    "tier": "professional"
+  },
+  {
+    "id": "belgium-raal-la-louviere",
+    "name": "RAAL La Louvière",
+    "country": "Belgium",
+    "city": "La Louvière",
+    "stadium": "Easi Arena",
+    "latitude": 50.47846564918314,
+    "longitude": 4.200908586575867,
+    "capacity": 8050,
+    "tier": "professional"
+  },
+  {
+    "id": "belgium-mechelen",
+    "name": "Mechelen",
+    "country": "Belgium",
+    "city": "Mechelen",
+    "stadium": "AFAS Stadion",
+    "latitude": 51.038056,
+    "longitude": 4.484167,
+    "capacity": 16700,
+    "tier": "professional"
+  },
+  {
+    "id": "belgium-oud-heverlee-leuven",
+    "name": "OH Leuven",
+    "country": "Belgium",
+    "city": "Leuven",
+    "stadium": "Den Dreef",
+    "latitude": 50.86839501067901,
+    "longitude": 4.694448856191006,
+    "capacity": 10000,
+    "tier": "professional"
+  },
+  {
+    "id": "belgium-sint-truiden",
+    "name": "Sint-Truiden",
+    "country": "Belgium",
+    "city": "Sint-Truiden",
+    "stadium": "Stayen",
+    "latitude": 50.813626256075295,
+    "longitude": 5.16634088502578,
+    "capacity": 14600,
+    "tier": "professional"
+  },
+  {
+    "id": "belgium-standard-liege",
+    "name": "Standard Liège",
+    "country": "Belgium",
+    "city": "Liège",
+    "stadium": "Stade Maurice Dufrasne",
+    "latitude": 50.609722,
+    "longitude": 5.543889,
+    "capacity": 30023,
+    "tier": "professional"
+  },
+  {
+    "id": "belgium-union-saint-gilloise",
+    "name": "Union Saint-Gilloise",
+    "country": "Belgium",
+    "city": "Brussels",
+    "stadium": "Stade Joseph Marien",
+    "latitude": 50.8175,
+    "longitude": 4.331667,
+    "capacity": 9400,
+    "tier": "professional"
+  },
+  {
+    "id": "belgium-westerlo",
+    "name": "Westerlo",
+    "country": "Belgium",
+    "city": "Westerlo",
+    "stadium": "Het Kuipje",
+    "latitude": 51.09498991847337,
+    "longitude": 4.928934840852155,
+    "capacity": 8035,
+    "tier": "professional"
+  },
+  {
+    "id": "belgium-zulte-waregem",
+    "name": "Zulte Waregem",
+    "country": "Belgium",
+    "city": "Waregem",
+    "stadium": "Regenboogstadion",
+    "latitude": 50.883333,
+    "longitude": 3.428333,
+    "capacity": 12250,
+    "tier": "professional"
   }
 ]
