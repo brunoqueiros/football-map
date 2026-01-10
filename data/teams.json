@@ -8203,5 +8203,203 @@
     "longitude": 36.489355413416355,
     "capacity": 12000,
     "tier": "professional"
+  },
+  {
+    "id": "mexico-club-america",
+    "name": "Club América",
+    "country": "Mexico",
+    "city": "Mexico City",
+    "stadium": "Estadio Ciudad de los Deportes",
+    "latitude": 19.383662309595376,
+    "longitude": -99.1777051593479,
+    "capacity": 34253,
+    "tier": "professional"
+  },
+  {
+    "id": "mexico-atlas",
+    "name": "Atlas F.C.",
+    "country": "Mexico",
+    "city": "Guadalajara",
+    "stadium": "Estadio Jalisco",
+    "latitude": 20.705135183333592,
+    "longitude": -103.32819836117496,
+    "capacity": 55020,
+    "tier": "professional"
+  },
+  {
+    "id": "mexico-atletico-san-luis",
+    "name": "Atlético San Luis",
+    "country": "Mexico",
+    "city": "San Luis Potosí",
+    "stadium": "Estadio Alfonso Lastras",
+    "latitude": 22.14,
+    "longitude": -100.95,
+    "capacity": 27029,
+    "tier": "professional"
+  },
+  {
+    "id": "mexico-cruz-azul",
+    "name": "Cruz Azul",
+    "country": "Mexico",
+    "city": "Mexico City",
+    "stadium": "Estadio Olímpico Universitario",
+    "latitude": 19.3331,
+    "longitude": -99.1925,
+    "capacity": 58445,
+    "tier": "professional"
+  },
+  {
+    "id": "mexico-guadalajara-chivas",
+    "name": "C.D. Guadalajara",
+    "country": "Mexico",
+    "city": "Zapopan",
+    "stadium": "Estadio Akron",
+    "latitude": 20.6811,
+    "longitude": -103.463,
+    "capacity": 46232,
+    "tier": "professional"
+  },
+  {
+    "id": "mexico-juarez",
+    "name": "FC Juárez",
+    "country": "Mexico",
+    "city": "Ciudad Juárez",
+    "stadium": "Estadio Olímpico Benito Juárez",
+    "latitude": 31.752885503469226,
+    "longitude": -106.46822961673368,
+    "capacity": 19703,
+    "tier": "professional"
+  },
+  {
+    "id": "mexico-leon",
+    "name": "Club León",
+    "country": "Mexico",
+    "city": "León",
+    "stadium": "Estadio León",
+    "latitude": 21.115,
+    "longitude": -101.66,
+    "capacity": 31297,
+    "tier": "professional"
+  },
+  {
+    "id": "mexico-mazatlan",
+    "name": "Mazatlán F.C.",
+    "country": "Mexico",
+    "city": "Mazatlán",
+    "stadium": "Estadio El Encanto",
+    "latitude": 23.277115901381414,
+    "longitude": -106.38246390345354,
+    "capacity": 20195,
+    "tier": "professional"
+  },
+  {
+    "id": "mexico-monterrey",
+    "name": "C.F. Monterrey",
+    "country": "Mexico",
+    "city": "Guadalupe",
+    "stadium": "Estadio BBVA",
+    "latitude": 25.6694,
+    "longitude": -100.244,
+    "capacity": 53500,
+    "tier": "professional"
+  },
+  {
+    "id": "mexico-necaxa",
+    "name": "Club Necaxa",
+    "country": "Mexico",
+    "city": "Aguascalientes",
+    "stadium": "Estadio Victoria",
+    "latitude": 21.88102086578085,
+    "longitude": -102.2757820336714,
+    "capacity": 23851,
+    "tier": "professional"
+  },
+  {
+    "id": "mexico-pachuca",
+    "name": "C.F. Pachuca",
+    "country": "Mexico",
+    "city": "Pachuca",
+    "stadium": "Estadio Hidalgo",
+    "latitude": 20.105346782338607,
+    "longitude": -98.7559355863211,
+    "capacity": 25922,
+    "tier": "professional"
+  },
+  {
+    "id": "mexico-puebla",
+    "name": "Club Puebla",
+    "country": "Mexico",
+    "city": "Puebla",
+    "stadium": "Estadio Cuauhtémoc",
+    "latitude": 19.078285170616805,
+    "longitude": -98.16429088818872,
+    "capacity": 51726,
+    "tier": "professional"
+  },
+  {
+    "id": "mexico-queretaro",
+    "name": "Querétaro F.C.",
+    "country": "Mexico",
+    "city": "Querétaro",
+    "stadium": "Estadio Corregidora",
+    "latitude": 20.5783,
+    "longitude": -100.364,
+    "capacity": 34107,
+    "tier": "professional"
+  },
+  {
+    "id": "mexico-santos-laguna",
+    "name": "Santos Laguna",
+    "country": "Mexico",
+    "city": "Torreón",
+    "stadium": "Estadio Corona",
+    "latitude": 25.62888432322842,
+    "longitude": -103.38009595922304,
+    "capacity": 29101,
+    "tier": "professional"
+  },
+  {
+    "id": "mexico-tijuana",
+    "name": "Club Tijuana",
+    "country": "Mexico",
+    "city": "Tijuana",
+    "stadium": "Estadio Caliente",
+    "latitude": 32.506162633731655,
+    "longitude": -116.99308333205434,
+    "capacity": 31158,
+    "tier": "professional"
+  },
+  {
+    "id": "mexico-toluca",
+    "name": "Deportivo Toluca",
+    "country": "Mexico",
+    "city": "Toluca",
+    "stadium": "Estadio Nemesio Díez",
+    "latitude": 19.287,
+    "longitude": -99.667,
+    "capacity": 27273,
+    "tier": "professional"
+  },
+  {
+    "id": "mexico-tigres-uanl",
+    "name": "Tigres UANL",
+    "country": "Mexico",
+    "city": "San Nicolás de los Garza",
+    "stadium": "Estadio Universitario",
+    "latitude": 25.722,
+    "longitude": -100.31,
+    "capacity": 41886,
+    "tier": "professional"
+  },
+  {
+    "id": "mexico-unam-pumas",
+    "name": "UNAM Pumas",
+    "country": "Mexico",
+    "city": "Mexico City",
+    "stadium": "Estadio Olímpico Universitario",
+    "latitude": 19.3331,
+    "longitude": -99.1925,
+    "capacity": 58445,
+    "tier": "professional"
   }
 ]

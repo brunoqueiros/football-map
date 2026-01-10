@@ -29,9 +29,10 @@ const COUNTRIES: Record<string, string> = {
   'scotland': '🏴󠁧󠁢󠁳󠁣󠁴󠁿',
   'romania': '🇷🇴',
   'saudi-arabia': '🇸🇦',
+  'mexico': '🇲🇽',
 };
 
-export const flag = (country: string) => COUNTRIES[country.toLocaleLowerCase()];
+export const flag = (country: string) => COUNTRIES[country.replaceAll(' ', '-').toLocaleLowerCase()];
 
 export default function SearchBar({ onSelectTeam }: SearchBarProps) {
   const [searchQuery, setSearchQuery] = useState("");
