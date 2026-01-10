@@ -8005,5 +8005,203 @@
     "longitude": 21.3119,
     "capacity": 11500,
     "tier": "professional"
+  },
+  {
+    "id": "saudi-arabia-al-ahli",
+    "name": "Al-Ahli",
+    "country": "Saudi Arabia",
+    "city": "Jeddah",
+    "stadium": "King Abdullah Sports City Stadium",
+    "latitude": 21.763762890143386,
+    "longitude": 39.16421461148437,
+    "capacity": 60342,
+    "tier": "professional"
+  },
+  {
+    "id": "saudi-arabia-al-ettifaq",
+    "name": "Al-Ettifaq",
+    "country": "Saudi Arabia",
+    "city": "Dammam",
+    "stadium": "EGO STADIUM",
+    "latitude": 26.350849931306982,
+    "longitude": 50.18146785571619,
+    "capacity": 12984,
+    "tier": "professional"
+  },
+  {
+    "id": "saudi-arabia-al-fateh",
+    "name": "Al-Fateh",
+    "country": "Saudi Arabia",
+    "city": "Al-Mubarraz",
+    "stadium": "Prince Abdullah Bin Jalawi Stadium",
+    "latitude": 25.306104007908733,
+    "longitude": 49.61284899513875,
+    "capacity": 11851,
+    "tier": "professional"
+  },
+  {
+    "id": "saudi-arabia-al-fayha",
+    "name": "Al-Fayha",
+    "country": "Saudi Arabia",
+    "city": "Majmaah",
+    "stadium": "Majmaah Sports City Stadium",
+    "latitude": 25.8865524049283,
+    "longitude": 45.36713274221919,
+    "capacity": 6843,
+    "tier": "professional"
+  },
+  {
+    "id": "saudi-arabia-al-hazem",
+    "name": "Al-Hazem",
+    "country": "Saudi Arabia",
+    "city": "Ar Rass",
+    "stadium": "Al-Hazem Club Stadium",
+    "latitude": 25.861936763734143,
+    "longitude": 43.50210989803785,
+    "capacity": 5100,
+    "tier": "professional"
+  },
+  {
+    "id": "saudi-arabia-al-hilal",
+    "name": "Al-Hilal",
+    "country": "Saudi Arabia",
+    "city": "Riyadh",
+    "stadium": "Kingdom Arena",
+    "latitude": 24.777846653857964,
+    "longitude": 46.60624788453334,
+    "capacity": 26090,
+    "tier": "professional"
+  },
+  {
+    "id": "saudi-arabia-al-ittihad",
+    "name": "Al-Ittihad",
+    "country": "Saudi Arabia",
+    "city": "Jeddah",
+    "stadium": "King Abdullah Sports City Stadium",
+    "latitude": 21.76244762424173,
+    "longitude": 39.164268255665185,
+    "capacity": 60342,
+    "tier": "professional"
+  },
+  {
+    "id": "saudi-arabia-al-khaleej",
+    "name": "Al-Khaleej",
+    "country": "Saudi Arabia",
+    "city": "Saihat",
+    "stadium": "Prince Mohamed bin Fahd Stadium",
+    "latitude": 26.4447,
+    "longitude": 50.1119,
+    "capacity": 22042,
+    "tier": "professional"
+  },
+  {
+    "id": "saudi-arabia-al-kholood",
+    "name": "Al-Kholood",
+    "country": "Saudi Arabia",
+    "city": "Ar Rass",
+    "stadium": "Al-Hazem Club Stadium",
+    "latitude": 25.8569,
+    "longitude": 43.5042,
+    "capacity": 5100,
+    "tier": "professional"
+  },
+  {
+    "id": "saudi-arabia-al-najma",
+    "name": "Al-Najma",
+    "country": "Saudi Arabia",
+    "city": "Unaizah",
+    "stadium": "King Abdullah Sports City Stadium (Buraidah)",
+    "latitude": 26.35,
+    "longitude": 43.9667,
+    "capacity": 30180,
+    "tier": "professional"
+  },
+  {
+    "id": "saudi-arabia-al-nassr",
+    "name": "Al-Nassr",
+    "country": "Saudi Arabia",
+    "city": "Riyadh",
+    "stadium": "Al-Awwal Park",
+    "latitude": 24.73,
+    "longitude": 46.6231,
+    "capacity": 26004,
+    "tier": "professional"
+  },
+  {
+    "id": "saudi-arabia-al-okhdood",
+    "name": "Al-Okhdood",
+    "country": "Saudi Arabia",
+    "city": "Najran",
+    "stadium": "Al Akhdoud Club Stadium",
+    "latitude": 17.590277254102006,
+    "longitude": 44.24494137468176,
+    "capacity": 12000,
+    "tier": "professional"
+  },
+  {
+    "id": "saudi-arabia-al-qadsiah",
+    "name": "Al-Qadsiah",
+    "country": "Saudi Arabia",
+    "city": "Khobar",
+    "stadium": "Prince Mohamed bin Fahd Stadium",
+    "latitude": 26.427847106583993,
+    "longitude": 50.11447506920866,
+    "capacity": 22042,
+    "tier": "professional"
+  },
+  {
+    "id": "saudi-arabia-al-riyadh",
+    "name": "Al-Riyadh",
+    "country": "Saudi Arabia",
+    "city": "Riyadh",
+    "stadium": "SHG Arena",
+    "latitude": 24.803373999788473,
+    "longitude": 46.6288434575508,
+    "capacity": 18063,
+    "tier": "professional"
+  },
+  {
+    "id": "saudi-arabia-al-shabab",
+    "name": "Al-Shabab",
+    "country": "Saudi Arabia",
+    "city": "Riyadh",
+    "stadium": "SHG Arena",
+    "latitude": 24.802497474942136,
+    "longitude": 46.6286181519914,
+    "capacity": 13537,
+    "tier": "professional"
+  },
+  {
+    "id": "saudi-arabia-al-taawoun",
+    "name": "Al-Taawoun",
+    "country": "Saudi Arabia",
+    "city": "Buraidah",
+    "stadium": "King Abdullah Sports City Stadium (Buraidah)",
+    "latitude": 26.378817081541783,
+    "longitude": 43.94697784037191,
+    "capacity": 30180,
+    "tier": "professional"
+  },
+  {
+    "id": "saudi-arabia-damac",
+    "name": "Damac",
+    "country": "Saudi Arabia",
+    "city": "Khamis Mushait",
+    "stadium": "Prince Sultan bin Abdulaziz Sports City Stadium",
+    "latitude": 18.311310021984614,
+    "longitude": 42.59730935378278,
+    "capacity": 25000,
+    "tier": "professional"
+  },
+  {
+    "id": "saudi-arabia-neom",
+    "name": "Neom",
+    "country": "Saudi Arabia",
+    "city": "Tabuk",
+    "stadium": "King Khalid Sport City Stadium",
+    "latitude": 28.479423238975933,
+    "longitude": 36.489355413416355,
+    "capacity": 12000,
+    "tier": "professional"
   }
 ]
