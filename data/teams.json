@@ -10128,5 +10128,203 @@
     "longitude": 20.84863536821865,
     "capacity": 7652,
     "tier": "professional"
+  },
+  {
+    "id": "peru-adt",
+    "name": "ADT",
+    "country": "Peru",
+    "city": "Tarma",
+    "stadium": "Estadio Unión Tarma",
+    "latitude": -11.412941021653067,
+    "longitude": -75.68403500350065,
+    "capacity": 9100,
+    "tier": "professional"
+  },
+  {
+    "id": "peru-alianza-atletico",
+    "name": "Alianza Atlético",
+    "country": "Peru",
+    "city": "Sullana",
+    "stadium": "Estadio Campeones del 36",
+    "latitude": -4.896875136351865,
+    "longitude": -80.68435870358583,
+    "capacity": 12000,
+    "tier": "professional"
+  },
+  {
+    "id": "peru-alianza-lima",
+    "name": "Alianza Lima",
+    "country": "Peru",
+    "city": "Lima",
+    "stadium": "Estadio Alejandro Villanueva",
+    "latitude": -12.0685,
+    "longitude": -77.0229,
+    "capacity": 33938,
+    "tier": "professional"
+  },
+  {
+    "id": "peru-atletico-grau",
+    "name": "Atlético Grau",
+    "country": "Peru",
+    "city": "Piura",
+    "stadium": "Estadio Miguel Grau (Piura)",
+    "latitude": -5.192524107475027,
+    "longitude": -80.61802337659869,
+    "capacity": 22200,
+    "tier": "professional"
+  },
+  {
+    "id": "peru-cienciano",
+    "name": "Cienciano",
+    "country": "Peru",
+    "city": "Cusco",
+    "stadium": "Estadio Inca Garcilaso de la Vega",
+    "latitude": -13.525077779272523,
+    "longitude": -71.96632933044758,
+    "capacity": 45056,
+    "tier": "professional"
+  },
+  {
+    "id": "peru-comerciantes-unidos",
+    "name": "Comerciantes Unidos",
+    "country": "Peru",
+    "city": "Cutervo",
+    "stadium": "Estadio Juan Maldonado Gamarra",
+    "latitude": -6.380688247151957,
+    "longitude": -78.8146967900783,
+    "capacity": 13680,
+    "tier": "professional"
+  },
+  {
+    "id": "peru-cusco-fc",
+    "name": "Cusco FC",
+    "country": "Peru",
+    "city": "Cusco",
+    "stadium": "Estadio Inca Garcilaso de la Vega",
+    "latitude": -13.5250,
+    "longitude": -71.9647,
+    "capacity": 45056,
+    "tier": "professional"
+  },
+  {
+    "id": "peru-cajamarca-fc",
+    "name": "FC Cajamarca",
+    "country": "Peru",
+    "city": "Cajamarca",
+    "stadium": "Estadio Cristo El Señor",
+    "latitude": -7.141857736889028,
+    "longitude": -78.46987243239751,
+    "capacity": 20000,
+    "tier": "professional"
+  },
+  {
+    "id": "peru-deportivo-garcilaso",
+    "name": "Deportivo Garcilaso",
+    "country": "Peru",
+    "city": "Cusco",
+    "stadium": "Estadio Inca Garcilaso de la Vega",
+    "latitude": -13.5250,
+    "longitude": -71.9647,
+    "capacity": 45056,
+    "tier": "professional"
+  },
+  {
+    "id": "peru-deportivo-moquegua",
+    "name": "Deportivo Moquegua",
+    "country": "Peru",
+    "city": "Moquegua",
+    "stadium": "Estadio 25 de Noviembre",
+    "latitude": -17.186165990133173,
+    "longitude": -70.92971096105947,
+    "capacity": 21073,
+    "tier": "professional"
+  },
+  {
+    "id": "peru-juan-pablo-ii",
+    "name": "Juan Pablo II College",
+    "country": "Peru",
+    "city": "Chongoyape",
+    "stadium": "Estadio Municipal de la Juventud",
+    "latitude": -6.6322768096658145,
+    "longitude": -79.39823360356749,
+    "capacity": 3000,
+    "tier": "professional"
+  },
+  {
+    "id": "peru-los-chankas",
+    "name": "Los Chankas",
+    "country": "Peru",
+    "city": "Andahuaylas",
+    "stadium": "Estadio Los Chankas",
+    "latitude": -13.657589631994764,
+    "longitude": -73.37985147462486,
+    "capacity": 10000,
+    "tier": "professional"
+  },
+  {
+    "id": "peru-melgar",
+    "name": "FBC Melgar",
+    "country": "Peru",
+    "city": "Arequipa",
+    "stadium": "Estadio Monumental de la UNSA",
+    "latitude": -16.4053,
+    "longitude": -71.5208,
+    "capacity": 40370,
+    "tier": "professional"
+  },
+  {
+    "id": "peru-sport-boys",
+    "name": "Sport Boys",
+    "country": "Peru",
+    "city": "Callao",
+    "stadium": "Estadio Miguel Grau (Callao)",
+    "latitude": -12.059805680172719,
+    "longitude": -77.11983983047386,
+    "capacity": 17000,
+    "tier": "professional"
+  },
+  {
+    "id": "peru-sport-huancayo",
+    "name": "Sport Huancayo",
+    "country": "Peru",
+    "city": "Huancayo",
+    "stadium": "Estadio Huancayo",
+    "latitude": -12.072566090992394,
+    "longitude": -75.20143287095019,
+    "capacity": 20000,
+    "tier": "professional"
+  },
+  {
+    "id": "peru-sporting-cristal",
+    "name": "Sporting Cristal",
+    "country": "Peru",
+    "city": "Lima",
+    "stadium": "Estadio Alberto Gallardo",
+    "latitude": -12.037768387408894,
+    "longitude": -77.04525310534173,
+    "capacity": 11600,
+    "tier": "professional"
+  },
+  {
+    "id": "peru-universitario",
+    "name": "Universitario",
+    "country": "Peru",
+    "city": "Lima",
+    "stadium": "Estadio Monumental 'U'",
+    "latitude": -12.0556,
+    "longitude": -76.9361,
+    "capacity": 80093,
+    "tier": "professional"
+  },
+  {
+    "id": "peru-utc",
+    "name": "UTC Cajamarca",
+    "country": "Peru",
+    "city": "Cajamarca",
+    "stadium": "Estadio Héroes de San Ramón",
+    "latitude": -7.161762906126093,
+    "longitude": -78.51115996308495,
+    "capacity": 10485,
+    "tier": "professional"
   }
 ]
