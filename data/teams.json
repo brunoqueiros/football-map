@@ -7829,5 +7829,181 @@
     "longitude": -4.443261599494715,
     "capacity": 8000,
     "tier": "professional"
+  },
+  {
+    "id": "romania-arges-pitesti",
+    "name": "Argeș Pitești",
+    "country": "Romania",
+    "city": "Pitești",
+    "stadium": "Stadionul Orășenesc (Mioveni)",
+    "latitude": 44.96023212164907,
+    "longitude": 24.940664056047556,
+    "capacity": 10000,
+    "tier": "professional"
+  },
+  {
+    "id": "romania-botosani",
+    "name": "FC Botoșani",
+    "country": "Romania",
+    "city": "Botoșani",
+    "stadium": "Municipal (Botoșani)",
+    "latitude": 47.74826832240345,
+    "longitude": 26.651968398440868,
+    "capacity": 7782,
+    "tier": "professional"
+  },
+  {
+    "id": "romania-cfr-cluj",
+    "name": "CFR Cluj",
+    "country": "Romania",
+    "city": "Cluj-Napoca",
+    "stadium": "Dr. Constantin Rădulescu",
+    "latitude": 46.7794,
+    "longitude": 23.5778,
+    "capacity": 22198,
+    "tier": "professional"
+  },
+  {
+    "id": "romania-csikszereda-miercurea-ciuc",
+    "name": "Csíkszereda Miercurea Ciuc",
+    "country": "Romania",
+    "city": "Miercurea Ciuc",
+    "stadium": "Municipal (Miercurea Ciuc)",
+    "latitude": 46.367014540224964,
+    "longitude": 25.80299758491642,
+    "capacity": 4000,
+    "tier": "professional"
+  },
+  {
+    "id": "romania-dinamo-bucuresti",
+    "name": "Dinamo București",
+    "country": "Romania",
+    "city": "Bucharest",
+    "stadium": "Arcul de Triumf",
+    "latitude": 44.4678,
+    "longitude": 26.0781,
+    "capacity": 8207,
+    "tier": "professional"
+  },
+  {
+    "id": "romania-farul-constanta",
+    "name": "Farul Constanța",
+    "country": "Romania",
+    "city": "Constanța",
+    "stadium": "Viitorul (Ovidiu)",
+    "latitude": 44.2364234002236,
+    "longitude": 28.565654398358635,
+    "capacity": 4554,
+    "tier": "professional"
+  },
+  {
+    "id": "romania-fcsb",
+    "name": "FCSB",
+    "country": "Romania",
+    "city": "Bucharest",
+    "stadium": "Arena Națională",
+    "latitude": 44.4372,
+    "longitude": 26.1525,
+    "capacity": 55634,
+    "tier": "professional"
+  },
+  {
+    "id": "romania-hermannstadt",
+    "name": "FC Hermannstadt",
+    "country": "Romania",
+    "city": "Sibiu",
+    "stadium": "Municipal (Sibiu)",
+    "latitude": 45.7831,
+    "longitude": 24.1444,
+    "capacity": 12363,
+    "tier": "professional"
+  },
+  {
+    "id": "romania-metaloglobus-bucuresti",
+    "name": "Metaloglobus București",
+    "country": "Romania",
+    "city": "Bucharest",
+    "stadium": "Clinceni",
+    "latitude": 44.37806944287795,
+    "longitude": 25.9409096425428,
+    "capacity": 4500,
+    "tier": "professional"
+  },
+  {
+    "id": "romania-otelul-galati",
+    "name": "Oțelul Galați",
+    "country": "Romania",
+    "city": "Galați",
+    "stadium": "Oțelul",
+    "latitude": 45.43028309754878,
+    "longitude": 28.022240483041383,
+    "capacity": 13500,
+    "tier": "professional"
+  },
+  {
+    "id": "romania-petrolul-ploiesti",
+    "name": "Petrolul Ploiești",
+    "country": "Romania",
+    "city": "Ploiești",
+    "stadium": "Ilie Oană",
+    "latitude": 44.9406,
+    "longitude": 26.0353,
+    "capacity": 15073,
+    "tier": "professional"
+  },
+  {
+    "id": "romania-rapid-bucuresti",
+    "name": "Rapid București",
+    "country": "Romania",
+    "city": "Bucharest",
+    "stadium": "Superbet Arena-Giulești",
+    "latitude": 44.4561,
+    "longitude": 26.0572,
+    "capacity": 14047,
+    "tier": "professional"
+  },
+  {
+    "id": "romania-unirea-slobozia",
+    "name": "Unirea Slobozia",
+    "country": "Romania",
+    "city": "Slobozia",
+    "stadium": "Clinceni",
+    "latitude": 44.56085240265162,
+    "longitude": 27.37282751185758,
+    "capacity": 4500,
+    "tier": "professional"
+  },
+  {
+    "id": "romania-universitatea-cluj",
+    "name": "Universitatea Cluj",
+    "country": "Romania",
+    "city": "Cluj-Napoca",
+    "stadium": "Cluj Arena",
+    "latitude": 46.7686,
+    "longitude": 23.5725,
+    "capacity": 30335,
+    "tier": "professional"
+  },
+  {
+    "id": "romania-universitatea-craiova",
+    "name": "Universitatea Craiova",
+    "country": "Romania",
+    "city": "Craiova",
+    "stadium": "Ion Oblemenco",
+    "latitude": 44.3125,
+    "longitude": 23.7869,
+    "capacity": 30983,
+    "tier": "professional"
+  },
+  {
+    "id": "romania-uta-arad",
+    "name": "UTA Arad",
+    "country": "Romania",
+    "city": "Arad",
+    "stadium": "Francisc von Neuman",
+    "latitude": 46.1925,
+    "longitude": 21.3119,
+    "capacity": 11500,
+    "tier": "professional"
   }
 ]
