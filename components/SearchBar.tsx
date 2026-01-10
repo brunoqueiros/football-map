@@ -19,6 +19,7 @@ const COUNTRIES: Record<string, string> = {
   'germany': '🇩🇪',
   'france': '🇫🇷',
   'monaco': '🇲🇨',
+  'italy': '🇮🇹',
 };
 
 export const flag = (country: string) => COUNTRIES[country.toLocaleLowerCase()];
@@ -31,7 +32,7 @@ export default function SearchBar({ onSelectTeam }: SearchBarProps) {
     list: teams,
     queryText: searchQuery,
     strategy: 'smart',
-    getText: (item) => [item.name, item.city, item.country],
+    getText: (item) => [item.name],
     mapResultItem: ({ item, matches: [] }) => (item)
   }).sort((a, b) => {
     const nameA = a.name.toUpperCase(); // ignore upper and lowercase
