@@ -5827,5 +5827,203 @@
     "longitude": 1.434167,
     "capacity": 33150,
     "tier": "professional"
+  },
+  {
+    "id": "france-amiens",
+    "name": "Amiens SC",
+    "country": "France",
+    "city": "Amiens",
+    "stadium": "Stade de la Licorne",
+    "latitude": 49.89433145718536,
+    "longitude": 2.2639444447122705,
+    "capacity": 12097,
+    "tier": "professional"
+  },
+  {
+    "id": "france-annecy",
+    "name": "FC Annecy",
+    "country": "France",
+    "city": "Annecy",
+    "stadium": "Parc des Sports",
+    "latitude": 45.916704053042075,
+    "longitude": 6.118068768429809,
+    "capacity": 15660,
+    "tier": "professional"
+  },
+  {
+    "id": "france-bastia",
+    "name": "SC Bastia",
+    "country": "France",
+    "city": "Bastia",
+    "stadium": "Stade Armand-Cesari",
+    "latitude": 42.65157073516162,
+    "longitude": 9.44276777014756,
+    "capacity": 16000,
+    "tier": "professional"
+  },
+  {
+    "id": "france-boulogne",
+    "name": "US Boulogne",
+    "country": "France",
+    "city": "Boulogne-sur-Mer",
+    "stadium": "Stade de la Libération",
+    "latitude": 50.72376633570577,
+    "longitude": 1.619652799326133,
+    "capacity": 14500,
+    "tier": "professional"
+  },
+  {
+    "id": "france-clermont",
+    "name": "Clermont Foot",
+    "country": "France",
+    "city": "Clermont-Ferrand",
+    "stadium": "Stade Gabriel-Montpied",
+    "latitude": 45.81584026991524,
+    "longitude": 3.121667368425578,
+    "capacity": 11980,
+    "tier": "professional"
+  },
+  {
+    "id": "france-dunkerque",
+    "name": "USL Dunkerque",
+    "country": "France",
+    "city": "Dunkirk",
+    "stadium": "Stade Marcel-Tribut",
+    "latitude": 51.03525747297019,
+    "longitude": 2.389816043519079,
+    "capacity": 4200,
+    "tier": "professional"
+  },
+  {
+    "id": "france-grenoble",
+    "name": "Grenoble Foot 38",
+    "country": "France",
+    "city": "Grenoble",
+    "stadium": "Stade des Alpes",
+    "latitude": 45.18775605387216,
+    "longitude": 5.738292050941298,
+    "capacity": 20068,
+    "tier": "professional"
+  },
+  {
+    "id": "france-guingamp",
+    "name": "EA Guingamp",
+    "country": "France",
+    "city": "Guingamp",
+    "stadium": "Stade du Roudourou",
+    "latitude": 48.566207570003556,
+    "longitude": -3.1642761007705453,
+    "capacity": 18378,
+    "tier": "professional"
+  },
+  {
+    "id": "france-laval",
+    "name": "Stade Lavallois",
+    "country": "France",
+    "city": "Laval",
+    "stadium": "Stade Francis-Le Basser",
+    "latitude": 48.082428251602124,
+    "longitude": -0.7547102161346652,
+    "capacity": 18739,
+    "tier": "professional"
+  },
+  {
+    "id": "france-le-mans",
+    "name": "Le Mans FC",
+    "country": "France",
+    "city": "Le Mans",
+    "stadium": "Stade Marie-Marvingt",
+    "latitude": 47.95929171051489,
+    "longitude": 0.2230826396812745,
+    "capacity": 25467,
+    "tier": "professional"
+  },
+  {
+    "id": "france-montpellier",
+    "name": "Montpellier HSC",
+    "country": "France",
+    "city": "Montpellier",
+    "stadium": "Stade de la Mosson",
+    "latitude": 43.62218339448695,
+    "longitude": 3.811919927337195,
+    "capacity": 32900,
+    "tier": "professional"
+  },
+  {
+    "id": "france-nancy",
+    "name": "AS Nancy Lorraine",
+    "country": "France",
+    "city": "Nancy",
+    "stadium": "Stade Marcel-Picot",
+    "latitude": 48.6955687965195,
+    "longitude": 6.210763541563709,
+    "capacity": 20087,
+    "tier": "professional"
+  },
+  {
+    "id": "france-pau",
+    "name": "Pau FC",
+    "country": "France",
+    "city": "Pau",
+    "stadium": "Stade du Hameau",
+    "latitude": 43.30983990913876,
+    "longitude": -0.31688748749794465,
+    "capacity": 13966,
+    "tier": "professional"
+  },
+  {
+    "id": "france-red-star",
+    "name": "Red Star FC",
+    "country": "France",
+    "city": "Saint-Ouen-sur-Seine",
+    "stadium": "Stade Bauer",
+    "latitude": 48.90617635144692,
+    "longitude": 2.341050426230051,
+    "capacity": 10000,
+    "tier": "professional"
+  },
+  {
+    "id": "france-reims",
+    "name": "Stade de Reims",
+    "country": "France",
+    "city": "Reims",
+    "stadium": "Stade Auguste-Delaune",
+    "latitude": 49.24689668518519,
+    "longitude": 4.024722222222222,
+    "capacity": 21029,
+    "tier": "professional"
+  },
+  {
+    "id": "france-rodez",
+    "name": "Rodez AF",
+    "country": "France",
+    "city": "Rodez",
+    "stadium": "Stade Paul-Lignon",
+    "latitude": 44.35165336466654,
+    "longitude": 2.5636178300078396,
+    "capacity": 5955,
+    "tier": "professional"
+  },
+  {
+    "id": "france-saint-etienne",
+    "name": "AS Saint-Étienne",
+    "country": "France",
+    "city": "Saint-Étienne",
+    "stadium": "Stade Geoffroy-Guichard",
+    "latitude": 45.46078966666667,
+    "longitude": 4.389706966666667,
+    "capacity": 42000,
+    "tier": "professional"
+  },
+  {
+    "id": "france-troyes",
+    "name": "Troyes AC",
+    "country": "France",
+    "city": "Troyes",
+    "stadium": "Stade de l'Aube",
+    "latitude": 48.30768285683473,
+    "longitude": 4.098509899218106,
+    "capacity": 20400,
+    "tier": "professional"
   }
 ]
