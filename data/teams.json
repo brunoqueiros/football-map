@@ -8621,5 +8621,181 @@
     "longitude": -74.19924887476208,
     "capacity": 16000,
     "tier": "professional"
+  },
+  {
+    "id": "chile-audax-italiano",
+    "name": "Audax Italiano",
+    "country": "Chile",
+    "city": "Santiago (La Florida)",
+    "stadium": "Estadio Bicentenario de La Florida",
+    "latitude": -33.54042684276028,
+    "longitude": -70.57798202987111,
+    "capacity": 12000,
+    "tier": "professional"
+  },
+  {
+    "id": "chile-cobresal",
+    "name": "Cobresal",
+    "country": "Chile",
+    "city": "El Salvador",
+    "stadium": "Estadio El Cobre",
+    "latitude": -26.25177826547968,
+    "longitude": -69.62862447245391,
+    "capacity": 11240,
+    "tier": "professional"
+  },
+  {
+    "id": "chile-colo-colo",
+    "name": "Colo-Colo",
+    "country": "Chile",
+    "city": "Santiago (Macul)",
+    "stadium": "Estadio Monumental David Arellano",
+    "latitude": -33.5064,
+    "longitude": -70.6059,
+    "capacity": 47000,
+    "tier": "professional"
+  },
+  {
+    "id": "chile-coquimbo-unido",
+    "name": "Coquimbo Unido",
+    "country": "Chile",
+    "city": "Coquimbo",
+    "stadium": "Estadio Francisco Sánchez Rumoroso",
+    "latitude": -29.965230981067343,
+    "longitude": -71.33811710116626,
+    "capacity": 18750,
+    "tier": "professional"
+  },
+  {
+    "id": "chile-deportes-iquique",
+    "name": "Deportes Iquique",
+    "country": "Chile",
+    "city": "Iquique",
+    "stadium": "Estadio Tierra de Campeones",
+    "latitude": -20.24209562460358,
+    "longitude": -70.13314170146202,
+    "capacity": 13171,
+    "tier": "professional"
+  },
+  {
+    "id": "chile-deportes-la-serena",
+    "name": "Deportes La Serena",
+    "country": "Chile",
+    "city": "La Serena",
+    "stadium": "Estadio La Portada",
+    "latitude": -29.9114,
+    "longitude": -71.2519,
+    "capacity": 18243,
+    "tier": "professional"
+  },
+  {
+    "id": "chile-deportes-limache",
+    "name": "Deportes Limache",
+    "country": "Chile",
+    "city": "Limache",
+    "stadium": "Estadio Nicolás Chahuán Nazar",
+    "latitude": -32.784168154627196,
+    "longitude": -71.19982173175157,
+    "capacity": 9200,
+    "tier": "professional"
+  },
+  {
+    "id": "chile-everton",
+    "name": "Everton de Viña del Mar",
+    "country": "Chile",
+    "city": "Viña del Mar",
+    "stadium": "Estadio Sausalito",
+    "latitude": -33.01423703647968,
+    "longitude": -71.53532024338331,
+    "capacity": 23423,
+    "tier": "professional"
+  },
+  {
+    "id": "chile-huachipato",
+    "name": "Huachipato",
+    "country": "Chile",
+    "city": "Talcahuano",
+    "stadium": "Estadio Huachipato-CAP Acero",
+    "latitude": -36.75494222869779,
+    "longitude": -73.10754884508775,
+    "capacity": 10500,
+    "tier": "professional"
+  },
+  {
+    "id": "chile-nublense",
+    "name": "Ñublense",
+    "country": "Chile",
+    "city": "Chillán",
+    "stadium": "Estadio Nelson Oyarzún Arenas",
+    "latitude": -36.61811169061987,
+    "longitude": -72.10785954509349,
+    "capacity": 12000,
+    "tier": "professional"
+  },
+  {
+    "id": "chile-o-higgins",
+    "name": "O'Higgins",
+    "country": "Chile",
+    "city": "Rancagua",
+    "stadium": "Estadio El Teniente",
+    "latitude": -34.1775,
+    "longitude": -70.7381,
+    "capacity": 12476,
+    "tier": "professional"
+  },
+  {
+    "id": "chile-palestino",
+    "name": "Palestino",
+    "country": "Chile",
+    "city": "Santiago (La Cisterna)",
+    "stadium": "Estadio Municipal de La Cisterna",
+    "latitude": -33.52040557168911,
+    "longitude": -70.67298922987193,
+    "capacity": 8000,
+    "tier": "professional"
+  },
+  {
+    "id": "chile-union-espanola",
+    "name": "Unión Española",
+    "country": "Chile",
+    "city": "Santiago (Independencia)",
+    "stadium": "Estadio Santa Laura-Universidad SEK",
+    "latitude": -33.404399682492155,
+    "longitude": -70.65898371638433,
+    "capacity": 19887,
+    "tier": "professional"
+  },
+  {
+    "id": "chile-union-la-calera",
+    "name": "Unión La Calera",
+    "country": "Chile",
+    "city": "La Calera",
+    "stadium": "Estadio Nicolás Chahuán Nazar",
+    "latitude": -32.7825,
+    "longitude": -71.2094,
+    "capacity": 9200,
+    "tier": "professional"
+  },
+  {
+    "id": "chile-universidad-catolica",
+    "name": "Universidad Católica",
+    "country": "Chile",
+    "city": "Santiago (Las Condes)",
+    "stadium": "Claro Arena",
+    "latitude": -33.3958,
+    "longitude": -70.5006,
+    "capacity": 20249,
+    "tier": "professional"
+  },
+  {
+    "id": "chile-universidad-de-chile",
+    "name": "Universidad de Chile",
+    "country": "Chile",
+    "city": "Santiago (Ñuñoa)",
+    "stadium": "Estadio Nacional Julio Martínez Prádanos",
+    "latitude": -33.4647,
+    "longitude": -70.6106,
+    "capacity": 48745,
+    "tier": "professional"
   }
 ]
