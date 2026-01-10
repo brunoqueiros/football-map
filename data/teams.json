@@ -5629,5 +5629,203 @@
     "longitude": 7.0675,
     "capacity": 62271,
     "tier": "professional"
+  },
+  {
+    "id": "france-angers",
+    "name": "Angers SCO",
+    "country": "France",
+    "city": "Angers",
+    "stadium": "Stade Raymond Kopa",
+    "latitude": 47.460556,
+    "longitude": -0.530833,
+    "capacity": 18752,
+    "tier": "professional"
+  },
+  {
+    "id": "france-auxerre",
+    "name": "AJ Auxerre",
+    "country": "France",
+    "city": "Auxerre",
+    "stadium": "Stade Abbé Deschamps",
+    "latitude": 47.7975,
+    "longitude": 3.5694,
+    "capacity": 18541,
+    "tier": "professional"
+  },
+  {
+    "id": "france-brest",
+    "name": "Stade Brestois 29",
+    "country": "France",
+    "city": "Brest",
+    "stadium": "Stade Francis-Le Blé",
+    "latitude": 48.40304277156288,
+    "longitude": -4.4614567026278635,
+    "capacity": 15931,
+    "tier": "professional"
+  },
+  {
+    "id": "france-le-havre",
+    "name": "Le Havre AC",
+    "country": "France",
+    "city": "Le Havre",
+    "stadium": "Stade Océane",
+    "latitude": 49.49950193321768,
+    "longitude": 0.16929449742068778,
+    "capacity": 25178,
+    "tier": "professional"
+  },
+  {
+    "id": "france-lens",
+    "name": "RC Lens",
+    "country": "France",
+    "city": "Lens",
+    "stadium": "Stade Bollaert-Delelis",
+    "latitude": 50.432778,
+    "longitude": 2.815,
+    "capacity": 38223,
+    "tier": "professional"
+  },
+  {
+    "id": "france-lille",
+    "name": "Lille OSC",
+    "country": "France",
+    "city": "Lille",
+    "stadium": "Stade Pierre-Mauroy",
+    "latitude": 50.611944,
+    "longitude": 3.130556,
+    "capacity": 50186,
+    "tier": "professional"
+  },
+  {
+    "id": "france-lorient",
+    "name": "FC Lorient",
+    "country": "France",
+    "city": "Lorient",
+    "stadium": "Stade du Moustoir",
+    "latitude": 47.748611,
+    "longitude": -3.368056,
+    "capacity": 18110,
+    "tier": "professional"
+  },
+  {
+    "id": "france-lyon",
+    "name": "Olympique Lyonnais",
+    "country": "France",
+    "city": "Lyon",
+    "stadium": "Groupama Stadium",
+    "latitude": 45.765278,
+    "longitude": 4.982222,
+    "capacity": 59186,
+    "tier": "professional"
+  },
+  {
+    "id": "france-marseille",
+    "name": "Olympique de Marseille",
+    "country": "France",
+    "city": "Marseille",
+    "stadium": "Stade Vélodrome",
+    "latitude": 43.269722,
+    "longitude": 5.395833,
+    "capacity": 67394,
+    "tier": "professional"
+  },
+  {
+    "id": "france-metz",
+    "name": "FC Metz",
+    "country": "France",
+    "city": "Metz",
+    "stadium": "Stade Saint-Symphorien",
+    "latitude": 49.110833,
+    "longitude": 6.160278,
+    "capacity": 25636,
+    "tier": "professional"
+  },
+  {
+    "id": "monaco-monaco",
+    "name": "AS Monaco",
+    "country": "Monaco",
+    "city": "Monaco",
+    "stadium": "Stade Louis II",
+    "latitude": 43.727778,
+    "longitude": 7.415556,
+    "capacity": 18523,
+    "tier": "professional"
+  },
+  {
+    "id": "france-nantes",
+    "name": "FC Nantes",
+    "country": "France",
+    "city": "Nantes",
+    "stadium": "Stade de la Beaujoire",
+    "latitude": 47.256111,
+    "longitude": -1.525,
+    "capacity": 35322,
+    "tier": "professional"
+  },
+  {
+    "id": "france-nice",
+    "name": "OGC Nice",
+    "country": "France",
+    "city": "Nice",
+    "stadium": "Allianz Riviera",
+    "latitude": 43.705278,
+    "longitude": 7.192778,
+    "capacity": 36178,
+    "tier": "professional"
+  },
+  {
+    "id": "france-paris-fc",
+    "name": "Paris FC",
+    "country": "France",
+    "city": "Paris",
+    "stadium": "Stade Jean-Bouin",
+    "latitude": 48.8434838684849,
+    "longitude": 2.2529341571873385,
+    "capacity": 19904,
+    "tier": "professional"
+  },
+  {
+    "id": "france-psg",
+    "name": "Paris Saint-Germain",
+    "country": "France",
+    "city": "Paris",
+    "stadium": "Parc des Princes",
+    "latitude": 48.841389,
+    "longitude": 2.253056,
+    "capacity": 48583,
+    "tier": "professional"
+  },
+  {
+    "id": "france-rennes",
+    "name": "Stade Rennais",
+    "country": "France",
+    "city": "Rennes",
+    "stadium": "Roazhon Park",
+    "latitude": 48.1075,
+    "longitude": -1.712778,
+    "capacity": 29778,
+    "tier": "professional"
+  },
+  {
+    "id": "france-strasbourg",
+    "name": "RC Strasbourg Alsace",
+    "country": "France",
+    "city": "Strasbourg",
+    "stadium": "Stade de la Meinau",
+    "latitude": 48.56,
+    "longitude": 7.754722,
+    "capacity": 26109,
+    "tier": "professional"
+  },
+  {
+    "id": "france-toulouse",
+    "name": "Toulouse FC",
+    "country": "France",
+    "city": "Toulouse",
+    "stadium": "Stadium de Toulouse",
+    "latitude": 43.583056,
+    "longitude": 1.434167,
+    "capacity": 33150,
+    "tier": "professional"
   }
 ]
