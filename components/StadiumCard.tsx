@@ -2,6 +2,7 @@ import React, { useEffect, useRef, useState } from 'react';
 import './StadiumCard.css';
 import logo from '../logos/afc-ajax.svg';
 import Image from 'next/image';
+import { ImageWithFallback } from './SearchBar';
 
 interface Stadium {
   id?: string;
@@ -32,9 +33,9 @@ const StadiumCard: React.FC<StadiumCardProps> = ({ stadium, onClose }) => {
         </button>
 
         <div className="stadium-card-header">
-          {/* <img src={logo} alt='AFC Ajax' style={{ width: '48px', height: '48px' }} /> */}
-          <Image
+          <ImageWithFallback
             src={`/logos/${stadium.id}.svg`}
+            fallbackSrc={`/logos/${stadium.id}.png`}
             width={48}
             height={48}
             alt={stadium.name}

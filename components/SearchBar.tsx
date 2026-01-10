@@ -30,9 +30,26 @@ const COUNTRIES: Record<string, string> = {
   'romania': '🇷🇴',
   'saudi-arabia': '🇸🇦',
   'mexico': '🇲🇽',
+  'colombia': '🇨🇴',
 };
 
 export const flag = (country: string) => COUNTRIES[country.replaceAll(' ', '-').toLocaleLowerCase()];
+
+export const ImageWithFallback = (props) => {
+  const { src, fallbackSrc, ...rest } = props;
+  const [imgSrc, setImgSrc] = useState(src);
+
+  return (
+    <Image
+      {...rest}
+      src={imgSrc}
+      onError={() => {
+        setImgSrc(fallbackSrc);
+      }}
+    />
+  );
+};
+
 
 export default function SearchBar({ onSelectTeam }: SearchBarProps) {
   const [searchQuery, setSearchQuery] = useState("");
@@ -120,8 +137,9 @@ export default function SearchBar({ onSelectTeam }: SearchBarProps) {
                   }}
                 >
                   <div className="flex gap-3 flex-1 min-w-0">
-                    <Image
+                    <ImageWithFallback
                       src={`/logos/${team.id}.svg`}
+                      fallbackSrc={`/logos/${team.id}.png`}
                       width={25}
                       height={25}
                       alt={team.name}
