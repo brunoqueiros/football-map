@@ -9028,5 +9028,203 @@
     "longitude": 139.6061,
     "capacity": 72327,
     "tier": "professional"
+  },
+  {
+    "id": "japan-blaublitz-akita",
+    "name": "Blaublitz Akita",
+    "country": "Japan",
+    "city": "Akita",
+    "stadium": "Soyu Stadium",
+    "latitude": 39.7214,
+    "longitude": 140.0911,
+    "capacity": 20125,
+    "tier": "professional"
+  },
+  {
+    "id": "japan-ehime-fc",
+    "name": "Ehime FC",
+    "country": "Japan",
+    "city": "Matsuyama",
+    "stadium": "Ningineer Stadium",
+    "latitude": 33.76843740540054,
+    "longitude": 132.79767169870493,
+    "capacity": 20919,
+    "tier": "professional"
+  },
+  {
+    "id": "japan-fc-imabari",
+    "name": "FC Imabari",
+    "country": "Japan",
+    "city": "Imabari",
+    "stadium": "ASICS Satoyama Stadium",
+    "latitude": 34.04092031830932,
+    "longitude": 132.95865043918994,
+    "capacity": 5316,
+    "tier": "professional"
+  },
+  {
+    "id": "japan-fujieda-myfc",
+    "name": "Fujieda MYFC",
+    "country": "Japan",
+    "city": "Fujieda",
+    "stadium": "Fujieda Soccer Stadium",
+    "latitude": 34.88169639263488,
+    "longitude": 138.23297744106858,
+    "capacity": 13000,
+    "tier": "professional"
+  },
+  {
+    "id": "japan-hokkaido-consadole-sapporo",
+    "name": "Hokkaido Consadole Sapporo",
+    "country": "Japan",
+    "city": "Sapporo",
+    "stadium": "Daiwa House Premist Dome",
+    "latitude": 43.0151,
+    "longitude": 141.4097,
+    "capacity": 38794,
+    "tier": "professional"
+  },
+  {
+    "id": "japan-iwaki-fc",
+    "name": "Iwaki FC",
+    "country": "Japan",
+    "city": "Iwaki",
+    "stadium": "Hawaiians Stadium Iwaki",
+    "latitude": 37.01749430085132,
+    "longitude": 140.8644810853197,
+    "capacity": 5600,
+    "tier": "professional"
+  },
+  {
+    "id": "japan-kataller-toyama",
+    "name": "Kataller Toyama",
+    "country": "Japan",
+    "city": "Toyama",
+    "stadium": "Toyama Athletic Stadium",
+    "latitude": 36.625128629654114,
+    "longitude": 137.19567213927462,
+    "capacity": 18588,
+    "tier": "professional"
+  },
+  {
+    "id": "japan-montedio-yamagata",
+    "name": "Montedio Yamagata",
+    "country": "Japan",
+    "city": "Tendo",
+    "stadium": "ND Soft Stadium Yamagata",
+    "latitude": 38.3364,
+    "longitude": 140.3775,
+    "capacity": 21292,
+    "tier": "professional"
+  },
+  {
+    "id": "japan-oita-trinita",
+    "name": "Oita Trinita",
+    "country": "Japan",
+    "city": "Oita",
+    "stadium": "Resonac Dome Oita",
+    "latitude": 33.2003,
+    "longitude": 131.6575,
+    "capacity": 40000,
+    "tier": "professional"
+  },
+  {
+    "id": "japan-omiya-ardija",
+    "name": "RB Omiya Ardija",
+    "country": "Japan",
+    "city": "Saitama",
+    "stadium": "NACK5 Stadium Omiya",
+    "latitude": 35.9167,
+    "longitude": 139.6331,
+    "capacity": 15500,
+    "tier": "professional"
+  },
+  {
+    "id": "japan-renofa-yamaguchi",
+    "name": "Renofa Yamaguchi",
+    "country": "Japan",
+    "city": "Yamaguchi",
+    "stadium": "Ishin Me-Life Stadium",
+    "latitude": 34.15470884630647,
+    "longitude": 131.43746861035757,
+    "capacity": 20000,
+    "tier": "professional"
+  },
+  {
+    "id": "japan-roasso-kumamoto",
+    "name": "Roasso Kumamoto",
+    "country": "Japan",
+    "city": "Kumamoto",
+    "stadium": "Egao Kenko Stadium",
+    "latitude": 32.8369,
+    "longitude": 130.8,
+    "capacity": 30449,
+    "tier": "professional"
+  },
+  {
+    "id": "japan-sagan-tosu",
+    "name": "Sagan Tosu",
+    "country": "Japan",
+    "city": "Tosu",
+    "stadium": "Ekimae Real Estate Stadium",
+    "latitude": 33.3717,
+    "longitude": 130.5203,
+    "capacity": 24130,
+    "tier": "professional"
+  },
+  {
+    "id": "japan-shonan-bellmare",
+    "name": "Shonan Bellmare",
+    "country": "Japan",
+    "city": "Hiratsuka",
+    "stadium": "Lemon Gas Stadium Hiratsuka",
+    "latitude": 35.3436,
+    "longitude": 139.3411,
+    "capacity": 15380,
+    "tier": "professional"
+  },
+  {
+    "id": "japan-tokushima-vortis",
+    "name": "Tokushima Vortis",
+    "country": "Japan",
+    "city": "Naruto",
+    "stadium": "Pocari Sweat Stadium",
+    "latitude": 34.1681,
+    "longitude": 134.6186,
+    "capacity": 19637,
+    "tier": "professional"
+  },
+  {
+    "id": "japan-vanraure-hachinohe",
+    "name": "Vanraure Hachinohe",
+    "country": "Japan",
+    "city": "Hachinohe",
+    "stadium": "Prifoods Stadium",
+    "latitude": 40.590511727478074,
+    "longitude": 141.4571502701047,
+    "capacity": 5200,
+    "tier": "professional"
+  },
+  {
+    "id": "japan-vegalta-sendai",
+    "name": "Vegalta Sendai",
+    "country": "Japan",
+    "city": "Sendai",
+    "stadium": "Yurtec Stadium Sendai",
+    "latitude": 38.3192,
+    "longitude": 140.8817,
+    "capacity": 19694,
+    "tier": "professional"
+  },
+  {
+    "id": "japan-yokohama-fc",
+    "name": "Yokohama FC",
+    "country": "Japan",
+    "city": "Yokohama",
+    "stadium": "NHK Spring Mitsuzawa Football Stadium",
+    "latitude": 35.4706,
+    "longitude": 139.6031,
+    "capacity": 15454,
+    "tier": "professional"
   }
 ]
