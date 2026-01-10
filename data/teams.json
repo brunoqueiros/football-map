@@ -9435,5 +9435,137 @@
     "longitude": 139.85758176625515,
     "capacity": 25244,
     "tier": "professional"
+  },
+  {
+    "id": "korea-anyang",
+    "name": "FC Anyang",
+    "country": "South Korea",
+    "city": "Anyang",
+    "stadium": "Anyang Stadium",
+    "latitude": 37.4042,
+    "longitude": 126.9531,
+    "capacity": 17143,
+    "tier": "professional"
+  },
+  {
+    "id": "korea-bucheon",
+    "name": "Bucheon FC 1995",
+    "country": "South Korea",
+    "city": "Bucheon",
+    "stadium": "Bucheon Stadium",
+    "latitude": 37.5033,
+    "longitude": 126.8042,
+    "capacity": 34456,
+    "tier": "professional"
+  },
+  {
+    "id": "korea-daejeon",
+    "name": "Daejeon Hana Citizen",
+    "country": "South Korea",
+    "city": "Daejeon",
+    "stadium": "Daejeon World Cup Stadium",
+    "latitude": 36.3653,
+    "longitude": 127.3236,
+    "capacity": 40903,
+    "tier": "professional"
+  },
+  {
+    "id": "korea-gangwon",
+    "name": "Gangwon FC",
+    "country": "South Korea",
+    "city": "Gangneung",
+    "stadium": "Gangneung Stadium",
+    "latitude": 37.7719,
+    "longitude": 128.8986,
+    "capacity": 22333,
+    "tier": "professional"
+  },
+  {
+    "id": "korea-gimcheon",
+    "name": "Gimcheon Sangmu",
+    "country": "South Korea",
+    "city": "Gimcheon",
+    "stadium": "Gimcheon Stadium",
+    "latitude": 36.1383,
+    "longitude": 128.1006,
+    "capacity": 25000,
+    "tier": "professional"
+  },
+  {
+    "id": "korea-gwangju",
+    "name": "Gwangju FC",
+    "country": "South Korea",
+    "city": "Gwangju",
+    "stadium": "Gwangju Football Stadium",
+    "latitude": 35.1328,
+    "longitude": 126.8778,
+    "capacity": 10007,
+    "tier": "professional"
+  },
+  {
+    "id": "korea-incheon",
+    "name": "Incheon United",
+    "country": "South Korea",
+    "city": "Incheon",
+    "stadium": "Incheon Football Stadium",
+    "latitude": 37.4661,
+    "longitude": 126.6431,
+    "capacity": 20891,
+    "tier": "professional"
+  },
+  {
+    "id": "korea-jeju",
+    "name": "Jeju United",
+    "country": "South Korea",
+    "city": "Seogwipo",
+    "stadium": "Jeju World Cup Stadium",
+    "latitude": 33.2461,
+    "longitude": 126.5094,
+    "capacity": 29791,
+    "tier": "professional"
+  },
+  {
+    "id": "korea-jeonbuk",
+    "name": "Jeonbuk Hyundai Motors",
+    "country": "South Korea",
+    "city": "Jeonju",
+    "stadium": "Jeonju World Cup Stadium",
+    "latitude": 35.8681,
+    "longitude": 127.0644,
+    "capacity": 42477,
+    "tier": "professional"
+  },
+  {
+    "id": "korea-pohang",
+    "name": "Pohang Steelers",
+    "country": "South Korea",
+    "city": "Pohang",
+    "stadium": "Pohang Steel Yard",
+    "latitude": 35.9978,
+    "longitude": 129.3853,
+    "capacity": 17443,
+    "tier": "professional"
+  },
+  {
+    "id": "korea-seoul",
+    "name": "FC Seoul",
+    "country": "South Korea",
+    "city": "Seoul",
+    "stadium": "Seoul World Cup Stadium",
+    "latitude": 37.5683,
+    "longitude": 126.8972,
+    "capacity": 66704,
+    "tier": "professional"
+  },
+  {
+    "id": "korea-ulsan",
+    "name": "Ulsan HD FC",
+    "country": "South Korea",
+    "city": "Ulsan",
+    "stadium": "Ulsan Munsu Football Stadium",
+    "latitude": 35.5353,
+    "longitude": 129.2594,
+    "capacity": 44102,
+    "tier": "professional"
   }
 ]
