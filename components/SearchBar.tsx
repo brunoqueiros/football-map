@@ -24,6 +24,8 @@ const COUNTRIES: Record<string, string> = {
   'argentina': '🇦🇷',
   'belgium': '🇧🇪',
   'turkey': '🇹🇷',
+  'canada': '🇨🇦',
+  'usa': '🇺🇸',
 };
 
 export const flag = (country: string) => COUNTRIES[country.toLocaleLowerCase()];
