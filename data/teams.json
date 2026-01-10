@@ -6465,5 +6465,203 @@
     "longitude": 9.337041853020825,
     "capacity": 2000,
     "tier": "professional"
+  },
+  {
+    "id": "portugal-alverca",
+    "name": "Alverca FC",
+    "country": "Portugal",
+    "city": "Alverca do Ribatejo",
+    "stadium": "Complexo Desportivo do Alverca",
+    "latitude": 38.89805531924995,
+    "longitude": -9.035026531843561,
+    "capacity": 7705,
+    "tier": "professional"
+  },
+  {
+    "id": "portugal-arouca",
+    "name": "FC Arouca",
+    "country": "Portugal",
+    "city": "Arouca",
+    "stadium": "Estádio Municipal de Arouca",
+    "latitude": 40.933054084437536,
+    "longitude": -8.250345131768654,
+    "capacity": 5000,
+    "tier": "professional"
+  },
+  {
+    "id": "portugal-avs",
+    "name": "AVS Futebol SAD",
+    "country": "Portugal",
+    "city": "Vila das Aves",
+    "stadium": "Estádio do CD Aves",
+    "latitude": 41.36709988041692,
+    "longitude": -8.411689131752233,
+    "capacity": 5441,
+    "tier": "professional"
+  },
+  {
+    "id": "portugal-benfica",
+    "name": "SL Benfica",
+    "country": "Portugal",
+    "city": "Lisbon",
+    "stadium": "Estádio da Luz",
+    "latitude": 38.75277777777778,
+    "longitude": -9.184722222222222,
+    "capacity": 64642,
+    "tier": "professional"
+  },
+  {
+    "id": "portugal-braga",
+    "name": "SC Braga",
+    "country": "Portugal",
+    "city": "Braga",
+    "stadium": "Estádio Municipal de Braga",
+    "latitude": 41.56222222222222,
+    "longitude": -8.430833333333332,
+    "capacity": 30286,
+    "tier": "professional"
+  },
+  {
+    "id": "portugal-casa-pia",
+    "name": "Casa Pia AC",
+    "country": "Portugal",
+    "city": "Rio Maior",
+    "stadium": "Estádio Municipal de Rio Maior",
+    "latitude": 39.344656725453234,
+    "longitude": -8.935167545320255,
+    "capacity": 8500,
+    "tier": "professional"
+  },
+  {
+    "id": "portugal-estoril",
+    "name": "Estoril Praia",
+    "country": "Portugal",
+    "city": "Estoril",
+    "stadium": "Estádio António Coimbra da Mota",
+    "latitude": 38.71533028425787,
+    "longitude": -9.406335703014337,
+    "capacity": 8015,
+    "tier": "professional"
+  },
+  {
+    "id": "portugal-estrela",
+    "name": "Estrela da Amadora",
+    "country": "Portugal",
+    "city": "Amadora",
+    "stadium": "Estádio José Gomes",
+    "latitude": 38.75219957886698,
+    "longitude": -9.22784305883436,
+    "capacity": 11635,
+    "tier": "professional"
+  },
+  {
+    "id": "portugal-famalicao",
+    "name": "FC Famalicão",
+    "country": "Portugal",
+    "city": "Vila Nova de Famalicão",
+    "stadium": "Estádio Municipal 22 de Junho",
+    "latitude": 41.40152738585554,
+    "longitude": -8.522223612707641,
+    "capacity": 5300,
+    "tier": "professional"
+  },
+  {
+    "id": "portugal-gil-vicente",
+    "name": "Gil Vicente FC",
+    "country": "Portugal",
+    "city": "Barcelos",
+    "stadium": "Estádio Cidade de Barcelos",
+    "latitude": 41.551291236302006,
+    "longitude": -8.62301270290943,
+    "capacity": 12374,
+    "tier": "professional"
+  },
+  {
+    "id": "portugal-guimaraes",
+    "name": "Vitória SC",
+    "country": "Portugal",
+    "city": "Guimarães",
+    "stadium": "Estádio Dom Afonso Henriques",
+    "latitude": 41.44611111111111,
+    "longitude": -8.299722222222224,
+    "capacity": 30000,
+    "tier": "professional"
+  },
+  {
+    "id": "portugal-moreirense",
+    "name": "Moreirense FC",
+    "country": "Portugal",
+    "city": "Moreira de Cónegos",
+    "stadium": "Parque Joaquim de Almeida Freitas",
+    "latitude": 41.37817257762816,
+    "longitude": -8.354547316408828,
+    "capacity": 6153,
+    "tier": "professional"
+  },
+  {
+    "id": "portugal-nacional",
+    "name": "CD Nacional",
+    "country": "Portugal",
+    "city": "Funchal",
+    "stadium": "Estádio da Madeira",
+    "latitude": 32.67080536436644,
+    "longitude": -16.883401057184848,
+    "capacity": 5200,
+    "tier": "professional"
+  },
+  {
+    "id": "portugal-porto",
+    "name": "Porto",
+    "country": "Portugal",
+    "city": "Porto",
+    "stadium": "Estádio do Dragão",
+    "latitude": 41.16194444444444,
+    "longitude": -8.58361111111111,
+    "capacity": 50033,
+    "tier": "professional"
+  },
+  {
+    "id": "portugal-rio-ave",
+    "name": "Rio Ave FC",
+    "country": "Portugal",
+    "city": "Vila do Conde",
+    "stadium": "Estádio do Rio Ave",
+    "latitude": 41.36283380527439,
+    "longitude": -8.74005018757368,
+    "capacity": 9065,
+    "tier": "professional"
+  },
+  {
+    "id": "portugal-santa-clara",
+    "name": "CD Santa Clara",
+    "country": "Portugal",
+    "city": "Ponta Delgada",
+    "stadium": "Estádio de São Miguel",
+    "latitude": 37.763906195865424,
+    "longitude": -25.62250635701909,
+    "capacity": 13277,
+    "tier": "professional"
+  },
+  {
+    "id": "portugal-sporting",
+    "name": "Sporting CP",
+    "country": "Portugal",
+    "city": "Lisbon",
+    "stadium": "Estádio José Alvalade",
+    "latitude": 38.76138888888889,
+    "longitude": -9.160833333333334,
+    "capacity": 50095,
+    "tier": "professional"
+  },
+  {
+    "id": "portugal-tondela",
+    "name": "CD Tondela",
+    "country": "Portugal",
+    "city": "Tondela",
+    "stadium": "Estádio João Cardoso",
+    "latitude": 40.51208358267906,
+    "longitude": -8.082651943427074,
+    "capacity": 5000,
+    "tier": "professional"
   }
 ]
