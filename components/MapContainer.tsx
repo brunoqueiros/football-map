@@ -4,6 +4,7 @@ import CountriesFilter from "@/components/CountriesFilter";
 import SearchBar from "@/components/SearchBar";
 import Map, { Stadium, MapRef, FLY_DURATION } from "@/components/Map";
 import teams from "@/data/teams.json";
+import StadiumCard from "./StadiumCard";
 
 export default function MapContainer({
   accessToken
@@ -33,6 +34,22 @@ export default function MapContainer({
         selectedStadium={selectedStadium}
         onSelectStadium={setSelectedStadium}
       />
+      {selectedStadium && (
+        <StadiumCard
+          stadium={{
+            ...selectedStadium,
+            nextFixture: {
+              competition: 'World Cup',
+              date: '01-24-2026 14:00',
+              isHome: false,
+              opponent: 'Corinthians',
+              opponentId: 'brazil-corinthians',
+              venue: 'Neo Química Arena',
+            }
+          }}
+          onClose={() => setSelectedStadium(null)}
+        />
+      )}
       <SearchBar onSelectTeam={handleSelectTeam} />
       <CountriesFilter />
     </div>

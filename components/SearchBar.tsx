@@ -87,7 +87,7 @@ export default function SearchBar({ onSelectTeam }: SearchBarProps) {
 
   return (
     <div className='fixed top-4 left-1/2 -translate-x-1/2 z-50'>
-      <div className='relative w-96'>
+      <div className='relative w-150'>
         <div className={`flex items-center gap-3 px-4 py-3 rounded-xl bg-neutral-900/90 backdrop-blur-md border shadow-2xl transition-colors ${isFocused ? 'border-neutral-600' : 'border-neutral-800'
           }`}>
           {/* Search Icon */}
@@ -131,7 +131,7 @@ export default function SearchBar({ onSelectTeam }: SearchBarProps) {
 
         {/* Search Results Dropdown */}
         {showResults && (
-          <div className='absolute top-full mt-2 w-full max-h-96 overflow-y-auto scrollbar-hide'>
+          <div className='absolute top-full mt-2 w-full overflow-y-auto scrollbar-hide'>
             <div className='flex flex-col gap-1 p-2 rounded-xl bg-neutral-900/95 backdrop-blur-md border border-neutral-800 shadow-2xl'>
               {filteredTeams.map((team, index) => (
                 <button

@@ -151,12 +151,6 @@ const Map = forwardRef<MapRef, MapProps>(({
           height: '100vh'
         }}
       />
-      {selectedStadium && (
-        <StadiumCard
-          stadium={selectedStadium}
-          onClose={() => onSelectStadium?.(null)}
-        />
-      )}
     </>
   );
 });
