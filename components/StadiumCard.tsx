@@ -1,6 +1,7 @@
 import React from 'react';
 import { ImageWithFallback } from './SearchBar';
 import { Stadium } from './Map';
+import Crest from './Crest';
 
 interface StadiumCardProps {
   stadium: Stadium;
@@ -54,20 +55,14 @@ const StadiumCard: React.FC<StadiumCardProps> = ({ stadium, onClose }) => {
 
         <div className="px-5 py-2 bg-white/6 border-b border-white/6 flex items-center gap-3.5">
           <div className="shrink-0 w-13.5 h-13.5 flex items-center justify-center p-1.5">
-            <ImageWithFallback
-              src={`/logos/${stadium.crest}.svg`}
-              fallbackSrc={`/logos/${stadium.crest}.png`}
-              width={35}
-              height={35}
-              alt={stadium.name}
-            />
+            <Crest src={stadium.crest!} name={stadium.name} />
           </div>
           <h2 className="flex-1 min-w-0 text-[17px] font-semibold text-white leading-tight tracking-tight">
             {stadium.name}
           </h2>
         </div>
 
-        <div className="px-5 py-4.5">
+        <div className="px-5 py-2.5">
           {stadium.stadium && (
             <div className="flex items-center gap-3 py-2.5 border-b border-white/5">
               <div className="shrink-0 w-8 h-8 flex items-center justify-center bg-white/5 border border-white/6 rounded-lg text-white/60">
@@ -148,13 +143,7 @@ const StadiumCard: React.FC<StadiumCardProps> = ({ stadium, onClose }) => {
               {/* Home Team */}
               <div className="flex flex-col items-center flex-1 min-w-0">
                 <div className="flex items-center justify-center mb-2 p-2">
-                  <ImageWithFallback
-                    src={`/logos/${stadium.crest}.svg`}
-                    fallbackSrc={`/logos/${stadium.crest}.png`}
-                    width={35}
-                    height={35}
-                    alt={stadium.name}
-                  />
+                  <Crest src={stadium.crest!} name={stadium.name} />
                 </div>
                 <span className="text-xs font-medium text-white/90 text-center truncate w-full">
                   {stadium.name.length > 12 ? stadium.name.substring(0, 12) + '...' : stadium.name}
@@ -173,13 +162,7 @@ const StadiumCard: React.FC<StadiumCardProps> = ({ stadium, onClose }) => {
               <div className="flex flex-col items-center flex-1 min-w-0">
                 <div className="flex items-center justify-center mb-2 p-2">
                   {stadium.nextFixture.opponentId ? (
-                    <ImageWithFallback
-                      src={`/logos/${stadium.nextFixture.opponentId}.svg`}
-                      fallbackSrc={`/logos/${stadium.nextFixture.opponentId}.png`}
-                      width={35}
-                      height={35}
-                      alt={stadium.nextFixture.opponent}
-                    />
+                    <Crest src={stadium.nextFixture.opponentId!} name={stadium.nextFixture.opponent} />
                   ) : (
                     <span className="text-xl text-white/30">?</span>
                   )}

@@ -1,8 +1,8 @@
 'use client'
 import { useState } from "react";
 import { Stadium } from "./Map";
-import Image from "next/image";
 import { useFuzzySearchList } from '@nozbe/microfuzz/react';
+import Crest from "./Crest";
 
 interface SearchBarProps {
   onSelectTeam: (team: Stadium) => void;
@@ -38,25 +38,10 @@ const COUNTRIES: Record<string, string> = {
   'peru': '🇵🇪',
   'morocco': '🇲🇦',
   'uruguay': '🇺🇾',
+  'poland': '🇵🇱',
 };
 
 export const flag = (country: string) => COUNTRIES[country.replaceAll(' ', '-').toLocaleLowerCase()];
-
-export const ImageWithFallback = (props: any) => {
-  const { src, fallbackSrc, ...rest } = props;
-  const [imgSrc, setImgSrc] = useState(src);
-
-  return (
-    <Image
-      {...rest}
-      src={imgSrc}
-      onError={() => {
-        setImgSrc(fallbackSrc);
-      }}
-    />
-  );
-};
-
 
 export default function SearchBar({ onSelectTeam, teams }: SearchBarProps) {
   const [searchQuery, setSearchQuery] = useState("");
@@ -144,14 +129,7 @@ export default function SearchBar({ onSelectTeam, teams }: SearchBarProps) {
                   }}
                 >
                   <div className="flex gap-3 flex-1 min-w-0">
-                    <ImageWithFallback
-                      src={`/logos/${team.crest}.svg`}
-                      fallbackSrc={`/logos/${team.crest}.png`}
-                      width={25}
-                      height={25}
-                      alt={team.name}
-                      className="object-contain"
-                    />
+                    <Crest src={team.crest!} name={team.name} />
                     <div>
                       <span className="text-sm font-medium text-neutral-200 truncate">{team.name}</span>
                       <div className="flex items-center gap-1.5 text-xs text-neutral-400">
