@@ -79,7 +79,7 @@ export default function CountriesFilter() {
           {allSelected ? (
             <span className="flex gap-2 items-center">
               <span className="text-lg">🌍</span>
-              <span className="text-sm font-medium text-neutral-200">All Countries</span>
+              <span className="text-sm font-medium text-neutral-200">All Countries ({teams.length})</span>
             </span>
           ) : (
             <span className="flex gap-1.5 items-center overflow-hidden">

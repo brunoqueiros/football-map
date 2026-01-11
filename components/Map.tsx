@@ -29,6 +29,8 @@ export interface MapRef {
   flyToLocation: (lng: number, lat: number, zoom?: number) => void;
 }
 
+export const FLY_DURATION = 2000;
+
 const Map = forwardRef<MapRef, MapProps>(({
   stadiums,
   accessToken,
@@ -47,7 +49,7 @@ const Map = forwardRef<MapRef, MapProps>(({
         mapRef.current.flyTo({
           center: [lng, lat],
           zoom: zoom,
-          duration: 4000,
+          duration: FLY_DURATION,
           essential: true
         });
       }

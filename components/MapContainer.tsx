@@ -2,7 +2,7 @@
 import { useRef, useState, useMemo } from "react";
 import CountriesFilter from "@/components/CountriesFilter";
 import SearchBar from "@/components/SearchBar";
-import Map, { Stadium, MapRef } from "@/components/Map";
+import Map, { Stadium, MapRef, FLY_DURATION } from "@/components/Map";
 import teams from "@/data/teams.json";
 
 export default function MapContainer({
@@ -19,7 +19,7 @@ export default function MapContainer({
     setTimeout(() => {
       // Show the stadium card
       setSelectedStadium(team);
-    }, 4500);
+    }, FLY_DURATION + 500);
   };
 
   return (
