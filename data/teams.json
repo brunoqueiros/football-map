@@ -10788,5 +10788,170 @@
     "longitude": -55.99207177597115,
     "capacity": 12000,
     "tier": "professional"
+  },
+  {
+    "crest": "poland-arka-gdynia",
+    "name": "Arka Gdynia",
+    "country": "Poland",
+    "city": "Gdynia",
+    "stadium": "Stadion GOSiR",
+    "latitude": 54.4936,
+    "longitude": 18.5303,
+    "capacity": 15139,
+    "tier": "professional"
+  },
+  {
+    "crest": "poland-cracovia",
+    "name": "Cracovia",
+    "country": "Poland",
+    "city": "Kraków",
+    "stadium": "Stadion Cracovii im. Józefa Piłsudskiego",
+    "latitude": 50.0575,
+    "longitude": 19.9214,
+    "capacity": 15016,
+    "tier": "professional"
+  },
+  {
+    "crest": "poland-gks-katowice",
+    "name": "GKS Katowice",
+    "country": "Poland",
+    "city": "Katowice",
+    "stadium": "Arena Katowice",
+    "latitude": 50.250961617271614,
+    "longitude": 18.973186598336113,
+    "capacity": 15048,
+    "tier": "professional"
+  },
+  {
+    "crest": "poland-gornik-zabrze",
+    "name": "Górnik Zabrze",
+    "country": "Poland",
+    "city": "Zabrze",
+    "stadium": "Arena Zabrze",
+    "latitude": 50.29641259291085,
+    "longitude": 18.768359056008247,
+    "capacity": 28236,
+    "tier": "professional"
+  },
+  {
+    "crest": "poland-jagiellonia",
+    "name": "Jagiellonia Białystok",
+    "country": "Poland",
+    "city": "Białystok",
+    "stadium": "Chorten Arena",
+    "latitude": 53.1069,
+    "longitude": 23.1489,
+    "capacity": 22372,
+    "tier": "professional"
+  },
+  {
+    "crest": "poland-korona-kielce",
+    "name": "Korona Kielce",
+    "country": "Poland",
+    "city": "Kielce",
+    "stadium": "Exbud Arena",
+    "latitude": 50.861615739613356,
+    "longitude": 20.624839200199904,
+    "capacity": 15700,
+    "tier": "professional"
+  },
+  {
+    "crest": "poland-lech-poznan",
+    "name": "Lech Poznań",
+    "country": "Poland",
+    "city": "Poznań",
+    "stadium": "Enea Stadion",
+    "latitude": 52.3975,
+    "longitude": 16.8583,
+    "capacity": 42837,
+    "tier": "professional"
+  },
+  {
+    "crest": "poland-lechia-gdansk",
+    "name": "Lechia Gdańsk",
+    "country": "Poland",
+    "city": "Gdańsk",
+    "stadium": "Polsat Plus Arena Gdańsk",
+    "latitude": 54.3906,
+    "longitude": 18.6389,
+    "capacity": 41620,
+    "tier": "professional"
+  },
+  {
+    "crest": "poland-legia-warsaw",
+    "name": "Legia Warsaw",
+    "country": "Poland",
+    "city": "Warsaw",
+    "stadium": "Stadion Wojska Polskiego",
+    "latitude": 52.2203,
+    "longitude": 21.0406,
+    "capacity": 31103,
+    "tier": "professional"
+  },
+  {
+    "crest": "poland-motor-lublin",
+    "name": "Motor Lublin",
+    "country": "Poland",
+    "city": "Lublin",
+    "stadium": "Arena Lublin",
+    "latitude": 51.2322,
+    "longitude": 22.5539,
+    "capacity": 15247,
+    "tier": "professional"
+  },
+  {
+    "crest": "poland-wisla-krakow",
+    "name": "Wisła Kraków",
+    "country": "Poland",
+    "city": "Kraków",
+    "stadium": "Stadion Miejski im. Henryka Reymana",
+    "latitude": 50.0651,
+    "longitude": 19.9125,
+    "capacity": 33130,
+    "tier": "professional"
+  },
+  {
+    "crest": "poland-slask-wroclaw",
+    "name": "Śląsk Wrocław",
+    "country": "Poland",
+    "city": "Wrocław",
+    "stadium": "Tarczyński Arena",
+    "latitude": 51.1417,
+    "longitude": 16.9433,
+    "capacity": 42771,
+    "tier": "professional"
+  },
+  {
+    "crest": "poland-ruch-chorzow",
+    "name": "Ruch Chorzów",
+    "country": "Poland",
+    "city": "Chorzów",
+    "stadium": "Stadion Śląski",
+    "latitude": 50.2886,
+    "longitude": 18.9739,
+    "capacity": 54378,
+    "tier": "professional"
+  },
+  {
+    "crest": "poland-miedz-legnica",
+    "name": "Miedź Legnica",
+    "country": "Poland",
+    "city": "Legnica",
+    "stadium": "Stadion Miejski im. Orła Białego",
+    "latitude": 51.2039,
+    "longitude": 16.1733,
+    "capacity": 6194,
+    "tier": "professional"
+  },
+  {
+    "crest": "poland-stal-mielec",
+    "name": "Stal Mielec",
+    "country": "Poland",
+    "city": "Mielec",
+    "stadium": "Stadion Miejski w Mielcu",
+    "latitude": 50.298766012472285,
+    "longitude": 21.43581795600811,
+    "capacity": 6864,
+    "tier": "professional"
   }
 ]
