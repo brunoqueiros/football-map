@@ -37,7 +37,7 @@ async function migrateTeams() {
   }));
 
   console.log('Example ID transformation:');
-  console.log(`  Original: ${teams[0].id}`);
+  // console.log(`  Original: ${teams[0].id}`);
   console.log(`  New ID: ${transformedTeams[0].id}`);
   console.log(`  Crest: ${transformedTeams[0].crest}`);
 
