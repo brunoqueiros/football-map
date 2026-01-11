@@ -50,7 +50,7 @@ export default function MapContainer({
           onClose={() => setSelectedStadium(null)}
         />
       )}
-      <SearchBar onSelectTeam={handleSelectTeam} />
+      <SearchBar onSelectTeam={handleSelectTeam} teams={teams} />
       <CountriesFilter />
     </div>
   );

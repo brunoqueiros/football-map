@@ -1,12 +1,12 @@
 'use client'
 import { useState } from "react";
-import teams from "@/data/teams.json";
 import { Stadium } from "./Map";
 import Image from "next/image";
 import { useFuzzySearchList } from '@nozbe/microfuzz/react';
 
 interface SearchBarProps {
   onSelectTeam: (team: Stadium) => void;
+  teams: Stadium[];
 }
 
 const COUNTRIES: Record<string, string> = {
@@ -58,7 +58,7 @@ export const ImageWithFallback = (props: any) => {
 };
 
 
-export default function SearchBar({ onSelectTeam }: SearchBarProps) {
+export default function SearchBar({ onSelectTeam, teams }: SearchBarProps) {
   const [searchQuery, setSearchQuery] = useState("");
   const [isFocused, setIsFocused] = useState(false);
 
@@ -145,8 +145,8 @@ export default function SearchBar({ onSelectTeam }: SearchBarProps) {
                 >
                   <div className="flex gap-3 flex-1 min-w-0">
                     <ImageWithFallback
-                      src={`/logos/${team.crest || team.id}.svg`}
-                      fallbackSrc={`/logos/${team.crest || team.id}.png`}
+                      src={`/logos/${team.crest}.svg`}
+                      fallbackSrc={`/logos/${team.crest}.png`}
                       width={25}
                       height={25}
                       alt={team.name}
