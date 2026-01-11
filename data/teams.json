@@ -2562,17 +2562,6 @@
     "tier": "professional"
   },
   {
-    "id": "brazil-desportivo-brasil",
-    "name": "Desportivo Brasil",
-    "country": "Brazil",
-    "city": "Porto Feliz",
-    "stadium": "Estádio Municipal Ernesto Rocco",
-    "latitude": -23.180867213805982,
-    "longitude": -47.53634107296624,
-    "capacity": 6160,
-    "tier": "professional"
-  },
-  {
     "id": "brazil-catanduva-fc",
     "name": "Catanduva",
     "country": "Brazil",
@@ -3596,17 +3585,6 @@
     "tier": "professional"
   },
   {
-    "id": "brazil-brusque-fc-sc",
-    "name": "Brusque",
-    "country": "Brazil",
-    "city": "Brusque",
-    "stadium": "Estádio Augusto Bauer",
-    "latitude": -27.101281264785243,
-    "longitude": -48.91608583241578,
-    "capacity": 6000,
-    "tier": "professional"
-  },
-  {
     "id": "brazil-camboriu-fc-sc",
     "name": "Camboriú",
     "country": "Brazil",
@@ -4092,24 +4070,13 @@
   },
   {
     "id": "brazil-nacional-de-patos-pb",
-    "name": "Atlético-PB",
+    "name": "Nacional de Patos",
     "country": "Brazil",
     "city": "Patos",
     "stadium": "Estádio Mun. de Patos",
     "latitude": -7.016138137648648,
     "longitude": -37.28330077248416,
     "capacity": 8000,
-    "tier": "professional"
-  },
-  {
-    "id": "brazil-pombal-pb",
-    "name": "Pombal",
-    "country": "Brazil",
-    "city": "Pombal",
-    "stadium": "Estádio Municipal Francisco Pereira Vieira (Pereirão)",
-    "latitude": -6.76080392557054,
-    "longitude": -37.799212617088806,
-    "capacity": 5000,
     "tier": "professional"
   },
   {
@@ -4157,17 +4124,6 @@
     "tier": "professional"
   },
   {
-    "id": "brazil-fc-cascavel-pr",
-    "name": "FC Cascavel",
-    "country": "Brazil",
-    "city": "Cascavel",
-    "stadium": "Estádio Municipal Arnaldo Busato",
-    "latitude": -24.974899788955245,
-    "longitude": -53.50238633204887,
-    "capacity": 28125,
-    "tier": "professional"
-  },
-  {
     "id": "brazil-vitoria-pe",
     "name": "Vitória-PE",
     "country": "Brazil",
@@ -4176,17 +4132,6 @@
     "latitude": -8.122617295633457,
     "longitude": -35.28109461283003,
     "capacity": 10911,
-    "tier": "professional"
-  },
-  {
-    "id": "brazil-jaguar-pe",
-    "name": "Jaguar",
-    "country": "Brazil",
-    "city": "Jaboatão dos Guararapes",
-    "stadium": "Estádio Gileno de Carli",
-    "latitude": -8.276661901265966,
-    "longitude": -35.02651977474173,
-    "capacity": 5459,
     "tier": "professional"
   },
   {

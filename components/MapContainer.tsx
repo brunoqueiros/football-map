@@ -3,12 +3,12 @@ import { useRef, useState, useMemo } from "react";
 import CountriesFilter from "@/components/CountriesFilter";
 import SearchBar from "@/components/SearchBar";
 import Map, { Stadium, MapRef, FLY_DURATION } from "@/components/Map";
-import teams from "@/data/teams.json";
 import StadiumCard from "./StadiumCard";
 
 export default function MapContainer({
-  accessToken
-}: { accessToken: string; }) {
+  accessToken,
+  teams
+}: { accessToken: string; teams: Stadium[] }) {
   const [selectedStadium, setSelectedStadium] = useState<Stadium | null>(null);
   const mapRef = useRef<MapRef>(null);
   const initialCenter = useMemo<[number, number]>(() => [5, 22], []);
@@ -27,7 +27,7 @@ export default function MapContainer({
     <div className="App relative">
       <Map
         ref={mapRef}
-        stadiums={teams as Stadium[]}
+        stadiums={teams}
         accessToken={accessToken}
         initialZoom={2.5}
         initialCenter={initialCenter}

@@ -4,6 +4,15 @@ import mapboxgl from 'mapbox-gl';
 import 'mapbox-gl/dist/mapbox-gl.css';
 import StadiumCard from './StadiumCard';
 
+interface Fixture {
+  opponent: string;
+  opponentId?: string;
+  date: string;
+  competition: string;
+  isHome: boolean;
+  venue?: string;
+}
+
 export interface Stadium {
   id?: string;
   name: string;
@@ -14,6 +23,8 @@ export interface Stadium {
   country: string;
   city?: string;
   stadium?: string | null;
+  crest?: string; // Logo file path reference
+  nextFixture?: Fixture;
 }
 
 interface MapProps {

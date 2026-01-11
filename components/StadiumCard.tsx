@@ -1,27 +1,6 @@
 import React from 'react';
 import { ImageWithFallback } from './SearchBar';
-
-interface Fixture {
-  opponent: string;
-  opponentId?: string;
-  date: string;
-  competition: string;
-  isHome: boolean;
-  venue?: string;
-}
-
-interface Stadium {
-  id?: string;
-  name: string;
-  club?: string;
-  latitude: number;
-  longitude: number;
-  capacity?: number | null;
-  country: string;
-  city?: string;
-  stadium?: string | null;
-  nextFixture?: Fixture;
-}
+import { Stadium } from './Map';
 
 interface StadiumCardProps {
   stadium: Stadium;

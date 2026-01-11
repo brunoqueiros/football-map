@@ -145,8 +145,8 @@ export default function SearchBar({ onSelectTeam }: SearchBarProps) {
                 >
                   <div className="flex gap-3 flex-1 min-w-0">
                     <ImageWithFallback
-                      src={`/logos/${team.id}.svg`}
-                      fallbackSrc={`/logos/${team.id}.png`}
+                      src={`/logos/${team.crest || team.id}.svg`}
+                      fallbackSrc={`/logos/${team.crest || team.id}.png`}
                       width={25}
                       height={25}
                       alt={team.name}
