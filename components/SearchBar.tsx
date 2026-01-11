@@ -87,7 +87,7 @@ export default function SearchBar({ onSelectTeam }: SearchBarProps) {
 
   return (
     <div className='fixed top-4 left-1/2 -translate-x-1/2 z-50'>
-      <div className='relative w-150'>
+      <div className='relative lg:w-150 w-[90vw]'>
         <div className={`flex items-center gap-3 px-4 py-3 rounded-xl bg-neutral-900/90 backdrop-blur-md border shadow-2xl transition-colors ${isFocused ? 'border-neutral-600' : 'border-neutral-800'
           }`}>
           {/* Search Icon */}
