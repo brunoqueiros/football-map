@@ -43,6 +43,7 @@ const COUNTRIES: Record<string, string> = {
   'czechia': '🇨🇿',
   'switzerland': '🇨🇭',
   'liechtenstein': '🇱🇮',
+  'denmark': '🇩🇰',
 };
 
 export const flag = (country: string) => COUNTRIES[country.replaceAll(' ', '-').toLocaleLowerCase()];
