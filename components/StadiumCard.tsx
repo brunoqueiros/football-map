@@ -1,5 +1,4 @@
 import React from 'react';
-import { ImageWithFallback } from './SearchBar';
 import { Stadium } from './Map';
 import Crest from './Crest';
 
