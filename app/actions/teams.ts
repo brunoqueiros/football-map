@@ -7,7 +7,7 @@ export async function getAllTeams(): Promise<Team[]> {
     return require('../../data/teams-new.json');
   }
 
-  console.log(1111)
+  return require('../../data/teams.json');
 
   const { data, error } = await supabase
     .from('teams')
