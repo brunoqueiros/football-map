@@ -116,8 +116,8 @@ export default function SearchBar({ onSelectTeam, teams }: SearchBarProps) {
 
         {/* Search Results Dropdown */}
         {showResults && (
-          <div className='absolute top-full mt-2 w-full overflow-y-auto scrollbar-hide'>
-            <div className='flex flex-col gap-1 p-2 rounded-xl bg-neutral-900/95 backdrop-blur-md border border-neutral-800 shadow-2xl'>
+          <div className='absolute top-full mt-2 w-full '>
+            <div className='flex flex-col gap-1 p-2 rounded-xl max-h-[70vh] bg-neutral-900/95 backdrop-blur-md border border-neutral-800 shadow-2xl overflow-y-auto scrollbar-hide'>
               {filteredTeams.map((team, index) => (
                 <button
                   key={`${team.name}-${index}`}
