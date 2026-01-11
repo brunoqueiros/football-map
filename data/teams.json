@@ -10678,5 +10678,170 @@
     "longitude": -7.594035072474341,
     "capacity": 5000,
     "tier": "professional"
+  },
+  {
+    "id": "uruguay-penarol",
+    "name": "Peñarol",
+    "country": "Uruguay",
+    "city": "Montevideo",
+    "stadium": "Estadio Campeón del Siglo",
+    "latitude": -34.79676923868292,
+    "longitude": -56.06716253167431,
+    "capacity": 40005,
+    "tier": "professional"
+  },
+  {
+    "id": "uruguay-nacional",
+    "name": "Nacional",
+    "country": "Uruguay",
+    "city": "Montevideo",
+    "stadium": "Estadio Gran Parque Central",
+    "latitude": -34.8847,
+    "longitude": -56.1588,
+    "capacity": 34000,
+    "tier": "professional"
+  },
+  {
+    "id": "uruguay-defensor-sporting",
+    "name": "Defensor Sporting",
+    "country": "Uruguay",
+    "city": "Montevideo",
+    "stadium": "Estadio Luis Franzini",
+    "latitude": -34.9174,
+    "longitude": -56.1681,
+    "capacity": 16000,
+    "tier": "professional"
+  },
+  {
+    "id": "uruguay-danubio",
+    "name": "Danubio",
+    "country": "Uruguay",
+    "city": "Montevideo",
+    "stadium": "Jardines del Hipódromo",
+    "latitude": -34.83869455524352,
+    "longitude": -56.13236230468837,
+    "capacity": 18000,
+    "tier": "professional"
+  },
+  {
+    "id": "uruguay-liverpool",
+    "name": "Liverpool FC",
+    "country": "Uruguay",
+    "city": "Montevideo",
+    "stadium": "Estadio Belvedere",
+    "latitude": -34.85483051937855,
+    "longitude": -56.22555969913263,
+    "capacity": 8500,
+    "tier": "professional"
+  },
+  {
+    "id": "uruguay-montevideo-wanderers",
+    "name": "Montevideo Wanderers",
+    "country": "Uruguay",
+    "city": "Montevideo",
+    "stadium": "Estadio Parque Alfredo Víctor Viera",
+    "latitude": -34.85908203258213,
+    "longitude": -56.20410521817969,
+    "capacity": 15000,
+    "tier": "professional"
+  },
+  {
+    "id": "uruguay-boston-river",
+    "name": "Boston River",
+    "country": "Uruguay",
+    "city": "Montevideo",
+    "stadium": "Estadio Centenario",
+    "latitude": -34.8944,
+    "longitude": -56.1528,
+    "capacity": 60235,
+    "tier": "professional"
+  },
+  {
+    "id": "uruguay-cerro-largo",
+    "name": "Cerro Largo",
+    "country": "Uruguay",
+    "city": "Melo",
+    "stadium": "Estadio Arquitecto Antonio Eleuterio Ubilla",
+    "latitude": -32.35917126798838,
+    "longitude": -54.16965038943942,
+    "capacity": 9000,
+    "tier": "professional"
+  },
+  {
+    "id": "uruguay-racing",
+    "name": "Racing Montevideo",
+    "country": "Uruguay",
+    "city": "Montevideo",
+    "stadium": "Parque Osvaldo Roberto",
+    "latitude": -34.836581981902036,
+    "longitude": -56.21594130283685,
+    "capacity": 8500,
+    "tier": "professional"
+  },
+  {
+    "id": "uruguay-river-plate",
+    "name": "River Plate",
+    "country": "Uruguay",
+    "city": "Montevideo",
+    "stadium": "Estadio Parque Federico Omar Saroldi",
+    "latitude": -34.86196421596608,
+    "longitude": -56.20155762982008,
+    "capacity": 6000,
+    "tier": "professional"
+  },
+  {
+    "id": "uruguay-albion",
+    "name": "Albion FC",
+    "country": "Uruguay",
+    "city": "Montevideo",
+    "stadium": "Estadio Parque Federico Omar Saroldi",
+    "latitude": -34.86236036566863,
+    "longitude": -56.201525443312214,
+    "capacity": 6000,
+    "tier": "professional"
+  },
+  {
+    "id": "uruguay-fenix",
+    "name": "CA Fénix",
+    "country": "Uruguay",
+    "city": "Montevideo",
+    "stadium": "Estadio Parque Capurro",
+    "latitude": -34.873164127819834,
+    "longitude": -56.2123176586555,
+    "capacity": 5500,
+    "tier": "professional"
+  },
+  {
+    "id": "uruguay-deportivo-maldonado",
+    "name": "Deportivo Maldonado",
+    "country": "Uruguay",
+    "city": "Maldonado",
+    "stadium": "Estadio Domingo Burgueño Miguel",
+    "latitude": -34.914197415579736,
+    "longitude": -54.95537147584927,
+    "capacity": 22000,
+    "tier": "professional"
+  },
+  {
+    "id": "uruguay-rentistas",
+    "name": "CA Rentistas",
+    "country": "Uruguay",
+    "city": "Montevideo",
+    "stadium": "Complejo Rentistas",
+    "latitude": -34.77620601012265,
+    "longitude": -56.165898404690736,
+    "capacity": 6500,
+    "tier": "professional"
+  },
+  {
+    "id": "uruguay-tacuarembo",
+    "name": "Tacuarembó FC",
+    "country": "Uruguay",
+    "city": "Tacuarembó",
+    "stadium": "Estadio Raúl Goyenola",
+    "latitude": -31.71182178727135,
+    "longitude": -55.99207177597115,
+    "capacity": 12000,
+    "tier": "professional"
   }
 ]
