@@ -42,7 +42,7 @@ const COUNTRIES: Record<string, string> = {
 
 export const flag = (country: string) => COUNTRIES[country.replaceAll(' ', '-').toLocaleLowerCase()];
 
-export const ImageWithFallback = (props) => {
+export const ImageWithFallback = (props: any) => {
   const { src, fallbackSrc, ...rest } = props;
   const [imgSrc, setImgSrc] = useState(src);
 
