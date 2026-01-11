@@ -1,9 +1,11 @@
 'use client'
-import teams from "@/data/teams.json";
 import { useState } from "react";
 import { flag } from "./SearchBar";
+import { Stadium } from "./Map";
 
-export default function CountriesFilter() {
+export default function CountriesFilter({
+  teams
+}: { teams: Stadium[] }) {
   const [isDropdownOpen, setIsDropdownOpen] = useState(false);
 
   const countriesCount = teams.reduce<Record<string, number>>((acc, cur) => {

@@ -1,0 +1,35 @@
+[
+  {
+    "id": "netherlands-afc-ajax",
+    "name": "Ajax",
+    "country": "Netherlands",
+    "city": "Amsterdam",
+    "stadium": "Johan Cruyff Arena",
+    "latitude": 52.31457426207562,
+    "longitude": 4.941864814158152,
+    "capacity": 55865,
+    "tier": "professional"
+  },
+  {
+    "id": "netherlands-az-alkmaar",
+    "name": "AZ",
+    "country": "Netherlands",
+    "city": "Alkmaar",
+    "stadium": "AFAS Stadium",
+    "latitude": 52.61293447600286,
+    "longitude": 4.74206105652524,
+    "capacity": 19500,
+    "tier": "professional"
+  },
+  {
+    "id": "netherlands-excelsior-rotterdam",
+    "name": "Excelsior Rotterdam",
+    "country": "Netherlands",
+    "city": "Rotterdam",
+    "stadium": "Van Donge & De Roo Stadion",
+    "latitude": 51.917417904487635,
+    "longitude": 4.519812755521161,
+    "capacity": 4400,
+    "tier": "professional"
+  }
+]

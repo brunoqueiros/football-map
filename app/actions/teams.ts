@@ -3,6 +3,12 @@
 import { supabase, Team } from '@/lib/supabase';
 
 export async function getAllTeams(): Promise<Team[]> {
+  if (process.env.NODE_ENV === 'development') {
+    return require('../../data/teams-new.json');
+  }
+
+  console.log(1111)
+
   const { data, error } = await supabase
     .from('teams')
     .select('*')

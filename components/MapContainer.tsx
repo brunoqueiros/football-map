@@ -51,7 +51,7 @@ export default function MapContainer({
         />
       )}
       <SearchBar onSelectTeam={handleSelectTeam} teams={teams} />
-      <CountriesFilter />
+      <CountriesFilter teams={teams} />
     </div>
   );
 }
