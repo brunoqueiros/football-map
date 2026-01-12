@@ -1,4 +1,4 @@
-import React from 'react';
+import React, { useEffect, useState } from 'react';
 import { Stadium } from './Map';
 import Crest from './Crest';
 
@@ -33,6 +33,31 @@ const formatMatchTime = (dateString: string) => {
 };
 
 const StadiumCard: React.FC<StadiumCardProps> = ({ stadium, onClose }) => {
+  const [isMobile, setIsMobile] = useState(false);
+
+  // Detect if we're on mobile
+  useEffect(() => {
+    const checkMobile = () => {
+      setIsMobile(window.innerWidth < 768);
+    };
+
+    checkMobile();
+  }, []);
+
+  // ESC key to close the card (desktop only)
+  useEffect(() => {
+    if (isMobile) return;
+
+    const handleKeyDown = (e: KeyboardEvent) => {
+      if (e.key === 'Escape') {
+        onClose();
+      }
+    };
+
+    window.addEventListener('keydown', handleKeyDown);
+    return () => window.removeEventListener('keydown', handleKeyDown);
+  }, [isMobile, onClose]);
+
   return (
     <div
       className="fixed inset-0 backdrop-blur-xs z-45 animate-in fade-in duration-200"
@@ -42,15 +67,22 @@ const StadiumCard: React.FC<StadiumCardProps> = ({ stadium, onClose }) => {
         className="fixed top-18 left-1/2 -translate-x-1/2 lg:w-150 w-[90vw] z-50 rounded-xl overflow-hidden bg-neutral-900 border shadow-xl transition-colors border-neutral-800"
         onClick={(e) => e.stopPropagation()}
       >
-        <button
-          className="absolute top-5 right-4 w-8 h-8 flex items-center justify-center bg-white/8 border border-white/12 rounded-lg text-white/70 hover:bg-white/15 hover:border-white/20 hover:text-white transition-all duration-250 z-10"
-          onClick={onClose}
-        >
-          <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round">
-            <line x1="18" y1="6" x2="6" y2="18"></line>
-            <line x1="6" y1="6" x2="18" y2="18"></line>
-          </svg>
-        </button>
+        <div className="absolute top-5 right-4 flex items-center gap-2 z-10">
+          {!isMobile && (
+            <div className="px-2 py-1 rounded bg-neutral-800/50 border border-neutral-700/50 opacity-70">
+              <span className="text-xs text-neutral-400">ESC</span>
+            </div>
+          )}
+          <button
+            className="w-8 h-8 flex items-center justify-center bg-white/8 border border-white/12 rounded-lg text-white/70 hover:bg-white/15 hover:border-white/20 hover:text-white transition-all duration-250"
+            onClick={onClose}
+          >
+            <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round">
+              <line x1="18" y1="6" x2="6" y2="18"></line>
+              <line x1="6" y1="6" x2="18" y2="18"></line>
+            </svg>
+          </button>
+        </div>
 
         <div className="px-5 py-2 bg-white/4 border-b border-white/4 flex items-center gap-3.5">
           <div className="shrink-0 w-13.5 h-13.5 flex items-center justify-center p-1.5">
