@@ -81,7 +81,7 @@ export default function SearchBar({ onSelectTeam, teams }: SearchBarProps) {
   return (
     <div className='fixed top-4 left-1/2 -translate-x-1/2 z-50'>
       <div className='relative lg:w-150 w-[90vw]'>
-        <div className={`flex items-center gap-3 px-4 py-3 rounded-xl bg-neutral-900/90 backdrop-blur-md border shadow-2xl transition-colors ${isFocused ? 'border-neutral-600' : 'border-neutral-800'
+        <div className={`flex items-center gap-3 px-4 rounded-xl bg-neutral-900/90 backdrop-blur-md border shadow-2xl transition-colors ${isFocused ? 'border-neutral-600' : 'border-neutral-800'
           }`}>
           {/* Search Icon */}
           <svg
@@ -106,7 +106,7 @@ export default function SearchBar({ onSelectTeam, teams }: SearchBarProps) {
             onFocus={() => setIsFocused(true)}
             onBlur={() => setTimeout(() => setIsFocused(false), 200)}
             placeholder="Search for a team..."
-            className="flex-1 bg-transparent text-sm text-neutral-200 placeholder-neutral-500 outline-none"
+            className="flex-1 bg-transparent py-3 text-sm text-neutral-200 placeholder-neutral-500 outline-none"
           />
 
           {/* Clear Button */}
