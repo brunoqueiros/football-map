@@ -6,6 +6,7 @@ import Crest from "./Crest";
 
 interface SearchBarProps {
   onSelectTeam: (team: Stadium) => void;
+  hideCard: () => void;
   teams: Stadium[];
 }
 
@@ -51,7 +52,7 @@ const COUNTRIES: Record<string, string> = {
 
 export const flag = (country: string) => COUNTRIES[country.replaceAll(' ', '-').toLocaleLowerCase()];
 
-export default function SearchBar({ onSelectTeam, teams }: SearchBarProps) {
+export default function SearchBar({ onSelectTeam, teams, hideCard }: SearchBarProps) {
   const [searchQuery, setSearchQuery] = useState("");
   const [isFocused, setIsFocused] = useState(false);
 
@@ -103,7 +104,10 @@ export default function SearchBar({ onSelectTeam, teams }: SearchBarProps) {
             type="text"
             value={searchQuery}
             onChange={(e) => setSearchQuery(e.target.value)}
-            onFocus={() => setIsFocused(true)}
+            onFocus={() => {
+              setIsFocused(true);
+              hideCard();
+            }}
             onBlur={() => setTimeout(() => setIsFocused(false), 200)}
             placeholder="Search for a team..."
             className="flex-1 bg-transparent py-3 text-sm text-neutral-200 placeholder-neutral-500 outline-none"
