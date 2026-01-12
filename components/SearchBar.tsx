@@ -1,5 +1,5 @@
 'use client'
-import { useState } from "react";
+import { useState, useEffect, useRef } from "react";
 import { Stadium } from "./Map";
 import { useFuzzySearchList } from '@nozbe/microfuzz/react';
 import Crest from "./Crest";
@@ -55,6 +55,8 @@ export const flag = (country: string) => COUNTRIES[country.replaceAll(' ', '-').
 export default function SearchBar({ onSelectTeam, teams, hideCard }: SearchBarProps) {
   const [searchQuery, setSearchQuery] = useState("");
   const [isFocused, setIsFocused] = useState(false);
+  const [highlightedIndex, setHighlightedIndex] = useState(0);
+  const inputRef = useRef<HTMLInputElement>(null);
 
   const filteredTeams = useFuzzySearchList({
     list: teams,
@@ -78,6 +80,60 @@ export default function SearchBar({ onSelectTeam, teams, hideCard }: SearchBarPr
 
   const showResults = isFocused && filteredTeams.length > 0;
   const showNoResults = isFocused && searchQuery.trim() && filteredTeams.length === 0;
+
+  // Reset highlighted index when filtered teams change
+  useEffect(() => {
+    setHighlightedIndex(0);
+  }, [filteredTeams.length, searchQuery]);
+
+  // Global keyboard shortcut for Cmd+K
+  useEffect(() => {
+    const handleGlobalKeyDown = (e: KeyboardEvent) => {
+      if ((e.metaKey || e.ctrlKey) && e.key === 'k') {
+        e.preventDefault();
+        inputRef.current?.focus();
+      }
+    };
+
+    window.addEventListener('keydown', handleGlobalKeyDown);
+    return () => window.removeEventListener('keydown', handleGlobalKeyDown);
+  }, []);
+
+  const handleKeyDown = (e: React.KeyboardEvent<HTMLInputElement>) => {
+    // Handle Escape key
+    if (e.key === 'Escape') {
+      e.preventDefault();
+      setIsFocused(false);
+      inputRef.current?.blur();
+      return;
+    }
+
+    if (!showResults) return;
+
+    switch (e.key) {
+      case 'ArrowDown':
+        e.preventDefault();
+        setHighlightedIndex((prev) =>
+          prev < filteredTeams.length - 1 ? prev + 1 : 0
+        );
+        break;
+      case 'ArrowUp':
+        e.preventDefault();
+        setHighlightedIndex((prev) =>
+          prev > 0 ? prev - 1 : filteredTeams.length - 1
+        );
+        break;
+      case 'Enter':
+        e.preventDefault();
+        if (highlightedIndex >= 0 && highlightedIndex < filteredTeams.length) {
+          const selectedTeam = filteredTeams[highlightedIndex];
+          onSelectTeam(selectedTeam);
+          setSearchQuery("");
+          setIsFocused(false);
+        }
+        break;
+    }
+  };
 
   return (
     <div
@@ -104,9 +160,11 @@ export default function SearchBar({ onSelectTeam, teams, hideCard }: SearchBarPr
 
             {/* Input Field */}
             <input
+              ref={inputRef}
               type="text"
               value={searchQuery}
               onChange={(e) => setSearchQuery(e.target.value)}
+              onKeyDown={handleKeyDown}
               onFocus={() => {
                 setIsFocused(true);
                 hideCard();
@@ -115,6 +173,20 @@ export default function SearchBar({ onSelectTeam, teams, hideCard }: SearchBarPr
               placeholder="Search for a team..."
               className="flex-1 bg-transparent py-3 text-sm text-neutral-200 placeholder-neutral-500 outline-none"
             />
+
+            {/* Keyboard Shortcut Hints */}
+            {!isFocused && !searchQuery && (
+              <div className="flex items-center gap-1 px-2 py-1 rounded bg-neutral-800/50 border border-neutral-700/50 opacity-70">
+                <span className="text-xs text-neutral-400">⌘</span>
+                <span className="text-xs text-neutral-400">K</span>
+              </div>
+            )}
+
+            {isFocused && (
+              <div className="flex items-center gap-1 px-2 py-1 rounded bg-neutral-800/50 border border-neutral-700/50 opacity-70">
+                <span className="text-xs text-neutral-400">ESC</span>
+              </div>
+            )}
 
             {/* Clear Button */}
             {searchQuery && (
@@ -136,7 +208,11 @@ export default function SearchBar({ onSelectTeam, teams, hideCard }: SearchBarPr
                 {filteredTeams.map((team, index) => (
                   <button
                     key={`${team.name}-${index}`}
-                    className="flex items-center justify-between gap-3 px-4 py-3 rounded-lg bg-neutral-800/30 hover:bg-neutral-700/50 transition-colors border border-neutral-700/30 hover:border-neutral-600/50 text-left"
+                    className={`flex items-center justify-between gap-3 px-4 py-3 rounded-lg transition-colors text-left ${highlightedIndex === index
+                      ? 'bg-neutral-700/70 border-neutral-600'
+                      : 'bg-neutral-800/30 hover:bg-neutral-700/50 border-neutral-700/30 hover:border-neutral-600/50'
+                      } border`}
+                    onMouseEnter={() => setHighlightedIndex(index)}
                     onClick={() => {
                       onSelectTeam(team);
                       setSearchQuery("");

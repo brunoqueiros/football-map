@@ -51,7 +51,7 @@ export default function MapContainer({
         />
       )}
       <SearchBar onSelectTeam={handleSelectTeam} teams={teams} hideCard={() => setSelectedStadium(null)} />
-      <CountriesFilter teams={teams} />
+      {/* <CountriesFilter teams={teams} /> */}
     </div>
   );
 }
