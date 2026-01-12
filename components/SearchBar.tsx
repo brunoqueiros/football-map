@@ -86,8 +86,7 @@ export default function SearchBar({ onSelectTeam, teams, hideCard }: SearchBarPr
     >
       <div className='fixed top-4 left-1/2 -translate-x-1/2 z-50'>
         <div className='relative lg:w-150 w-[90vw]'>
-          <div className={`flex items-center gap-3 px-4 rounded-xl bg-neutral-900/90 backdrop-blur-md border shadow-xl transition-colors ${isFocused ? 'border-neutral-600' : 'border-neutral-800'
-            }`}>
+          <div className={`flex items-center gap-3 px-4 rounded-xl bg-neutral-900 border shadow-xl transition-colors ${isFocused ? 'border-neutral-600' : 'border-neutral-800'}`}>
             {/* Search Icon */}
             <svg
               className="w-5 h-5 text-neutral-400"
@@ -132,7 +131,7 @@ export default function SearchBar({ onSelectTeam, teams, hideCard }: SearchBarPr
 
           {/* Search Results Dropdown */}
           {showResults && (
-            <div className='absolute top-full mt-2 w-full '>
+            <div className='absolute top-full mt-2 w-full'>
               <div className='flex flex-col gap-1 p-2 rounded-xl max-h-[70vh] bg-neutral-900/95 backdrop-blur-md border border-neutral-800 shadow-2xl overflow-y-auto scrollbar-hide'>
                 {filteredTeams.map((team, index) => (
                   <button

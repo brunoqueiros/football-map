@@ -39,7 +39,7 @@ const StadiumCard: React.FC<StadiumCardProps> = ({ stadium, onClose }) => {
       onClick={onClose}
     >
       <div
-        className="fixed bg-neutral-900/95 top-20 left-1/2 -translate-x-1/2 lg:w-150 w-[90vw] z-50 rounded-2xl shadow-[0_20px_60px_rgba(0,0,0,0.6)] border border-white/8 overflow-hidden animate-in slide-in-from-top-5 duration-300"
+        className="fixed top-18 left-1/2 -translate-x-1/2 lg:w-150 w-[90vw] z-50 rounded-xl overflow-hidden bg-neutral-900 border shadow-xl transition-colors border-neutral-800"
         onClick={(e) => e.stopPropagation()}
       >
         <button
