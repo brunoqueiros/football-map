@@ -52,7 +52,7 @@ const StadiumCard: React.FC<StadiumCardProps> = ({ stadium, onClose }) => {
           </svg>
         </button>
 
-        <div className="px-5 py-2 bg-white/6 border-b border-white/6 flex items-center gap-3.5">
+        <div className="px-5 py-2 bg-white/4 border-b border-white/4 flex items-center gap-3.5">
           <div className="shrink-0 w-13.5 h-13.5 flex items-center justify-center p-1.5">
             <Crest src={stadium.crest!} name={stadium.name} />
           </div>

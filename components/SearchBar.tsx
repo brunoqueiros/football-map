@@ -56,6 +56,7 @@ export default function SearchBar({ onSelectTeam, teams, hideCard }: SearchBarPr
   const [searchQuery, setSearchQuery] = useState("");
   const [isFocused, setIsFocused] = useState(false);
   const [highlightedIndex, setHighlightedIndex] = useState(0);
+  const [isMobile, setIsMobile] = useState(false);
   const inputRef = useRef<HTMLInputElement>(null);
 
   const filteredTeams = useFuzzySearchList({
@@ -86,8 +87,21 @@ export default function SearchBar({ onSelectTeam, teams, hideCard }: SearchBarPr
     setHighlightedIndex(0);
   }, [filteredTeams.length, searchQuery]);
 
-  // Global keyboard shortcut for Cmd+K
+  // Detect if we're on mobile
   useEffect(() => {
+    const checkMobile = () => {
+      setIsMobile(window.innerWidth < 768);
+    };
+
+    checkMobile();
+    // window.addEventListener('resize', checkMobile);
+    // return () => window.removeEventListener('resize', checkMobile);
+  }, []);
+
+  // Global keyboard shortcut for Cmd+K (desktop only)
+  useEffect(() => {
+    if (isMobile) return;
+
     const handleGlobalKeyDown = (e: KeyboardEvent) => {
       if ((e.metaKey || e.ctrlKey) && e.key === 'k') {
         e.preventDefault();
@@ -97,9 +111,12 @@ export default function SearchBar({ onSelectTeam, teams, hideCard }: SearchBarPr
 
     window.addEventListener('keydown', handleGlobalKeyDown);
     return () => window.removeEventListener('keydown', handleGlobalKeyDown);
-  }, []);
+  }, [isMobile]);
 
   const handleKeyDown = (e: React.KeyboardEvent<HTMLInputElement>) => {
+    // Disable keyboard navigation on mobile
+    if (isMobile) return;
+
     // Handle Escape key
     if (e.key === 'Escape') {
       e.preventDefault();
@@ -174,15 +191,15 @@ export default function SearchBar({ onSelectTeam, teams, hideCard }: SearchBarPr
               className="flex-1 bg-transparent py-3 text-sm text-neutral-200 placeholder-neutral-500 outline-none"
             />
 
-            {/* Keyboard Shortcut Hints */}
-            {!isFocused && !searchQuery && (
+            {/* Keyboard Shortcut Hints (Desktop only) */}
+            {!isMobile && !isFocused && !searchQuery && (
               <div className="flex items-center gap-1 px-2 py-1 rounded bg-neutral-800/50 border border-neutral-700/50 opacity-70">
                 <span className="text-xs text-neutral-400">⌘</span>
                 <span className="text-xs text-neutral-400">K</span>
               </div>
             )}
 
-            {isFocused && (
+            {!isMobile && isFocused && (
               <div className="flex items-center gap-1 px-2 py-1 rounded bg-neutral-800/50 border border-neutral-700/50 opacity-70">
                 <span className="text-xs text-neutral-400">ESC</span>
               </div>
@@ -208,11 +225,11 @@ export default function SearchBar({ onSelectTeam, teams, hideCard }: SearchBarPr
                 {filteredTeams.map((team, index) => (
                   <button
                     key={`${team.name}-${index}`}
-                    className={`flex items-center justify-between gap-3 px-4 py-3 rounded-lg transition-colors text-left ${highlightedIndex === index
+                    className={`flex items-center justify-between gap-3 px-4 py-3 rounded-lg transition-colors text-left ${!isMobile && highlightedIndex === index
                       ? 'bg-neutral-700/70 border-neutral-600'
                       : 'bg-neutral-800/30 hover:bg-neutral-700/50 border-neutral-700/30 hover:border-neutral-600/50'
                       } border`}
-                    onMouseEnter={() => setHighlightedIndex(index)}
+                    onMouseEnter={() => !isMobile && setHighlightedIndex(index)}
                     onClick={() => {
                       onSelectTeam(team);
                       setSearchQuery("");
