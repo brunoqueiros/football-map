@@ -40,7 +40,7 @@ export interface MapRef {
   flyToLocation: (lng: number, lat: number, zoom?: number) => void;
 }
 
-export const FLY_DURATION = 2000;
+export const FLY_DURATION = 1000;
 
 const Map = forwardRef<MapRef, MapProps>(({
   stadiums,
