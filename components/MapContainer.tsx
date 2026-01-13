@@ -38,14 +38,14 @@ export default function MapContainer({
         <StadiumCard
           stadium={{
             ...selectedStadium,
-            nextFixture: {
-              competition: 'World Cup',
-              date: '01-24-2026 14:00',
-              isHome: false,
-              opponent: 'Corinthians',
-              opponentId: 'brazil-corinthians',
-              venue: 'Neo Química Arena',
-            }
+            // nextFixture: {
+            //   competition: 'World Cup',
+            //   date: '01-24-2026 14:00',
+            //   isHome: false,
+            //   opponent: 'Corinthians',
+            //   opponentId: 'brazil-corinthians',
+            //   venue: 'Neo Química Arena',
+            // }
           }}
           onClose={() => setSelectedStadium(null)}
         />
