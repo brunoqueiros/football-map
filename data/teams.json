@@ -15210,5 +15210,203 @@
     "longitude": 18.414935625273372,
     "capacity": 14144,
     "tier": "professional"
+  },
+  {
+    "crest": "slovenia-celje",
+    "name": "NK Celje",
+    "country": "Slovenia",
+    "city": "Celje",
+    "stadium": "Stadion Z'dežele",
+    "latitude": 46.2465646846234,
+    "longitude": 15.269974798264682,
+    "capacity": 13059,
+    "tier": "professional"
+  },
+  {
+    "crest": "slovenia-maribor",
+    "name": "NK Maribor",
+    "country": "Slovenia",
+    "city": "Maribor",
+    "stadium": "Ljudski vrt",
+    "latitude": 46.5622,
+    "longitude": 15.6406,
+    "capacity": 11709,
+    "tier": "professional"
+  },
+  {
+    "crest": "slovenia-koper",
+    "name": "FC Koper",
+    "country": "Slovenia",
+    "city": "Koper",
+    "stadium": "Bonifika Stadium",
+    "latitude": 45.542572770479104,
+    "longitude": 13.73049346941274,
+    "capacity": 4047,
+    "tier": "professional"
+  },
+  {
+    "crest": "slovenia-olimpija",
+    "name": "NK Olimpija Ljubljana",
+    "country": "Slovenia",
+    "city": "Ljubljana",
+    "stadium": "Stožice Stadium",
+    "latitude": 46.0803,
+    "longitude": 14.5242,
+    "capacity": 16038,
+    "tier": "professional"
+  },
+  {
+    "crest": "slovenia-bravo",
+    "name": "NK Bravo",
+    "country": "Slovenia",
+    "city": "Ljubljana",
+    "stadium": "Stožice Stadium",
+    "latitude": 46.08018631516875,
+    "longitude": 14.523945519700229,
+    "capacity": 16038,
+    "tier": "professional"
+  },
+  {
+    "crest": "slovenia-mura",
+    "name": "NŠ Mura",
+    "country": "Slovenia",
+    "city": "Murska Sobota",
+    "stadium": "Fazanerija City Stadium",
+    "latitude": 46.668312381632354,
+    "longitude": 16.15695468293238,
+    "capacity": 4506,
+    "tier": "professional"
+  },
+  {
+    "crest": "slovenia-radomlje",
+    "name": "NK Radomlje",
+    "country": "Slovenia",
+    "city": "Radomlje",
+    "stadium": "Domžale Sports Park",
+    "latitude": 46.137045890236465,
+    "longitude": 14.601134581070689,
+    "capacity": 3100,
+    "tier": "professional"
+  },
+  {
+    "crest": "slovenia-aluminij",
+    "name": "NK Aluminij",
+    "country": "Slovenia",
+    "city": "Kidričevo",
+    "stadium": "Aluminij Sports Park",
+    "latitude": 46.408218618359946,
+    "longitude": 15.79018962895307,
+    "capacity": 1200,
+    "tier": "professional"
+  },
+  {
+    "crest": "slovenia-primorje",
+    "name": "ND Primorje",
+    "country": "Slovenia",
+    "city": "Ajdovščina",
+    "stadium": "Ajdovščina Stadium",
+    "latitude": 45.887997830125656,
+    "longitude": 13.893967400105353,
+    "capacity": 1630,
+    "tier": "professional"
+  },
+  {
+    "crest": "slovenia-domzale",
+    "name": "NK Domžale",
+    "country": "Slovenia",
+    "city": "Domžale",
+    "stadium": "Domžale Sports Park",
+    "latitude": 46.136845161221906,
+    "longitude": 14.600512308607115,
+    "capacity": 3100,
+    "tier": "professional"
+  },
+  {
+    "crest": "slovenia-nafta",
+    "name": "NK Nafta 1903",
+    "country": "Slovenia",
+    "city": "Lendava",
+    "stadium": "Lendava Sports Park",
+    "latitude": 46.55930890089391,
+    "longitude": 16.45008312710751,
+    "capacity": 2000,
+    "tier": "professional"
+  },
+  {
+    "crest": "slovenia-gorica",
+    "name": "ND Gorica",
+    "country": "Slovenia",
+    "city": "Nova Gorica",
+    "stadium": "Nova Gorica Sports Park",
+    "latitude": 45.956100417388,
+    "longitude": 13.640809728942504,
+    "capacity": 3066,
+    "tier": "professional"
+  },
+  {
+    "crest": "slovenia-triglav",
+    "name": "NK Triglav Kranj",
+    "country": "Slovenia",
+    "city": "Kranj",
+    "stadium": "Stanko Mlakar Stadium",
+    "latitude": 46.25170931132138,
+    "longitude": 14.364943259634114,
+    "capacity": 2060,
+    "tier": "professional"
+  },
+  {
+    "crest": "slovenia-beltinci",
+    "name": "ND Beltinci",
+    "country": "Slovenia",
+    "city": "Beltinci",
+    "stadium": "Beltinci Sports Park",
+    "latitude": 46.60784836523647,
+    "longitude": 16.229172871286675,
+    "capacity": 1346,
+    "tier": "professional"
+  },
+  {
+    "crest": "slovenia-rudar",
+    "name": "NK Rudar Velenje",
+    "country": "Slovenia",
+    "city": "Velenje",
+    "stadium": "Ob Jezeru City Stadium",
+    "latitude": 46.37302333060686,
+    "longitude": 15.104386684774447,
+    "capacity": 2341,
+    "tier": "professional"
+  },
+  {
+    "crest": "slovenia-tabor",
+    "name": "MND Tabor Sežana",
+    "country": "Slovenia",
+    "city": "Sežana",
+    "stadium": "Rajko Štolfa Stadium",
+    "latitude": 45.70575872695353,
+    "longitude": 13.869838342429937,
+    "capacity": 1200,
+    "tier": "professional"
+  },
+  {
+    "crest": "slovenia-krka",
+    "name": "NK Krka",
+    "country": "Slovenia",
+    "city": "Novo Mesto",
+    "stadium": "Portoval Stadium",
+    "latitude": 45.80365273956503,
+    "longitude": 15.158396984761119,
+    "capacity": 500,
+    "tier": "professional"
+  },
+  {
+    "crest": "slovenia-bistrica",
+    "name": "NK Bistrica",
+    "country": "Slovenia",
+    "city": "Slovenska Bistrica",
+    "stadium": "Slovenska Bistrica Sports Park",
+    "latitude": 46.393578551832874,
+    "longitude": 15.568980967902144,
+    "capacity": 964,
+    "tier": "professional"
   }
 ]
