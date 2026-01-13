@@ -201,9 +201,9 @@ const StadiumCard: React.FC<StadiumCardProps> = ({ stadium, onClose }) => {
                 <span className="text-xs font-medium text-white/90 text-center truncate w-full">
                   {stadium.nextFixture.opponent.length > 12 ? stadium.nextFixture.opponent.substring(0, 12) + '...' : stadium.nextFixture.opponent}
                 </span>
-                {!stadium.nextFixture.isHome && (
+                {/* {!stadium.nextFixture.isHome && (
                   <span className="text-[10px] text-blue-400 mt-0.5">AWAY</span>
-                )}
+                )} */}
               </div>
             </div>
 
