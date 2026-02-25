@@ -1040,5 +1040,21 @@
         "capacity": 4000,
         "latitude": -2.7007177,
         "longitude": -59.6994774
+    },
+    {
+        "id": 7364,
+        "name": "Estádio Flavia de Oliveira",
+        "city": "Manicoré",
+        "capacity": 3500,
+        "latitude": -5.8166587,
+        "longitude": -61.29153979999999
+    },
+    {
+        "id": 99990005,
+        "name": "Estádio Floro de Mendonça",
+        "city": "Itacoatiara",
+        "capacity": 5000,
+        "latitude": -3.135775,
+        "longitude": -58.4436688
     }
 ]

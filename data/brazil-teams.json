@@ -1588,5 +1588,75 @@
         "national": false,
         "logo": "https://media.api-sports.io/football/teams/22826.png",
         "venue_id": 10520
+    },
+    {
+        "id": 2211,
+        "name": "Fast Clube",
+        "code": null,
+        "country": "Brazil",
+        "founded": 1930,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/2211.png",
+        "venue_id": 236
+    },
+    {
+        "id": 10867,
+        "name": "Sul América",
+        "code": null,
+        "country": "Brazil",
+        "founded": 1932,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/10867.png",
+        "venue_id": 236
+    },
+    {
+        "id": 10868,
+        "name": "Manicoré",
+        "code": null,
+        "country": "Brazil",
+        "founded": 2007,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/10868.png",
+        "venue_id": 7364
+    },
+    {
+        "id": 16460,
+        "name": "Cliper",
+        "code": null,
+        "country": "Brazil",
+        "founded": 1952,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/16460.png",
+        "venue_id": 20767
+    },
+    {
+        "id": 16461,
+        "name": "JC",
+        "code": null,
+        "country": "Brazil",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/16461.png",
+        "venue_id": 99990005
+    },
+    {
+        "id": 24793,
+        "name": "RB do Norte",
+        "code": null,
+        "country": "Brazil",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/24793.png",
+        "venue_id": 20767
+    },
+    {
+        "id": 24794,
+        "name": "Taruma",
+        "code": null,
+        "country": "Brazil",
+        "founded": 1974,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/24794.png",
+        "venue_id": 10520
     }
 ]
