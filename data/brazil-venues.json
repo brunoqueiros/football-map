@@ -928,5 +928,29 @@
         "capacity": 2000,
         "latitude": -10.1491045,
         "longitude": -67.7409394
+    },
+    {
+        "id": 2935,
+        "name": "Estádio José Gomes da Costa",
+        "city": "Murici",
+        "capacity": 6000,
+        "latitude": -9.3151046,
+        "longitude": -35.9441198
+    },
+    {
+        "id": 5657,
+        "name": "Estádio Municipal Gérson do Amaral",
+        "city": "Coruripe",
+        "capacity": 8000,
+        "latitude": -10.1183877,
+        "longitude": -36.1816423
+    },
+    {
+        "id": 20442,
+        "name": "Estádio Alfredo Leahy",
+        "city": "Penedo",
+        "capacity": 5500,
+        "latitude": -10.2851364,
+        "longitude": -36.5716792
     }
 ]

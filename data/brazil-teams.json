@@ -1328,5 +1328,45 @@
         "national": false,
         "logo": "https://media.api-sports.io/football/teams/18391.png",
         "venue_id": 12707
+    },
+    {
+        "id": 1210,
+        "name": "Murici",
+        "code": null,
+        "country": "Brazil",
+        "founded": 1974,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/1210.png",
+        "venue_id": 2935
+    },
+    {
+        "id": 7825,
+        "name": "Coruripe",
+        "code": null,
+        "country": "Brazil",
+        "founded": 2003,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/7825.png",
+        "venue_id": 5657
+    },
+    {
+        "id": 18363,
+        "name": "Cruzeiro Arapiraca",
+        "code": null,
+        "country": "Brazil",
+        "founded": 0,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/18363.png",
+        "venue_id": 210
+    },
+    {
+        "id": 22822,
+        "name": "Penedense",
+        "code": null,
+        "country": "Brazil",
+        "founded": 1909,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/22822.png",
+        "venue_id": 20442
     }
 ]
