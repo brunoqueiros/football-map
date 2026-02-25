@@ -1368,5 +1368,95 @@
         "national": false,
         "logo": "https://media.api-sports.io/football/teams/22822.png",
         "venue_id": 20442
+    },
+    {
+        "id": 9124,
+        "name": "CEO",
+        "code": null,
+        "country": "Brazil",
+        "founded": 1953,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/9124.png",
+        "venue_id": 6315
+    },
+    {
+        "id": 9125,
+        "name": "Dimensão Saúde",
+        "code": null,
+        "country": "Brazil",
+        "founded": 2001,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/9125.png",
+        "venue_id": 20795
+    },
+    {
+        "id": 9126,
+        "name": "Jacyobá",
+        "code": null,
+        "country": "Brazil",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/9126.png",
+        "venue_id": 6315
+    },
+    {
+        "id": 9128,
+        "name": "Miguelense",
+        "code": null,
+        "country": "Brazil",
+        "founded": 1995,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/9128.png",
+        "venue_id": 20442
+    },
+    {
+        "id": 15603,
+        "name": "Aliança AL",
+        "code": null,
+        "country": "Brazil",
+        "founded": 2012,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/15603.png",
+        "venue_id": 12673
+    },
+    {
+        "id": 22960,
+        "name": "Zumbi",
+        "code": null,
+        "country": "Brazil",
+        "founded": 0,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/22960.png",
+        "venue_id": 20797
+    },
+    {
+        "id": 25005,
+        "name": "FF Sport Nova Cruz",
+        "code": null,
+        "country": "Brazil",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/25005.png",
+        "venue_id": 20797
+    },
+    {
+        "id": 25007,
+        "name": "Igaci",
+        "code": null,
+        "country": "Brazil",
+        "founded": 2001,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/25007.png",
+        "venue_id": 21272
+    },
+    {
+        "id": 25008,
+        "name": "Sao Domingos AL",
+        "code": null,
+        "country": "Brazil",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/25008.png",
+        "venue_id": 20795
     }
 ]

@@ -758,8 +758,8 @@
         "name": "Estádio Municipal Coaracy da Mata Fonseca",
         "city": "Arapiraca",
         "capacity": 12000,
-        "latitude": -9.74668668489182,
-        "longitude": -36.66660321558958
+        "latitude": -9.746739554718504,
+        "longitude": -36.66659248664841
     },
     {
         "id": 270,
@@ -952,5 +952,53 @@
         "capacity": 5500,
         "latitude": -10.2851364,
         "longitude": -36.5716792
+    },
+    {
+        "id": 6315,
+        "name": "Estádio Edson Matias",
+        "city": "Olho d&apos;Água das Flores",
+        "capacity": 6000,
+        "latitude": -9.5301305,
+        "longitude": -37.29447830000001
+    },
+    {
+        "id": 20795,
+        "name": "Estádio Municipal Manoel Ferreira de Amorim",
+        "city": "São Miguel dos Campos",
+        "capacity": 15000,
+        "latitude": -9.793306099999999,
+        "longitude": -36.10061049999999
+    },
+    {
+        "id": 20442,
+        "name": "Estádio Alfredo Leahy",
+        "city": "Penedo",
+        "capacity": 5500,
+        "latitude": -10.2851364,
+        "longitude": -36.5716792
+    },
+    {
+        "id": 12673,
+        "name": "Estádio Universitário da UFAL",
+        "city": "Maceió",
+        "capacity": 5000,
+        "latitude": -9.554577,
+        "longitude": -35.7811849
+    },
+    {
+        "id": 20797,
+        "name": "Estádio Municipal Orlando Gomes de Barros",
+        "city": "União dos Palmares",
+        "capacity": 5000,
+        "latitude": -9.1563371,
+        "longitude": -36.0238156
+    },
+    {
+        "id": 21272,
+        "name": "Estádio Municipal Zequinha Barbosa",
+        "city": "Igaci",
+        "capacity": 1000,
+        "latitude": -9.541690266242103,
+        "longitude": -36.634594099288755
     }
 ]
