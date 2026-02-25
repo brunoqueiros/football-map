@@ -1238,5 +1238,95 @@
         "national": false,
         "logo": "https://media.api-sports.io/football/teams/7829.png",
         "venue_id": 5660
+    },
+    {
+        "id": 1228,
+        "name": "Galvez",
+        "code": null,
+        "country": "Brazil",
+        "founded": 2011,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/1228.png",
+        "venue_id": 1778
+    },
+    {
+        "id": 6370,
+        "name": "Vasco da Gama AC",
+        "code": null,
+        "country": "Brazil",
+        "founded": 1952,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/6370.png",
+        "venue_id": 11532
+    },
+    {
+        "id": 7768,
+        "name": "Atlético Acreano",
+        "code": null,
+        "country": "Brazil",
+        "founded": 1952,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/7768.png",
+        "venue_id": 11532
+    },
+    {
+        "id": 7849,
+        "name": "Plácido de Castro",
+        "code": "PLA",
+        "country": "Brazil",
+        "founded": 1979,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/7849.png",
+        "venue_id": 11532
+    },
+    {
+        "id": 10852,
+        "name": "Andirá",
+        "code": null,
+        "country": "Brazil",
+        "founded": 1964,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/10852.png",
+        "venue_id": 7359
+    },
+    {
+        "id": 10853,
+        "name": "Independência",
+        "code": null,
+        "country": "Brazil",
+        "founded": 1946,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/10853.png",
+        "venue_id": 11532
+    },
+    {
+        "id": 10854,
+        "name": "Náuas",
+        "code": null,
+        "country": "Brazil",
+        "founded": 1923,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/10854.png",
+        "venue_id": 7360
+    },
+    {
+        "id": 10855,
+        "name": "São Francisco",
+        "code": null,
+        "country": "Brazil",
+        "founded": 1967,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/10855.png",
+        "venue_id": 11532
+    },
+    {
+        "id": 18391,
+        "name": "ADESG",
+        "code": null,
+        "country": "Brazil",
+        "founded": 1982,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/18391.png",
+        "venue_id": 12707
     }
 ]

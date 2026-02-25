@@ -826,14 +826,6 @@
         "longitude": -44.2891240579763
     },
     {
-        "id": 11532,
-        "name": "Arena Acreana",
-        "city": "Rio Branco",
-        "capacity": 13534,
-        "latitude": -10.002164343234554,
-        "longitude": -67.80369920209392
-    },
-    {
         "id": 8348,
         "name": "Estádio Nildo Pereira de Menezes",
         "city": "Serra Talhada",
@@ -904,5 +896,37 @@
         "capacity": 7000,
         "latitude": -6.2207180462082015,
         "longitude": -36.01789835795608
+    },
+    {
+        "id": 1778,
+        "name": "Estádio Antônio Aquino Lopes",
+        "city": "Rio Branco",
+        "capacity": 15000,
+        "latitude": -9.9997578,
+        "longitude": -67.84952489999999
+    },
+    {
+        "id": 7359,
+        "name": "Estádio José de Melo",
+        "city": "Rio Branco",
+        "capacity": 6000,
+        "latitude": -9.9703032,
+        "longitude": -67.80773119999999
+    },
+    {
+        "id": 7360,
+        "name": "Arena do Juruá",
+        "city": "Cruzeiro do Sul",
+        "capacity": 3500,
+        "latitude": -7.603036800000001,
+        "longitude": -72.7389999
+    },
+    {
+        "id": 12707,
+        "name": "Estádio Nabor Júnior",
+        "city": "Senador Guiomard",
+        "capacity": 2000,
+        "latitude": -10.1491045,
+        "longitude": -67.7409394
     }
 ]
