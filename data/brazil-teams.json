@@ -1968,5 +1968,85 @@
         "national": false,
         "logo": "https://media.api-sports.io/football/teams/24915.png",
         "venue_id": 99990013
+    },
+    {
+        "id": 7837,
+        "name": "Vitória ES",
+        "code": null,
+        "country": "Brazil",
+        "founded": 1912,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/7837.png",
+        "venue_id": 5666
+    },
+    {
+        "id": 7856,
+        "name": "Desportiva ES",
+        "code": "DES",
+        "country": "Brazil",
+        "founded": 1963,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/7856.png",
+        "venue_id": 5680
+    },
+    {
+        "id": 10690,
+        "name": "Rio Branco ES",
+        "code": null,
+        "country": "Brazil",
+        "founded": 1913,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/10690.png",
+        "venue_id": 5666
+    },
+    {
+        "id": 12282,
+        "name": "Estrela do Norte",
+        "code": null,
+        "country": "Brazil",
+        "founded": 1916,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/12282.png",
+        "venue_id": 5631
+    },
+    {
+        "id": 12929,
+        "name": "Rio Branco-VN",
+        "code": null,
+        "country": "Brazil",
+        "founded": 1945,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/12929.png",
+        "venue_id": 8257
+    },
+    {
+        "id": 18307,
+        "name": "Nova Venécia",
+        "code": null,
+        "country": "Brazil",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/18307.png",
+        "venue_id": 20440
+    },
+    {
+        "id": 20717,
+        "name": "Porto Vitória",
+        "code": null,
+        "country": "Brazil",
+        "founded": 2014,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/20717.png",
+        "venue_id": 20691
+    },
+    {
+        "id": 22821,
+        "name": "Jaguaré",
+        "code": null,
+        "country": "Brazil",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/22821.png",
+        "venue_id": 20441
     }
 ]

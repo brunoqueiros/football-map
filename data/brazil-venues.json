@@ -1232,5 +1232,61 @@
         "capacity": 20000,
         "latitude": -15.8361375,
         "longitude": -48.08066789999999
+    },
+    {
+        "id": 5666,
+        "name": "Estádio Salvador Venâncio da Costa",
+        "city": "Vitória",
+        "capacity": 10000,
+        "latitude": -20.3163067,
+        "longitude": -40.3083398
+    },
+    {
+        "id": 5680,
+        "name": "Estádio Engenheiro Alencar Araripe",
+        "city": "Cariacica",
+        "capacity": 13410,
+        "latitude": -20.3340616,
+        "longitude": -40.3561167
+    },
+    {
+        "id": 5631,
+        "name": "Estádio Mário Monteiro",
+        "city": "Cachoeiro de Itapemirim",
+        "capacity": 6600,
+        "latitude": -20.8530642,
+        "longitude": -41.1129689
+    },
+    {
+        "id": 8257,
+        "name": "Estádio Olímpio Perim",
+        "city": "Venda Nova do Imigrante",
+        "capacity": 2100,
+        "latitude": -20.3382314,
+        "longitude": -41.1308501
+    },
+    {
+        "id": 20440,
+        "name": "Estádio Municipal Zenor Pedrosa Rocha",
+        "city": "Nova Venécia",
+        "capacity": 2000,
+        "latitude": -18.712429,
+        "longitude": -40.4041287
+    },
+    {
+        "id": 20691,
+        "name": "Estádio Kleber José de Andrade",
+        "city": "Cariacica",
+        "capacity": 21255,
+        "latitude": -20.3329401,
+        "longitude": -40.3851752
+    },
+    {
+        "id": 20441,
+        "name": "Estádio Jefferson de Freitas",
+        "city": "Jaboatão dos Guararapes",
+        "capacity": 2000,
+        "latitude": -8.1101418,
+        "longitude": -35.0162314
     }
 ]
