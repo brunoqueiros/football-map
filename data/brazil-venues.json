@@ -1512,5 +1512,21 @@
         "capacity": 5000,
         "latitude": -22.5230725,
         "longitude": -41.9505988
+    },
+    {
+        "id": 247,
+        "name": "Arena Joinville",
+        "city": "Joinville",
+        "capacity": 22400,
+        "latitude": -26.3166507,
+        "longitude": -48.83349639999999
+    },
+    {
+        "id": 5673,
+        "name": "Estádio Vidal Ramos Júnior",
+        "city": "Lages",
+        "capacity": 11800,
+        "latitude": -27.8066606,
+        "longitude": -50.31021579999999
     }
 ]

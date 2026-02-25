@@ -2428,5 +2428,35 @@
         "national": false,
         "logo": "https://media.api-sports.io/football/teams/23639.png",
         "venue_id": 99990020
+    },
+    {
+        "id": 795,
+        "name": "Joinville",
+        "code": "JOI",
+        "country": "Brazil",
+        "founded": 1976,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/795.png",
+        "venue_id": 247
+    },
+    {
+        "id": 10677,
+        "name": "Marcílio Dias",
+        "code": "MAR",
+        "country": "Brazil",
+        "founded": 1919,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/10677.png",
+        "venue_id": 7313
+    },
+    {
+        "id": 19637,
+        "name": "Nação",
+        "code": null,
+        "country": "Brazil",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/19637.png",
+        "venue_id": 247
     }
 ]
