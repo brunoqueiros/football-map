@@ -1688,5 +1688,61 @@
         "capacity": null,
         "latitude": -7.245361099999999,
         "longitude": -39.3052081
+    },
+    {
+        "id": 8270,
+        "name": "Estádio Municipal José de Oliveira Bandeira",
+        "city": "Limoeiro do Norte",
+        "capacity": 5000,
+        "latitude": -5.1607904,
+        "longitude": -38.0950871
+    },
+    {
+        "id": 8273,
+        "name": "Estádio Municipal Governador Virgílio Távora",
+        "city": "Crato",
+        "capacity": 10000,
+        "latitude": -7.234781300000001,
+        "longitude": -39.3944799
+    },
+    {
+        "id": 99990030,
+        "name": "Estádio Municipal de Itarema (Dedezão)",
+        "city": "Itarema",
+        "capacity": 4000,
+        "latitude": -2.9195055,
+        "longitude": -39.9245744
+    },
+    {
+        "id": 20812,
+        "name": "Estádio José Antônio Abilio de Lima",
+        "city": "Quixadá",
+        "capacity": 5000,
+        "latitude": -4.9835144,
+        "longitude": -39.01869670000001
+    },
+    {
+        "id": 99990031,
+        "name": "Estádio Municipal Luis Gonçalves de Oliveira (O Oliveirão)",
+        "city": "Cariús",
+        "capacity": 2000,
+        "latitude": -6.532217699999999,
+        "longitude": -39.4949912
+    },
+    {
+        "id": 99990032,
+        "name": "Estádio Municipal de Tianguá",
+        "city": "Tianguá",
+        "capacity": 2000,
+        "latitude": -3.7308866,
+        "longitude": -41.0048237
+    },
+    {
+        "id": 99990033,
+        "name": "Estadio Municipal João Firmino de Sousa",
+        "city": "Viçosa do Ceará",
+        "capacity": 2400,
+        "latitude": -3.5760014,
+        "longitude": -41.0870758
     }
 ]

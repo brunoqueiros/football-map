@@ -2708,5 +2708,75 @@
         "national": false,
         "logo": "https://media.api-sports.io/football/teams/18799.png",
         "venue_id": 237
+    },
+    {
+        "id": 13088,
+        "name": "Esporte Limoeiro",
+        "code": null,
+        "country": "Brazil",
+        "founded": 1942,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/13088.png",
+        "venue_id": 8270
+    },
+    {
+        "id": 13092,
+        "name": "Crato",
+        "code": "CRA",
+        "country": "Brazil",
+        "founded": 1997,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/13092.png",
+        "venue_id": 8273
+    },
+    {
+        "id": 24092,
+        "name": "Itarema",
+        "code": null,
+        "country": "Brazil",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/24092.png",
+        "venue_id": 99990030
+    },
+    {
+        "id": 24093,
+        "name": "Quixada",
+        "code": null,
+        "country": "Brazil",
+        "founded": 1965,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/24093.png",
+        "venue_id": 20812
+    },
+    {
+        "id": 24094,
+        "name": "Terra e Mar",
+        "code": null,
+        "country": "Brazil",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/24094.png",
+        "venue_id": 99990031
+    },
+    {
+        "id": 24095,
+        "name": "Tianguá",
+        "code": null,
+        "country": "Brazil",
+        "founded": 2004,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/24095.png",
+        "venue_id": 99990032
+    },
+    {
+        "id": 24096,
+        "name": "Aliança",
+        "code": null,
+        "country": "Brazil",
+        "founded": 0,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/24096.png",
+        "venue_id": 99990033
     }
 ]
