@@ -2588,5 +2588,35 @@
         "national": false,
         "logo": "https://media.api-sports.io/football/teams/25117.png",
         "venue_id": 22550
+    },
+    {
+        "id": 9998,
+        "name": "Barbalha",
+        "code": null,
+        "country": "Brazil",
+        "founded": 2002,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/9998.png",
+        "venue_id": 7042
+    },
+    {
+        "id": 10000,
+        "name": "Caucaia",
+        "code": null,
+        "country": "Brazil",
+        "founded": 2004,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/10000.png",
+        "venue_id": 7043
+    },
+    {
+        "id": 12297,
+        "name": "Horizonte",
+        "code": "HOR",
+        "country": "Brazil",
+        "founded": 2004,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/12297.png",
+        "venue_id": 7831
     }
 ]

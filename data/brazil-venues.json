@@ -1624,5 +1624,21 @@
         "capacity": 1000,
         "latitude": -26.5135117,
         "longitude": -49.131637
+    },
+    {
+        "id": 7042,
+        "name": "Estádio Antônio Lírio Callou",
+        "city": "Barbalha",
+        "capacity": 3000,
+        "latitude": -7.3242061,
+        "longitude": -39.2980662
+    },
+    {
+        "id": 7043,
+        "name": "Estádio Municipal Raimundo de Oliveira Filho",
+        "city": "Caucaia",
+        "capacity": 4000,
+        "latitude": -3.7321402,
+        "longitude": -38.6523457
     }
 ]
