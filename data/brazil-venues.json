@@ -1896,5 +1896,61 @@
         "capacity": null,
         "latitude": -30.1156294,
         "longitude": -51.03063770000001
+    },
+    {
+        "id": 5689,
+        "name": "Estádio Aldo Dapuzzo",
+        "city": "Rio Grande",
+        "capacity": 8000,
+        "latitude": -32.0475917,
+        "longitude": -52.1133951
+    },
+    {
+        "id": 7083,
+        "name": "Estádio Edmundo Feix",
+        "city": "Venâncio Aires",
+        "capacity": 4000,
+        "latitude": -29.606844,
+        "longitude": -52.1971818
+    },
+    {
+        "id": 99990035,
+        "name": "Centro Esportivo SESI",
+        "city": "Caxias do Sul",
+        "capacity": 5000,
+        "latitude": -29.14207549999999,
+        "longitude": -51.1637481
+    },
+    {
+        "id": 99990036,
+        "name": "Estádio Torquato Pontes (Colosso do Trevo)",
+        "city": "Rio Grande",
+        "capacity": 15000,
+        "latitude": -32.0942064,
+        "longitude": -52.1637883
+    },
+    {
+        "id": 21305,
+        "name": "Estádio General Nicolau Fico",
+        "city": "Pelotas",
+        "capacity": 5441,
+        "latitude": -31.7577298,
+        "longitude": -52.3807865
+    },
+    {
+        "id": 99990037,
+        "name": "Estádio dos Pinheirais",
+        "city": "Gramado",
+        "capacity": 1500,
+        "latitude": -29.3763467,
+        "longitude": -50.8784198
+    },
+    {
+        "id": 21306,
+        "name": "Estádio Arthur Lawson",
+        "city": "Rio Grande",
+        "capacity": 3500,
+        "latitude": -32.0927336,
+        "longitude": -52.1588092
     }
 ]

@@ -2968,5 +2968,75 @@
         "national": false,
         "logo": "https://media.api-sports.io/football/teams/23290.png",
         "venue_id": 99990034
+    },
+    {
+        "id": 7866,
+        "name": "São Paulo RS",
+        "code": "SC",
+        "country": "Brazil",
+        "founded": 1908,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/7866.png",
+        "venue_id": 5689
+    },
+    {
+        "id": 10048,
+        "name": "Guarani RS",
+        "code": null,
+        "country": "Brazil",
+        "founded": 1929,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/10048.png",
+        "venue_id": 7083
+    },
+    {
+        "id": 25076,
+        "name": "Apafut",
+        "code": null,
+        "country": "Brazil",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/25076.png",
+        "venue_id": 99990035
+    },
+    {
+        "id": 25077,
+        "name": "FBC Riograndense RS",
+        "code": null,
+        "country": "Brazil",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/25077.png",
+        "venue_id": 99990036
+    },
+    {
+        "id": 25078,
+        "name": "Farroupilha",
+        "code": null,
+        "country": "Brazil",
+        "founded": 1926,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/25078.png",
+        "venue_id": 21305
+    },
+    {
+        "id": 25079,
+        "name": "Gramadense",
+        "code": null,
+        "country": "Brazil",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/25079.png",
+        "venue_id": 99990037
+    },
+    {
+        "id": 25080,
+        "name": "SC Rio Grande",
+        "code": null,
+        "country": "Brazil",
+        "founded": 1900,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/25080.png",
+        "venue_id": 21306
     }
 ]
