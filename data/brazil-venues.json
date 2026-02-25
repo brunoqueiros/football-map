@@ -2040,5 +2040,93 @@
         "capacity": 3000,
         "latitude": -16.6483795,
         "longitude": -49.4887743
+    },
+    {
+        "id": 21185,
+        "name": "Estádio Gilmar Alves de Oliveira",
+        "city": "Bom Jesus de Goiás",
+        "capacity": 5000,
+        "latitude": -18.2221311,
+        "longitude": -49.7291189
+    },
+    {
+        "id": 99990040,
+        "name": "Estadio João Vilela",
+        "city": "Morrinhos",
+        "capacity": 5040,
+        "latitude": -17.7365705,
+        "longitude": -49.11269780000001
+    },
+    {
+        "id": 99990041,
+        "name": "Estádio Dirceu de Castro (Arena Cruzeiro)",
+        "city": "Cachoeirinha",
+        "capacity": 16500,
+        "latitude": -29.9095975,
+        "longitude": -51.0933257
+    },
+    {
+        "id": 99990042,
+        "name": "Estádio Annibal Batista de Toledo",
+        "city": "Aparecida de Goiânia",
+        "capacity": 4800,
+        "latitude": -16.8205068,
+        "longitude": -49.2452797
+    },
+    {
+        "id": 99990043,
+        "name": "Estádio Olímpico Pedro Ludovico Teixeira",
+        "city": "Goiânia",
+        "capacity": 13500,
+        "latitude": -16.6706957,
+        "longitude": -49.2618606
+    },
+    {
+        "id": 99990044,
+        "name": "Estádio Rio das Pedras",
+        "city": "Itaberaí",
+        "capacity": 5000,
+        "latitude": -16.027492,
+        "longitude": -49.7974831
+    },
+    {
+        "id": 21186,
+        "name": "Estádio Odilon Flores",
+        "city": "Mineiros",
+        "capacity": 7000,
+        "latitude": -17.5705202,
+        "longitude": -52.5562184
+    },
+    {
+        "id": 99990045,
+        "name": "Estádio Edsom Monteiro de Godoy",
+        "city": "Pires do Rio",
+        "capacity": 5000,
+        "latitude": -17.3073736,
+        "longitude": -48.2800999
+    },
+    {
+        "id": 21187,
+        "name": "Estádio Mozart Veloso do Carmo",
+        "city": "Rio Verde",
+        "capacity": 8000,
+        "latitude": -17.7982485,
+        "longitude": -50.9214368
+    },
+    {
+        "id": 99990046,
+        "name": "Estádio Municipal (Geraldão)",
+        "city": "Jussara",
+        "capacity": 3000,
+        "latitude": -15.8678715,
+        "longitude": -50.86591629999999
+    },
+    {
+        "id": 99990047,
+        "name": "Estádio Serra Grande",
+        "city": "Uruaçu",
+        "capacity": 5000,
+        "latitude": -14.5402948,
+        "longitude": -49.15629939999999
     }
 ]

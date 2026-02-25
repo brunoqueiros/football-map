@@ -3168,5 +3168,135 @@
         "national": false,
         "logo": "https://media.api-sports.io/football/teams/23307.png",
         "venue_id": 20634
+    },
+    {
+        "id": 7845,
+        "name": "Itumbiara",
+        "code": "ITU",
+        "country": "Brazil",
+        "founded": 1970,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/7845.png",
+        "venue_id": 21185
+    },
+    {
+        "id": 22096,
+        "name": "Aparecida GO",
+        "code": null,
+        "country": "Brazil",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/22096.png",
+        "venue_id": 209
+    },
+    {
+        "id": 24764,
+        "name": "America GO",
+        "code": null,
+        "country": "Brazil",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/24764.png",
+        "venue_id": 99990040
+    },
+    {
+        "id": 24765,
+        "name": "Bela Vista",
+        "code": null,
+        "country": "Brazil",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/24765.png",
+        "venue_id": 99990041
+    },
+    {
+        "id": 24766,
+        "name": "Cerrado",
+        "code": null,
+        "country": "Brazil",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/24766.png",
+        "venue_id": 99990042
+    },
+    {
+        "id": 24767,
+        "name": "Guanabara City",
+        "code": null,
+        "country": "Brazil",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/24767.png",
+        "venue_id": 99990043
+    },
+    {
+        "id": 24768,
+        "name": "Itaberai",
+        "code": null,
+        "country": "Brazil",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/24768.png",
+        "venue_id": 99990044
+    },
+    {
+        "id": 24769,
+        "name": "Mineiros",
+        "code": null,
+        "country": "Brazil",
+        "founded": 1977,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/24769.png",
+        "venue_id": 21186
+    },
+    {
+        "id": 24770,
+        "name": "Pires do Rio",
+        "code": null,
+        "country": "Brazil",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/24770.png",
+        "venue_id": 99990045
+    },
+    {
+        "id": 24771,
+        "name": "Rio Verde",
+        "code": null,
+        "country": "Brazil",
+        "founded": 1963,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/24771.png",
+        "venue_id": 21187
+    },
+    {
+        "id": 24772,
+        "name": "Rioverdense",
+        "code": null,
+        "country": "Brazil",
+        "founded": 1985,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/24772.png",
+        "venue_id": 21187
+    },
+    {
+        "id": 24773,
+        "name": "Tupy FC",
+        "code": null,
+        "country": "Brazil",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/24773.png",
+        "venue_id": 99990046
+    },
+    {
+        "id": 24774,
+        "name": "Uruacu",
+        "code": null,
+        "country": "Brazil",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/24774.png",
+        "venue_id": 99990047
     }
 ]
