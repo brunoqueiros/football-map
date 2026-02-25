@@ -1458,5 +1458,75 @@
         "national": false,
         "logo": "https://media.api-sports.io/football/teams/25008.png",
         "venue_id": 20795
+    },
+    {
+        "id": 2231,
+        "name": "Ypiranga",
+        "code": "YPI",
+        "country": "Brazil",
+        "founded": 1963,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/2231.png",
+        "venue_id": 1724
+    },
+    {
+        "id": 7785,
+        "name": "Santos AP",
+        "code": null,
+        "country": "Brazil",
+        "founded": 1973,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/7785.png",
+        "venue_id": 1724
+    },
+    {
+        "id": 7847,
+        "name": "Macapá",
+        "code": null,
+        "country": "Brazil",
+        "founded": 1944,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/7847.png",
+        "venue_id": 1724
+    },
+    {
+        "id": 10858,
+        "name": "Oratório",
+        "code": null,
+        "country": "Brazil",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/10858.png",
+        "venue_id": 9999003
+    },
+    {
+        "id": 10859,
+        "name": "Santana",
+        "code": null,
+        "country": "Brazil",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/10859.png",
+        "venue_id": 9999002
+    },
+    {
+        "id": 10860,
+        "name": "São Paulo AP",
+        "code": null,
+        "country": "Brazil",
+        "founded": 1998,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/10860.png",
+        "venue_id": 1724
+    },
+    {
+        "id": 10861,
+        "name": "Independente AP",
+        "code": null,
+        "country": "Brazil",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/10861.png",
+        "venue_id": 1724
     }
 ]

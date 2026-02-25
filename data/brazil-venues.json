@@ -1000,5 +1000,21 @@
         "capacity": 1000,
         "latitude": -9.541690266242103,
         "longitude": -36.634594099288755
+    },
+    {
+        "id": 9999003,
+        "name": "Estádio Municipal Glicério de Souza Marques",
+        "city": "Macapá",
+        "capacity": 3000,
+        "latitude": 0.0331762,
+        "longitude": -51.0634215
+    },
+    {
+        "id": 9999002,
+        "name": "Estádio Augusto Antunes",
+        "city": "Santana",
+        "capacity": 5000,
+        "latitude": -0.0593583,
+        "longitude": -51.1579932
     }
 ]
