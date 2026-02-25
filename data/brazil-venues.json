@@ -302,5 +302,157 @@
         "capacity": 10000,
         "latitude": -3.084101077799224,
         "longitude": -59.983924244434604
+    },
+    {
+        "id": 7126,
+        "name": "Estádio Orlando Scarpelli",
+        "city": "Florianópolis",
+        "capacity": 19584,
+        "latitude": -27.585466092548035,
+        "longitude": -48.58640077113395
+    },
+    {
+        "id": 249,
+        "name": "Estádio Jacy Scaff (do Café)",
+        "city": "Londrina",
+        "capacity": 31019,
+        "latitude": -23.282251072112405,
+        "longitude": -51.16492933073824
+    },
+    {
+        "id": 265,
+        "name": "Estádio Governador João Castelo",
+        "city": "São Luís",
+        "capacity": 75263,
+        "latitude": -2.54860144230419,
+        "longitude": -44.26001075797647
+    },
+    {
+        "id": 205,
+        "name": "Estádio Maria Lamas Farache",
+        "city": "Natal",
+        "capacity": 18017,
+        "latitude": -5.888394694048786,
+        "longitude": -35.17984794446038
+    },
+    {
+        "id": 12670,
+        "name": "Estádio Eládio de Barros Carvalho",
+        "city": "Recife",
+        "capacity": 22856,
+        "latitude": -8.040329077911096,
+        "longitude": -34.8968070732779
+    },
+    {
+        "id": 237,
+        "name": "Estádio Presidente Getúlio Vargas",
+        "city": "Fortaleza",
+        "capacity": 20062,
+        "latitude": -3.7456946133944524,
+        "longitude": -38.53680420214755
+    },
+    {
+        "id": 8247,
+        "name": "Estádio Almeidão",
+        "city": "João Pessoa",
+        "capacity": 25770,
+        "latitude": -7.167116267807457,
+        "longitude": -34.873427144450105
+    },
+    {
+        "id": 262,
+        "name": "Estádio Mangueirão",
+        "city": "Belém",
+        "capacity": 53635,
+        "latitude": -1.3809842870941051,
+        "longitude": -48.4438357138042
+    },
+    {
+        "id": 209,
+        "name": "Estádio Annibal Batista de Toledo",
+        "city": "Aparecida de Goiânia",
+        "capacity": 8000,
+        "latitude": -16.820424625445884,
+        "longitude": -49.245258244337556
+    },
+    {
+        "id": 282,
+        "name": "Estádio Colosso da Lagoa",
+        "city": "Erechim",
+        "capacity": 30000,
+        "latitude": -27.651955848865878,
+        "longitude": -52.26526222880401
+    },
+    {
+        "id": 8268,
+        "name": "Estádio Soares de Azevedo",
+        "city": "Muriaé",
+        "capacity": 13971,
+        "latitude": -21.126518280284134,
+        "longitude": -42.33788735776247
+    },
+    {
+        "id": 268,
+        "name": "Estádio Francisco Novelletto Neto",
+        "city": "Porto Alegre",
+        "capacity": 8000,
+        "latitude": -30.00649920332309,
+        "longitude": -51.17346937108247
+    },
+    {
+        "id": 5625,
+        "name": "Estádio Centenário",
+        "city": "Caxias do Sul",
+        "capacity": 30822,
+        "latitude": -29.164885077183698,
+        "longitude": -51.196462901786035
+    },
+    {
+        "id": 273,
+        "name": "Estádio Lourival Baptista (Batistão)",
+        "city": "Aracaju",
+        "capacity": 15575,
+        "latitude": -10.927312840385788,
+        "longitude": -37.04901751557711
+    },
+    {
+        "id": 7831,
+        "name": "Estádio Domingão",
+        "city": "Horizonte",
+        "capacity": 10500,
+        "latitude": -4.10466217088685,
+        "longitude": -38.48794232200389
+    },
+    {
+        "id": 5650,
+        "name": "Estádio Raulino de Oliveira",
+        "city": "Volta Redonda",
+        "capacity": 20255,
+        "latitude": -22.50822294083486,
+        "longitude": -44.096842101917005
+    },
+    {
+        "id": 5658,
+        "name": "Arena da Fonte Luminosa",
+        "city": "Araraquara",
+        "capacity": 20287,
+        "latitude": -21.775140030643744,
+        "longitude": -48.170308688436755
+    },
+    {
+        "id": 5688,
+        "name": "Estádio Primeiro de Maio",
+        "city": "São Bernardo do Campo",
+        "capacity": 17054,
+        "latitude": -23.699642066495908,
+        "longitude": -46.5553713442236
+    },
+    {
+        "id": 10545,
+        "name": "Estádio Joaquim Portugal",
+        "city": "São João Del Rei",
+        "capacity": 3000,
+        "latitude": -21.127415519315868,
+        "longitude": -44.24336849748018
     }
 ]

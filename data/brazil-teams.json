@@ -398,5 +398,205 @@
         "national": false,
         "logo": "https://media.api-sports.io/football/teams/10862.png",
         "venue_id": 20767
+    },
+    {
+        "id": 137,
+        "name": "Figueirense",
+        "code": "FIG",
+        "country": "Brazil",
+        "founded": 1921,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/137.png",
+        "venue_id": 7126
+    },
+    {
+        "id": 148,
+        "name": "Londrina",
+        "code": "LON",
+        "country": "Brazil",
+        "founded": 1956,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/148.png",
+        "venue_id": 249
+    },
+    {
+        "id": 150,
+        "name": "CSA",
+        "code": "CSA",
+        "country": "Brazil",
+        "founded": 1913,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/150.png",
+        "venue_id": 232
+    },
+    {
+        "id": 155,
+        "name": "Sampaio Correa",
+        "code": "SAM",
+        "country": "Brazil",
+        "founded": 1923,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/155.png",
+        "venue_id": 265
+    },
+    {
+        "id": 754,
+        "name": "ABC",
+        "code": "ABC",
+        "country": "Brazil",
+        "founded": 1915,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/754.png",
+        "venue_id": 205
+    },
+    {
+        "id": 755,
+        "name": "Nautico",
+        "code": "NAU",
+        "country": "Brazil",
+        "founded": 1901,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/755.png",
+        "venue_id": 12670
+    },
+    {
+        "id": 1195,
+        "name": "Ferroviario",
+        "code": "FER",
+        "country": "Brazil",
+        "founded": 1933,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/1195.png",
+        "venue_id": 237
+    },
+    {
+        "id": 1197,
+        "name": "Botafogo PB",
+        "code": "BOT",
+        "country": "Brazil",
+        "founded": 1931,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/1197.png",
+        "venue_id": 8247
+    },
+    {
+        "id": 1198,
+        "name": "Remo",
+        "code": "REM",
+        "country": "Brazil",
+        "founded": 1905,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/1198.png",
+        "venue_id": 262
+    },
+    {
+        "id": 1202,
+        "name": "Aparecidense",
+        "code": "APA",
+        "country": "Brazil",
+        "founded": 1985,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/1202.png",
+        "venue_id": 209
+    },
+    {
+        "id": 1221,
+        "name": "Ypiranga-RS",
+        "code": null,
+        "country": "Brazil",
+        "founded": 1924,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/1221.png",
+        "venue_id": 282
+    },
+    {
+        "id": 2227,
+        "name": "Tombense",
+        "code": "TOM",
+        "country": "Brazil",
+        "founded": 1914,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/2227.png",
+        "venue_id": 8268
+    },
+    {
+        "id": 2232,
+        "name": "Sao Jose",
+        "code": null,
+        "country": "Brazil",
+        "founded": 1913,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/2232.png",
+        "venue_id": 268
+    },
+    {
+        "id": 7770,
+        "name": "Caxias",
+        "code": "SER",
+        "country": "Brazil",
+        "founded": 1935,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/7770.png",
+        "venue_id": 5625
+    },
+    {
+        "id": 7772,
+        "name": "Confiança",
+        "code": "CON",
+        "country": "Brazil",
+        "founded": 1936,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/7772.png",
+        "venue_id": 273
+    },
+    {
+        "id": 7774,
+        "name": "Floresta",
+        "code": null,
+        "country": "Brazil",
+        "founded": 1954,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/7774.png",
+        "venue_id": 7831
+    },
+    {
+        "id": 7814,
+        "name": "Volta Redonda",
+        "code": "VOL",
+        "country": "Brazil",
+        "founded": 1976,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/7814.png",
+        "venue_id": 5650
+    },
+    {
+        "id": 7826,
+        "name": "Ferroviária",
+        "code": null,
+        "country": "Brazil",
+        "founded": 1950,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/7826.png",
+        "venue_id": 5658
+    },
+    {
+        "id": 7865,
+        "name": "São Bernardo",
+        "code": "BER",
+        "country": "Brazil",
+        "founded": 2004,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/7865.png",
+        "venue_id": 5688
+    },
+    {
+        "id": 13975,
+        "name": "Athletic Club",
+        "code": null,
+        "country": "Brazil",
+        "founded": 1909,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/13975.png",
+        "venue_id": 10545
     }
 ]
