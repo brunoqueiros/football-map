@@ -2458,5 +2458,105 @@
         "national": false,
         "logo": "https://media.api-sports.io/football/teams/19637.png",
         "venue_id": 247
+    },
+    {
+        "id": 1204,
+        "name": "Tubarao",
+        "code": null,
+        "country": "Brazil",
+        "founded": 2005,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/1204.png",
+        "venue_id": 213
+    },
+    {
+        "id": 7860,
+        "name": "Metropolitano",
+        "code": "MET",
+        "country": "Brazil",
+        "founded": 2002,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/7860.png",
+        "venue_id": 19631
+    },
+    {
+        "id": 12283,
+        "name": "Guarani de Palhoça",
+        "code": null,
+        "country": "Brazil",
+        "founded": 1928,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/12283.png",
+        "venue_id": 7817
+    },
+    {
+        "id": 12912,
+        "name": "Juventus SC",
+        "code": "GRE",
+        "country": "Brazil",
+        "founded": 1966,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/12912.png",
+        "venue_id": 8248
+    },
+    {
+        "id": 18272,
+        "name": "Camboriú",
+        "code": null,
+        "country": "Brazil",
+        "founded": 2003,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/18272.png",
+        "venue_id": 223
+    },
+    {
+        "id": 19634,
+        "name": "Atlético Catarinense",
+        "code": null,
+        "country": "Brazil",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/19634.png",
+        "venue_id": 99990021
+    },
+    {
+        "id": 19635,
+        "name": "Blumenau",
+        "code": null,
+        "country": "Brazil",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/19635.png",
+        "venue_id": 99990022
+    },
+    {
+        "id": 19636,
+        "name": "Carlos Renaux",
+        "code": null,
+        "country": "Brazil",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/19636.png",
+        "venue_id": 99990023
+    },
+    {
+        "id": 21207,
+        "name": "Santa Catarina",
+        "code": null,
+        "country": "Brazil",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/21207.png",
+        "venue_id": 99990024
+    },
+    {
+        "id": 21209,
+        "name": "Caravaggio",
+        "code": null,
+        "country": "Brazil",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/21209.png",
+        "venue_id": 99990025
     }
 ]

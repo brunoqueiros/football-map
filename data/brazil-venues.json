@@ -1528,5 +1528,77 @@
         "capacity": 11800,
         "latitude": -27.8066606,
         "longitude": -50.31021579999999
+    },
+    {
+        "id": 213,
+        "name": "Estádio Domingos Silveira Gonzales",
+        "city": "Tubarão",
+        "capacity": 5000,
+        "latitude": -28.4979814,
+        "longitude": -49.02073859999999
+    },
+    {
+        "id": 19631,
+        "name": "Estádio Genésio Ayres Marchetti",
+        "city": "Ibirama",
+        "capacity": 6000,
+        "latitude": -27.0630074,
+        "longitude": -49.5207026
+    },
+    {
+        "id": 7817,
+        "name": "Estádio Renato Silveira",
+        "city": "Palhoça",
+        "capacity": 5000,
+        "latitude": -27.6455778,
+        "longitude": -48.664229
+    },
+    {
+        "id": 8248,
+        "name": "Estádio João Marcatto",
+        "city": "Jaraguá do Sul",
+        "capacity": 10000,
+        "latitude": -26.4979867,
+        "longitude": -49.0967551
+    },
+    {
+        "id": 99990021,
+        "name": "Estádio Mário Balsini",
+        "city": "Criciúma",
+        "capacity": 4500,
+        "latitude": -28.6756421,
+        "longitude": -49.3492126
+    },
+    {
+        "id": 99990022,
+        "name": "Centro Esportivo Bernardo Werner",
+        "city": "Blumenau",
+        "capacity": 3624,
+        "latitude": -26.9095683,
+        "longitude": -49.0340003
+    },
+    {
+        "id": 99990023,
+        "name": "Estádio Augusto Bauer",
+        "city": "Brusque",
+        "capacity": 6000,
+        "latitude": -27.101415,
+        "longitude": -48.916
+    },
+    {
+        "id": 99990024,
+        "name": "Estádio Municipal Alfredo João Krieck (Alfredão)",
+        "city": "Rio do Sul",
+        "capacity": 2959,
+        "latitude": -27.2147057,
+        "longitude": -49.64985979999999
+    },
+    {
+        "id": 99990025,
+        "name": "Caravaggio Futebol Clube (Estádio da Montanha)",
+        "city": "Nova Veneza",
+        "capacity": 1000,
+        "latitude": -28.6647178,
+        "longitude": -49.4644859
     }
 ]
