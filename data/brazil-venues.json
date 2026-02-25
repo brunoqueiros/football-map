@@ -2128,5 +2128,45 @@
         "capacity": 5000,
         "latitude": -14.5402948,
         "longitude": -49.15629939999999
+    },
+    {
+        "id": 271,
+        "name": "Estádio Frei Epifânio D'Abadia",
+        "city": "Imperatriz",
+        "capacity": 12000,
+        "latitude": -5.5254321,
+        "longitude": -47.4885828
+    },
+    {
+        "id": 5626,
+        "name": "Estádio Municipal Leandro Cláudio da Silva",
+        "city": "Barra do Corda",
+        "capacity": 1950,
+        "latitude": -5.500400099999999,
+        "longitude": -45.2387854
+    },
+    {
+        "id": 21580,
+        "name": "Estadio Municipal Costa Rodrigues",
+        "city": "Pinheiro",
+        "capacity": 4000,
+        "latitude": -2.5247345,
+        "longitude": -45.08406009999999
+    },
+    {
+        "id": 21581,
+        "name": "Estádio Rafael Seabra",
+        "city": "Tuntum",
+        "capacity": 3000,
+        "latitude": -5.2607576,
+        "longitude": -44.6398283
+    },
+    {
+        "id": 99990048,
+        "name": "Estádio Municipal Lucídio Frazão",
+        "city": "Chapadinha",
+        "capacity": 2300,
+        "latitude": -3.7224575,
+        "longitude": -43.366995
     }
 ]
