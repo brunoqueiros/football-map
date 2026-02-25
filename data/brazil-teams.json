@@ -1708,5 +1708,105 @@
         "national": false,
         "logo": "https://media.api-sports.io/football/teams/15104.png",
         "venue_id": 18552
+    },
+    {
+        "id": 1200,
+        "name": "Fluminense De Feira",
+        "code": null,
+        "country": "Brazil",
+        "founded": 1941,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/1200.png",
+        "venue_id": 238
+    },
+    {
+        "id": 1225,
+        "name": "Vitoria Da Conquista",
+        "code": "VIT",
+        "country": "Brazil",
+        "founded": 2005,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/1225.png",
+        "venue_id": 2945
+    },
+    {
+        "id": 12301,
+        "name": "Feirense",
+        "code": null,
+        "country": "Brazil",
+        "founded": 2000,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/12301.png",
+        "venue_id": 238
+    },
+    {
+        "id": 12935,
+        "name": "Galícia",
+        "code": null,
+        "country": "Brazil",
+        "founded": 1933,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/12935.png",
+        "venue_id": 11287
+    },
+    {
+        "id": 15106,
+        "name": "Colo Colo",
+        "code": null,
+        "country": "Brazil",
+        "founded": 1948,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/15106.png",
+        "venue_id": 10800
+    },
+    {
+        "id": 16672,
+        "name": "Grapiuna Itabuna",
+        "code": null,
+        "country": "Brazil",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/16672.png",
+        "venue_id": 18554
+    },
+    {
+        "id": 18832,
+        "name": "Jacobinense",
+        "code": null,
+        "country": "Brazil",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/18832.png",
+        "venue_id": 20703
+    },
+    {
+        "id": 21169,
+        "name": "Leonico",
+        "code": null,
+        "country": "Brazil",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/21169.png",
+        "venue_id": 19597
+    },
+    {
+        "id": 23591,
+        "name": "Porto BA",
+        "code": null,
+        "country": "Brazil",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/23591.png",
+        "venue_id": 99990007
+    },
+    {
+        "id": 23592,
+        "name": "SSA",
+        "code": null,
+        "country": "Brazil",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/23592.png",
+        "venue_id": 99990008
     }
 ]

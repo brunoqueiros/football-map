@@ -1096,5 +1096,61 @@
         "capacity": 6000,
         "latitude": -13.8758627,
         "longitude": -40.0844617
+    },
+    {
+        "id": 2945,
+        "name": "Estádio Lomanto Júnior",
+        "city": "Vitória da Conquista",
+        "capacity": 12934,
+        "latitude": -14.8701644,
+        "longitude": -40.8261592
+    },
+    {
+        "id": 11287,
+        "name": "Estádio Governador Roberto Santos",
+        "city": "Salvador de Bahia",
+        "capacity": 32157,
+        "latitude": -12.9462132,
+        "longitude": -38.4178685
+    },
+    {
+        "id": 10800,
+        "name": "Estádio Mário Pessoa",
+        "city": "Ilhéus",
+        "capacity": 5300,
+        "latitude": -14.7908593,
+        "longitude": -39.0339709
+    },
+    {
+        "id": 20703,
+        "name": "Estádio Jodilton Souza",
+        "city": "Feira de Santana",
+        "capacity": 7000,
+        "latitude": -12.2760913,
+        "longitude": -38.9363421
+    },
+    {
+        "id": 19597,
+        "name": "Estádio Luís Eduardo Magalhães",
+        "city": "Terra Nova",
+        "capacity": 5000,
+        "latitude": -12.4129824,
+        "longitude": -38.6170286
+    },
+    {
+        "id": 99990007,
+        "name": "Estádio Municipal Agnaldo Bento dos Santos",
+        "city": "Porto Seguro",
+        "capacity": 5000,
+        "latitude": -16.4456601,
+        "longitude": -39.0668033
+    },
+    {
+        "id": 99990008,
+        "name": "Estádio de Pituaçu",
+        "city": "Salvador",
+        "capacity": 32157,
+        "latitude": -12.9462132,
+        "longitude": -38.4178685
     }
 ]
