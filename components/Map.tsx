@@ -113,13 +113,11 @@ const Map = forwardRef<MapRef, MapProps>(({
       type: 'geojson',
       data: {
         type: 'FeatureCollection',
-        features: teams.map(s => {
-          const venue = venues.find(venue => venue.id === s.venue_id);
-
+        features: venues.map(venue => {
           return {
             type: 'Feature',
             geometry: { type: 'Point', coordinates: [venue.longitude, venue.latitude] },
-            properties: { ...s }
+            properties: { ...venue }
           }
         })
       }
@@ -146,7 +144,6 @@ const Map = forwardRef<MapRef, MapProps>(({
 
     map.on('click', 'stadium-circles', (e) => {
       const stadiumData = e.features?.at(0)?.properties as Stadium;
-      console.log(stadiumData)
       onSelectStadium?.(stadiumData);
     });
 
