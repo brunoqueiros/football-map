@@ -3038,5 +3038,55 @@
         "national": false,
         "logo": "https://media.api-sports.io/football/teams/25080.png",
         "venue_id": 21306
+    },
+    {
+        "id": 7873,
+        "name": "Goianésia",
+        "code": "GOI",
+        "country": "Brazil",
+        "founded": 1955,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/7873.png",
+        "venue_id": 5694
+    },
+    {
+        "id": 10674,
+        "name": "Goiânia",
+        "code": null,
+        "country": "Brazil",
+        "founded": 1938,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/10674.png",
+        "venue_id": 7311
+    },
+    {
+        "id": 16465,
+        "name": "Jataiense",
+        "code": null,
+        "country": "Brazil",
+        "founded": 1952,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/16465.png",
+        "venue_id": 11523
+    },
+    {
+        "id": 18296,
+        "name": "Goiatuba EC",
+        "code": null,
+        "country": "Brazil",
+        "founded": 1970,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/18296.png",
+        "venue_id": 12662
+    },
+    {
+        "id": 18297,
+        "name": "Morrinhos",
+        "code": null,
+        "country": "Brazil",
+        "founded": 1982,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/18297.png",
+        "venue_id": 12663
     }
 ]

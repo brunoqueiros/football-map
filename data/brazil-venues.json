@@ -1952,5 +1952,45 @@
         "capacity": 3500,
         "latitude": -32.0927336,
         "longitude": -52.1588092
+    },
+    {
+        "id": 5694,
+        "name": "Estádio Waldeir José de Oliveira",
+        "city": "Goianésia",
+        "capacity": 10000,
+        "latitude": -15.3376799,
+        "longitude": -49.1175215
+    },
+    {
+        "id": 7311,
+        "name": "Estádio Olímpico Pedro Ludovico Teixeira",
+        "city": "Goiânia",
+        "capacity": 13500,
+        "latitude": -16.6706957,
+        "longitude": -49.2618606
+    },
+    {
+        "id": 11523,
+        "name": "Estádio Municpal Nelson Antônio da Silva",
+        "city": "Jataí",
+        "capacity": 17000,
+        "latitude": -17.862637,
+        "longitude": -51.7285653
+    },
+    {
+        "id": 12662,
+        "name": "Estádio Divino Garcia Rosa",
+        "city": "Goiatuba",
+        "capacity": 15000,
+        "latitude": -18.016113,
+        "longitude": -49.3656213
+    },
+    {
+        "id": 12663,
+        "name": "Estádio do Centro Esportivo João Vilela",
+        "city": "Morrinhos",
+        "capacity": 5040,
+        "latitude": -17.7365705,
+        "longitude": -49.11269780000001
     }
 ]
