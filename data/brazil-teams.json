@@ -2558,5 +2558,35 @@
         "national": false,
         "logo": "https://media.api-sports.io/football/teams/21209.png",
         "venue_id": 99990025
+    },
+    {
+        "id": 25115,
+        "name": "FC Porto",
+        "code": null,
+        "country": "Brazil",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/25115.png",
+        "venue_id": 99990026
+    },
+    {
+        "id": 25116,
+        "name": "Fluminense-SC",
+        "code": null,
+        "country": "Brazil",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/25116.png",
+        "venue_id": 99990027
+    },
+    {
+        "id": 25117,
+        "name": "Jaraguá",
+        "code": null,
+        "country": "Brazil",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/25117.png",
+        "venue_id": 22550
     }
 ]

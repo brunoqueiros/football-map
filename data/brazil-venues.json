@@ -1600,5 +1600,29 @@
         "capacity": 1000,
         "latitude": -28.6647178,
         "longitude": -49.4644859
+    },
+    {
+        "id": 99990026,
+        "name": "Estádio Municipal Armando Sarti",
+        "city": "Porto União",
+        "capacity": 1218,
+        "latitude": -26.2534111,
+        "longitude": -51.0645129
+    },
+    {
+        "id": 99990027,
+        "name": "Estádio Olímpico Dr. Sadalla Amin Ghanem",
+        "city": "Joinville",
+        "capacity": 2500,
+        "latitude": -26.3062885,
+        "longitude": -48.8633385
+    },
+    {
+        "id": 22550,
+        "name": "Estádio Botafogo",
+        "city": "Jaraguá do Sul",
+        "capacity": 1000,
+        "latitude": -26.5135117,
+        "longitude": -49.131637
     }
 ]
