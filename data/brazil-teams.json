@@ -2088,5 +2088,95 @@
         "national": false,
         "logo": "https://media.api-sports.io/football/teams/13115.png",
         "venue_id": 8290
+    },
+    {
+        "id": 12295,
+        "name": "Friburguense",
+        "code": "FRI",
+        "country": "Brazil",
+        "founded": 1921,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/12295.png",
+        "venue_id": 7829
+    },
+    {
+        "id": 13106,
+        "name": "Artsul",
+        "code": null,
+        "country": "Brazil",
+        "founded": 2001,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/13106.png",
+        "venue_id": 8283
+    },
+    {
+        "id": 13113,
+        "name": "Nova Cidade",
+        "code": null,
+        "country": "Brazil",
+        "founded": 1939,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/13113.png",
+        "venue_id": 8288
+    },
+    {
+        "id": 13117,
+        "name": "Serrano RJ",
+        "code": null,
+        "country": "Brazil",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/13117.png",
+        "venue_id": 8291
+    },
+    {
+        "id": 13118,
+        "name": "São Gonçalo EC RJ",
+        "code": null,
+        "country": "Brazil",
+        "founded": 2010,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/13118.png",
+        "venue_id": 5661
+    },
+    {
+        "id": 17738,
+        "name": "Pérolas Negras",
+        "code": null,
+        "country": "Brazil",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/17738.png",
+        "venue_id": 3680
+    },
+    {
+        "id": 20007,
+        "name": "Paduano",
+        "code": null,
+        "country": "Brazil",
+        "founded": 1927,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/20007.png",
+        "venue_id": 208
+    },
+    {
+        "id": 22354,
+        "name": "SE Belford Roxo",
+        "code": null,
+        "country": "Brazil",
+        "founded": 2020,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/22354.png",
+        "venue_id": 99990014
+    },
+    {
+        "id": 23664,
+        "name": "São Cristóvão RJ",
+        "code": null,
+        "country": "Brazil",
+        "founded": 1898,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/23664.png",
+        "venue_id": 20722
     }
 ]
