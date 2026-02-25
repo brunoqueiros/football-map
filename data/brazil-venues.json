@@ -1992,5 +1992,53 @@
         "capacity": 5040,
         "latitude": -17.7365705,
         "longitude": -49.11269780000001
+    },
+    {
+        "id": 20632,
+        "name": "Estádio Zico Brandão",
+        "city": "Inhumas",
+        "capacity": 4380,
+        "latitude": -16.3726363,
+        "longitude": -49.4933275
+    },
+    {
+        "id": 20633,
+        "name": "Estádio Municipal Valdir Cândido de Queiroz",
+        "city": "Guapó",
+        "capacity": 1000,
+        "latitude": -16.8367247,
+        "longitude": -49.5353288
+    },
+    {
+        "id": 99990038,
+        "name": "Estádio Jaime Guerra",
+        "city": "Nerópolis",
+        "capacity": 4000,
+        "latitude": -16.4026709,
+        "longitude": -49.218238
+    },
+    {
+        "id": 20102,
+        "name": "Estádio Pedro Romualdo Cabral",
+        "city": "Santa Helena de Goiás",
+        "capacity": 5000,
+        "latitude": -17.8097581,
+        "longitude": -50.5864957
+    },
+    {
+        "id": 99990039,
+        "name": "Estádio Municipal Luiz Benedito",
+        "city": "Ouvidor",
+        "capacity": 1000,
+        "latitude": -18.2313706,
+        "longitude": -47.8350491
+    },
+    {
+        "id": 20634,
+        "name": "Estádio Abrão Manoel da Costa",
+        "city": "Trindade",
+        "capacity": 3000,
+        "latitude": -16.6483795,
+        "longitude": -49.4887743
     }
 ]
