@@ -2178,5 +2178,95 @@
         "national": false,
         "logo": "https://media.api-sports.io/football/teams/23664.png",
         "venue_id": 20722
+    },
+    {
+        "id": 2203,
+        "name": "Americano Campos",
+        "code": null,
+        "country": "Brazil",
+        "founded": 1914,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/2203.png",
+        "venue_id": 208
+    },
+    {
+        "id": 4857,
+        "name": "Resende",
+        "code": "RES",
+        "country": "Brazil",
+        "founded": 1909,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/4857.png",
+        "venue_id": 3680
+    },
+    {
+        "id": 10672,
+        "name": "Cabofriense",
+        "code": "CAB",
+        "country": "Brazil",
+        "founded": 1997,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/10672.png",
+        "venue_id": 7309
+    },
+    {
+        "id": 12278,
+        "name": "Duque de Caxias",
+        "code": "DUQ",
+        "country": "Brazil",
+        "founded": 1957,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/12278.png",
+        "venue_id": 7815
+    },
+    {
+        "id": 13104,
+        "name": "América RJ",
+        "code": null,
+        "country": "Brazil",
+        "founded": 1904,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/13104.png",
+        "venue_id": 8281
+    },
+    {
+        "id": 13114,
+        "name": "Olaria",
+        "code": "OLA",
+        "country": "Brazil",
+        "founded": 1915,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/13114.png",
+        "venue_id": 8289
+    },
+    {
+        "id": 14000,
+        "name": "Maricá",
+        "code": null,
+        "country": "Brazil",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/14000.png",
+        "venue_id": 20721
+    },
+    {
+        "id": 20006,
+        "name": "Araruama",
+        "code": null,
+        "country": "Brazil",
+        "founded": 2016,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/20006.png",
+        "venue_id": 8290
+    },
+    {
+        "id": 23262,
+        "name": "Petrópolis",
+        "code": null,
+        "country": "Brazil",
+        "founded": 2012,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/23262.png",
+        "venue_id": 8291
     }
 ]

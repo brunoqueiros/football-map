@@ -1384,5 +1384,45 @@
         "capacity": 8000,
         "latitude": -22.9050786,
         "longitude": -43.21349800000001
+    },
+    {
+        "id": 7309,
+        "name": "Estádio Alair Côrrea",
+        "city": "Cabo Frio",
+        "capacity": 8000,
+        "latitude": -22.8903021,
+        "longitude": -42.0401272
+    },
+    {
+        "id": 7815,
+        "name": "Estádio Romário de Souza Faria",
+        "city": "Duque de Caxias",
+        "capacity": 10000,
+        "latitude": -22.5856628,
+        "longitude": -43.3052295
+    },
+    {
+        "id": 8281,
+        "name": "Estádio Giulite Coutinho",
+        "city": "Mesquita",
+        "capacity": 13544,
+        "latitude": -22.7954789,
+        "longitude": -43.4197703
+    },
+    {
+        "id": 8289,
+        "name": "Estádio Mourão Filho",
+        "city": "Rio de Janeiro",
+        "capacity": 5141,
+        "latitude": -22.8413283,
+        "longitude": -43.2667391
+    },
+    {
+        "id": 20721,
+        "name": "Centro de Treinamento João Saldanha",
+        "city": "Rio de Janeiro",
+        "capacity": 2000,
+        "latitude": -22.9536788,
+        "longitude": -43.1778517
     }
 ]
