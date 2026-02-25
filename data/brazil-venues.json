@@ -2168,5 +2168,37 @@
         "capacity": 2300,
         "latitude": -3.7224575,
         "longitude": -43.366995
+    },
+    {
+        "id": 11497,
+        "name": "Estádio José Luís Nery Corrêa",
+        "city": "Bacabal",
+        "capacity": 7856,
+        "latitude": -4.2238179,
+        "longitude": -44.77813130000001
+    },
+    {
+        "id": 99990049,
+        "name": "Estádio Municipal Renê Bayma",
+        "city": "Codó",
+        "capacity": 12000,
+        "latitude": -4.4534516,
+        "longitude": -43.8923212
+    },
+    {
+        "id": 22577,
+        "name": "Estádio Walter Lira",
+        "city": "Imperatriz",
+        "capacity": 1200,
+        "latitude": -5.473176899999999,
+        "longitude": -47.4167338
+    },
+    {
+        "id": 21394,
+        "name": "Estádio Daniel Rodrigues Leal",
+        "city": "Santa Quitéria",
+        "capacity": 1650,
+        "latitude": -3.4936617,
+        "longitude": -42.5598617
     }
 ]

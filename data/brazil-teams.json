@@ -3348,5 +3348,115 @@
         "national": false,
         "logo": "https://media.api-sports.io/football/teams/20711.png",
         "venue_id": 99990048
+    },
+    {
+        "id": 12919,
+        "name": "São José MA",
+        "code": null,
+        "country": "Brazil",
+        "founded": 2007,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/12919.png",
+        "venue_id": 252
+    },
+    {
+        "id": 15606,
+        "name": "IAPE",
+        "code": null,
+        "country": "Brazil",
+        "founded": 2008,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/15606.png",
+        "venue_id": 252
+    },
+    {
+        "id": 15607,
+        "name": "Timon MA",
+        "code": null,
+        "country": "Brazil",
+        "founded": 2005,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/15607.png",
+        "venue_id": 252
+    },
+    {
+        "id": 16439,
+        "name": "Bacabal",
+        "code": null,
+        "country": "Brazil",
+        "founded": 1974,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/16439.png",
+        "venue_id": 11497
+    },
+    {
+        "id": 25043,
+        "name": "Americano Bacabal",
+        "code": null,
+        "country": "Brazil",
+        "founded": 1978,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/25043.png",
+        "venue_id": 252
+    },
+    {
+        "id": 25044,
+        "name": "Expressinho",
+        "code": null,
+        "country": "Brazil",
+        "founded": 1975,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/25044.png",
+        "venue_id": 252
+    },
+    {
+        "id": 25045,
+        "name": "Sao Luis",
+        "code": null,
+        "country": "Brazil",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/25045.png",
+        "venue_id": 252
+    },
+    {
+        "id": 25046,
+        "name": "Real Codó",
+        "code": null,
+        "country": "Brazil",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/25046.png",
+        "venue_id": 99990049
+    },
+    {
+        "id": 25129,
+        "name": "Tupan",
+        "code": null,
+        "country": "Brazil",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/25129.png",
+        "venue_id": 252
+    },
+    {
+        "id": 25181,
+        "name": "ITZ Sport",
+        "code": null,
+        "country": "Brazil",
+        "founded": 2017,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/25181.png",
+        "venue_id": 22577
+    },
+    {
+        "id": 25182,
+        "name": "Santa Quitéria",
+        "code": null,
+        "country": "Brazil",
+        "founded": 2003,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/25182.png",
+        "venue_id": 21394
     }
 ]
