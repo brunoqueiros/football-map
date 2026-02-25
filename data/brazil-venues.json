@@ -2200,5 +2200,45 @@
         "capacity": 1650,
         "latitude": -3.4936617,
         "longitude": -42.5598617
+    },
+    {
+        "id": 250,
+        "name": "Estádio Municipal Passo Das Emas",
+        "city": "Lucas do Rio Verde",
+        "capacity": 9500,
+        "latitude": -13.0745028,
+        "longitude": -55.9241914
+    },
+    {
+        "id": 5693,
+        "name": "Estádio Antônio Afonso de Melo",
+        "city": "Alto Araguaia",
+        "capacity": 4500,
+        "latitude": -17.3285585,
+        "longitude": -53.2185479
+    },
+    {
+        "id": 8295,
+        "name": "Estádio Valdir Doilho Wons",
+        "city": "Nova Mutum",
+        "capacity": 1000,
+        "latitude": -13.8304927,
+        "longitude": -56.0946456
+    },
+    {
+        "id": 99990051,
+        "name": "Estádio Engenheiro Lutero Lopes",
+        "city": "Rondonópolis",
+        "capacity": 19000,
+        "latitude": -16.4579681,
+        "longitude": -54.600056
+    },
+    {
+        "id": 99990050,
+        "name": "Estádio Municipal Antônio Santo Renosto (Cerradão)",
+        "city": "Primavera do Leste",
+        "capacity": 4000,
+        "latitude": -15.5672385,
+        "longitude": -54.3273222
     }
 ]
