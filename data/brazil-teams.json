@@ -1808,5 +1808,85 @@
         "national": false,
         "logo": "https://media.api-sports.io/football/teams/23592.png",
         "venue_id": 99990008
+    },
+    {
+        "id": 1222,
+        "name": "Gama",
+        "code": null,
+        "country": "Brazil",
+        "founded": 1975,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/1222.png",
+        "venue_id": 2944
+    },
+    {
+        "id": 7771,
+        "name": "Ceilândia",
+        "code": null,
+        "country": "Brazil",
+        "founded": 1979,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/7771.png",
+        "venue_id": 222
+    },
+    {
+        "id": 12921,
+        "name": "Capital Brasilia",
+        "code": null,
+        "country": "Brazil",
+        "founded": 1984,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/12921.png",
+        "venue_id": 8251
+    },
+    {
+        "id": 12922,
+        "name": "Ceilandense",
+        "code": null,
+        "country": "Brazil",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/12922.png",
+        "venue_id": 222
+    },
+    {
+        "id": 12924,
+        "name": "Paranoá",
+        "code": null,
+        "country": "Brazil",
+        "founded": 2000,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/12924.png",
+        "venue_id": 8253
+    },
+    {
+        "id": 15612,
+        "name": "Samambaia",
+        "code": null,
+        "country": "Brazil",
+        "founded": 1993,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/15612.png",
+        "venue_id": 99990010
+    },
+    {
+        "id": 15613,
+        "name": "Santa Maria",
+        "code": null,
+        "country": "Brazil",
+        "founded": 2000,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/15613.png",
+        "venue_id": 2944
+    },
+    {
+        "id": 22818,
+        "name": "Planaltina DF",
+        "code": null,
+        "country": "Brazil",
+        "founded": 1963,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/22818.png",
+        "venue_id": 99990009
     }
 ]

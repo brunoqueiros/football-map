@@ -1152,5 +1152,45 @@
         "capacity": 32157,
         "latitude": -12.9462132,
         "longitude": -38.4178685
+    },
+    {
+        "id": 2944,
+        "name": "Estádio Walmir Campelo Bezerra",
+        "city": "Gama",
+        "capacity": 20310,
+        "latitude": -16.0113648,
+        "longitude": -48.0617646
+    },
+    {
+        "id": 8251,
+        "name": "Estádio Antônio Otoni Filho",
+        "city": "Guará",
+        "capacity": 7000,
+        "latitude": -15.8264118,
+        "longitude": -47.9722176
+    },
+    {
+        "id": 8253,
+        "name": "Estádio Juscelino Kubitschek",
+        "city": "Paranoá",
+        "capacity": 6000,
+        "latitude": -15.7796005,
+        "longitude": -47.7862642
+    },
+    {
+        "id": 99990010,
+        "name": "Estádio Joaquim Domingos Roriz (Rorizão)",
+        "city": "Samambaia",
+        "capacity": 6000,
+        "latitude": -15.879527,
+        "longitude": -48.0887477
+    },
+    {
+        "id": 99990009,
+        "name": "Estádio Adonir José Guimarães",
+        "city": "Planaltina",
+        "capacity": 12000,
+        "latitude": -15.6158892,
+        "longitude": -47.6527503
     }
 ]
