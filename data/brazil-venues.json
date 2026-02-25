@@ -33,7 +33,7 @@
     },
     {
         "id": 204,
-        "name": "Maracanã",
+        "name": "Estadio Jornalista Mário Filho (Maracanã)",
         "city": "Rio de Janeiro",
         "capacity": 78838,
         "latitude": -22.9121,
@@ -1288,5 +1288,29 @@
         "capacity": 2000,
         "latitude": -8.1101418,
         "longitude": -35.0162314
+    },
+    {
+        "id": 217,
+        "name": "Estádio Elcyr Resende de Mendonça",
+        "city": "Saquarema",
+        "capacity": 12000,
+        "latitude": -22.8955308,
+        "longitude": -42.4771481
+    },
+    {
+        "id": 5633,
+        "name": "Estádio Aniceto Moscoso",
+        "city": "Rio de Janeiro",
+        "capacity": 3314,
+        "latitude": -22.869718,
+        "longitude": -43.33725
+    },
+    {
+        "id": 8290,
+        "name": "Estádio Lourival Gomes de Almeida",
+        "city": "Saquarema",
+        "capacity": 3000,
+        "latitude": -22.8335898,
+        "longitude": -42.5963879
     }
 ]

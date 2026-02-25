@@ -2048,5 +2048,45 @@
         "national": false,
         "logo": "https://media.api-sports.io/football/teams/22821.png",
         "venue_id": 20441
+    },
+    {
+        "id": 2206,
+        "name": "Boavista SC",
+        "code": "BOA",
+        "country": "Brazil",
+        "founded": 1961,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/2206.png",
+        "venue_id": 217
+    },
+    {
+        "id": 7780,
+        "name": "Madureira",
+        "code": "MAD",
+        "country": "Brazil",
+        "founded": 1914,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/7780.png",
+        "venue_id": 5633
+    },
+    {
+        "id": 7854,
+        "name": "Bangu",
+        "code": "BAN",
+        "country": "Brazil",
+        "founded": 1904,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/7854.png",
+        "venue_id": 5679
+    },
+    {
+        "id": 13115,
+        "name": "Sampaio Corrêa RJ",
+        "code": null,
+        "country": "Brazil",
+        "founded": 2006,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/13115.png",
+        "venue_id": 8290
     }
 ]
