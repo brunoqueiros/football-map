@@ -2618,5 +2618,95 @@
         "national": false,
         "logo": "https://media.api-sports.io/football/teams/12297.png",
         "venue_id": 7831
+    },
+    {
+        "id": 1216,
+        "name": "Guarani De Juazeiro",
+        "code": "GUA",
+        "country": "Brazil",
+        "founded": 1941,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/1216.png",
+        "venue_id": 2942
+    },
+    {
+        "id": 7874,
+        "name": "Icasa",
+        "code": "ICA",
+        "country": "Brazil",
+        "founded": 1963,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/7874.png",
+        "venue_id": 2942
+    },
+    {
+        "id": 12288,
+        "name": "Tiradentes CE",
+        "code": "TIR",
+        "country": "Brazil",
+        "founded": 1961,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/12288.png",
+        "venue_id": 7822
+    },
+    {
+        "id": 12920,
+        "name": "Pacajus",
+        "code": null,
+        "country": "Brazil",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/12920.png",
+        "venue_id": 19642
+    },
+    {
+        "id": 13090,
+        "name": "Maranguape",
+        "code": null,
+        "country": "Brazil",
+        "founded": 1997,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/13090.png",
+        "venue_id": 8272
+    },
+    {
+        "id": 15506,
+        "name": "Itapipoca",
+        "code": "ITA",
+        "country": "Brazil",
+        "founded": 1993,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/15506.png",
+        "venue_id": 11062
+    },
+    {
+        "id": 15507,
+        "name": "Pacatuba",
+        "code": null,
+        "country": "Brazil",
+        "founded": 2006,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/15507.png",
+        "venue_id": 11063
+    },
+    {
+        "id": 16750,
+        "name": "Cariri",
+        "code": null,
+        "country": "Brazil",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/16750.png",
+        "venue_id": 99990029
+    },
+    {
+        "id": 18799,
+        "name": "Tirol/CEFAT",
+        "code": null,
+        "country": "Brazil",
+        "founded": 2011,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/18799.png",
+        "venue_id": 237
     }
 ]

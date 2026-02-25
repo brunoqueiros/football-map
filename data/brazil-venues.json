@@ -1640,5 +1640,53 @@
         "capacity": 4000,
         "latitude": -3.7321402,
         "longitude": -38.6523457
+    },
+    {
+        "id": 7822,
+        "name": "Estádio Alcides Santos",
+        "city": "Fortaleza",
+        "capacity": 7150,
+        "latitude": -3.766701499999999,
+        "longitude": -38.5727841
+    },
+    {
+        "id": 19642,
+        "name": "Estadio Municipal João Ronaldo",
+        "city": "Pacajus",
+        "capacity": 3000,
+        "latitude": -4.1830644,
+        "longitude": -38.4642005
+    },
+    {
+        "id": 8272,
+        "name": "Estádio Francisco Cardoso de Morais",
+        "city": "Maranguape",
+        "capacity": 5500,
+        "latitude": -3.8852883,
+        "longitude": -38.6771795
+    },
+    {
+        "id": 11062,
+        "name": "Estádio Perilo Teixeira",
+        "city": "Itapipoca",
+        "capacity": 8000,
+        "latitude": -3.5059469,
+        "longitude": -39.5793423
+    },
+    {
+        "id": 11063,
+        "name": "Estádio Alberto Oliveira Sobrinho",
+        "city": "Pacatuba",
+        "capacity": 3000,
+        "latitude": -3.977779999999999,
+        "longitude": -38.6139376
+    },
+    {
+        "id": 99990029,
+        "name": "Cariri Football Club",
+        "city": "Juazeiro do Norte",
+        "capacity": null,
+        "latitude": -7.245361099999999,
+        "longitude": -39.3052081
     }
 ]
