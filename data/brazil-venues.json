@@ -1016,5 +1016,29 @@
         "capacity": 5000,
         "latitude": -0.0593583,
         "longitude": -51.1579932
+    },
+    {
+        "id": 5634,
+        "name": "Estádio Ismael Benigno",
+        "city": "Manaus",
+        "capacity": 16000,
+        "latitude": -3.1217997,
+        "longitude": -60.0373292
+    },
+    {
+        "id": 236,
+        "name": "Estádio Roberto Simonsen",
+        "city": "Manaus",
+        "capacity": 5000,
+        "latitude": -3.0732444,
+        "longitude": -59.968622
+    },
+    {
+        "id": 9999004,
+        "name": "Estádio Francisco Garcia",
+        "city": "Parintins",
+        "capacity": 4000,
+        "latitude": -2.7007177,
+        "longitude": -59.6994774
     }
 ]

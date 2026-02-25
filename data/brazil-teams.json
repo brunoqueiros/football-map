@@ -1528,5 +1528,65 @@
         "national": false,
         "logo": "https://media.api-sports.io/football/teams/10861.png",
         "venue_id": 1724
+    },
+    {
+        "id": 7781,
+        "name": "Nacional AM",
+        "code": "NAC",
+        "country": "Brazil",
+        "founded": 1913,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/7781.png",
+        "venue_id": 5634
+    },
+    {
+        "id": 10864,
+        "name": "São Raimundo AM",
+        "code": null,
+        "country": "Brazil",
+        "founded": 1918,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/10864.png",
+        "venue_id": 236
+    },
+    {
+        "id": 10866,
+        "name": "Rio Negro AM",
+        "code": null,
+        "country": "Brazil",
+        "founded": 1913,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/10866.png",
+        "venue_id": 236
+    },
+    {
+        "id": 18309,
+        "name": "Operário AM",
+        "code": null,
+        "country": "Brazil",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/18309.png",
+        "venue_id": 5686
+    },
+    {
+        "id": 20724,
+        "name": "Parintins",
+        "code": null,
+        "country": "Brazil",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/20724.png",
+        "venue_id": 9999004
+    },
+    {
+        "id": 22826,
+        "name": "Unidos do Alvorada",
+        "code": null,
+        "country": "Brazil",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/22826.png",
+        "venue_id": 10520
     }
 ]
