@@ -1768,5 +1768,133 @@
         "capacity": 6000,
         "latitude": -29.7093316,
         "longitude": -52.4225635
+    },
+    {
+        "id": 5623,
+        "name": "Estádio João Corrêa da Silveira",
+        "city": "São Leopoldo",
+        "capacity": 12000,
+        "latitude": -29.7824988,
+        "longitude": -51.1554843
+    },
+    {
+        "id": 19635,
+        "name": "Bsbios Arena",
+        "city": "Passo Fundo",
+        "capacity": 4000,
+        "latitude": -28.2758049,
+        "longitude": -52.44018939999999
+    },
+    {
+        "id": 7077,
+        "name": "Estádio Parque Esportivo Montanha dos Vinhedos",
+        "city": "Bento Gonçalves",
+        "capacity": 15276,
+        "latitude": -29.1537038,
+        "longitude": -51.5365548
+    },
+    {
+        "id": 7078,
+        "name": "Estádio Boca do Lobo",
+        "city": "Pelotas",
+        "capacity": 23336,
+        "latitude": -31.7609867,
+        "longitude": -52.3360103
+    },
+    {
+        "id": 7079,
+        "name": "Estádio Pedra Moura",
+        "city": "Bagé",
+        "capacity": 10000,
+        "latitude": -31.3300598,
+        "longitude": -54.1167379
+    },
+    {
+        "id": 7080,
+        "name": "Estádio das Castanheiras",
+        "city": "Farroupilha",
+        "capacity": 5000,
+        "latitude": -29.20948379999999,
+        "longitude": -51.3494539
+    },
+    {
+        "id": 7081,
+        "name": "Arena Cruzeiro",
+        "city": "Cachoeirinha",
+        "capacity": 16000,
+        "latitude": -29.9095975,
+        "longitude": -51.0933257
+    },
+    {
+        "id": 7082,
+        "name": "Estádio Altos da Glória",
+        "city": "Vacaria",
+        "capacity": 8000,
+        "latitude": -28.4973043,
+        "longitude": -50.9528595
+    },
+    {
+        "id": 19637,
+        "name": "Estádio Presidente Vargas",
+        "city": "Santa Maria",
+        "capacity": 6554,
+        "latitude": -29.6920657,
+        "longitude": -53.8246219
+    },
+    {
+        "id": 7086,
+        "name": "Estádio Alviazul",
+        "city": "Lajeado",
+        "capacity": 8000,
+        "latitude": -29.483800044863134,
+        "longitude": -51.999893274136205
+    },
+    {
+        "id": 5659,
+        "name": "Estádio Vermelhão da Serra",
+        "city": "Passo Fundo",
+        "capacity": 18000,
+        "latitude": -28.2813628,
+        "longitude": -52.37665699999999
+    },
+    {
+        "id": 7087,
+        "name": "Estádio Sílvio de Faria Côrrea",
+        "city": "São Gabriel",
+        "capacity": 8500,
+        "latitude": -30.3431206,
+        "longitude": -54.3265008
+    },
+    {
+        "id": 7089,
+        "name": "Arena do União Frederiquense",
+        "city": "Frederico Westphalen",
+        "capacity": 5000,
+        "latitude": -27.3644399,
+        "longitude": -53.4251189
+    },
+    {
+        "id": 7090,
+        "name": "Estádio Antônio David Farina",
+        "city": "Veranópolis",
+        "capacity": 4000,
+        "latitude": -28.9433528,
+        "longitude": -51.54988669999999
+    },
+    {
+        "id": 20631,
+        "name": "Estádio Antônio Raúl Gonçalves Fraga",
+        "city": "Porto Alegre",
+        "capacity": 3000,
+        "latitude": -30.2122591,
+        "longitude": -51.108474
+    },
+    {
+        "id": 99990034,
+        "name": "Centro de treinamento becker futebol com vida",
+        "city": "Viamão",
+        "capacity": null,
+        "latitude": -30.1156294,
+        "longitude": -51.03063770000001
     }
 ]

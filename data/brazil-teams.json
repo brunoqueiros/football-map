@@ -2808,5 +2808,165 @@
         "national": false,
         "logo": "https://media.api-sports.io/football/teams/16479.png",
         "venue_id": 19636
+    },
+    {
+        "id": 7767,
+        "name": "Aimoré",
+        "code": "AIM",
+        "country": "Brazil",
+        "founded": 1936,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/7767.png",
+        "venue_id": 5623
+    },
+    {
+        "id": 7827,
+        "name": "Gaúcho",
+        "code": null,
+        "country": "Brazil",
+        "founded": 1918,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/7827.png",
+        "venue_id": 19635
+    },
+    {
+        "id": 10042,
+        "name": "Esportivo",
+        "code": "BEN",
+        "country": "Brazil",
+        "founded": 1919,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/10042.png",
+        "venue_id": 7077
+    },
+    {
+        "id": 10043,
+        "name": "Pelotas",
+        "code": "PEL",
+        "country": "Brazil",
+        "founded": 1908,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/10043.png",
+        "venue_id": 7078
+    },
+    {
+        "id": 10044,
+        "name": "Bagé",
+        "code": null,
+        "country": "Brazil",
+        "founded": 1920,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/10044.png",
+        "venue_id": 7079
+    },
+    {
+        "id": 10045,
+        "name": "Brasil Farroupilha",
+        "code": null,
+        "country": "Brazil",
+        "founded": 1939,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/10045.png",
+        "venue_id": 7080
+    },
+    {
+        "id": 10046,
+        "name": "Cruzeiro RS",
+        "code": "EC",
+        "country": "Brazil",
+        "founded": 1913,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/10046.png",
+        "venue_id": 7081
+    },
+    {
+        "id": 10047,
+        "name": "Glória",
+        "code": null,
+        "country": "Brazil",
+        "founded": 1956,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/10047.png",
+        "venue_id": 7082
+    },
+    {
+        "id": 10051,
+        "name": "Inter Santa Maria",
+        "code": null,
+        "country": "Brazil",
+        "founded": 1928,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/10051.png",
+        "venue_id": 19637
+    },
+    {
+        "id": 10052,
+        "name": "Lajeadense",
+        "code": "LAJ",
+        "country": "Brazil",
+        "founded": 1911,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/10052.png",
+        "venue_id": 7086
+    },
+    {
+        "id": 10053,
+        "name": "Passo Fundo",
+        "code": "PAS",
+        "country": "Brazil",
+        "founded": 1986,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/10053.png",
+        "venue_id": 5659
+    },
+    {
+        "id": 10054,
+        "name": "São Gabriel",
+        "code": null,
+        "country": "Brazil",
+        "founded": 2000,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/10054.png",
+        "venue_id": 7087
+    },
+    {
+        "id": 10056,
+        "name": "União RS",
+        "code": null,
+        "country": "Brazil",
+        "founded": 2010,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/10056.png",
+        "venue_id": 7089
+    },
+    {
+        "id": 10057,
+        "name": "Veranópolis",
+        "code": "VER",
+        "country": "Brazil",
+        "founded": 1992,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/10057.png",
+        "venue_id": 7090
+    },
+    {
+        "id": 21233,
+        "name": "Monsoon",
+        "code": null,
+        "country": "Brazil",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/21233.png",
+        "venue_id": 20631
+    },
+    {
+        "id": 23290,
+        "name": "Futebol Com Vida",
+        "code": null,
+        "country": "Brazil",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/23290.png",
+        "venue_id": 99990034
     }
 ]
