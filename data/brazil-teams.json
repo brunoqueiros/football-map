@@ -598,5 +598,645 @@
         "national": false,
         "logo": "https://media.api-sports.io/football/teams/13975.png",
         "venue_id": 10545
+    },
+    {
+        "id": 7831,
+        "name": "Jacuipense",
+        "code": "JAC",
+        "country": "Brazil",
+        "founded": 1965,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/7831.png",
+        "venue_id": 5662
+    },
+    {
+        "id": 7832,
+        "name": "Maranhão",
+        "code": "MAR",
+        "country": "Brazil",
+        "founded": 1932,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/7832.png",
+        "venue_id": 265
+    },
+    {
+        "id": 7833,
+        "name": "Maringá",
+        "code": "MAR",
+        "country": "Brazil",
+        "founded": 2010,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/7833.png",
+        "venue_id": 5663
+    },
+    {
+        "id": 7835,
+        "name": "Portuguesa RJ",
+        "code": null,
+        "country": "Brazil",
+        "founded": 1924,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/7835.png",
+        "venue_id": 5665
+    },
+    {
+        "id": 7852,
+        "name": "Anápolis",
+        "code": "ANA",
+        "country": "Brazil",
+        "founded": 1946,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/7852.png",
+        "venue_id": 5655
+    },
+    {
+        "id": 7861,
+        "name": "Potiguar Mossoró",
+        "code": "POT",
+        "country": "Brazil",
+        "founded": 1945,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/7861.png",
+        "venue_id": 5685
+    },
+    {
+        "id": 7862,
+        "name": "Princesa Solimões",
+        "code": "PRI",
+        "country": "Brazil",
+        "founded": 1971,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/7862.png",
+        "venue_id": 5686
+    },
+    {
+        "id": 7864,
+        "name": "Sousa",
+        "code": null,
+        "country": "Brazil",
+        "founded": 1991,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/7864.png",
+        "venue_id": 5687
+    },
+    {
+        "id": 7868,
+        "name": "Trem",
+        "code": null,
+        "country": "Brazil",
+        "founded": 1947,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/7868.png",
+        "venue_id": 1724
+    },
+    {
+        "id": 7878,
+        "name": "Tocantinópolis",
+        "code": null,
+        "country": "Brazil",
+        "founded": 1989,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/7878.png",
+        "venue_id": 5696
+    },
+    {
+        "id": 7879,
+        "name": "Águia de Marabá",
+        "code": "AGU",
+        "country": "Brazil",
+        "founded": 1982,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/7879.png",
+        "venue_id": 5697
+    },
+    {
+        "id": 9127,
+        "name": "CSE",
+        "code": null,
+        "country": "Brazil",
+        "founded": 1947,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/9127.png",
+        "venue_id": 6316
+    },
+    {
+        "id": 10003,
+        "name": "Santo André",
+        "code": "SAN",
+        "country": "Brazil",
+        "founded": 1967,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/10003.png",
+        "venue_id": 7045
+    },
+    {
+        "id": 10018,
+        "name": "Água Santa",
+        "code": null,
+        "country": "Brazil",
+        "founded": 1981,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/10018.png",
+        "venue_id": 10540
+    },
+    {
+        "id": 10478,
+        "name": "Humaitá",
+        "code": null,
+        "country": "Brazil",
+        "founded": 2005,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/10478.png",
+        "venue_id": 11532
+    },
+    {
+        "id": 10671,
+        "name": "CRAC",
+        "code": "CRA",
+        "country": "Brazil",
+        "founded": 1931,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/10671.png",
+        "venue_id": 7308
+    },
+    {
+        "id": 10673,
+        "name": "Cascavel",
+        "code": null,
+        "country": "Brazil",
+        "founded": 2008,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/10673.png",
+        "venue_id": 20766
+    },
+    {
+        "id": 10679,
+        "name": "Real Noroeste",
+        "code": null,
+        "country": "Brazil",
+        "founded": 2008,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/10679.png",
+        "venue_id": 7315
+    },
+    {
+        "id": 12277,
+        "name": "Ipatinga",
+        "code": "BET",
+        "country": "Brazil",
+        "founded": 1998,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/12277.png",
+        "venue_id": 7814
+    },
+    {
+        "id": 12299,
+        "name": "Petrolina",
+        "code": null,
+        "country": "Brazil",
+        "founded": 1998,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/12299.png",
+        "venue_id": 7833
+    },
+    {
+        "id": 12300,
+        "name": "Concórdia",
+        "code": null,
+        "country": "Brazil",
+        "founded": 2005,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/12300.png",
+        "venue_id": 7834
+    },
+    {
+        "id": 12925,
+        "name": "Real FC",
+        "code": null,
+        "country": "Brazil",
+        "founded": 1996,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/12925.png",
+        "venue_id": 8254
+    },
+    {
+        "id": 12946,
+        "name": "Porto Velho",
+        "code": null,
+        "country": "Brazil",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/12946.png",
+        "venue_id": null
+    },
+    {
+        "id": 13081,
+        "name": "Democrata SL",
+        "code": null,
+        "country": "Brazil",
+        "founded": 1914,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/13081.png",
+        "venue_id": 8267
+    },
+    {
+        "id": 13084,
+        "name": "Pouso Alegre",
+        "code": null,
+        "country": "Brazil",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/13084.png",
+        "venue_id": null
+    },
+    {
+        "id": 13089,
+        "name": "Maracanã",
+        "code": null,
+        "country": "Brazil",
+        "founded": 2005,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/13089.png",
+        "venue_id": 8271
+    },
+    {
+        "id": 13098,
+        "name": "Retrô",
+        "code": null,
+        "country": "Brazil",
+        "founded": 2016,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/13098.png",
+        "venue_id": 253
+    },
+    {
+        "id": 13103,
+        "name": "Costa Rica",
+        "code": null,
+        "country": "Brazil",
+        "founded": 1969,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/13103.png",
+        "venue_id": 8280
+    },
+    {
+        "id": 13107,
+        "name": "Audax Rio",
+        "code": "AUD",
+        "country": "Brazil",
+        "founded": 2005,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/13107.png",
+        "venue_id": 5679
+    },
+    {
+        "id": 13134,
+        "name": "Capital",
+        "code": null,
+        "country": "Brazil",
+        "founded": 2012,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/13134.png",
+        "venue_id": 257
+    },
+    {
+        "id": 15505,
+        "name": "Iguatu",
+        "code": null,
+        "country": "Brazil",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/15505.png",
+        "venue_id": 19644
+    },
+    {
+        "id": 15617,
+        "name": "Fluminense PI",
+        "code": null,
+        "country": "Brazil",
+        "founded": 1938,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/15617.png",
+        "venue_id": 12657
+    },
+    {
+        "id": 15622,
+        "name": "São José EC",
+        "code": null,
+        "country": "Brazil",
+        "founded": 1933,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/15622.png",
+        "venue_id": 11106
+    },
+    {
+        "id": 18271,
+        "name": "Barra",
+        "code": null,
+        "country": "Brazil",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/18271.png",
+        "venue_id": 7313
+    },
+    {
+        "id": 18308,
+        "name": "Manauara",
+        "code": null,
+        "country": "Brazil",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/18308.png",
+        "venue_id": null
+    },
+    {
+        "id": 18831,
+        "name": "Itabuna",
+        "code": null,
+        "country": "Brazil",
+        "founded": 1967,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/18831.png",
+        "venue_id": 18554
+    },
+    {
+        "id": 20723,
+        "name": "Cametá",
+        "code": null,
+        "country": "Brazil",
+        "founded": 2007,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/20723.png",
+        "venue_id": 19345
+    },
+    {
+        "id": 141,
+        "name": "Brasil DE Pelotas",
+        "code": "GEB",
+        "country": "Brazil",
+        "founded": 1911,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/141.png",
+        "venue_id": 2797
+    },
+    {
+        "id": 1194,
+        "name": "Cianorte",
+        "code": "CIA",
+        "country": "Brazil",
+        "founded": 2002,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/1194.png",
+        "venue_id": 228
+    },
+    {
+        "id": 1199,
+        "name": "Novo Hamburgo",
+        "code": "HAM",
+        "country": "Brazil",
+        "founded": 1911,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/1199.png",
+        "venue_id": 254
+    },
+    {
+        "id": 1201,
+        "name": "Inter De Limeira",
+        "code": null,
+        "country": "Brazil",
+        "founded": 1913,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/1201.png",
+        "venue_id": 243
+    },
+    {
+        "id": 1203,
+        "name": "Altos",
+        "code": null,
+        "country": "Brazil",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/1203.png",
+        "venue_id": 264
+    },
+    {
+        "id": 1207,
+        "name": "ASA",
+        "code": "ASA",
+        "country": "Brazil",
+        "founded": 1952,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/1207.png",
+        "venue_id": 210
+    },
+    {
+        "id": 1218,
+        "name": "Sao Raimundo",
+        "code": null,
+        "country": "Brazil",
+        "founded": 1963,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/1218.png",
+        "venue_id": 270
+    },
+    {
+        "id": 1224,
+        "name": "Juazeirense",
+        "code": "JUA",
+        "country": "Brazil",
+        "founded": 2006,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/1224.png",
+        "venue_id": 272
+    },
+    {
+        "id": 2204,
+        "name": "AO Itabaiana",
+        "code": null,
+        "country": "Brazil",
+        "founded": 1938,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/2204.png",
+        "venue_id": 245
+    },
+    {
+        "id": 2205,
+        "name": "Avenida",
+        "code": null,
+        "country": "Brazil",
+        "founded": 1944,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/2205.png",
+        "venue_id": 215
+    },
+    {
+        "id": 2208,
+        "name": "Brasiliense",
+        "code": "BRA",
+        "country": "Brazil",
+        "founded": 2000,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/2208.png",
+        "venue_id": 222
+    },
+    {
+        "id": 2214,
+        "name": "Manaus FC",
+        "code": null,
+        "country": "Brazil",
+        "founded": 2013,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/2214.png",
+        "venue_id": 10520
+    },
+    {
+        "id": 2215,
+        "name": "Mixto",
+        "code": "MIX",
+        "country": "Brazil",
+        "founded": 1934,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/2215.png",
+        "venue_id": 251
+    },
+    {
+        "id": 2216,
+        "name": "Moto Club",
+        "code": null,
+        "country": "Brazil",
+        "founded": 1937,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/2216.png",
+        "venue_id": 252
+    },
+    {
+        "id": 2220,
+        "name": "Rio Branco",
+        "code": "RIO",
+        "country": "Brazil",
+        "founded": 1919,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/2220.png",
+        "venue_id": 11532
+    },
+    {
+        "id": 2221,
+        "name": "River AC",
+        "code": null,
+        "country": "Brazil",
+        "founded": 1946,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/2221.png",
+        "venue_id": 264
+    },
+    {
+        "id": 2222,
+        "name": "Santa Cruz RN",
+        "code": null,
+        "country": "Brazil",
+        "founded": 1934,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/2222.png",
+        "venue_id": 9999001
+    },
+    {
+        "id": 2224,
+        "name": "Sergipe",
+        "code": "SER",
+        "country": "Brazil",
+        "founded": 1909,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/2224.png",
+        "venue_id": 273
+    },
+    {
+        "id": 2225,
+        "name": "Serra Talhada",
+        "code": "SER",
+        "country": "Brazil",
+        "founded": 2011,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/2225.png",
+        "venue_id": 8348
+    },
+    {
+        "id": 2229,
+        "name": "Uniclinic Atletico Clube",
+        "code": null,
+        "country": "Brazil",
+        "founded": 1997,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/2229.png",
+        "venue_id": 237
+    },
+    {
+        "id": 2233,
+        "name": "America-RN",
+        "code": "AME",
+        "country": "Brazil",
+        "founded": 1915,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/2233.png",
+        "venue_id": 207
+    },
+    {
+        "id": 7782,
+        "name": "Nova Iguaçu",
+        "code": "NOV",
+        "country": "Brazil",
+        "founded": 1990,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/7782.png",
+        "venue_id": 5635
+    },
+    {
+        "id": 7787,
+        "name": "Treze",
+        "code": "TRE",
+        "country": "Brazil",
+        "founded": 1925,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/7787.png",
+        "venue_id": 224
+    },
+    {
+        "id": 7788,
+        "name": "União Rondonópolis",
+        "code": null,
+        "country": "Brazil",
+        "founded": 1973,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/7788.png",
+        "venue_id": 5640
+    },
+    {
+        "id": 7824,
+        "name": "Patrocinense",
+        "code": null,
+        "country": "Brazil",
+        "founded": 1954,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/7824.png",
+        "venue_id": 5656
+    },
+    {
+        "id": 7828,
+        "name": "Hercílio Luz",
+        "code": null,
+        "country": "Brazil",
+        "founded": 1918,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/7828.png",
+        "venue_id": 11102
+    },
+    {
+        "id": 7829,
+        "name": "Iporá",
+        "code": null,
+        "country": "Brazil",
+        "founded": 2000,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/7829.png",
+        "venue_id": 5660
     }
 ]

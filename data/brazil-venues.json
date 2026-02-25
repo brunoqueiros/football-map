@@ -454,5 +454,455 @@
         "capacity": 3000,
         "latitude": -21.127415519315868,
         "longitude": -44.24336849748018
+    },
+    {
+        "id": 5662,
+        "name": "Estádio Eliel Martins",
+        "city": "Riachão do Jacuípe",
+        "capacity": 5000,
+        "latitude": -11.808206561553606,
+        "longitude": -39.37983045789588
+    },
+    {
+        "id": 5663,
+        "name": "Estádio Regional Willie Davids",
+        "city": "Maringá",
+        "capacity": 21600,
+        "latitude": -23.415021335094224,
+        "longitude": -51.937844742379035
+    },
+    {
+        "id": 5665,
+        "name": "Estádio Luso-Brasileiro",
+        "city": "Rio de Janeiro",
+        "capacity": 20113,
+        "latitude": -22.801507584869707,
+        "longitude": -43.20777275773314
+    },
+    {
+        "id": 5655,
+        "name": "Estádio Municipal Jonas Duarte",
+        "city": "Anápolis",
+        "capacity": 17800,
+        "latitude": -16.34624774734246,
+        "longitude": -48.95546940016581
+    },
+    {
+        "id": 5685,
+        "name": "Estádio Leonardo Nogueira",
+        "city": "Mossoró",
+        "capacity": 10400,
+        "latitude": -5.185207035915892,
+        "longitude": -37.35698364446615
+    },
+    {
+        "id": 5686,
+        "name": "Estádio Gilberto Mestrinho",
+        "city": "Manacapuru",
+        "capacity": 15000,
+        "latitude": -3.283280328321413,
+        "longitude": -60.63166300215027
+    },
+    {
+        "id": 5687,
+        "name": "Estádio Governador Antônio Mariz",
+        "city": "Sousa",
+        "capacity": 12000,
+        "latitude": -6.7557693368174965,
+        "longitude": -38.22314148123291
+    },
+    {
+        "id": 1724,
+        "name": "Estádio Milton Corrêa (Zerão)",
+        "city": "Macapá",
+        "capacity": 5000,
+        "latitude": 0.0008140171980859443,
+        "longitude": -51.08083703100326
+    },
+    {
+        "id": 5696,
+        "name": "Estádio João Ribeiro",
+        "city": "Tocantinópolis",
+        "capacity": 8000,
+        "latitude": -6.34275520412243,
+        "longitude": -47.42803722911398
+    },
+    {
+        "id": 5697,
+        "name": "Estádio Municipal Zinho de Oliveira",
+        "city": "Marabá",
+        "capacity": 4500,
+        "latitude": -5.351985745754831,
+        "longitude": -49.138487517478865
+    },
+    {
+        "id": 6316,
+        "name": "Estádio Municipal Juca Sampaio",
+        "city": "Palmeira dos Índios",
+        "capacity": 8000,
+        "latitude": -9.413060956398912,
+        "longitude": -36.63536355977173
+    },
+    {
+        "id": 7045,
+        "name": "Estádio Bruno José Daniel",
+        "city": "Santo André",
+        "capacity": 15517,
+        "latitude": -23.669717458471528,
+        "longitude": -46.50989078840297
+    },
+    {
+        "id": 10540,
+        "name": "Estádio Distrital do Jardim Inamar",
+        "city": "Diadema",
+        "capacity": 8000,
+        "latitude": -23.722630444425246,
+        "longitude": -46.613044873059174
+    },
+    {
+        "id": 11532,
+        "name": "Arena Acreana",
+        "city": "Rio Branco",
+        "capacity": 13534,
+        "latitude": -10.0022488693863,
+        "longitude": -67.80365628675118
+    },
+    {
+        "id": 7308,
+        "name": "Estádio Genervino Evangelista da Fonseca",
+        "city": "Catalão",
+        "capacity": 8000,
+        "latitude": -18.167272272822096,
+        "longitude": -47.95303732897449
+    },
+    {
+        "id": 20766,
+        "name": "Estádio Olímpico Regional Jacy Scanagatta",
+        "city": "Cascavel",
+        "capacity": 42350,
+        "latitude": -24.974958142621578,
+        "longitude": -53.5024185172138
+    },
+    {
+        "id": 7315,
+        "name": "Estádio José Olímpio da Rocha",
+        "city": "Águia Branca",
+        "capacity": 4000,
+        "latitude": -18.8464409632832,
+        "longitude": -40.74560637129274
+    },
+    {
+        "id": 7814,
+        "name": "Estádio João Lamego Neto (Ipatingão)",
+        "city": "Ipatinga",
+        "capacity": 24500,
+        "latitude": -19.471267092355962,
+        "longitude": -42.541660601968175
+    },
+    {
+        "id": 7833,
+        "name": "Estádio Paulo de Souza Coelho",
+        "city": "Petrolina",
+        "capacity": 5500,
+        "latitude": -9.39083831495507,
+        "longitude": -40.50457644442909
+    },
+    {
+        "id": 7834,
+        "name": "Estádio Domingos Machado de Lima",
+        "city": "Concórdia",
+        "capacity": 5000,
+        "latitude": -27.22754421577712,
+        "longitude": -52.017777474840706
+    },
+    {
+        "id": 8254,
+        "name": "Estádio Vasco Viana de Andrade",
+        "city": "Núcleo Bandeirante",
+        "capacity": 3000,
+        "latitude": -15.881369914341583,
+        "longitude": -47.97600948667953
+    },
+    {
+        "id": 8267,
+        "name": "Arena do Jacaré",
+        "city": "Sete Lagoas",
+        "capacity": 28000,
+        "latitude": -19.478342959895823,
+        "longitude": -44.2227719442967
+    },
+    {
+        "id": 8271,
+        "name": "Estádio Antônio Cruz",
+        "city": "Fortaleza",
+        "capacity": 4000,
+        "latitude": -3.818463435938677,
+        "longitude": -38.449536930982525
+    },
+    {
+        "id": 8280,
+        "name": "Estádio Laerte Paes Coelho",
+        "city": "Costa Rica",
+        "capacity": 5000,
+        "latitude": -18.529815702588497,
+        "longitude": -53.14538997499721
+    },
+    {
+        "id": 5679,
+        "name": "Estádio Moça Bonita",
+        "city": "Rio de Janeiro",
+        "capacity": 9564,
+        "latitude": -22.87230227413858,
+        "longitude": -43.456578715403055
+    },
+    {
+        "id": 257,
+        "name": "Estádio Nilton Santos",
+        "city": "Palmas",
+        "capacity": 12000,
+        "latitude": -10.282185155221791,
+        "longitude": -48.330547133049045
+    },
+    {
+        "id": 19644,
+        "name": "Estádio João Elmo Moreno Cavalcante",
+        "city": "Iguatu",
+        "capacity": 8000,
+        "latitude": -6.367646003374419,
+        "longitude": -39.30268574445653
+    },
+    {
+        "id": 12657,
+        "name": "Estádio Albertão",
+        "city": "Teresina",
+        "capacity": 52216,
+        "latitude": -5.1161836174188124,
+        "longitude": -42.793107644466474
+    },
+    {
+        "id": 11106,
+        "name": "Estádio Martins Pereira",
+        "city": "São José dos Campos",
+        "capacity": 15317,
+        "latitude": -23.188373695803296,
+        "longitude": -45.86995630745365
+    },
+    {
+        "id": 7313,
+        "name": "Estádio Hercílio Luz",
+        "city": "Itajaí",
+        "capacity": 10000,
+        "latitude": -26.908172962716744,
+        "longitude": -48.65976947299751
+    },
+    {
+        "id": 18554,
+        "name": "Estádio Luiz Viana Filho",
+        "city": "Itabuna",
+        "capacity": 11745,
+        "latitude": -14.808294863464534,
+        "longitude": -39.27878378484447
+    },
+    {
+        "id": 19345,
+        "name": "Estádio Orfelino Martins Valente",
+        "city": "Cametá",
+        "capacity": 5000,
+        "latitude": -2.2437700443298554,
+        "longitude": -49.499491502156765
+    },
+    {
+        "id": 2797,
+        "name": "Estádio Bento da Silva Freitas",
+        "city": "Pelotas",
+        "capacity": 18000,
+        "surface": "grass",
+        "latitude": -31.77084006470763,
+        "longitude": -52.332451344057404
+    },
+    {
+        "id": 228,
+        "name": "Estádio Municipal Olímpico Albino Turbay",
+        "city": "Cianorte",
+        "capacity": 7000,
+        "surface": "grass",
+        "latitude": -23.66158639495856,
+        "longitude": -52.5941133577177
+    },
+    {
+        "id": 254,
+        "name": "Estádio do Vale",
+        "city": "Novo Hamburgo",
+        "capacity": 15000,
+        "latitude": -29.726021735459543,
+        "longitude": -51.14377807293838
+    },
+    {
+        "id": 243,
+        "name": "Estádio Major José Levy Sobrinho",
+        "city": "Limeira",
+        "capacity": 23475,
+        "latitude": -22.555276197673887,
+        "longitude": -47.38499041355883
+    },
+    {
+        "id": 264,
+        "name": "Estádio Municipal Lindolfo Monteiro",
+        "city": "Teresina",
+        "capacity": 5760,
+        "latitude": -5.084773862639667,
+        "longitude": -42.821173202137956
+    },
+    {
+        "id": 210,
+        "name": "Estádio Municipal Coaracy da Mata Fonseca",
+        "city": "Arapiraca",
+        "capacity": 12000,
+        "latitude": -9.74668668489182,
+        "longitude": -36.66660321558958
+    },
+    {
+        "id": 270,
+        "name": "Estádio Flamarion Vasconcelos",
+        "city": "Boa Vista",
+        "capacity": 9980,
+        "latitude": 2.8315716646876017,
+        "longitude": -60.66156553101275
+    },
+    {
+        "id": 272,
+        "name": "Estádio Adauto Moraes",
+        "city": "Juazeiro",
+        "capacity": 8000,
+        "latitude": -9.415483789076076,
+        "longitude": -40.50288597326429
+    },
+    {
+        "id": 245,
+        "name": "Estádio Etelvino Mendonça",
+        "city": "Itabaiana",
+        "capacity": 14123,
+        "latitude": -10.688497934497532,
+        "longitude": -37.431923944415765
+    },
+    {
+        "id": 215,
+        "name": "Estádio dos Eucaliptos",
+        "city": "Santa Cruz do Sul",
+        "capacity": 3500,
+        "latitude": -29.70668949342569,
+        "longitude": -52.44218193061015
+    },
+    {
+        "id": 222,
+        "name": "Estádio Maria de Lourdes Abadia",
+        "city": "Ceilândia",
+        "capacity": 4000,
+        "latitude": -15.827366475710985,
+        "longitude": -48.10979198668014
+    },
+    {
+        "id": 10520,
+        "name": "Arena da Amazônia",
+        "city": "Manaus",
+        "capacity": 44896,
+        "latitude": -3.0829778642235137,
+        "longitude": -60.02811774448032
+    },
+    {
+        "id": 251,
+        "name": "Estádio Presidente Eurico Gaspar Dutra",
+        "city": "Cuiabá",
+        "capacity": 7000,
+        "latitude": -15.607344419359904,
+        "longitude": -56.10466385784739
+    },
+    {
+        "id": 252,
+        "name": "Estádio Municipal Nhozinho Santos",
+        "city": "São Luís",
+        "capacity": 11429,
+        "latitude": -2.5361992591997775,
+        "longitude": -44.2891240579763
+    },
+    {
+        "id": 11532,
+        "name": "Arena Acreana",
+        "city": "Rio Branco",
+        "capacity": 13534,
+        "latitude": -10.002164343234554,
+        "longitude": -67.80369920209392
+    },
+    {
+        "id": 8348,
+        "name": "Estádio Nildo Pereira de Menezes",
+        "city": "Serra Talhada",
+        "capacity": 7000,
+        "latitude": -7.99760220443848,
+        "longitude": -38.295296288620996
+    },
+    {
+        "id": 207,
+        "name": "Arena das Dunas",
+        "city": "Natal",
+        "capacity": 42623,
+        "latitude": -5.826709413303751,
+        "longitude": -35.212410573296694
+    },
+    {
+        "id": 5635,
+        "name": "Estádio Jânio de Moraes",
+        "city": "Nova Iguaçu",
+        "capacity": 3500,
+        "latitude": -22.748080048032328,
+        "longitude": -43.460881073076806
+    },
+    {
+        "id": 224,
+        "name": "Estádio Governador Ernani Sátyro",
+        "city": "Campina Grande",
+        "capacity": 45000,
+        "latitude": -7.25384863419471,
+        "longitude": -35.88075361376375
+    },
+    {
+        "id": 5640,
+        "name": "Estádio Municipal Engenheiro Luthero Lopes",
+        "city": "Rondonópolis",
+        "capacity": 18720,
+        "latitude": -16.457782877647936,
+        "longitude": -54.60004527317816
+    },
+    {
+        "id": 5656,
+        "name": "Estádio Pedro Alves do Nascimento",
+        "city": "Patrocínio",
+        "capacity": 8500,
+        "latitude": -18.9260496989164,
+        "longitude": -46.993427457798774
+    },
+    {
+        "id": 11102,
+        "name": "Estádio Aníbal Torres Costa",
+        "city": "Tubarão",
+        "capacity": 15000,
+        "latitude": -28.49209869373381,
+        "longitude": -49.011635644128994
+    },
+    {
+        "id": 5660,
+        "name": "Estádio Francisco José Ferreira",
+        "city": "Iporá",
+        "capacity": 4000,
+        "latitude": -16.459428325049277,
+        "longitude": -51.11557393084983
+    },
+    {
+        "id": 9999001,
+        "name": "Estádio Iberezão",
+        "city": "Santa Cruz",
+        "capacity": 7000,
+        "latitude": -6.2207180462082015,
+        "longitude": -36.01789835795608
     }
 ]
