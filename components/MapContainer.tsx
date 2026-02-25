@@ -7,8 +7,9 @@ import StadiumCard from "./StadiumCard";
 
 export default function MapContainer({
   accessToken,
-  teams
-}: { accessToken: string; teams: Stadium[] }) {
+  teams,
+  venues
+}: { accessToken: string; teams: Stadium[]; venues: any }) {
   const [selectedStadium, setSelectedStadium] = useState<Stadium | null>(null);
   const mapRef = useRef<MapRef>(null);
   const initialCenter = useMemo<[number, number]>(() => [5, 22], []);
@@ -27,7 +28,8 @@ export default function MapContainer({
     <div className="App relative">
       <Map
         ref={mapRef}
-        stadiums={teams}
+        teams={teams}
+        venues={venues}
         accessToken={accessToken}
         initialZoom={2.5}
         initialCenter={initialCenter}
@@ -47,10 +49,13 @@ export default function MapContainer({
             //   venue: 'Neo Química Arena',
             // }
           }}
+          allTeams={teams}
+          venues={venues}
+          onTeamSwitch={(team) => setSelectedStadium(team)}
           onClose={() => setSelectedStadium(null)}
         />
       )}
-      <SearchBar onSelectTeam={handleSelectTeam} teams={teams} hideCard={() => setSelectedStadium(null)} />
+      <SearchBar onSelectTeam={handleSelectTeam} teams={teams} hideCard={() => setSelectedStadium(null)} venues={venues} />
       {/* <CountriesFilter teams={teams} /> */}
     </div>
   );

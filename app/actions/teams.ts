@@ -2,9 +2,15 @@
 
 import { supabase, Team } from '@/lib/supabase';
 
-export async function getAllTeams(): Promise<Team[]> {
+export async function getAllTeams(): Promise<{
+  teams: Team[];
+  venues: Team[];
+}> {
   if (process.env.NODE_ENV === 'development') {
-    return require('../../data/teams-new.json');
+    return {
+      teams: Object.values(require('../../data/teams'))[0],
+      venues: Object.values(require('../../data/venues'))[0],
+    };
   }
 
   return require('../../data/teams.json');

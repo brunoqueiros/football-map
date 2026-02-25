@@ -1,0 +1,202 @@
+[
+    {
+        "id": 118,
+        "name": "Bahia",
+        "code": "BAH",
+        "country": "Brazil",
+        "founded": 1931,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/118.png",
+        "venue_id": 216
+    },
+    {
+        "id": 119,
+        "name": "Internacional",
+        "code": "INT",
+        "country": "Brazil",
+        "founded": 1909,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/119.png",
+        "venue_id": 244
+    },
+    {
+        "id": 120,
+        "name": "Botafogo",
+        "code": "BOT",
+        "country": "Brazil",
+        "founded": 1904,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/120.png",
+        "venue_id": 218
+    },
+    {
+        "id": 121,
+        "name": "Palmeiras",
+        "code": "PAL",
+        "country": "Brazil",
+        "founded": 1914,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/121.png",
+        "venue_id": 258
+    },
+    {
+        "id": 124,
+        "name": "Fluminense",
+        "code": "FLU",
+        "country": "Brazil",
+        "founded": 1902,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/124.png",
+        "venue_id": 204
+    },
+    {
+        "id": 126,
+        "name": "Sao Paulo",
+        "code": "PAU",
+        "country": "Brazil",
+        "founded": 1930,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/126.png",
+        "venue_id": 269
+    },
+    {
+        "id": 127,
+        "name": "Flamengo",
+        "code": "FLA",
+        "country": "Brazil",
+        "founded": 1895,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/127.png",
+        "venue_id": 204
+    },
+    {
+        "id": 130,
+        "name": "Gremio",
+        "code": "GRE",
+        "country": "Brazil",
+        "founded": 1903,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/130.png",
+        "venue_id": 241
+    },
+    {
+        "id": 131,
+        "name": "Corinthians",
+        "code": "COR",
+        "country": "Brazil",
+        "founded": 1910,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/131.png",
+        "venue_id": 11531
+    },
+    {
+        "id": 133,
+        "name": "Vasco DA Gama",
+        "code": "VAS",
+        "country": "Brazil",
+        "founded": 1898,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/133.png",
+        "venue_id": 19377
+    },
+    {
+        "id": 134,
+        "name": "Atletico Paranaense",
+        "code": "ATL",
+        "country": "Brazil",
+        "founded": 1924,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/134.png",
+        "venue_id": 10493
+    },
+    {
+        "id": 135,
+        "name": "Cruzeiro",
+        "code": "CRU",
+        "country": "Brazil",
+        "founded": 1921,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/135.png",
+        "venue_id": 234
+    },
+    {
+        "id": 136,
+        "name": "Vitoria",
+        "code": "VIT",
+        "country": "Brazil",
+        "founded": 1899,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/136.png",
+        "venue_id": 281
+    },
+    {
+        "id": 140,
+        "name": "Criciuma",
+        "code": "CRI",
+        "country": "Brazil",
+        "founded": 1947,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/140.png",
+        "venue_id": 233
+    },
+    {
+        "id": 144,
+        "name": "Atletico Goianiense",
+        "code": "ATL",
+        "country": "Brazil",
+        "founded": 1937,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/144.png",
+        "venue_id": 211
+    },
+    {
+        "id": 152,
+        "name": "Juventude",
+        "code": "JUV",
+        "country": "Brazil",
+        "founded": 1913,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/152.png",
+        "venue_id": 248
+    },
+    {
+        "id": 154,
+        "name": "Fortaleza",
+        "code": "FOR",
+        "country": "Brazil",
+        "founded": 1918,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/154.png",
+        "venue_id": 225
+    },
+    {
+        "id": 794,
+        "name": "RB Bragantino",
+        "code": "BRA",
+        "country": "Brazil",
+        "founded": 1928,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/794.png",
+        "venue_id": 220
+    },
+    {
+        "id": 1062,
+        "name": "Atletico-MG",
+        "code": "ATL",
+        "country": "Brazil",
+        "founded": 1908,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/1062.png",
+        "venue_id": 21427
+    },
+    {
+        "id": 1193,
+        "name": "Cuiaba",
+        "code": "CUI",
+        "country": "Brazil",
+        "founded": 2001,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/1193.png",
+        "venue_id": 235
+    }
+]

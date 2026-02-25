@@ -28,7 +28,8 @@ export interface Stadium {
 }
 
 interface MapProps {
-  stadiums: Stadium[];
+  teams: Stadium[];
+  venues: Stadium[];
   accessToken: string;
   initialZoom?: number;
   initialCenter?: [number, number];
@@ -43,7 +44,8 @@ export interface MapRef {
 export const FLY_DURATION = 1000;
 
 const Map = forwardRef<MapRef, MapProps>(({
-  stadiums,
+  teams,
+  venues,
   accessToken,
   initialZoom = 2,
   initialCenter = [0, 20],
@@ -111,11 +113,15 @@ const Map = forwardRef<MapRef, MapProps>(({
       type: 'geojson',
       data: {
         type: 'FeatureCollection',
-        features: stadiums.map(s => ({
-          type: 'Feature',
-          geometry: { type: 'Point', coordinates: [s.longitude, s.latitude] },
-          properties: { ...s }
-        }))
+        features: teams.map(s => {
+          const venue = venues.find(venue => venue.id === s.venue_id);
+
+          return {
+            type: 'Feature',
+            geometry: { type: 'Point', coordinates: [venue.longitude, venue.latitude] },
+            properties: { ...s }
+          }
+        })
       }
     });
 
@@ -129,8 +135,8 @@ const Map = forwardRef<MapRef, MapProps>(({
           'interpolate',
           ['linear'],
           ['zoom'],
-          2, 1,    // At zoom 2, radius is 3px
-          14, 8   // At zoom 14, radius is 15px
+          2, 0.2,    // At zoom 2, radius is 3px
+          14, 10   // At zoom 14, radius is 15px
         ],
         'circle-color': '#fafafa',
         'circle-stroke-width': 1,
@@ -140,7 +146,7 @@ const Map = forwardRef<MapRef, MapProps>(({
 
     map.on('click', 'stadium-circles', (e) => {
       const stadiumData = e.features?.at(0)?.properties as Stadium;
-
+      console.log(stadiumData)
       onSelectStadium?.(stadiumData);
     });
 
@@ -151,7 +157,7 @@ const Map = forwardRef<MapRef, MapProps>(({
     map.on('mouseleave', 'stadium-circles', () => {
       map.getCanvas().style.cursor = '';
     });
-  }, [mapLoaded, stadiums]);
+  }, [mapLoaded, venues]);
 
   return (
     <>

@@ -62,7 +62,7 @@ const COUNTRIES: Record<string, string> = {
 
 export const flag = (country: string) => COUNTRIES[country.replaceAll(' ', '-').toLocaleLowerCase()];
 
-export default function SearchBar({ onSelectTeam, teams, hideCard }: SearchBarProps) {
+export default function SearchBar({ onSelectTeam, teams, hideCard, venues }: SearchBarProps) {
   const [searchQuery, setSearchQuery] = useState("");
   const [isFocused, setIsFocused] = useState(false);
   const [highlightedIndex, setHighlightedIndex] = useState(0);
@@ -247,11 +247,11 @@ export default function SearchBar({ onSelectTeam, teams, hideCard }: SearchBarPr
                     }}
                   >
                     <div className="flex gap-3 flex-1 min-w-0">
-                      <Crest src={team.crest!} name={team.name} />
+                      <Crest src={team.id!} name={team.name} />
                       <div>
                         <span className="text-sm font-medium text-neutral-200 truncate">{team.name}</span>
                         <div className="flex items-center gap-1.5 text-xs text-neutral-400">
-                          <span>{team.city}</span>
+                          <span>{venues.find(v => v.id === team.venue_id).city}</span>
                         </div>
                       </div>
                     </div>

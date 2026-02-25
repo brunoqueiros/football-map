@@ -1,0 +1,154 @@
+[
+    {
+        "id": 216,
+        "name": "Arena Fonte Nova",
+        "city": "Salvador",
+        "capacity": 56500,
+        "latitude": -12.9786,
+        "longitude": -38.5042
+    },
+    {
+        "id": 244,
+        "name": "Estádio José Pinheiro Borda",
+        "city": "Porto Alegre",
+        "capacity": 50128,
+        "latitude": -30.0655,
+        "longitude": -51.2359
+    },
+    {
+        "id": 218,
+        "name": "Estádio Nilton Santos",
+        "city": "Rio de Janeiro",
+        "capacity": 46931,
+        "latitude": -22.8932,
+        "longitude": -43.2923
+    },
+    {
+        "id": 258,
+        "name": "Allianz Parque",
+        "city": "São Paulo",
+        "capacity": 43713,
+        "latitude": -23.5273,
+        "longitude": -46.6785
+    },
+    {
+        "id": 204,
+        "name": "Maracanã",
+        "city": "Rio de Janeiro",
+        "capacity": 78838,
+        "latitude": -22.9121,
+        "longitude": -43.2302
+    },
+    {
+        "id": 269,
+        "name": "Estádio Morumbi",
+        "city": "São Paulo",
+        "capacity": 66795,
+        "latitude": -23.5998,
+        "longitude": -46.7202
+    },
+    {
+        "id": 241,
+        "name": "Arena do Grêmio",
+        "city": "Porto Alegre",
+        "capacity": 60540,
+        "latitude": -29.9740,
+        "longitude": -51.1948
+    },
+    {
+        "id": 11531,
+        "name": "Neo Química Arena",
+        "city": "São Paulo",
+        "capacity": 49205,
+        "latitude": -23.5453,
+        "longitude": -46.4742
+    },
+    {
+        "id": 19377,
+        "name": "Estádio São Januário",
+        "city": "Rio de Janeiro",
+        "capacity": 24584,
+        "latitude": -22.8906,
+        "longitude": -43.2281
+    },
+    {
+        "id": 10493,
+        "name": "Arena da Baixada",
+        "city": "Curitiba",
+        "capacity": 43981,
+        "latitude": -25.4483,
+        "longitude": -49.2769
+    },
+    {
+        "id": 234,
+        "name": "Mineirão",
+        "city": "Belo Horizonte",
+        "capacity": 62170,
+        "latitude": -19.8659,
+        "longitude": -43.9711
+    },
+    {
+        "id": 281,
+        "name": "Estádio Manoel Barradas",
+        "city": "Salvador",
+        "capacity": 35980,
+        "latitude": -12.919401814941564,
+        "longitude": -38.42824868998229
+    },
+    {
+        "id": 233,
+        "name": "Estádio Heriberto Hülse",
+        "city": "Criciúma",
+        "capacity": 19300,
+        "latitude": -28.68424406880048,
+        "longitude": -49.36770224531539
+    },
+    {
+        "id": 211,
+        "name": "Estádio Antônio Accioly",
+        "city": "Goiânia",
+        "capacity": 12500,
+        "latitude": -16.67076028119992,
+        "longitude": -49.28457368797796
+    },
+    {
+        "id": 248,
+        "name": "Estádio Alfredo Jaconi",
+        "city": "Caxias do Sul",
+        "capacity": 19924,
+        "latitude": -29.1623,
+        "longitude": -51.1762
+    },
+    {
+        "id": 225,
+        "name": "Castelão",
+        "city": "Fortaleza",
+        "capacity": 63903,
+        "latitude": -3.8067,
+        "longitude": -38.5225
+    },
+    {
+        "id": 220,
+        "name": "Estádio Nabi Abi Chedid",
+        "city": "Bragança Paulista",
+        "capacity": 17128,
+        "latitude": -22.965266658964207,
+        "longitude": -46.53746167432868
+    },
+    {
+        "id": 21427,
+        "name": "Arena MRV",
+        "city": "Belo Horizonte",
+        "capacity": 47465,
+        "latitude": -19.9300,
+        "longitude": -44.0139
+    },
+    {
+        "id": 235,
+        "name": "Arena Pantanal",
+        "city": "Cuiabá",
+        "capacity": 44003,
+        "latitude": -15.6041,
+        "longitude": -56.1221
+    }
+]
