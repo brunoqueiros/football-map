@@ -1658,5 +1658,55 @@
         "national": false,
         "logo": "https://media.api-sports.io/football/teams/24794.png",
         "venue_id": 10520
+    },
+    {
+        "id": 7822,
+        "name": "Bahia de Feira",
+        "code": "BDF",
+        "country": "Brazil",
+        "founded": 1937,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/7822.png",
+        "venue_id": 238
+    },
+    {
+        "id": 7858,
+        "name": "Jacobina",
+        "code": null,
+        "country": "Brazil",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/7858.png",
+        "venue_id": 5682
+    },
+    {
+        "id": 9997,
+        "name": "Atlético Alagoinhas",
+        "code": null,
+        "country": "Brazil",
+        "founded": 1970,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/9997.png",
+        "venue_id": 7041
+    },
+    {
+        "id": 15103,
+        "name": "Barcelona BA",
+        "code": null,
+        "country": "Brazil",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/15103.png",
+        "venue_id": 99990006
+    },
+    {
+        "id": 15104,
+        "name": "Jequié",
+        "code": null,
+        "country": "Brazil",
+        "founded": 1969,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/15104.png",
+        "venue_id": 18552
     }
 ]

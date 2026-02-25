@@ -1056,5 +1056,45 @@
         "capacity": 5000,
         "latitude": -3.135775,
         "longitude": -58.4436688
+    },
+    {
+        "id": 238,
+        "name": "Estádio Alberto Oliveira",
+        "city": "Feira de Santana",
+        "capacity": 16274,
+        "latitude": -12.2441667,
+        "longitude": -38.9727778
+    },
+    {
+        "id": 5682,
+        "name": "Estádio Municipal José Rocha",
+        "city": "Jacobina",
+        "capacity": 5000,
+        "latitude": -11.185456,
+        "longitude": -40.517439
+    },
+    {
+        "id": 7041,
+        "name": "Estádio Antônio de Figueiredo Carneiro",
+        "city": "Alagoinhas",
+        "capacity": 18000,
+        "latitude": -12.140345,
+        "longitude": -38.4150585
+    },
+    {
+        "id": 99990006,
+        "name": "Estadio Mario Pessoa",
+        "city": "Ilhéus",
+        "capacity": 7000,
+        "latitude": -14.7908593,
+        "longitude": -39.0339709
+    },
+    {
+        "id": 18552,
+        "name": "Estádio Waldomiro Borges",
+        "city": "Jequié",
+        "capacity": 6000,
+        "latitude": -13.8758627,
+        "longitude": -40.0844617
     }
 ]
