@@ -2378,5 +2378,55 @@
         "national": false,
         "logo": "https://media.api-sports.io/football/teams/25178.png",
         "venue_id": 99990016
+    },
+    {
+        "id": 13110,
+        "name": "Campos AA",
+        "code": null,
+        "country": "Brazil",
+        "founded": 1912,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/13110.png",
+        "venue_id": 8286
+    },
+    {
+        "id": 23634,
+        "name": "CAAC Brasil",
+        "code": null,
+        "country": "Brazil",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/23634.png",
+        "venue_id": 99990017
+    },
+    {
+        "id": 23636,
+        "name": "EC Vera Cruz",
+        "code": null,
+        "country": "Brazil",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/23636.png",
+        "venue_id": 99990018
+    },
+    {
+        "id": 23638,
+        "name": "Paraty",
+        "code": null,
+        "country": "Brazil",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/23638.png",
+        "venue_id": 99990019
+    },
+    {
+        "id": 23639,
+        "name": "Riostrense",
+        "code": null,
+        "country": "Brazil",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/23639.png",
+        "venue_id": 99990020
     }
 ]

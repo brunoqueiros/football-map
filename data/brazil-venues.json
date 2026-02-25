@@ -1472,5 +1472,45 @@
         "capacity": 1000,
         "latitude": -22.651815,
         "longitude": -43.0395557
+    },
+    {
+        "id": 8286,
+        "name": "Estádio Ângelo de Carvalho",
+        "city": "Campos dos Goytacazes",
+        "capacity": 2000,
+        "latitude": -21.7483715,
+        "longitude": -41.342972
+    },
+    {
+        "id": 99990017,
+        "name": "Estádio Joaquim Flores",
+        "city": "Nilópolis",
+        "capacity": 5000,
+        "latitude": -22.798175,
+        "longitude": -43.4136554
+    },
+    {
+        "id": 99990018,
+        "name": "Estádio Atilio Maroti",
+        "city": "Petrópolis",
+        "capacity": 8500,
+        "latitude": -22.5027646,
+        "longitude": -43.1995206
+    },
+    {
+        "id": 99990019,
+        "name": "Estádio Municipal Antônio Mário Pompeu Nardelli",
+        "city": "Paraty",
+        "capacity": 1000,
+        "latitude": -23.2196691,
+        "longitude": -44.7204821
+    },
+    {
+        "id": 99990020,
+        "name": "Municipal Julieta Carvalho Viana",
+        "city": "Rio das Ostras",
+        "capacity": 5000,
+        "latitude": -22.5230725,
+        "longitude": -41.9505988
     }
 ]
