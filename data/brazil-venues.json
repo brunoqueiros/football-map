@@ -150,5 +150,157 @@
         "capacity": 44003,
         "latitude": -15.6041,
         "longitude": -56.1221
+    },
+    {
+        "id": 253,
+        "name": "Itaipava Arena Pernambuco",
+        "city": "Recife",
+        "capacity": 46154,
+        "latitude": -8.040439401335686,
+        "longitude": -35.00816534444176
+    },
+    {
+        "id": 206,
+        "name": "Estádio Independência",
+        "city": "Belo Horizonte",
+        "capacity": 23018,
+        "latitude": -19.908649729770875,
+        "longitude": -43.91799017312558
+    },
+    {
+        "id": 10494,
+        "name": "Estádio Urbano Caldeira",
+        "city": "Santos",
+        "capacity": 21256,
+        "latitude": -23.951065708566347,
+        "longitude": -46.3387700153833
+    },
+    {
+        "id": 227,
+        "name": "Arena Condá",
+        "city": "Chapecó",
+        "capacity": 22600,
+        "latitude": -27.103957869275725,
+        "longitude": -52.60696873066513
+    },
+    {
+        "id": 242,
+        "name": "Estádio Brinco de Ouro",
+        "city": "Campinas",
+        "capacity": 29130,
+        "latitude": -22.910510629773253,
+        "longitude": -47.04349790190957
+    },
+    {
+        "id": 261,
+        "name": "Estádio Moisés Lucarelli",
+        "city": "Campinas",
+        "capacity": 17728,
+        "latitude": -22.91254620898462,
+        "longitude": -47.05050458656676
+    },
+    {
+        "id": 280,
+        "name": "Estádio Onésio Brasileiro Alvarenga",
+        "city": "Goiânia",
+        "capacity": 11788,
+        "latitude": -16.672845972996086,
+        "longitude": -49.23749520016083
+    },
+    {
+        "id": 214,
+        "name": "Estádio da Ressacada",
+        "city": "Florianópolis",
+        "capacity": 19000,
+        "latitude": -27.66633432862724,
+        "longitude": -48.531630344146016
+    },
+    {
+        "id": 232,
+        "name": "Estádio Rei Pelé",
+        "city": "Maceió",
+        "capacity": 20801,
+        "latitude": -9.670702992109911,
+        "longitude": -35.75948018860451
+    },
+    {
+        "id": 230,
+        "name": "Estádio Couto Pereira",
+        "city": "Curitiba",
+        "capacity": 45563,
+        "latitude": -25.420888667076735,
+        "longitude": -49.259523217205285
+    },
+    {
+        "id": 260,
+        "name": "Estádio Leônidas Castro (Curuzu)",
+        "city": "Belém",
+        "capacity": 17700,
+        "latitude": -1.4398,
+        "longitude": -48.4552
+    },
+    {
+        "id": 240,
+        "name": "Estádio de Hailé Pinheiro",
+        "city": "Goiânia",
+        "capacity": 14525,
+        "latitude": -16.710311823402197,
+        "longitude": -49.26123648666762
+    },
+    {
+        "id": 223,
+        "name": "Estádio Augusto Bauer",
+        "city": "Brusque",
+        "capacity": 5603,
+        "latitude": -27.0989,
+        "longitude": -48.9139
+    },
+    {
+        "id": 256,
+        "name": "Estádio Germano Krüger",
+        "city": "Ponta Grossa",
+        "capacity": 8679,
+        "latitude": -25.11604027589255,
+        "longitude": -50.156588173032716
+    },
+    {
+        "id": 219,
+        "name": "Estádio Santa Cruz",
+        "city": "Ribeirão Preto",
+        "capacity": 28562,
+        "latitude": -21.201966338719917,
+        "longitude": -47.79012324426829
+    },
+    {
+        "id": 5632,
+        "name": "Estádio Novelli Júnior",
+        "city": "Itu",
+        "capacity": 18560,
+        "latitude": -23.28034677282522,
+        "longitude": -47.28797630190301
+    },
+    {
+        "id": 5664,
+        "name": "Estádio Jorge Ismael de Biasi",
+        "city": "Novo Horizonte",
+        "capacity": 16000,
+        "latitude": -21.467126443008922,
+        "longitude": -49.23232620008526
+    },
+    {
+        "id": 5676,
+        "name": "Estádio José Maria de Campos Maia",
+        "city": "Mirassol",
+        "capacity": 14534,
+        "latitude": -20.822175974794302,
+        "longitude": -49.50641023078198
+    },
+    {
+        "id": 20767,
+        "name": "Estádio Carlos Zamith",
+        "city": "Manaus",
+        "capacity": 10000,
+        "latitude": -3.084101077799224,
+        "longitude": -59.983924244434604
     }
 ]
