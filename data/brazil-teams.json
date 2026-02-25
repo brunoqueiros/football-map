@@ -2778,5 +2778,35 @@
         "national": false,
         "logo": "https://media.api-sports.io/football/teams/24096.png",
         "venue_id": 99990033
+    },
+    {
+        "id": 10004,
+        "name": "São Luiz",
+        "code": "SAO",
+        "country": "Brazil",
+        "founded": 1938,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/10004.png",
+        "venue_id": 7046
+    },
+    {
+        "id": 10049,
+        "name": "Guarany de Bagé",
+        "code": "GUA",
+        "country": "Brazil",
+        "founded": 1907,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/10049.png",
+        "venue_id": 7084
+    },
+    {
+        "id": 16479,
+        "name": "Santa Cruz RS",
+        "code": "SAN",
+        "country": "Brazil",
+        "founded": 1913,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/16479.png",
+        "venue_id": 19636
     }
 ]

@@ -1744,5 +1744,29 @@
         "capacity": 2400,
         "latitude": -3.5760014,
         "longitude": -41.0870758
+    },
+    {
+        "id": 7046,
+        "name": "Estádio 19 de Outubro",
+        "city": "Ijuí",
+        "capacity": 8000,
+        "latitude": -28.3929491,
+        "longitude": -53.9194286
+    },
+    {
+        "id": 7084,
+        "name": "Estádio Antônio Magalhães Rossel",
+        "city": "Bagé",
+        "capacity": 10000,
+        "latitude": -31.335705,
+        "longitude": -54.0956568
+    },
+    {
+        "id": 19636,
+        "name": "Estádio dos Plátanos",
+        "city": "Santa Cruz do Sul",
+        "capacity": 6000,
+        "latitude": -29.7093316,
+        "longitude": -52.4225635
     }
 ]
