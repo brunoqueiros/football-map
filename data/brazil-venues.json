@@ -1424,5 +1424,53 @@
         "capacity": 2000,
         "latitude": -22.9536788,
         "longitude": -43.1778517
+    },
+    {
+        "id": 2942,
+        "name": "Estádio Mauro Sampaio",
+        "city": "Juazeiro do Norte",
+        "capacity": 16000,
+        "latitude": -7.223326699999999,
+        "longitude": -39.3175275
+    },
+    {
+        "id": 8285,
+        "name": "Estádio Leônidas da Silva",
+        "city": "Rio de Janeiro",
+        "capacity": 9000,
+        "latitude": -22.8617856,
+        "longitude": -43.2531286
+    },
+    {
+        "id": 12389,
+        "name": "Estádio Antonio Gomes Viana",
+        "city": "Carapebus",
+        "capacity": 2000,
+        "latitude": -22.1853408,
+        "longitude": -41.65727090000001
+    },
+    {
+        "id": 12541,
+        "name": "Estádio Leão do Sul",
+        "city": "Barra Mansa",
+        "capacity": 12000,
+        "latitude": -22.533684,
+        "longitude": -44.211628
+    },
+    {
+        "id": 99990015,
+        "name": "Trops-Centro de Esporte e Lazer",
+        "city": "Niterói",
+        "capacity": 1541,
+        "latitude": -22.9040019,
+        "longitude": -43.0503581
+    },
+    {
+        "id": 99990016,
+        "name": "Estádio Cesar Paim",
+        "city": "Magé",
+        "capacity": 1000,
+        "latitude": -22.651815,
+        "longitude": -43.0395557
     }
 ]

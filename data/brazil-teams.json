@@ -2268,5 +2268,115 @@
         "national": false,
         "logo": "https://media.api-sports.io/football/teams/23262.png",
         "venue_id": 8291
+    },
+    {
+        "id": 13087,
+        "name": "Campo Grande",
+        "code": null,
+        "country": "Brazil",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/13087.png",
+        "venue_id": 2942
+    },
+    {
+        "id": 13109,
+        "name": "Bonsucesso",
+        "code": "BON",
+        "country": "Brazil",
+        "founded": 1913,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/13109.png",
+        "venue_id": 8285
+    },
+    {
+        "id": 13116,
+        "name": "Serra Macaense",
+        "code": "MAC",
+        "country": "Brazil",
+        "founded": 1992,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/13116.png",
+        "venue_id": 208
+    },
+    {
+        "id": 14001,
+        "name": "Rio São Paulo",
+        "code": null,
+        "country": "Brazil",
+        "founded": 1952,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/14001.png",
+        "venue_id": 8289
+    },
+    {
+        "id": 17736,
+        "name": "7 de Abril",
+        "code": null,
+        "country": "Brazil",
+        "founded": 2006,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/17736.png",
+        "venue_id": 5679
+    },
+    {
+        "id": 17737,
+        "name": "Carapebus",
+        "code": null,
+        "country": "Brazil",
+        "founded": 2006,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/17737.png",
+        "venue_id": 12389
+    },
+    {
+        "id": 17926,
+        "name": "Barra Mansa",
+        "code": null,
+        "country": "Brazil",
+        "founded": 1908,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/17926.png",
+        "venue_id": 12541
+    },
+    {
+        "id": 23637,
+        "name": "Niteroiense",
+        "code": null,
+        "country": "Brazil",
+        "founded": 1913,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/23637.png",
+        "venue_id": 99990015
+    },
+    {
+        "id": 23641,
+        "name": "Uni Souza",
+        "code": null,
+        "country": "Brazil",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/23641.png",
+        "venue_id": 1
+    },
+    {
+        "id": 23665,
+        "name": "Zinza",
+        "code": null,
+        "country": "Brazil",
+        "founded": 2022,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/23665.png",
+        "venue_id": 5665
+    },
+    {
+        "id": 25178,
+        "name": "Mageense",
+        "code": null,
+        "country": "Brazil",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/25178.png",
+        "venue_id": 99990016
     }
 ]
