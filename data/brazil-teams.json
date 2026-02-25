@@ -1888,5 +1888,85 @@
         "national": false,
         "logo": "https://media.api-sports.io/football/teams/22818.png",
         "venue_id": 99990009
+    },
+    {
+        "id": 2226,
+        "name": "Sobradinho EC",
+        "code": null,
+        "country": "Brazil",
+        "founded": 1975,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/2226.png",
+        "venue_id": 275
+    },
+    {
+        "id": 7859,
+        "name": "Luziânia",
+        "code": null,
+        "country": "Brazil",
+        "founded": 1995,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/7859.png",
+        "venue_id": 5683
+    },
+    {
+        "id": 24910,
+        "name": "Botafogo DF",
+        "code": null,
+        "country": "Brazil",
+        "founded": 2009,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/24910.png",
+        "venue_id": 2944
+    },
+    {
+        "id": 24911,
+        "name": "GREVAL",
+        "code": null,
+        "country": "Brazil",
+        "founded": 1992,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/24911.png",
+        "venue_id": 99990011
+    },
+    {
+        "id": 24912,
+        "name": "Legião",
+        "code": null,
+        "country": "Brazil",
+        "founded": 2001,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/24912.png",
+        "venue_id": 275
+    },
+    {
+        "id": 24913,
+        "name": "Riacho City",
+        "code": null,
+        "country": "Brazil",
+        "founded": 2000,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/24913.png",
+        "venue_id": 99990012
+    },
+    {
+        "id": 24914,
+        "name": "SESP Samambaense",
+        "code": null,
+        "country": "Brazil",
+        "founded": 2000,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/24914.png",
+        "venue_id": 275
+    },
+    {
+        "id": 24915,
+        "name": "Taguatinga EC",
+        "code": null,
+        "country": "Brazil",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/24915.png",
+        "venue_id": 99990013
     }
 ]

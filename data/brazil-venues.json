@@ -1192,5 +1192,45 @@
         "capacity": 12000,
         "latitude": -15.6158892,
         "longitude": -47.6527503
+    },
+    {
+        "id": 275,
+        "name": "Estádio Augustinho Pires de Lima",
+        "city": "Sobradinho",
+        "capacity": 15000,
+        "latitude": -15.6530723,
+        "longitude": -47.78497429999999
+    },
+    {
+        "id": 5683,
+        "name": "Estádio Zequinha Roriz",
+        "city": "Luziânia",
+        "capacity": 21564,
+        "latitude": -16.2465996,
+        "longitude": -47.9411945
+    },
+    {
+        "id": 99990011,
+        "name": "Complexo Esportivo Municipal de Valparaíso de Goiás",
+        "city": "Valparaíso de Goiás",
+        "capacity": null,
+        "latitude": -16.0735001,
+        "longitude": -47.9924932
+    },
+    {
+        "id": 99990012,
+        "name": "Estádio Joaquim Domingos Roriz (Rorizão)",
+        "city": "Samambaia",
+        "capacity": 8000,
+        "latitude": -15.879527,
+        "longitude": -48.0887477
+    },
+    {
+        "id": 99990013,
+        "name": "Estádio Elmo Serejo Farias (Serejão)",
+        "city": "Taguatinga",
+        "capacity": 20000,
+        "latitude": -15.8361375,
+        "longitude": -48.08066789999999
     }
 ]
