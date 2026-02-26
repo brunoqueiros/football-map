@@ -2304,5 +2304,45 @@
         "capacity": 8000,
         "latitude": -14.4478198,
         "longitude": -56.79484050000001
+    },
+    {
+        "id": 278,
+        "name": "Estádio Municipal João Havelange",
+        "city": "Uberlândia",
+        "capacity": 72000,
+        "latitude": -18.9130624,
+        "longitude": -48.23303079999999
+    },
+    {
+        "id": 5691,
+        "name": "Estádio Municipal Castor de Cifuentes",
+        "city": "Nova Lima",
+        "capacity": 15000,
+        "latitude": -19.9882435,
+        "longitude": -43.8443894
+    },
+    {
+        "id": 8266,
+        "name": "Estádio José Mammoud Abbas",
+        "city": "Governador Valadares",
+        "capacity": 8678,
+        "latitude": -18.8494158,
+        "longitude": -41.9410358
+    },
+    {
+        "id": 99990058,
+        "name": "Estádio Manduzão",
+        "city": "Pouso Alegre",
+        "capacity": 19000,
+        "latitude": -22.251444,
+        "longitude": -45.9215326
+    },
+    {
+        "id": 99990057,
+        "name": "Estádio Agostinho Braga de Moura - Moedão",
+        "city": "Moeda",
+        "capacity": 640,
+        "latitude": -20.3300845,
+        "longitude": -44.05320469999999
     }
 ]

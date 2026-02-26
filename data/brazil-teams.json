@@ -847,7 +847,7 @@
         "founded": null,
         "national": false,
         "logo": "https://media.api-sports.io/football/teams/13084.png",
-        "venue_id": null
+        "venue_id": 99990058
     },
     {
         "id": 13089,
@@ -3648,5 +3648,45 @@
         "national": false,
         "logo": "https://media.api-sports.io/football/teams/23566.png",
         "venue_id": 99990052
+    },
+    {
+        "id": 1196,
+        "name": "Uberlandia",
+        "code": null,
+        "country": "Brazil",
+        "founded": 1922,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/1196.png",
+        "venue_id": 278
+    },
+    {
+        "id": 7869,
+        "name": "Villa Nova",
+        "code": "VIN",
+        "country": "Brazil",
+        "founded": 1908,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/7869.png",
+        "venue_id": 5691
+    },
+    {
+        "id": 13080,
+        "name": "Democrata GV",
+        "code": null,
+        "country": "Brazil",
+        "founded": 1932,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/13080.png",
+        "venue_id": 8266
+    },
+    {
+        "id": 21165,
+        "name": "Itabirito",
+        "code": null,
+        "country": "Brazil",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/21165.png",
+        "venue_id": 99990057
     }
 ]
