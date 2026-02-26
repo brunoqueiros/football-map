@@ -2344,5 +2344,77 @@
         "capacity": 640,
         "latitude": -20.3300845,
         "longitude": -44.05320469999999
+    },
+    {
+        "id": 246,
+        "name": "Estádio Municipal Prefeito Dilzon Luiz de Melo",
+        "city": "Varginha",
+        "capacity": 15471,
+        "latitude": -21.5701332,
+        "longitude": -45.4141273
+    },
+    {
+        "id": 277,
+        "name": "Estádio Municipal Radialista Mário Helênio",
+        "city": "Juiz de Fora",
+        "capacity": 31863,
+        "latitude": -21.7875923,
+        "longitude": -43.3780288
+    },
+    {
+        "id": 1708,
+        "name": "Estádio Zama Maciel",
+        "city": "Patos de Minas",
+        "capacity": 5500,
+        "latitude": -18.5961071,
+        "longitude": -46.5217509
+    },
+    {
+        "id": 5624,
+        "name": "Estádio Dr. Ronaldo Junqueira",
+        "city": "Poços de Caldas",
+        "capacity": 14000,
+        "latitude": -21.7778564,
+        "longitude": -46.6058489
+    },
+    {
+        "id": 7832,
+        "name": "Estádio Bernardo Rubinger de Queiroz",
+        "city": "Patos de Minas",
+        "capacity": 15000,
+        "latitude": -18.626059,
+        "longitude": -46.5030382
+    },
+    {
+        "id": 99990059,
+        "name": "Estádio Jurandir Elias",
+        "city": "Betim",
+        "capacity": 2000,
+        "latitude": -19.9488394,
+        "longitude": -44.2367399
+    },
+    {
+        "id": 18542,
+        "name": "Estádio Afonso de Carvalho",
+        "city": "Ubá",
+        "capacity": 1000,
+        "latitude": -21.1176741,
+        "longitude": -42.9456625
+    },
+    {
+        "id": 20627,
+        "name": "Estádio José Maria de Melo",
+        "city": "Montes Claros",
+        "capacity": 5000,
+        "latitude": -16.7180834,
+        "longitude": -43.8707917
+    },
+    {
+        "id": 20628,
+        "name": "Estádio Israel Pinheiro",
+        "city": "Itabira",
+        "capacity": 5000,
+        "latitude": -19.6109529,
+        "longitude": -43.22426430000001
     }
 ]

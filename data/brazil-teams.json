@@ -3688,5 +3688,115 @@
         "national": false,
         "logo": "https://media.api-sports.io/football/teams/21165.png",
         "venue_id": 99990057
+    },
+    {
+        "id": 153,
+        "name": "BOA",
+        "code": "BOA",
+        "country": "Brazil",
+        "founded": 1947,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/153.png",
+        "venue_id": 246
+    },
+    {
+        "id": 796,
+        "name": "Tupi",
+        "code": "TUP",
+        "country": "Brazil",
+        "founded": 1912,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/796.png",
+        "venue_id": 277
+    },
+    {
+        "id": 2228,
+        "name": "Uniao Trabalhadores",
+        "code": "URT",
+        "country": "Brazil",
+        "founded": 1939,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/2228.png",
+        "venue_id": 1708
+    },
+    {
+        "id": 7769,
+        "name": "Caldense",
+        "code": "CAL",
+        "country": "Brazil",
+        "founded": 1925,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/7769.png",
+        "venue_id": 5624
+    },
+    {
+        "id": 13082,
+        "name": "Mamoré",
+        "code": null,
+        "country": "Brazil",
+        "founded": 1949,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/13082.png",
+        "venue_id": 7832
+    },
+    {
+        "id": 13083,
+        "name": "Nacional AC MG",
+        "code": null,
+        "country": "Brazil",
+        "founded": 1927,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/13083.png",
+        "venue_id": 8268
+    },
+    {
+        "id": 13086,
+        "name": "Betim",
+        "code": null,
+        "country": "Brazil",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/13086.png",
+        "venue_id": 99990059
+    },
+    {
+        "id": 16751,
+        "name": "Aymorés",
+        "code": null,
+        "country": "Brazil",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/16751.png",
+        "venue_id": 18542
+    },
+    {
+        "id": 18796,
+        "name": "Varginha EC",
+        "code": null,
+        "country": "Brazil",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/18796.png",
+        "venue_id": 246
+    },
+    {
+        "id": 21166,
+        "name": "North Esporte",
+        "code": null,
+        "country": "Brazil",
+        "founded": 2022,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/21166.png",
+        "venue_id": 20627
+    },
+    {
+        "id": 23247,
+        "name": "Valeriodoce",
+        "code": null,
+        "country": "Brazil",
+        "founded": 1942,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/23247.png",
+        "venue_id": 20628
     }
 ]
