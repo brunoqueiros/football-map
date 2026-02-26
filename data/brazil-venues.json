@@ -2936,5 +2936,453 @@
         "capacity": 4579,
         "latitude": -25.4674555,
         "longitude": -50.65906940000001
+    },
+    {
+        "id": 2936,
+        "name": "Estádio Dr. Oswaldo Teixeira Duarte",
+        "city": "São Paulo",
+        "capacity": 25470,
+        "latitude": -23.5203639,
+        "longitude": -46.6187473
+    },
+    {
+        "id": 20728,
+        "name": "Estádio Municipal de Santana do Parnaíba",
+        "city": "Santana de Parnaíba",
+        "capacity": 4000,
+        "latitude": -23.4394847,
+        "longitude": -46.9182097
+    },
+    {
+        "id": 7061,
+        "name": "Estádio Dr. Augusto Schmidt Filho",
+        "city": "Rio Claro",
+        "capacity": 9352,
+        "latitude": -22.4224316,
+        "longitude": -47.5619421
+    },
+    {
+        "id": 5675,
+        "name": "Estádio Municipal Gilberto Siqueira Lopes",
+        "city": "Lins",
+        "capacity": 15770,
+        "latitude": -21.666821,
+        "longitude": -49.763251
+    },
+    {
+        "id": 5692,
+        "name": "Estádio Barão de Serra Negra",
+        "city": "Piracicaba",
+        "capacity": 26568,
+        "latitude": -22.7296738,
+        "longitude": -47.6371371
+    },
+    {
+        "id": 7056,
+        "name": "Estádio Conde Rodolfo Crespi",
+        "city": "São Paulo",
+        "capacity": 5256,
+        "latitude": -23.5532921,
+        "longitude": -46.6048538
+    },
+    {
+        "id": 7058,
+        "name": "Estádio Otacília Patrício Arroyo",
+        "city": "Monte Azul Paulista",
+        "capacity": 11109,
+        "latitude": -20.903493,
+        "longitude": -48.64583349999999
+    },
+    {
+        "id": 7060,
+        "name": "Estádio Úlrico Mursa",
+        "city": "Santos",
+        "capacity": 9139,
+        "latitude": -23.9470608,
+        "longitude": -46.3373086
+    },
+    {
+        "id": 7063,
+        "name": "Estádio Joaquim de Morais Filho",
+        "city": "Taubaté",
+        "capacity": 20000,
+        "latitude": -23.028033,
+        "longitude": -45.5703466
+    },
+    {
+        "id": 7067,
+        "name": "Arena Capivari",
+        "city": "Capivari",
+        "capacity": 19000,
+        "latitude": -22.9937988,
+        "longitude": -47.514348
+    },
+    {
+        "id": 7068,
+        "name": "Estádio Dr. Francisco de Palma Travassos",
+        "city": "Ribeirão Preto",
+        "capacity": 18998,
+        "latitude": -21.1866813,
+        "longitude": -47.788714
+    },
+    {
+        "id": 7073,
+        "name": "Estádio Dr. Alfredo de Castilho",
+        "city": "Bauru",
+        "capacity": 18840,
+        "latitude": -22.3250211,
+        "longitude": -49.0981904
+    },
+    {
+        "id": 7057,
+        "name": "Estádio Ítalo Mário Limongi",
+        "city": "Indaiatuba",
+        "capacity": 9542,
+        "latitude": -23.0886563,
+        "longitude": -47.2047865
+    },
+    {
+        "id": 7076,
+        "name": "Estádio Benito Agnelo Castellano",
+        "city": "Rio Claro",
+        "capacity": 8198,
+        "latitude": -22.4181554,
+        "longitude": -47.5569001
+    },
+    {
+        "id": 1743,
+        "name": "Estádio Municipal Dr. Plínio Marin",
+        "city": "Votuporanga",
+        "capacity": 9227,
+        "latitude": -20.4065063,
+        "longitude": -49.9648301
+    },
+    {
+        "id": 5638,
+        "name": "Estádio Municipal Anacleto Campanella",
+        "city": "São Caetano do Sul",
+        "capacity": 22738,
+        "latitude": -23.6300823,
+        "longitude": -46.55979790000001
+    },
+    {
+        "id": 7062,
+        "name": "Estádio Municipal Frederico Dalmazo",
+        "city": "Sertãozinho",
+        "capacity": 15074,
+        "latitude": -21.14363,
+        "longitude": -47.9919087
+    },
+    {
+        "id": 7069,
+        "name": "Estádio Ernesto Rocco",
+        "city": "Porto Feliz",
+        "capacity": 2500,
+        "latitude": -23.1810349,
+        "longitude": -47.5363518
+    },
+    {
+        "id": 20208,
+        "name": "Estádio Municipal Gíglio Portugal Pichinin",
+        "city": "São Bernardo do Campo",
+        "capacity": 6315,
+        "latitude": -23.6991263,
+        "longitude": -46.5428925
+    },
+    {
+        "id": 7071,
+        "name": "Estádio Municipal Bento de Abreu Sampaio Vidal",
+        "city": "Marília",
+        "capacity": 17963,
+        "latitude": -22.2196144,
+        "longitude": -49.9400031
+    },
+    {
+        "id": 7075,
+        "name": "Estádio Anísio Hadad",
+        "city": "São José do Rio Preto",
+        "capacity": 18670,
+        "latitude": -20.8346524,
+        "longitude": -49.4011486
+    },
+    {
+        "id": 11105,
+        "name": "Estádio Municipal Pedro Marin Berbel",
+        "city": "Birigui",
+        "capacity": 15519,
+        "latitude": -21.268881,
+        "longitude": -50.33194719999999
+    },
+    {
+        "id": 12665,
+        "name": "Estádio Dr. Hudson Buck Pereira",
+        "city": "Matão",
+        "capacity": 8758,
+        "latitude": -21.6072758,
+        "longitude": -48.3665116
+    },
+    {
+        "id": 12666,
+        "name": "Estádio Municipal Francisco Marques Figueira",
+        "city": "Suzano",
+        "capacity": 3445,
+        "latitude": -23.5548376,
+        "longitude": -46.297822
+    },
+    {
+        "id": 99990081,
+        "name": "Estádio Bruno Lazzarini",
+        "city": "Leme",
+        "capacity": 7018,
+        "latitude": -22.1768979,
+        "longitude": -47.3893222
+    },
+    {
+        "id": 19342,
+        "name": "Estádio Paulo Constantino",
+        "city": "Presidente Prudente",
+        "capacity": 45954,
+        "latitude": -22.0985498,
+        "longitude": -51.4148828
+    },
+    {
+        "id": 19343,
+        "name": "Estádio Municipal Coronel Francisco Vieira",
+        "city": "Itapira",
+        "capacity": 4285,
+        "latitude": -22.4398251,
+        "longitude": -46.8309296
+    },
+    {
+        "id": 20491,
+        "name": "Estádio Municipal Sílvio Salles",
+        "city": "Catanduva",
+        "capacity": 16474,
+        "latitude": -21.1526862,
+        "longitude": -48.97594309999999
+    },
+    {
+        "id": 20447,
+        "name": "Estádio Dr. Hermínio Ometto",
+        "city": "Araras",
+        "capacity": 16096,
+        "latitude": -22.35822,
+        "longitude": -47.3412039
+    },
+    {
+        "id": 2939,
+        "name": "Estádio Municipal Prefeito José Liberatti",
+        "city": "Osasco",
+        "capacity": 12900,
+        "latitude": -23.5122537,
+        "longitude": -46.7760371
+    },
+    {
+        "id": 7059,
+        "name": "Estádio Municipal Tenente Carriço",
+        "city": "Penápolis",
+        "capacity": 11914,
+        "latitude": -21.4221447,
+        "longitude": -50.0689887
+    },
+    {
+        "id": 7065,
+        "name": "Estádio Antônio Gomes Martins",
+        "city": "Barretos",
+        "capacity": 13996,
+        "latitude": -20.5680119,
+        "longitude": -48.563717
+    },
+    {
+        "id": 7072,
+        "name": "Estádio Nicolau Alayon",
+        "city": "São Paulo",
+        "capacity": 9660,
+        "latitude": -23.517725,
+        "longitude": -46.6862206
+    },
+    {
+        "id": 20535,
+        "name": "Estádio Benedito Teixeira",
+        "city": "São José do Rio Preto",
+        "capacity": 36426,
+        "latitude": -20.796769,
+        "longitude": -49.3589966
+    },
+    {
+        "id": 20536,
+        "name": "Estádio Municipal Dr. José Lancha Filho",
+        "city": "Franca",
+        "capacity": 22835,
+        "latitude": -20.5350836,
+        "longitude": -47.3852459
+    },
+    {
+        "id": 20537,
+        "name": "Estádio Comendador Agostinho Prada",
+        "city": "Limeira",
+        "capacity": 9907,
+        "latitude": -22.5743514,
+        "longitude": -47.4124141
+    },
+    {
+        "id": 20538,
+        "name": "Estádio Espanha",
+        "city": "Santos",
+        "capacity": 8031,
+        "latitude": -23.946083,
+        "longitude": -46.3652458
+    },
+    {
+        "id": 5653,
+        "name": "Estádio Municipal Professor Dario Rodrigues Leite",
+        "city": "Guaratinguetá",
+        "capacity": 16095,
+        "latitude": -22.8085544,
+        "longitude": -45.1857698
+    },
+    {
+        "id": 11257,
+        "name": "Estádio Décio Vitta",
+        "city": "Americana",
+        "capacity": 16300,
+        "latitude": -22.7342966,
+        "longitude": -47.3479018
+    },
+    {
+        "id": 99990083,
+        "name": "Estádio Municipal Prefeito Gabriel Marques da Silva",
+        "city": "Santana de Parnaíba",
+        "capacity": 7200,
+        "latitude": -23.4394847,
+        "longitude": -46.9182097
+    },
+    {
+        "id": 20539,
+        "name": "Estádio Municipal Adail Nunes da Silva",
+        "city": "Taquaritinga",
+        "capacity": 18805,
+        "latitude": -21.3998569,
+        "longitude": -48.4934089
+    },
+    {
+        "id": 20540,
+        "name": "Estádio Antônio Lins Ribeiro Guimarães",
+        "city": "Santa Bárbara d&apos;Oeste",
+        "capacity": 14913,
+        "latitude": -22.7553539,
+        "longitude": -47.4246037
+    },
+    {
+        "id": 99990084,
+        "name": "Estádio Municipal Antônio Viana Silva (Tonicão)",
+        "city": "Assis",
+        "capacity": 8525,
+        "latitude": -22.6586167,
+        "longitude": -50.4333682
+    },
+    {
+        "id": 20541,
+        "name": "Estádio Municipal Zezinho Magalhães",
+        "city": "Jaú",
+        "capacity": 13040,
+        "latitude": -22.2971223,
+        "longitude": -48.5716295
+    },
+    {
+        "id": 7064,
+        "name": "Estádio Municipal Maria Teresa Breda",
+        "city": "Olímpia",
+        "capacity": 15022,
+        "latitude": -20.7347044,
+        "longitude": -48.9143116
+    },
+    {
+        "id": 7074,
+        "name": "Estádio Dr. Jayme Pinheiro de Ulhôa Cintra",
+        "city": "Jundiaí",
+        "capacity": 14771,
+        "latitude": -23.1881488,
+        "longitude": -46.8602071
+    },
+    {
+        "id": 20693,
+        "name": "Estádio Municipal Dr. Adhemar de Barros",
+        "city": "Araçatuba",
+        "capacity": 15011,
+        "latitude": -21.2175653,
+        "longitude": -50.44434949999999
+    },
+    {
+        "id": 20694,
+        "name": "Estádio Municipal Francisco Ribeiro Nogueira",
+        "city": "Mogi das Cruzes",
+        "capacity": 10380,
+        "latitude": -23.5177011,
+        "longitude": -46.2061106
+    },
+    {
+        "id": 99990085,
+        "name": "Estádio Municipal Carlos Ferracini",
+        "city": "Caieiras",
+        "capacity": 6195,
+        "latitude": -23.3654599,
+        "longitude": -46.7434444
+    },
+    {
+        "id": 20695,
+        "name": "Estádio Municipal Cláudio Rodante",
+        "city": "Fernandópolis",
+        "capacity": 7850,
+        "latitude": -20.292027,
+        "longitude": -50.2503879
+    },
+    {
+        "id": 20696,
+        "name": "Estádio Municipal Antônio Soares de Oliveira",
+        "city": "Guarulhos",
+        "capacity": 6235,
+        "latitude": -23.4705119,
+        "longitude": -46.5521646
+    },
+    {
+        "id": 20697,
+        "name": "Estádio Sócrates Stamato",
+        "city": "Bebedouro",
+        "capacity": 15300,
+        "latitude": -20.9420967,
+        "longitude": -48.4938154
+    },
+    {
+        "id": 20698,
+        "name": "Estádio Municipal Pedro Benedetti",
+        "city": "Mauá",
+        "capacity": 10590,
+        "latitude": -23.6689672,
+        "longitude": -46.4708551
+    },
+    {
+        "id": 20699,
+        "name": "Estádio Prof. Luís Augusto de Oliveira",
+        "city": "São Carlos",
+        "capacity": 14359,
+        "latitude": -22.0315389,
+        "longitude": -47.90178909999999
+    },
+    {
+        "id": 20700,
+        "name": "Estádio Prefeito Alberto Víctolo",
+        "city": "Tanabi",
+        "capacity": 11617,
+        "latitude": -20.6301547,
+        "longitude": -49.65263179999999
+    },
+    {
+        "id": 20701,
+        "name": "Estádio Alonso de Carvalho Braga",
+        "city": "Tupã",
+        "capacity": 5515,
+        "latitude": -21.9338444,
+        "longitude": -50.5196666
     }
 ]
