@@ -2240,5 +2240,69 @@
         "capacity": 4000,
         "latitude": -15.5672385,
         "longitude": -54.3273222
+    },
+    {
+        "id": 7320,
+        "name": "Estádio Municipal Félix Belém de Castro",
+        "city": "Campo Verde",
+        "capacity": 3000,
+        "latitude": -15.5719763,
+        "longitude": -55.17652709999999
+    },
+    {
+        "id": 8296,
+        "name": "Estádio Municipal Neco Falcão",
+        "city": "Poconé",
+        "capacity": 3000,
+        "latitude": -16.2733859,
+        "longitude": -56.62011330000001
+    },
+    {
+        "id": 99990052,
+        "name": "Estádio Lamartine Ribeiro Sales (Raimundão)",
+        "city": "Barra do Bugres",
+        "capacity": 2000,
+        "latitude": -15.0644653,
+        "longitude": -57.1915764
+    },
+    {
+        "id": 99990056,
+        "name": "Estádio Massami Uriu (Gigante do Norte)",
+        "city": "Sinop",
+        "capacity": 13000,
+        "latitude": -11.870483,
+        "longitude": -55.4990294
+    },
+    {
+        "id": 99990055,
+        "name": "Estádio Ari Tomazelli",
+        "city": "Campo Novo do Parecis",
+        "capacity": 3500,
+        "latitude": -13.6544599,
+        "longitude": -57.8871011
+    },
+    {
+        "id": 19344,
+        "name": "Estádio Municipal Luiz Geraldo da Silva",
+        "city": "Cáceres",
+        "capacity": 6500,
+        "latitude": -16.0887824,
+        "longitude": -57.6900349
+    },
+    {
+        "id": 99990054,
+        "name": "Estadio Municipal Danilo Pagot",
+        "city": "Juara",
+        "capacity": null,
+        "latitude": -11.2564417,
+        "longitude": -57.5155689
+    },
+    {
+        "id": 99990053,
+        "name": "Estadio Municipal Barretao",
+        "city": "Nortelândia",
+        "capacity": 8000,
+        "latitude": -14.4478198,
+        "longitude": -56.79484050000001
     }
 ]

@@ -3528,5 +3528,125 @@
         "national": false,
         "logo": "https://media.api-sports.io/football/teams/22825.png",
         "venue_id": 99990050
+    },
+    {
+        "id": 1213,
+        "name": "Sinop",
+        "code": null,
+        "country": "Brazil",
+        "founded": 1977,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/1213.png",
+        "venue_id": 99990056
+    },
+    {
+        "id": 10688,
+        "name": "Operário MT",
+        "code": null,
+        "country": "Brazil",
+        "founded": 1949,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/10688.png",
+        "venue_id": 7320
+    },
+    {
+        "id": 13131,
+        "name": "Chapada",
+        "code": null,
+        "country": "Brazil",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/13131.png",
+        "venue_id": 8296
+    },
+    {
+        "id": 15615,
+        "name": "Ação",
+        "code": null,
+        "country": "Brazil",
+        "founded": 2007,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/15615.png",
+        "venue_id": 99990052
+    },
+    {
+        "id": 18273,
+        "name": "Sport Sinop",
+        "code": null,
+        "country": "Brazil",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/18273.png",
+        "venue_id": 99990056
+    },
+    {
+        "id": 23560,
+        "name": "Atlético Matogrossense",
+        "code": null,
+        "country": "Brazil",
+        "founded": 2020,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/23560.png",
+        "venue_id": 235
+    },
+    {
+        "id": 23561,
+        "name": "Campo Novo",
+        "code": null,
+        "country": "Brazil",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/23561.png",
+        "venue_id": 99990055
+    },
+    {
+        "id": 23562,
+        "name": "Cáceres",
+        "code": null,
+        "country": "Brazil",
+        "founded": 1977,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/23562.png",
+        "venue_id": 19344
+    },
+    {
+        "id": 23563,
+        "name": "Juara",
+        "code": null,
+        "country": "Brazil",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/23563.png",
+        "venue_id": 99990054
+    },
+    {
+        "id": 23564,
+        "name": "Paulistano MT",
+        "code": null,
+        "country": "Brazil",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/23564.png",
+        "venue_id": 99990053
+    },
+    {
+        "id": 23565,
+        "name": "Rondonopolis EC",
+        "code": null,
+        "country": "Brazil",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/23565.png",
+        "venue_id": 5640
+    },
+    {
+        "id": 23566,
+        "name": "Santa Cruz MT",
+        "code": null,
+        "country": "Brazil",
+        "founded": 1982,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/23566.png",
+        "venue_id": 99990052
     }
 ]
