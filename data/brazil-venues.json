@@ -2784,5 +2784,77 @@
         "capacity": 5200,
         "latitude": -25.5509401,
         "longitude": -49.1724554
+    },
+    {
+        "id": 259,
+        "name": "Estádio Durival de Britto e Silva",
+        "city": "Curitiba",
+        "capacity": 20083,
+        "latitude": -25.43948,
+        "longitude": -49.2558691
+    },
+    {
+        "id": 239,
+        "name": "Estádio do ABC",
+        "city": "Foz do Iguaçu",
+        "capacity": 12565,
+        "latitude": -25.5343608,
+        "longitude": -54.5690748
+    },
+    {
+        "id": 7314,
+        "name": "Estadio Municipal Olímpico Erich George",
+        "city": "Rolândia",
+        "capacity": 2200,
+        "latitude": -23.3161963,
+        "longitude": -51.3688525
+    },
+    {
+        "id": 8250,
+        "name": "Complexo Poliespotivo Fernando Scharbub Farah",
+        "city": "Paranaguá",
+        "capacity": 12218,
+        "latitude": -25.5245248,
+        "longitude": -48.5084084
+    },
+    {
+        "id": 8260,
+        "name": "Estádio Municipal Olímpio Barreto",
+        "city": "Apucarana",
+        "capacity": 13000,
+        "latitude": -23.5609729,
+        "longitude": -51.4359134
+    },
+    {
+        "id": 18523,
+        "name": "Estádio Municipal Antiocho Pereira",
+        "city": "União da Vitória",
+        "capacity": 4087,
+        "latitude": -26.2249906,
+        "longitude": -51.0829597
+    },
+    {
+        "id": 19596,
+        "name": "Estádio Municipal José Chiappin",
+        "city": "Arapongas",
+        "capacity": 10440,
+        "latitude": -23.4181392,
+        "longitude": -51.42322979999999
+    },
+    {
+        "id": 99990080,
+        "name": "Estádio Gigante do Itiberê (Fernando Charbub Farah)",
+        "city": "Paranaguá",
+        "capacity": 12218,
+        "latitude": -25.5245248,
+        "longitude": -48.5084084
+    },
+    {
+        "id": 20635,
+        "name": "Estádio Municipal Dr. Waldemiro Wagner",
+        "city": "Paranavaí",
+        "capacity": 23725,
+        "latitude": -23.0737759,
+        "longitude": -52.4675086
     }
 ]

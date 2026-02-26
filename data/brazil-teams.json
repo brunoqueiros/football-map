@@ -4428,5 +4428,105 @@
         "national": false,
         "logo": "https://media.api-sports.io/football/teams/18745.png",
         "venue_id": 5663
+    },
+    {
+        "id": 122,
+        "name": "Parana",
+        "code": "PAR",
+        "country": "Brazil",
+        "founded": 1989,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/122.png",
+        "venue_id": 259
+    },
+    {
+        "id": 2212,
+        "name": "Foz Do Iguacu",
+        "code": null,
+        "country": "Brazil",
+        "founded": 1996,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/2212.png",
+        "venue_id": 239
+    },
+    {
+        "id": 10678,
+        "name": "Nacional PR",
+        "code": "NAC",
+        "country": "Brazil",
+        "founded": 1947,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/10678.png",
+        "venue_id": 7314
+    },
+    {
+        "id": 12914,
+        "name": "Rio Branco PR",
+        "code": "RIO",
+        "country": "Brazil",
+        "founded": 1913,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/12914.png",
+        "venue_id": 8250
+    },
+    {
+        "id": 12937,
+        "name": "Apucarana",
+        "code": null,
+        "country": "Brazil",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/12937.png",
+        "venue_id": 8260
+    },
+    {
+        "id": 17427,
+        "name": "AA Iguaçu",
+        "code": null,
+        "country": "Brazil",
+        "founded": 1971,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/17427.png",
+        "venue_id": 18523
+    },
+    {
+        "id": 18746,
+        "name": "Laranja Mecânica",
+        "code": null,
+        "country": "Brazil",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/18746.png",
+        "venue_id": 19596
+    },
+    {
+        "id": 21170,
+        "name": "Grêmio Maringá",
+        "code": null,
+        "country": "Brazil",
+        "founded": 1961,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/21170.png",
+        "venue_id": 5663
+    },
+    {
+        "id": 21171,
+        "name": "Patriotas",
+        "code": null,
+        "country": "Brazil",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/21171.png",
+        "venue_id": 99990080
+    },
+    {
+        "id": 23308,
+        "name": "Paranavaí",
+        "code": null,
+        "country": "Brazil",
+        "founded": 1946,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/23308.png",
+        "venue_id": 20635
     }
 ]
