@@ -4378,5 +4378,55 @@
         "national": false,
         "logo": "https://media.api-sports.io/football/teams/24599.png",
         "venue_id": 21090
+    },
+    {
+        "id": 1212,
+        "name": "PSTC Procopense",
+        "code": null,
+        "country": "Brazil",
+        "founded": 1994,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/1212.png",
+        "venue_id": 2941
+    },
+    {
+        "id": 12936,
+        "name": "Andraus Brasil",
+        "code": null,
+        "country": "Brazil",
+        "founded": 2014,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/12936.png",
+        "venue_id": 8259
+    },
+    {
+        "id": 12939,
+        "name": "Azuriz",
+        "code": null,
+        "country": "Brazil",
+        "founded": 2018,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/12939.png",
+        "venue_id": 20482
+    },
+    {
+        "id": 12941,
+        "name": "São Joseense",
+        "code": null,
+        "country": "Brazil",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/12941.png",
+        "venue_id": 19643
+    },
+    {
+        "id": 18745,
+        "name": "Galo Maringá",
+        "code": null,
+        "country": "Brazil",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/18745.png",
+        "venue_id": 5663
     }
 ]

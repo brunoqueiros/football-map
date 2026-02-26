@@ -2752,5 +2752,37 @@
         "capacity": 3000,
         "latitude": -7.2998851,
         "longitude": -38.1495732
+    },
+    {
+        "id": 2941,
+        "name": "Estádio Municipal Ubirajara Medeiros",
+        "city": "Cornélio Procópio",
+        "capacity": 6000,
+        "latitude": -23.178817,
+        "longitude": -50.6590097
+    },
+    {
+        "id": 8259,
+        "name": "Estádio Atílio Gionédis",
+        "city": "Campo Largo",
+        "capacity": 2000,
+        "latitude": -25.4563848,
+        "longitude": -49.527437
+    },
+    {
+        "id": 20482,
+        "name": "Estádio Os Pioneiros",
+        "city": "Pato Branco",
+        "capacity": 8000,
+        "latitude": -26.2110211,
+        "longitude": -52.6802337
+    },
+    {
+        "id": 19643,
+        "name": "Estádio Municipal Cilmar Pedro Goergen",
+        "city": "São José dos Pinhais",
+        "capacity": 5200,
+        "latitude": -25.5509401,
+        "longitude": -49.1724554
     }
 ]
