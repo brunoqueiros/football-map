@@ -4288,5 +4288,95 @@
         "national": false,
         "logo": "https://media.api-sports.io/football/teams/22367.png",
         "venue_id": 99990077
+    },
+    {
+        "id": 12910,
+        "name": "Sport PB",
+        "code": null,
+        "country": "Brazil",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/12910.png",
+        "venue_id": 99990078
+    },
+    {
+        "id": 18306,
+        "name": "Auto Esporte",
+        "code": null,
+        "country": "Brazil",
+        "founded": 1936,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/18306.png",
+        "venue_id": 1692
+    },
+    {
+        "id": 20709,
+        "name": "Queimadense",
+        "code": null,
+        "country": "Brazil",
+        "founded": 2003,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/20709.png",
+        "venue_id": 224
+    },
+    {
+        "id": 22361,
+        "name": "Confianca PB",
+        "code": null,
+        "country": "Brazil",
+        "founded": 1953,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/22361.png",
+        "venue_id": 22368
+    },
+    {
+        "id": 22362,
+        "name": "EC de Patos",
+        "code": null,
+        "country": "Brazil",
+        "founded": 1953,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/22362.png",
+        "venue_id": 8246
+    },
+    {
+        "id": 22363,
+        "name": "Guarabira",
+        "code": null,
+        "country": "Brazil",
+        "founded": 2005,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/22363.png",
+        "venue_id": 8013
+    },
+    {
+        "id": 22364,
+        "name": "Picuiense",
+        "code": null,
+        "country": "Brazil",
+        "founded": 2008,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/22364.png",
+        "venue_id": 99990079
+    },
+    {
+        "id": 22366,
+        "name": "Spartax",
+        "code": null,
+        "country": "Brazil",
+        "founded": 2011,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/22366.png",
+        "venue_id": 8247
+    },
+    {
+        "id": 24599,
+        "name": "Cruzeiro PB",
+        "code": null,
+        "country": "Brazil",
+        "founded": 1969,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/24599.png",
+        "venue_id": 21090
     }
 ]

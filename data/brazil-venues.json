@@ -2704,5 +2704,53 @@
         "capacity": 5000,
         "latitude": -6.7609744,
         "longitude": -37.7992448
+    },
+    {
+        "id": 99990078,
+        "name": "Estádio Toscanão",
+        "city": "Lucena",
+        "capacity": 5400,
+        "latitude": -6.905440199999999,
+        "longitude": -34.8794118
+    },
+    {
+        "id": 1692,
+        "name": "Estádio Leonardo Vinagre da Silveira",
+        "city": "João Pessoa",
+        "capacity": 5000,
+        "latitude": -7.1402965,
+        "longitude": -34.8902844
+    },
+    {
+        "id": 22368,
+        "name": "Estadio Toca do Papão",
+        "city": "Sapé",
+        "capacity": 1000,
+        "latitude": -7.09045,
+        "longitude": -35.2219534
+    },
+    {
+        "id": 8013,
+        "name": "Estádio Municipal Sílvio Porto",
+        "city": "Guarabira",
+        "capacity": 6000,
+        "latitude": -6.8637077,
+        "longitude": -35.4906031
+    },
+    {
+        "id": 99990079,
+        "name": "Estádio Amauri Sales de Melo",
+        "city": "Picuí",
+        "capacity": 4000,
+        "latitude": -6.5083455,
+        "longitude": -36.3489679
+    },
+    {
+        "id": 21090,
+        "name": "Estádio O Zezão",
+        "city": "Itaporanga",
+        "capacity": 3000,
+        "latitude": -7.2998851,
+        "longitude": -38.1495732
     }
 ]
