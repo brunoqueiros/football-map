@@ -4028,5 +4028,195 @@
         "national": false,
         "logo": "https://media.api-sports.io/football/teams/22873.png",
         "venue_id": 8294
+    },
+    {
+        "id": 8136,
+        "name": "Vénus",
+        "code": null,
+        "country": "Brazil",
+        "founded": 1949,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/8136.png",
+        "venue_id": 99990066
+    },
+    {
+        "id": 15610,
+        "name": "Gavião",
+        "code": null,
+        "country": "Brazil",
+        "founded": 2009,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/15610.png",
+        "venue_id": 5697
+    },
+    {
+        "id": 18376,
+        "name": "Amazônia PA",
+        "code": null,
+        "country": "Brazil",
+        "founded": 2021,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/18376.png",
+        "venue_id": 99990030
+    },
+    {
+        "id": 23742,
+        "name": "Belenense",
+        "code": null,
+        "country": "Brazil",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/23742.png",
+        "venue_id": 99990067
+    },
+    {
+        "id": 23744,
+        "name": "Pedreira",
+        "code": null,
+        "country": "Brazil",
+        "founded": 1925,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/23744.png",
+        "venue_id": 99990068
+    },
+    {
+        "id": 23745,
+        "name": "Tesla",
+        "code": null,
+        "country": "Brazil",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/23745.png",
+        "venue_id": 99990069
+    },
+    {
+        "id": 23746,
+        "name": "Tiradentes PA",
+        "code": null,
+        "country": "Brazil",
+        "founded": 1973,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/23746.png",
+        "venue_id": 99990070
+    },
+    {
+        "id": 2223,
+        "name": "Sao Raimundo PA",
+        "code": null,
+        "country": "Brazil",
+        "founded": 1944,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/2223.png",
+        "venue_id": 2938
+    },
+    {
+        "id": 7776,
+        "name": "Independente PA",
+        "code": null,
+        "country": "Brazil",
+        "founded": 1972,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/7776.png",
+        "venue_id": 5629
+    },
+    {
+        "id": 12287,
+        "name": "Paragominas",
+        "code": "PAR",
+        "country": "Brazil",
+        "founded": 2012,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/12287.png",
+        "venue_id": 7821
+    },
+    {
+        "id": 13123,
+        "name": "Carajás",
+        "code": null,
+        "country": "Brazil",
+        "founded": 1997,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/13123.png",
+        "venue_id": 8293
+    },
+    {
+        "id": 13125,
+        "name": "Itupiranga",
+        "code": null,
+        "country": "Brazil",
+        "founded": 2018,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/13125.png",
+        "venue_id": 99990071
+    },
+    {
+        "id": 24998,
+        "name": "CA Vila Rica",
+        "code": null,
+        "country": "Brazil",
+        "founded": 1987,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/24998.png",
+        "venue_id": 260
+    },
+    {
+        "id": 24999,
+        "name": "Capitao Poco",
+        "code": null,
+        "country": "Brazil",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/24999.png",
+        "venue_id": 99990072
+    },
+    {
+        "id": 25000,
+        "name": "Izabelense",
+        "code": null,
+        "country": "Brazil",
+        "founded": 1924,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/25000.png",
+        "venue_id": 99990073
+    },
+    {
+        "id": 25001,
+        "name": "Pinheirense",
+        "code": null,
+        "country": "Brazil",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/25001.png",
+        "venue_id": 99990074
+    },
+    {
+        "id": 25002,
+        "name": "Santos Athlético",
+        "code": null,
+        "country": "Brazil",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/25002.png",
+        "venue_id": 99990075
+    },
+    {
+        "id": 25003,
+        "name": "Uniao Paraense",
+        "code": null,
+        "country": "Brazil",
+        "founded": 2018,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/25003.png",
+        "venue_id": 99990076
+    },
+    {
+        "id": 25004,
+        "name": "ESMAC",
+        "code": null,
+        "country": "Brazil",
+        "founded": 1996,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/25004.png",
+        "venue_id": 262
     }
 ]

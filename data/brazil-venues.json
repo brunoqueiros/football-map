@@ -2560,5 +2560,117 @@
         "capacity": 2000,
         "latitude": -6.5283667,
         "longitude": -49.8432538
+    },
+    {
+        "id": 99990066,
+        "name": "Estádio Humberto Parente",
+        "city": "Abaetetuba",
+        "capacity": 3100,
+        "latitude": -1.7235123,
+        "longitude": -48.8827908
+    },
+    {
+        "id": 99990067,
+        "name": "Centro Esportivo da Juventude (CEJU)",
+        "city": "Belém",
+        "capacity": 1000,
+        "latitude": -1.3831559,
+        "longitude": -48.44640589999999
+    },
+    {
+        "id": 99990068,
+        "name": "Estádio São Sebastião",
+        "city": "Belém",
+        "capacity": 3500,
+        "latitude": -1.161149,
+        "longitude": -48.468681
+    },
+    {
+        "id": 99990069,
+        "name": "Tesla",
+        "city": "Belém",
+        "capacity": null,
+        "latitude": -1.464681483836012,
+        "longitude": -48.47067920878443
+    },
+    {
+        "id": 99990070,
+        "name": "Estádio Agostinho Luzeiro Silva",
+        "city": "Vigia",
+        "capacity": 1000,
+        "latitude": -0.8598861,
+        "longitude": -48.1410963
+    },
+    {
+        "id": 5629,
+        "name": "Estádio Municipal Antônio Dias",
+        "city": "Tucuruí",
+        "capacity": 8200,
+        "latitude": -3.7866499,
+        "longitude": -49.6701369
+    },
+    {
+        "id": 7821,
+        "name": "Arena Verde",
+        "city": "Paragominas",
+        "capacity": 12000,
+        "latitude": -2.984005,
+        "longitude": -47.3461173
+    },
+    {
+        "id": 8293,
+        "name": "Estádio Luiz Omar Pinheiro",
+        "city": "Belém",
+        "capacity": 5000,
+        "latitude": -1.273272,
+        "longitude": -48.43902509999999
+    },
+    {
+        "id": 99990071,
+        "name": "Jaime Sena Pimentel",
+        "city": "Itupiranga",
+        "capacity": 1000,
+        "latitude": -5.133426,
+        "longitude": -49.3279662
+    },
+    {
+        "id": 99990072,
+        "name": "Estádio Rufinão",
+        "city": "Capitao Poço",
+        "capacity": 5000,
+        "latitude": -1.7522141,
+        "longitude": -47.0653408
+    },
+    {
+        "id": 99990073,
+        "name": "Estádio Edilson Abreu (ABREUZÃO)",
+        "city": "Santa Izabel do Pará",
+        "capacity": 3400,
+        "latitude": -1.2948823,
+        "longitude": -48.1639298
+    },
+    {
+        "id": 99990074,
+        "name": "Estádio Abelardo Conduru (Pinheirense)",
+        "city": "Belém",
+        "capacity": 3000,
+        "latitude": -1.3014797,
+        "longitude": -48.4796152
+    },
+    {
+        "id": 99990075,
+        "name": "Complexo Esportivo do Japiim",
+        "city": "Castanhal",
+        "capacity": 700,
+        "latitude": -1.2706944,
+        "longitude": -47.9252112
+    },
+    {
+        "id": 99990076,
+        "name": "Campo Bonsucesso",
+        "city": "Benevides",
+        "capacity": null,
+        "latitude": -1.3684845,
+        "longitude": -48.24780089999999
     }
 ]

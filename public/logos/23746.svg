@@ -1,0 +1,12 @@
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 500" width="500" height="500">
+	<title>Tiradentes</title>
+	<style>
+		.s0 { fill: #29166f } 
+		.s1 { fill: #dd341d } 
+		.s2 { fill: #fff500 } 
+	</style>
+	<path id="Circle" fill-rule="evenodd" class="s0" d="m250 500c-138.3 0-250-111.8-250-250 0-138.3 111.7-250 250-250 138.2 0 250 111.7 250 250 0 138.2-111.8 250-250 250z"/>
+	<path id="Triangle" class="s1" d="m44 391l205-390 207 390z"/>
+	<path id="Shape T left" class="s2" d="m255 404h-85v-9c0 0 22.6 0 37-7 0 0 13.9-6.2 14-23 0.1 0 1-257 1-257l-72 2c0 0-16.4 0.9-28.1 11.9 0 0-10.2 8.4-17.9 39.1 0 0.1-12 0-12 0l3-68h155z"/>
+	<path id="Shape T right" class="s2" d="m245 404h85v-9c0 0-22.6 0-37-7 0 0-13.9-6.2-14-23-0.1 0-1-257-1-257l72 2c0 0 16.4 0.9 28.1 11.9 0 0 10.2 8.4 17.9 39.1 0 0.1 12 0 12 0l-3-68h-155z"/>
+</svg>
