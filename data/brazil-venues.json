@@ -2856,5 +2856,85 @@
         "capacity": 23725,
         "latitude": -23.0737759,
         "longitude": -52.4675086
+    },
+    {
+        "id": 5677,
+        "name": "Estádio Municipal Newton Agibert",
+        "city": "Prudentópolis",
+        "capacity": 3500,
+        "latitude": -25.2183035,
+        "longitude": -50.9689534
+    },
+    {
+        "id": 7038,
+        "name": "Estádio Municipal 14 de Dezembro",
+        "city": "Toledo",
+        "capacity": 15280,
+        "latitude": -24.7250399,
+        "longitude": -53.75441060000001
+    },
+    {
+        "id": 19596,
+        "name": "Estádio Municipal José Chiappin",
+        "city": "Arapongas",
+        "capacity": 10440,
+        "latitude": -23.4181392,
+        "longitude": -51.42322979999999
+    },
+    {
+        "id": 21212,
+        "name": "Estádio Anilado",
+        "city": "Francisco Beltrão",
+        "capacity": 10200,
+        "latitude": -26.0822783,
+        "longitude": -53.0591369
+    },
+    {
+        "id": 8261,
+        "name": "Estádio Waldomiro Gelinski",
+        "city": "Guarapuava",
+        "capacity": 12000,
+        "latitude": -25.3901117,
+        "longitude": -51.48640349999999
+    },
+    {
+        "id": 22656,
+        "name": "Estádio Municipal Alvaro Alves",
+        "city": "Alvorada do Sul",
+        "capacity": 1654,
+        "latitude": -22.7824328,
+        "longitude": -51.2272735
+    },
+    {
+        "id": 18524,
+        "name": "Estádio Municipal Vila do Mar",
+        "city": "Verê",
+        "capacity": 2900,
+        "latitude": -25.8764357,
+        "longitude": -52.9143925
+    },
+    {
+        "id": 21213,
+        "name": "Estádio José Garbelini",
+        "city": "Cambé",
+        "capacity": 1700,
+        "latitude": -23.2749813,
+        "longitude": -51.2915923
+    },
+    {
+        "id": 21214,
+        "name": "Complexo Esportivo Roberto Brzezinski",
+        "city": "Campo Mourão",
+        "capacity": 3948,
+        "latitude": -24.0461683,
+        "longitude": -52.3896059
+    },
+    {
+        "id": 21215,
+        "name": "Estádio Coronel Emílio Gomes",
+        "city": "Irati",
+        "capacity": 4579,
+        "latitude": -25.4674555,
+        "longitude": -50.65906940000001
     }
 ]

@@ -4528,5 +4528,145 @@
         "national": false,
         "logo": "https://media.api-sports.io/football/teams/23308.png",
         "venue_id": 20635
+    },
+    {
+        "id": 7850,
+        "name": "Prudentópolis",
+        "code": "PRU",
+        "country": "Brazil",
+        "founded": 2007,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/7850.png",
+        "venue_id": 5677
+    },
+    {
+        "id": 9994,
+        "name": "Toledo",
+        "code": null,
+        "country": "Brazil",
+        "founded": 2004,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/9994.png",
+        "venue_id": 7038
+    },
+    {
+        "id": 12291,
+        "name": "Arapongas",
+        "code": "ARA",
+        "country": "Brazil",
+        "founded": 1974,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/12291.png",
+        "venue_id": 19596
+    },
+    {
+        "id": 12915,
+        "name": "União PR",
+        "code": null,
+        "country": "Brazil",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/12915.png",
+        "venue_id": 21212
+    },
+    {
+        "id": 12938,
+        "name": "Araucária",
+        "code": null,
+        "country": "Brazil",
+        "founded": 2018,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/12938.png",
+        "venue_id": 8259
+    },
+    {
+        "id": 12940,
+        "name": "Batel",
+        "code": null,
+        "country": "Brazil",
+        "founded": 1951,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/12940.png",
+        "venue_id": 8261
+    },
+    {
+        "id": 12942,
+        "name": "Rolândia",
+        "code": null,
+        "country": "Brazil",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/12942.png",
+        "venue_id": 22656
+    },
+    {
+        "id": 17428,
+        "name": "Verê",
+        "code": null,
+        "country": "Brazil",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/17428.png",
+        "venue_id": 18524
+    },
+    {
+        "id": 24823,
+        "name": "Cambé",
+        "code": null,
+        "country": "Brazil",
+        "founded": 1989,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/24823.png",
+        "venue_id": 21213
+    },
+    {
+        "id": 24824,
+        "name": "Campo Mourão",
+        "code": null,
+        "country": "Brazil",
+        "founded": 2007,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/24824.png",
+        "venue_id": 21214
+    },
+    {
+        "id": 24825,
+        "name": "Hope Internacional",
+        "code": null,
+        "country": "Brazil",
+        "founded": 2022,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/24825.png",
+        "venue_id": 8259
+    },
+    {
+        "id": 24826,
+        "name": "Iraty",
+        "code": null,
+        "country": "Brazil",
+        "founded": 1914,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/24826.png",
+        "venue_id": 21215
+    },
+    {
+        "id": 24827,
+        "name": "Oeste Brasil",
+        "code": null,
+        "country": "Brazil",
+        "founded": 2024,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/24827.png",
+        "venue_id": 7038
+    },
+    {
+        "id": 24828,
+        "name": "Portuguesa Londrinense",
+        "code": null,
+        "country": "Brazil",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/24828.png",
+        "venue_id": 249
     }
 ]
