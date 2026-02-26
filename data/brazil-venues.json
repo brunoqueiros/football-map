@@ -2672,5 +2672,37 @@
         "capacity": null,
         "latitude": -1.3684845,
         "longitude": -48.24780089999999
+    },
+    {
+        "id": 7307,
+        "name": "Estádio Perpétuo Corrêa Lima",
+        "city": "Cajazeiras",
+        "capacity": 12000,
+        "latitude": -6.900936799999999,
+        "longitude": -38.5660699
+    },
+    {
+        "id": 1692,
+        "name": "Estádio Leonardo Vinagre da Silveira",
+        "city": "João Pessoa",
+        "capacity": 5000,
+        "latitude": -7.1402965,
+        "longitude": -34.8902844
+    },
+    {
+        "id": 8246,
+        "name": "Estádio José Cavalcanti",
+        "city": "Patos",
+        "capacity": 8000,
+        "latitude": -7.0161384,
+        "longitude": -37.2838157
+    },
+    {
+        "id": 99990077,
+        "name": "Estádio Municipal Francisco Pereira Vieira (Pereirão)",
+        "city": "Pombal",
+        "capacity": 5000,
+        "latitude": -6.7609744,
+        "longitude": -37.7992448
     }
 ]

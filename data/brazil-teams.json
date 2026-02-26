@@ -4218,5 +4218,75 @@
         "national": false,
         "logo": "https://media.api-sports.io/football/teams/25004.png",
         "venue_id": 262
+    },
+    {
+        "id": 2209,
+        "name": "Campinense",
+        "code": null,
+        "country": "Brazil",
+        "founded": 1915,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/2209.png",
+        "venue_id": 224
+    },
+    {
+        "id": 10670,
+        "name": "Atlético Cajazeirense",
+        "code": null,
+        "country": "Brazil",
+        "founded": 1948,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/10670.png",
+        "venue_id": 7307
+    },
+    {
+        "id": 12907,
+        "name": "CSP",
+        "code": null,
+        "country": "Brazil",
+        "founded": 1996,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/12907.png",
+        "venue_id": 1692
+    },
+    {
+        "id": 12908,
+        "name": "Nacional de Patos",
+        "code": null,
+        "country": "Brazil",
+        "founded": 1961,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/12908.png",
+        "venue_id": 8246
+    },
+    {
+        "id": 12911,
+        "name": "São Paulo Crystal",
+        "code": null,
+        "country": "Brazil",
+        "founded": 2008,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/12911.png",
+        "venue_id": 8247
+    },
+    {
+        "id": 20710,
+        "name": "Serra Branca",
+        "code": null,
+        "country": "Brazil",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/20710.png",
+        "venue_id": 224
+    },
+    {
+        "id": 22367,
+        "name": "Pombal EC",
+        "code": null,
+        "country": "Brazil",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/22367.png",
+        "venue_id": 99990077
     }
 ]
