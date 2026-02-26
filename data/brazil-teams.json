@@ -3948,5 +3948,85 @@
         "national": false,
         "logo": "https://media.api-sports.io/football/teams/24924.png",
         "venue_id": 99990062
+    },
+    {
+        "id": 1219,
+        "name": "Sao Francisco",
+        "code": null,
+        "country": "Brazil",
+        "founded": 1929,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/1219.png",
+        "venue_id": 2938
+    },
+    {
+        "id": 2207,
+        "name": "Bragantino PA",
+        "code": null,
+        "country": "Brazil",
+        "founded": 1975,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/2207.png",
+        "venue_id": 221
+    },
+    {
+        "id": 13124,
+        "name": "Castanhal",
+        "code": null,
+        "country": "Brazil",
+        "founded": 1924,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/13124.png",
+        "venue_id": 8294
+    },
+    {
+        "id": 13126,
+        "name": "Tapajós",
+        "code": null,
+        "country": "Brazil",
+        "founded": 2012,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/13126.png",
+        "venue_id": 99990063
+    },
+    {
+        "id": 15611,
+        "name": "Tuna Luso",
+        "code": null,
+        "country": "Brazil",
+        "founded": 1903,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/15611.png",
+        "venue_id": 11101
+    },
+    {
+        "id": 18377,
+        "name": "Caeté",
+        "code": null,
+        "country": "Brazil",
+        "founded": 2019,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/18377.png",
+        "venue_id": 99990064
+    },
+    {
+        "id": 22872,
+        "name": "Canaã",
+        "code": null,
+        "country": "Brazil",
+        "founded": 2020,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/22872.png",
+        "venue_id": 99990065
+    },
+    {
+        "id": 22873,
+        "name": "Santa Rosa",
+        "code": null,
+        "country": "Brazil",
+        "founded": 1924,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/22873.png",
+        "venue_id": 8294
     }
 ]

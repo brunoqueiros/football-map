@@ -2504,5 +2504,61 @@
         "capacity": 3500,
         "latitude": -21.2163268,
         "longitude": -43.7668903
+    },
+    {
+        "id": 2938,
+        "name": "Estádio Jader Fontenelle Barbalho",
+        "city": "Santarém",
+        "capacity": 19524,
+        "latitude": -2.4438788,
+        "longitude": -54.7146236
+    },
+    {
+        "id": 221,
+        "name": "Estádio Leandro Pinheiro",
+        "city": "Capanema",
+        "capacity": 1500,
+        "latitude": -1.1969567,
+        "longitude": -47.1823898
+    },
+    {
+        "id": 8294,
+        "name": "Estádio Maximino Porpino Filho",
+        "city": "Castanhal",
+        "capacity": 8000,
+        "latitude": -1.2862556,
+        "longitude": -47.9271118
+    },
+    {
+        "id": 99990063,
+        "name": "Arena Colosso do Tapajós",
+        "city": "Santarém",
+        "capacity": 8000,
+        "latitude": -2.4438788,
+        "longitude": -54.7146236
+    },
+    {
+        "id": 11101,
+        "name": "Estádio Francisco Vasques",
+        "city": "Belém",
+        "capacity": 5760,
+        "latitude": -1.4187456,
+        "longitude": -48.4454661
+    },
+    {
+        "id": 99990064,
+        "name": "Estádio Olímpico São Benedito - Diogão",
+        "city": "Bragança",
+        "capacity": 5000,
+        "latitude": -1.0619736,
+        "longitude": -46.798508
+    },
+    {
+        "id": 99990065,
+        "name": "Estádio Municipal (Benezão)",
+        "city": "Canaã dos Carajás",
+        "capacity": 2000,
+        "latitude": -6.5283667,
+        "longitude": -49.8432538
     }
 ]
