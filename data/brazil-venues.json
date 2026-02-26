@@ -2416,5 +2416,93 @@
         "capacity": 5000,
         "latitude": -19.6109529,
         "longitude": -43.22426430000001
+    },
+    {
+        "id": 21242,
+        "name": "Estádio Municipal Fausto Alvim",
+        "city": "Araxá",
+        "capacity": 8000,
+        "latitude": -19.5991951,
+        "longitude": -46.9407495
+    },
+    {
+        "id": 7830,
+        "name": "Estádio Waldemar Teixeira de Faria",
+        "city": "Divinópolis",
+        "capacity": 9000,
+        "latitude": -20.143618,
+        "longitude": -44.8802275
+    },
+    {
+        "id": 8255,
+        "name": "Estádio Frei Norberto",
+        "city": "Paracatu",
+        "capacity": 12000,
+        "latitude": -17.21601,
+        "longitude": -46.8869974
+    },
+    {
+        "id": 18541,
+        "name": "Centro de Treinamento Flávio Pentagna Guimarães",
+        "city": "Contagem",
+        "capacity": 1500,
+        "latitude": -19.9232223,
+        "longitude": -44.1312161
+    },
+    {
+        "id": 7820,
+        "name": "Estádio Municipal Engenheiro João Guido",
+        "city": "Uberaba",
+        "capacity": 13060,
+        "latitude": -19.7392078,
+        "longitude": -47.9405845
+    },
+    {
+        "id": 21243,
+        "name": "Estádio Nassari Mattar",
+        "city": "Teófilo Otoni",
+        "capacity": 5000,
+        "latitude": -17.8557299,
+        "longitude": -41.5023978
+    },
+    {
+        "id": 99990060,
+        "name": "Estádio Vasconcelos Montes",
+        "city": "Araguari",
+        "capacity": 6000,
+        "latitude": -18.6535573,
+        "longitude": -48.1534263
+    },
+    {
+        "id": 99990061,
+        "name": "Frigoarnaldo Formação Atletas",
+        "city": "Contagem",
+        "capacity": 5000,
+        "latitude": -19.9388783,
+        "longitude": -44.037287
+    },
+    {
+        "id": 20710,
+        "name": "Complexo Esportivo da UIT",
+        "city": "Itaúna",
+        "capacity": 3000,
+        "latitude": -20.0692335,
+        "longitude": -44.5745596
+    },
+    {
+        "id": 21244,
+        "name": "Estádio Louis Ensch",
+        "city": "Coronel Fabriciano",
+        "capacity": 6000,
+        "latitude": -19.5234836,
+        "longitude": -42.6258776
+    },
+    {
+        "id": 99990062,
+        "name": "Estádio Walter Antunes",
+        "city": "Barbacena",
+        "capacity": 3500,
+        "latitude": -21.2163268,
+        "longitude": -43.7668903
     }
 ]
