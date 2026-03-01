@@ -91,7 +91,7 @@
     },
     {
         "id": 133,
-        "name": "Vasco DA Gama",
+        "name": "Vasco da Gama",
         "code": "VAS",
         "country": "Brazil",
         "founded": 1898,
@@ -5298,5 +5298,65 @@
         "national": false,
         "logo": "https://media.api-sports.io/football/teams/23583.png",
         "venue_id": 20694
+    },
+    {
+        "id": 753,
+        "name": "Santa Cruz",
+        "code": null,
+        "country": "Brazil",
+        "founded": 1914,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/753.png",
+        "venue_id": 7803
+    }
+  {
+        "id": 2210,
+        "name": "Central SC",
+        "code": "CEN",
+        "country": "Brazil",
+        "founded": 1919,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/2210.png",
+        "venue_id": 226
+    },
+    {
+        "id": 7843,
+        "name": "Flamengo Arcoverde",
+        "code": null,
+        "country": "Brazil",
+        "founded": 1914,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/7843.png",
+        "venue_id": 5672
+    },
+    {
+        "id": 9995,
+        "name": "Afogados",
+        "code": null,
+        "country": "Brazil",
+        "founded": 2013,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/9995.png",
+        "venue_id": 7039
+    },
+    {
+        "id": 20781,
+        "name": "Maguary PE",
+        "code": null,
+        "country": "Brazil",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/20781.png",
+        "venue_id": 99990086
+    },
+    {
+        "id": 20782,
+        "name": "Porto",
+        "code": null,
+        "country": "Brazil",
+        "founded": 1983,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/20782.png",
+        "venue_id": 226
     }
 ]

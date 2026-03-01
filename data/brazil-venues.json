@@ -3384,5 +3384,45 @@
         "capacity": 5515,
         "latitude": -21.9338444,
         "longitude": -50.5196666
+    },
+    {
+        "id": 7803,
+        "name": "Estádio Jóse do Rego Maciel",
+        "city": "Recife",
+        "capacity": 60044,
+        "latitude": -8.0266992,
+        "longitude": -34.8911112
+    },
+    {
+        "id": 226,
+        "name": "Estádio Luiz José de Lacerda",
+        "city": "Caruaru",
+        "capacity": 19478,
+        "latitude": -8.2786093,
+        "longitude": -35.9729957
+    },
+    {
+        "id": 5672,
+        "name": "Estádio Municipal Áureo Bradley",
+        "city": "Arcoverde",
+        "capacity": 6000,
+        "latitude": -8.4226917,
+        "longitude": -37.057202
+    },
+    {
+        "id": 7039,
+        "name": "Estádio Valdemar Viana de Araújo",
+        "city": "Afogados da Ingazeira",
+        "capacity": 3000,
+        "latitude": -7.758742799999999,
+        "longitude": -37.63170059999999
+    },
+    {
+        "id": 99990086,
+        "name": "Estádio Municipal Arthur Tavares de Melo",
+        "city": "Bonito",
+        "capacity": 4000,
+        "latitude": -8.4726625,
+        "longitude": -35.7350733
     }
 ]
