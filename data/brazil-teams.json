@@ -5618,5 +5618,65 @@
         "national": false,
         "logo": "https://media.api-sports.io/football/teams/18316.png",
         "venue_id": 12669
+    },
+    {
+        "id": 20715,
+        "name": "Alecrim",
+        "code": null,
+        "country": "Brazil",
+        "founded": 1915,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/20715.png",
+        "venue_id": 11961
+    },
+    {
+        "id": 25072,
+        "name": "Parnamirim",
+        "code": null,
+        "country": "Brazil",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/25072.png",
+        "venue_id": 99990093
+    },
+    {
+        "id": 25073,
+        "name": "QFC",
+        "code": null,
+        "country": "Brazil",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/25073.png",
+        "venue_id": 99990094
+    },
+    {
+        "id": 25074,
+        "name": "Rio Grande RN",
+        "code": null,
+        "country": "Brazil",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/25074.png",
+        "venue_id": 99990095
+    },
+    {
+        "id": 25075,
+        "name": "Univap Apodi",
+        "code": null,
+        "country": "Brazil",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/25075.png",
+        "venue_id": 99990096
+    },
+    {
+        "id": 25123,
+        "name": "Laguna",
+        "code": null,
+        "country": "Brazil",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/25123.png",
+        "venue_id": 99990097
     }
 ]

@@ -3600,5 +3600,37 @@
         "capacity": 5100,
         "latitude": -6.2670133,
         "longitude": -36.5129982
+    },
+    {
+        "id": 99990093,
+        "name": "Estádio Tenente Luiz Gonzaga",
+        "city": "Parnamirim",
+        "capacity": 2000,
+        "latitude": -5.9210332,
+        "longitude": -35.2609752
+    },
+    {
+        "id": 99990094,
+        "name": "Centro de Treinamento Francisco Ribeiro (Ninho das Águias)",
+        "city": "Parnamirim",
+        "capacity": 1550,
+        "latitude": -5.9323159,
+        "longitude": -35.2451308
+    },
+    {
+        "id": 99990095,
+        "name": "Arena Esperança - Estádio José Pascoal de Lima",
+        "city": "Natal",
+        "capacity": null,
+        "latitude": -5.8239674,
+        "longitude": -35.2364751
+    },
+    {
+        "id": 99990096,
+        "name": "Estadio Antônio Lopes Filho",
+        "city": "Apodi",
+        "capacity": 5000,
+        "latitude": -5.6611682,
+        "longitude": -37.7970558
     }
 ]
