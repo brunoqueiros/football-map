@@ -3488,5 +3488,53 @@
         "capacity": 3000,
         "latitude": -8.4009738,
         "longitude": -35.0652356
+    },
+    {
+        "id": 5670,
+        "name": "Estádio José Bezerra de Mendonça",
+        "city": "Belo Jardim",
+        "capacity": 6500,
+        "latitude": -8.343844599999999,
+        "longitude": -36.444754
+    },
+    {
+        "id": 6317,
+        "name": "Estádio Marco Antônio Maciel",
+        "city": "Garanhuns",
+        "capacity": 7000,
+        "latitude": -8.880378799999999,
+        "longitude": -36.4655053
+    },
+    {
+        "id": 99990088,
+        "name": "Estadio Coqueirão",
+        "city": "Horizonte",
+        "capacity": 5000,
+        "latitude": -4.1115487,
+        "longitude": -38.4441353
+    },
+    {
+        "id": 99990089,
+        "name": "Estádio Mun. Ewerson Simões Barbosa",
+        "city": "Chã Grande",
+        "capacity": 3400,
+        "latitude": -8.2355865,
+        "longitude": -35.4552199
+    },
+    {
+        "id": 21307,
+        "name": "Estádio Joaquim José de Brito",
+        "city": "Pesqueira",
+        "capacity": 6000,
+        "latitude": -8.3553692,
+        "longitude": -36.689921
+    },
+    {
+        "id": 99990090,
+        "name": "Estádio Municipal Paulo de Souza Coelho",
+        "city": "Petrolina",
+        "capacity": 5000,
+        "latitude": -9.3909971,
+        "longitude": -40.5045979
     }
 ]

@@ -5448,5 +5448,85 @@
         "national": false,
         "logo": "https://media.api-sports.io/football/teams/24121.png",
         "venue_id": 99990087
+    },
+    {
+        "id": 7819,
+        "name": "América PE",
+        "code": "AME",
+        "country": "Brazil",
+        "founded": 1914,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/7819.png",
+        "venue_id": 12672
+    },
+    {
+        "id": 7841,
+        "name": "Belo Jardim",
+        "code": null,
+        "country": "Brazil",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/7841.png",
+        "venue_id": 5670
+    },
+    {
+        "id": 9129,
+        "name": "Sete de Setembro",
+        "code": null,
+        "country": "Brazil",
+        "founded": 1950,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/9129.png",
+        "venue_id": 6317
+    },
+    {
+        "id": 18318,
+        "name": "Caruaru City",
+        "code": null,
+        "country": "Brazil",
+        "founded": 2015,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/18318.png",
+        "venue_id": 7039
+    },
+    {
+        "id": 25081,
+        "name": "Aguia FC",
+        "code": null,
+        "country": "Brazil",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/25081.png",
+        "venue_id": 99990088
+    },
+    {
+        "id": 25082,
+        "name": "Cha Grande",
+        "code": null,
+        "country": "Brazil",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/25082.png",
+        "venue_id": 99990089
+    },
+    {
+        "id": 25083,
+        "name": "Pesqueira",
+        "code": null,
+        "country": "Brazil",
+        "founded": 2006,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/25083.png",
+        "venue_id": 21307
+    },
+    {
+        "id": 25084,
+        "name": "1º de Maio",
+        "code": null,
+        "country": "Brazil",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/25084.png",
+        "venue_id": 99990090
     }
 ]
