@@ -3536,5 +3536,45 @@
         "capacity": 5000,
         "latitude": -9.3909971,
         "longitude": -40.5045979
+    },
+    {
+        "id": 5637,
+        "name": "Estádio Municipal Pedro Alelaf",
+        "city": "Parnaíba",
+        "capacity": 4700,
+        "latitude": -2.929738,
+        "longitude": -41.7524173
+    },
+    {
+        "id": 5667,
+        "name": "Estádio Municipal de Ytacoatiara",
+        "city": "Piripiri",
+        "capacity": 4000,
+        "latitude": -4.2756921,
+        "longitude": -41.7859742
+    },
+    {
+        "id": 8274,
+        "name": "Estádio Municipal Helvídio Nunes de Barros",
+        "city": "Picos",
+        "capacity": 5400,
+        "latitude": -7.086294,
+        "longitude": -41.4734618
+    },
+    {
+        "id": 12658,
+        "name": "Estádio Municipal Tibério Barbosa Nunes",
+        "city": "Floriano",
+        "capacity": 4500,
+        "latitude": -6.779391599999999,
+        "longitude": -43.0096663
+    },
+    {
+        "id": 21485,
+        "name": "Estádio Municipal Gerson Campos",
+        "city": "Oeiras",
+        "capacity": 4000,
+        "latitude": -7.0164833,
+        "longitude": -42.1215401
     }
 ]
