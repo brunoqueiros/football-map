@@ -3424,5 +3424,69 @@
         "capacity": 4000,
         "latitude": -8.4726625,
         "longitude": -35.7350733
+    },
+    {
+        "id": 5678,
+        "name": "Estádio Municipal de Carpina",
+        "city": "Carpina",
+        "capacity": 3500,
+        "latitude": -7.8485328,
+        "longitude": -35.270948
+    },
+    {
+        "id": 7823,
+        "name": "Estádio Otávio Limeira Alves",
+        "city": "Santa Cruz do Capibaribe",
+        "capacity": 7000,
+        "latitude": -7.9531833,
+        "longitude": -36.2022169
+    },
+    {
+        "id": 8275,
+        "name": "Estádio Arthur Tavares Melo",
+        "city": "Bonito",
+        "capacity": 4000,
+        "latitude": -8.4726625,
+        "longitude": -35.7350733
+    },
+    {
+        "id": 12671,
+        "name": "Estádio Antônio Inácio de Souza",
+        "city": "Caruaru",
+        "capacity": 6000,
+        "latitude": -8.2905143,
+        "longitude": -35.9807364
+    },
+    {
+        "id": 12672,
+        "name": "Estádio Ademir Cunha",
+        "city": "Paulista",
+        "capacity": 10498,
+        "latitude": -7.945933500000001,
+        "longitude": -34.8882058
+    },
+    {
+        "id": 11122,
+        "name": "Estádio Gileno de Carli",
+        "city": "Cabo de Santo Agostinho",
+        "capacity": 5476,
+        "latitude": -8.2768424,
+        "longitude": -35.0265305
+    },
+    {
+        "id": 20816,
+        "name": "Estádio José Vareda",
+        "city": "Limoeiro",
+        "capacity": 3500,
+        "latitude": -7.885458000000001,
+        "longitude": -35.4608117
+    },
+    {
+        "id": 99990087,
+        "name": "Estádio Municipal Doutor Antônio Dourado Neto",
+        "city": "Ipojuca",
+        "capacity": 3000,
+        "latitude": -8.4009738,
+        "longitude": -35.0652356
     }
 ]

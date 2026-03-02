@@ -5358,5 +5358,95 @@
         "national": false,
         "logo": "https://media.api-sports.io/football/teams/20782.png",
         "venue_id": 226
+    },
+    {
+        "id": 7818,
+        "name": "Acadêmica Vitória",
+        "code": "ACA",
+        "country": "Brazil",
+        "founded": 1903,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/7818.png",
+        "venue_id": 253
+    },
+    {
+        "id": 7853,
+        "name": "Atlético PE",
+        "code": null,
+        "country": "Brazil",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/7853.png",
+        "venue_id": 5678
+    },
+    {
+        "id": 12289,
+        "name": "Ypiranga PE",
+        "code": null,
+        "country": "Brazil",
+        "founded": 1938,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/12289.png",
+        "venue_id": 7823
+    },
+    {
+        "id": 13097,
+        "name": "Decisão",
+        "code": null,
+        "country": "Brazil",
+        "founded": 1996,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/13097.png",
+        "venue_id": 8275
+    },
+    {
+        "id": 16446,
+        "name": "Vera Cruz",
+        "code": null,
+        "country": "Brazil",
+        "founded": 1960,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/16446.png",
+        "venue_id": 12671
+    },
+    {
+        "id": 18319,
+        "name": "Íbis",
+        "code": null,
+        "country": "Brazil",
+        "founded": 1938,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/18319.png",
+        "venue_id": 12672
+    },
+    {
+        "id": 24119,
+        "name": "Cabense",
+        "code": null,
+        "country": "Brazil",
+        "founded": 1995,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/24119.png",
+        "venue_id": 11122
+    },
+    {
+        "id": 24120,
+        "name": "Centro Limoeirense",
+        "code": null,
+        "country": "Brazil",
+        "founded": 1913,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/24120.png",
+        "venue_id": 20816
+    },
+    {
+        "id": 24121,
+        "name": "Ipojuca",
+        "code": null,
+        "country": "Brazil",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/24121.png",
+        "venue_id": 99990087
     }
 ]
