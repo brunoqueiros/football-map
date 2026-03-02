@@ -5578,5 +5578,45 @@
         "national": false,
         "logo": "https://media.api-sports.io/football/teams/18275.png",
         "venue_id": 21485
+    },
+    {
+        "id": 7775,
+        "name": "Globo",
+        "code": null,
+        "country": "Brazil",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/7775.png",
+        "venue_id": 11961
+    },
+    {
+        "id": 12279,
+        "name": "Baraúnas",
+        "code": "BAR",
+        "country": "Brazil",
+        "founded": 1960,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/12279.png",
+        "venue_id": 5685
+    },
+    {
+        "id": 12948,
+        "name": "Força e Luz",
+        "code": null,
+        "country": "Brazil",
+        "founded": 1966,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/12948.png",
+        "venue_id": 99990092
+    },
+    {
+        "id": 18316,
+        "name": "Potyguar",
+        "code": null,
+        "country": "Brazil",
+        "founded": 1989,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/18316.png",
+        "venue_id": 12669
     }
 ]

@@ -3576,5 +3576,29 @@
         "capacity": 4000,
         "latitude": -7.0164833,
         "longitude": -42.1215401
+    },
+    {
+        "id": 11961,
+        "name": "Estádio Manoel Dantas Barretto",
+        "city": "Ceara-Mirim",
+        "capacity": 10000,
+        "latitude": -5.649112,
+        "longitude": -35.4600464
+    },
+    {
+        "id": 99990092,
+        "name": "Arena Barretão",
+        "city": "Ceará-Mirim",
+        "capacity": 10000,
+        "latitude": -5.649112,
+        "longitude": -35.4600464
+    },
+    {
+        "id": 12669,
+        "name": "Estádio Coronel José Bezerra",
+        "city": "Currais Novos",
+        "capacity": 5100,
+        "latitude": -6.2670133,
+        "longitude": -36.5129982
     }
 ]
