@@ -3696,5 +3696,61 @@
         "capacity": 1000,
         "latitude": 2.4481918,
         "longitude": -60.9215876
+    },
+    {
+        "id": 7044,
+        "name": "Estádio Paulo Barreto de Menezes",
+        "city": "Lagarto",
+        "capacity": 8000,
+        "latitude": -10.9216815,
+        "longitude": -37.67233239999999
+    },
+    {
+        "id": 99990099,
+        "name": "Estádio Ariston Azevedo",
+        "city": "Nossa Sra. das Dores",
+        "capacity": 3000,
+        "latitude": -10.4873388,
+        "longitude": -37.1916634
+    },
+    {
+        "id": 99990100,
+        "name": "Estádio Municipal Editon Oliveira da Silva",
+        "city": "Nossa Sra. da Glória",
+        "capacity": 2000,
+        "latitude": -10.2119316,
+        "longitude": -37.4224671
+    },
+    {
+        "id": 12664,
+        "name": "Estádio Durval Feitosa",
+        "city": "Propriá",
+        "capacity": 4000,
+        "latitude": -10.2212567,
+        "longitude": -36.8406035
+    },
+    {
+        "id": 99990101,
+        "name": "Estádio Estadual Adolfo Rollemberg",
+        "city": "Aracaju",
+        "capacity": 3000,
+        "latitude": -10.9064223,
+        "longitude": -37.0827206
+    },
+    {
+        "id": 99990102,
+        "name": "Estádio Fernando França",
+        "city": "Carmópolis",
+        "capacity": 5000,
+        "latitude": -10.6503343,
+        "longitude": -36.9900776
+    },
+    {
+        "id": 20439,
+        "name": "Estádio Denison Fontes Souza",
+        "city": "Itabaianinha",
+        "capacity": 5000,
+        "latitude": -11.276471,
+        "longitude": -37.791103
     }
 ]

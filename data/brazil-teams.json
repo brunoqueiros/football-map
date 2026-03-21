@@ -5808,5 +5808,75 @@
         "national": false,
         "logo": "https://media.api-sports.io/football/teams/23158.png",
         "venue_id": 270
+    },
+    {
+        "id": 10002,
+        "name": "Lagarto",
+        "code": "LAG",
+        "country": "Brazil",
+        "founded": 2009,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/10002.png",
+        "venue_id": 7044
+    },
+    {
+        "id": 13122,
+        "name": "Dorense",
+        "code": null,
+        "country": "Brazil",
+        "founded": 1948,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/13122.png",
+        "venue_id": 99990099
+    },
+    {
+        "id": 15604,
+        "name": "Atlético Gloriense",
+        "code": null,
+        "country": "Brazil",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/15604.png",
+        "venue_id": 99990100
+    },
+    {
+        "id": 18298,
+        "name": "América SE",
+        "code": null,
+        "country": "Brazil",
+        "founded": 1942,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/18298.png",
+        "venue_id": 12664
+    },
+    {
+        "id": 18299,
+        "name": "Falcon",
+        "code": null,
+        "country": "Brazil",
+        "founded": 2021,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/18299.png",
+        "venue_id": 99990101
+    },
+    {
+        "id": 22819,
+        "name": "Carmópolis",
+        "code": null,
+        "country": "Brazil",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/22819.png",
+        "venue_id": 99990102
+    },
+    {
+        "id": 22820,
+        "name": "Olímpico SE",
+        "code": null,
+        "country": "Brazil",
+        "founded": 1958,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/22820.png",
+        "venue_id": 20439
     }
 ]
