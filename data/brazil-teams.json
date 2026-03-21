@@ -5880,16 +5880,6 @@
         "venue_id": 20439
     },
     {
-        "id": 437,
-        "name": "Rosario Central",
-        "code": "ROS",
-        "country": "Argentina",
-        "founded": 1889,
-        "national": false,
-        "logo": "https://media.api-sports.io/football/teams/437.png",
-        "venue_id": 19391
-    },
-    {
         "id": 10001,
         "name": "Frei Paulistano",
         "code": null,
@@ -6127,6 +6117,6 @@
         "founded": null,
         "national": false,
         "logo": "https://media.api-sports.io/football/teams/24819.png",
-        "venue_id": 21211
+        "venue_id": 99990110
     }
 ]
