@@ -5728,5 +5728,85 @@
         "national": false,
         "logo": "https://media.api-sports.io/football/teams/12947.png",
         "venue_id": 8264
+    },
+    {
+        "id": 760,
+        "name": "Real",
+        "code": null,
+        "country": "Brazil",
+        "founded": 2011,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/760.png",
+        "venue_id": 7138
+    },
+    {
+        "id": 7821,
+        "name": "Atlético Roraima",
+        "code": null,
+        "country": "Brazil",
+        "founded": 1944,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/7821.png",
+        "venue_id": 270
+    },
+    {
+        "id": 7876,
+        "name": "Náutico RR",
+        "code": "NAU",
+        "country": "Brazil",
+        "founded": 1962,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/7876.png",
+        "venue_id": 5669
+    },
+    {
+        "id": 12916,
+        "name": "GAS",
+        "code": null,
+        "country": "Brazil",
+        "founded": 1965,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/12916.png",
+        "venue_id": 270
+    },
+    {
+        "id": 12917,
+        "name": "Rio Negro RR",
+        "code": null,
+        "country": "Brazil",
+        "founded": 1971,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/12917.png",
+        "venue_id": 270
+    },
+    {
+        "id": 21125,
+        "name": "River RR",
+        "code": null,
+        "country": "Brazil",
+        "founded": 1973,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/21125.png",
+        "venue_id": 264
+    },
+    {
+        "id": 21230,
+        "name": "Progresso",
+        "code": null,
+        "country": "Brazil",
+        "founded": 1959,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/21230.png",
+        "venue_id": 99990098
+    },
+    {
+        "id": 23158,
+        "name": "Monte Roraima",
+        "code": null,
+        "country": "Brazil",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/23158.png",
+        "venue_id": 270
     }
 ]

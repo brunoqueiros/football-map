@@ -3672,5 +3672,29 @@
         "capacity": 8000,
         "latitude": -11.4446571,
         "longitude": -61.4373572
+    },
+    {
+        "id": 7138,
+        "name": "Estádio Raimundo Ribeiro de Souza",
+        "city": "Boa Vista",
+        "capacity": 3300,
+        "latitude": 2.8188449,
+        "longitude": -60.72125399999999
+    },
+    {
+        "id": 5669,
+        "name": "Estádio da Vila Olímpica Roberto Marinho",
+        "city": "Boa Vista",
+        "capacity": 3000,
+        "latitude": 2.8006827,
+        "longitude": -60.73629499999999
+    },
+    {
+        "id": 99990098,
+        "name": "Estádio Municipal de Mucajai",
+        "city": "Mucajaí",
+        "capacity": 1000,
+        "latitude": 2.4481918,
+        "longitude": -60.9215876
     }
 ]
