@@ -2066,22 +2066,6 @@
         "longitude": -51.0933257
     },
     {
-        "id": 99990042,
-        "name": "Estádio Annibal Batista de Toledo",
-        "city": "Aparecida de Goiânia",
-        "capacity": 4800,
-        "latitude": -16.8205068,
-        "longitude": -49.2452797
-    },
-    {
-        "id": 99990043,
-        "name": "Estádio Olímpico Pedro Ludovico Teixeira",
-        "city": "Goiânia",
-        "capacity": 13500,
-        "latitude": -16.6706957,
-        "longitude": -49.2618606
-    },
-    {
         "id": 99990044,
         "name": "Estádio Rio das Pedras",
         "city": "Itaberaí",
