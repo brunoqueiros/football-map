@@ -3832,5 +3832,61 @@
         "capacity": 3500,
         "latitude": -10.8507022,
         "longitude": -37.076212
+    },
+    {
+        "id": 231,
+        "name": "Estádio Artur Marinho",
+        "city": "Corumbá",
+        "capacity": 10000,
+        "latitude": -19.0027758,
+        "longitude": -57.6654388
+    },
+    {
+        "id": 5636,
+        "name": "Estádio Estadual Jacques da Luz",
+        "city": "Campo Grande",
+        "capacity": 4500,
+        "latitude": -20.5604942,
+        "longitude": -54.5763147
+    },
+    {
+        "id": 7040,
+        "name": "Estádio da Noroeste",
+        "city": "Aquidauana",
+        "capacity": 4000,
+        "latitude": -20.4741606,
+        "longitude": -55.7918066
+    },
+    {
+        "id": 7319,
+        "name": "Estádio Luis Saraiva Vieira",
+        "city": "Ivinhema",
+        "capacity": 4600,
+        "latitude": -22.312852,
+        "longitude": -53.82752290000001
+    },
+    {
+        "id": 7818,
+        "name": "Estádio Francisco Chaves Filho",
+        "city": "Itaporã",
+        "capacity": 3000,
+        "latitude": -22.0755012,
+        "longitude": -54.7923237
+    },
+    {
+        "id": 20445,
+        "name": "Estádio Municipal André Borges",
+        "city": "Coxim",
+        "capacity": 3500,
+        "latitude": -18.5047814,
+        "longitude": -54.7532365
+    },
+    {
+        "id": 12674,
+        "name": "Estádio José Candido dos Santos",
+        "city": "Naviraí",
+        "capacity": 4500,
+        "latitude": -23.0568161,
+        "longitude": -54.1909539
     }
 ]
