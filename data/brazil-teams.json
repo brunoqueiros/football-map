@@ -5678,5 +5678,55 @@
         "national": false,
         "logo": "https://media.api-sports.io/football/teams/25123.png",
         "venue_id": 99990097
+    },
+    {
+        "id": 1229,
+        "name": "Genus",
+        "code": "GEN",
+        "country": "Brazil",
+        "founded": 1981,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/1229.png",
+        "venue_id": 2943
+    },
+    {
+        "id": 7823,
+        "name": "Barcelona RO",
+        "code": null,
+        "country": "Brazil",
+        "founded": 2016,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/7823.png",
+        "venue_id": 99990097
+    },
+    {
+        "id": 10675,
+        "name": "Ji-Paraná",
+        "code": null,
+        "country": "Brazil",
+        "founded": 1991,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/10675.png",
+        "venue_id": 7312
+    },
+    {
+        "id": 12281,
+        "name": "Vilhena",
+        "code": "VIL",
+        "country": "Brazil",
+        "founded": 1991,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/12281.png",
+        "venue_id": 7816
+    },
+    {
+        "id": 12947,
+        "name": "União Cacoalense",
+        "code": null,
+        "country": "Brazil",
+        "founded": 1982,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/12947.png",
+        "venue_id": 8264
     }
 ]

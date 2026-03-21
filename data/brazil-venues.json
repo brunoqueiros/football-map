@@ -3632,5 +3632,45 @@
         "capacity": 5000,
         "latitude": -5.6611682,
         "longitude": -37.7970558
+    },
+    {
+        "id": 2943,
+        "name": "Estádio Aluízio Ferreira de Oliveira",
+        "city": "Porto Velho",
+        "capacity": 8000,
+        "latitude": -8.757246,
+        "longitude": -63.9111169
+    },
+    {
+        "id": 99990097,
+        "name": "Estádio Aluízio Ferreira",
+        "city": "Porto Velho",
+        "capacity": 7000,
+        "latitude": -8.757246,
+        "longitude": -63.9111169
+    },
+    {
+        "id": 7312,
+        "name": "Estádio Municipal José de Abreu Bianco",
+        "city": "Ji-Paraná",
+        "capacity": 4400,
+        "latitude": -10.8833177,
+        "longitude": -61.8973334
+    },
+    {
+        "id": 7816,
+        "name": "Estádio Portal da Amazônia",
+        "city": "Vilhena",
+        "capacity": 5000,
+        "latitude": -12.7399674,
+        "longitude": -60.12146329999999
+    },
+    {
+        "id": 8264,
+        "name": "Estádio Municipal Aglair Tonelli Nogueira",
+        "city": "Cacoal",
+        "capacity": 8000,
+        "latitude": -11.4446571,
+        "longitude": -61.4373572
     }
 ]
