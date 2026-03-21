@@ -521,7 +521,7 @@
     },
     {
         "id": 5696,
-        "name": "Estádio João Ribeiro",
+        "name": "Estádio João Ribeiro (Ribeirão)",
         "city": "Tocantinópolis",
         "capacity": 8000,
         "latitude": -6.34275520412243,
@@ -3888,5 +3888,37 @@
         "capacity": 4500,
         "latitude": -23.0568161,
         "longitude": -54.1909539
+    },
+    {
+        "id": 2940,
+        "name": "Estádio Gilberto Resende Rocha",
+        "city": "Gurupi",
+        "capacity": 3000,
+        "latitude": -11.7383196,
+        "longitude": -49.092056
+    },
+    {
+        "id": 5690,
+        "name": "Estádio Castanheirão",
+        "city": "Miracema do Tocantins",
+        "capacity": 2000,
+        "latitude": -9.5773035,
+        "longitude": -48.3918122
+    },
+    {
+        "id": 7824,
+        "name": "Estádio Leôncio de Souza Miranda",
+        "city": "Araguaína",
+        "capacity": 10000,
+        "latitude": -7.2254626,
+        "longitude": -48.2548891
+    },
+    {
+        "id": 22755,
+        "name": "Estádio Batistão",
+        "city": "Luzinópolis",
+        "capacity": 1000,
+        "latitude": -6.188211,
+        "longitude": -47.8584798
     }
 ]

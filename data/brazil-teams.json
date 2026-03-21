@@ -6208,5 +6208,65 @@
         "national": false,
         "logo": "https://media.api-sports.io/football/teams/22828.png",
         "venue_id": 5636
+    },
+    {
+        "id": 1208,
+        "name": "Gurupi",
+        "code": "GUR",
+        "country": "Brazil",
+        "founded": 1988,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/1208.png",
+        "venue_id": 2940
+    },
+    {
+        "id": 7867,
+        "name": "Tocantins Miracema",
+        "code": null,
+        "country": "Brazil",
+        "founded": 1993,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/7867.png",
+        "venue_id": 5690
+    },
+    {
+        "id": 12290,
+        "name": "Araguaína",
+        "code": null,
+        "country": "Brazil",
+        "founded": 1997,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/12290.png",
+        "venue_id": 7824
+    },
+    {
+        "id": 18361,
+        "name": "Bela Vista TO",
+        "code": null,
+        "country": "Brazil",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/18361.png",
+        "venue_id": 22755
+    },
+    {
+        "id": 18362,
+        "name": "União Carmolandense",
+        "code": null,
+        "country": "Brazil",
+        "founded": 1992,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/18362.png",
+        "venue_id": 7824
+    },
+    {
+        "id": 22827,
+        "name": "Batalhão",
+        "code": null,
+        "country": "Brazil",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/22827.png",
+        "venue_id": 257
     }
 ]
