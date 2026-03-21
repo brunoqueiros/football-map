@@ -3736,5 +3736,109 @@
         "capacity": 5000,
         "latitude": -11.276471,
         "longitude": -37.791103
+    },
+    {
+        "id": 19391,
+        "name": "Estadio Gigante de Arroyito",
+        "city": "Rosario",
+        "capacity": 41654,
+        "latitude": -32.9140102,
+        "longitude": -60.6745536
+    },
+    {
+        "id": 99990103,
+        "name": "Estádio Municipal Jairton Menezes de Mendonça (Titão)",
+        "city": "Frei Paulo",
+        "capacity": 4000,
+        "latitude": -10.5431112,
+        "longitude": -37.5288697
+    },
+    {
+        "id": 7318,
+        "name": "Estádio Governador Augusto Franco",
+        "city": "Estância",
+        "capacity": 8639,
+        "latitude": -11.2551326,
+        "longitude": -37.4332703
+    },
+    {
+        "id": 99990104,
+        "name": "Estádio Roberto José Da Silva Peixoto",
+        "city": "Neópolis",
+        "capacity": 600,
+        "latitude": -10.3117741,
+        "longitude": -36.5864552
+    },
+    {
+        "id": 11098,
+        "name": "Estádio Governador Antônio Carlos Valadares",
+        "city": "Maruim",
+        "capacity": 10235,
+        "latitude": -10.7291755,
+        "longitude": -37.0785218
+    },
+    {
+        "id": 21208,
+        "name": "Estádio Municipal Antônio Brejeiro",
+        "city": "Tobias Barreto",
+        "capacity": 7000,
+        "latitude": -11.1864906,
+        "longitude": -37.993209
+    },
+    {
+        "id": 99990105,
+        "name": "Estádio Municipal João Trindade Filho",
+        "city": "Boquim",
+        "capacity": 5000,
+        "latitude": -11.1462843,
+        "longitude": -37.6359114
+    },
+    {
+        "id": 99990106,
+        "name": "Estádio Municipal Geraldo Oliveira",
+        "city": "Cristinápolis",
+        "capacity": 2000,
+        "latitude": -11.4799806,
+        "longitude": -37.7537664
+    },
+    {
+        "id": 21209,
+        "name": "Estádio André Avelino",
+        "city": "Canindé de São Francisco",
+        "capacity": 2200,
+        "latitude": -9.6683881,
+        "longitude": -37.7926801
+    },
+    {
+        "id": 21210,
+        "name": "Estádio Caio Feitosa",
+        "city": "Porto da Folha",
+        "capacity": 3000,
+        "latitude": -10.2212567,
+        "longitude": -36.8406035
+    },
+    {
+        "id": 99990108,
+        "name": "Complexo Desportivo Roberto Goes",
+        "city": "Riachão do Dantas",
+        "capacity": 2000,
+        "latitude": -11.073308,
+        "longitude": -37.7248728
+    },
+    {
+        "id": 99990109,
+        "name": "Estádio Francisco Leite",
+        "city": "Riachuelo",
+        "capacity": 2000,
+        "latitude": -10.7303328,
+        "longitude": -37.1944307
+    },
+    {
+        "id": 21211,
+        "name": "Estádio Wellington Elias",
+        "city": "Nossa Senhora do Socorro",
+        "capacity": 3500,
+        "latitude": -10.8507022,
+        "longitude": -37.076212
     }
 ]

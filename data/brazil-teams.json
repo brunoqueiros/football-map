@@ -5878,5 +5878,255 @@
         "national": false,
         "logo": "https://media.api-sports.io/football/teams/22820.png",
         "venue_id": 20439
+    },
+    {
+        "id": 437,
+        "name": "Rosario Central",
+        "code": "ROS",
+        "country": "Argentina",
+        "founded": 1889,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/437.png",
+        "venue_id": 19391
+    },
+    {
+        "id": 10001,
+        "name": "Frei Paulistano",
+        "code": null,
+        "country": "Brazil",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/10001.png",
+        "venue_id": 99990103
+    },
+    {
+        "id": 10686,
+        "name": "Estanciano",
+        "code": null,
+        "country": "Brazil",
+        "founded": 1956,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/10686.png",
+        "venue_id": 7318
+    },
+    {
+        "id": 13120,
+        "name": "América de Pedrinhas",
+        "code": null,
+        "country": "Brazil",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/13120.png",
+        "venue_id": 99990104
+    },
+    {
+        "id": 13121,
+        "name": "Boca Júnior",
+        "code": null,
+        "country": "Brazil",
+        "founded": 1993,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/13121.png",
+        "venue_id": 7318
+    },
+    {
+        "id": 15605,
+        "name": "Maruinense",
+        "code": null,
+        "country": "Brazil",
+        "founded": 1917,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/15605.png",
+        "venue_id": 11098
+    },
+    {
+        "id": 24801,
+        "name": "Amadense",
+        "code": null,
+        "country": "Brazil",
+        "founded": 1981,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/24801.png",
+        "venue_id": 21208
+    },
+    {
+        "id": 24802,
+        "name": "Aracaju FC",
+        "code": null,
+        "country": "Brazil",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/24802.png",
+        "venue_id": 99990101
+    },
+    {
+        "id": 24803,
+        "name": "Barra SE",
+        "code": null,
+        "country": "Brazil",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/24803.png",
+        "venue_id": 99990104
+    },
+    {
+        "id": 24804,
+        "name": "Boquinhense",
+        "code": null,
+        "country": "Brazil",
+        "founded": 1965,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/24804.png",
+        "venue_id": 99990105
+    },
+    {
+        "id": 24805,
+        "name": "Botafogo ASF",
+        "code": null,
+        "country": "Brazil",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/24805.png",
+        "venue_id": 99990106
+    },
+    {
+        "id": 24806,
+        "name": "Caninde",
+        "code": null,
+        "country": "Brazil",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/24806.png",
+        "venue_id": 21209
+    },
+    {
+        "id": 24807,
+        "name": "Coritiba SE",
+        "code": null,
+        "country": "Brazil",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/24807.png",
+        "venue_id": 245
+    },
+    {
+        "id": 24808,
+        "name": "Cotinguiba",
+        "code": null,
+        "country": "Brazil",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/24808.png",
+        "venue_id": 273
+    },
+    {
+        "id": 24809,
+        "name": "Desportiva Aracaju",
+        "code": null,
+        "country": "Brazil",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/24809.png",
+        "venue_id": 99990107
+    },
+    {
+        "id": 24810,
+        "name": "Flamengo SE",
+        "code": null,
+        "country": "Brazil",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/24810.png",
+        "venue_id": 99990103
+    },
+    {
+        "id": 24811,
+        "name": "Força Jovem SE",
+        "code": null,
+        "country": "Brazil",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/24811.png",
+        "venue_id": 99990099
+    },
+    {
+        "id": 24812,
+        "name": "Guarany SE",
+        "code": null,
+        "country": "Brazil",
+        "founded": 1940,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/24812.png",
+        "venue_id": 21210
+    },
+    {
+        "id": 24813,
+        "name": "Independente Simão Dias",
+        "code": null,
+        "country": "Brazil",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/24813.png",
+        "venue_id": 99990106
+    },
+    {
+        "id": 24814,
+        "name": "Propriá",
+        "code": null,
+        "country": "Brazil",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/24814.png",
+        "venue_id": 99990107
+    },
+    {
+        "id": 24815,
+        "name": "Riachao",
+        "code": null,
+        "country": "Brazil",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/24815.png",
+        "venue_id": 99990108
+    },
+    {
+        "id": 24816,
+        "name": "Santa Cruz SE",
+        "code": null,
+        "country": "Brazil",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/24816.png",
+        "venue_id": 99990109
+    },
+    {
+        "id": 24817,
+        "name": "Sete de Junho",
+        "code": null,
+        "country": "Brazil",
+        "founded": 1983,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/24817.png",
+        "venue_id": 21208
+    },
+    {
+        "id": 24818,
+        "name": "Socorrense",
+        "code": null,
+        "country": "Brazil",
+        "founded": 2005,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/24818.png",
+        "venue_id": 21211
+    },
+    {
+        "id": 24819,
+        "name": "Socorro Sport",
+        "code": null,
+        "country": "Brazil",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/24819.png",
+        "venue_id": 21211
     }
 ]
