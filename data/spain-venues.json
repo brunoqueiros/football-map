@@ -1,0 +1,162 @@
+[
+    {
+        "id": 19939,
+        "name": "Camp Nou",
+        "city": "Barcelona",
+        "capacity": 55926,
+        "latitude": 41.380896,
+        "longitude": 2.1228198
+    },
+    {
+        "id": 19217,
+        "name": "Estádio Cívitas Metropolitano",
+        "city": "Madrid",
+        "capacity": 70460,
+        "latitude": 40.4362323,
+        "longitude": -3.5994819
+    },
+    {
+        "id": 1460,
+        "name": "San Mamés Barria",
+        "city": "Bilbao",
+        "capacity": 53289,
+        "latitude": 43.2641706,
+        "longitude": -2.9493731
+    },
+    {
+        "id": 1497,
+        "name": "Estadio de Mestalla",
+        "city": "Valencia",
+        "capacity": 55000,
+        "latitude": 39.4746556,
+        "longitude": -0.3585902
+    },
+    {
+        "id": 1498,
+        "name": "Estadio de la Cerámica",
+        "city": "Villarreal",
+        "capacity": 24500,
+        "latitude": 39.9438858,
+        "longitude": -0.1031381
+    },
+    {
+        "id": 1481,
+        "name": "Estadio de Gran Canaria",
+        "city": "Las Palmas de Gran Canaria",
+        "capacity": 32392,
+        "latitude": 28.1003684,
+        "longitude": -15.4567013
+    },
+    {
+        "id": 1494,
+        "name": "Estadio Ramón Sánchez Pizjuán",
+        "city": "Sevilla",
+        "capacity": 48649,
+        "latitude": 37.3840863,
+        "longitude": -5.9709778
+    },
+    {
+        "id": 1464,
+        "name": "Estadio Municipal de Butarque",
+        "city": "Leganés",
+        "capacity": 12450,
+        "latitude": 40.3404745,
+        "longitude": -3.7606867
+    },
+    {
+        "id": 1467,
+        "name": "Abanca-Balaídos",
+        "city": "Vigo",
+        "capacity": 31800,
+        "latitude": 42.2119201,
+        "longitude": -8.73974
+    },
+    {
+        "id": 20421,
+        "name": "Stage Front Stadium",
+        "city": "Cornella de Llobregat",
+        "capacity": 40423,
+        "latitude": 41.3481402,
+        "longitude": 2.0745609
+    },
+    {
+        "id": 1456,
+        "name": "Estadio Santiago Bernabéu",
+        "city": "Madrid",
+        "capacity": 85454,
+        "latitude": 40.4530196,
+        "longitude": -3.6883748
+    },
+    {
+        "id": 1470,
+        "name": "Estadio de Mendizorroza",
+        "city": "Vitoria-Gasteiz",
+        "capacity": 19840,
+        "latitude": 42.83708559999999,
+        "longitude": -2.6882403
+    },
+    {
+        "id": 1489,
+        "name": "Estadio Benito Villamarín",
+        "city": "Sevilla",
+        "capacity": 60721,
+        "latitude": 37.3564922,
+        "longitude": -5.9817117
+    },
+    {
+        "id": 20422,
+        "name": "Estadio Coliseum",
+        "city": "Getafe",
+        "capacity": 17393,
+        "latitude": 40.3257337,
+        "longitude": -3.7149224
+    },
+    {
+        "id": 1478,
+        "name": "Estadi Municipal de Montilivi",
+        "city": "Girona",
+        "capacity": 14500,
+        "latitude": 41.9610546,
+        "longitude": 2.8277552
+    },
+    {
+        "id": 1491,
+        "name": "Reale Arena",
+        "city": "Donostia-San Sebastián",
+        "capacity": 40000,
+        "latitude": 43.3013668,
+        "longitude": -1.9735868
+    },
+    {
+        "id": 1492,
+        "name": "Estadio Municipal José Zorrilla",
+        "city": "Valladolid",
+        "capacity": 26512,
+        "latitude": 41.6445864,
+        "longitude": -4.761241900000001
+    },
+    {
+        "id": 1486,
+        "name": "Estadio El Sadar",
+        "city": "Iruñea",
+        "capacity": 23576,
+        "latitude": 42.7966918,
+        "longitude": -1.6371198
+    },
+    {
+        "id": 1488,
+        "name": "Estadio de Vallecas",
+        "city": "Madrid",
+        "capacity": 15500,
+        "latitude": 40.3918305,
+        "longitude": -3.6585975
+    },
+    {
+        "id": 19940,
+        "name": "Estadi Mallorca Son Moix",
+        "city": "Palma de Mallorca",
+        "capacity": 23142,
+        "latitude": 39.589952,
+        "longitude": 2.63005
+    }
+]
