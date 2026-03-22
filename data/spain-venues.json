@@ -1486,5 +1486,149 @@
         "capacity": 2000,
         "latitude": 42.4420006,
         "longitude": -8.8359399
+    },
+    {
+        "id": 5787,
+        "name": "Campo de La Corredoria",
+        "city": "Posada de Llanes",
+        "capacity": 1700,
+        "latitude": 43.4250068,
+        "longitude": -4.8563518
+    },
+    {
+        "id": 6498,
+        "name": "Estadio Las Callejas",
+        "city": "Villaviciosa",
+        "capacity": 3000,
+        "latitude": 43.4859494,
+        "longitude": -5.4320486
+    },
+    {
+        "id": 6670,
+        "name": "Estadio El Requexón",
+        "city": "Oviedo",
+        "capacity": 3000,
+        "latitude": 43.4150214,
+        "longitude": -5.8235183
+    },
+    {
+        "id": 6671,
+        "name": "Escuela de Fútbol de Mareo",
+        "city": "Gijón",
+        "capacity": 3000,
+        "latitude": 43.49595679999999,
+        "longitude": -5.681742
+    },
+    {
+        "id": 6711,
+        "name": "Estadio Municipal Hermanos Antuña",
+        "city": "Mieres del Camino",
+        "capacity": 7500,
+        "latitude": 43.2565784,
+        "longitude": -5.7802503
+    },
+    {
+        "id": 6712,
+        "name": "Estadio La Cruz",
+        "city": "Gijón",
+        "capacity": 1500,
+        "latitude": 43.5293112,
+        "longitude": -5.6553683
+    },
+    {
+        "id": 6713,
+        "name": "Estadio Santianes",
+        "city": "Colunga",
+        "capacity": 1000,
+        "latitude": 43.490791,
+        "longitude": -5.268672599999999
+    },
+    {
+        "id": 6714,
+        "name": "Estadio Alejandro Ortea",
+        "city": "Noreña",
+        "capacity": 2000,
+        "latitude": 43.3920232,
+        "longitude": -5.7043361
+    },
+    {
+        "id": 6715,
+        "name": "Estadio Juan Antonio Alvarez Rabanal",
+        "city": "Oviedo",
+        "capacity": 2000,
+        "latitude": 43.3783739,
+        "longitude": -5.8364157
+    },
+    {
+        "id": 6717,
+        "name": "Estadio Nuevo Nalón",
+        "city": "El Entrego",
+        "capacity": 1200,
+        "latitude": 43.2872703,
+        "longitude": -5.6480063
+    },
+    {
+        "id": 12698,
+        "name": "Estadio ALTOSDEMONTECERRAO.COM - El Sotón",
+        "city": "Pola de Lena",
+        "capacity": 3000,
+        "latitude": 43.1492586,
+        "longitude": -5.823551800000001
+    },
+    {
+        "id": 6721,
+        "name": "Estadio Marqués de La Vega de Anzo",
+        "city": "Grado",
+        "capacity": 4000,
+        "latitude": 43.3828209,
+        "longitude": -6.075706299999999
+    },
+    {
+        "id": 6723,
+        "name": "Estadio Santa Catalina",
+        "city": "Pravia",
+        "capacity": 2000,
+        "latitude": 43.494573,
+        "longitude": -6.1173034
+    },
+    {
+        "id": 6725,
+        "name": "Estadio El Florán",
+        "city": "San Martín del Rey Aurelio",
+        "capacity": 5000,
+        "latitude": 43.2753985,
+        "longitude": -5.5951001
+    },
+    {
+        "id": 6727,
+        "name": "Estadio El Candín",
+        "city": "Tuilla",
+        "capacity": 2800,
+        "latitude": 42.557376,
+        "longitude": -6.5998646
+    },
+    {
+        "id": 10997,
+        "name": "Campo Muro de Zaro",
+        "city": "Avilés",
+        "capacity": 5352,
+        "latitude": 43.54731169999999,
+        "longitude": -5.89848
+    },
+    {
+        "id": 10998,
+        "name": "Estadio De Fútbol Las Tolvas",
+        "city": "Pola de Laviana",
+        "capacity": 1500,
+        "latitude": 43.251985,
+        "longitude": -5.5675129
+    },
+    {
+        "id": 12302,
+        "name": "Campo de Fútbol Covadonga",
+        "city": "Gijón",
+        "capacity": 1000,
+        "latitude": 43.5194193,
+        "longitude": -5.675621
     }
 ]

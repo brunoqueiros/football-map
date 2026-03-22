@@ -1898,5 +1898,185 @@
         "national": false,
         "logo": "https://media.api-sports.io/football/teams/24610.png",
         "venue_id": 21102
+    },
+    {
+        "id": 8166,
+        "name": "Urraca",
+        "code": null,
+        "country": "Spain",
+        "founded": 1949,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/8166.png",
+        "venue_id": 5787
+    },
+    {
+        "id": 9396,
+        "name": "Lealtad",
+        "code": null,
+        "country": "Spain",
+        "founded": 1916,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/9396.png",
+        "venue_id": 6498
+    },
+    {
+        "id": 9576,
+        "name": "Real Oviedo II",
+        "code": null,
+        "country": "Spain",
+        "founded": 1943,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/9576.png",
+        "venue_id": 6670
+    },
+    {
+        "id": 9577,
+        "name": "Sporting Gijón II",
+        "code": null,
+        "country": "Spain",
+        "founded": 1955,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/9577.png",
+        "venue_id": 6671
+    },
+    {
+        "id": 9619,
+        "name": "Caudal",
+        "code": "CAU",
+        "country": "Spain",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/9619.png",
+        "venue_id": 6711
+    },
+    {
+        "id": 9620,
+        "name": "Ceares",
+        "code": null,
+        "country": "Spain",
+        "founded": 1946,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/9620.png",
+        "venue_id": 6712
+    },
+    {
+        "id": 9621,
+        "name": "Colunga",
+        "code": null,
+        "country": "Spain",
+        "founded": 1934,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/9621.png",
+        "venue_id": 6713
+    },
+    {
+        "id": 9622,
+        "name": "Condal",
+        "code": null,
+        "country": "Spain",
+        "founded": 1940,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/9622.png",
+        "venue_id": 6714
+    },
+    {
+        "id": 9623,
+        "name": "Covadonga",
+        "code": "VAD",
+        "country": "Spain",
+        "founded": 1979,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/9623.png",
+        "venue_id": 6715
+    },
+    {
+        "id": 9625,
+        "name": "L'Entregu",
+        "code": null,
+        "country": "Spain",
+        "founded": 1939,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/9625.png",
+        "venue_id": 6717
+    },
+    {
+        "id": 9626,
+        "name": "Lenense",
+        "code": null,
+        "country": "Spain",
+        "founded": 1953,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/9626.png",
+        "venue_id": 12698
+    },
+    {
+        "id": 9629,
+        "name": "Mosconia",
+        "code": null,
+        "country": "Spain",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/9629.png",
+        "venue_id": 6721
+    },
+    {
+        "id": 9631,
+        "name": "Praviano",
+        "code": null,
+        "country": "Spain",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/9631.png",
+        "venue_id": 6723
+    },
+    {
+        "id": 9633,
+        "name": "San Martín",
+        "code": null,
+        "country": "Spain",
+        "founded": 1950,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/9633.png",
+        "venue_id": 6725
+    },
+    {
+        "id": 9635,
+        "name": "Tuilla",
+        "code": null,
+        "country": "Spain",
+        "founded": 1952,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/9635.png",
+        "venue_id": 6727
+    },
+    {
+        "id": 15333,
+        "name": "Avilés Stadium",
+        "code": null,
+        "country": "Spain",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/15333.png",
+        "venue_id": 10997
+    },
+    {
+        "id": 15334,
+        "name": "Real Titánico",
+        "code": null,
+        "country": "Spain",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/15334.png",
+        "venue_id": 10998
+    },
+    {
+        "id": 17581,
+        "name": "Roces",
+        "code": null,
+        "country": "Spain",
+        "founded": 1950,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/17581.png",
+        "venue_id": 12302
     }
 ]
