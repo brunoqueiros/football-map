@@ -190,5 +190,117 @@
         "capacity": 5200,
         "latitude": 52.4549663,
         "longitude": 4.63413
+    },
+    {
+        "id": 2901,
+        "name": "Van Donge & De Roo Stadion",
+        "city": "Rotterdam",
+        "capacity": 4500,
+        "latitude": 51.9173148,
+        "longitude": 4.5198874
+    },
+    {
+        "id": 1155,
+        "name": "GelreDome",
+        "city": "Arnhem",
+        "capacity": 25500,
+        "latitude": 51.9628862,
+        "longitude": 5.892918799999999
+    },
+    {
+        "id": 1158,
+        "name": "Covebo Stadion - De Koel -",
+        "city": "Venlo",
+        "capacity": 8000,
+        "latitude": 51.3519295,
+        "longitude": 6.179766
+    },
+    {
+        "id": 10504,
+        "name": "De Oude Meerdijk",
+        "city": "Emmen",
+        "capacity": 8600,
+        "latitude": 52.7746788,
+        "longitude": 6.9447348
+    },
+    {
+        "id": 12681,
+        "name": "PSV Campus De Herdgang",
+        "city": "Eindhoven",
+        "capacity": 4000,
+        "latitude": 51.458911,
+        "longitude": 5.439284
+    },
+    {
+        "id": 1138,
+        "name": "De Geusselt",
+        "city": "Maastricht",
+        "capacity": 10000,
+        "latitude": 50.8574777,
+        "longitude": 5.717825599999999
+    },
+    {
+        "id": 1146,
+        "name": "Parkstad Limburg Stadion",
+        "city": "Kerkrade",
+        "capacity": 19979,
+        "latitude": 50.85702939999999,
+        "longitude": 6.0058596
+    },
+    {
+        "id": 1156,
+        "name": "Kras Stadion",
+        "city": "Volendam",
+        "capacity": 7384,
+        "latitude": 52.49443609999999,
+        "longitude": 5.0662382
+    },
+    {
+        "id": 1136,
+        "name": "AFAS Trainingscomplex",
+        "city": "Wijdewormer",
+        "capacity": 3000,
+        "latitude": 52.4736233,
+        "longitude": 4.846655300000001
+    },
+    {
+        "id": 1126,
+        "name": "Jan Louwers Stadion",
+        "city": "Eindhoven",
+        "capacity": 5400,
+        "latitude": 51.411706,
+        "longitude": 5.4784552
+    },
+    {
+        "id": 1142,
+        "name": "Frans Heesen Stadion",
+        "city": "Oss",
+        "capacity": 4700,
+        "latitude": 51.75477,
+        "longitude": 5.527604
+    },
+    {
+        "id": 19214,
+        "name": "GS Staalwerken Stadion",
+        "city": "Helmond",
+        "capacity": 4200,
+        "latitude": 51.48558939999999,
+        "longitude": 5.675454999999999
+    },
+    {
+        "id": 1135,
+        "name": "Sportpark De Toekomst",
+        "city": "Amsterdam-Duivendrecht",
+        "capacity": 5000,
+        "latitude": 52.3128702,
+        "longitude": 4.9284328
+    },
+    {
+        "id": 12600,
+        "name": "Sportcomplex Zoudenbalch",
+        "city": "Utrecht",
+        "capacity": 1014,
+        "latitude": 52.07449150000001,
+        "longitude": 5.1466236
     }
 ]

@@ -238,5 +238,145 @@
         "national": false,
         "logo": "https://media.api-sports.io/football/teams/427.png",
         "venue_id": 20187
+    },
+    {
+        "id": 196,
+        "name": "Excelsior",
+        "code": "EXC",
+        "country": "Netherlands",
+        "founded": 1902,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/196.png",
+        "venue_id": 2901
+    },
+    {
+        "id": 200,
+        "name": "Vitesse",
+        "code": "VIT",
+        "country": "Netherlands",
+        "founded": 1892,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/200.png",
+        "venue_id": 1155
+    },
+    {
+        "id": 204,
+        "name": "VVV Venlo",
+        "code": "VEN",
+        "country": "Netherlands",
+        "founded": 1954,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/204.png",
+        "venue_id": 1158
+    },
+    {
+        "id": 208,
+        "name": "Emmen",
+        "code": "EMM",
+        "country": "Netherlands",
+        "founded": 1985,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/208.png",
+        "venue_id": 10504
+    },
+    {
+        "id": 411,
+        "name": "Jong PSV U21",
+        "code": "JON",
+        "country": "Netherlands",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/411.png",
+        "venue_id": 12681
+    },
+    {
+        "id": 412,
+        "name": "MVV",
+        "code": "MAA",
+        "country": "Netherlands",
+        "founded": 1902,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/412.png",
+        "venue_id": 1138
+    },
+    {
+        "id": 414,
+        "name": "Roda",
+        "code": "ROD",
+        "country": "Netherlands",
+        "founded": 1962,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/414.png",
+        "venue_id": 1146
+    },
+    {
+        "id": 416,
+        "name": "FC Volendam",
+        "code": "VOL",
+        "country": "Netherlands",
+        "founded": 1920,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/416.png",
+        "venue_id": 1156
+    },
+    {
+        "id": 418,
+        "name": "Jong AZ",
+        "code": null,
+        "country": "Netherlands",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/418.png",
+        "venue_id": 1136
+    },
+    {
+        "id": 422,
+        "name": "FC Eindhoven",
+        "code": "EIN",
+        "country": "Netherlands",
+        "founded": 1909,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/422.png",
+        "venue_id": 1126
+    },
+    {
+        "id": 423,
+        "name": "FC OSS",
+        "code": "FCO",
+        "country": "Netherlands",
+        "founded": 1928,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/423.png",
+        "venue_id": 1142
+    },
+    {
+        "id": 424,
+        "name": "Helmond Sport",
+        "code": "HEL",
+        "country": "Netherlands",
+        "founded": 1967,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/424.png",
+        "venue_id": 19214
+    },
+    {
+        "id": 425,
+        "name": "Jong Ajax",
+        "code": "JON",
+        "country": "Netherlands",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/425.png",
+        "venue_id": 1135
+    },
+    {
+        "id": 428,
+        "name": "Jong Utrecht",
+        "code": null,
+        "country": "Netherlands",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/428.png",
+        "venue_id": 12600
     }
 ]
