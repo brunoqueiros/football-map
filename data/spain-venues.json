@@ -926,5 +926,149 @@
         "capacity": 1000,
         "latitude": 43.1759452,
         "longitude": -2.4683427
+    },
+    {
+        "id": 1466,
+        "name": "Camp Municipal de Futbol Nou Sardenya",
+        "city": "Barcelona",
+        "capacity": 7000,
+        "latitude": 41.4117301,
+        "longitude": 2.1615738
+    },
+    {
+        "id": 3964,
+        "name": "Estadi Municipal de Badalona",
+        "city": "Badalona",
+        "capacity": 4384,
+        "latitude": 41.4553122,
+        "longitude": 2.23715
+    },
+    {
+        "id": 3972,
+        "name": "Campo Nuevo Municipal de Cornella",
+        "city": "Cornella de Llobregat",
+        "capacity": 2000,
+        "latitude": 41.3476309,
+        "longitude": 2.0735524
+    },
+    {
+        "id": 3980,
+        "name": "Camp d'Esports de Lleida",
+        "city": "Lleida",
+        "capacity": 13031,
+        "latitude": 41.6212978,
+        "longitude": 0.6142732
+    },
+    {
+        "id": 3991,
+        "name": "Camp Municipal Narcís Sala",
+        "city": "Barcelona",
+        "capacity": 6563,
+        "latitude": 41.4288822,
+        "longitude": 2.1930871
+    },
+    {
+        "id": 12462,
+        "name": "Camp Municipal Sa Plana",
+        "city": "Andratx",
+        "capacity": 5000,
+        "latitude": 39.5715767,
+        "longitude": 2.4125156
+    },
+    {
+        "id": 6483,
+        "name": "Estadio Balear",
+        "city": "Palma de Mallorca",
+        "capacity": 6000,
+        "latitude": 39.5741283,
+        "longitude": 2.6774635
+    },
+    {
+        "id": 6504,
+        "name": "Camp Municipal d'Olot",
+        "city": "Olot",
+        "capacity": 6000,
+        "latitude": 42.1894464,
+        "longitude": 2.4757272
+    },
+    {
+        "id": 6506,
+        "name": "Campo Municipal del Santa Eulalia del Río",
+        "city": "Ibiza",
+        "capacity": 1500,
+        "latitude": 38.9252143,
+        "longitude": 1.4561285
+    },
+    {
+        "id": 6683,
+        "name": "Ciutat Esportiva Dani Jarque",
+        "city": "San Adrián de Besós",
+        "capacity": 6000,
+        "latitude": 41.4261665,
+        "longitude": 2.2121362
+    },
+    {
+        "id": 6686,
+        "name": "Estadi de la Nova Creu Alta",
+        "city": "Sabadell",
+        "capacity": 14950,
+        "latitude": 41.5546736,
+        "longitude": 2.0911832
+    },
+    {
+        "id": 12312,
+        "name": "Estadio Antonio Puchades (Ciudad Deportiva Valencia)",
+        "city": "Paterna",
+        "capacity": 3500,
+        "latitude": 39.2172375,
+        "longitude": -0.3023079
+    },
+    {
+        "id": 6772,
+        "name": "Estadi Olímpic de Terrassa",
+        "city": "Terrassa",
+        "capacity": 11500,
+        "latitude": 41.5761112,
+        "longitude": 2.0102954
+    },
+    {
+        "id": 6778,
+        "name": "Estadio Luis Suñer Picó",
+        "city": "Alzira",
+        "capacity": 8000,
+        "latitude": 39.1668115,
+        "longitude": -0.4311812
+    },
+    {
+        "id": 6782,
+        "name": "Estadio José Díez Iborra (Ciudad Deportiva de Elche)",
+        "city": "Elche",
+        "capacity": 2000,
+        "latitude": 38.2731648,
+        "longitude": -0.6768105
+    },
+    {
+        "id": 12463,
+        "name": "Estadio Can Misses - Power Electronic",
+        "city": "Ibiza",
+        "capacity": 6500,
+        "latitude": 38.9139282,
+        "longitude": 1.4157596
+    },
+    {
+        "id": 6865,
+        "name": "Estadi Son Bibiloni (Antonio Asensio)",
+        "city": "Palma de Mallorca",
+        "capacity": 1500,
+        "latitude": 39.6451791,
+        "longitude": 2.6667109
+    },
+    {
+        "id": 11014,
+        "name": "Estadio San Gregorio",
+        "city": "Torrent",
+        "capacity": 4000,
+        "latitude": 39.4315832,
+        "longitude": -0.479955
     }
 ]

@@ -1178,5 +1178,185 @@
         "national": false,
         "logo": "https://media.api-sports.io/football/teams/24572.png",
         "venue_id": 21289
+    },
+    {
+        "id": 593,
+        "name": "Europa Fc",
+        "code": null,
+        "country": "Spain",
+        "founded": 1907,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/593.png",
+        "venue_id": 1466
+    },
+    {
+        "id": 5250,
+        "name": "Badalona",
+        "code": "BAD",
+        "country": "Spain",
+        "founded": 1903,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/5250.png",
+        "venue_id": 3964
+    },
+    {
+        "id": 5258,
+        "name": "Cornellà",
+        "code": null,
+        "country": "Spain",
+        "founded": 1951,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/5258.png",
+        "venue_id": 3972
+    },
+    {
+        "id": 5266,
+        "name": "Lleida Esportiu",
+        "code": "LLE",
+        "country": "Spain",
+        "founded": 2011,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/5266.png",
+        "venue_id": 3980
+    },
+    {
+        "id": 5277,
+        "name": "Sant Andreu",
+        "code": "SAN",
+        "country": "Spain",
+        "founded": 1909,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/5277.png",
+        "venue_id": 3991
+    },
+    {
+        "id": 8151,
+        "name": "Andratx",
+        "code": null,
+        "country": "Spain",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/8151.png",
+        "venue_id": 12462
+    },
+    {
+        "id": 9381,
+        "name": "Atlético Baleares",
+        "code": "BAL",
+        "country": "Spain",
+        "founded": 1942,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/9381.png",
+        "venue_id": 6483
+    },
+    {
+        "id": 9403,
+        "name": "Olot",
+        "code": null,
+        "country": "Spain",
+        "founded": 1921,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/9403.png",
+        "venue_id": 6504
+    },
+    {
+        "id": 9405,
+        "name": "Peña Deportiva",
+        "code": null,
+        "country": "Spain",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/9405.png",
+        "venue_id": 6506
+    },
+    {
+        "id": 9590,
+        "name": "Espanyol II",
+        "code": "ESP",
+        "country": "Spain",
+        "founded": 1900,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/9590.png",
+        "venue_id": 6683
+    },
+    {
+        "id": 9593,
+        "name": "Sabadell",
+        "code": "SAB",
+        "country": "Spain",
+        "founded": 1903,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/9593.png",
+        "venue_id": 6686
+    },
+    {
+        "id": 9594,
+        "name": "Valencia II",
+        "code": "VAL",
+        "country": "Spain",
+        "founded": 1919,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/9594.png",
+        "venue_id": 12312
+    },
+    {
+        "id": 9681,
+        "name": "Terrassa",
+        "code": null,
+        "country": "Spain",
+        "founded": 1906,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/9681.png",
+        "venue_id": 6772
+    },
+    {
+        "id": 9687,
+        "name": "Alzira",
+        "code": null,
+        "country": "Spain",
+        "founded": 1922,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/9687.png",
+        "venue_id": 6778
+    },
+    {
+        "id": 9691,
+        "name": "Elche II",
+        "code": "ELC",
+        "country": "Spain",
+        "founded": 1932,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/9691.png",
+        "venue_id": 6782
+    },
+    {
+        "id": 9781,
+        "name": "Ibiza Islas Pitiusas",
+        "code": null,
+        "country": "Spain",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/9781.png",
+        "venue_id": 12463
+    },
+    {
+        "id": 9783,
+        "name": "Mallorca II",
+        "code": null,
+        "country": "Spain",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/9783.png",
+        "venue_id": 6865
+    },
+    {
+        "id": 15348,
+        "name": "Torrent",
+        "code": null,
+        "country": "Spain",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/15348.png",
+        "venue_id": 11014
     }
 ]
