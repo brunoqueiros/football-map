@@ -614,5 +614,117 @@
         "capacity": 2500,
         "latitude": 51.86036420000001,
         "longitude": 4.4852566
+    },
+    {
+        "id": 2862,
+        "name": "Sportpark De Vinken",
+        "city": "Bunschoten",
+        "capacity": 2100,
+        "latitude": 52.2332476,
+        "longitude": 5.3637592
+    },
+    {
+        "id": 1125,
+        "name": "Sportpark Zuid DVS '33",
+        "city": "Ermelo",
+        "capacity": 5000,
+        "latitude": 52.2918974,
+        "longitude": 5.620790299999999
+    },
+    {
+        "id": 1150,
+        "name": "Sportpark De Vormt",
+        "city": "Urk",
+        "capacity": 4500,
+        "latitude": 52.680798,
+        "longitude": 5.617555599999999
+    },
+    {
+        "id": 1789,
+        "name": "Sportpark De Lok",
+        "city": "Tiel",
+        "capacity": 2500,
+        "latitude": 51.8972223,
+        "longitude": 5.4335491
+    },
+    {
+        "id": 2893,
+        "name": "Sportpark Voordorp (USV Hercules)",
+        "city": "Utrecht",
+        "capacity": 1800,
+        "latitude": 52.1072581,
+        "longitude": 5.1480902
+    },
+    {
+        "id": 2885,
+        "name": "Sportpark De Wetering",
+        "city": "Genemuiden",
+        "capacity": 5900,
+        "latitude": 52.6166806,
+        "longitude": 6.0381766
+    },
+    {
+        "id": 2882,
+        "name": "Sportpark De Ebbenhorst",
+        "city": "Nijkerk",
+        "capacity": 5350,
+        "latitude": 52.2234783,
+        "longitude": 5.4989
+    },
+    {
+        "id": 1797,
+        "name": "Sportpark De Westmaat (IJsselmeervogels)",
+        "city": "Bunschoten-Spakenburg",
+        "capacity": 8500,
+        "latitude": 52.2573364,
+        "longitude": 5.3776566
+    },
+    {
+        "id": 2900,
+        "name": "Sportpark Groot Scholtenhagen",
+        "city": "Haaksbergen",
+        "capacity": 4440,
+        "latitude": 52.1486745,
+        "longitude": 6.727868099999999
+    },
+    {
+        "id": 2896,
+        "name": "Sportpark De Wolfskamer (SV Huizen)",
+        "city": "Huizen",
+        "capacity": 5200,
+        "latitude": 52.3078903,
+        "longitude": 5.2373591
+    },
+    {
+        "id": 4635,
+        "name": "Sportpark Adrichem (DEM)",
+        "city": "Beverwijk",
+        "capacity": 1800,
+        "latitude": 52.48699939999999,
+        "longitude": 4.6723143
+    },
+    {
+        "id": 4638,
+        "name": "Sportpark De Koerbelt",
+        "city": "Rijssen",
+        "capacity": 4150,
+        "latitude": 52.2956015,
+        "longitude": 6.523321699999999
+    },
+    {
+        "id": 4643,
+        "name": "Sportpark Tijenraan",
+        "city": "Raalte",
+        "capacity": 4500,
+        "latitude": 52.3960766,
+        "longitude": 6.2665301
+    },
+    {
+        "id": 21114,
+        "name": "Sportpark HBC",
+        "city": "Heemstede",
+        "capacity": 2500,
+        "latitude": 52.3443722,
+        "longitude": 4.633245899999999
     }
 ]

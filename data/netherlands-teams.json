@@ -778,5 +778,155 @@
         "national": false,
         "logo": "https://media.api-sports.io/football/teams/21423.png",
         "venue_id": 19748
+    },
+    {
+        "id": 1235,
+        "name": "Eemdijk",
+        "code": null,
+        "country": "Netherlands",
+        "founded": 1979,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/1235.png",
+        "venue_id": 2862
+    },
+    {
+        "id": 1244,
+        "name": "DVS 33 Ermelo",
+        "code": null,
+        "country": "Netherlands",
+        "founded": 1933,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/1244.png",
+        "venue_id": 1125
+    },
+    {
+        "id": 1253,
+        "name": "URK",
+        "code": null,
+        "country": "Netherlands",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/1253.png",
+        "venue_id": 1150
+    },
+    {
+        "id": 1255,
+        "name": "TEC",
+        "code": null,
+        "country": "Netherlands",
+        "founded": 1924,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/1255.png",
+        "venue_id": 1789
+    },
+    {
+        "id": 1264,
+        "name": "Hercules",
+        "code": null,
+        "country": "Netherlands",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/1264.png",
+        "venue_id": 2893
+    },
+    {
+        "id": 1266,
+        "name": "Ajax Amateurs",
+        "code": "MAT",
+        "country": "Netherlands",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/1266.png",
+        "venue_id": 1135
+    },
+    {
+        "id": 1273,
+        "name": "SC Genemuiden",
+        "code": null,
+        "country": "Netherlands",
+        "founded": 1930,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/1273.png",
+        "venue_id": 2885
+    },
+    {
+        "id": 1274,
+        "name": "Sparta Nijkerk",
+        "code": null,
+        "country": "Netherlands",
+        "founded": 1931,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/1274.png",
+        "venue_id": 2882
+    },
+    {
+        "id": 1280,
+        "name": "Ijsselmeervogels",
+        "code": "IJS",
+        "country": "Netherlands",
+        "founded": 1932,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/1280.png",
+        "venue_id": 1797
+    },
+    {
+        "id": 1281,
+        "name": "Hsc 21",
+        "code": null,
+        "country": "Netherlands",
+        "founded": 1921,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/1281.png",
+        "venue_id": 2900
+    },
+    {
+        "id": 1290,
+        "name": "Huizen",
+        "code": null,
+        "country": "Netherlands",
+        "founded": 1927,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/1290.png",
+        "venue_id": 2896
+    },
+    {
+        "id": 6260,
+        "name": "DEM",
+        "code": null,
+        "country": "Netherlands",
+        "founded": 1922,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/6260.png",
+        "venue_id": 4635
+    },
+    {
+        "id": 6263,
+        "name": "Excelsior '31",
+        "code": "EXC",
+        "country": "Netherlands",
+        "founded": 1931,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/6263.png",
+        "venue_id": 4638
+    },
+    {
+        "id": 6269,
+        "name": "ROHDA Raalte",
+        "code": null,
+        "country": "Netherlands",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/6269.png",
+        "venue_id": 4643
+    },
+    {
+        "id": 23712,
+        "name": "HBC",
+        "code": null,
+        "country": "Netherlands",
+        "founded": 1902,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/23712.png",
+        "venue_id": 21114
     }
 ]
