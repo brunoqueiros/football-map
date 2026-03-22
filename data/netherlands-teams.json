@@ -928,5 +928,245 @@
         "national": false,
         "logo": "https://media.api-sports.io/football/teams/23712.png",
         "venue_id": 21114
+    },
+    {
+        "id": 1256,
+        "name": "ONS Sneek",
+        "code": null,
+        "country": "Netherlands",
+        "founded": 1932,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/1256.png",
+        "venue_id": 2873
+    },
+    {
+        "id": 1262,
+        "name": "SDC Putten",
+        "code": null,
+        "country": "Netherlands",
+        "founded": 1952,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/1262.png",
+        "venue_id": 21112
+    },
+    {
+        "id": 1270,
+        "name": "Capelle",
+        "code": "CAP",
+        "country": "Netherlands",
+        "founded": 1930,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/1270.png",
+        "venue_id": 2884
+    },
+    {
+        "id": 1282,
+        "name": "Achilles Veen",
+        "code": null,
+        "country": "Netherlands",
+        "founded": 1944,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/1282.png",
+        "venue_id": 2895
+    },
+    {
+        "id": 1286,
+        "name": "EVV",
+        "code": null,
+        "country": "Netherlands",
+        "founded": 1926,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/1286.png",
+        "venue_id": 2861
+    },
+    {
+        "id": 3899,
+        "name": "Quick '20",
+        "code": null,
+        "country": "Netherlands",
+        "founded": 1920,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/3899.png",
+        "venue_id": 2959
+    },
+    {
+        "id": 3919,
+        "name": "Olde Veste '54",
+        "code": null,
+        "country": "Netherlands",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/3919.png",
+        "venue_id": 2976
+    },
+    {
+        "id": 3929,
+        "name": "Juliana '31",
+        "code": null,
+        "country": "Netherlands",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/3929.png",
+        "venue_id": 2985
+    },
+    {
+        "id": 3938,
+        "name": "UDI '19",
+        "code": null,
+        "country": "Netherlands",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/3938.png",
+        "venue_id": 2994
+    },
+    {
+        "id": 14234,
+        "name": "Hollandia",
+        "code": null,
+        "country": "Netherlands",
+        "founded": 1898,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/14234.png",
+        "venue_id": 19772
+    },
+    {
+        "id": 21422,
+        "name": "RKAVV",
+        "code": null,
+        "country": "Netherlands",
+        "founded": 1922,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/21422.png",
+        "venue_id": 19747
+    },
+    {
+        "id": 21635,
+        "name": "Blauw Wit '34",
+        "code": null,
+        "country": "Netherlands",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/21635.png",
+        "venue_id": 21113
+    },
+    {
+        "id": 21645,
+        "name": "Zwaluw VFC",
+        "code": null,
+        "country": "Netherlands",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/21645.png",
+        "venue_id": 99990116
+    },
+    {
+        "id": 24626,
+        "name": "DAW Schaijk",
+        "code": null,
+        "country": "Netherlands",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/24626.png",
+        "venue_id": 99990115
+    },
+    {
+        "id": 24627,
+        "name": "De Bilt",
+        "code": null,
+        "country": "Netherlands",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/24627.png",
+        "venue_id": 99990114
+    },
+    {
+        "id": 24628,
+        "name": "Elinkwijk",
+        "code": null,
+        "country": "Netherlands",
+        "founded": 0,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/24628.png",
+        "venue_id": 21115
+    },
+    {
+        "id": 24629,
+        "name": "Forum Sport",
+        "code": null,
+        "country": "Netherlands",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/24629.png",
+        "venue_id": 99990113
+    },
+    {
+        "id": 24630,
+        "name": "Geldrop",
+        "code": null,
+        "country": "Netherlands",
+        "founded": 1926,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/24630.png",
+        "venue_id": 21116
+    },
+    {
+        "id": 24631,
+        "name": "Heerjansdam",
+        "code": null,
+        "country": "Netherlands",
+        "founded": 1945,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/24631.png",
+        "venue_id": 21118
+    },
+    {
+        "id": 24632,
+        "name": "Kolping Boys",
+        "code": null,
+        "country": "Netherlands",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/24632.png",
+        "venue_id": 99990112
+    },
+    {
+        "id": 24633,
+        "name": "Laar",
+        "code": null,
+        "country": "Netherlands",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/24633.png",
+        "venue_id": 99990111
+    },
+    {
+        "id": 24634,
+        "name": "Poortugaal",
+        "code": null,
+        "country": "Netherlands",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/24634.png",
+        "venue_id": 21804
+    },
+    {
+        "id": 24635,
+        "name": "SVBO",
+        "code": null,
+        "country": "Netherlands",
+        "founded": 1945,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/24635.png",
+        "venue_id": 21119
+    },
+    {
+        "id": 24636,
+        "name": "Winterswijk",
+        "code": null,
+        "country": "Netherlands",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/24636.png",
+        "venue_id": 99990110
     }
 ]

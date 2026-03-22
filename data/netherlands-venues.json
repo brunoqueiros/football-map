@@ -726,5 +726,197 @@
         "capacity": 2500,
         "latitude": 52.3443722,
         "longitude": 4.633245899999999
+    },
+    {
+        "id": 2873,
+        "name": "Zuidersportpark",
+        "city": "Sneek",
+        "capacity": 3150,
+        "latitude": 53.02484579999999,
+        "longitude": 5.671083100000001
+    },
+    {
+        "id": 21112,
+        "name": "Sportpark Putter Eng",
+        "city": "Putten",
+        "capacity": 4500,
+        "latitude": 52.24823199999999,
+        "longitude": 5.5975611
+    },
+    {
+        "id": 2884,
+        "name": "Sportpark 't Slot",
+        "city": "Capelle aan den IJssel",
+        "capacity": 3000,
+        "latitude": 51.9217945,
+        "longitude": 4.5773122
+    },
+    {
+        "id": 2895,
+        "name": "Sportpark De Hanen Weide",
+        "city": "Veen",
+        "capacity": 2000,
+        "latitude": 51.7724009,
+        "longitude": 5.1016397
+    },
+    {
+        "id": 2861,
+        "name": "Sportpark In de Bandert (EVV)",
+        "city": "Echt-Susteren",
+        "capacity": 2125,
+        "latitude": 51.1064006,
+        "longitude": 5.886591
+    },
+    {
+        "id": 2959,
+        "name": "Sportpark De Vondersweijde",
+        "city": "Oldenzaal",
+        "capacity": 6400,
+        "latitude": 52.31082379999999,
+        "longitude": 6.9161423
+    },
+    {
+        "id": 2976,
+        "name": "Sportpark Parallelweg",
+        "city": "Steenwijk",
+        "capacity": 1500,
+        "latitude": 52.7892147,
+        "longitude": 6.1308077
+    },
+    {
+        "id": 2985,
+        "name": "Sportpark De Broeklanden",
+        "city": "Malden",
+        "capacity": 1500,
+        "latitude": 51.7838112,
+        "longitude": 5.8463281
+    },
+    {
+        "id": 2994,
+        "name": "Sportpark Parkzicht",
+        "city": "Uden",
+        "capacity": 5000,
+        "latitude": 51.65009999999999,
+        "longitude": 5.63045
+    },
+    {
+        "id": 19772,
+        "name": "Juliana Sportpark",
+        "city": "Hoorn",
+        "capacity": 4000,
+        "latitude": 52.6507459,
+        "longitude": 5.040747800000001
+    },
+    {
+        "id": 19747,
+        "name": "Sportpark De Kastelenring (SEV)",
+        "city": "Leidschendam",
+        "capacity": 4500,
+        "latitude": 52.10444649999999,
+        "longitude": 4.4053147
+    },
+    {
+        "id": 21113,
+        "name": "Sportcomplex Wiarda (Blau Wit '34)",
+        "city": "Leeuwarden",
+        "capacity": 2000,
+        "latitude": 53.1783564,
+        "longitude": 5.8209253
+    },
+    {
+        "id": 99990116,
+        "name": "Sportpark Bergenshuizen",
+        "city": "Vught",
+        "capacity": 2500,
+        "latitude": 51.6349126,
+        "longitude": 5.2751493
+    },
+    {
+        "id": 99990115,
+        "name": "Voet- en korfbalvereniging DAW Schaijk",
+        "city": "Schaijk",
+        "capacity": 1300,
+        "latitude": 51.7463609,
+        "longitude": 5.6227312
+    },
+    {
+        "id": 99990114,
+        "name": "Sportpark Weltevreden",
+        "city": "De Bilt",
+        "capacity": null,
+        "latitude": 52.11376660000001,
+        "longitude": 5.1718731
+    },
+    {
+        "id": 21115,
+        "name": "Sportpark Elinkwijk",
+        "city": "Utrecht",
+        "capacity": 5000,
+        "latitude": 52.1232018,
+        "longitude": 5.0674743
+    },
+    {
+        "id": 99990113,
+        "name": "Sportpark 't Loo",
+        "city": "Voorburg",
+        "capacity": 1000,
+        "latitude": 52.0776429,
+        "longitude": 4.3668495
+    },
+    {
+        "id": 21116,
+        "name": "Sportpark De Kievit",
+        "city": "Geldrop",
+        "capacity": 3400,
+        "latitude": 51.4316076,
+        "longitude": 5.554927999999999
+    },
+    {
+        "id": 21118,
+        "name": "Sportpark De Molenwei",
+        "city": "Heerjansdam",
+        "capacity": 5200,
+        "latitude": 51.8401613,
+        "longitude": 4.5699721
+    },
+    {
+        "id": 99990112,
+        "name": "Sportpark de Nollen",
+        "city": "Alkmaar",
+        "capacity": 2000,
+        "latitude": 52.6403078,
+        "longitude": 4.780450099999999
+    },
+    {
+        "id": 99990111,
+        "name": "Sportpark Laarderveld",
+        "city": "Weert",
+        "capacity": 2000,
+        "latitude": 51.268348,
+        "longitude": 5.716014899999999
+    },
+    {
+        "id": 21804,
+        "name": "Sportpark Polder Albrandswaard",
+        "city": "Poortugaal",
+        "capacity": 1000,
+        "latitude": 51.8502798,
+        "longitude": 4.4057761
+    },
+    {
+        "id": 21119,
+        "name": "Sportpark SVBO",
+        "city": "Emmen",
+        "capacity": 2000,
+        "latitude": 52.7738112,
+        "longitude": 6.9571869
+    },
+    {
+        "id": 99990110,
+        "name": "Sportpark Jaspers Winterswijk",
+        "city": "Winterswijk",
+        "capacity": 2000,
+        "latitude": 51.982066,
+        "longitude": 6.7045641
     }
 ]
