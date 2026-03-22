@@ -1630,5 +1630,149 @@
         "capacity": 1000,
         "latitude": 43.5194193,
         "longitude": -5.675621
+    },
+    {
+        "id": 5775,
+        "name": "Estadio El Castañar",
+        "city": "San Vicente de la Barquera",
+        "capacity": 3500,
+        "latitude": 43.3883934,
+        "longitude": -4.399894199999999
+    },
+    {
+        "id": 6729,
+        "name": "Estadio Juan Hormaechea",
+        "city": "Santander",
+        "capacity": 1000,
+        "latitude": 43.4623834,
+        "longitude": -3.848798599999999
+    },
+    {
+        "id": 6730,
+        "name": "Estadio Solvay",
+        "city": "Torrelavega",
+        "capacity": 5100,
+        "latitude": 43.3761467,
+        "longitude": -4.043818
+    },
+    {
+        "id": 20153,
+        "name": "Campo De Fútbol Municipal De Bezana",
+        "city": "Santa Cruz de Bezana",
+        "capacity": 3500,
+        "latitude": 43.4399986,
+        "longitude": -3.9034233
+    },
+    {
+        "id": 6733,
+        "name": "Estadio El Pilar",
+        "city": "Guarnizo",
+        "capacity": 5625,
+        "latitude": 43.39347679999999,
+        "longitude": -3.8560751
+    },
+    {
+        "id": 6737,
+        "name": "Campo San Pedro",
+        "city": "Castillo Siete Villas",
+        "capacity": 500,
+        "latitude": 43.45914339999999,
+        "longitude": -3.5559094
+    },
+    {
+        "id": 6739,
+        "name": "Estadio Vallegon",
+        "city": "Cantabria",
+        "capacity": 1000,
+        "latitude": 43.34776919999999,
+        "longitude": -3.2372255
+    },
+    {
+        "id": 6741,
+        "name": "Estadio Municipal Bárcena de Pie de Concha",
+        "city": "Bárcena de Pie de Concha",
+        "capacity": 2000,
+        "latitude": 43.1262963,
+        "longitude": -4.0536637
+    },
+    {
+        "id": 6742,
+        "name": "Campo Municipal Santa Ana",
+        "city": "Torrelavega",
+        "capacity": 1500,
+        "latitude": 43.330665,
+        "longitude": -4.0475372
+    },
+    {
+        "id": 6743,
+        "name": "Estadio La Vidriera",
+        "city": "Vioño de Piélagos",
+        "capacity": 1600,
+        "latitude": 43.3567609,
+        "longitude": -3.9676647
+    },
+    {
+        "id": 11000,
+        "name": "Campo Riomar",
+        "city": "Castro Urdiales",
+        "capacity": 4000,
+        "latitude": 43.3707347,
+        "longitude": -3.2097968
+    },
+    {
+        "id": 11001,
+        "name": "Estadio Municipal",
+        "city": "Revilla de Camargo",
+        "capacity": 1000,
+        "latitude": 43.407021,
+        "longitude": -3.8603717
+    },
+    {
+        "id": 11003,
+        "name": "Estadio Fernando Astobiza",
+        "city": "Sarón",
+        "capacity": 2700,
+        "latitude": 43.3206424,
+        "longitude": -3.8564835
+    },
+    {
+        "id": 12305,
+        "name": "Campos del Carmen",
+        "city": "Colindres",
+        "capacity": 2500,
+        "latitude": 43.3957736,
+        "longitude": -3.4484057
+    },
+    {
+        "id": 12306,
+        "name": "Estadio Ramón Unzaga Asla",
+        "city": "Talcahuano",
+        "capacity": 7142,
+        "latitude": -36.7227032,
+        "longitude": -73.1073509
+    },
+    {
+        "id": 19136,
+        "name": "Estadio Santa María",
+        "city": "Bárcena de Cicero",
+        "capacity": 500,
+        "latitude": 36.4991798,
+        "longitude": -4.7783699
+    },
+    {
+        "id": 2182137821,
+        "name": "Football field Puente San Miguel",
+        "city": "Puente San Miguel",
+        "capacity": 4000,
+        "latitude": 43.364442,
+        "longitude": -4.0854737
+    },
+    {
+        "id": 871281871,
+        "name": "Club Deportivo Monte",
+        "city": "Monte",
+        "capacity": 2000,
+        "latitude": 43.4669051,
+        "longitude": -3.8255943
     }
 ]

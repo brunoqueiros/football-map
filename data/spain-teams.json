@@ -2078,5 +2078,185 @@
         "national": false,
         "logo": "https://media.api-sports.io/football/teams/17581.png",
         "venue_id": 12302
+    },
+    {
+        "id": 8152,
+        "name": "Barquereño",
+        "code": null,
+        "country": "Spain",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/8152.png",
+        "venue_id": 5775
+    },
+    {
+        "id": 9637,
+        "name": "Atlético Albericia",
+        "code": null,
+        "country": "Spain",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/9637.png",
+        "venue_id": 6729
+    },
+    {
+        "id": 9638,
+        "name": "Barreda",
+        "code": null,
+        "country": "Spain",
+        "founded": 1917,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/9638.png",
+        "venue_id": 6730
+    },
+    {
+        "id": 9639,
+        "name": "Bezana",
+        "code": null,
+        "country": "Spain",
+        "founded": 1965,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/9639.png",
+        "venue_id": 20153
+    },
+    {
+        "id": 9642,
+        "name": "Guarnizo",
+        "code": null,
+        "country": "Spain",
+        "founded": 1922,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/9642.png",
+        "venue_id": 6733
+    },
+    {
+        "id": 9646,
+        "name": "Siete Villas",
+        "code": null,
+        "country": "Spain",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/9646.png",
+        "venue_id": 6737
+    },
+    {
+        "id": 9648,
+        "name": "Sámano",
+        "code": null,
+        "country": "Spain",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/9648.png",
+        "venue_id": 6739
+    },
+    {
+        "id": 9650,
+        "name": "Torina",
+        "code": null,
+        "country": "Spain",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/9650.png",
+        "venue_id": 6741
+    },
+    {
+        "id": 9651,
+        "name": "Tropezón",
+        "code": "TRO",
+        "country": "Spain",
+        "founded": 1983,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/9651.png",
+        "venue_id": 6742
+    },
+    {
+        "id": 9652,
+        "name": "Vimenor",
+        "code": null,
+        "country": "Spain",
+        "founded": 1929,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/9652.png",
+        "venue_id": 6743
+    },
+    {
+        "id": 15336,
+        "name": "Castro",
+        "code": null,
+        "country": "Spain",
+        "founded": 1952,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/15336.png",
+        "venue_id": 11000
+    },
+    {
+        "id": 15337,
+        "name": "Revilla",
+        "code": null,
+        "country": "Spain",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/15337.png",
+        "venue_id": 11001
+    },
+    {
+        "id": 15339,
+        "name": "Cayón",
+        "code": null,
+        "country": "Spain",
+        "founded": 1915,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/15339.png",
+        "venue_id": 11003
+    },
+    {
+        "id": 17582,
+        "name": "Colindres",
+        "code": null,
+        "country": "Spain",
+        "founded": 1965,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/17582.png",
+        "venue_id": 12305
+    },
+    {
+        "id": 17583,
+        "name": "Naval",
+        "code": "NAV",
+        "country": "Chile",
+        "founded": 1944,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/17583.png",
+        "venue_id": 12306
+    },
+    {
+        "id": 20258,
+        "name": "Gama",
+        "code": null,
+        "country": "Spain",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/20258.png",
+        "venue_id": 19136
+    },
+    {
+        "id": 22132,
+        "name": "Atlético Mineros",
+        "code": null,
+        "country": "Spain",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/22132.png",
+        "venue_id": 2182137821
+    },
+    {
+        "id": 22570,
+        "name": "Monte",
+        "code": null,
+        "country": "Spain",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/22570.png",
+        "venue_id": 871281871
     }
 ]
