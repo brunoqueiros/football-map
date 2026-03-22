@@ -2258,5 +2258,185 @@
         "national": false,
         "logo": "https://media.api-sports.io/football/teams/22570.png",
         "venue_id": 871281871
+    },
+    {
+        "id": 5260,
+        "name": "Durango",
+        "code": null,
+        "country": "Spain",
+        "founded": 1919,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/5260.png",
+        "venue_id": 3974
+    },
+    {
+        "id": 9397,
+        "name": "Leioa",
+        "code": null,
+        "country": "Spain",
+        "founded": 1925,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/9397.png",
+        "venue_id": 6499
+    },
+    {
+        "id": 9408,
+        "name": "Portugalete",
+        "code": null,
+        "country": "Spain",
+        "founded": 1944,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/9408.png",
+        "venue_id": 6509
+    },
+    {
+        "id": 9656,
+        "name": "Basconia",
+        "code": null,
+        "country": "Spain",
+        "founded": 1913,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/9656.png",
+        "venue_id": 11005
+    },
+    {
+        "id": 9657,
+        "name": "Beasain",
+        "code": null,
+        "country": "Spain",
+        "founded": 1905,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/9657.png",
+        "venue_id": 6748
+    },
+    {
+        "id": 9658,
+        "name": "Deusto",
+        "code": null,
+        "country": "Spain",
+        "founded": 1913,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/9658.png",
+        "venue_id": 6749
+    },
+    {
+        "id": 9660,
+        "name": "Lagun Onak",
+        "code": null,
+        "country": "Spain",
+        "founded": 1944,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/9660.png",
+        "venue_id": 6751
+    },
+    {
+        "id": 9661,
+        "name": "Pasaia KE",
+        "code": null,
+        "country": "Spain",
+        "founded": 1941,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/9661.png",
+        "venue_id": 22474
+    },
+    {
+        "id": 9663,
+        "name": "San Ignacio",
+        "code": "SAN",
+        "country": "Spain",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/9663.png",
+        "venue_id": 21288
+    },
+    {
+        "id": 9664,
+        "name": "Santurtzi",
+        "code": null,
+        "country": "Spain",
+        "founded": 1952,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/9664.png",
+        "venue_id": 6755
+    },
+    {
+        "id": 9667,
+        "name": "Urduliz",
+        "code": null,
+        "country": "Spain",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/9667.png",
+        "venue_id": 6758
+    },
+    {
+        "id": 20260,
+        "name": "Padura",
+        "code": null,
+        "country": "Spain",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/20260.png",
+        "venue_id": 19137
+    },
+    {
+        "id": 20261,
+        "name": "Touring",
+        "code": null,
+        "country": "Spain",
+        "founded": 1945,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/20261.png",
+        "venue_id": 19138
+    },
+    {
+        "id": 22134,
+        "name": "Deportivo Alavés III",
+        "code": null,
+        "country": "Spain",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/22134.png",
+        "venue_id": 22475
+    },
+    {
+        "id": 22135,
+        "name": "Derio",
+        "code": null,
+        "country": "Spain",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/22135.png",
+        "venue_id": 20155
+    },
+    {
+        "id": 24571,
+        "name": "Aretxabaleta",
+        "code": null,
+        "country": "Spain",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/24571.png",
+        "venue_id": 21078
+    },
+    {
+        "id": 24573,
+        "name": "San Viator",
+        "code": null,
+        "country": "Spain",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/24573.png",
+        "venue_id": 21290
+    },
+    {
+        "id": 25023,
+        "name": "Eibar III",
+        "code": null,
+        "country": "Spain",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/25023.png",
+        "venue_id": 22476
     }
 ]

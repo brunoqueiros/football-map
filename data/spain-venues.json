@@ -1774,5 +1774,149 @@
         "capacity": 2000,
         "latitude": 43.4669051,
         "longitude": -3.8255943
+    },
+    {
+        "id": 3974,
+        "name": "Estadio Tabira",
+        "city": "Durango",
+        "capacity": 1500,
+        "latitude": 43.158123,
+        "longitude": -2.6348671
+    },
+    {
+        "id": 6499,
+        "name": "Estadio Sarriena",
+        "city": "Leioa",
+        "capacity": 3500,
+        "latitude": 43.3349467,
+        "longitude": -2.9820076
+    },
+    {
+        "id": 6509,
+        "name": "Estadio La Florida",
+        "city": "Portugalete",
+        "capacity": 5000,
+        "latitude": 43.318259,
+        "longitude": -3.026261
+    },
+    {
+        "id": 11005,
+        "name": "Estadio Artunduaga",
+        "city": "Basauri",
+        "capacity": 5000,
+        "latitude": 43.23193270000001,
+        "longitude": -2.8837543
+    },
+    {
+        "id": 6748,
+        "name": "Estado Municipal de Loinaz",
+        "city": "Beasain",
+        "capacity": 6000,
+        "latitude": 43.0466039,
+        "longitude": -2.2134209
+    },
+    {
+        "id": 6749,
+        "name": "Campo de Fútbol de Etxezuri",
+        "city": "Bilbao",
+        "capacity": 1000,
+        "latitude": 43.2714515,
+        "longitude": -2.9562828
+    },
+    {
+        "id": 6751,
+        "name": "Estadio Garmendipe",
+        "city": "Azpeitia",
+        "capacity": 1500,
+        "latitude": 43.1790365,
+        "longitude": -2.262347
+    },
+    {
+        "id": 22474,
+        "name": "Campo de fútbol Jesus Mari Zamora",
+        "city": "Errenteria",
+        "capacity": 2000,
+        "latitude": 43.3155874,
+        "longitude": -1.9116136
+    },
+    {
+        "id": 21288,
+        "name": "Campo de fútbol Los Astrónomos",
+        "city": "Gasteiz",
+        "capacity": 1000,
+        "latitude": 42.8437661,
+        "longitude": -2.6548281
+    },
+    {
+        "id": 6755,
+        "name": "Estadio San Jorge",
+        "city": "Santurtzi",
+        "capacity": 2000,
+        "latitude": 43.3240769,
+        "longitude": -3.038334
+    },
+    {
+        "id": 6758,
+        "name": "Estadio Iparralde",
+        "city": "Urduliz",
+        "capacity": 2000,
+        "latitude": 43.37473050000001,
+        "longitude": -2.9520285
+    },
+    {
+        "id": 19137,
+        "name": "Estadio Santo Cristo",
+        "city": "Arrigorriaga",
+        "capacity": 1500,
+        "latitude": 43.2099103,
+        "longitude": -2.8940516
+    },
+    {
+        "id": 19138,
+        "name": "Campo de Fútbol Fandería",
+        "city": "Errenteria",
+        "capacity": 1500,
+        "latitude": 43.3100628,
+        "longitude": -1.8944141
+    },
+    {
+        "id": 22475,
+        "name": "Ciudad Deportiva José Luis Compañón 4",
+        "city": "Vitoria-Gasteiz",
+        "capacity": 1000,
+        "latitude": 42.83164559999999,
+        "longitude": -2.7215201
+    },
+    {
+        "id": 20155,
+        "name": "Campo de Fútbol Ibaiondo",
+        "city": "Derio",
+        "capacity": 1500,
+        "latitude": 43.2961219,
+        "longitude": -2.8804066
+    },
+    {
+        "id": 21078,
+        "name": "Campo de Fútbol Ibarra",
+        "city": "Aretxabaleta (Arechavaleta)",
+        "capacity": 1000,
+        "latitude": 43.0294734,
+        "longitude": -2.5079362
+    },
+    {
+        "id": 21290,
+        "name": "Campo San Viator",
+        "city": "Vitoria-Gasteiz",
+        "capacity": 1000,
+        "latitude": 42.855051,
+        "longitude": -2.6834884
+    },
+    {
+        "id": 22476,
+        "name": "Ciudad Deportiva Eibar-Areitio",
+        "city": "Mallabia",
+        "capacity": 1000,
+        "latitude": 43.1836833,
+        "longitude": -2.5350939
     }
 ]
