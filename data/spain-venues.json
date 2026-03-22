@@ -334,5 +334,165 @@
         "capacity": 5776,
         "latitude": 38.4675132,
         "longitude": -0.7967371999999999
+    },
+    {
+        "id": 2917,
+        "name": "Estadi Johan Cruyff",
+        "city": "Sant Joan Despí",
+        "capacity": 6000,
+        "latitude": 41.3734833,
+        "longitude": 2.0505585
+    },
+    {
+        "id": 20300,
+        "name": "Nou Estadi Costa Daurada",
+        "city": "Tarragona",
+        "capacity": 16600,
+        "latitude": 41.127051,
+        "longitude": 1.272851
+    },
+    {
+        "id": 1465,
+        "name": "Estadio Anxo Carro",
+        "city": "Lugo",
+        "capacity": 8168,
+        "latitude": 43.0032743,
+        "longitude": -7.570963799999999
+    },
+    {
+        "id": 2916,
+        "name": "Estadio Municipal Reino de León",
+        "city": "León",
+        "capacity": 13451,
+        "latitude": 42.587534,
+        "longitude": -5.576597599999999
+    },
+    {
+        "id": 3708,
+        "name": "Estadio El Toralín",
+        "city": "Ponferrada",
+        "capacity": 8800,
+        "latitude": 42.557376,
+        "longitude": -6.5998646
+    },
+    {
+        "id": 3965,
+        "name": "Estadio Nuevo Lasesarre",
+        "city": "Barakaldo",
+        "capacity": 7960,
+        "latitude": 43.3019687,
+        "longitude": -2.9891803
+    },
+    {
+        "id": 19230,
+        "name": "Campo de Futbol Reina Sofía",
+        "city": "Salamanca",
+        "capacity": 4895,
+        "latitude": 40.9467537,
+        "longitude": -5.6659769
+    },
+    {
+        "id": 2618,
+        "name": "Estadi Nacional",
+        "city": "Andorra la Vella",
+        "capacity": 3306,
+        "latitude": 42.50467219999999,
+        "longitude": 1.517565
+    },
+    {
+        "id": 6482,
+        "name": "Campo Municipal de Urritxe",
+        "city": "Amorebieta-Echano",
+        "capacity": 3000,
+        "latitude": 43.2213871,
+        "longitude": -2.7248347
+    },
+    {
+        "id": 6489,
+        "name": "Estadio Municipal de La Albuera",
+        "city": "Segovia",
+        "capacity": 3000,
+        "latitude": 40.94139879999999,
+        "longitude": -4.0998204
+    },
+    {
+        "id": 6513,
+        "name": "Estadio Las Llanas",
+        "city": "Sestao",
+        "capacity": 8905,
+        "latitude": 43.3106429,
+        "longitude": -3.0099847
+    },
+    {
+        "id": 6516,
+        "name": "Estadio Municipal de Tarazona",
+        "city": "Tarazona",
+        "capacity": 2200,
+        "latitude": 41.90885859999999,
+        "longitude": -1.71775
+    },
+    {
+        "id": 6518,
+        "name": "Estadio Ruta de la Plata",
+        "city": "Zamora",
+        "capacity": 7818,
+        "latitude": 41.4866898,
+        "longitude": -5.7477939
+    },
+    {
+        "id": 6665,
+        "name": "Campo de Fútbol Municipal de Barreiro",
+        "city": "Vigo",
+        "capacity": 4500,
+        "latitude": 42.2287748,
+        "longitude": -8.6809064
+    },
+    {
+        "id": 12288,
+        "name": "Instalaciones de Lezama Campo 2",
+        "city": "Lezama",
+        "capacity": 2925,
+        "latitude": 43.2775097,
+        "longitude": -2.8382526
+    },
+    {
+        "id": 6677,
+        "name": "Instalaciones Deportivas de Tajonar",
+        "city": "Tajonar",
+        "capacity": 4000,
+        "latitude": 42.7759034,
+        "longitude": -1.6257124
+    },
+    {
+        "id": 20313,
+        "name": "Instalaciones de Zubieta",
+        "city": "Donostia-San Sebastián",
+        "capacity": 1500,
+        "latitude": 43.2589185,
+        "longitude": -2.0259699
+    },
+    {
+        "id": 6679,
+        "name": "Estadio Gal",
+        "city": "Irún",
+        "capacity": 6344,
+        "latitude": 43.3454522,
+        "longitude": -1.7858345
+    },
+    {
+        "id": 6697,
+        "name": "Estadio de Espiñedo",
+        "city": "O Carballiño",
+        "capacity": 4500,
+        "latitude": 42.42526489999999,
+        "longitude": -8.08587
+    },
+    {
+        "id": 6705,
+        "name": "Estadio O Couto",
+        "city": "Ourense",
+        "capacity": 5625,
+        "latitude": 42.3407884,
+        "longitude": -7.8757958
     }
 ]

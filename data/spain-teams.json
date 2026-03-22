@@ -418,5 +418,205 @@
         "national": false,
         "logo": "https://media.api-sports.io/football/teams/9692.png",
         "venue_id": 6783
+    },
+    {
+        "id": 712,
+        "name": "Barcelona B",
+        "code": "BAR",
+        "country": "Spain",
+        "founded": 1899,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/712.png",
+        "venue_id": 2917
+    },
+    {
+        "id": 714,
+        "name": "Gimnastic",
+        "code": "GIM",
+        "country": "Spain",
+        "founded": 1914,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/714.png",
+        "venue_id": 20300
+    },
+    {
+        "id": 716,
+        "name": "Lugo",
+        "code": "LUG",
+        "country": "Spain",
+        "founded": 1953,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/716.png",
+        "venue_id": 1465
+    },
+    {
+        "id": 725,
+        "name": "Cultural Leonesa",
+        "code": "CUL",
+        "country": "Spain",
+        "founded": 1923,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/725.png",
+        "venue_id": 2916
+    },
+    {
+        "id": 4907,
+        "name": "Ponferradina",
+        "code": "PON",
+        "country": "Spain",
+        "founded": 1922,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/4907.png",
+        "venue_id": 3708
+    },
+    {
+        "id": 5251,
+        "name": "Barakaldo",
+        "code": "BAR",
+        "country": "Spain",
+        "founded": 1917,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/5251.png",
+        "venue_id": 3965
+    },
+    {
+        "id": 5281,
+        "name": "Unionistas de Salamanca",
+        "code": null,
+        "country": "Spain",
+        "founded": 2013,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/5281.png",
+        "venue_id": 19230
+    },
+    {
+        "id": 8157,
+        "name": "FC Andorra",
+        "code": null,
+        "country": "Spain",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/8157.png",
+        "venue_id": 2618
+    },
+    {
+        "id": 9380,
+        "name": "Amorebieta",
+        "code": "AMO",
+        "country": "Spain",
+        "founded": 1925,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/9380.png",
+        "venue_id": 6482
+    },
+    {
+        "id": 9387,
+        "name": "Gimnástica Segoviana",
+        "code": null,
+        "country": "Spain",
+        "founded": 1928,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/9387.png",
+        "venue_id": 6489
+    },
+    {
+        "id": 9413,
+        "name": "Sestao River",
+        "code": "SES",
+        "country": "Spain",
+        "founded": 1996,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/9413.png",
+        "venue_id": 6513
+    },
+    {
+        "id": 9416,
+        "name": "Tarazona",
+        "code": null,
+        "country": "Spain",
+        "founded": 1969,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/9416.png",
+        "venue_id": 6516
+    },
+    {
+        "id": 9418,
+        "name": "Zamora",
+        "code": null,
+        "country": "Spain",
+        "founded": 1969,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/9418.png",
+        "venue_id": 6518
+    },
+    {
+        "id": 9571,
+        "name": "Celta de Vigo II",
+        "code": "CEL",
+        "country": "Spain",
+        "founded": 1923,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/9571.png",
+        "venue_id": 6665
+    },
+    {
+        "id": 9579,
+        "name": "Athletic Club II",
+        "code": "BIL",
+        "country": "Spain",
+        "founded": 1964,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/9579.png",
+        "venue_id": 12288
+    },
+    {
+        "id": 9584,
+        "name": "Osasuna II",
+        "code": null,
+        "country": "Spain",
+        "founded": 1920,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/9584.png",
+        "venue_id": 6677
+    },
+    {
+        "id": 9585,
+        "name": "Real Sociedad II",
+        "code": "RSO",
+        "country": "Spain",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/9585.png",
+        "venue_id": 20313
+    },
+    {
+        "id": 9586,
+        "name": "Real Unión",
+        "code": "REA",
+        "country": "Spain",
+        "founded": 1915,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/9586.png",
+        "venue_id": 6679
+    },
+    {
+        "id": 9604,
+        "name": "Arenteiro",
+        "code": null,
+        "country": "Spain",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/9604.png",
+        "venue_id": 6697
+    },
+    {
+        "id": 9612,
+        "name": "Ourense CF",
+        "code": null,
+        "country": "Spain",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/9612.png",
+        "venue_id": 6705
     }
 ]
