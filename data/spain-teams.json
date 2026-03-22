@@ -1538,5 +1538,185 @@
         "national": false,
         "logo": "https://media.api-sports.io/football/teams/15359.png",
         "venue_id": 11025
+    },
+    {
+        "id": 861,
+        "name": "Rayo Majadahonda",
+        "code": null,
+        "country": "Spain",
+        "founded": 1976,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/861.png",
+        "venue_id": 1487
+    },
+    {
+        "id": 5253,
+        "name": "CF Talavera",
+        "code": null,
+        "country": "Spain",
+        "founded": 2011,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/5253.png",
+        "venue_id": 3967
+    },
+    {
+        "id": 5257,
+        "name": "Conquense",
+        "code": "CON",
+        "country": "Spain",
+        "founded": 1946,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/5257.png",
+        "venue_id": 3971
+    },
+    {
+        "id": 5268,
+        "name": "Melilla",
+        "code": "MEL",
+        "country": "Spain",
+        "founded": 1943,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/5268.png",
+        "venue_id": 3982
+    },
+    {
+        "id": 5271,
+        "name": "Navalcarnero",
+        "code": null,
+        "country": "Spain",
+        "founded": 1928,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/5271.png",
+        "venue_id": 3985
+    },
+    {
+        "id": 9384,
+        "name": "Cacereño",
+        "code": "CAC",
+        "country": "Spain",
+        "founded": 1919,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/9384.png",
+        "venue_id": 6486
+    },
+    {
+        "id": 9412,
+        "name": "SS Reyes",
+        "code": null,
+        "country": "Spain",
+        "founded": 1971,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/9412.png",
+        "venue_id": 6512
+    },
+    {
+        "id": 9572,
+        "name": "Getafe II",
+        "code": "GET",
+        "country": "Spain",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/9572.png",
+        "venue_id": 19145
+    },
+    {
+        "id": 9712,
+        "name": "Móstoles",
+        "code": null,
+        "country": "Spain",
+        "founded": 1996,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/9712.png",
+        "venue_id": 6801
+    },
+    {
+        "id": 9719,
+        "name": "Unión Adarve",
+        "code": null,
+        "country": "Spain",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/9719.png",
+        "venue_id": 20197
+    },
+    {
+        "id": 9791,
+        "name": "Atlético Paso",
+        "code": null,
+        "country": "Spain",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/9791.png",
+        "venue_id": 6873
+    },
+    {
+        "id": 9802,
+        "name": "Tenerife II",
+        "code": null,
+        "country": "Spain",
+        "founded": 1912,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/9802.png",
+        "venue_id": 12339
+    },
+    {
+        "id": 9827,
+        "name": "CD Coria",
+        "code": null,
+        "country": "Spain",
+        "founded": 1965,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/9827.png",
+        "venue_id": 6907
+    },
+    {
+        "id": 9900,
+        "name": "Guadalajara",
+        "code": null,
+        "country": "Spain",
+        "founded": 1947,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/9900.png",
+        "venue_id": 6978
+    },
+    {
+        "id": 9901,
+        "name": "Illescas",
+        "code": null,
+        "country": "Spain",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/9901.png",
+        "venue_id": 6979
+    },
+    {
+        "id": 17589,
+        "name": "Colonia Moscardó",
+        "code": null,
+        "country": "Spain",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/17589.png",
+        "venue_id": 12321
+    },
+    {
+        "id": 17605,
+        "name": "Unión Sur Yaiza",
+        "code": null,
+        "country": "Spain",
+        "founded": 1983,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/17605.png",
+        "venue_id": 12342
+    },
+    {
+        "id": 22142,
+        "name": "Real Madrid III",
+        "code": null,
+        "country": "Spain",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/22142.png",
+        "venue_id": 20161
     }
 ]

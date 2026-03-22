@@ -1206,5 +1206,141 @@
         "capacity": 3000,
         "latitude": 36.62132,
         "longitude": -4.509932399999999
+    },
+    {
+        "id": 3967,
+        "name": "Estadio El Prado",
+        "city": "Talavera de la Reina",
+        "capacity": 6000,
+        "latitude": 39.9655147,
+        "longitude": -4.8219313
+    },
+    {
+        "id": 3971,
+        "name": "Estadio Municipal La Fuensanta",
+        "city": "Cuenca",
+        "capacity": 6700,
+        "latitude": 40.076232,
+        "longitude": -2.145785
+    },
+    {
+        "id": 3982,
+        "name": "Estadio Álvarez Claro",
+        "city": "Melilla",
+        "capacity": 12000,
+        "latitude": 35.2851699,
+        "longitude": -2.9493476
+    },
+    {
+        "id": 3985,
+        "name": "Campo de San Francisco",
+        "city": "Reinosa",
+        "capacity": 1500,
+        "latitude": 43.0007151,
+        "longitude": -4.1448664
+    },
+    {
+        "id": 6486,
+        "name": "Estadio Príncipe Felipe",
+        "city": "Cáceres",
+        "capacity": 15000,
+        "latitude": 39.4871349,
+        "longitude": -6.412344000000001
+    },
+    {
+        "id": 6512,
+        "name": "Estadio Municipal Nuevo Matapiñonera",
+        "city": "San Sebastián de los Reyes",
+        "capacity": 3000,
+        "latitude": 40.5452839,
+        "longitude": -3.6160184
+    },
+    {
+        "id": 19145,
+        "name": "Ciudad Deportiva de Getafe - Campo 1",
+        "city": "Getafe",
+        "capacity": 1200,
+        "latitude": 40.3246934,
+        "longitude": -3.7142934
+    },
+    {
+        "id": 6801,
+        "name": "Estadio Municipal de El Soto",
+        "city": "Móstoles",
+        "capacity": 14000,
+        "latitude": 40.325986,
+        "longitude": -3.8941098
+    },
+    {
+        "id": 20197,
+        "name": "Centro Deportivo Municipal Vicente del Bosque",
+        "city": "Madrid",
+        "capacity": 2000,
+        "latitude": 40.4788047,
+        "longitude": -3.6935194
+    },
+    {
+        "id": 6873,
+        "name": "Campo Municipal de El Paso",
+        "city": "El Paso",
+        "capacity": 5000,
+        "latitude": 28.6474024,
+        "longitude": -17.8840098
+    },
+    {
+        "id": 12339,
+        "name": "Centro Insular de Atletismo de Tenerife",
+        "city": "Santa Cruz de Tenerife",
+        "capacity": 4000,
+        "latitude": 28.4462031,
+        "longitude": -16.3067469
+    },
+    {
+        "id": 6907,
+        "name": "Estadio La Isla",
+        "city": "Coria",
+        "capacity": 4389,
+        "latitude": 39.9783455,
+        "longitude": -6.5427873
+    },
+    {
+        "id": 6978,
+        "name": "Estadio Pedro Escartín",
+        "city": "Guadalajara",
+        "capacity": 7000,
+        "latitude": 40.633437,
+        "longitude": -3.1830623
+    },
+    {
+        "id": 6979,
+        "name": "Estadio Municipal de Illescas",
+        "city": "Illescas",
+        "capacity": 1000,
+        "latitude": 40.1266276,
+        "longitude": -3.8414233
+    },
+    {
+        "id": 12321,
+        "name": "Estadio Román Valero",
+        "city": "Madrid",
+        "capacity": 14000,
+        "latitude": 40.3884806,
+        "longitude": -3.7052066
+    },
+    {
+        "id": 12342,
+        "name": "Estadio Municipal de Yaiza",
+        "city": "Yaiza (Lanzarote)",
+        "capacity": 2000,
+        "latitude": 28.9532051,
+        "longitude": -13.7773656
+    },
+    {
+        "id": 20161,
+        "name": "Ciudad Real Madrid Campo 3",
+        "city": "Madrid",
+        "capacity": 3000,
+        "latitude": 40.4810231,
+        "longitude": -3.6152865
     }
 ]
