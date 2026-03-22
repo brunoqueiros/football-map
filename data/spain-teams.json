@@ -1718,5 +1718,185 @@
         "national": false,
         "logo": "https://media.api-sports.io/football/teams/22142.png",
         "venue_id": 20161
+    },
+    {
+        "id": 9603,
+        "name": "Alondras",
+        "code": null,
+        "country": "Spain",
+        "founded": 1928,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/9603.png",
+        "venue_id": 6696
+    },
+    {
+        "id": 9605,
+        "name": "Arosa",
+        "code": null,
+        "country": "Spain",
+        "founded": 1945,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/9605.png",
+        "venue_id": 6698
+    },
+    {
+        "id": 9611,
+        "name": "Estradense",
+        "code": null,
+        "country": "Spain",
+        "founded": 1925,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/9611.png",
+        "venue_id": 6704
+    },
+    {
+        "id": 9614,
+        "name": "Polvorín",
+        "code": null,
+        "country": "Spain",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/9614.png",
+        "venue_id": 6707
+    },
+    {
+        "id": 9615,
+        "name": "Silva",
+        "code": null,
+        "country": "Spain",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/9615.png",
+        "venue_id": 6708
+    },
+    {
+        "id": 9616,
+        "name": "Somozas",
+        "code": null,
+        "country": "Spain",
+        "founded": 1985,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/9616.png",
+        "venue_id": 6709
+    },
+    {
+        "id": 9617,
+        "name": "UD Ourense",
+        "code": null,
+        "country": "Spain",
+        "founded": 2014,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/9617.png",
+        "venue_id": 6705
+    },
+    {
+        "id": 9618,
+        "name": "Villalbés",
+        "code": null,
+        "country": "Spain",
+        "founded": 1931,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/9618.png",
+        "venue_id": 6710
+    },
+    {
+        "id": 15307,
+        "name": "Viveiro",
+        "code": null,
+        "country": "Spain",
+        "founded": 1923,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/15307.png",
+        "venue_id": 10971
+    },
+    {
+        "id": 17534,
+        "name": "Noia",
+        "code": null,
+        "country": "Spain",
+        "founded": 1928,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/17534.png",
+        "venue_id": 22472
+    },
+    {
+        "id": 19650,
+        "name": "Atlético Arteixo",
+        "code": null,
+        "country": "Spain",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/19650.png",
+        "venue_id": 19133
+    },
+    {
+        "id": 20255,
+        "name": "Celta de Vigo III",
+        "code": null,
+        "country": "Spain",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/20255.png",
+        "venue_id": 6665
+    },
+    {
+        "id": 20442,
+        "name": "Barbadás",
+        "code": null,
+        "country": "Spain",
+        "founded": 1998,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/20442.png",
+        "venue_id": 19294
+    },
+    {
+        "id": 22128,
+        "name": "Betanzos",
+        "code": null,
+        "country": "Spain",
+        "founded": 1952,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/22128.png",
+        "venue_id": 20150
+    },
+    {
+        "id": 22130,
+        "name": "Sarriana",
+        "code": null,
+        "country": "Spain",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/22130.png",
+        "venue_id": 20151
+    },
+    {
+        "id": 22566,
+        "name": "Boiro",
+        "code": null,
+        "country": "Spain",
+        "founded": 1966,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/22566.png",
+        "venue_id": 20359
+    },
+    {
+        "id": 24609,
+        "name": "Valladares",
+        "code": null,
+        "country": "Spain",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/24609.png",
+        "venue_id": 8912798127312
+    },
+    {
+        "id": 24610,
+        "name": "Villalonga",
+        "code": null,
+        "country": "Spain",
+        "founded": 1947,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/24610.png",
+        "venue_id": 21102
     }
 ]

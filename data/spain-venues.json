@@ -1342,5 +1342,149 @@
         "capacity": 3000,
         "latitude": 40.4810231,
         "longitude": -3.6152865
+    },
+    {
+        "id": 6696,
+        "name": "Campo do Morrazo",
+        "city": "Cangas",
+        "capacity": 4000,
+        "latitude": 42.2691001,
+        "longitude": -8.781767799999999
+    },
+    {
+        "id": 6698,
+        "name": "Estadio A Lomba",
+        "city": "Vilagarcía de Arousa",
+        "capacity": 5000,
+        "latitude": 42.5885537,
+        "longitude": -8.7661185
+    },
+    {
+        "id": 6704,
+        "name": "Campo Municipal do Concello da Estrada",
+        "city": "A Estrada",
+        "capacity": 2000,
+        "latitude": 42.6897945,
+        "longitude": -8.5068428
+    },
+    {
+        "id": 6707,
+        "name": "Estadio do Polvorín",
+        "city": "Lugo",
+        "capacity": 2500,
+        "latitude": 43.00223889999999,
+        "longitude": -7.548778500000001
+    },
+    {
+        "id": 6708,
+        "name": "Campo Municipal de Fútbol Rodrigo García Vizoso",
+        "city": "A Coruña (La Coruña)",
+        "capacity": 3000,
+        "latitude": 43.3522434,
+        "longitude": -8.423051899999999
+    },
+    {
+        "id": 6709,
+        "name": "Estadio Alcalde Manuel Candocia",
+        "city": "As Somozas",
+        "capacity": 800,
+        "latitude": -21.6344808,
+        "longitude": -41.0443978
+    },
+    {
+        "id": 6705,
+        "name": "Estadio O Couto",
+        "city": "Ourense",
+        "capacity": 5625,
+        "latitude": 42.3407884,
+        "longitude": -7.8757958
+    },
+    {
+        "id": 6710,
+        "name": "Estadio Municipal A Magdalena",
+        "city": "Villalba",
+        "capacity": 2000,
+        "latitude": 43.3033431,
+        "longitude": -7.691048599999999
+    },
+    {
+        "id": 10971,
+        "name": "Estadio Municipal de Cantarrana",
+        "city": "Viveiro",
+        "capacity": 2000,
+        "latitude": 43.669117,
+        "longitude": -7.603024799999999
+    },
+    {
+        "id": 22472,
+        "name": "Estadio San Lázaro",
+        "city": "Noia",
+        "capacity": 1000,
+        "latitude": 42.7771457,
+        "longitude": -8.8851751
+    },
+    {
+        "id": 19133,
+        "name": "Estadio Municipal Arteixo",
+        "city": "Arteixo",
+        "capacity": 1000,
+        "latitude": 43.3108132,
+        "longitude": -8.5088518
+    },
+    {
+        "id": 6665,
+        "name": "Campo de Fútbol Municipal de Barreiro",
+        "city": "Vigo",
+        "capacity": 4500,
+        "latitude": 42.2287748,
+        "longitude": -8.6809064
+    },
+    {
+        "id": 19294,
+        "name": "Estadio Os Carrís",
+        "city": "Barbadás",
+        "capacity": 1500,
+        "latitude": 42.3119006,
+        "longitude": -7.8815237
+    },
+    {
+        "id": 20150,
+        "name": "Estadio García Hermanos",
+        "city": "Betanzos",
+        "capacity": 5000,
+        "latitude": 43.2785658,
+        "longitude": -8.2174064
+    },
+    {
+        "id": 20151,
+        "name": "Estadio Municipal De Ribela",
+        "city": "Sarria",
+        "capacity": 5000,
+        "latitude": 42.7682529,
+        "longitude": -7.4123406
+    },
+    {
+        "id": 20359,
+        "name": "Campo Municipal de Barraña",
+        "city": "Boiro",
+        "capacity": 2500,
+        "latitude": 42.6389898,
+        "longitude": -8.879302700000002
+    },
+    {
+        "id": 8912798127312,
+        "name": "Clube Desportivo Valadares",
+        "city": "Pontevedra",
+        "capacity": null,
+        "latitude": 42.16297400000001,
+        "longitude": -8.7242603
+    },
+    {
+        "id": 21102,
+        "name": "Estadio Novo San Pedro",
+        "city": "Sanxenxo",
+        "capacity": 2000,
+        "latitude": 42.4420006,
+        "longitude": -8.8359399
     }
 ]
