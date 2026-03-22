@@ -1,0 +1,194 @@
+[
+    {
+        "id": 1160,
+        "name": "MAC³PARK Stadion",
+        "city": "Zwolle",
+        "capacity": 14000,
+        "latitude": 52.5171853,
+        "longitude": 6.1208959
+    },
+    {
+        "id": 1117,
+        "name": "Johan Cruijff Arena",
+        "city": "Amsterdam",
+        "capacity": 55885,
+        "latitude": 52.3143557,
+        "longitude": 4.9418487
+    },
+    {
+        "id": 1159,
+        "name": "Koning Willem II Stadion",
+        "city": "Tilburg",
+        "capacity": 14700,
+        "latitude": 51.5426815,
+        "longitude": 5.066834
+    },
+    {
+        "id": 1143,
+        "name": "Philips Stadion",
+        "city": "Eindhoven",
+        "capacity": 36500,
+        "latitude": 51.4417341,
+        "longitude": 5.4674478
+    },
+    {
+        "id": 19212,
+        "name": "Bingoal Stadion",
+        "city": "‘s-Gravenhage",
+        "capacity": 15000,
+        "latitude": 52.06275050000001,
+        "longitude": 4.3823742
+    },
+    {
+        "id": 1121,
+        "name": "Stadion De Vijverberg",
+        "city": "Doetinchem",
+        "capacity": 12600,
+        "latitude": 51.9557241,
+        "longitude": 6.309758899999999
+    },
+    {
+        "id": 1119,
+        "name": "AFAS Stadion",
+        "city": "Alkmaar",
+        "capacity": 19500,
+        "latitude": 52.6128108,
+        "longitude": 4.7420718
+    },
+    {
+        "id": 12276,
+        "name": "Euroborg",
+        "city": "Groningen",
+        "capacity": 22579,
+        "latitude": 53.2061654,
+        "longitude": 6.5910252
+    },
+    {
+        "id": 1139,
+        "name": "Rat Verlegh Stadion",
+        "city": "Breda",
+        "capacity": 19000,
+        "latitude": 51.5948024,
+        "longitude": 4.750356099999999
+    },
+    {
+        "id": 1129,
+        "name": "Fortuna Sittard Stadion",
+        "city": "Sittard",
+        "capacity": 12500,
+        "latitude": 50.9919564,
+        "longitude": 5.8436505
+    },
+    {
+        "id": 11906,
+        "name": "Erve Asito",
+        "city": "Almelo",
+        "capacity": 13500,
+        "latitude": 52.3390597,
+        "longitude": 6.6509329
+    },
+    {
+        "id": 1154,
+        "name": "Stadion Galgenwaard",
+        "city": "Utrecht",
+        "capacity": 24426,
+        "latitude": 52.0783638,
+        "longitude": 5.1458244
+    },
+    {
+        "id": 1128,
+        "name": "Stadion Feijenoord",
+        "city": "Rotterdam",
+        "capacity": 51117,
+        "latitude": 51.8938645,
+        "longitude": 4.523191499999999
+    },
+    {
+        "id": 1132,
+        "name": "Abe Lenstra Stadion",
+        "city": "Heerenveen",
+        "capacity": 27224,
+        "latitude": 52.958153,
+        "longitude": 5.936777999999999
+    },
+    {
+        "id": 20517,
+        "name": "M-Scores Stadion",
+        "city": "Dordrecht",
+        "capacity": 4235,
+        "latitude": 51.8021009,
+        "longitude": 4.6905975
+    },
+    {
+        "id": 1130,
+        "name": "De Adelaarshorst",
+        "city": "Deventer",
+        "capacity": 10400,
+        "latitude": 52.2603271,
+        "longitude": 6.1725761
+    },
+    {
+        "id": 1140,
+        "name": "Goffertstadion",
+        "city": "Nijmegen",
+        "capacity": 12540,
+        "latitude": 51.82240239999999,
+        "longitude": 5.837236499999999
+    },
+    {
+        "id": 1153,
+        "name": "De Grolsch Veste",
+        "city": "Enschede",
+        "capacity": 30205,
+        "latitude": 52.23653849999999,
+        "longitude": 6.8378574
+    },
+    {
+        "id": 1144,
+        "name": "Mandemakers Stadion",
+        "city": "Waalwijk",
+        "capacity": 7508,
+        "latitude": 51.68662759999999,
+        "longitude": 5.0889719
+    },
+    {
+        "id": 1141,
+        "name": "Yanmar Stadion",
+        "city": "Almere",
+        "capacity": 4501,
+        "latitude": 52.3933654,
+        "longitude": 5.241048699999999
+    },
+    {
+        "id": 12680,
+        "name": "Cambuur Stadion",
+        "city": "Leeuwarden",
+        "capacity": 11230,
+        "latitude": 53.2054945,
+        "longitude": 5.8139857
+    },
+    {
+        "id": 1122,
+        "name": "Stadion De Vliert",
+        "city": "&apos;s-Hertogenbosch",
+        "capacity": 9000,
+        "latitude": 51.7013445,
+        "longitude": 5.3290649
+    },
+    {
+        "id": 10505,
+        "name": "Sparta-Stadion Het Kasteel",
+        "city": "Rotterdam",
+        "capacity": 11026,
+        "latitude": 51.9199794,
+        "longitude": 4.4330753
+    },
+    {
+        "id": 20187,
+        "name": "711 Stadion",
+        "city": "Velsen-Zuid",
+        "capacity": 5200,
+        "latitude": 52.4549663,
+        "longitude": 4.63413
+    }
+]

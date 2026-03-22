@@ -2,14 +2,20 @@
 
 import { supabase, Team } from '@/lib/supabase';
 
+export async function getFixturesForTeam(teamId: number) {
+  const fixtures = require('../../data/fixtures.json');
+
+  return fixtures.filter(fixture => fixture.teams.home.id === teamId || fixture.teams.away.id === teamId);
+}
+
 export async function getAllTeams(): Promise<{
   teams: Team[];
   venues: Team[];
 }> {
   if (process.env.NODE_ENV === 'development') {
     return {
-      teams: Object.values(require('../../data/teams'))[0],
-      venues: Object.values(require('../../data/venues'))[0],
+      teams: Object.values(require('../../data/teams')).flat(),
+      venues: Object.values(require('../../data/venues')).flat(),
     };
   }
 
