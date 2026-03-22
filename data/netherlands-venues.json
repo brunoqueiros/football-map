@@ -302,5 +302,197 @@
         "capacity": 1014,
         "latitude": 52.07449150000001,
         "longitude": 5.1466236
+    },
+    {
+        "id": 1124,
+        "name": "Sportpark Panhuis (DOVO)",
+        "city": "Veenendaal",
+        "capacity": 3200,
+        "latitude": 52.0282084,
+        "longitude": 5.5388227
+    },
+    {
+        "id": 2868,
+        "name": "Sportpark de Krom",
+        "city": "Katwijk",
+        "capacity": 6000,
+        "latitude": 52.209882,
+        "longitude": 4.4307093
+    },
+    {
+        "id": 22420,
+        "name": "Hein Koning Voetbalstadion",
+        "city": "Volendam",
+        "capacity": 6500,
+        "latitude": 52.5021921,
+        "longitude": 5.0828256
+    },
+    {
+        "id": 2870,
+        "name": "Sportpark De Zwaaier",
+        "city": "Werkendam",
+        "capacity": 6000,
+        "latitude": 51.8088174,
+        "longitude": 4.9085545
+    },
+    {
+        "id": 22419,
+        "name": "Sportpark Groenendaal",
+        "city": "Heemstede",
+        "capacity": 1800,
+        "latitude": 52.3382108,
+        "longitude": 4.6255305
+    },
+    {
+        "id": 2871,
+        "name": "Sportpark Duinwetering",
+        "city": "Noordwijk",
+        "capacity": 6100,
+        "latitude": 52.2428264,
+        "longitude": 4.448689799999999
+    },
+    {
+        "id": 2876,
+        "name": "Sportpark Middelmors",
+        "city": "Rijnsburg",
+        "capacity": 6100,
+        "latitude": 52.2016315,
+        "longitude": 4.4443831
+    },
+    {
+        "id": 1149,
+        "name": "Sportpark De Westmaat (Spakenburg)",
+        "city": "Bunschoten",
+        "capacity": 8500,
+        "latitude": 52.2573364,
+        "longitude": 5.3776566
+    },
+    {
+        "id": 1151,
+        "name": "Sportpark Houtrust",
+        "city": "Den Haag",
+        "capacity": 3000,
+        "latitude": 52.0855373,
+        "longitude": 4.2672148
+    },
+    {
+        "id": 1116,
+        "name": "Sportpark Goed Genoeg",
+        "city": "Amsterdam",
+        "capacity": 4000,
+        "latitude": 52.33708290000001,
+        "longitude": 4.8821585
+    },
+    {
+        "id": 2866,
+        "name": "Sportpark de Bosk",
+        "city": "Harkema",
+        "capacity": 6000,
+        "latitude": 53.1838065,
+        "longitude": 6.1252609
+    },
+    {
+        "id": 2886,
+        "name": "Sportpark Panhuis (GVVV)",
+        "city": "Veenendaal",
+        "capacity": 4800,
+        "latitude": 52.0286856,
+        "longitude": 5.5383185
+    },
+    {
+        "id": 2894,
+        "name": "Prins Willem Alexander Sportpark",
+        "city": "Veghel",
+        "capacity": 2991,
+        "latitude": 51.6275923,
+        "longitude": 5.5402214
+    },
+    {
+        "id": 22418,
+        "name": "Sportpark De Bongerd",
+        "city": "Barendrecht",
+        "capacity": 2100,
+        "latitude": 51.8605417,
+        "longitude": 4.5432916
+    },
+    {
+        "id": 2874,
+        "name": "Sportpark Nieuw Zuid",
+        "city": "Katwijk",
+        "capacity": 8200,
+        "latitude": 52.1949246,
+        "longitude": 4.3957559
+    },
+    {
+        "id": 2859,
+        "name": "Sportpark Zuid",
+        "city": "Groesbeek",
+        "capacity": 4200,
+        "latitude": 51.7686167,
+        "longitude": 5.9440914
+    },
+    {
+        "id": 2865,
+        "name": "Sportpark de Boshoek",
+        "city": "Hardenberg",
+        "capacity": 4500,
+        "latitude": 52.5672607,
+        "longitude": 6.588341199999999
+    },
+    {
+        "id": 18900,
+        "name": "Sportpark De Vlotter veld 1",
+        "city": "Heemskerk",
+        "capacity": 6000,
+        "latitude": 52.520576,
+        "longitude": 4.656445499999999
+    },
+    {
+        "id": 2963,
+        "name": "Sportpark Cromwijck",
+        "city": "Woerden",
+        "capacity": 3500,
+        "latitude": 52.07225949999999,
+        "longitude": 4.8640591
+    },
+    {
+        "id": 2969,
+        "name": "Catawiki Sportpark",
+        "city": "Assen",
+        "capacity": 5000,
+        "latitude": 52.9859575,
+        "longitude": 6.543556
+    },
+    {
+        "id": 9832,
+        "name": "Yanmar Stadion",
+        "city": "Almere",
+        "capacity": 3800,
+        "latitude": 52.3933654,
+        "longitude": 5.241048699999999
+    },
+    {
+        "id": 2902,
+        "name": "Sportpark Dijkpolder",
+        "city": "Maassluis",
+        "capacity": 5000,
+        "latitude": 51.9272673,
+        "longitude": 4.256643
+    },
+    {
+        "id": 11990,
+        "name": "Sportpark Marsana",
+        "city": "Meerssen",
+        "capacity": 2000,
+        "latitude": 50.881327,
+        "longitude": 5.7527084
+    },
+    {
+        "id": 12031,
+        "name": "Sportcomplex Varkenoord 1",
+        "city": "Rotterdam",
+        "capacity": 2500,
+        "latitude": 51.8915776,
+        "longitude": 4.5252153
     }
 ]
