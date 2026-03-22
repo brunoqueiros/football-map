@@ -646,5 +646,149 @@
         "capacity": 14600,
         "latitude": 38.9139943,
         "longitude": -6.3366035
+    },
+    {
+        "id": 1485,
+        "name": "Nuevo Estadio Los Pajaritos",
+        "city": "Soria",
+        "capacity": 9025,
+        "latitude": 41.7553115,
+        "longitude": -2.4678597
+    },
+    {
+        "id": 3970,
+        "name": "Estadio Multiusos de San Lázaro",
+        "city": "Santiago de Compostela",
+        "capacity": 14000,
+        "latitude": 42.8827276,
+        "longitude": -8.5160307
+    },
+    {
+        "id": 3978,
+        "name": "Estadio El Malecón",
+        "city": "Torrelavega",
+        "capacity": 6007,
+        "latitude": 43.350446,
+        "longitude": -4.0626991
+    },
+    {
+        "id": 3979,
+        "name": "Estadio Nuevo Ganzábal",
+        "city": "La Felguera",
+        "capacity": 4024,
+        "latitude": 43.302009,
+        "longitude": -5.6898173
+    },
+    {
+        "id": 6485,
+        "name": "Estadio As Eiroas",
+        "city": "Carballo",
+        "capacity": 5000,
+        "latitude": 43.2353818,
+        "longitude": -8.686929899999999
+    },
+    {
+        "id": 6487,
+        "name": "Campo do Vao",
+        "city": "Vigo",
+        "capacity": 1500,
+        "latitude": 42.1955095,
+        "longitude": -8.7930751
+    },
+    {
+        "id": 6488,
+        "name": "Estadio Eusebio Arce",
+        "city": "Escobedo de Camargo",
+        "capacity": 2000,
+        "latitude": -23.5158812,
+        "longitude": -47.4404671
+    },
+    {
+        "id": 12287,
+        "name": "Estadio Municipal Luis Ramos",
+        "city": "Guijuelo",
+        "capacity": 1800,
+        "latitude": 40.5467702,
+        "longitude": -5.6736767
+    },
+    {
+        "id": 6496,
+        "name": "Campo San Lorenzo",
+        "city": "Laredo",
+        "capacity": 2500,
+        "latitude": 43.40722170000001,
+        "longitude": -3.4153564
+    },
+    {
+        "id": 6502,
+        "name": "Estadi Municipal de Miramar",
+        "city": "Luanco",
+        "capacity": 5000,
+        "latitude": 43.6130377,
+        "longitude": -5.799894099999999
+    },
+    {
+        "id": 6508,
+        "name": "Estadio Municipal de Pasarón",
+        "city": "Pontevedra",
+        "capacity": 16500,
+        "latitude": 42.4385649,
+        "longitude": -8.6413797
+    },
+    {
+        "id": 6680,
+        "name": "Campo 1 Anexos del José Zorrilla hierba natural",
+        "city": "Valladolid",
+        "capacity": 1500,
+        "latitude": 41.6440018,
+        "longitude": -4.7635596
+    },
+    {
+        "id": 6681,
+        "name": "Estadio El Helmántico",
+        "city": "Salamanca",
+        "capacity": 17341,
+        "latitude": 40.9955027,
+        "longitude": -5.6650504
+    },
+    {
+        "id": 6703,
+        "name": "Ciudad Deportiva de Abegondo",
+        "city": "La Coruña",
+        "capacity": 2000,
+        "latitude": 43.2509537,
+        "longitude": -8.2843325
+    },
+    {
+        "id": 6719,
+        "name": "Campo Municipal de Fútbol Pepe Quimarán",
+        "city": "Llanera",
+        "capacity": 2500,
+        "latitude": 43.4441664,
+        "longitude": -5.856976200000001
+    },
+    {
+        "id": 6724,
+        "name": "Estadio Román Suárez Puerta",
+        "city": "Avilés",
+        "capacity": 5200,
+        "latitude": 43.5575199,
+        "longitude": -5.9305901
+    },
+    {
+        "id": 6734,
+        "name": "Estadio La Albericia",
+        "city": "Santander",
+        "capacity": 1100,
+        "latitude": 43.4606214,
+        "longitude": -3.8531778
+    },
+    {
+        "id": 6824,
+        "name": "Estadio Municipal Adolfo Suárez",
+        "city": "Ávila",
+        "capacity": 5500,
+        "latitude": 40.6462458,
+        "longitude": -4.701602299999999
     }
 ]

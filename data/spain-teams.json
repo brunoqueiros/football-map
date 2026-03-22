@@ -818,5 +818,185 @@
         "national": false,
         "logo": "https://media.api-sports.io/football/teams/10140.png",
         "venue_id": 7132
+    },
+    {
+        "id": 717,
+        "name": "Numancia",
+        "code": "NUM",
+        "country": "Spain",
+        "founded": 1945,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/717.png",
+        "venue_id": 1485
+    },
+    {
+        "id": 5256,
+        "name": "Compostela",
+        "code": "COM",
+        "country": "Spain",
+        "founded": 1962,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/5256.png",
+        "venue_id": 3970
+    },
+    {
+        "id": 5264,
+        "name": "Gimnástica Torrelavega",
+        "code": null,
+        "country": "Spain",
+        "founded": 1907,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/5264.png",
+        "venue_id": 3978
+    },
+    {
+        "id": 5265,
+        "name": "Langreo",
+        "code": null,
+        "country": "Spain",
+        "founded": 1961,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/5265.png",
+        "venue_id": 3979
+    },
+    {
+        "id": 9383,
+        "name": "Bergantiños",
+        "code": null,
+        "country": "Spain",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/9383.png",
+        "venue_id": 6485
+    },
+    {
+        "id": 9385,
+        "name": "Coruxo",
+        "code": "COR",
+        "country": "Spain",
+        "founded": 1930,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/9385.png",
+        "venue_id": 6487
+    },
+    {
+        "id": 9386,
+        "name": "Escobedo",
+        "code": null,
+        "country": "Spain",
+        "founded": 1917,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/9386.png",
+        "venue_id": 6488
+    },
+    {
+        "id": 9388,
+        "name": "Guijuelo",
+        "code": "GUI",
+        "country": "Spain",
+        "founded": 1974,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/9388.png",
+        "venue_id": 12287
+    },
+    {
+        "id": 9394,
+        "name": "Laredo",
+        "code": null,
+        "country": "Spain",
+        "founded": 1927,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/9394.png",
+        "venue_id": 6496
+    },
+    {
+        "id": 9401,
+        "name": "Marino de Luanco",
+        "code": "MAR",
+        "country": "Spain",
+        "founded": 1931,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/9401.png",
+        "venue_id": 6502
+    },
+    {
+        "id": 9407,
+        "name": "Pontevedra",
+        "code": null,
+        "country": "Spain",
+        "founded": 1941,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/9407.png",
+        "venue_id": 6508
+    },
+    {
+        "id": 9587,
+        "name": "Real Valladolid II",
+        "code": null,
+        "country": "Spain",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/9587.png",
+        "venue_id": 6680
+    },
+    {
+        "id": 9588,
+        "name": "Salamanca UDS",
+        "code": null,
+        "country": "Spain",
+        "founded": 2013,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/9588.png",
+        "venue_id": 6681
+    },
+    {
+        "id": 9610,
+        "name": "Deportivo La Coruña II",
+        "code": null,
+        "country": "Spain",
+        "founded": 1906,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/9610.png",
+        "venue_id": 6703
+    },
+    {
+        "id": 9627,
+        "name": "Llanera",
+        "code": null,
+        "country": "Spain",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/9627.png",
+        "venue_id": 6719
+    },
+    {
+        "id": 9632,
+        "name": "Real Avilés",
+        "code": null,
+        "country": "Spain",
+        "founded": 1903,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/9632.png",
+        "venue_id": 6724
+    },
+    {
+        "id": 9643,
+        "name": "Racing Santander II",
+        "code": null,
+        "country": "Spain",
+        "founded": 1926,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/9643.png",
+        "venue_id": 6734
+    },
+    {
+        "id": 9736,
+        "name": "Real Ávila",
+        "code": null,
+        "country": "Spain",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/9736.png",
+        "venue_id": 6824
     }
 ]
