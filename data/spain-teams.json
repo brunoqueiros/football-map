@@ -1358,5 +1358,185 @@
         "national": false,
         "logo": "https://media.api-sports.io/football/teams/15348.png",
         "venue_id": 11014
+    },
+    {
+        "id": 800,
+        "name": "Ucam Murcia",
+        "code": null,
+        "country": "Spain",
+        "founded": 2009,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/800.png",
+        "venue_id": 21291
+    },
+    {
+        "id": 5259,
+        "name": "Don Benito",
+        "code": null,
+        "country": "Spain",
+        "founded": 1928,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/5259.png",
+        "venue_id": 3973
+    },
+    {
+        "id": 5282,
+        "name": "Villanovense",
+        "code": "VIL",
+        "country": "Spain",
+        "founded": 1992,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/5282.png",
+        "venue_id": 3996
+    },
+    {
+        "id": 7522,
+        "name": "Antoniano",
+        "code": null,
+        "country": "Spain",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/7522.png",
+        "venue_id": 5459
+    },
+    {
+        "id": 9398,
+        "name": "Linares Deportivo",
+        "code": null,
+        "country": "Spain",
+        "founded": 2009,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/9398.png",
+        "venue_id": 6500
+    },
+    {
+        "id": 9404,
+        "name": "Orihuela",
+        "code": "ORI",
+        "country": "Spain",
+        "founded": 1993,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/9404.png",
+        "venue_id": 6505
+    },
+    {
+        "id": 9596,
+        "name": "Linense",
+        "code": null,
+        "country": "Spain",
+        "founded": 1912,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/9596.png",
+        "venue_id": 6689
+    },
+    {
+        "id": 9598,
+        "name": "Cádiz II",
+        "code": null,
+        "country": "Spain",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/9598.png",
+        "venue_id": 6691
+    },
+    {
+        "id": 9599,
+        "name": "Granada II",
+        "code": "GRA",
+        "country": "Spain",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/9599.png",
+        "venue_id": 6692
+    },
+    {
+        "id": 9600,
+        "name": "San Fernando CD",
+        "code": "FER",
+        "country": "Spain",
+        "founded": 2009,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/9600.png",
+        "venue_id": 6693
+    },
+    {
+        "id": 9741,
+        "name": "Almería II",
+        "code": "ALM",
+        "country": "Spain",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/9741.png",
+        "venue_id": 19151
+    },
+    {
+        "id": 9770,
+        "name": "Xerez",
+        "code": null,
+        "country": "Spain",
+        "founded": 1947,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/9770.png",
+        "venue_id": 6854
+    },
+    {
+        "id": 9771,
+        "name": "Xerez Deportivo",
+        "code": null,
+        "country": "Spain",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/9771.png",
+        "venue_id": 6854
+    },
+    {
+        "id": 9811,
+        "name": "Deportiva Minera",
+        "code": null,
+        "country": "Spain",
+        "founded": 1949,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/9811.png",
+        "venue_id": 6891
+    },
+    {
+        "id": 9823,
+        "name": "Águilas",
+        "code": null,
+        "country": "Spain",
+        "founded": 2010,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/9823.png",
+        "venue_id": 6903
+    },
+    {
+        "id": 15315,
+        "name": "La Unión Atlético",
+        "code": null,
+        "country": "Spain",
+        "founded": 2010,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/15315.png",
+        "venue_id": 10980
+    },
+    {
+        "id": 15358,
+        "name": "Estepona",
+        "code": null,
+        "country": "Spain",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/15358.png",
+        "venue_id": 11024
+    },
+    {
+        "id": 15359,
+        "name": "Juventud Torremolinos",
+        "code": null,
+        "country": "Spain",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/15359.png",
+        "venue_id": 11025
     }
 ]

@@ -1070,5 +1070,141 @@
         "capacity": 4000,
         "latitude": 39.4315832,
         "longitude": -0.479955
+    },
+    {
+        "id": 21291,
+        "name": "Estadio BeSoccer La Condomina",
+        "city": "Murcia",
+        "capacity": 16500,
+        "latitude": 37.9862099,
+        "longitude": -1.1213617
+    },
+    {
+        "id": 3973,
+        "name": "Estadio Vicente Sanz",
+        "city": "Don Benito",
+        "capacity": 7000,
+        "latitude": 38.9627421,
+        "longitude": -5.8656605
+    },
+    {
+        "id": 3996,
+        "name": "Estadio Municipal Villanovense",
+        "city": "Villanueva de la Serena",
+        "capacity": 8000,
+        "latitude": 38.9755933,
+        "longitude": -5.7865125
+    },
+    {
+        "id": 5459,
+        "name": "Estadio Municipal",
+        "city": "Lebrija",
+        "capacity": 3500,
+        "latitude": 36.9161284,
+        "longitude": -6.081243199999999
+    },
+    {
+        "id": 6500,
+        "name": "Estadio Municipal de Linarejos",
+        "city": "Linares",
+        "capacity": 10000,
+        "latitude": 38.1030995,
+        "longitude": -3.6229856
+    },
+    {
+        "id": 6505,
+        "name": "Estadio Municipal Los Arcos",
+        "city": "Orihuela",
+        "capacity": 7000,
+        "latitude": 38.083985,
+        "longitude": -0.9410725
+    },
+    {
+        "id": 6689,
+        "name": "Estadio Municipal de La Línea de la Concepción",
+        "city": "La Línea de la Concepción",
+        "capacity": 18500,
+        "latitude": 36.1585934,
+        "longitude": -5.3405648
+    },
+    {
+        "id": 6691,
+        "name": "Campo Ramón Blanco Rodríguez",
+        "city": "Puerto Real",
+        "capacity": 2500,
+        "latitude": 36.5316485,
+        "longitude": -6.1831947
+    },
+    {
+        "id": 6692,
+        "name": "Ciudad Deportiva del Granada CF",
+        "city": "Granada",
+        "capacity": 1000,
+        "latitude": 37.2083391,
+        "longitude": -3.5963087
+    },
+    {
+        "id": 6693,
+        "name": "Estadio Iberoamericano 2010",
+        "city": "San Fernando",
+        "capacity": 12000,
+        "latitude": 36.47006450000001,
+        "longitude": -6.2067505
+    },
+    {
+        "id": 19151,
+        "name": "Anexo Estadio de los Juegos del Mediterráneo",
+        "city": "Almería",
+        "capacity": 2000,
+        "latitude": 36.8390093,
+        "longitude": -2.4372046
+    },
+    {
+        "id": 6854,
+        "name": "Estadio Municipal de Chapín",
+        "city": "Jerez de la Frontera",
+        "capacity": 20742,
+        "latitude": 36.6893456,
+        "longitude": -6.1205197
+    },
+    {
+        "id": 6891,
+        "name": "Estadio Municipal Ángel Celdrán",
+        "city": "El Llano del Beal",
+        "capacity": 2000,
+        "latitude": 37.6272716,
+        "longitude": -0.8366456999999999
+    },
+    {
+        "id": 6903,
+        "name": "Estadio El Rubial",
+        "city": "Águilas",
+        "capacity": 4000,
+        "latitude": 37.4037154,
+        "longitude": -1.5907668
+    },
+    {
+        "id": 10980,
+        "name": "Estadio Municipal",
+        "city": "La Unión",
+        "capacity": 3000,
+        "latitude": -5.4074629,
+        "longitude": -80.74715069999999
+    },
+    {
+        "id": 11024,
+        "name": "Estadio Municipal Francisco Muñoz Pérez",
+        "city": "Estepona",
+        "capacity": 7300,
+        "latitude": 36.43180419999999,
+        "longitude": -5.1591455
+    },
+    {
+        "id": 11025,
+        "name": "Campo Municipal El Pozuelo",
+        "city": "Torremolinos",
+        "capacity": 3000,
+        "latitude": 36.62132,
+        "longitude": -4.509932399999999
     }
 ]
