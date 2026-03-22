@@ -494,5 +494,157 @@
         "capacity": 5625,
         "latitude": 42.3407884,
         "longitude": -7.8757958
+    },
+    {
+        "id": 1457,
+        "name": "Estadio Santo Domingo",
+        "city": "Alcorcón",
+        "capacity": 7000,
+        "latitude": 40.3388592,
+        "longitude": -3.8404714
+    },
+    {
+        "id": 2919,
+        "name": "Estadio Jesús Navas",
+        "city": "Sevilla",
+        "capacity": 7000,
+        "latitude": 37.3523162,
+        "longitude": -5.9470053
+    },
+    {
+        "id": 3517,
+        "name": "Estadio José Rico Pérez",
+        "city": "Alicante",
+        "capacity": 29584,
+        "latitude": 38.3573154,
+        "longitude": -0.4926576
+    },
+    {
+        "id": 3707,
+        "name": "Estadio Fernando Torres",
+        "city": "Fuenlabrada",
+        "capacity": 7500,
+        "latitude": 40.2912539,
+        "longitude": -3.8266366
+    },
+    {
+        "id": 3981,
+        "name": "Estadio Municipal Antonio Lorenzo Cuevas",
+        "city": "Marbella",
+        "capacity": 7300,
+        "latitude": 36.5117742,
+        "longitude": -4.8787907
+    },
+    {
+        "id": 3989,
+        "name": "Estadio Enrique Roca de Murcia",
+        "city": "Murcia",
+        "capacity": 31179,
+        "latitude": 38.0422688,
+        "longitude": -1.1452422
+    },
+    {
+        "id": 3997,
+        "name": "Estadio Municipal La Constitución",
+        "city": "Yecla",
+        "capacity": 4700,
+        "latitude": 38.6085214,
+        "longitude": -1.1068307
+    },
+    {
+        "id": 20132,
+        "name": "Ciudad Deportiva Antonio Solana",
+        "city": "Alicante",
+        "capacity": 4000,
+        "latitude": 38.37863,
+        "longitude": -0.4866816
+    },
+    {
+        "id": 12463,
+        "name": "Estadio Can Misses - Power Electronic",
+        "city": "Ibiza",
+        "capacity": 6500,
+        "latitude": 38.9139282,
+        "longitude": 1.4157596
+    },
+    {
+        "id": 6511,
+        "name": "Estadio Nuevo Colombino",
+        "city": "Huelva",
+        "capacity": 19860,
+        "latitude": 37.24651850000001,
+        "longitude": -6.9540336
+    },
+    {
+        "id": 1487,
+        "name": "Miniestadio Cerro del Espino",
+        "city": "Majadahonda",
+        "capacity": 3865,
+        "latitude": 40.4575422,
+        "longitude": -3.8602657
+    },
+    {
+        "id": 6669,
+        "name": "Estadio Alfredo Di Stéfano",
+        "city": "Madrid",
+        "capacity": 6500,
+        "latitude": 40.47693,
+        "longitude": -3.6142698
+    },
+    {
+        "id": 6690,
+        "name": "Estadio Nuevo Mirador",
+        "city": "Algeciras",
+        "capacity": 8209,
+        "latitude": 36.1630173,
+        "longitude": -5.4651517
+    },
+    {
+        "id": 6694,
+        "name": "Estadio El Palmar",
+        "city": "Sanlúcar de Barrameda",
+        "capacity": 5000,
+        "latitude": 36.7670051,
+        "longitude": -6.34774
+    },
+    {
+        "id": 6777,
+        "name": "Campo Municipal El Collao",
+        "city": "Alcoy",
+        "capacity": 4850,
+        "latitude": 38.6910838,
+        "longitude": -0.4903591
+    },
+    {
+        "id": 6828,
+        "name": "Estadio El Maulí",
+        "city": "Antequera",
+        "capacity": 7000,
+        "latitude": 37.0205922,
+        "longitude": -4.571806599999999
+    },
+    {
+        "id": 6849,
+        "name": "Ciudad Deportiva Luis de Sol",
+        "city": "Sevilla",
+        "capacity": 3000,
+        "latitude": 37.3513473,
+        "longitude": -5.9819412
+    },
+    {
+        "id": 3969,
+        "name": "Estadio Municipal Alfonso Murube",
+        "city": "Ceuta",
+        "capacity": 7000,
+        "latitude": 35.8854565,
+        "longitude": -5.3279087
+    },
+    {
+        "id": 7132,
+        "name": "Estadio Romano",
+        "city": "Mérida",
+        "capacity": 14600,
+        "latitude": 38.9139943,
+        "longitude": -6.3366035
     }
 ]

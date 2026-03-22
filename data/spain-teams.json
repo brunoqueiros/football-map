@@ -618,5 +618,205 @@
         "national": false,
         "logo": "https://media.api-sports.io/football/teams/9612.png",
         "venue_id": 6705
+    },
+    {
+        "id": 711,
+        "name": "Alcorcon",
+        "code": "ALC",
+        "country": "Spain",
+        "founded": 1971,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/711.png",
+        "venue_id": 1457
+    },
+    {
+        "id": 730,
+        "name": "Sevilla Atletico",
+        "code": "SEV",
+        "country": "Spain",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/730.png",
+        "venue_id": 2919
+    },
+    {
+        "id": 4666,
+        "name": "Hércules",
+        "code": "HER",
+        "country": "Spain",
+        "founded": 1922,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/4666.png",
+        "venue_id": 3517
+    },
+    {
+        "id": 4906,
+        "name": "Fuenlabrada",
+        "code": "FUE",
+        "country": "Spain",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/4906.png",
+        "venue_id": 3707
+    },
+    {
+        "id": 5267,
+        "name": "Marbella",
+        "code": null,
+        "country": "Spain",
+        "founded": 1997,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/5267.png",
+        "venue_id": 3981
+    },
+    {
+        "id": 5275,
+        "name": "Real Murcia",
+        "code": "MUR",
+        "country": "Spain",
+        "founded": 1908,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/5275.png",
+        "venue_id": 3989
+    },
+    {
+        "id": 5283,
+        "name": "Yeclano",
+        "code": null,
+        "country": "Spain",
+        "founded": 2004,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/5283.png",
+        "venue_id": 3997
+    },
+    {
+        "id": 8160,
+        "name": "Intercity",
+        "code": null,
+        "country": "Spain",
+        "founded": 2018,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/8160.png",
+        "venue_id": 20132
+    },
+    {
+        "id": 9390,
+        "name": "Ibiza",
+        "code": null,
+        "country": "Spain",
+        "founded": 2015,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/9390.png",
+        "venue_id": 12463
+    },
+    {
+        "id": 9410,
+        "name": "Recreativo Huelva",
+        "code": "REC",
+        "country": "Spain",
+        "founded": 1889,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/9410.png",
+        "venue_id": 6511
+    },
+    {
+        "id": 9570,
+        "name": "Atlético Madrid II",
+        "code": "MAD",
+        "country": "Spain",
+        "founded": 1903,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/9570.png",
+        "venue_id": 1487
+    },
+    {
+        "id": 9575,
+        "name": "Real Madrid II",
+        "code": "REA",
+        "country": "Spain",
+        "founded": 1972,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/9575.png",
+        "venue_id": 6669
+    },
+    {
+        "id": 9595,
+        "name": "Villarreal II",
+        "code": "VIL",
+        "country": "Spain",
+        "founded": 1923,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/9595.png",
+        "venue_id": 1498
+    },
+    {
+        "id": 9597,
+        "name": "Algeciras",
+        "code": "ALG",
+        "country": "Spain",
+        "founded": 1912,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/9597.png",
+        "venue_id": 6690
+    },
+    {
+        "id": 9601,
+        "name": "Sanluqueño",
+        "code": "SAN",
+        "country": "Spain",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/9601.png",
+        "venue_id": 6694
+    },
+    {
+        "id": 9686,
+        "name": "Alcoyano",
+        "code": "ALC",
+        "country": "Spain",
+        "founded": 1929,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/9686.png",
+        "venue_id": 6777
+    },
+    {
+        "id": 9742,
+        "name": "Antequera",
+        "code": null,
+        "country": "Spain",
+        "founded": 1992,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/9742.png",
+        "venue_id": 6828
+    },
+    {
+        "id": 9765,
+        "name": "Real Betis II",
+        "code": null,
+        "country": "Spain",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/9765.png",
+        "venue_id": 6849
+    },
+    {
+        "id": 10139,
+        "name": "AD Ceuta FC",
+        "code": null,
+        "country": "Spain",
+        "founded": 1956,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/10139.png",
+        "venue_id": 3969
+    },
+    {
+        "id": 10140,
+        "name": "Mérida AD",
+        "code": null,
+        "country": "Spain",
+        "founded": 2013,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/10140.png",
+        "venue_id": 7132
     }
 ]
