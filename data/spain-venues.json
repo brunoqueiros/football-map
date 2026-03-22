@@ -158,5 +158,181 @@
         "capacity": 23142,
         "latitude": 39.589952,
         "longitude": 2.63005
+    },
+    {
+        "id": 1483,
+        "name": "Estadio La Rosaleda",
+        "city": "Málaga",
+        "capacity": 30389,
+        "latitude": 36.7335802,
+        "longitude": -4.426652
+    },
+    {
+        "id": 1482,
+        "name": "Estadio Ciudad de Valencia",
+        "city": "Valencia",
+        "capacity": 25534,
+        "latitude": 39.4946891,
+        "longitude": -0.3638225
+    },
+    {
+        "id": 1471,
+        "name": "Estadio Abanca-Riazor",
+        "city": "La Coruña",
+        "capacity": 34611,
+        "latitude": 43.3683736,
+        "longitude": -8.4171049
+    },
+    {
+        "id": 1472,
+        "name": "Estadio Municipal de Ipurúa",
+        "city": "Eibar",
+        "capacity": 8050,
+        "latitude": 43.1817416,
+        "longitude": -2.475868
+    },
+    {
+        "id": 1469,
+        "name": "Estadio Nuevo Arcángel",
+        "city": "Córdoba",
+        "capacity": 21822,
+        "latitude": 37.8721706,
+        "longitude": -4.7644367
+    },
+    {
+        "id": 1479,
+        "name": "Estadio Nuevo Los Cármenes",
+        "city": "Granada",
+        "capacity": 23156,
+        "latitude": 37.1529018,
+        "longitude": -3.5957356
+    },
+    {
+        "id": 1490,
+        "name": "Estadio Nuevo Carlos Tartiere",
+        "city": "Oviedo",
+        "capacity": 30500,
+        "latitude": 43.360766,
+        "longitude": -5.870241399999999
+    },
+    {
+        "id": 22053,
+        "name": "Estadio Heliodoro Rodríguez Lopéz",
+        "city": "Santa Cruz de Tenerife (Tenerife)",
+        "capacity": 23660,
+        "latitude": 28.4632978,
+        "longitude": -16.2605297
+    },
+    {
+        "id": 1458,
+        "name": "Estadio Carlos Belmonte",
+        "city": "Albacete",
+        "capacity": 17524,
+        "latitude": 38.9809093,
+        "longitude": -1.852882
+    },
+    {
+        "id": 19216,
+        "name": "Power Horse Stadium - Estadio de los Juegos Mediterráneos",
+        "city": "Almería",
+        "capacity": 21350,
+        "latitude": 36.8400442,
+        "longitude": -2.4354344
+    },
+    {
+        "id": 11915,
+        "name": "Estadio Nuevo Mirandilla",
+        "city": "Cádiz",
+        "capacity": 22000,
+        "latitude": 36.502601,
+        "longitude": -6.2729285
+    },
+    {
+        "id": 1480,
+        "name": "Estadio El Alcoraz",
+        "city": "Huesca",
+        "capacity": 9128,
+        "latitude": 42.13188830000001,
+        "longitude": -0.4247182
+    },
+    {
+        "id": 1495,
+        "name": "Estadio Municipal El Molinón",
+        "city": "Gijón",
+        "capacity": 29538,
+        "latitude": 43.5362506,
+        "longitude": -5.6374096
+    },
+    {
+        "id": 1493,
+        "name": "Estadio de la Romareda",
+        "city": "Zaragoza",
+        "capacity": 34596,
+        "latitude": 41.6364449,
+        "longitude": -0.9018404999999999
+    },
+    {
+        "id": 1473,
+        "name": "Estadio Manuel Martínez Valero",
+        "city": "Elche",
+        "capacity": 36017,
+        "latitude": 38.2671385,
+        "longitude": -0.6628111
+    },
+    {
+        "id": 2920,
+        "name": "Estadio Municipal de Anduva",
+        "city": "Miranda de Ebro",
+        "capacity": 6000,
+        "latitude": 42.6808257,
+        "longitude": -2.9353593
+    },
+    {
+        "id": 3516,
+        "name": "Campos de Sport de El Sardinero",
+        "city": "Santander",
+        "capacity": 22271,
+        "latitude": 43.4762983,
+        "longitude": -3.7932772
+    },
+    {
+        "id": 3968,
+        "name": "Nou Estadi Castalia",
+        "city": "Castellón de la Plana",
+        "capacity": 14485,
+        "latitude": 39.9961111,
+        "longitude": -0.0386111
+    },
+    {
+        "id": 3976,
+        "name": "Estadio Municipal Cartagonova",
+        "city": "Cartagena",
+        "capacity": 15105,
+        "latitude": 37.6097329,
+        "longitude": -0.9960534999999999
+    },
+    {
+        "id": 6510,
+        "name": "Estadio Municipal de A Malata",
+        "city": "Ferrol",
+        "capacity": 12043,
+        "latitude": 43.4912266,
+        "longitude": -8.2394125
+    },
+    {
+        "id": 6674,
+        "name": "Estadio Municipal de El Plantío",
+        "city": "Burgos",
+        "capacity": 12200,
+        "latitude": 42.34426939999999,
+        "longitude": -3.6806043
+    },
+    {
+        "id": 6783,
+        "name": "Estadio Municipal Nuevo Pepico Amat",
+        "city": "Elda",
+        "capacity": 5776,
+        "latitude": 38.4675132,
+        "longitude": -0.7967371999999999
     }
 ]

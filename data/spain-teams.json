@@ -198,5 +198,225 @@
         "national": false,
         "logo": "https://media.api-sports.io/football/teams/798.png",
         "venue_id": 19940
+    },
+    {
+        "id": 535,
+        "name": "Malaga",
+        "code": "MAL",
+        "country": "Spain",
+        "founded": 1948,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/535.png",
+        "venue_id": 1483
+    },
+    {
+        "id": 539,
+        "name": "Levante",
+        "code": "LEV",
+        "country": "Spain",
+        "founded": 1909,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/539.png",
+        "venue_id": 1482
+    },
+    {
+        "id": 544,
+        "name": "Deportivo La Coruna",
+        "code": "COR",
+        "country": "Spain",
+        "founded": 1906,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/544.png",
+        "venue_id": 1471
+    },
+    {
+        "id": 545,
+        "name": "Eibar",
+        "code": "EIB",
+        "country": "Spain",
+        "founded": 1940,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/545.png",
+        "venue_id": 1472
+    },
+    {
+        "id": 713,
+        "name": "Cordoba",
+        "code": "COR",
+        "country": "Spain",
+        "founded": 1954,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/713.png",
+        "venue_id": 1469
+    },
+    {
+        "id": 715,
+        "name": "Granada CF",
+        "code": "GRA",
+        "country": "Spain",
+        "founded": 1931,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/715.png",
+        "venue_id": 1479
+    },
+    {
+        "id": 718,
+        "name": "Oviedo",
+        "code": "OVI",
+        "country": "Spain",
+        "founded": 1926,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/718.png",
+        "venue_id": 1490
+    },
+    {
+        "id": 719,
+        "name": "Tenerife",
+        "code": "TEN",
+        "country": "Spain",
+        "founded": 1922,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/719.png",
+        "venue_id": 22053
+    },
+    {
+        "id": 722,
+        "name": "Albacete",
+        "code": "ALB",
+        "country": "Spain",
+        "founded": 1940,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/722.png",
+        "venue_id": 1458
+    },
+    {
+        "id": 723,
+        "name": "Almeria",
+        "code": "ALM",
+        "country": "Spain",
+        "founded": 1989,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/723.png",
+        "venue_id": 19216
+    },
+    {
+        "id": 724,
+        "name": "Cadiz",
+        "code": "CAD",
+        "country": "Spain",
+        "founded": 1910,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/724.png",
+        "venue_id": 11915
+    },
+    {
+        "id": 726,
+        "name": "Huesca",
+        "code": "HUE",
+        "country": "Spain",
+        "founded": 1922,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/726.png",
+        "venue_id": 1480
+    },
+    {
+        "id": 731,
+        "name": "Sporting Gijon",
+        "code": "GIJ",
+        "country": "Spain",
+        "founded": 1905,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/731.png",
+        "venue_id": 1495
+    },
+    {
+        "id": 732,
+        "name": "Zaragoza",
+        "code": "ZAR",
+        "country": "Spain",
+        "founded": 1932,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/732.png",
+        "venue_id": 1493
+    },
+    {
+        "id": 797,
+        "name": "Elche",
+        "code": "ELC",
+        "country": "Spain",
+        "founded": 1923,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/797.png",
+        "venue_id": 1473
+    },
+    {
+        "id": 799,
+        "name": "Mirandes",
+        "code": "MIR",
+        "country": "Spain",
+        "founded": 1927,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/799.png",
+        "venue_id": 2920
+    },
+    {
+        "id": 4665,
+        "name": "Racing Santander",
+        "code": "SAN",
+        "country": "Spain",
+        "founded": 1913,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/4665.png",
+        "venue_id": 3516
+    },
+    {
+        "id": 5254,
+        "name": "Castellón",
+        "code": null,
+        "country": "Spain",
+        "founded": 1922,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/5254.png",
+        "venue_id": 3968
+    },
+    {
+        "id": 5262,
+        "name": "FC Cartagena",
+        "code": "CAR",
+        "country": "Spain",
+        "founded": 1995,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/5262.png",
+        "venue_id": 3976
+    },
+    {
+        "id": 9409,
+        "name": "Racing Ferrol",
+        "code": "FER",
+        "country": "Spain",
+        "founded": 1919,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/9409.png",
+        "venue_id": 6510
+    },
+    {
+        "id": 9580,
+        "name": "Burgos",
+        "code": "BUR",
+        "country": "Spain",
+        "founded": 1922,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/9580.png",
+        "venue_id": 6674
+    },
+    {
+        "id": 9692,
+        "name": "Eldense",
+        "code": null,
+        "country": "Spain",
+        "founded": 1921,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/9692.png",
+        "venue_id": 6783
     }
 ]
