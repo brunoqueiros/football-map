@@ -494,5 +494,125 @@
         "capacity": 2500,
         "latitude": 51.8915776,
         "longitude": 4.5252153
+    },
+    {
+        "id": 2863,
+        "name": "Sportpark Molenbroek",
+        "city": "Gemert",
+        "capacity": 6280,
+        "latitude": 51.5625705,
+        "longitude": 5.695662899999999
+    },
+    {
+        "id": 2872,
+        "name": "Complex Groote Wielen",
+        "city": "Rosmalen",
+        "capacity": 3000,
+        "latitude": 51.73571880000001,
+        "longitude": 5.3633028
+    },
+    {
+        "id": 1157,
+        "name": "Sportpark De Boekhorst",
+        "city": "Noordwijkerhout",
+        "capacity": 3000,
+        "latitude": 52.266716,
+        "longitude": 4.498834599999999
+    },
+    {
+        "id": 1118,
+        "name": "Sportpark Schildman (ASWH)",
+        "city": "Hendrik-Ido-Ambacht",
+        "capacity": 3010,
+        "latitude": 51.8435897,
+        "longitude": 4.6315984
+    },
+    {
+        "id": 2879,
+        "name": "Sportpark Ter Specke",
+        "city": "Lisse",
+        "capacity": 7000,
+        "latitude": 52.25724289999999,
+        "longitude": 4.5404268
+    },
+    {
+        "id": 2888,
+        "name": "Sportpark Denoek",
+        "city": "Hoek",
+        "capacity": 3000,
+        "latitude": 51.3145994,
+        "longitude": 3.7882091
+    },
+    {
+        "id": 2877,
+        "name": "Sportpark Zeelst",
+        "city": "Veldhoven",
+        "capacity": 2000,
+        "latitude": 51.41998419999999,
+        "longitude": 5.4162895
+    },
+    {
+        "id": 2898,
+        "name": "Sportpark De Kooltuin",
+        "city": "Katwijk aan Zee",
+        "capacity": 1500,
+        "latitude": 52.1789386,
+        "longitude": 4.4130986
+    },
+    {
+        "id": 2952,
+        "name": "Juliana-Sportpark",
+        "city": "&apos;s Gravenzande",
+        "capacity": 3000,
+        "latitude": 51.99492129999999,
+        "longitude": 4.1722455
+    },
+    {
+        "id": 2954,
+        "name": "Sportpark Het Schenge (vv GOES)",
+        "city": "Goes",
+        "capacity": 1500,
+        "latitude": 51.5120029,
+        "longitude": 3.8906264
+    },
+    {
+        "id": 2956,
+        "name": "Sportpark Nieuw Hanenburg",
+        "city": "Den Haag",
+        "capacity": 2500,
+        "latitude": 52.0722002,
+        "longitude": 4.2435999
+    },
+    {
+        "id": 2964,
+        "name": "Sportpark SteDoCo Kunstgrasveld",
+        "city": "Hoornaar",
+        "capacity": 1000,
+        "latitude": 51.8701963,
+        "longitude": 4.9500259
+    },
+    {
+        "id": 2986,
+        "name": "Sportpark Wesselopark",
+        "city": "Kloetinge",
+        "capacity": 1500,
+        "latitude": 51.5010826,
+        "longitude": 3.9196733
+    },
+    {
+        "id": 18901,
+        "name": "Sportpark Het Hoge Land Veld 1 Berkel",
+        "city": "Berkel en Rodenrijs",
+        "capacity": 1500,
+        "latitude": 52.0007039,
+        "longitude": 4.4746552
+    },
+    {
+        "id": 19748,
+        "name": "Sportpark Smitshoek",
+        "city": "Barendrecht",
+        "capacity": 2500,
+        "latitude": 51.86036420000001,
+        "longitude": 4.4852566
     }
 ]
