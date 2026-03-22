@@ -790,5 +790,141 @@
         "capacity": 5500,
         "latitude": 40.6462458,
         "longitude": -4.701602299999999
+    },
+    {
+        "id": 3977,
+        "name": "Estadio Urbieta",
+        "city": "Gernika-Lumo",
+        "capacity": 3000,
+        "latitude": 43.3227254,
+        "longitude": -2.6756125
+    },
+    {
+        "id": 3992,
+        "name": "Estadio La Pinila",
+        "city": "Teruel",
+        "capacity": 5000,
+        "latitude": 40.3323698,
+        "longitude": -1.1069024
+    },
+    {
+        "id": 3993,
+        "name": "Estadio Municipal Ciudad de Tudela",
+        "city": "Tudela",
+        "capacity": 11000,
+        "latitude": 42.0576953,
+        "longitude": -1.6115651
+    },
+    {
+        "id": 3994,
+        "name": "Estadio Nuevo Municipal Las Gaunas",
+        "city": "Logroño",
+        "capacity": 16000,
+        "latitude": 42.4532029,
+        "longitude": -2.45337
+    },
+    {
+        "id": 6672,
+        "name": "Estadio Municipal de Gobela",
+        "city": "Getxo",
+        "capacity": 1221,
+        "latitude": 43.33205590000001,
+        "longitude": -3.0073197
+    },
+    {
+        "id": 3966,
+        "name": "Estadio La Planilla",
+        "city": "Calahorra",
+        "capacity": 5600,
+        "latitude": 42.3048248,
+        "longitude": -1.9759065
+    },
+    {
+        "id": 6675,
+        "name": "Ciudad Deportiva José Luis Compañón",
+        "city": "Vitoria-Gasteiz",
+        "capacity": 2500,
+        "latitude": 42.83164559999999,
+        "longitude": -2.7215201
+    },
+    {
+        "id": 6676,
+        "name": "Estadio Merkatondoa",
+        "city": "Estella (Lizarra)",
+        "capacity": 3500,
+        "latitude": 42.6604637,
+        "longitude": -2.029929
+    },
+    {
+        "id": 6682,
+        "name": "Estadio de Luchán",
+        "city": "Ejea de los Caballeros",
+        "capacity": 3000,
+        "latitude": 42.1257313,
+        "longitude": -1.1239344
+    },
+    {
+        "id": 22052,
+        "name": "Campo José Luis Orbegozo",
+        "city": "Donostia-San Sebastián",
+        "capacity": 2500,
+        "latitude": 43.2594442,
+        "longitude": -2.0256039
+    },
+    {
+        "id": 6936,
+        "name": "Estadio Sotoburu",
+        "city": "Subiza",
+        "capacity": 1000,
+        "latitude": 42.7113113,
+        "longitude": -1.6753915
+    },
+    {
+        "id": 6940,
+        "name": "Estadio La Molineta",
+        "city": "Alfaro",
+        "capacity": 5000,
+        "latitude": 42.16726209999999,
+        "longitude": -1.7480306
+    },
+    {
+        "id": 6941,
+        "name": "Estadio Isla Anguiano",
+        "city": "Anguiano",
+        "capacity": 1000,
+        "latitude": 42.2641508,
+        "longitude": -2.7659469
+    },
+    {
+        "id": 6957,
+        "name": "Estadio Municipal de Deportes",
+        "city": "Barbastro",
+        "capacity": 5000,
+        "latitude": 42.03538220000001,
+        "longitude": 0.1369352
+    },
+    {
+        "id": 6965,
+        "name": "Ciudad Deportiva del Real Zaragoza",
+        "city": "Cuarte de Huerva",
+        "capacity": 2500,
+        "latitude": 41.59512400000001,
+        "longitude": -0.9494248999999999
+    },
+    {
+        "id": 6969,
+        "name": "Estadio Santa Ana",
+        "city": "Utebo",
+        "capacity": 5000,
+        "latitude": 41.7116793,
+        "longitude": -0.9984310000000001
+    },
+    {
+        "id": 21289,
+        "name": "Complejo Deportivo de Unbe Inferior",
+        "city": "Eibar",
+        "capacity": 1000,
+        "latitude": 43.1759452,
+        "longitude": -2.4683427
     }
 ]

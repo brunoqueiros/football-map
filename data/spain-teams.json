@@ -998,5 +998,185 @@
         "national": false,
         "logo": "https://media.api-sports.io/football/teams/9736.png",
         "venue_id": 6824
+    },
+    {
+        "id": 5263,
+        "name": "Gernika",
+        "code": null,
+        "country": "Spain",
+        "founded": 1922,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/5263.png",
+        "venue_id": 3977
+    },
+    {
+        "id": 5278,
+        "name": "Teruel",
+        "code": null,
+        "country": "Spain",
+        "founded": 1945,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/5278.png",
+        "venue_id": 3992
+    },
+    {
+        "id": 5279,
+        "name": "Tudelano",
+        "code": "TUD",
+        "country": "Spain",
+        "founded": 1935,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/5279.png",
+        "venue_id": 3993
+    },
+    {
+        "id": 5280,
+        "name": "UD Logroñés",
+        "code": "LOG",
+        "country": "Spain",
+        "founded": 1967,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/5280.png",
+        "venue_id": 3994
+    },
+    {
+        "id": 9411,
+        "name": "SD Logroñés",
+        "code": "SDL",
+        "country": "Spain",
+        "founded": 2009,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/9411.png",
+        "venue_id": 3994
+    },
+    {
+        "id": 9578,
+        "name": "Arenas Getxo",
+        "code": null,
+        "country": "Spain",
+        "founded": 1909,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/9578.png",
+        "venue_id": 6672
+    },
+    {
+        "id": 9581,
+        "name": "Calahorra",
+        "code": null,
+        "country": "Spain",
+        "founded": 1942,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/9581.png",
+        "venue_id": 3966
+    },
+    {
+        "id": 9582,
+        "name": "Deportivo Alavés II",
+        "code": null,
+        "country": "Spain",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/9582.png",
+        "venue_id": 6675
+    },
+    {
+        "id": 9583,
+        "name": "Izarra",
+        "code": null,
+        "country": "Spain",
+        "founded": 1924,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/9583.png",
+        "venue_id": 6676
+    },
+    {
+        "id": 9589,
+        "name": "Ejea",
+        "code": null,
+        "country": "Spain",
+        "founded": 1927,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/9589.png",
+        "venue_id": 6682
+    },
+    {
+        "id": 9662,
+        "name": "Real Sociedad III",
+        "code": null,
+        "country": "Spain",
+        "founded": 1998,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/9662.png",
+        "venue_id": 22052
+    },
+    {
+        "id": 9856,
+        "name": "Subiza",
+        "code": null,
+        "country": "Spain",
+        "founded": 1984,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/9856.png",
+        "venue_id": 6936
+    },
+    {
+        "id": 9860,
+        "name": "Alfaro",
+        "code": null,
+        "country": "Spain",
+        "founded": 1922,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/9860.png",
+        "venue_id": 6940
+    },
+    {
+        "id": 9861,
+        "name": "Anguiano",
+        "code": null,
+        "country": "Spain",
+        "founded": 1999,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/9861.png",
+        "venue_id": 6941
+    },
+    {
+        "id": 9879,
+        "name": "Barbastro",
+        "code": null,
+        "country": "Spain",
+        "founded": 1934,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/9879.png",
+        "venue_id": 6957
+    },
+    {
+        "id": 9887,
+        "name": "Real Zaragoza II",
+        "code": "ZAR",
+        "country": "Spain",
+        "founded": 1958,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/9887.png",
+        "venue_id": 6965
+    },
+    {
+        "id": 9891,
+        "name": "Utebo",
+        "code": null,
+        "country": "Spain",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/9891.png",
+        "venue_id": 6969
+    },
+    {
+        "id": 24572,
+        "name": "Eibar II",
+        "code": null,
+        "country": "Spain",
+        "founded": 1994,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/24572.png",
+        "venue_id": 21289
     }
 ]
