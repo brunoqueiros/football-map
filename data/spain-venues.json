@@ -2342,5 +2342,149 @@
         "capacity": 1000,
         "latitude": 40.441256,
         "longitude": -3.8158893
+    },
+    {
+        "id": 5776,
+        "name": "Estadio Mariano Haro",
+        "city": "Becerril de Campos",
+        "capacity": 2000,
+        "latitude": 42.1088014,
+        "longitude": -4.6469097
+    },
+    {
+        "id": 6810,
+        "name": "Estadio Municipal de la Arboleda",
+        "city": "Almazán",
+        "capacity": 2000,
+        "latitude": -25.2575239,
+        "longitude": -57.5751497
+    },
+    {
+        "id": 6811,
+        "name": "Estadio El Montecillo",
+        "city": "Aranda de Duero",
+        "capacity": 10000,
+        "latitude": 41.6662326,
+        "longitude": -3.6991052
+    },
+    {
+        "id": 6812,
+        "name": "Estadio La Eragudina",
+        "city": "Astorga",
+        "capacity": 2332,
+        "latitude": 42.4510131,
+        "longitude": -6.0554407
+    },
+    {
+        "id": 6813,
+        "name": "Estadio Las Salinas",
+        "city": "Tordesillas",
+        "capacity": 3500,
+        "latitude": -39.0963457,
+        "longitude": -72.6910171
+    },
+    {
+        "id": 22522,
+        "name": "Campo Municipal Jesús Esteban Rodríguez 1",
+        "city": "Bembibre",
+        "capacity": 1500,
+        "latitude": 42.6118873,
+        "longitude": -6.4246466
+    },
+    {
+        "id": 6816,
+        "name": "Ciudad Deportiva de Castañares",
+        "city": "Burgos",
+        "capacity": 1000,
+        "latitude": 42.3402099,
+        "longitude": -3.6238274
+    },
+    {
+        "id": 6817,
+        "name": "Estadio La Nueva Balastera",
+        "city": "Palencia",
+        "capacity": 12500,
+        "latitude": 42.0118394,
+        "longitude": -4.5161855
+    },
+    {
+        "id": 6818,
+        "name": "Área Deportiva Municipal Puente Castro",
+        "city": "León",
+        "capacity": 10000,
+        "latitude": 42.5747815,
+        "longitude": -5.5621066
+    },
+    {
+        "id": 6821,
+        "name": "Campo Los Dominicos",
+        "city": "La Virgen Del Camino",
+        "capacity": 1500,
+        "latitude": 42.5774965,
+        "longitude": -5.6382634
+    },
+    {
+        "id": 2920,
+        "name": "Estadio Municipal de Anduva",
+        "city": "Miranda de Ebro",
+        "capacity": 6000,
+        "latitude": 42.6808257,
+        "longitude": -2.9353593
+    },
+    {
+        "id": 6825,
+        "name": "Estadio Municipal Alfonso San Casto",
+        "city": "Santa Marta de Tormes",
+        "capacity": 1500,
+        "latitude": 40.94532419999999,
+        "longitude": -5.6254968
+    },
+    {
+        "id": 22524,
+        "name": "Campo de Fútbol de Mansilla de las Mulas",
+        "city": "Mansilla de las Mulas",
+        "capacity": 1000,
+        "latitude": 42.5040117,
+        "longitude": -5.4059856
+    },
+    {
+        "id": 12324,
+        "name": "Estadio Municipal de Fútbol Francisco Mateos",
+        "city": "Salamanca",
+        "capacity": 1000,
+        "latitude": 40.6056955,
+        "longitude": -6.524035899999999
+    },
+    {
+        "id": 783687238723,
+        "name": "Estadio Municipal La Laguna",
+        "city": "Laguna de Duero",
+        "capacity": 2500,
+        "latitude": 41.584601,
+        "longitude": -4.7246809
+    },
+    {
+        "id": 22525,
+        "name": "Campo Municipal Los Barreros",
+        "city": "Villaralbo",
+        "capacity": 2500,
+        "latitude": 41.4920425,
+        "longitude": -5.6802911
+    },
+    {
+        "id": 21080,
+        "name": "Campo Municipal de Futbol Briviesca",
+        "city": "Briviesca",
+        "capacity": 1500,
+        "latitude": 42.5511837,
+        "longitude": -3.3277554
+    },
+    {
+        "id": 22526,
+        "name": "Campo de Futbol Mojados",
+        "city": "Mojados",
+        "capacity": 1000,
+        "latitude": 41.4263372,
+        "longitude": -4.6703261
     }
 ]

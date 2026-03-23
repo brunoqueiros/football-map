@@ -2978,5 +2978,195 @@
         "national": false,
         "logo": "https://media.api-sports.io/football/teams/24709.png",
         "venue_id": 3248972349823
+    },
+    {
+        "id": 8153,
+        "name": "Becerril Campos",
+        "code": null,
+        "country": "Spain",
+        "founded": 1977,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/8153.png",
+        "venue_id": 5776
+    },
+    {
+        "id": 9721,
+        "name": "Almazán",
+        "code": null,
+        "country": "Spain",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/9721.png",
+        "venue_id": 6810
+    },
+    {
+        "id": 9722,
+        "name": "Arandina",
+        "code": null,
+        "country": "Spain",
+        "founded": 1987,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/9722.png",
+        "venue_id": 6811
+    },
+    {
+        "id": 9723,
+        "name": "Atlético Astorga",
+        "code": null,
+        "country": "Spain",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/9723.png",
+        "venue_id": 6812
+    },
+    {
+        "id": 9724,
+        "name": "Atlético Tordesillas",
+        "code": null,
+        "country": "Spain",
+        "founded": 1969,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/9724.png",
+        "venue_id": 6813
+    },
+    {
+        "id": 9725,
+        "name": "Bembibre",
+        "code": null,
+        "country": "Spain",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/9725.png",
+        "venue_id": 22522
+    },
+    {
+        "id": 9727,
+        "name": "Burgos Promesas",
+        "code": null,
+        "country": "Spain",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/9727.png",
+        "venue_id": 6816
+    },
+    {
+        "id": 9728,
+        "name": "Cristo Atlético",
+        "code": null,
+        "country": "Spain",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/9728.png",
+        "venue_id": 6817
+    },
+    {
+        "id": 9729,
+        "name": "Cultural Leonesa II",
+        "code": null,
+        "country": "Spain",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/9729.png",
+        "venue_id": 6818
+    },
+    {
+        "id": 9732,
+        "name": "La Virgen del Camino",
+        "code": null,
+        "country": "Spain",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/9732.png",
+        "venue_id": 6821
+    },
+    {
+        "id": 9733,
+        "name": "Mirandés II",
+        "code": null,
+        "country": "Spain",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/9733.png",
+        "venue_id": 2920
+    },
+    {
+        "id": 9738,
+        "name": "UD Santa Marta",
+        "code": null,
+        "country": "Spain",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/9738.png",
+        "venue_id": 6825
+    },
+    {
+        "id": 17502,
+        "name": "Atlético Mansillés",
+        "code": null,
+        "country": "Spain",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/17502.png",
+        "venue_id": 22524
+    },
+    {
+        "id": 17538,
+        "name": "Palencia CF",
+        "code": null,
+        "country": "Spain",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/17538.png",
+        "venue_id": 6817
+    },
+    {
+        "id": 17592,
+        "name": "Ciudad Rodrigo",
+        "code": null,
+        "country": "Spain",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/17592.png",
+        "venue_id": 12324
+    },
+    {
+        "id": 22143,
+        "name": "Laguna de Duero",
+        "code": null,
+        "country": "Spain",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/22143.png",
+        "venue_id": 783687238723
+    },
+    {
+        "id": 22144,
+        "name": "Villaralbo",
+        "code": null,
+        "country": "Spain",
+        "founded": 2001,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/22144.png",
+        "venue_id": 22525
+    },
+    {
+        "id": 24577,
+        "name": "Briviesca",
+        "code": null,
+        "country": "Spain",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/24577.png",
+        "venue_id": 21080
+    },
+    {
+        "id": 24578,
+        "name": "Mojados",
+        "code": null,
+        "country": "Spain",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/24578.png",
+        "venue_id": 22526
     }
 ]
