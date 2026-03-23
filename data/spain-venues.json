@@ -2062,5 +2062,141 @@
         "capacity": 14950,
         "latitude": 41.5546736,
         "longitude": 2.0911832
+    },
+    {
+        "id": 12723,
+        "name": "Estadi Olímpic Camilo Cano",
+        "city": "La Nucia",
+        "capacity": 7000,
+        "latitude": 38.6046462,
+        "longitude": -0.1221267
+    },
+    {
+        "id": 6684,
+        "name": "Ciudad Deportiva de Buñol - Campo 1",
+        "city": "Buñol",
+        "capacity": 3000,
+        "latitude": 39.4303354,
+        "longitude": -0.7752667
+    },
+    {
+        "id": 6775,
+        "name": "Ciudad Deportiva Pamesa Cerámica",
+        "city": "Villarreal",
+        "capacity": 5000,
+        "latitude": 39.9267972,
+        "longitude": -0.1007437
+    },
+    {
+        "id": 6779,
+        "name": "Campo De Futbol El Regit",
+        "city": "Atzeneta d&apos;Albaida",
+        "capacity": 5000,
+        "latitude": 38.82815550000001,
+        "longitude": -0.4980398999999999
+    },
+    {
+        "id": 6781,
+        "name": "Estadio Enrique Miralles",
+        "city": "Crevillent",
+        "capacity": 3500,
+        "latitude": 38.2520545,
+        "longitude": -0.8017253999999999
+    },
+    {
+        "id": 6785,
+        "name": "Ciudad Deportiva de San Vicente del Raspeig",
+        "city": "San Vicente del Raspeig",
+        "capacity": 3800,
+        "latitude": 38.4033951,
+        "longitude": -0.5224101999999999
+    },
+    {
+        "id": 6790,
+        "name": "Estadio Nou Camp de Morvedre",
+        "city": "Sagunt",
+        "capacity": 4000,
+        "latitude": 39.6802636,
+        "longitude": -0.2931658
+    },
+    {
+        "id": 12315,
+        "name": "Polideportivo Isabel Fernández",
+        "city": "Torrellano",
+        "capacity": 2000,
+        "latitude": 38.2907087,
+        "longitude": -0.5884052
+    },
+    {
+        "id": 12317,
+        "name": "Ciudad Deportiva FACSA",
+        "city": "Castellón de la Plana",
+        "capacity": 1000,
+        "latitude": 40.0311187,
+        "longitude": -0.0149774
+    },
+    {
+        "id": 19142,
+        "name": "Campo Municipal de la Patacona",
+        "city": "Alboraya",
+        "capacity": 1000,
+        "latitude": 39.4879427,
+        "longitude": -0.3296167
+    },
+    {
+        "id": 19143,
+        "name": "Estadio Francisco Vilaplana Mariel",
+        "city": "Alicante",
+        "capacity": 11000,
+        "latitude": 38.6168229,
+        "longitude": -0.5912658
+    },
+    {
+        "id": 20352,
+        "name": "Camp Poliesportiu Municipal Antonio Escuriet",
+        "city": "Castelló",
+        "capacity": 1500,
+        "latitude": 39.07436750000001,
+        "longitude": -0.5169429
+    },
+    {
+        "id": 3986,
+        "name": "Estadio Municipal El Clariano",
+        "city": "Ontinyent",
+        "capacity": 5000,
+        "latitude": 38.825663,
+        "longitude": -0.5912662
+    },
+    {
+        "id": 21188,
+        "name": "Camp El Arco",
+        "city": "Soneja",
+        "capacity": 1000,
+        "latitude": 39.8172203,
+        "longitude": -0.4362214
+    },
+    {
+        "id": 20160,
+        "name": "Estadio Muncipal La Celadilla",
+        "city": "Utiel",
+        "capacity": 2500,
+        "latitude": 39.5748855,
+        "longitude": -1.2131113
+    },
+    {
+        "id": 781238127361,
+        "name": "Estadio Municipal Guillermo AMOR",
+        "city": "Benidorm",
+        "capacity": 9000,
+        "latitude": 38.5473637,
+        "longitude": -0.1379684
+    },
+    {
+        "id": 328472394823,
+        "name": "Estadio Municipal José Mangriñán",
+        "city": "La Vall d'Uixó",
+        "capacity": 4000,
+        "latitude": 39.8125175,
+        "longitude": -0.2304406
     }
 ]

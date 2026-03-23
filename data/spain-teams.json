@@ -2618,5 +2618,185 @@
         "national": false,
         "logo": "https://media.api-sports.io/football/teams/24576.png",
         "venue_id": 6686
+    },
+    {
+        "id": 9393,
+        "name": "La Nucía",
+        "code": null,
+        "country": "Spain",
+        "founded": 1995,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/9393.png",
+        "venue_id": 12723
+    },
+    {
+        "id": 9591,
+        "name": "Levante II",
+        "code": "LEV",
+        "country": "Spain",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/9591.png",
+        "venue_id": 6684
+    },
+    {
+        "id": 9684,
+        "name": "Roda",
+        "code": null,
+        "country": "Spain",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/9684.png",
+        "venue_id": 6775
+    },
+    {
+        "id": 9688,
+        "name": "Atzeneta",
+        "code": null,
+        "country": "Spain",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/9688.png",
+        "venue_id": 6779
+    },
+    {
+        "id": 9690,
+        "name": "Crevillente",
+        "code": null,
+        "country": "Spain",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/9690.png",
+        "venue_id": 6781
+    },
+    {
+        "id": 9694,
+        "name": "Jove Español",
+        "code": null,
+        "country": "Spain",
+        "founded": 2004,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/9694.png",
+        "venue_id": 6785
+    },
+    {
+        "id": 9699,
+        "name": "Saguntino",
+        "code": null,
+        "country": "Spain",
+        "founded": 1951,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/9699.png",
+        "venue_id": 6790
+    },
+    {
+        "id": 9702,
+        "name": "Villarreal III",
+        "code": null,
+        "country": "Spain",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/9702.png",
+        "venue_id": 6775
+    },
+    {
+        "id": 17559,
+        "name": "Torrellano",
+        "code": null,
+        "country": "Spain",
+        "founded": 2012,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/17559.png",
+        "venue_id": 12315
+    },
+    {
+        "id": 17588,
+        "name": "Castellón II",
+        "code": null,
+        "country": "Spain",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/17588.png",
+        "venue_id": 12317
+    },
+    {
+        "id": 20266,
+        "name": "Patacona",
+        "code": null,
+        "country": "Spain",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/20266.png",
+        "venue_id": 19142
+    },
+    {
+        "id": 20267,
+        "name": "Rayo Ibense",
+        "code": null,
+        "country": "Spain",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/20267.png",
+        "venue_id": 19143
+    },
+    {
+        "id": 22138,
+        "name": "Castellonense",
+        "code": null,
+        "country": "Spain",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/22138.png",
+        "venue_id": 20352
+    },
+    {
+        "id": 22139,
+        "name": "Ontinyent 1931",
+        "code": null,
+        "country": "Spain",
+        "founded": 2019,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/22139.png",
+        "venue_id": 3986
+    },
+    {
+        "id": 22140,
+        "name": "Soneja",
+        "code": null,
+        "country": "Spain",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/22140.png",
+        "venue_id": 21188
+    },
+    {
+        "id": 22141,
+        "name": "Utiel",
+        "code": null,
+        "country": "Spain",
+        "founded": 1945,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/22141.png",
+        "venue_id": 20160
+    },
+    {
+        "id": 24778,
+        "name": "Racing CF Benidorm",
+        "code": null,
+        "country": "Spain",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/24778.png",
+        "venue_id": 781238127361
+    },
+    {
+        "id": 24779,
+        "name": "Vall de Uxó",
+        "code": null,
+        "country": "Spain",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/24779.png",
+        "venue_id": 328472394823
     }
 ]
