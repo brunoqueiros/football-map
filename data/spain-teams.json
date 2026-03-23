@@ -3168,5 +3168,185 @@
         "national": false,
         "logo": "https://media.api-sports.io/football/teams/24578.png",
         "venue_id": 22526
+    },
+    {
+        "id": 5274,
+        "name": "Real Jaén",
+        "code": "JAE",
+        "country": "Spain",
+        "founded": 1922,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/5274.png",
+        "venue_id": 3988
+    },
+    {
+        "id": 7523,
+        "name": "Atlético Porcuna",
+        "code": null,
+        "country": "Spain",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/7523.png",
+        "venue_id": 5460
+    },
+    {
+        "id": 9743,
+        "name": "Ciudad de Torredonjimeno",
+        "code": null,
+        "country": "Spain",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/9743.png",
+        "venue_id": 6829
+    },
+    {
+        "id": 9744,
+        "name": "El Ejido",
+        "code": null,
+        "country": "Spain",
+        "founded": 2012,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/9744.png",
+        "venue_id": 19240
+    },
+    {
+        "id": 9745,
+        "name": "El Palo",
+        "code": "PAL",
+        "country": "Spain",
+        "founded": 1971,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/9745.png",
+        "venue_id": 6831
+    },
+    {
+        "id": 9746,
+        "name": "Huétor Tájar",
+        "code": null,
+        "country": "Spain",
+        "founded": 1938,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/9746.png",
+        "venue_id": 6832
+    },
+    {
+        "id": 9747,
+        "name": "Huétor Vega",
+        "code": null,
+        "country": "Spain",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/9747.png",
+        "venue_id": 6833
+    },
+    {
+        "id": 9749,
+        "name": "Mancha Real",
+        "code": null,
+        "country": "Spain",
+        "founded": 1984,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/9749.png",
+        "venue_id": 6835
+    },
+    {
+        "id": 9751,
+        "name": "Motril",
+        "code": null,
+        "country": "Spain",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/9751.png",
+        "venue_id": 6837
+    },
+    {
+        "id": 9752,
+        "name": "Málaga II",
+        "code": null,
+        "country": "Spain",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/9752.png",
+        "venue_id": 6838
+    },
+    {
+        "id": 9753,
+        "name": "Polideportivo Almería",
+        "code": null,
+        "country": "Spain",
+        "founded": 1983,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/9753.png",
+        "venue_id": 21274
+    },
+    {
+        "id": 9754,
+        "name": "Torreperogil",
+        "code": null,
+        "country": "Spain",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/9754.png",
+        "venue_id": 6840
+    },
+    {
+        "id": 17558,
+        "name": "Torre del Mar",
+        "code": null,
+        "country": "Spain",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/17558.png",
+        "venue_id": 12326
+    },
+    {
+        "id": 20272,
+        "name": "Arenas Armilla",
+        "code": null,
+        "country": "Spain",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/20272.png",
+        "venue_id": 19152
+    },
+    {
+        "id": 22569,
+        "name": "Mijas Las Lagunas",
+        "code": null,
+        "country": "Spain",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/22569.png",
+        "venue_id": 21275
+    },
+    {
+        "id": 24960,
+        "name": "Marbelli",
+        "code": null,
+        "country": "Spain",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/24960.png",
+        "venue_id": 12327
+    },
+    {
+        "id": 24961,
+        "name": "Martos",
+        "code": null,
+        "country": "Spain",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/24961.png",
+        "venue_id": 21260
+    },
+    {
+        "id": 24962,
+        "name": "Malaga City",
+        "code": null,
+        "country": "Spain",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/24962.png",
+        "venue_id": 11025
     }
 ]

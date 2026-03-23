@@ -2486,5 +2486,141 @@
         "capacity": 1000,
         "latitude": 41.4263372,
         "longitude": -4.6703261
+    },
+    {
+        "id": 3988,
+        "name": "Nuevo Estadio La Victoria",
+        "city": "Jaén",
+        "capacity": 12569,
+        "latitude": 37.7753883,
+        "longitude": -3.7673872
+    },
+    {
+        "id": 5460,
+        "name": "Estadio Municipal San Benito",
+        "city": "Porcuna",
+        "capacity": 1200,
+        "latitude": 37.8706169,
+        "longitude": -4.1771974
+    },
+    {
+        "id": 6829,
+        "name": "Estadio Matías Prats",
+        "city": "Torredonjimeno",
+        "capacity": 4500,
+        "latitude": 37.7644863,
+        "longitude": -3.9478366
+    },
+    {
+        "id": 19240,
+        "name": "Estadio Municipal Santo Domingo",
+        "city": "El Ejido",
+        "capacity": 7885,
+        "latitude": 36.7640604,
+        "longitude": -2.8005414
+    },
+    {
+        "id": 6831,
+        "name": "Estadio San Ignacio",
+        "city": "Málaga",
+        "capacity": 1000,
+        "latitude": 36.7194022,
+        "longitude": -4.3554036
+    },
+    {
+        "id": 6832,
+        "name": "Estadio Municipal Miguel Moranto",
+        "city": "Huétor Tájar",
+        "capacity": 1800,
+        "latitude": 37.1977772,
+        "longitude": -4.0546541
+    },
+    {
+        "id": 6833,
+        "name": "Estadio Las Viñas",
+        "city": "Huétor Vega",
+        "capacity": 4000,
+        "latitude": 37.1473739,
+        "longitude": -3.5651278
+    },
+    {
+        "id": 6835,
+        "name": "Estadio Polideportivo La Juventud",
+        "city": "Mancha Real",
+        "capacity": 3700,
+        "latitude": 37.7890193,
+        "longitude": -3.6122432
+    },
+    {
+        "id": 6837,
+        "name": "Estadio Escribano Castilla",
+        "city": "Motril",
+        "capacity": 5400,
+        "latitude": 36.7539857,
+        "longitude": -3.5125239
+    },
+    {
+        "id": 6838,
+        "name": "Ciudad Deportiva de la Federación Malagueña de Fútbol",
+        "city": "Málaga",
+        "capacity": 1300,
+        "latitude": 36.7085139,
+        "longitude": -4.4635316
+    },
+    {
+        "id": 21274,
+        "name": "Ciudad Deportiva Los Ángeles",
+        "city": "Almería",
+        "capacity": 1500,
+        "latitude": 36.8493811,
+        "longitude": -2.3228245
+    },
+    {
+        "id": 6840,
+        "name": "Polideportivo Municipal Abdon Martínez Fariñas",
+        "city": "Torreperogil",
+        "capacity": 2000,
+        "latitude": 38.0392955,
+        "longitude": -3.2812251
+    },
+    {
+        "id": 12326,
+        "name": "Estadio Juan Manuel Azuaga",
+        "city": "Torre del Mar",
+        "capacity": 2000,
+        "latitude": 36.7502514,
+        "longitude": -4.098345999999999
+    },
+    {
+        "id": 19152,
+        "name": "Estadio Nuevo Municipal",
+        "city": "Armilla",
+        "capacity": 2000,
+        "latitude": 37.1511017,
+        "longitude": -3.6216496
+    },
+    {
+        "id": 21275,
+        "name": "Ciudad Deportiva Las Lagunas",
+        "city": "Las Lagunas de Mijas",
+        "capacity": 1000,
+        "latitude": 36.5461949,
+        "longitude": -4.6394414
+    },
+    {
+        "id": 12327,
+        "name": "Estadio Municipal",
+        "city": "San Pedro de Alcántara",
+        "capacity": 5000,
+        "latitude": 36.4926795,
+        "longitude": -4.9800677
+    },
+    {
+        "id": 21260,
+        "name": "Estadio Chamorro Martinez",
+        "city": "Martos",
+        "capacity": 5000,
+        "latitude": 37.7265081,
+        "longitude": -3.9725017
     }
 ]
