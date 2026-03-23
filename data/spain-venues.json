@@ -1918,5 +1918,149 @@
         "capacity": 1000,
         "latitude": 43.1836833,
         "longitude": -2.5350939
+    },
+    {
+        "id": 6494,
+        "name": "Estadio Municipal de Hospitalet de Llobregat",
+        "city": "L&apos;Hospitalet de Llobregat",
+        "capacity": 6740,
+        "latitude": 41.3471093,
+        "longitude": 2.1018477
+    },
+    {
+        "id": 6685,
+        "name": "Estadio Municipal Sagnier",
+        "city": "El Prat de Llobregat",
+        "capacity": 500,
+        "latitude": 41.3218186,
+        "longitude": 2.08306
+    },
+    {
+        "id": 6761,
+        "name": "Estadio Municipal Les Fontetes",
+        "city": "Cerdanyola del Vallès",
+        "capacity": 1000,
+        "latitude": 41.48621139999999,
+        "longitude": 2.1444035
+    },
+    {
+        "id": 6766,
+        "name": "Estadio El Congost",
+        "city": "Manresa",
+        "capacity": 3660,
+        "latitude": 41.7227419,
+        "longitude": 1.8129513
+    },
+    {
+        "id": 6767,
+        "name": "Estadio Municipal de Peralada",
+        "city": "Peralada",
+        "capacity": 1500,
+        "latitude": 42.311104,
+        "longitude": 3.013331
+    },
+    {
+        "id": 22480,
+        "name": "Estadio Panamericano",
+        "city": "San Cristóbal",
+        "capacity": 2800,
+        "latitude": 18.4147536,
+        "longitude": -70.1198272
+    },
+    {
+        "id": 6774,
+        "name": "Estadio Municipal Xevi Ramon",
+        "city": "Vilassar de Mar",
+        "capacity": 3000,
+        "latitude": 41.5095874,
+        "longitude": 2.3939569
+    },
+    {
+        "id": 11009,
+        "name": "Camp de Futbol Torres de Palau",
+        "city": "Girona",
+        "capacity": 1000,
+        "latitude": 41.9572873,
+        "longitude": 2.8253989
+    },
+    {
+        "id": 11010,
+        "name": "Nou Camp Municipal de Santa Coloma",
+        "city": "Santa Coloma de Gramenet",
+        "capacity": 5000,
+        "latitude": 41.4435337,
+        "longitude": 2.2096744
+    },
+    {
+        "id": 11011,
+        "name": "Estadio Municipal de Nou Barris",
+        "city": "Barcelona",
+        "capacity": 3000,
+        "latitude": 41.4375945,
+        "longitude": 2.1837498
+    },
+    {
+        "id": 20156,
+        "name": "Estadi Municipal",
+        "city": "L&apos;Escala",
+        "capacity": 1000,
+        "latitude": -21.7400878,
+        "longitude": -48.685546
+    },
+    {
+        "id": 20157,
+        "name": "Camp Municipal d'Esports",
+        "city": "Mollerussa",
+        "capacity": 4000,
+        "latitude": 41.6227373,
+        "longitude": 0.8927982
+    },
+    {
+        "id": 3964,
+        "name": "Estadi Municipal de Badalona",
+        "city": "Badalona",
+        "capacity": 4384,
+        "latitude": 41.4553122,
+        "longitude": 2.23715
+    },
+    {
+        "id": 19140,
+        "name": "Estadio Municipal Tona",
+        "city": "Tona",
+        "capacity": 2000,
+        "latitude": -21.5547338,
+        "longitude": -47.699844
+    },
+    {
+        "id": 1468,
+        "name": "Estadio Camp Nou Municipal",
+        "city": "Reus",
+        "capacity": 4847,
+        "latitude": 41.1563639,
+        "longitude": 1.0857587
+    },
+    {
+        "id": 21089,
+        "name": "Camp de futbol Ramon Farrús",
+        "city": "Lleida",
+        "capacity": 1000,
+        "latitude": 41.60834029999999,
+        "longitude": 0.6306691
+    },
+    {
+        "id": 1466,
+        "name": "Camp Municipal de Futbol Nou Sardenya",
+        "city": "Barcelona",
+        "capacity": 7000,
+        "latitude": 41.4117301,
+        "longitude": 2.1615738
+    },
+    {
+        "id": 6686,
+        "name": "Estadi de la Nova Creu Alta",
+        "city": "Sabadell",
+        "capacity": 14950,
+        "latitude": 41.5546736,
+        "longitude": 2.0911832
     }
 ]
