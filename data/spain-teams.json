@@ -2798,5 +2798,185 @@
         "national": false,
         "logo": "https://media.api-sports.io/football/teams/24779.png",
         "venue_id": 328472394823
+    },
+    {
+        "id": 8156,
+        "name": "El Álamo",
+        "code": null,
+        "country": "Spain",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/8156.png",
+        "venue_id": 5779
+    },
+    {
+        "id": 9395,
+        "name": "Las Rozas",
+        "code": null,
+        "country": "Spain",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/9395.png",
+        "venue_id": 19144
+    },
+    {
+        "id": 9704,
+        "name": "AD Parla",
+        "code": null,
+        "country": "Spain",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/9704.png",
+        "venue_id": 6794
+    },
+    {
+        "id": 9705,
+        "name": "Alcobendas Sport",
+        "code": null,
+        "country": "Spain",
+        "founded": 1995,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/9705.png",
+        "venue_id": 19146
+    },
+    {
+        "id": 9706,
+        "name": "Alcorcón II",
+        "code": null,
+        "country": "Spain",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/9706.png",
+        "venue_id": 6796
+    },
+    {
+        "id": 9708,
+        "name": "Carabanchel",
+        "code": null,
+        "country": "Spain",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/9708.png",
+        "venue_id": 6798
+    },
+    {
+        "id": 9710,
+        "name": "Leganés II",
+        "code": null,
+        "country": "Spain",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/9710.png",
+        "venue_id": 6800
+    },
+    {
+        "id": 9714,
+        "name": "RSD Alcalá",
+        "code": null,
+        "country": "Spain",
+        "founded": 1929,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/9714.png",
+        "venue_id": 6803
+    },
+    {
+        "id": 9715,
+        "name": "Rayo Vallecano II",
+        "code": null,
+        "country": "Spain",
+        "founded": 1924,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/9715.png",
+        "venue_id": 19147
+    },
+    {
+        "id": 9717,
+        "name": "Torrejón",
+        "code": null,
+        "country": "Spain",
+        "founded": 2002,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/9717.png",
+        "venue_id": 6806
+    },
+    {
+        "id": 9718,
+        "name": "Trival Valderas",
+        "code": null,
+        "country": "Spain",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/9718.png",
+        "venue_id": 6807
+    },
+    {
+        "id": 9720,
+        "name": "Villaverde-Boetticher",
+        "code": null,
+        "country": "Spain",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/9720.png",
+        "venue_id": 6809
+    },
+    {
+        "id": 17516,
+        "name": "Galapagar",
+        "code": null,
+        "country": "Spain",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/17516.png",
+        "venue_id": 12318
+    },
+    {
+        "id": 17560,
+        "name": "Tres Cantos",
+        "code": null,
+        "country": "Spain",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/17560.png",
+        "venue_id": 12319
+    },
+    {
+        "id": 20268,
+        "name": "Canillas",
+        "code": null,
+        "country": "Spain",
+        "founded": 1961,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/20268.png",
+        "venue_id": 19148
+    },
+    {
+        "id": 20269,
+        "name": "Collado Villalba",
+        "code": null,
+        "country": "Spain",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/20269.png",
+        "venue_id": 19149
+    },
+    {
+        "id": 24708,
+        "name": "Aravaca",
+        "code": null,
+        "country": "Spain",
+        "founded": 1933,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/24708.png",
+        "venue_id": 21151
+    },
+    {
+        "id": 24709,
+        "name": "Cala Pozuelo",
+        "code": null,
+        "country": "Spain",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/24709.png",
+        "venue_id": 3248972349823
     }
 ]
