@@ -2918,5 +2918,149 @@
         "capacity": 700,
         "latitude": 39.5214146,
         "longitude": 3.0189758
+    },
+    {
+        "id": 3983,
+        "name": "Estadio Silvestre Carrillo",
+        "city": "Santa Cruz de la Palma (La Palma)",
+        "capacity": 6000,
+        "latitude": 28.68749529999999,
+        "longitude": -17.7740852
+    },
+    {
+        "id": 5963,
+        "name": "Estadio Malvinas Argentinas",
+        "city": "Los Polvorines",
+        "capacity": 6800,
+        "latitude": -34.5135346,
+        "longitude": -58.7063445
+    },
+    {
+        "id": 6515,
+        "name": "Campo de Fútbol Juan Guedes",
+        "city": "Las Palmas de Gran Canaria",
+        "capacity": 2000,
+        "latitude": 28.1043351,
+        "longitude": -15.4750661
+    },
+    {
+        "id": 6668,
+        "name": "Anexo Gran Canaria",
+        "city": "Las Palmas de Gran Canaria",
+        "capacity": 2000,
+        "latitude": 28.1022246,
+        "longitude": -15.4543721
+    },
+    {
+        "id": 6875,
+        "name": "Campo Municipal de Fútbol Clementina de Bello",
+        "city": "Buzanada",
+        "capacity": 1000,
+        "latitude": 28.0664963,
+        "longitude": -16.6535635
+    },
+    {
+        "id": 6877,
+        "name": "Estadio Villa Isabel",
+        "city": "Tenerife",
+        "capacity": 3000,
+        "latitude": 28.0137613,
+        "longitude": -16.6704706
+    },
+    {
+        "id": 22483,
+        "name": "Campo de fútbol Francisco Bermúdez Hernández",
+        "city": "Tías",
+        "capacity": 2000,
+        "latitude": 28.9516527,
+        "longitude": -13.6543794
+    },
+    {
+        "id": 6880,
+        "name": "Estadio Antonio Domínguez Alfonso",
+        "city": "Los Cristianos (Tenerife)",
+        "capacity": 7500,
+        "latitude": 28.0599944,
+        "longitude": -16.7270441
+    },
+    {
+        "id": 6881,
+        "name": "Campo de Futbol Vega de San Mateo",
+        "city": "Vega de San Mateo",
+        "capacity": 3000,
+        "latitude": 28.0076738,
+        "longitude": -15.5345771
+    },
+    {
+        "id": 6882,
+        "name": "Estadio Argelio Tabares",
+        "city": "Santa Úrsula",
+        "capacity": 2000,
+        "latitude": 28.4260382,
+        "longitude": -16.4849599
+    },
+    {
+        "id": 6885,
+        "name": "Ciudad Deportiva de Maspalomas",
+        "city": "Maspalomas (Gran Canaria)",
+        "capacity": 2000,
+        "latitude": 27.7622318,
+        "longitude": -15.5949525
+    },
+    {
+        "id": 6886,
+        "name": "Estadio Alfonso Silva",
+        "city": "Las Palmas de Gran Canaria",
+        "capacity": 3500,
+        "latitude": 28.1078376,
+        "longitude": -15.4424714
+    },
+    {
+        "id": 6888,
+        "name": "Campo Los Olivos",
+        "city": "Santa Brígida",
+        "capacity": 1000,
+        "latitude": 28.0416203,
+        "longitude": -15.4933164
+    },
+    {
+        "id": 22484,
+        "name": "Complejo Deportivo Municipal Manuel Pablo",
+        "city": "Arucas",
+        "capacity": 1000,
+        "latitude": 28.1489376,
+        "longitude": -15.5285612
+    },
+    {
+        "id": 6878,
+        "name": "Estadio Municipal de Los Pozos",
+        "city": "Puerto Rosario",
+        "capacity": 2000,
+        "latitude": 28.4918354,
+        "longitude": -13.8665066
+    },
+    {
+        "id": 19153,
+        "name": "Estadio Las Palmitas",
+        "city": "Gran Canaria",
+        "capacity": 3500,
+        "latitude": 27.852796,
+        "longitude": -15.4637923
+    },
+    {
+        "id": 21103,
+        "name": "Estadio Municipal Pedro Espinosa De León",
+        "city": "San Bartolomé",
+        "capacity": 2000,
+        "latitude": 42.587534,
+        "longitude": -5.576597599999999
+    },
+    {
+        "id": 21104,
+        "name": "Estadio Municipal Aceró",
+        "city": "Los Llanos de Aridane",
+        "capacity": 3000,
+        "latitude": 28.6612296,
+        "longitude": -17.9196792
     }
 ]

@@ -3718,5 +3718,185 @@
         "national": false,
         "logo": "https://media.api-sports.io/football/teams/24580.png",
         "venue_id": 1287893798213
+    },
+    {
+        "id": 5269,
+        "name": "Mensajero",
+        "code": null,
+        "country": "Spain",
+        "founded": 1922,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/5269.png",
+        "venue_id": 3983
+    },
+    {
+        "id": 8379,
+        "name": "San Miguel",
+        "code": "MIG",
+        "country": "Argentina",
+        "founded": 1922,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/8379.png",
+        "venue_id": 5963
+    },
+    {
+        "id": 9415,
+        "name": "Tamaraceite",
+        "code": null,
+        "country": "Spain",
+        "founded": 1966,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/9415.png",
+        "venue_id": 6515
+    },
+    {
+        "id": 9574,
+        "name": "Las Palmas II",
+        "code": "PAL",
+        "country": "Spain",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/9574.png",
+        "venue_id": 6668
+    },
+    {
+        "id": 9793,
+        "name": "Buzanada",
+        "code": null,
+        "country": "Spain",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/9793.png",
+        "venue_id": 6875
+    },
+    {
+        "id": 9795,
+        "name": "Ibarra",
+        "code": null,
+        "country": "Spain",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/9795.png",
+        "venue_id": 6877
+    },
+    {
+        "id": 9797,
+        "name": "Lanzarote",
+        "code": null,
+        "country": "Spain",
+        "founded": 1970,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/9797.png",
+        "venue_id": 22483
+    },
+    {
+        "id": 9799,
+        "name": "Marino",
+        "code": null,
+        "country": "Spain",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/9799.png",
+        "venue_id": 6880
+    },
+    {
+        "id": 9800,
+        "name": "Panadería Pulido",
+        "code": null,
+        "country": "Spain",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/9800.png",
+        "venue_id": 6881
+    },
+    {
+        "id": 9801,
+        "name": "Santa Úrsula",
+        "code": null,
+        "country": "Spain",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/9801.png",
+        "venue_id": 6882
+    },
+    {
+        "id": 9804,
+        "name": "UD San Fernando",
+        "code": null,
+        "country": "Spain",
+        "founded": 1992,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/9804.png",
+        "venue_id": 6885
+    },
+    {
+        "id": 9805,
+        "name": "Unión Viera",
+        "code": null,
+        "country": "Spain",
+        "founded": 1962,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/9805.png",
+        "venue_id": 6886
+    },
+    {
+        "id": 9807,
+        "name": "Villa Santa Brígida",
+        "code": null,
+        "country": "Spain",
+        "founded": 2004,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/9807.png",
+        "venue_id": 6888
+    },
+    {
+        "id": 15472,
+        "name": "Arucas",
+        "code": null,
+        "country": "Spain",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/15472.png",
+        "venue_id": 22484
+    },
+    {
+        "id": 17603,
+        "name": "Herbania",
+        "code": null,
+        "country": "Spain",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/17603.png",
+        "venue_id": 6878
+    },
+    {
+        "id": 20275,
+        "name": "Estrella",
+        "code": null,
+        "country": "Spain",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/20275.png",
+        "venue_id": 19153
+    },
+    {
+        "id": 22148,
+        "name": "San Bartolomé",
+        "code": null,
+        "country": "Spain",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/22148.png",
+        "venue_id": 21103
+    },
+    {
+        "id": 24611,
+        "name": "Los Llanos",
+        "code": null,
+        "country": "Spain",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/24611.png",
+        "venue_id": 21104
     }
 ]
