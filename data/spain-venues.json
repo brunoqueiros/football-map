@@ -3062,5 +3062,149 @@
         "capacity": 3000,
         "latitude": 28.6612296,
         "longitude": -17.9196792
+    },
+    {
+        "id": 5778,
+        "name": "Polideportivo Municipal El Palmar",
+        "city": "El Palmar",
+        "capacity": 2000,
+        "latitude": 37.9329654,
+        "longitude": -1.1608024
+    },
+    {
+        "id": 2918,
+        "name": "Estadio Francisco Artés Carrasco",
+        "city": "Lorca",
+        "capacity": 8120,
+        "latitude": 37.6394879,
+        "longitude": -1.7350952
+    },
+    {
+        "id": 6889,
+        "name": "Estadio San Miguel",
+        "city": "Pulpí",
+        "capacity": 2000,
+        "latitude": 37.4019674,
+        "longitude": -1.7501887
+    },
+    {
+        "id": 6897,
+        "name": "Estadio Municipal de Mula",
+        "city": "Mula",
+        "capacity": 2000,
+        "latitude": 38.0408554,
+        "longitude": -1.4851346
+    },
+    {
+        "id": 6899,
+        "name": "Estadio Municipal de Llano de Brujas",
+        "city": "Llano de Brujas",
+        "capacity": 2000,
+        "latitude": 38.00157919999999,
+        "longitude": -1.0692522
+    },
+    {
+        "id": 6900,
+        "name": "Estadio Campus Universitario",
+        "city": "Murcia",
+        "capacity": 5000,
+        "latitude": 38.0145801,
+        "longitude": -1.1688644
+    },
+    {
+        "id": 6901,
+        "name": "Campo Municipal El Secante",
+        "city": "Alumbres",
+        "capacity": 1000,
+        "latitude": 37.6023123,
+        "longitude": -0.9130969999999998
+    },
+    {
+        "id": 6902,
+        "name": "Estadio El Mayayo",
+        "city": "Sangonera la Verde",
+        "capacity": 1200,
+        "latitude": 37.9233774,
+        "longitude": -1.1936494
+    },
+    {
+        "id": 10979,
+        "name": "Estadio Nicolás de las Peñas",
+        "city": "Bullas",
+        "capacity": 2000,
+        "latitude": 38.0451418,
+        "longitude": -1.6749685
+    },
+    {
+        "id": 12344,
+        "name": "Estadio Playa Sol",
+        "city": "Puerto de Mazarrón",
+        "capacity": 4500,
+        "latitude": 37.572116,
+        "longitude": -1.2610272
+    },
+    {
+        "id": 12345,
+        "name": "Complejo Deportivo Francisco Fernández Torralba",
+        "city": "Caravaca de la Cruz",
+        "capacity": 1000,
+        "latitude": 38.1058713,
+        "longitude": -1.8550805
+    },
+    {
+        "id": 10978,
+        "name": "Escuela de Fútbol Ciudad Jardín",
+        "city": "Cartagena",
+        "capacity": 2000,
+        "latitude": 37.61802650000001,
+        "longitude": -0.9922051
+    },
+    {
+        "id": 19154,
+        "name": "Polideportivo Municipal Ángel Sornichero",
+        "city": "Alcantarilla",
+        "capacity": 4000,
+        "latitude": 37.9741756,
+        "longitude": -1.2265668
+    },
+    {
+        "id": 19155,
+        "name": "Estadio de La Arboleja",
+        "city": "Cieza",
+        "capacity": 5500,
+        "latitude": 38.2319199,
+        "longitude": -1.404609
+    },
+    {
+        "id": 19156,
+        "name": "Estadio Municipal Sánchez Cánovas",
+        "city": "Molina de Segura",
+        "capacity": 1500,
+        "latitude": 38.0512533,
+        "longitude": -1.2251519
+    },
+    {
+        "id": 21126,
+        "name": "Campo de Fútbol de Balsicas",
+        "city": "Torre-Pacheco",
+        "capacity": 1000,
+        "latitude": 37.8235485,
+        "longitude": -0.9564824000000001
+    },
+    {
+        "id": 21127,
+        "name": "Estadio El Limonar",
+        "city": "Santomera",
+        "capacity": 3000,
+        "latitude": 38.07021719999999,
+        "longitude": -1.0471584
+    },
+    {
+        "id": 6903,
+        "name": "Estadio El Rubial",
+        "city": "Águilas",
+        "capacity": 4000,
+        "latitude": 37.4037154,
+        "longitude": -1.5907668
     }
 ]

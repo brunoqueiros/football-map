@@ -3898,5 +3898,185 @@
         "national": false,
         "logo": "https://media.api-sports.io/football/teams/24611.png",
         "venue_id": 21104
+    },
+    {
+        "id": 8155,
+        "name": "El Palmar",
+        "code": null,
+        "country": "Spain",
+        "founded": 2006,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/8155.png",
+        "venue_id": 5778
+    },
+    {
+        "id": 9400,
+        "name": "Lorca Deportiva",
+        "code": null,
+        "country": "Spain",
+        "founded": 2012,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/9400.png",
+        "venue_id": 2918
+    },
+    {
+        "id": 9808,
+        "name": "Atlético Pulpileño",
+        "code": null,
+        "country": "Spain",
+        "founded": 2002,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/9808.png",
+        "venue_id": 6889
+    },
+    {
+        "id": 9817,
+        "name": "Muleño",
+        "code": null,
+        "country": "Spain",
+        "founded": 1989,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/9817.png",
+        "venue_id": 6897
+    },
+    {
+        "id": 9819,
+        "name": "Plus Ultra",
+        "code": null,
+        "country": "Spain",
+        "founded": 1986,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/9819.png",
+        "venue_id": 6899
+    },
+    {
+        "id": 9820,
+        "name": "Real Murcia II",
+        "code": null,
+        "country": "Spain",
+        "founded": 1908,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/9820.png",
+        "venue_id": 6900
+    },
+    {
+        "id": 9821,
+        "name": "SFC Minerva",
+        "code": null,
+        "country": "Spain",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/9821.png",
+        "venue_id": 6901
+    },
+    {
+        "id": 9822,
+        "name": "UCAM Murcia II",
+        "code": null,
+        "country": "Spain",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/9822.png",
+        "venue_id": 6902
+    },
+    {
+        "id": 15314,
+        "name": "Bullense",
+        "code": null,
+        "country": "Spain",
+        "founded": 1931,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/15314.png",
+        "venue_id": 10979
+    },
+    {
+        "id": 17607,
+        "name": "Bala Azul",
+        "code": null,
+        "country": "Spain",
+        "founded": 1968,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/17607.png",
+        "venue_id": 12344
+    },
+    {
+        "id": 17608,
+        "name": "UD Caravaca",
+        "code": null,
+        "country": "Spain",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/17608.png",
+        "venue_id": 12345
+    },
+    {
+        "id": 17715,
+        "name": "Cartagena LU II",
+        "code": null,
+        "country": "Spain",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/17715.png",
+        "venue_id": 10978
+    },
+    {
+        "id": 20276,
+        "name": "Alcantarilla",
+        "code": null,
+        "country": "Spain",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/20276.png",
+        "venue_id": 19154
+    },
+    {
+        "id": 20277,
+        "name": "Cieza",
+        "code": null,
+        "country": "Spain",
+        "founded": 1970,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/20277.png",
+        "venue_id": 19155
+    },
+    {
+        "id": 20278,
+        "name": "Unión Molinense",
+        "code": null,
+        "country": "Spain",
+        "founded": 2022,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/20278.png",
+        "venue_id": 19156
+    },
+    {
+        "id": 22180,
+        "name": "Balsicas Atlético",
+        "code": null,
+        "country": "Spain",
+        "founded": 2002,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/22180.png",
+        "venue_id": 21126
+    },
+    {
+        "id": 24655,
+        "name": "Santomera",
+        "code": null,
+        "country": "Spain",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/24655.png",
+        "venue_id": 21127
+    },
+    {
+        "id": 24656,
+        "name": "Águilas II",
+        "code": null,
+        "country": "Spain",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/24656.png",
+        "venue_id": 6903
     }
 ]
