@@ -3348,5 +3348,195 @@
         "national": false,
         "logo": "https://media.api-sports.io/football/teams/24962.png",
         "venue_id": 11025
+    },
+    {
+        "id": 9756,
+        "name": "Ciudad de Lucena",
+        "code": "LUC",
+        "country": "Spain",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/9756.png",
+        "venue_id": 6842
+    },
+    {
+        "id": 9757,
+        "name": "Conil",
+        "code": null,
+        "country": "Spain",
+        "founded": 1931,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/9757.png",
+        "venue_id": 6843
+    },
+    {
+        "id": 9758,
+        "name": "Coria CF",
+        "code": null,
+        "country": "Spain",
+        "founded": 1923,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/9758.png",
+        "venue_id": 6844
+    },
+    {
+        "id": 9759,
+        "name": "Córdoba II",
+        "code": "COR",
+        "country": "Spain",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/9759.png",
+        "venue_id": 1469
+    },
+    {
+        "id": 9760,
+        "name": "Gerena",
+        "code": null,
+        "country": "Spain",
+        "founded": 2006,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/9760.png",
+        "venue_id": 21391
+    },
+    {
+        "id": 9763,
+        "name": "Pozoblanco",
+        "code": null,
+        "country": "Spain",
+        "founded": 1926,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/9763.png",
+        "venue_id": 12610
+    },
+    {
+        "id": 9764,
+        "name": "Puente Genil",
+        "code": null,
+        "country": "Spain",
+        "founded": 1939,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/9764.png",
+        "venue_id": 6848
+    },
+    {
+        "id": 9767,
+        "name": "San Roque Lepe",
+        "code": null,
+        "country": "Spain",
+        "founded": 1956,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/9767.png",
+        "venue_id": 6851
+    },
+    {
+        "id": 9768,
+        "name": "Sevilla III",
+        "code": null,
+        "country": "Spain",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/9768.png",
+        "venue_id": 2919
+    },
+    {
+        "id": 9769,
+        "name": "Utrera",
+        "code": null,
+        "country": "Spain",
+        "founded": 1946,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/9769.png",
+        "venue_id": 6852
+    },
+    {
+        "id": 15310,
+        "name": "La Palma",
+        "code": null,
+        "country": "Spain",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/15310.png",
+        "venue_id": 10974
+    },
+    {
+        "id": 15528,
+        "name": "Tomares",
+        "code": null,
+        "country": "Spain",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/15528.png",
+        "venue_id": 12328
+    },
+    {
+        "id": 17595,
+        "name": "Cartaya",
+        "code": null,
+        "country": "Spain",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/17595.png",
+        "venue_id": 12329
+    },
+    {
+        "id": 17596,
+        "name": "Ceuta II",
+        "code": null,
+        "country": "Spain",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/17596.png",
+        "venue_id": 3969
+    },
+    {
+        "id": 18088,
+        "name": "Atlético Espeleño",
+        "code": null,
+        "country": "Spain",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/18088.png",
+        "venue_id": 12580
+    },
+    {
+        "id": 20257,
+        "name": "Bollullos",
+        "code": null,
+        "country": "Spain",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/20257.png",
+        "venue_id": 19135
+    },
+    {
+        "id": 24723,
+        "name": "Atlético Central",
+        "code": null,
+        "country": "Spain",
+        "founded": 2018,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/24723.png",
+        "venue_id": 21392
+    },
+    {
+        "id": 24724,
+        "name": "Atlético Onubense",
+        "code": null,
+        "country": "Spain",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/24724.png",
+        "venue_id": 21162
+    },
+    {
+        "id": 25179,
+        "name": "Inter Sevilla",
+        "code": null,
+        "country": "Spain",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/25179.png",
+        "venue_id": 397982373298
     }
 ]

@@ -2622,5 +2622,157 @@
         "capacity": 5000,
         "latitude": 37.7265081,
         "longitude": -3.9725017
+    },
+    {
+        "id": 6842,
+        "name": "Estadio Ciudad de Lucena",
+        "city": "Lucena",
+        "capacity": 5076,
+        "latitude": 37.4129519,
+        "longitude": -4.505753599999999
+    },
+    {
+        "id": 6843,
+        "name": "Estadio Municipal Jose António Pérez Ureba",
+        "city": "Conil de la Frontera",
+        "capacity": 1500,
+        "latitude": 37.8179918,
+        "longitude": -0.7916966
+    },
+    {
+        "id": 6844,
+        "name": "Estadio Guadalquivir",
+        "city": "Coria del Río",
+        "capacity": 5000,
+        "latitude": 37.2806286,
+        "longitude": -6.051006
+    },
+    {
+        "id": 1469,
+        "name": "Estadio Nuevo Arcángel",
+        "city": "Córdoba",
+        "capacity": 21822,
+        "latitude": 37.8721706,
+        "longitude": -4.7644367
+    },
+    {
+        "id": 21391,
+        "name": "Estadio San José",
+        "city": "Gines",
+        "capacity": 1000,
+        "latitude": 37.3929957,
+        "longitude": -6.0768428
+    },
+    {
+        "id": 12610,
+        "name": "Estadio Municipal Pozoblanco",
+        "city": "Pozoblanco",
+        "capacity": 5000,
+        "latitude": 38.3760605,
+        "longitude": -4.8420983
+    },
+    {
+        "id": 6848,
+        "name": "Estadio Municipal Manuel Polinario",
+        "city": "Puente Genil",
+        "capacity": 2000,
+        "latitude": 37.3978582,
+        "longitude": -4.7693666
+    },
+    {
+        "id": 6851,
+        "name": "Estadio Municipal Ciudad de Lepe",
+        "city": "Lepe",
+        "capacity": 4000,
+        "latitude": 37.2510238,
+        "longitude": -7.1935897
+    },
+    {
+        "id": 2919,
+        "name": "Estadio Jesús Navas",
+        "city": "Sevilla",
+        "capacity": 7000,
+        "latitude": 37.3523162,
+        "longitude": -5.9470053
+    },
+    {
+        "id": 6852,
+        "name": "Estadio San Juan Bosco",
+        "city": "Utrera",
+        "capacity": 3000,
+        "latitude": 37.1900939,
+        "longitude": -5.7706069
+    },
+    {
+        "id": 10974,
+        "name": "Estadio Municipal",
+        "city": "La Palma del Condado",
+        "capacity": 2000,
+        "latitude": 37.3820735,
+        "longitude": -6.5502011
+    },
+    {
+        "id": 12328,
+        "name": "Estadio Municipal San Sebastián",
+        "city": "Tomares",
+        "capacity": 2500,
+        "latitude": 37.3731949,
+        "longitude": -6.0461616
+    },
+    {
+        "id": 12329,
+        "name": "Estadio Municipal Luis Rodriguez Salvador",
+        "city": "Cartaya",
+        "capacity": 3072,
+        "latitude": 37.27714,
+        "longitude": -7.14431
+    },
+    {
+        "id": 3969,
+        "name": "Estadio Municipal Alfonso Murube",
+        "city": "Ceuta",
+        "capacity": 7000,
+        "latitude": 35.8854565,
+        "longitude": -5.3279087
+    },
+    {
+        "id": 12580,
+        "name": "Campo de Fútbol Municipal",
+        "city": "Espiel",
+        "capacity": 5000,
+        "latitude": 38.18698120000001,
+        "longitude": -5.0206327
+    },
+    {
+        "id": 19135,
+        "name": "Estadio Eloy Ávila Cano Bollullos",
+        "city": "Bollullos Par del Condado",
+        "capacity": 3000,
+        "latitude": 37.3355903,
+        "longitude": -6.5460577
+    },
+    {
+        "id": 21392,
+        "name": "Centro Deportivo Vega de Triana",
+        "city": "Sevilla",
+        "capacity": 1000,
+        "latitude": 37.3826608,
+        "longitude": -6.0150292
+    },
+    {
+        "id": 21162,
+        "name": "Ciudad Deportiva Decáno del Fútbol Español",
+        "city": "Huelva",
+        "capacity": 1000,
+        "latitude": 37.3100666,
+        "longitude": -6.8808113
+    },
+    {
+        "id": 397982373298,
+        "name": "San José Stadium",
+        "city": "Sevilla",
+        "capacity": 350,
+        "latitude": 37.3840863,
+        "longitude": -5.9709778
     }
 ]
