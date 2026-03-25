@@ -2774,5 +2774,149 @@
         "capacity": 350,
         "latitude": 37.3840863,
         "longitude": -5.9709778
+    },
+    {
+        "id": 3987,
+        "name": "Estadio Municipal de Sa Pobla",
+        "city": "Sa Pobla (Mallorca",
+        "capacity": 8000,
+        "latitude": 39.7606778,
+        "longitude": 3.0199749
+    },
+    {
+        "id": 6856,
+        "name": "Estadi Municipal Els Arcs",
+        "city": "Mallorca",
+        "capacity": 4000,
+        "latitude": 39.1906725,
+        "longitude": -0.5126345
+    },
+    {
+        "id": 6857,
+        "name": "Estadio Miquel Pons",
+        "city": "Mallorca",
+        "capacity": 2000,
+        "latitude": 39.6856556,
+        "longitude": 2.8375706
+    },
+    {
+        "id": 6858,
+        "name": "Estadio Municipal Coll d’en Rebassa",
+        "city": "Mallorca",
+        "capacity": 1000,
+        "latitude": 39.55115170000001,
+        "longitude": 2.6976176
+    },
+    {
+        "id": 6859,
+        "name": "Nou Camp de Inca",
+        "city": "Inca",
+        "capacity": 10000,
+        "latitude": 39.71494149999999,
+        "longitude": 2.9162797
+    },
+    {
+        "id": 6861,
+        "name": "Estadio Es Torrentó",
+        "city": "Mallorca",
+        "capacity": 2000,
+        "latitude": 39.589952,
+        "longitude": 2.63005
+    },
+    {
+        "id": 6863,
+        "name": "Estadio Municipal",
+        "city": "Sant Francesc de Formentera",
+        "capacity": 2500,
+        "latitude": 38.7011422,
+        "longitude": 1.4406264
+    },
+    {
+        "id": 6864,
+        "name": "Camp Municipal Es Puig",
+        "city": "Mallorca",
+        "capacity": 2000,
+        "latitude": 39.7025027,
+        "longitude": 3.1096078
+    },
+    {
+        "id": 20162,
+        "name": "Poliesportiu Municipal Na Capellera",
+        "city": "Manacor",
+        "capacity": 3000,
+        "latitude": 39.5660628,
+        "longitude": 3.2187227
+    },
+    {
+        "id": 6867,
+        "name": "Polideportivo Municipal de Magalluf",
+        "city": "Mallorca",
+        "capacity": 3500,
+        "latitude": 39.5109794,
+        "longitude": 2.5305032
+    },
+    {
+        "id": 6868,
+        "name": "Estadio Sant Antoni",
+        "city": "Sant Antoni de Portmany",
+        "capacity": 3000,
+        "latitude": 38.9826007,
+        "longitude": 1.3054417
+    },
+    {
+        "id": 6871,
+        "name": "Estadio Municipal de Santanyí",
+        "city": "Santanyí (Mallorca",
+        "capacity": 4000,
+        "latitude": 39.3507722,
+        "longitude": 3.1348241
+    },
+    {
+        "id": 10977,
+        "name": "Campo Municipal Kiko Serra",
+        "city": "Sant Josep de sa Talaia",
+        "capacity": 2000,
+        "latitude": 38.8939944,
+        "longitude": 1.3846143
+    },
+    {
+        "id": 12333,
+        "name": "Camp Municipal d'Esports de Campos",
+        "city": "Mallorca",
+        "capacity": 1500,
+        "latitude": 39.4345365,
+        "longitude": 3.0077189
+    },
+    {
+        "id": 12335,
+        "name": "Estadio San Martì",
+        "city": "Menorca",
+        "capacity": 1000,
+        "latitude": 39.992509,
+        "longitude": 4.09277
+    },
+    {
+        "id": 20144,
+        "name": "Camp de Futbol Municipal de Sant Miquel de Balansat",
+        "city": "Sant Miquel de Balansat",
+        "capacity": 1000,
+        "latitude": 39.0595321,
+        "longitude": 1.4635988
+    },
+    {
+        "id": 89327987289,
+        "name": "Los Nogales Municipal Sports Field",
+        "city": "Es Migjorn Gran",
+        "capacity": 1000,
+        "latitude": 39.9452088,
+        "longitude": 4.050889199999999
+    },
+    {
+        "id": 1287893798213,
+        "name": "Camp Municipal de Futbol Porreres",
+        "city": "Porreres",
+        "capacity": 700,
+        "latitude": 39.5214146,
+        "longitude": 3.0189758
     }
 ]
