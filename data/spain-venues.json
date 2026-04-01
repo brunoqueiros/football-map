@@ -3206,5 +3206,149 @@
         "capacity": 4000,
         "latitude": 37.4037154,
         "longitude": -1.5907668
+    },
+    {
+        "id": 6484,
+        "name": "Estadio Municipal Nuevo Vivero",
+        "city": "Badajoz",
+        "capacity": 15198,
+        "latitude": 38.85890879999999,
+        "longitude": -7.0060563
+    },
+    {
+        "id": 6574,
+        "name": "Estadio Municipal de Villafranca de los Barros",
+        "city": "Villafranca de los Barros",
+        "capacity": 5500,
+        "latitude": 38.5620032,
+        "longitude": -6.3253717
+    },
+    {
+        "id": 6905,
+        "name": "Estadio Municipal de Arroyo de la Luz",
+        "city": "Arroyo de la Luz",
+        "capacity": 3000,
+        "latitude": 39.47826000000001,
+        "longitude": -6.576099999999999
+    },
+    {
+        "id": 6906,
+        "name": "Estadio CD Azuaga",
+        "city": "Azuaga",
+        "capacity": 1500,
+        "latitude": 38.262732,
+        "longitude": -5.6847593
+    },
+    {
+        "id": 6908,
+        "name": "Municipal Calamonteño",
+        "city": "Calamonte",
+        "capacity": 2000,
+        "latitude": 38.8858568,
+        "longitude": -6.3800938
+    },
+    {
+        "id": 6909,
+        "name": "Estadio Manuel Sánchez Delgado",
+        "city": "Cáceres",
+        "capacity": 4000,
+        "latitude": -16.0887824,
+        "longitude": -57.6900349
+    },
+    {
+        "id": 6912,
+        "name": "Estadio Manuel Calzado Galván",
+        "city": "Jerez de los Caballeros",
+        "capacity": 5000,
+        "latitude": 38.3272365,
+        "longitude": -6.7605754
+    },
+    {
+        "id": 6913,
+        "name": "Estadio Fernando Robina",
+        "city": "Llerena",
+        "capacity": 1000,
+        "latitude": 38.2361068,
+        "longitude": -6.0216652
+    },
+    {
+        "id": 6915,
+        "name": "Estadio Municipal Emilio Macarro Rodriguez",
+        "city": "Montijo",
+        "capacity": 2000,
+        "latitude": 38.9101507,
+        "longitude": -6.606507799999999
+    },
+    {
+        "id": 6916,
+        "name": "Estadio Municipal de Navalmoral de la Mata",
+        "city": "Navalmoral de la Mata",
+        "capacity": 5000,
+        "latitude": 39.8977759,
+        "longitude": -5.5440201
+    },
+    {
+        "id": 19157,
+        "name": "Ciudad Deportiva Ramón Rocha Maqueda",
+        "city": "Olivenza",
+        "capacity": 5000,
+        "latitude": 38.6862855,
+        "longitude": -7.0950226
+    },
+    {
+        "id": 6920,
+        "name": "Estadio Municipal Julián García de Guadiana",
+        "city": "Trujillo",
+        "capacity": 1000,
+        "latitude": 39.4543751,
+        "longitude": -5.8890009
+    },
+    {
+        "id": 20165,
+        "name": "Campo de fútbol de Jaraíz de la Vera",
+        "city": "Jaraíz de la Vera",
+        "capacity": 1000,
+        "latitude": 40.0599289,
+        "longitude": -5.7449594
+    },
+    {
+        "id": 19158,
+        "name": "Estadio Antonio Amaya",
+        "city": "Pueblonuevo del Guadiana",
+        "capacity": 3150,
+        "latitude": 38.9234799,
+        "longitude": -6.7585215
+    },
+    {
+        "id": 19297,
+        "name": "Estadio Municipal de Santa Amalia",
+        "city": "Santa Amalia",
+        "capacity": 1700,
+        "latitude": 39.01592,
+        "longitude": -6.0183778
+    },
+    {
+        "id": 20166,
+        "name": "Estadio Manuel Ruiz",
+        "city": "Castuera",
+        "capacity": 1500,
+        "latitude": 38.729986,
+        "longitude": -5.550911399999999
+    },
+    {
+        "id": 87289798122,
+        "name": "Estádio Francisco de la Hera",
+        "city": "Almendralejo",
+        "capacity": 11580,
+        "latitude": 38.6843511,
+        "longitude": -6.414593
+    },
+    {
+        "id": 22486,
+        "name": "Campo Fútbol Puebla de la Calzada",
+        "city": "Puebla de la Calzada",
+        "capacity": 1000,
+        "latitude": 38.8891563,
+        "longitude": -6.6240305
     }
 ]

@@ -4078,5 +4078,185 @@
         "national": false,
         "logo": "https://media.api-sports.io/football/teams/24656.png",
         "venue_id": 6903
+    },
+    {
+        "id": 9382,
+        "name": "Badajoz",
+        "code": null,
+        "country": "Spain",
+        "founded": 1905,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/9382.png",
+        "venue_id": 6484
+    },
+    {
+        "id": 9479,
+        "name": "Villafranca",
+        "code": null,
+        "country": "Spain",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/9479.png",
+        "venue_id": 6574
+    },
+    {
+        "id": 9825,
+        "name": "Arroyo",
+        "code": "ARR",
+        "country": "Spain",
+        "founded": 1968,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/9825.png",
+        "venue_id": 6905
+    },
+    {
+        "id": 9826,
+        "name": "Azuaga",
+        "code": null,
+        "country": "Spain",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/9826.png",
+        "venue_id": 6906
+    },
+    {
+        "id": 9828,
+        "name": "Calamonte",
+        "code": null,
+        "country": "Spain",
+        "founded": 1965,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/9828.png",
+        "venue_id": 6908
+    },
+    {
+        "id": 9829,
+        "name": "Diocesano",
+        "code": null,
+        "country": "Spain",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/9829.png",
+        "venue_id": 6909
+    },
+    {
+        "id": 9832,
+        "name": "Jerez",
+        "code": null,
+        "country": "Spain",
+        "founded": 1969,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/9832.png",
+        "venue_id": 6912
+    },
+    {
+        "id": 9833,
+        "name": "Llerenense",
+        "code": null,
+        "country": "Spain",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/9833.png",
+        "venue_id": 6913
+    },
+    {
+        "id": 9835,
+        "name": "Montijo",
+        "code": null,
+        "country": "Spain",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/9835.png",
+        "venue_id": 6915
+    },
+    {
+        "id": 9836,
+        "name": "Moralo",
+        "code": null,
+        "country": "Spain",
+        "founded": 1965,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/9836.png",
+        "venue_id": 6916
+    },
+    {
+        "id": 9837,
+        "name": "Olivenza",
+        "code": null,
+        "country": "Spain",
+        "founded": 2013,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/9837.png",
+        "venue_id": 19157
+    },
+    {
+        "id": 9840,
+        "name": "Trujillo",
+        "code": null,
+        "country": "Spain",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/9840.png",
+        "venue_id": 6920
+    },
+    {
+        "id": 18094,
+        "name": "Jaraíz",
+        "code": null,
+        "country": "Spain",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/18094.png",
+        "venue_id": 20165
+    },
+    {
+        "id": 20279,
+        "name": "Atlético Pueblonuevo",
+        "code": null,
+        "country": "Spain",
+        "founded": 1969,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/20279.png",
+        "venue_id": 19158
+    },
+    {
+        "id": 20448,
+        "name": "Santa Amalia",
+        "code": null,
+        "country": "Spain",
+        "founded": 1969,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/20448.png",
+        "venue_id": 19297
+    },
+    {
+        "id": 22149,
+        "name": "Castuera",
+        "code": null,
+        "country": "Spain",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/22149.png",
+        "venue_id": 20166
+    },
+    {
+        "id": 24612,
+        "name": "Extremadura 1924",
+        "code": null,
+        "country": "Spain",
+        "founded": 2022,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/24612.png",
+        "venue_id": 87289798122
+    },
+    {
+        "id": 24613,
+        "name": "Puebla Calzada",
+        "code": null,
+        "country": "Spain",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/24613.png",
+        "venue_id": 22486
     }
 ]
