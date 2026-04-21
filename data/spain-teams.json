@@ -4258,5 +4258,185 @@
         "national": false,
         "logo": "https://media.api-sports.io/football/teams/24613.png",
         "venue_id": 22486
+    },
+    {
+        "id": 5270,
+        "name": "Mutilvera",
+        "code": null,
+        "country": "Spain",
+        "founded": 1993,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/5270.png",
+        "venue_id": 3984
+    },
+    {
+        "id": 9406,
+        "name": "Peña Sport",
+        "code": "PEN",
+        "country": "Spain",
+        "founded": 1925,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/9406.png",
+        "venue_id": 6507
+    },
+    {
+        "id": 9842,
+        "name": "Ardoi",
+        "code": null,
+        "country": "Spain",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/9842.png",
+        "venue_id": 22488
+    },
+    {
+        "id": 9844,
+        "name": "Beti Kozkor",
+        "code": null,
+        "country": "Spain",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/9844.png",
+        "venue_id": 6924
+    },
+    {
+        "id": 9845,
+        "name": "Beti Onak",
+        "code": null,
+        "country": "Spain",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/9845.png",
+        "venue_id": 6925
+    },
+    {
+        "id": 9846,
+        "name": "Burladés",
+        "code": null,
+        "country": "Spain",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/9846.png",
+        "venue_id": 6926
+    },
+    {
+        "id": 9847,
+        "name": "Cirbonero",
+        "code": null,
+        "country": "Spain",
+        "founded": 1943,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/9847.png",
+        "venue_id": 6927
+    },
+    {
+        "id": 9849,
+        "name": "Cortes",
+        "code": null,
+        "country": "Spain",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/9849.png",
+        "venue_id": 6929
+    },
+    {
+        "id": 9851,
+        "name": "Huarte",
+        "code": null,
+        "country": "Spain",
+        "founded": 1975,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/9851.png",
+        "venue_id": 6931
+    },
+    {
+        "id": 9854,
+        "name": "Pamplona",
+        "code": null,
+        "country": "Spain",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/9854.png",
+        "venue_id": 6934
+    },
+    {
+        "id": 9855,
+        "name": "San Juan",
+        "code": null,
+        "country": "Spain",
+        "founded": 1962,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/9855.png",
+        "venue_id": 6935
+    },
+    {
+        "id": 9857,
+        "name": "Txantrea",
+        "code": null,
+        "country": "Spain",
+        "founded": 1952,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/9857.png",
+        "venue_id": 6937
+    },
+    {
+        "id": 9858,
+        "name": "Valle Egüés",
+        "code": null,
+        "country": "Spain",
+        "founded": 1968,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/9858.png",
+        "venue_id": 6938
+    },
+    {
+        "id": 15320,
+        "name": "Bidezarra",
+        "code": null,
+        "country": "Spain",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/15320.png",
+        "venue_id": 10984
+    },
+    {
+        "id": 15321,
+        "name": "Cantolagua",
+        "code": null,
+        "country": "Spain",
+        "founded": 1927,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/15321.png",
+        "venue_id": 10985
+    },
+    {
+        "id": 17611,
+        "name": "Gares",
+        "code": null,
+        "country": "Spain",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/17611.png",
+        "venue_id": 12348
+    },
+    {
+        "id": 24614,
+        "name": "Atlético Artajonés",
+        "code": null,
+        "country": "Spain",
+        "founded": 1951,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/24614.png",
+        "venue_id": 21105
+    },
+    {
+        "id": 24615,
+        "name": "Rotxapea",
+        "code": null,
+        "country": "Spain",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/24615.png",
+        "venue_id": 9827893929
     }
 ]

@@ -3350,5 +3350,149 @@
         "capacity": 1000,
         "latitude": 38.8891563,
         "longitude": -6.6240305
+    },
+    {
+        "id": 3984,
+        "name": "Estadio Municipal Valle de Aranguren",
+        "city": "Mutilva Baja",
+        "capacity": 2000,
+        "latitude": 42.7905962,
+        "longitude": -1.6218653
+    },
+    {
+        "id": 6507,
+        "name": "Campo San Francisco",
+        "city": "Tafalla",
+        "capacity": 3000,
+        "latitude": 42.5215292,
+        "longitude": -1.6766319
+    },
+    {
+        "id": 22488,
+        "name": "Estadio El Pinar 1",
+        "city": "Zizur Mayor",
+        "capacity": 1000,
+        "latitude": 42.7972679,
+        "longitude": -1.7041467
+    },
+    {
+        "id": 6924,
+        "name": "Complejo Deportivo Plazaola",
+        "city": "Lekunberri",
+        "capacity": 1000,
+        "latitude": 43.0001706,
+        "longitude": -1.893662
+    },
+    {
+        "id": 6925,
+        "name": "Estadio Lorenzo Goikoa",
+        "city": "Villava",
+        "capacity": 2000,
+        "latitude": -34.6520781,
+        "longitude": -58.4401001
+    },
+    {
+        "id": 6926,
+        "name": "Estadio Ripagaina",
+        "city": "Burlada",
+        "capacity": 4000,
+        "latitude": 42.8175001,
+        "longitude": -1.6164855
+    },
+    {
+        "id": 6927,
+        "name": "Estadio San Juan",
+        "city": "Cintruénigo",
+        "capacity": 1000,
+        "latitude": 42.0765013,
+        "longitude": -1.8024592
+    },
+    {
+        "id": 6929,
+        "name": "Estadio San Francisco Javier",
+        "city": "Cortes (Navarra)",
+        "capacity": 1000,
+        "latitude": 41.9207308,
+        "longitude": -1.4260932
+    },
+    {
+        "id": 6931,
+        "name": "Estadio Areta",
+        "city": "Huarte (Uharte)",
+        "capacity": 600,
+        "latitude": 42.8292758,
+        "longitude": -1.5975394
+    },
+    {
+        "id": 6934,
+        "name": "Campo de Fútbol Beitikuntzea",
+        "city": "Lizasoáin",
+        "capacity": 5000,
+        "latitude": 42.8275796,
+        "longitude": -1.767959
+    },
+    {
+        "id": 6935,
+        "name": "Estadio San Juan",
+        "city": "Pamplona",
+        "capacity": 1250,
+        "latitude": 42.8149877,
+        "longitude": -1.6670547
+    },
+    {
+        "id": 6937,
+        "name": "Instalaciones Deportivas Chantrea",
+        "city": "Pamplona",
+        "capacity": 3500,
+        "latitude": 42.8282317,
+        "longitude": -1.6343933
+    },
+    {
+        "id": 6938,
+        "name": "Estadio Sarriguren",
+        "city": "Sarriguren",
+        "capacity": 2000,
+        "latitude": 42.8136701,
+        "longitude": -1.5929853
+    },
+    {
+        "id": 10984,
+        "name": "Campo Bidezarra de Noain",
+        "city": "Noain",
+        "capacity": 2000,
+        "latitude": 42.7591341,
+        "longitude": -1.6352467
+    },
+    {
+        "id": 10985,
+        "name": "Estadio Municipal Cantolagua",
+        "city": "Sangüesa",
+        "capacity": 600,
+        "latitude": 42.5695313,
+        "longitude": -1.2824932
+    },
+    {
+        "id": 12348,
+        "name": "Complejo Polideportivo Municipal Osabidea",
+        "city": "Puente la Reina",
+        "capacity": 1000,
+        "latitude": 42.6697695,
+        "longitude": -1.8098151
+    },
+    {
+        "id": 21105,
+        "name": "Estadio La Alameda",
+        "city": "Artajona",
+        "capacity": 2500,
+        "latitude": 42.5858236,
+        "longitude": -1.7615518
+    },
+    {
+        "id": 9827893929,
+        "name": "La Jaula",
+        "city": "Navarre",
+        "capacity": 1000,
+        "latitude": 42.6953909,
+        "longitude": -1.6760691
     }
 ]
