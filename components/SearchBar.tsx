@@ -154,7 +154,7 @@ export default function SearchBar({ onSelectTeam, teams, hideCard, venues }: Sea
         e.preventDefault();
         if (highlightedIndex >= 0 && highlightedIndex < filteredTeams.length) {
           const selectedTeam = filteredTeams[highlightedIndex];
-          onSelectTeam(selectedTeam);
+          onSelectTeam(selectedTeam, venues.find(v => v.id === team.venue_id));
           setSearchQuery("");
           setIsFocused(false);
         }
@@ -241,7 +241,7 @@ export default function SearchBar({ onSelectTeam, teams, hideCard, venues }: Sea
                       } border`}
                     onMouseEnter={() => !isMobile && setHighlightedIndex(index)}
                     onClick={() => {
-                      onSelectTeam(team);
+                      onSelectTeam(team, venues.find(v => v.id === team.venue_id));
                       setSearchQuery("");
                       setIsFocused(false);
                     }}

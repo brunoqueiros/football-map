@@ -11,15 +11,18 @@ export default function MapContainer({
   venues
 }: { accessToken: string; teams: Stadium[]; venues: any }) {
   const [selectedStadium, setSelectedStadium] = useState<Stadium | null>(null);
+  const [selectedTeam, setSelectedTeam] = useState<any | null>(null);
   const mapRef = useRef<MapRef>(null);
   const initialCenter = useMemo<[number, number]>(() => [5, 22], []);
 
-  const handleSelectTeam = (team: Stadium) => {
+  const handleSelectTeam = (team: Stadium, venue: any) => {
     // Fly to the team location with closer zoom
-    mapRef.current?.flyToLocation(team.longitude, team.latitude, 16);
+    console.log(team, venue)
+    mapRef.current?.flyToLocation(venue.longitude, venue.latitude, 16);
 
     setTimeout(() => {
       // Show the stadium card
+      setSelectedTeam(team);
       setSelectedStadium(team);
     }, FLY_DURATION + 500);
   };
@@ -34,8 +37,12 @@ export default function MapContainer({
         initialZoom={2.5}
         initialCenter={initialCenter}
         selectedStadium={selectedStadium}
-        onSelectStadium={setSelectedStadium}
+        onSelectStadium={(stadium) => {
+          setSelectedStadium(stadium);
+          setSelectedTeam(null); // Reset selected team when clicking map marker
+        }}
       />
+      {console.log('selectedStadium', selectedStadium)}
       {selectedStadium && (
         <StadiumCard
           stadium={{
@@ -51,6 +58,7 @@ export default function MapContainer({
           }}
           allTeams={teams}
           venues={venues}
+          initialTeam={selectedTeam}
           onTeamSwitch={(team) => setSelectedStadium(team)}
           onClose={() => setSelectedStadium(null)}
         />

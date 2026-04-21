@@ -1,12 +1,15 @@
 import React, { useEffect, useState } from 'react';
 import { Stadium } from './Map';
 import Crest from './Crest';
+import { getFixturesForTeam } from '@/app/actions/teams';
 
 interface StadiumCardProps {
   stadium: Stadium;
   allTeams?: Stadium[];
   onTeamSwitch?: (team: Stadium) => void;
   onClose: () => void;
+  venues?: any;
+  initialTeam?: Stadium | null;
 }
 
 const formatMatchDate = (dateString: string) => {
@@ -34,12 +37,13 @@ const formatMatchTime = (dateString: string) => {
   return matchDate.toLocaleTimeString('en-US', { hour: '2-digit', minute: '2-digit', hour12: false });
 };
 
-const StadiumCard: React.FC<StadiumCardProps> = ({ stadium, allTeams = [], onTeamSwitch, onClose, venues }) => {
+const StadiumCard: React.FC<StadiumCardProps> = ({ stadium, allTeams = [], onTeamSwitch, onClose, venues, initialTeam }) => {
   const [isMobile, setIsMobile] = useState(false);
   const [selectedTeam, setSelectedTeam] = useState(null);
+  const [fixtures, setFixtures] = useState([]);
 
   // Find all teams that share the same venue
-  const venueTeams = allTeams.filter(team => team.venue_id === stadium.id);
+  const venueTeams = allTeams.filter(t => t.venue_id === stadium.id || t.venue_id === stadium.venue_id);
   const hasMultipleTeams = venueTeams.length > 1;
 
   // Detect if we're on mobile
@@ -52,7 +56,12 @@ const StadiumCard: React.FC<StadiumCardProps> = ({ stadium, allTeams = [], onTea
   }, []);
 
   useEffect(() => {
-    setSelectedTeam(venueTeams[0]);
+    // Use initialTeam if provided (from search), otherwise default to first team in venue
+    const teamToSelect = initialTeam || venueTeams[0];
+    setSelectedTeam(teamToSelect);
+    getFixturesForTeam(teamToSelect.id).then(r => {
+      setFixtures(r);
+    })
   }, []);
 
   // ESC key to close the card (desktop only)
@@ -100,7 +109,7 @@ const StadiumCard: React.FC<StadiumCardProps> = ({ stadium, allTeams = [], onTea
         </div>
 
         {/* Team Tabs */}
-        {hasMultipleTeams && (
+        {hasMultipleTeams && !initialTeam && (
           <div className="flex border-b border-white/10">
             {venueTeams.map((team) => (
               <button
@@ -108,6 +117,9 @@ const StadiumCard: React.FC<StadiumCardProps> = ({ stadium, allTeams = [], onTea
                 onClick={() => {
                   console.log(team);
                   setSelectedTeam(team)
+                  getFixturesForTeam(team.id).then(r => {
+                    setFixtures(r);
+                  })
                 }}
                 className={`
                   flex-1 flex items-center justify-center gap-2.5 px-4 py-3 transition-all duration-200
@@ -205,7 +217,7 @@ const StadiumCard: React.FC<StadiumCardProps> = ({ stadium, allTeams = [], onTea
         </div>
 
         {/* Next Fixture Section */}
-        {stadium.nextFixture && (
+        {fixtures[0] && (
           <div className="mx-5 mb-3 p-4 border-t border-white/10">
             <div className="flex items-center gap-2 mb-3">
               <svg className="w-4 h-4 text-green-400" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round">
@@ -219,14 +231,14 @@ const StadiumCard: React.FC<StadiumCardProps> = ({ stadium, allTeams = [], onTea
               {/* Home Team */}
               <div className="flex flex-col items-center flex-1 min-w-0">
                 <div className="flex items-center justify-center mb-2 p-2">
-                  <Crest src={stadium.crest!} name={stadium.name} />
+                  <Crest key={fixtures[0].teams.home.id} src={fixtures[0].teams.home.id} name={fixtures[0].teams.home.name} />
                 </div>
                 <span className="text-xs font-medium text-white/90 text-center truncate w-full">
-                  {stadium.name.length > 12 ? stadium.name.substring(0, 12) + '...' : stadium.name}
+                  {allTeams.find(i => i.id === fixtures[0].teams.home.id).name}
                 </span>
-                {stadium.nextFixture.isHome && (
+                {/* {fixtures[0].teams.home.id === selectedTeam.id && (
                   <span className="text-[10px] text-green-400 mt-0.5">HOME</span>
-                )}
+                )} */}
               </div>
 
               {/* VS Separator */}
@@ -237,14 +249,14 @@ const StadiumCard: React.FC<StadiumCardProps> = ({ stadium, allTeams = [], onTea
               {/* Away Team */}
               <div className="flex flex-col items-center flex-1 min-w-0">
                 <div className="flex items-center justify-center mb-2 p-2">
-                  {stadium.nextFixture.opponentId ? (
-                    <Crest src={stadium.nextFixture.opponentId!} name={stadium.nextFixture.opponent} />
+                  {fixtures[0].teams.away.id ? (
+                    <Crest key={fixtures[0].teams.away.id} src={fixtures[0].teams.away.id} name={fixtures[0].teams.away.name} />
                   ) : (
                     <span className="text-xl text-white/30">?</span>
                   )}
                 </div>
                 <span className="text-xs font-medium text-white/90 text-center truncate w-full">
-                  {stadium.nextFixture.opponent.length > 12 ? stadium.nextFixture.opponent.substring(0, 12) + '...' : stadium.nextFixture.opponent}
+                  {allTeams.find(i => i.id === fixtures[0].teams.away.id).name}
                 </span>
                 {/* {!stadium.nextFixture.isHome && (
                   <span className="text-[10px] text-blue-400 mt-0.5">AWAY</span>
@@ -262,7 +274,7 @@ const StadiumCard: React.FC<StadiumCardProps> = ({ stadium, allTeams = [], onTea
                   <line x1="3" y1="10" x2="21" y2="10"></line>
                 </svg>
                 <span className="text-xs font-medium text-white/80">
-                  {formatMatchDate(stadium.nextFixture.date)} • {formatMatchTime(stadium.nextFixture.date)}
+                  {formatMatchDate(fixtures[0].fixture.timestamp)} • {formatMatchTime(fixtures[0].fixture.timestamp)}
                 </span>
               </div>
             </div>
@@ -272,16 +284,16 @@ const StadiumCard: React.FC<StadiumCardProps> = ({ stadium, allTeams = [], onTea
                 <circle cx="12" cy="12" r="10"></circle>
                 <polygon points="10 8 16 12 10 16 10 8"></polygon>
               </svg>
-              <span className="text-xs font-medium text-white/60">{stadium.nextFixture.competition}</span>
+              <span className="text-xs font-medium text-white/60">{fixtures[0].league.name}</span>
             </div>
 
-            {!stadium.nextFixture.isHome && stadium.nextFixture.venue && (
+            {fixtures[0].teams.away === selectedTeam.id && (
               <div className="mt-2 flex items-center gap-2">
                 <svg className="w-3.5 h-3.5 text-white/40" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round">
                   <path d="M21 10c0 7-9 13-9 13s-9-6-9-13a9 9 0 0 1 18 0z"></path>
                   <circle cx="12" cy="10" r="3"></circle>
                 </svg>
-                <span className="text-xs font-medium text-white/60">{stadium.nextFixture.venue}</span>
+                <span className="text-xs font-medium text-white/60">{fixtures[0].fixture.venue.name}</span>
               </div>
             )}
           </div>
