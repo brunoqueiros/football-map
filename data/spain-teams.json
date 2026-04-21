@@ -4438,5 +4438,185 @@
         "national": false,
         "logo": "https://media.api-sports.io/football/teams/24615.png",
         "venue_id": 9827893929
+    },
+    {
+        "id": 8154,
+        "name": "Comillas",
+        "code": null,
+        "country": "Spain",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/8154.png",
+        "venue_id": 5777
+    },
+    {
+        "id": 9389,
+        "name": "Haro Deportivo",
+        "code": null,
+        "country": "Spain",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/9389.png",
+        "venue_id": 22490
+    },
+    {
+        "id": 9862,
+        "name": "Arnedo",
+        "code": null,
+        "country": "Spain",
+        "founded": 1957,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/9862.png",
+        "venue_id": 6942
+    },
+    {
+        "id": 9863,
+        "name": "Berceo",
+        "code": null,
+        "country": "Spain",
+        "founded": 1948,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/9863.png",
+        "venue_id": 6943
+    },
+    {
+        "id": 9864,
+        "name": "Calahorra II",
+        "code": null,
+        "country": "Spain",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/9864.png",
+        "venue_id": 3966
+    },
+    {
+        "id": 9866,
+        "name": "Casalarreina",
+        "code": null,
+        "country": "Spain",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/9866.png",
+        "venue_id": 6945
+    },
+    {
+        "id": 9867,
+        "name": "La Calzada",
+        "code": null,
+        "country": "Spain",
+        "founded": 1949,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/9867.png",
+        "venue_id": 6946
+    },
+    {
+        "id": 9868,
+        "name": "Náxara",
+        "code": null,
+        "country": "Spain",
+        "founded": 1966,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/9868.png",
+        "venue_id": 6947
+    },
+    {
+        "id": 9869,
+        "name": "Oyonesa",
+        "code": null,
+        "country": "Spain",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/9869.png",
+        "venue_id": 22491
+    },
+    {
+        "id": 9871,
+        "name": "River Ebro",
+        "code": null,
+        "country": "Spain",
+        "founded": 1952,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/9871.png",
+        "venue_id": 6950
+    },
+    {
+        "id": 9872,
+        "name": "UD Logroñés II",
+        "code": null,
+        "country": "Spain",
+        "founded": 2009,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/9872.png",
+        "venue_id": 5777
+    },
+    {
+        "id": 9873,
+        "name": "Varea",
+        "code": null,
+        "country": "Spain",
+        "founded": 2009,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/9873.png",
+        "venue_id": 12349
+    },
+    {
+        "id": 9874,
+        "name": "Vianés",
+        "code": null,
+        "country": "Spain",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/9874.png",
+        "venue_id": 6952
+    },
+    {
+        "id": 9876,
+        "name": "Yagüe",
+        "code": null,
+        "country": "Spain",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/9876.png",
+        "venue_id": 6954
+    },
+    {
+        "id": 15323,
+        "name": "Agoncillo",
+        "code": null,
+        "country": "Spain",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/15323.png",
+        "venue_id": 10987
+    },
+    {
+        "id": 15325,
+        "name": "Tedeón",
+        "code": null,
+        "country": "Spain",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/15325.png",
+        "venue_id": 10988
+    },
+    {
+        "id": 20285,
+        "name": "Peña Balsamaiso",
+        "code": null,
+        "country": "Spain",
+        "founded": 1952,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/20285.png",
+        "venue_id": 6944
+    },
+    {
+        "id": 20441,
+        "name": "Autol",
+        "code": null,
+        "country": "Spain",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/20441.png",
+        "venue_id": 19293
     }
 ]

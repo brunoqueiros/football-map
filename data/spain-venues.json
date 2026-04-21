@@ -3494,5 +3494,141 @@
         "capacity": 1000,
         "latitude": 42.6953909,
         "longitude": -1.6760691
+    },
+    {
+        "id": 5777,
+        "name": "Estadio Mundial 82",
+        "city": "Logroño",
+        "capacity": 3500,
+        "latitude": null,
+        "longitude": null
+    },
+    {
+        "id": 22490,
+        "name": "Estadio Municipal Luis De La Fuente",
+        "city": "Haro",
+        "capacity": 4300,
+        "latitude": null,
+        "longitude": null
+    },
+    {
+        "id": 6942,
+        "name": "Estadio Sendero",
+        "city": "Arnedo",
+        "capacity": 4500,
+        "latitude": null,
+        "longitude": null
+    },
+    {
+        "id": 6943,
+        "name": "Estadio La Isla",
+        "city": "Logroño",
+        "capacity": 2000,
+        "latitude": null,
+        "longitude": null
+    },
+    {
+        "id": 3966,
+        "name": "Estadio La Planilla",
+        "city": "Calahorra",
+        "capacity": 5600,
+        "latitude": null,
+        "longitude": null
+    },
+    {
+        "id": 6945,
+        "name": "Estadio Municipal El Soto",
+        "city": "Haro",
+        "capacity": 800,
+        "latitude": null,
+        "longitude": null
+    },
+    {
+        "id": 6946,
+        "name": "Estadio El Rollo",
+        "city": "Santo Domingo de la Calzada",
+        "capacity": 1500,
+        "latitude": null,
+        "longitude": null
+    },
+    {
+        "id": 6947,
+        "name": "Estadio La Salera",
+        "city": "Nájera",
+        "capacity": 1114,
+        "latitude": null,
+        "longitude": null
+    },
+    {
+        "id": 22491,
+        "name": "Oion Arena",
+        "city": "Oyón (Oion)",
+        "capacity": 5000,
+        "latitude": null,
+        "longitude": null
+    },
+    {
+        "id": 6950,
+        "name": "Estadio San Miguel",
+        "city": "Rincón de Soto",
+        "capacity": 3000,
+        "latitude": null,
+        "longitude": null
+    },
+    {
+        "id": 12349,
+        "name": "Estadio Municipal de Varea",
+        "city": "Varea",
+        "capacity": 2000,
+        "latitude": null,
+        "longitude": null
+    },
+    {
+        "id": 6952,
+        "name": "Estadio Municipal de Viana",
+        "city": "Viana",
+        "capacity": 500,
+        "latitude": null,
+        "longitude": null
+    },
+    {
+        "id": 6954,
+        "name": "Estadio El Salvador",
+        "city": "Logroño",
+        "capacity": 1161,
+        "latitude": null,
+        "longitude": null
+    },
+    {
+        "id": 10987,
+        "name": "Estadio San Roque",
+        "city": "Agoncillo",
+        "capacity": 2000,
+        "latitude": null,
+        "longitude": null
+    },
+    {
+        "id": 10988,
+        "name": "Estadio San Miguel",
+        "city": "Navarrete",
+        "capacity": 600,
+        "latitude": null,
+        "longitude": null
+    },
+    {
+        "id": 6944,
+        "name": "Estadio La Estrella",
+        "city": "Logroño",
+        "capacity": 500,
+        "latitude": null,
+        "longitude": null
+    },
+    {
+        "id": 19293,
+        "name": "Estadio La Manzanera",
+        "city": "Autol",
+        "capacity": 1000,
+        "latitude": null,
+        "longitude": null
     }
 ]
