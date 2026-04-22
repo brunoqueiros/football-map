@@ -3774,5 +3774,149 @@
         "capacity": 2500,
         "latitude": 41.8691149079977,
         "longitude": -0.7825699740563842
+    },
+    {
+        "id": 5783,
+        "name": "Estadio Municipal de Las Pedroñeras",
+        "city": "Las Pedroñeras",
+        "capacity": 1000,
+        "latitude": 39.444221789053366,
+        "longitude": -2.6645989119642213
+    },
+    {
+        "id": 6514,
+        "name": "Estadio Paquito Jiménez",
+        "city": "Socuéllamos",
+        "capacity": 3500,
+        "latitude": 39.28023572869878,
+        "longitude": -2.7829282164816393
+    },
+    {
+        "id": 6517,
+        "name": "Campo Nuevo Municipal",
+        "city": "Villarrubia de los Ojos",
+        "capacity": 1000,
+        "latitude": 39.22191965830584,
+        "longitude": -3.5974790992904153
+    },
+    {
+        "id": 6695,
+        "name": "Estadio Nuestra Señora de la Caridad",
+        "city": "Villarrobledo",
+        "capacity": 5500,
+        "latitude": 39.27117255910037,
+        "longitude": -2.6047826551098545
+    },
+    {
+        "id": 6973,
+        "name": "Ciudad Deportiva Andrés Iniesta",
+        "city": "Albacete",
+        "capacity": 3000,
+        "latitude": 38.96740209685288,
+        "longitude": -1.8528632342268652
+    },
+    {
+        "id": 6976,
+        "name": "Estadio San Miguel",
+        "city": "Azuqueca de Henares",
+        "capacity": 2000,
+        "latitude": 40.5698745171756,
+        "longitude": -3.2752577550620505
+    },
+    {
+        "id": 6977,
+        "name": "Estadio Ciudad de Puertollano",
+        "city": "Puertollano",
+        "capacity": 7240,
+        "latitude": 38.68300952370876,
+        "longitude": -4.089214729455308
+    },
+    {
+        "id": 6983,
+        "name": "Polideportivo Juan Carlos I",
+        "city": "Ciudad Real",
+        "capacity": 2900,
+        "latitude": 38.990117947912566,
+        "longitude": -3.91831846861273
+    },
+    {
+        "id": 10993,
+        "name": "Estadio San Marcos",
+        "city": "Quintanar del Rey",
+        "capacity": 2800,
+        "latitude": 39.350083769428664,
+        "longitude": -1.9294522164791104
+    },
+    {
+        "id": 6984,
+        "name": "Polideportivo Estadio Municipal Tarancón",
+        "city": "Tarancón",
+        "capacity": 1500,
+        "latitude": 40.0143146222722,
+        "longitude": -3.0132606839183897
+    },
+    {
+        "id": 6985,
+        "name": "Estadio Municipal Salto del Caballo",
+        "city": "Toledo",
+        "capacity": 5300,
+        "latitude": 39.86912481924242,
+        "longitude": -4.017849626922185
+    },
+    {
+        "id": 6987,
+        "name": "Campo De Fútbol Las Pirámides",
+        "city": "Villacañas",
+        "capacity": 2000,
+        "latitude": 39.61508174011812,
+        "longitude": -3.3318371183197852
+    },
+    {
+        "id": 10994,
+        "name": "Estadio Municipal de Balazote",
+        "city": "Balazote",
+        "capacity": 1000,
+        "latitude": 38.88475905499282,
+        "longitude": -2.156663660674712
+    },
+    {
+        "id": 10995,
+        "name": "Estadio José Camacho",
+        "city": "Manzanares",
+        "capacity": 3200,
+        "latitude": 39.007436111803955,
+        "longitude": -3.3723032858054496
+    },
+    {
+        "id": 22493,
+        "name": "Campo Deportivo La Solana",
+        "city": "Marchamalo",
+        "capacity": 1000,
+        "latitude": 40.67380677336846,
+        "longitude": -3.2077942164302944
+    },
+    {
+        "id": 21125,
+        "name": "Ciudad Deportiva Ebora Formación",
+        "city": "Cazalegas",
+        "capacity": 1000,
+        "latitude": 39.9766811031394,
+        "longitude": -4.74706500296346
+    },
+    {
+        "id": 3232897389723,
+        "name": "Municipal Ángel Luengo",
+        "city": "Noblejas",
+        "capacity": 1500,
+        "latitude": 39.97527562828196,
+        "longitude": -3.4354212048138155
+    },
+    {
+        "id": 372376236327623,
+        "name": "Polideportivo La Molineta",
+        "city": "Valdepeñas",
+        "capacity": 2000,
+        "latitude": 38.77008680499123,
+        "longitude": -3.3847601336933595
     }
 ]

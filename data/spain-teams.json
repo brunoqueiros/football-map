@@ -4798,5 +4798,185 @@
         "national": false,
         "logo": "https://media.api-sports.io/football/teams/24581.png",
         "venue_id": 39873289832212
+    },
+    {
+        "id": 8162,
+        "name": "Pedroñeras",
+        "code": null,
+        "country": "Spain",
+        "founded": 1964,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/8162.png",
+        "venue_id": 5783
+    },
+    {
+        "id": 9414,
+        "name": "Socuéllamos",
+        "code": null,
+        "country": "Spain",
+        "founded": 1924,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/9414.png",
+        "venue_id": 6514
+    },
+    {
+        "id": 9417,
+        "name": "Villarrubia",
+        "code": null,
+        "country": "Spain",
+        "founded": 1959,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/9417.png",
+        "venue_id": 6517
+    },
+    {
+        "id": 9602,
+        "name": "Villarrobledo",
+        "code": null,
+        "country": "Spain",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/9602.png",
+        "venue_id": 6695
+    },
+    {
+        "id": 9895,
+        "name": "Albacete II",
+        "code": null,
+        "country": "Spain",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/9895.png",
+        "venue_id": 6973
+    },
+    {
+        "id": 9898,
+        "name": "Azuqueca",
+        "code": null,
+        "country": "Spain",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/9898.png",
+        "venue_id": 6976
+    },
+    {
+        "id": 9899,
+        "name": "Calvo Sotelo",
+        "code": null,
+        "country": "Spain",
+        "founded": 2015,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/9899.png",
+        "venue_id": 6977
+    },
+    {
+        "id": 9905,
+        "name": "Manchego",
+        "code": null,
+        "country": "Spain",
+        "founded": 2009,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/9905.png",
+        "venue_id": 6983
+    },
+    {
+        "id": 9906,
+        "name": "Quintanar del Rey",
+        "code": null,
+        "country": "Spain",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/9906.png",
+        "venue_id": 10993
+    },
+    {
+        "id": 9907,
+        "name": "Tarancón",
+        "code": null,
+        "country": "Spain",
+        "founded": 1995,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/9907.png",
+        "venue_id": 6984
+    },
+    {
+        "id": 9908,
+        "name": "Toledo",
+        "code": "TOL",
+        "country": "Spain",
+        "founded": 1928,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/9908.png",
+        "venue_id": 6985
+    },
+    {
+        "id": 9910,
+        "name": "Villacañas",
+        "code": null,
+        "country": "Spain",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/9910.png",
+        "venue_id": 6987
+    },
+    {
+        "id": 15330,
+        "name": "Huracán Balazote",
+        "code": null,
+        "country": "Spain",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/15330.png",
+        "venue_id": 10994
+    },
+    {
+        "id": 15331,
+        "name": "Manzanares",
+        "code": null,
+        "country": "Spain",
+        "founded": 1949,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/15331.png",
+        "venue_id": 10995
+    },
+    {
+        "id": 15332,
+        "name": "Marchamalo",
+        "code": null,
+        "country": "Spain",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/15332.png",
+        "venue_id": 22493
+    },
+    {
+        "id": 20443,
+        "name": "Cazalegas",
+        "code": null,
+        "country": "Spain",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/20443.png",
+        "venue_id": 21125
+    },
+    {
+        "id": 24653,
+        "name": "Noblejas",
+        "code": null,
+        "country": "Spain",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/24653.png",
+        "venue_id": 3232897389723
+    },
+    {
+        "id": 24654,
+        "name": "Valdepeñas",
+        "code": null,
+        "country": "Spain",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/24654.png",
+        "venue_id": 372376236327623
     }
 ]
