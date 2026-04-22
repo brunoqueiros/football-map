@@ -4618,5 +4618,185 @@
         "national": false,
         "logo": "https://media.api-sports.io/football/teams/20441.png",
         "venue_id": 19293
+    },
+    {
+        "id": 5261,
+        "name": "Ebro",
+        "code": null,
+        "country": "Spain",
+        "founded": 1961,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/5261.png",
+        "venue_id": 21081
+    },
+    {
+        "id": 8158,
+        "name": "Fraga",
+        "code": null,
+        "country": "Spain",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/8158.png",
+        "venue_id": 5780
+    },
+    {
+        "id": 9877,
+        "name": "Almudévar",
+        "code": null,
+        "country": "Spain",
+        "founded": 1965,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/9877.png",
+        "venue_id": 6955
+    },
+    {
+        "id": 9878,
+        "name": "Atlético Monzón",
+        "code": null,
+        "country": "Spain",
+        "founded": 1950,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/9878.png",
+        "venue_id": 6956
+    },
+    {
+        "id": 9880,
+        "name": "Belchite 97",
+        "code": null,
+        "country": "Spain",
+        "founded": 1997,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/9880.png",
+        "venue_id": 6958
+    },
+    {
+        "id": 9881,
+        "name": "Binéfar",
+        "code": null,
+        "country": "Spain",
+        "founded": 1922,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/9881.png",
+        "venue_id": 6959
+    },
+    {
+        "id": 9883,
+        "name": "Brea",
+        "code": null,
+        "country": "Spain",
+        "founded": 1971,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/9883.png",
+        "venue_id": 6961
+    },
+    {
+        "id": 9884,
+        "name": "CDJ Tamarite",
+        "code": null,
+        "country": "Spain",
+        "founded": 1922,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/9884.png",
+        "venue_id": 19165
+    },
+    {
+        "id": 9885,
+        "name": "Calamocha",
+        "code": null,
+        "country": "Spain",
+        "founded": 1940,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/9885.png",
+        "venue_id": 6963
+    },
+    {
+        "id": 9886,
+        "name": "Cuarte",
+        "code": null,
+        "country": "Spain",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/9886.png",
+        "venue_id": 12352
+    },
+    {
+        "id": 15327,
+        "name": "Huesca II",
+        "code": null,
+        "country": "Spain",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/15327.png",
+        "venue_id": 10990
+    },
+    {
+        "id": 15329,
+        "name": "Épila",
+        "code": null,
+        "country": "Spain",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/15329.png",
+        "venue_id": 10992
+    },
+    {
+        "id": 17498,
+        "name": "Andorra CF",
+        "code": null,
+        "country": "Spain",
+        "founded": 1956,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/17498.png",
+        "venue_id": 12521
+    },
+    {
+        "id": 17615,
+        "name": "Caspe",
+        "code": null,
+        "country": "Spain",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/17615.png",
+        "venue_id": 12354
+    },
+    {
+        "id": 18101,
+        "name": "Utrillas",
+        "code": null,
+        "country": "Spain",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/18101.png",
+        "venue_id": 19166
+    },
+    {
+        "id": 20287,
+        "name": "La Almunia",
+        "code": null,
+        "country": "Spain",
+        "founded": 1966,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/20287.png",
+        "venue_id": 19167
+    },
+    {
+        "id": 20445,
+        "name": "Fuentes",
+        "code": null,
+        "country": "Spain",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/20445.png",
+        "venue_id": 21082
+    },
+    {
+        "id": 24581,
+        "name": "Zuera",
+        "code": null,
+        "country": "Spain",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/24581.png",
+        "venue_id": 39873289832212
     }
 ]

@@ -3630,5 +3630,149 @@
         "capacity": 1000,
         "latitude": 42.218731640566375,
         "longitude": -2.001012023772629
+    },
+    {
+        "id": 21081,
+        "name": "Estadio Almozara",
+        "city": "Zaragoza",
+        "capacity": 1200,
+        "latitude": 41.663343049659794,
+        "longitude": -0.8993776145424638
+    },
+    {
+        "id": 5780,
+        "name": "Estadio de La Estacada",
+        "city": "Fraga",
+        "capacity": 3000,
+        "latitude": 41.526609906754835,
+        "longitude": 0.340670348674745
+    },
+    {
+        "id": 6955,
+        "name": "Estadio Virgen de la Corona",
+        "city": "Almudévar",
+        "capacity": 2000,
+        "latitude": 42.04216468299421,
+        "longitude": -0.5754589953233754
+    },
+    {
+        "id": 6956,
+        "name": "Estadio Isidro Calderón",
+        "city": "Monzón",
+        "capacity": 5000,
+        "latitude": 41.902293021651815,
+        "longitude": 0.1838386087515393
+    },
+    {
+        "id": 6958,
+        "name": "Campo de Futbol Municipal de Belchite",
+        "city": "Belchite",
+        "capacity": 1000,
+        "latitude": 41.303576627403125,
+        "longitude": -0.751639537841035
+    },
+    {
+        "id": 6959,
+        "name": "Estadio de Los Olmos",
+        "city": "Binéfar",
+        "capacity": 1250,
+        "latitude": 41.85662326981477,
+        "longitude": 0.3027243015772019
+    },
+    {
+        "id": 6961,
+        "name": "Estadio Municipal de Piedrabuena",
+        "city": "Brea de Aragón",
+        "capacity": 1000,
+        "latitude": 41.52623336083174,
+        "longitude": -1.6128498317410391
+    },
+    {
+        "id": 19165,
+        "name": "Campo La Colomina",
+        "city": "Tamarite de Litera",
+        "capacity": 1000,
+        "latitude": 41.86215724903394,
+        "longitude": 0.4290410277936552
+    },
+    {
+        "id": 6963,
+        "name": "Campo De Fútbol Jumaya Calamocha",
+        "city": "Calamocha",
+        "capacity": 1000,
+        "latitude": 40.91746937865403,
+        "longitude": -1.2943098299138514
+    },
+    {
+        "id": 12352,
+        "name": "Nuevo Estadio Municipal Cuarte de Huerva",
+        "city": "Cuarte de Huerva",
+        "capacity": 1000,
+        "latitude": 41.58939823529619,
+        "longitude": -0.9358200355607829
+    },
+    {
+        "id": 10990,
+        "name": "Complejo Deportivo San Jorge",
+        "city": "Huesca",
+        "capacity": 1000,
+        "latitude": 42.13636910279275,
+        "longitude": -0.420671616374539
+    },
+    {
+        "id": 10992,
+        "name": "Estadio La Huerta",
+        "city": "Épila",
+        "capacity": 1000,
+        "latitude": -25.27761435151845,
+        "longitude": -57.611024232034644
+    },
+    {
+        "id": 12521,
+        "name": "Estadio Juan Antonio Endeiza",
+        "city": "Teruel",
+        "capacity": 3000,
+        "latitude": 40.980099167013755,
+        "longitude": -0.4523670145684596
+    },
+    {
+        "id": 12354,
+        "name": "Estadio Los Rosales",
+        "city": "Caspe",
+        "capacity": 1000,
+        "latitude": 41.23699708704841,
+        "longitude": -0.04930317408054674
+    },
+    {
+        "id": 19166,
+        "name": "Estadio La Vega",
+        "city": "Utrillas",
+        "capacity": 1800,
+        "latitude": 40.81200075328794,
+        "longitude": -0.8480638801881023
+    },
+    {
+        "id": 19167,
+        "name": "Campo de Fútbol Municipal Tenerías",
+        "city": "La Almunia de Doña Godina",
+        "capacity": 2000,
+        "latitude": 41.47365753565314,
+        "longitude": -1.3769710010570098
+    },
+    {
+        "id": 21082,
+        "name": "Campo de fútbol San Miguel de Fuentes de Ebro",
+        "city": "Fuentes de Ebro",
+        "capacity": 3000,
+        "latitude": 41.50655512905149,
+        "longitude": -0.6236880722199821
+    },
+    {
+        "id": 39873289832212,
+        "name": "Campo de Fútbol Municipal “JOSÉ GUZMÁN MASCARÓS” de Zuera",
+        "city": "Zuera",
+        "capacity": 2500,
+        "latitude": 41.8691149079977,
+        "longitude": -0.7825699740563842
     }
 ]
