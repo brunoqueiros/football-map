@@ -3500,16 +3500,16 @@
         "name": "Estadio Mundial 82",
         "city": "Logroño",
         "capacity": 3500,
-        "latitude": null,
-        "longitude": null
+        "latitude": 42.4777507302188,
+        "longitude": -2.455690774032772
     },
     {
         "id": 22490,
         "name": "Estadio Municipal Luis De La Fuente",
         "city": "Haro",
         "capacity": 4300,
-        "latitude": null,
-        "longitude": null
+        "latitude": 42.56780010063482,
+        "longitude": -2.850620558686265
     },
     {
         "id": 6942,
@@ -3524,8 +3524,8 @@
         "name": "Estadio La Isla",
         "city": "Logroño",
         "capacity": 2000,
-        "latitude": null,
-        "longitude": null
+        "latitude": 42.47646398097946,
+        "longitude": -2.462495273568582
     },
     {
         "id": 3966,
