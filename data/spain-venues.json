@@ -1188,8 +1188,8 @@
         "name": "Estadio Municipal",
         "city": "La Unión",
         "capacity": 3000,
-        "latitude": -5.4074629,
-        "longitude": -80.74715069999999
+        "latitude": 37.623241855878426,
+        "longitude": -0.885557755168368
     },
     {
         "id": 11024,
@@ -1745,11 +1745,11 @@
     },
     {
         "id": 12306,
-        "name": "Estadio Ramón Unzaga Asla",
-        "city": "Talcahuano",
+        "name": "Club Deportivo Naval",
+        "city": "Cantabria",
         "capacity": 7142,
-        "latitude": -36.7227032,
-        "longitude": -73.1073509
+        "latitude": 43.00079942172585,
+        "longitude": -4.144801358100006
     },
     {
         "id": 19136,
@@ -1961,11 +1961,11 @@
     },
     {
         "id": 22480,
-        "name": "Estadio Panamericano",
-        "city": "San Cristóbal",
+        "name": "Municipal Ca n'Anglada",
+        "city": "Terrassa",
         "capacity": 2800,
-        "latitude": 18.4147536,
-        "longitude": -70.1198272
+        "latitude": 41.56621195221046,
+        "longitude": 2.0346013836035026
     },
     {
         "id": 6774,
@@ -2356,8 +2356,8 @@
         "name": "Estadio Municipal de la Arboleda",
         "city": "Almazán",
         "capacity": 2000,
-        "latitude": -25.2575239,
-        "longitude": -57.5751497
+        "latitude": 41.48839512422425,
+        "longitude": -2.539704544654341
     },
     {
         "id": 6811,
@@ -2380,8 +2380,8 @@
         "name": "Estadio Las Salinas",
         "city": "Tordesillas",
         "capacity": 3500,
-        "latitude": -39.0963457,
-        "longitude": -72.6910171
+        "latitude": 41.48819482459684,
+        "longitude": -4.999951088834352
     },
     {
         "id": 22522,
@@ -2929,11 +2929,11 @@
     },
     {
         "id": 5963,
-        "name": "Estadio Malvinas Argentinas",
-        "city": "Los Polvorines",
+        "name": "Paco Tejera",
+        "city": "San Miguel de Abona",
         "capacity": 6800,
-        "latitude": -34.5135346,
-        "longitude": -58.7063445
+        "latitude": 40.709973459695064,
+        "longitude": -4.185353115841542
     },
     {
         "id": 6515,
@@ -3388,8 +3388,8 @@
         "name": "Estadio Lorenzo Goikoa",
         "city": "Villava",
         "capacity": 2000,
-        "latitude": -34.6520781,
-        "longitude": -58.4401001
+        "latitude": 42.831925127253854,
+        "longitude": -1.6079642157772545
     },
     {
         "id": 6926,
@@ -3516,8 +3516,8 @@
         "name": "Estadio Sendero",
         "city": "Arnedo",
         "capacity": 4500,
-        "latitude": null,
-        "longitude": null
+        "latitude": 42.22077309705865,
+        "longitude": -2.1051143010282685
     },
     {
         "id": 6943,
@@ -3532,103 +3532,103 @@
         "name": "Estadio La Planilla",
         "city": "Calahorra",
         "capacity": 5600,
-        "latitude": null,
-        "longitude": null
+        "latitude": 42.305017140222446,
+        "longitude": -1.9759289605468056
     },
     {
         "id": 6945,
         "name": "Estadio Municipal El Soto",
         "city": "Haro",
         "capacity": 800,
-        "latitude": null,
-        "longitude": null
+        "latitude": 42.56775269134785,
+        "longitude": -2.8507922200584224
     },
     {
         "id": 6946,
         "name": "Estadio El Rollo",
         "city": "Santo Domingo de la Calzada",
         "capacity": 1500,
-        "latitude": null,
-        "longitude": null
+        "latitude": 42.438883599989744,
+        "longitude": -2.9384277317058207
     },
     {
         "id": 6947,
         "name": "Estadio La Salera",
         "city": "Nájera",
         "capacity": 1114,
-        "latitude": null,
-        "longitude": null
+        "latitude": 42.413072944744705,
+        "longitude": -2.7414630894530436
     },
     {
         "id": 22491,
         "name": "Oion Arena",
         "city": "Oyón (Oion)",
         "capacity": 5000,
-        "latitude": null,
-        "longitude": null
+        "latitude": 42.497375917715466,
+        "longitude": -2.4397135740319893
     },
     {
         "id": 6950,
         "name": "Estadio San Miguel",
         "city": "Rincón de Soto",
         "capacity": 3000,
-        "latitude": null,
-        "longitude": null
+        "latitude": 42.23111906437077,
+        "longitude": -1.8566208298635958
     },
     {
         "id": 12349,
         "name": "Estadio Municipal de Varea",
         "city": "Varea",
         "capacity": 2000,
-        "latitude": null,
-        "longitude": null
+        "latitude": 42.464996731344186,
+        "longitude": -2.400695128004161
     },
     {
         "id": 6952,
         "name": "Estadio Municipal de Viana",
         "city": "Viana",
         "capacity": 500,
-        "latitude": null,
-        "longitude": null
+        "latitude": -20.36454070733347,
+        "longitude": -40.41132208984397
     },
     {
         "id": 6954,
         "name": "Estadio El Salvador",
         "city": "Logroño",
         "capacity": 1161,
-        "latitude": null,
-        "longitude": null
+        "latitude": 42.46536324701741,
+        "longitude": -2.4770861163617384
     },
     {
         "id": 10987,
         "name": "Estadio San Roque",
         "city": "Agoncillo",
         "capacity": 2000,
-        "latitude": null,
-        "longitude": null
+        "latitude": 42.44628780815327,
+        "longitude": -2.288677997318841
     },
     {
         "id": 10988,
         "name": "Estadio San Miguel",
         "city": "Navarrete",
         "capacity": 600,
-        "latitude": null,
-        "longitude": null
+        "latitude": 42.425028765380375,
+        "longitude": -2.5566028875275872
     },
     {
         "id": 6944,
         "name": "Estadio La Estrella",
         "city": "Logroño",
         "capacity": 500,
-        "latitude": null,
-        "longitude": null
+        "latitude": 42.45281479660395,
+        "longitude": -2.4282199145119607
     },
     {
         "id": 19293,
         "name": "Estadio La Manzanera",
         "city": "Autol",
         "capacity": 1000,
-        "latitude": null,
-        "longitude": null
+        "latitude": 42.218731640566375,
+        "longitude": -2.001012023772629
     }
 ]
