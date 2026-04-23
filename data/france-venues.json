@@ -1542,5 +1542,45 @@
         "capacity": 2000,
         "latitude": 14.6738877,
         "longitude": -61.03537240000001
+    },
+    {
+        "id": 19777,
+        "name": "Stade des Antonins",
+        "city": "Nîmes",
+        "capacity": 8033,
+        "latitude": 43.8108734,
+        "longitude": 4.3563873
+    },
+    {
+        "id": 643,
+        "name": "Stade Gaston Petit",
+        "city": "Châteauroux",
+        "capacity": 17072,
+        "latitude": 46.8017852,
+        "longitude": 1.7213451
+    },
+    {
+        "id": 640,
+        "name": "Stade Marcel-Verchère",
+        "city": "Bourg-en-Bresse",
+        "capacity": 11400,
+        "latitude": 46.21,
+        "longitude": 5.2372222
+    },
+    {
+        "id": 22711,
+        "name": "Stade Pelé",
+        "city": "Paris",
+        "capacity": 2000,
+        "latitude": 48.8218732,
+        "longitude": 2.3773424
+    },
+    {
+        "id": 6999,
+        "name": "Stade de Lattre de Tassigny",
+        "city": "Aubagne",
+        "capacity": 3000,
+        "latitude": 43.2935005,
+        "longitude": 5.561774799999999
     }
 ]

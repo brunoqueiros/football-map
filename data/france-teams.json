@@ -1958,5 +1958,55 @@
         "national": false,
         "logo": "https://media.api-sports.io/football/teams/25370.png",
         "venue_id": 21972918798127
+    },
+    {
+        "id": 92,
+        "name": "Nimes",
+        "code": "NIM",
+        "country": "France",
+        "founded": 1937,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/92.png",
+        "venue_id": 19777
+    },
+    {
+        "id": 107,
+        "name": "Chateauroux",
+        "code": "CHA",
+        "country": "France",
+        "founded": 1883,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/107.png",
+        "venue_id": 643
+    },
+    {
+        "id": 430,
+        "name": "Bourg-en-bresse 01",
+        "code": "BOU",
+        "country": "France",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/430.png",
+        "venue_id": 640
+    },
+    {
+        "id": 9238,
+        "name": "Gobelins",
+        "code": null,
+        "country": "France",
+        "founded": 1968,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/9238.png",
+        "venue_id": 22711
+    },
+    {
+        "id": 9930,
+        "name": "Aubagne",
+        "code": null,
+        "country": "France",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/9930.png",
+        "venue_id": 6999
     }
 ]

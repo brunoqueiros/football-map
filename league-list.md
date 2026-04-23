@@ -131,3 +131,6 @@
 
 # France
 # 66 | Coupe de France
+# 61 | Ligue 1
+# 62 | Ligue 2
+# 63 | National 1
