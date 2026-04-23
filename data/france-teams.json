@@ -3088,5 +3088,95 @@
         "national": false,
         "logo": "https://media.api-sports.io/football/teams/16416.png",
         "venue_id": 6427
+    },
+    {
+        "id": 1295,
+        "name": "Lyon Duchere",
+        "code": "LYO",
+        "country": "France",
+        "founded": 1964,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/1295.png",
+        "venue_id": 657
+    },
+    {
+        "id": 3033,
+        "name": "Chamalières",
+        "code": null,
+        "country": "France",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/3033.png",
+        "venue_id": 2001
+    },
+    {
+        "id": 3036,
+        "name": "Chassieu Décines",
+        "code": null,
+        "country": "France",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/3036.png",
+        "venue_id": 564213231546467900
+    },
+    {
+        "id": 3071,
+        "name": "Limonest",
+        "code": null,
+        "country": "France",
+        "founded": 1969,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/3071.png",
+        "venue_id": 2027
+    },
+    {
+        "id": 3227,
+        "name": "Seyssinet-Pariset",
+        "code": null,
+        "country": "France",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/3227.png",
+        "venue_id": 2116
+    },
+    {
+        "id": 9245,
+        "name": "Saint-Étienne II",
+        "code": null,
+        "country": "France",
+        "founded": 1919,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/9245.png",
+        "venue_id": 6393
+    },
+    {
+        "id": 9256,
+        "name": "Olympique Lyonnais II",
+        "code": "LYO",
+        "country": "France",
+        "founded": 1950,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/9256.png",
+        "venue_id": 20055
+    },
+    {
+        "id": 9313,
+        "name": "Thonon Évian",
+        "code": null,
+        "country": "France",
+        "founded": 2018,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/9313.png",
+        "venue_id": 22712
+    },
+    {
+        "id": 9970,
+        "name": "Clermont II",
+        "code": null,
+        "country": "France",
+        "founded": 1990,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/9970.png",
+        "venue_id": 20056
     }
 ]

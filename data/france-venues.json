@@ -2430,5 +2430,77 @@
         "capacity": 3000,
         "latitude": 48.57924209999999,
         "longitude": 7.779977199999999
+    },
+    {
+        "id": 657,
+        "name": "Stade de Balmont",
+        "city": "Lyon",
+        "capacity": 5600,
+        "latitude": 45.7876955,
+        "longitude": 4.796512
+    },
+    {
+        "id": 2001,
+        "name": "Complexe Sportif Claude Wolff",
+        "city": "Chamalières",
+        "capacity": 1500,
+        "latitude": 45.7790287,
+        "longitude": 3.0405295
+    },
+    {
+        "id": 564213231546467900,
+        "name": "Chassieu Decines FC",
+        "city": "Chassieu",
+        "capacity": null,
+        "latitude": 45.73339989999999,
+        "longitude": 4.9749935
+    },
+    {
+        "id": 2027,
+        "name": "Stade Courtois Fillot",
+        "city": "Limonest",
+        "capacity": 2000,
+        "latitude": 45.8338709,
+        "longitude": 4.773696699999999
+    },
+    {
+        "id": 2116,
+        "name": "Complexe Sportif Joseph Guetat",
+        "city": "Seyssinet-Pariset",
+        "capacity": 1000,
+        "latitude": 45.1749354,
+        "longitude": 5.687989
+    },
+    {
+        "id": 6393,
+        "name": "Stade Aimé Jacquet",
+        "city": "L&apos;Etrat",
+        "capacity": 1500,
+        "latitude": 45.4849934,
+        "longitude": 4.3718999
+    },
+    {
+        "id": 20055,
+        "name": "Terrain d'honneur Gérard Houllier",
+        "city": "Décines-Charpieu",
+        "capacity": 3000,
+        "latitude": 45.764822,
+        "longitude": 4.9767
+    },
+    {
+        "id": 22712,
+        "name": "Stade Joseph Moynat 1",
+        "city": "Thonon-les-Bains",
+        "capacity": 6000,
+        "latitude": 46.365238,
+        "longitude": 6.467397999999999
+    },
+    {
+        "id": 20056,
+        "name": "Stade Gabriel Montpied (annexe 2)",
+        "city": "Clermont-Ferrand",
+        "capacity": 1500,
+        "latitude": 45.815773,
+        "longitude": 3.1216781
     }
 ]
