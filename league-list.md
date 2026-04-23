@@ -210,3 +210,144 @@
 
 # Aruba
 # 421 | Division di Honor
+
+
+# Australia
+# 188 | A-League
+# 874 | Australia Cup
+# 1202 | Australian Championship
+# 191 | Brisbane Premier League
+# 189 | Capital Territory NPL
+# 1092 | Capital Territory NPL 2
+# 192 | New South Wales NPL
+# 835 | New South Wales NPL 2
+# 1090 | NNSW League 1
+# 481 | Northern NSW NPL
+# 193 | Northern Territory Premier League
+# 482 | Queensland NPL
+# 833 | Queensland Premier League
+# 194 | South Australia NPL
+# 834 | South Australia State League 1
+# 1091 | Tasmania Northern Championship
+# 648 | Tasmania NPL
+# 1093 | Tasmania Southern Championship
+# 195 | Victoria NPL
+# 836 | Victoria NPL 2
+# 1226 | Victoria Premier League 2
+# 196 | Western Australia NPL
+# 1094 | Western Australia State League 1
+
+
+# Austria
+# 219 | 2. Liga
+# 218 | Bundesliga
+# 220 | Cup
+# 484 | Frauenliga
+# 224 | Landesliga - Burgenland
+# 225 | Landesliga - Karnten
+# 226 | Landesliga - Niederosterreich
+# 227 | Landesliga - Oberosterreich
+# 228 | Landesliga - Salzburg
+# 229 | Landesliga - Steiermark
+# 230 | Landesliga - Tirol
+# 231 | Landesliga - Vorarlbergliga
+# 232 | Landesliga - Wien
+# 222 | Regionalliga - Mitte
+# 221 | Regionalliga - Ost
+# 688 | Regionalliga - Salzburg
+# 687 | Regionalliga - Tirol
+# 223 | Regionalliga - West
+# 223 | Regionalliga - West
+
+
+# Azerbaijan
+# 418 | Birinci Dasta
+# 420 | Cup
+# 419 | Premyer Liqa
+
+
+# Bahrain
+# 485 | Federation Cup
+# 1049 | King's Cup
+# 417 | Premier League
+# 1109 | Super Cup
+
+
+# Bangladesh
+# 811 | Federation Cup
+# 398 | Premier League
+
+
+# Barbados
+# 422 | Premier League
+
+
+# Belarus
+# 117 | 1. Division
+# 118 | 2. Division
+# 486 | Coppa
+# 116 | Premier League
+# 812 | Super Cup
+
+
+# Belgium
+# 145 | Challenger Pro League
+# 147 | Cup
+# 487 | First Amateur Division
+# 144 | Jupiler Pro League
+# 153 | Provincial - Antwerpen
+# 691 | Provincial - Brabant ACFF
+# 154 | Provincial - Brabant VFV
+# 155 | Provincial - Hainaut
+# 156 | Provincial - Liege
+# 157 | Provincial - Limburg
+# 158 | Provincial - Luxembourg
+# 159 | Provincial - Namur
+# 160 | Provincial - Oost-Vlaanderen
+# 980 | Provincial - Play-offs ACFF
+# 161 | Provincial - West-Vlaanderen
+# 148 | Second Amateur Division - ACFF
+# 1011 | Second Amateur Division - Play-offs
+# 149 | Second Amateur Division - VFV A
+# 150 | Second Amateur Division - VFV B
+# 519 | Super Cup
+# 689 | Third Amateur Division - ACFF A
+# 690 | Third Amateur Division - ACFF B
+# 981 | Third Amateur Division - Play-offs
+# 151 | Third Amateur Division - VFV A
+# 152 | Third Amateur Division - VFV B
+
+
+# Belize
+# 416 | Premier League
+
+
+# Benin
+# 415 | Championnat National
+
+
+# Bermuda
+# 414 | Premier League
+
+
+# Bhutan
+# 1031 | Premier League
+# 413 | Super League
+
+
+# Bolivia
+# 964 | Copa de la División Profesional
+# 710 | Nacional B
+# 344 | Primera División
+
+
+# Bosnia
+# 316 | 1st League - FBiH
+# 317 | 1st League - RS
+# 314 | Cup
+# 315 | Premijer Liga
+# 1221 | Super Cup
+
+
+# Botswana
+# 412 | Premier League
