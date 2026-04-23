@@ -1,0 +1,142 @@
+[
+    {
+        "id": 577,
+        "name": "FK Kukesi",
+        "code": "KUK",
+        "country": "Albania",
+        "founded": 1930,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/577.png",
+        "venue_id": 19194
+    },
+    {
+        "id": 3317,
+        "name": "Flamurtari",
+        "code": "FLA",
+        "country": "Albania",
+        "founded": 1923,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/3317.png",
+        "venue_id": 2156
+    },
+    {
+        "id": 3319,
+        "name": "Kastrioti Krujë",
+        "code": "KAS",
+        "country": "Albania",
+        "founded": 1926,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/3319.png",
+        "venue_id": 2158
+    },
+    {
+        "id": 3321,
+        "name": "Apolonia Fier",
+        "code": "APO",
+        "country": "Albania",
+        "founded": 1925,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/3321.png",
+        "venue_id": 2160
+    },
+    {
+        "id": 3322,
+        "name": "Besa Kavajë",
+        "code": "BES",
+        "country": "Albania",
+        "founded": 1925,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/3322.png",
+        "venue_id": 12390
+    },
+    {
+        "id": 3324,
+        "name": "Burreli",
+        "code": "BUR",
+        "country": "Albania",
+        "founded": 1952,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/3324.png",
+        "venue_id": 2163
+    },
+    {
+        "id": 3329,
+        "name": "Erzeni Shijak",
+        "code": null,
+        "country": "Albania",
+        "founded": 1931,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/3329.png",
+        "venue_id": 2167
+    },
+    {
+        "id": 3331,
+        "name": "Korabi Peshkopi",
+        "code": null,
+        "country": "Albania",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/3331.png",
+        "venue_id": 2168
+    },
+    {
+        "id": 3332,
+        "name": "Lushnja",
+        "code": "LUS",
+        "country": "Albania",
+        "founded": 1926,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/3332.png",
+        "venue_id": 2169
+    },
+    {
+        "id": 3333,
+        "name": "Oriku",
+        "code": null,
+        "country": "Albania",
+        "founded": 2012,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/3333.png",
+        "venue_id": 2170
+    },
+    {
+        "id": 3334,
+        "name": "Pogradeci",
+        "code": "POG",
+        "country": "Albania",
+        "founded": 1930,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/3334.png",
+        "venue_id": 2171
+    },
+    {
+        "id": 3340,
+        "name": "Vora",
+        "code": null,
+        "country": "Albania",
+        "founded": 2011,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/3340.png",
+        "venue_id": 20286
+    },
+    {
+        "id": 10720,
+        "name": "Luzi 2008",
+        "code": null,
+        "country": "Albania",
+        "founded": 2008,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/10720.png",
+        "venue_id": 12390
+    },
+    {
+        "id": 15511,
+        "name": "Valbona",
+        "code": null,
+        "country": "Albania",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/15511.png",
+        "venue_id": 20288
+    }
+]

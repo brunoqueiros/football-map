@@ -129,6 +129,7 @@
 # 456  | Tercera División RFEF - Group 18
 977  | Tercera División RFEF - Promotion - Play-offs
 
+
 # France
 # 66 | Coupe de France
 # 61 | Ligue 1
@@ -148,3 +149,17 @@
 # 467 | National 3 - Group H
 # 468 | National 3 - Group I
 # 469 | National 3 - Group J
+# 470 | National 3 - Group K
+# 471 | National 3 - Group L
+# 472 | National 3 - Group M
+# 526 | Trophée des Champions
+
+
+# Albania
+# 311 | 1st Division
+# 512 | 2nd Division - Group A
+# 513 | 2nd Division - Group B
+# 978 | 2nd Division - Play-offs
+# 707 | Cup
+# 708 | Super Cup
+# 310 | Superliga

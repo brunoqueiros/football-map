@@ -1,0 +1,106 @@
+[
+    {
+        "id": 19194,
+        "name": "Kukës Arena",
+        "city": "Kukës",
+        "capacity": 6200,
+        "latitude": 42.0791784,
+        "longitude": 20.4203543
+    },
+    {
+        "id": 2156,
+        "name": "Stadiumi Flamurtari",
+        "city": "Vlorë",
+        "capacity": 8800,
+        "latitude": 40.4560746,
+        "longitude": 19.4888234
+    },
+    {
+        "id": 2158,
+        "name": "Stadiumi Redi Maloku",
+        "city": "Fushë-Krujë",
+        "capacity": 3000,
+        "latitude": 41.4769546,
+        "longitude": 19.7242838
+    },
+    {
+        "id": 2160,
+        "name": "Stadiumi Loni Papuçiu",
+        "city": "Fier",
+        "capacity": 6800,
+        "latitude": 40.720977,
+        "longitude": 19.55216
+    },
+    {
+        "id": 12390,
+        "name": "Stadiumi Luz i Vogël",
+        "city": "Luz i Vogël",
+        "capacity": 600,
+        "latitude": 41.1222947,
+        "longitude": 19.5751534
+    },
+    {
+        "id": 2163,
+        "name": "Stadiumi Liri Ballabani",
+        "city": "Burreli",
+        "capacity": 3000,
+        "latitude": 41.6090431,
+        "longitude": 20.0073736
+    },
+    {
+        "id": 2167,
+        "name": "Stadiumi Tofik Jashari",
+        "city": "Shijak",
+        "capacity": 4000,
+        "latitude": 41.3458695,
+        "longitude": 19.5554505
+    },
+    {
+        "id": 2168,
+        "name": "Stadiumi Korabi",
+        "city": "Peshkopi",
+        "capacity": 3000,
+        "latitude": 41.6803585,
+        "longitude": 20.4252778
+    },
+    {
+        "id": 2169,
+        "name": "Stadiumi Roza Haxhiu",
+        "city": "Lushnjë",
+        "capacity": 8000,
+        "latitude": 40.9356462,
+        "longitude": 19.7096871
+    },
+    {
+        "id": 2170,
+        "name": "Fusha Sportive Orikum",
+        "city": "Orikum",
+        "capacity": 200,
+        "latitude": 40.3304601,
+        "longitude": 19.4767526
+    },
+    {
+        "id": 2171,
+        "name": "Stadiumi Gjorgji Kyçyku",
+        "city": "Pogradec",
+        "capacity": 5000,
+        "latitude": 40.9002355,
+        "longitude": 20.6641959
+    },
+    {
+        "id": 20286,
+        "name": "Stadiumi Vora",
+        "city": "Vora",
+        "capacity": 1200,
+        "latitude": 41.4032691,
+        "longitude": 19.6422407
+    },
+    {
+        "id": 20288,
+        "name": "Stadiumi Tropojë",
+        "city": "Bajram Curri",
+        "capacity": 3000,
+        "latitude": 42.3605301,
+        "longitude": 20.0735658
+    }
+]
