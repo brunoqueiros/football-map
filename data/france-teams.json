@@ -2738,5 +2738,145 @@
         "national": false,
         "logo": "https://media.api-sports.io/football/teams/20601.png",
         "venue_id": 20395
+    },
+    {
+        "id": 3038,
+        "name": "Chauvigny",
+        "code": null,
+        "country": "France",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/3038.png",
+        "venue_id": 2005
+    },
+    {
+        "id": 3041,
+        "name": "Châtellerault",
+        "code": null,
+        "country": "France",
+        "founded": 1915,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/3041.png",
+        "venue_id": 2007
+    },
+    {
+        "id": 3151,
+        "name": "Avoine OCC",
+        "code": null,
+        "country": "France",
+        "founded": 2013,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/3151.png",
+        "venue_id": 2082
+    },
+    {
+        "id": 3220,
+        "name": "Romorantin",
+        "code": "ROM",
+        "country": "France",
+        "founded": 1930,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/3220.png",
+        "venue_id": 2112
+    },
+    {
+        "id": 9237,
+        "name": "C' Chartres",
+        "code": null,
+        "country": "France",
+        "founded": 2018,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/9237.png",
+        "venue_id": 12095
+    },
+    {
+        "id": 9293,
+        "name": "Montlouis",
+        "code": null,
+        "country": "France",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/9293.png",
+        "venue_id": 10808
+    },
+    {
+        "id": 9921,
+        "name": "Châteauneuf-sur-Loire",
+        "code": null,
+        "country": "France",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/9921.png",
+        "venue_id": 6995
+    },
+    {
+        "id": 9922,
+        "name": "Châteauroux II",
+        "code": null,
+        "country": "France",
+        "founded": 1916,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/9922.png",
+        "venue_id": 10809
+    },
+    {
+        "id": 9925,
+        "name": "Orléans II",
+        "code": null,
+        "country": "France",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/9925.png",
+        "venue_id": 10811
+    },
+    {
+        "id": 9926,
+        "name": "UF Touraine",
+        "code": null,
+        "country": "France",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/9926.png",
+        "venue_id": 10812
+    },
+    {
+        "id": 16417,
+        "name": "Union Cosnoise",
+        "code": null,
+        "country": "France",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/16417.png",
+        "venue_id": 19308
+    },
+    {
+        "id": 19617,
+        "name": "Vierzon FC",
+        "code": null,
+        "country": "France",
+        "founded": 2015,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/19617.png",
+        "venue_id": 2123
+    },
+    {
+        "id": 22033,
+        "name": "Bourges Moulon",
+        "code": null,
+        "country": "France",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/22033.png",
+        "venue_id": 89789456465123
+    },
+    {
+        "id": 22034,
+        "name": "Vineuil",
+        "code": null,
+        "country": "France",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/22034.png",
+        "venue_id": 6548798321
     }
 ]

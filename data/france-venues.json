@@ -2166,5 +2166,117 @@
         "capacity": 1000,
         "latitude": 49.0959478,
         "longitude": 2.7603445
+    },
+    {
+        "id": 2005,
+        "name": "Stade Gilbert Arnault",
+        "city": "Chauvigny",
+        "capacity": 2000,
+        "latitude": 46.5681367,
+        "longitude": 0.6395221999999999
+    },
+    {
+        "id": 2007,
+        "name": "Stade De La Montée Rouge",
+        "city": "Châtellerault",
+        "capacity": 8033,
+        "latitude": 46.8085396,
+        "longitude": 0.5212186999999999
+    },
+    {
+        "id": 2082,
+        "name": "Stade Marcel Vignaud",
+        "city": "Avoine",
+        "capacity": 3000,
+        "latitude": 47.2138897,
+        "longitude": 0.1877574
+    },
+    {
+        "id": 2112,
+        "name": "Stade Jules Ladoumègue",
+        "city": "Romorantin-Lanthenay",
+        "capacity": 5280,
+        "latitude": 47.3702026,
+        "longitude": 1.7395932
+    },
+    {
+        "id": 12095,
+        "name": "Stade Jacques Couvret",
+        "city": "Chartres",
+        "capacity": 4000,
+        "latitude": 48.4609801,
+        "longitude": 1.4850402
+    },
+    {
+        "id": 10808,
+        "name": "Stade Eugène Cholet 1 - Terrain Emmanuel Petit",
+        "city": "Montlouis-sur-Loire",
+        "capacity": 1000,
+        "latitude": 47.3860283,
+        "longitude": 0.8180451999999999
+    },
+    {
+        "id": 6995,
+        "name": "Stade Lièvre d'Or",
+        "city": "Châteauneuf-sur-Loire",
+        "capacity": 4000,
+        "latitude": 47.86721300000001,
+        "longitude": 2.2232965
+    },
+    {
+        "id": 10809,
+        "name": "Stade Claude Jamet",
+        "city": "Châteauroux",
+        "capacity": 1800,
+        "latitude": 46.7963329,
+        "longitude": 1.7216634
+    },
+    {
+        "id": 10811,
+        "name": "Stade De La Source 2",
+        "city": "Orléans",
+        "capacity": 1000,
+        "latitude": 47.8428054,
+        "longitude": 1.943472
+    },
+    {
+        "id": 10812,
+        "name": "Complexe sportif de la Haye",
+        "city": "Ballan-Miré",
+        "capacity": 2000,
+        "latitude": 47.3323291,
+        "longitude": 0.6133818
+    },
+    {
+        "id": 19308,
+        "name": "Parc Municipal des Sports Raphaël Giraux",
+        "city": "Cosne-Cours-sur-Loire",
+        "capacity": 2167,
+        "latitude": 47.4168136,
+        "longitude": 2.9232915
+    },
+    {
+        "id": 2123,
+        "name": "Stade de Brouhot",
+        "city": "Vierzon",
+        "capacity": 1863,
+        "latitude": 47.2354216,
+        "longitude": 2.066287
+    },
+    {
+        "id": 89789456465123,
+        "name": "Espérance Sportive du Moulon",
+        "city": "Bourges",
+        "capacity": null,
+        "latitude": 47.1025275,
+        "longitude": 2.401022
+    },
+    {
+        "id": 6548798321,
+        "name": "VINEUIL SPORTS FOOTBALL",
+        "city": "Vineuil",
+        "capacity": null,
+        "latitude": 47.5848314,
+        "longitude": 1.3836521
     }
 ]
