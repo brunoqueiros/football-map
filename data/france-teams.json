@@ -2878,5 +2878,125 @@
         "national": false,
         "logo": "https://media.api-sports.io/football/teams/22034.png",
         "venue_id": 6548798321
+    },
+    {
+        "id": 3073,
+        "name": "Louhans-Cuiseaux",
+        "code": null,
+        "country": "France",
+        "founded": 1970,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/3073.png",
+        "venue_id": 2028
+    },
+    {
+        "id": 3082,
+        "name": "Montceau",
+        "code": "MON",
+        "country": "France",
+        "founded": 1948,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/3082.png",
+        "venue_id": 2036
+    },
+    {
+        "id": 3110,
+        "name": "Sainte Geneviève",
+        "code": null,
+        "country": "France",
+        "founded": 1936,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/3110.png",
+        "venue_id": 2053
+    },
+    {
+        "id": 3115,
+        "name": "St Maur Lusitanos",
+        "code": null,
+        "country": "France",
+        "founded": 1966,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/3115.png",
+        "venue_id": 22709
+    },
+    {
+        "id": 3204,
+        "name": "Moulins-Yzeure Foot 03",
+        "code": "YZE",
+        "country": "France",
+        "founded": 1938,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/3204.png",
+        "venue_id": 8488
+    },
+    {
+        "id": 3218,
+        "name": "Racing Colombes 92",
+        "code": null,
+        "country": "France",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/3218.png",
+        "venue_id": 6390
+    },
+    {
+        "id": 9935,
+        "name": "Auxerre II",
+        "code": null,
+        "country": "France",
+        "founded": 1905,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/9935.png",
+        "venue_id": 7002
+    },
+    {
+        "id": 9936,
+        "name": "Dijon II",
+        "code": null,
+        "country": "France",
+        "founded": 1998,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/9936.png",
+        "venue_id": 7003
+    },
+    {
+        "id": 9945,
+        "name": "Troyes II",
+        "code": null,
+        "country": "France",
+        "founded": 1900,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/9945.png",
+        "venue_id": 20391
+    },
+    {
+        "id": 9963,
+        "name": "Ivry",
+        "code": "IVR",
+        "country": "France",
+        "founded": 1919,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/9963.png",
+        "venue_id": 7025
+    },
+    {
+        "id": 9967,
+        "name": "Torcy",
+        "code": null,
+        "country": "France",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/9967.png",
+        "venue_id": 22713
+    },
+    {
+        "id": 22040,
+        "name": "ASPTT Dijon",
+        "code": null,
+        "country": "France",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/22040.png",
+        "venue_id": 7003
     }
 ]

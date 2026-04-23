@@ -2278,5 +2278,93 @@
         "capacity": null,
         "latitude": 47.5848314,
         "longitude": 1.3836521
+    },
+    {
+        "id": 2028,
+        "name": "Parc des Sports du Bram",
+        "city": "Louhans",
+        "capacity": 8400,
+        "latitude": 46.6253561,
+        "longitude": 5.2163485
+    },
+    {
+        "id": 2036,
+        "name": "Stade des Alouettes",
+        "city": "Montceau-les-Mines",
+        "capacity": 6000,
+        "latitude": 46.6871251,
+        "longitude": 4.3757847
+    },
+    {
+        "id": 2053,
+        "name": "Parc des Sports Léo Lagrange",
+        "city": "Sainte-Geneviève-des-Bois",
+        "capacity": 3000,
+        "latitude": 48.6336323,
+        "longitude": 2.3406827
+    },
+    {
+        "id": 22709,
+        "name": "Stade Adolphe-Chéron",
+        "city": "Saint-Maur-des-Fossés",
+        "capacity": 2520,
+        "latitude": 48.8072598,
+        "longitude": 2.4947082
+    },
+    {
+        "id": 8488,
+        "name": "Stade Hector Rolland",
+        "city": "Moulins",
+        "capacity": 4500,
+        "latitude": 46.5697773,
+        "longitude": 3.3204048
+    },
+    {
+        "id": 6390,
+        "name": "Stade Léo Lagrange",
+        "city": "Poissy",
+        "capacity": 3500,
+        "latitude": 48.9363736,
+        "longitude": 2.0597307
+    },
+    {
+        "id": 7002,
+        "name": "Stade de l'Abbé Deschamps (annexe 3)",
+        "city": "Auxerre",
+        "capacity": 3000,
+        "latitude": 47.7879178,
+        "longitude": 3.586540299999999
+    },
+    {
+        "id": 7003,
+        "name": "Stade des Poussots",
+        "city": "Dijon",
+        "capacity": 1500,
+        "latitude": 47.3029355,
+        "longitude": 5.0621066
+    },
+    {
+        "id": 20391,
+        "name": "Complexe Sportif de l'Aube N° 2 - Terrain du Bas",
+        "city": "Rosières-près-Troyes",
+        "capacity": 1000,
+        "latitude": 48.2723422,
+        "longitude": 4.0636309
+    },
+    {
+        "id": 7025,
+        "name": "Stade de Clerville",
+        "city": "Ivry-sur-Seine",
+        "capacity": 2000,
+        "latitude": 48.807996,
+        "longitude": 2.3842773
+    },
+    {
+        "id": 22713,
+        "name": "Complexe Sportif du Fremoy 1",
+        "city": "Torcy",
+        "capacity": 2000,
+        "latitude": 48.854689,
+        "longitude": 2.6528214
     }
 ]
