@@ -1974,5 +1974,117 @@
         "capacity": 4501,
         "latitude": 48.746118,
         "longitude": -0.5818481999999999
+    },
+    {
+        "id": 7018,
+        "name": "Stade de Venoix - Claude-Mercier",
+        "city": "Caen",
+        "capacity": 16000,
+        "latitude": 49.1760981,
+        "longitude": -0.3910285
+    },
+    {
+        "id": 1991,
+        "name": "Stade Paul-Antoniotti",
+        "city": "Borgo",
+        "capacity": 1300,
+        "latitude": 42.5710363,
+        "longitude": 9.4478125
+    },
+    {
+        "id": 2014,
+        "name": "Stade Chêne À Leu 1",
+        "city": "Le Grand Quevilly",
+        "capacity": 1000,
+        "latitude": 49.39316909999999,
+        "longitude": 1.0411572
+    },
+    {
+        "id": 2040,
+        "name": "Stade Marcel-Billard",
+        "city": "Oissel",
+        "capacity": 3000,
+        "latitude": 49.3511642,
+        "longitude": 1.0915196
+    },
+    {
+        "id": 2087,
+        "name": "Stade Maurice Fouque",
+        "city": "Caen",
+        "capacity": 1000,
+        "latitude": 49.19233089999999,
+        "longitude": -0.3438077
+    },
+    {
+        "id": 2125,
+        "name": "Stade Jacques-Fould",
+        "city": "Alençon",
+        "capacity": 2000,
+        "latitude": 48.4411037,
+        "longitude": 0.1024446
+    },
+    {
+        "id": 2131,
+        "name": "Stade André Heurtematte",
+        "city": "Dives-sur-Mer",
+        "capacity": 2000,
+        "latitude": 49.2806079,
+        "longitude": -0.1074587
+    },
+    {
+        "id": 12586,
+        "name": "Stade d'Honneur Paul Desgouillons",
+        "city": "Montlhéry",
+        "capacity": 3000,
+        "latitude": 48.6378233,
+        "longitude": 2.2773998
+    },
+    {
+        "id": 20052,
+        "name": "Stade Dumè Luciani",
+        "city": "Ajaccio",
+        "capacity": 1000,
+        "latitude": 41.9310758,
+        "longitude": 8.77863
+    },
+    {
+        "id": 12098,
+        "name": "Terrain Annexe 3 du Venoix",
+        "city": "Caen",
+        "capacity": 1000,
+        "latitude": 49.1760981,
+        "longitude": -0.3910285
+    },
+    {
+        "id": 8485,
+        "name": "Stade Auguste Delaune",
+        "city": "Brétigny-sur-Orge",
+        "capacity": 2000,
+        "latitude": 48.6112551,
+        "longitude": 2.3181903
+    },
+    {
+        "id": 8494,
+        "name": "Parc des Sports et des Loisirs",
+        "city": "Saint-Ouen-l&apos;Aumône",
+        "capacity": 2000,
+        "latitude": 49.0420357,
+        "longitude": 2.1014419
+    },
+    {
+        "id": 56487897989,
+        "name": "Stade Charles Finaltéri",
+        "city": "Chatou",
+        "capacity": 10000,
+        "latitude": 48.9007808,
+        "longitude": 2.1413593
+    },
+    {
+        "id": 10816,
+        "name": "Stade d'Erbajolo",
+        "city": "Bastia",
+        "capacity": 1600,
+        "latitude": 42.6629246,
+        "longitude": 9.4359929
     }
 ]
