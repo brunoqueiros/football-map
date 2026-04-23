@@ -2218,5 +2218,115 @@
         "national": false,
         "logo": "https://media.api-sports.io/football/teams/9931.png",
         "venue_id": 7000
+    },
+    {
+        "id": 3075,
+        "name": "Lège-Cap-Ferret",
+        "code": null,
+        "country": "France",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/3075.png",
+        "venue_id": 10801
+    },
+    {
+        "id": 3143,
+        "name": "Alberes Argelès",
+        "code": null,
+        "country": "France",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/3143.png",
+        "venue_id": 10823
+    },
+    {
+        "id": 3228,
+        "name": "Stade Bordelais",
+        "code": "STA",
+        "country": "France",
+        "founded": 1889,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/3228.png",
+        "venue_id": 2117
+    },
+    {
+        "id": 3249,
+        "name": "Bassin d'Arcachon Sud",
+        "code": null,
+        "country": "France",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/3249.png",
+        "venue_id": 2126
+    },
+    {
+        "id": 3251,
+        "name": "Blagnac",
+        "code": null,
+        "country": "France",
+        "founded": 1962,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/3251.png",
+        "venue_id": 2127
+    },
+    {
+        "id": 9246,
+        "name": "Trélissac",
+        "code": "TRE",
+        "country": "France",
+        "founded": 1950,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/9246.png",
+        "venue_id": 6394
+    },
+    {
+        "id": 9252,
+        "name": "Bordeaux  II",
+        "code": "BOR",
+        "country": "France",
+        "founded": 1881,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/9252.png",
+        "venue_id": 8487
+    },
+    {
+        "id": 9914,
+        "name": "Pau II",
+        "code": null,
+        "country": "France",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/9914.png",
+        "venue_id": 6990
+    },
+    {
+        "id": 9949,
+        "name": "Toulouse II",
+        "code": null,
+        "country": "France",
+        "founded": 1970,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/9949.png",
+        "venue_id": 10825
+    },
+    {
+        "id": 13705,
+        "name": "Onet-le-Château",
+        "code": null,
+        "country": "France",
+        "founded": 1972,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/13705.png",
+        "venue_id": 19038
+    },
+    {
+        "id": 15115,
+        "name": "Castanet",
+        "code": null,
+        "country": "France",
+        "founded": 1937,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/15115.png",
+        "venue_id": 10826
     }
 ]

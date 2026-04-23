@@ -1750,5 +1750,93 @@
         "capacity": 1000,
         "latitude": 42.63039860000001,
         "longitude": 8.9510575
+    },
+    {
+        "id": 10801,
+        "name": "Stade Louis Goubet",
+        "city": "Lège-Cap-Ferret",
+        "capacity": 1500,
+        "latitude": 44.7947006,
+        "longitude": -1.1479017
+    },
+    {
+        "id": 10823,
+        "name": "Stade Eric Cantona",
+        "city": "Argelès-sur-Mer",
+        "capacity": 1500,
+        "latitude": 42.5414661,
+        "longitude": 3.0453506
+    },
+    {
+        "id": 2117,
+        "name": "Stade Sainte-Germaine",
+        "city": "Le-Bouscat",
+        "capacity": 4796,
+        "latitude": 44.8706102,
+        "longitude": -0.6177057
+    },
+    {
+        "id": 2126,
+        "name": "Stade Jean Brousse",
+        "city": "Arcachon",
+        "capacity": 1000,
+        "latitude": 44.6519201,
+        "longitude": -1.1495724
+    },
+    {
+        "id": 2127,
+        "name": "Complexe sportif d'Andromède",
+        "city": "Blagnac",
+        "capacity": 1600,
+        "latitude": 43.6540733,
+        "longitude": 1.3829353
+    },
+    {
+        "id": 6394,
+        "name": "Stade Firmin-Daudou",
+        "city": "Trélissac",
+        "capacity": 4350,
+        "latitude": 45.1954082,
+        "longitude": 0.7769748999999999
+    },
+    {
+        "id": 8487,
+        "name": "Stade Jean-Antoine Moueix",
+        "city": "Libourne",
+        "capacity": 6050,
+        "latitude": 44.9082294,
+        "longitude": -0.2342432
+    },
+    {
+        "id": 6990,
+        "name": "Stade Paul Escudé",
+        "city": "Pau",
+        "capacity": 1000,
+        "latitude": 43.3184535,
+        "longitude": -0.3693849
+    },
+    {
+        "id": 10825,
+        "name": "Stadium annexe n°3",
+        "city": "Toulouse",
+        "capacity": 1000,
+        "latitude": 43.5832972,
+        "longitude": 1.434048
+    },
+    {
+        "id": 19038,
+        "name": "Stade Georges Vignes",
+        "city": "Onet-le-Château",
+        "capacity": 2000,
+        "latitude": 44.3832433,
+        "longitude": 2.587689
+    },
+    {
+        "id": 10826,
+        "name": "Complexe Sportif de Lautard",
+        "city": "Castanet-Tolosan",
+        "capacity": 1000,
+        "latitude": 43.5204811,
+        "longitude": 1.5176586
     }
 ]
