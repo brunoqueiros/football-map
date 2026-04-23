@@ -1646,5 +1646,61 @@
         "capacity": 3500,
         "latitude": 43.632309,
         "longitude": 6.9547108
+    },
+    {
+        "id": 1996,
+        "name": "Stade des Allées Jean Leroi",
+        "city": "Blois",
+        "capacity": 7000,
+        "latitude": 47.57902199999999,
+        "longitude": 1.2981114
+    },
+    {
+        "id": 2024,
+        "name": "Stade de l'Idonnière",
+        "city": "Le Poiré-sur-Vie",
+        "capacity": 4500,
+        "latitude": 46.77232069999999,
+        "longitude": -1.4986843
+    },
+    {
+        "id": 2044,
+        "name": "Stade Michel-Amand",
+        "city": "Buxerolles",
+        "capacity": 12000,
+        "latitude": 46.59518449999999,
+        "longitude": 0.3641732
+    },
+    {
+        "id": 2058,
+        "name": "Stade du Grand Clos",
+        "city": "Saint-Pryvé-Saint-Mesmin",
+        "capacity": 1800,
+        "latitude": 47.8858278,
+        "longitude": 1.8760709
+    },
+    {
+        "id": 2101,
+        "name": "Stade Louis-Dior",
+        "city": "Granville",
+        "capacity": 3200,
+        "latitude": 48.83688979999999,
+        "longitude": -1.5753254
+    },
+    {
+        "id": 6413,
+        "name": "Stade de la Ville en Bois",
+        "city": "Châteaubriant",
+        "capacity": 3000,
+        "latitude": 47.7045724,
+        "longitude": -1.3840051
+    },
+    {
+        "id": 6994,
+        "name": "Stade Jacques Rimbault",
+        "city": "Bourges",
+        "capacity": 13000,
+        "latitude": 47.1157689,
+        "longitude": 2.3948154
     }
 ]

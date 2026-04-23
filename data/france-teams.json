@@ -2088,5 +2088,75 @@
         "national": false,
         "logo": "https://media.api-sports.io/football/teams/9257.png",
         "venue_id": 19306
+    },
+    {
+        "id": 3026,
+        "name": "Blois",
+        "code": null,
+        "country": "France",
+        "founded": 0,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/3026.png",
+        "venue_id": 1996
+    },
+    {
+        "id": 3068,
+        "name": "Le Poiré sur Vie",
+        "code": "POI",
+        "country": "France",
+        "founded": 1954,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/3068.png",
+        "venue_id": 2024
+    },
+    {
+        "id": 3097,
+        "name": "Poitiers",
+        "code": null,
+        "country": "France",
+        "founded": 1921,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/3097.png",
+        "venue_id": 2044
+    },
+    {
+        "id": 3117,
+        "name": "St-Pryvé St-Hilaire",
+        "code": null,
+        "country": "France",
+        "founded": 2000,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/3117.png",
+        "venue_id": 2058
+    },
+    {
+        "id": 3185,
+        "name": "Granville",
+        "code": null,
+        "country": "France",
+        "founded": 1918,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/3185.png",
+        "venue_id": 2101
+    },
+    {
+        "id": 9272,
+        "name": "Châteaubriant",
+        "code": null,
+        "country": "France",
+        "founded": 1907,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/9272.png",
+        "venue_id": 6413
+    },
+    {
+        "id": 17360,
+        "name": "Bourges Foot 18",
+        "code": null,
+        "country": "France",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/17360.png",
+        "venue_id": 6994
     }
 ]
