@@ -2638,5 +2638,105 @@
         "national": false,
         "logo": "https://media.api-sports.io/football/teams/22037.png",
         "venue_id": 10816
+    },
+    {
+        "id": 1294,
+        "name": "Entente S St Gratien",
+        "code": null,
+        "country": "France",
+        "founded": 1989,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/1294.png",
+        "venue_id": 647
+    },
+    {
+        "id": 3043,
+        "name": "Croix Football IC",
+        "code": null,
+        "country": "France",
+        "founded": 1952,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/3043.png",
+        "venue_id": 2009
+    },
+    {
+        "id": 3091,
+        "name": "Olympique St Quentin",
+        "code": null,
+        "country": "France",
+        "founded": 1920,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/3091.png",
+        "venue_id": 2042
+    },
+    {
+        "id": 3136,
+        "name": "Vimy",
+        "code": null,
+        "country": "France",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/3136.png",
+        "venue_id": 2069
+    },
+    {
+        "id": 9233,
+        "name": "Lens II",
+        "code": "LEN",
+        "country": "France",
+        "founded": 1906,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/9233.png",
+        "venue_id": 1990
+    },
+    {
+        "id": 9234,
+        "name": "Lille II",
+        "code": "LIL",
+        "country": "France",
+        "founded": 1944,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/9234.png",
+        "venue_id": 20133
+    },
+    {
+        "id": 9235,
+        "name": "Reims II",
+        "code": null,
+        "country": "France",
+        "founded": 1931,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/9235.png",
+        "venue_id": 20053
+    },
+    {
+        "id": 9274,
+        "name": "Dieppe",
+        "code": "DIE",
+        "country": "France",
+        "founded": 1896,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/9274.png",
+        "venue_id": 6415
+    },
+    {
+        "id": 9953,
+        "name": "Valenciennes II",
+        "code": null,
+        "country": "France",
+        "founded": 1913,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/9953.png",
+        "venue_id": 7017
+    },
+    {
+        "id": 20601,
+        "name": "Le Pays du Valois",
+        "code": null,
+        "country": "France",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/20601.png",
+        "venue_id": 20395
     }
 ]

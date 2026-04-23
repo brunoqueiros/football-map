@@ -2086,5 +2086,85 @@
         "capacity": 1600,
         "latitude": 42.6629246,
         "longitude": 9.4359929
+    },
+    {
+        "id": 647,
+        "name": "Stade Michel Hidalgo",
+        "city": "Saint-Gratien",
+        "capacity": 8000,
+        "latitude": 48.9746345,
+        "longitude": 2.2755174
+    },
+    {
+        "id": 2009,
+        "name": "Stade Henri Seigneur",
+        "city": "Croix",
+        "capacity": 2500,
+        "latitude": 50.6781167,
+        "longitude": 3.1510153
+    },
+    {
+        "id": 2042,
+        "name": "Stade Paul Debrésie",
+        "city": "Saint-Quentin",
+        "capacity": 4000,
+        "latitude": 49.866184,
+        "longitude": 3.2800788
+    },
+    {
+        "id": 2069,
+        "name": "Stade De La Mine 1",
+        "city": "Vimy",
+        "capacity": 2000,
+        "latitude": 50.3799922,
+        "longitude": 2.8043003
+    },
+    {
+        "id": 1990,
+        "name": "Stade François Blin",
+        "city": "Avion",
+        "capacity": 4800,
+        "latitude": 50.4075733,
+        "longitude": 2.8404704
+    },
+    {
+        "id": 20133,
+        "name": "Complexe Sportif de Luchin",
+        "city": "Camphin-en-Pévèle",
+        "capacity": 2000,
+        "latitude": 50.5973774,
+        "longitude": 3.2460493
+    },
+    {
+        "id": 20053,
+        "name": "Stade Louis Blériot N°1",
+        "city": "Bétheny",
+        "capacity": 1000,
+        "latitude": 49.285154,
+        "longitude": 4.040375
+    },
+    {
+        "id": 6415,
+        "name": "Stade Jean Dasnias",
+        "city": "Saint-Aubin-sur-Scie",
+        "capacity": 4776,
+        "latitude": 49.9028582,
+        "longitude": 1.0692241
+    },
+    {
+        "id": 7017,
+        "name": "Stade Centre Formation VAFC",
+        "city": "Famars",
+        "capacity": 1500,
+        "latitude": 50.3200283,
+        "longitude": 3.5105774
+    },
+    {
+        "id": 20395,
+        "name": "Stade Municipal Olivier Lovighi",
+        "city": "Le Plessis-Belleville",
+        "capacity": 1000,
+        "latitude": 49.0959478,
+        "longitude": 2.7603445
     }
 ]
