@@ -270,5 +270,77 @@
         "capacity": 8400,
         "latitude": 40.081121,
         "longitude": 20.1378396
+    },
+    {
+        "id": 2155,
+        "name": "Stadiumi Skënderbeu",
+        "city": "Korçë",
+        "capacity": 11000,
+        "latitude": 40.6261107,
+        "longitude": 20.7828471
+    },
+    {
+        "id": 4,
+        "name": "Stadiumi Selman Stërmasi",
+        "city": "Tirana",
+        "capacity": 12724,
+        "latitude": 41.3189475,
+        "longitude": 19.8113027
+    },
+    {
+        "id": 19776,
+        "name": "Arena e Demave",
+        "city": "Tirana",
+        "capacity": 5000,
+        "latitude": 41.3561407,
+        "longitude": 19.85079
+    },
+    {
+        "id": 3,
+        "name": "Stadiumi Laçi",
+        "city": "Laç",
+        "capacity": 3000,
+        "latitude": 41.6424224,
+        "longitude": 19.7117332
+    },
+    {
+        "id": 2159,
+        "name": "Stadiumi Niko Dovana",
+        "city": "Durrës",
+        "capacity": 12040,
+        "latitude": 41.32606579999999,
+        "longitude": 19.4497646
+    },
+    {
+        "id": 2164,
+        "name": "Stadiumi Adush Muça",
+        "city": "Ballsh",
+        "capacity": 3360,
+        "latitude": 40.60187,
+        "longitude": 19.740983
+    },
+    {
+        "id": 2,
+        "name": "Elbasan Arena",
+        "city": "Elbasan",
+        "capacity": 12800,
+        "latitude": 41.1158682,
+        "longitude": 20.0920063
+    },
+    {
+        "id": 12601,
+        "name": "Arena Egnatia",
+        "city": "Rrogozhinë",
+        "capacity": 4000,
+        "latitude": 41.076271,
+        "longitude": 19.6615258
+    },
+    {
+        "id": 1966,
+        "name": "Stadiumi Loro Boriçi",
+        "city": "Shkodër",
+        "capacity": 16000,
+        "latitude": 42.0699975,
+        "longitude": 19.5066279
     }
 ]

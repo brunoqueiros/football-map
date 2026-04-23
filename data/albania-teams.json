@@ -348,5 +348,105 @@
         "national": false,
         "logo": "https://media.api-sports.io/football/teams/17740.png",
         "venue_id": 1
+    },
+    {
+        "id": 605,
+        "name": "Skenderbeu Korce",
+        "code": "SKE",
+        "country": "Albania",
+        "founded": 1909,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/605.png",
+        "venue_id": 2155
+    },
+    {
+        "id": 694,
+        "name": "Tirana",
+        "code": "TIR",
+        "country": "Albania",
+        "founded": 1920,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/694.png",
+        "venue_id": 4
+    },
+    {
+        "id": 708,
+        "name": "Partizani",
+        "code": "PAR",
+        "country": "Albania",
+        "founded": 1946,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/708.png",
+        "venue_id": 19776
+    },
+    {
+        "id": 2256,
+        "name": "Laci",
+        "code": "LAC",
+        "country": "Albania",
+        "founded": 1965,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/2256.png",
+        "venue_id": 3
+    },
+    {
+        "id": 3320,
+        "name": "Teuta Durrës",
+        "code": "TEU",
+        "country": "Albania",
+        "founded": 1925,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/3320.png",
+        "venue_id": 2159
+    },
+    {
+        "id": 3325,
+        "name": "Bylis",
+        "code": "BYL",
+        "country": "Albania",
+        "founded": 1972,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/3325.png",
+        "venue_id": 2164
+    },
+    {
+        "id": 3326,
+        "name": "Dinamo Tirana",
+        "code": "DIN",
+        "country": "Albania",
+        "founded": 1950,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/3326.png",
+        "venue_id": 2
+    },
+    {
+        "id": 3327,
+        "name": "Egnatia Rrogozhinë",
+        "code": null,
+        "country": "Albania",
+        "founded": 1964,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/3327.png",
+        "venue_id": 12601
+    },
+    {
+        "id": 3339,
+        "name": "Vllaznia Shkodër",
+        "code": "VLL",
+        "country": "Albania",
+        "founded": 1919,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/3339.png",
+        "venue_id": 1966
+    },
+    {
+        "id": 20406,
+        "name": "AF Elbasani",
+        "code": null,
+        "country": "Albania",
+        "founded": 2021,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/20406.png",
+        "venue_id": 2
     }
 ]
