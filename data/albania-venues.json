@@ -190,5 +190,85 @@
         "capacity": null,
         "latitude": 41.9604751,
         "longitude": 19.5354633
+    },
+    {
+        "id": 2173,
+        "name": "Stadiumi Tomori",
+        "city": "Berat",
+        "capacity": 12000,
+        "latitude": 40.6991762,
+        "longitude": 19.9641558
+    },
+    {
+        "id": 2174,
+        "name": "Stadiumi Nexhip Trungu",
+        "city": "Cërrik",
+        "capacity": 6600,
+        "latitude": 41.0302455,
+        "longitude": 19.9941608
+    },
+    {
+        "id": 2621,
+        "name": "Stadiumi Shkumbini",
+        "city": "Peqin",
+        "capacity": 4000,
+        "latitude": 41.0422971,
+        "longitude": 19.7526475
+    },
+    {
+        "id": 3521,
+        "name": "Stadiumi Andon Lapa",
+        "city": "Sarandë",
+        "capacity": 5000,
+        "latitude": 39.8705831,
+        "longitude": 19.9974724
+    },
+    {
+        "id": 5450,
+        "name": "Fusha Sportive Bilisht",
+        "city": "Bilisht",
+        "capacity": 3000,
+        "latitude": 40.6280815,
+        "longitude": 20.9832626
+    },
+    {
+        "id": 7352,
+        "name": "Fusha Sportive Delvinë",
+        "city": "Delvinë",
+        "capacity": 2000,
+        "latitude": 41.3302121,
+        "longitude": 19.7816356
+    },
+    {
+        "id": 7353,
+        "name": "Stadiumi Demir Allamani",
+        "city": "Këlcyrë",
+        "capacity": 1000,
+        "latitude": 42.0791784,
+        "longitude": 20.4203543
+    },
+    {
+        "id": 20287,
+        "name": "Aneksi i Stadiumit Skenderbeu Korçe",
+        "city": "Korçë",
+        "capacity": 1000,
+        "latitude": 40.6261107,
+        "longitude": 20.7828471
+    },
+    {
+        "id": 7355,
+        "name": "Stadiumi Karafil Çaushi",
+        "city": "Memaliaj",
+        "capacity": 1000,
+        "latitude": 40.3491236,
+        "longitude": 19.9856329
+    },
+    {
+        "id": 1,
+        "name": "Stadiumi Gjirokastra",
+        "city": "Gjirokastër",
+        "capacity": 8400,
+        "latitude": 40.081121,
+        "longitude": 20.1378396
     }
 ]

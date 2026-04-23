@@ -248,5 +248,105 @@
         "national": false,
         "logo": "https://media.api-sports.io/football/teams/25021.png",
         "venue_id": 1237897944654
+    },
+    {
+        "id": 3336,
+        "name": "Tomori Berat",
+        "code": "BER",
+        "country": "Albania",
+        "founded": 1923,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/3336.png",
+        "venue_id": 2173
+    },
+    {
+        "id": 3337,
+        "name": "Turbina Cërrik",
+        "code": null,
+        "country": "Albania",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/3337.png",
+        "venue_id": 2174
+    },
+    {
+        "id": 3835,
+        "name": "Shkumbini Peqin",
+        "code": "SHK",
+        "country": "Albania",
+        "founded": 1924,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/3835.png",
+        "venue_id": 2621
+    },
+    {
+        "id": 4671,
+        "name": "Butrinti Sarandë",
+        "code": "BUT",
+        "country": "Albania",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/4671.png",
+        "venue_id": 3521
+    },
+    {
+        "id": 7507,
+        "name": "Devolli",
+        "code": null,
+        "country": "Albania",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/7507.png",
+        "venue_id": 5450
+    },
+    {
+        "id": 10724,
+        "name": "Delvina",
+        "code": null,
+        "country": "Albania",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/10724.png",
+        "venue_id": 7352
+    },
+    {
+        "id": 10725,
+        "name": "Këlcyra",
+        "code": null,
+        "country": "Albania",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/10725.png",
+        "venue_id": 7353
+    },
+    {
+        "id": 10726,
+        "name": "Maliqi",
+        "code": null,
+        "country": "Albania",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/10726.png",
+        "venue_id": 20287
+    },
+    {
+        "id": 10727,
+        "name": "Memaliaj",
+        "code": null,
+        "country": "Albania",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/10727.png",
+        "venue_id": 7355
+    },
+    {
+        "id": 17740,
+        "name": "Luftëtari",
+        "code": null,
+        "country": "Albania",
+        "founded": 2020,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/17740.png",
+        "venue_id": 1
     }
 ]
