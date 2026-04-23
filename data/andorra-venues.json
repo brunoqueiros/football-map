@@ -1,0 +1,50 @@
+[
+    {
+        "id": 30,
+        "name": "Centre d'Entrenament de la FAF 1",
+        "city": "Santa Coloma",
+        "capacity": 2000,
+        "latitude": 42.4976807,
+        "longitude": 1.5076948
+    },
+    {
+        "id": 2178,
+        "name": "Camp de Futbol d'Aixovall",
+        "city": "Sant Julià de Lòria",
+        "capacity": 899,
+        "latitude": 42.5546145,
+        "longitude": 1.530854
+    },
+    {
+        "id": 9879765464321,
+        "name": "Andorra la Vella Municipal Stadium",
+        "city": "Andorra la Vella",
+        "capacity": null,
+        "latitude": 42.501271,
+        "longitude": 1.5138761
+    },
+    {
+        "id": 111323214564,
+        "name": "Club Futbol Sala Pas de la Casa",
+        "city": "Pas de la Casa",
+        "capacity": null,
+        "latitude": 42.5446629,
+        "longitude": 1.7328634
+    },
+    {
+        "id": 66656656598,
+        "name": "City Escaldes FC",
+        "city": "Escaldes-Engordany",
+        "capacity": null,
+        "latitude": 42.5115561,
+        "longitude": 1.5413063
+    },
+    {
+        "id": 2178,
+        "name": "Camp de Futbol d'Aixovall",
+        "city": "Sant Julià de Lòria",
+        "capacity": 899,
+        "latitude": 42.5546145,
+        "longitude": 1.530854
+    }
+]

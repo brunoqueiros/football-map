@@ -1,0 +1,142 @@
+[
+    {
+        "id": 591,
+        "name": "FC Santa Coloma",
+        "code": "SAN",
+        "country": "Andorra",
+        "founded": 1986,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/591.png",
+        "venue_id": 30
+    },
+    {
+        "id": 703,
+        "name": "UE Santa Coloma",
+        "code": null,
+        "country": "Andorra",
+        "founded": 1995,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/703.png",
+        "venue_id": 30
+    },
+    {
+        "id": 3342,
+        "name": "Inter Club d'Escaldes",
+        "code": null,
+        "country": "Andorra",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/3342.png",
+        "venue_id": 30
+    },
+    {
+        "id": 3344,
+        "name": "Ordino",
+        "code": null,
+        "country": "Andorra",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/3344.png",
+        "venue_id": 30
+    },
+    {
+        "id": 3345,
+        "name": "Atlètic Club d'Escaldes",
+        "code": null,
+        "country": "Andorra",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/3345.png",
+        "venue_id": 2178
+    },
+    {
+        "id": 3351,
+        "name": "La Massana",
+        "code": null,
+        "country": "Andorra",
+        "founded": 2005,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/3351.png",
+        "venue_id": 2178
+    },
+    {
+        "id": 3352,
+        "name": "Penya Encarnada",
+        "code": null,
+        "country": "Andorra",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/3352.png",
+        "venue_id": 30
+    },
+    {
+        "id": 3353,
+        "name": "Ranger's",
+        "code": null,
+        "country": "Andorra",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/3353.png",
+        "venue_id": 2178
+    },
+    {
+        "id": 19195,
+        "name": "Esperança d'Andorra",
+        "code": null,
+        "country": "Andorra",
+        "founded": null,
+        "national": true,
+        "logo": "https://media.api-sports.io/football/teams/19195.png",
+        "venue_id": 9879765464321
+    },
+    {
+        "id": 19196,
+        "name": "Pas de la Casa",
+        "code": null,
+        "country": "Andorra",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/19196.png",
+        "venue_id": 111323214564
+    },
+    {
+        "id": 24515,
+        "name": "City Escaldes",
+        "code": null,
+        "country": "Andorra",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/24515.png",
+        "venue_id": 66656656598
+    },
+    {
+        "id": 3346,
+        "name": "Carroi",
+        "code": null,
+        "country": "Andorra",
+        "founded": 2014,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/3346.png",
+        "venue_id": 2178
+    },
+    {
+        "id": 3355,
+        "name": "UE Santa Coloma II",
+        "code": null,
+        "country": "Andorra",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/3355.png",
+        "venue_id": 2178
+    },
+    {
+        "id": 3876,
+        "name": "Atlètic Amèrica",
+        "code": null,
+        "country": "Andorra",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/3876.png",
+        "venue_id": 2178
+    }
+]
