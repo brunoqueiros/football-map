@@ -102,5 +102,93 @@
         "capacity": 3000,
         "latitude": 42.3605301,
         "longitude": 20.0735658
+    },
+    {
+        "id": 2162,
+        "name": "Stadiumi Besëlidhja",
+        "city": "Lezhë",
+        "capacity": 3500,
+        "latitude": 41.7760165,
+        "longitude": 19.6446705
+    },
+    {
+        "id": 2158,
+        "name": "Stadiumi Redi Maloku",
+        "city": "Fushë-Krujë",
+        "capacity": 3000,
+        "latitude": 41.4769546,
+        "longitude": 19.7242838
+    },
+    {
+        "id": 21286,
+        "name": "Impianti Vëllezërit Duli",
+        "city": "Koplik",
+        "capacity": 2000,
+        "latitude": 42.2079353,
+        "longitude": 19.4354998
+    },
+    {
+        "id": 2620,
+        "name": "Stadiumi Bashkim Sulejmani",
+        "city": "Kuçovë",
+        "capacity": 5000,
+        "latitude": 40.8021446,
+        "longitude": 19.9095889
+    },
+    {
+        "id": 2622,
+        "name": "Stadiumi Ismail Xhemali",
+        "city": "Pukë",
+        "capacity": 1950,
+        "latitude": 42.04991529999999,
+        "longitude": 19.8979575
+    },
+    {
+        "id": 2624,
+        "name": "Stadiumi Sopoti",
+        "city": "Librazhd",
+        "capacity": 3000,
+        "latitude": 41.1807741,
+        "longitude": 20.3135672
+    },
+    {
+        "id": 7336,
+        "name": "Fusha Sportive Gramshi",
+        "city": "Gramsh",
+        "capacity": 4000,
+        "latitude": 40.8705949,
+        "longitude": 20.1839863
+    },
+    {
+        "id": 1966,
+        "name": "Stadiumi Loro Boriçi",
+        "city": "Shkodër",
+        "capacity": 16000,
+        "latitude": 42.0699975,
+        "longitude": 19.5066279
+    },
+    {
+        "id": 20286,
+        "name": "Stadiumi Vora",
+        "city": "Vora",
+        "capacity": 1200,
+        "latitude": 41.4032691,
+        "longitude": 19.6422407
+    },
+    {
+        "id": 2165,
+        "name": "Kompleksi Internacional",
+        "city": "Pezë Helmës",
+        "capacity": 300,
+        "latitude": 41.2693042,
+        "longitude": 19.7006479
+    },
+    {
+        "id": 1237897944654,
+        "name": "Stadiumi Basania",
+        "city": "Bushat",
+        "capacity": null,
+        "latitude": 41.9604751,
+        "longitude": 19.5354633
     }
 ]

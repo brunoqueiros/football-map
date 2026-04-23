@@ -138,5 +138,115 @@
         "national": false,
         "logo": "https://media.api-sports.io/football/teams/15511.png",
         "venue_id": 20288
+    },
+    {
+        "id": 3323,
+        "name": "Besëlidhja Lezhë",
+        "code": "BES",
+        "country": "Albania",
+        "founded": 1930,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/3323.png",
+        "venue_id": 2162
+    },
+    {
+        "id": 3330,
+        "name": "Iliria Fushë-Krujë",
+        "code": "ILI",
+        "country": "Albania",
+        "founded": 1991,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/3330.png",
+        "venue_id": 2158
+    },
+    {
+        "id": 3338,
+        "name": "Veleçiku Koplik",
+        "code": "KOP",
+        "country": "Albania",
+        "founded": 1948,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/3338.png",
+        "venue_id": 21286
+    },
+    {
+        "id": 3834,
+        "name": "Naftëtari Kuçovë",
+        "code": null,
+        "country": "Albania",
+        "founded": 1945,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/3834.png",
+        "venue_id": 2620
+    },
+    {
+        "id": 3836,
+        "name": "Tërbuni Pukë",
+        "code": null,
+        "country": "Albania",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/3836.png",
+        "venue_id": 2622
+    },
+    {
+        "id": 3839,
+        "name": "Sopoti Librazhd",
+        "code": null,
+        "country": "Albania",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/3839.png",
+        "venue_id": 2624
+    },
+    {
+        "id": 10704,
+        "name": "Gramshi",
+        "code": "GRA",
+        "country": "Albania",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/10704.png",
+        "venue_id": 7336
+    },
+    {
+        "id": 17739,
+        "name": "Murlani",
+        "code": null,
+        "country": "Albania",
+        "founded": 2019,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/17739.png",
+        "venue_id": 1966
+    },
+    {
+        "id": 22351,
+        "name": "Adriatiku",
+        "code": null,
+        "country": "Albania",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/22351.png",
+        "venue_id": 20286
+    },
+    {
+        "id": 22352,
+        "name": "Albanët",
+        "code": null,
+        "country": "Albania",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/22352.png",
+        "venue_id": 2165
+    },
+    {
+        "id": 25021,
+        "name": "Basania",
+        "code": null,
+        "country": "Albania",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/25021.png",
+        "venue_id": 1237897944654
     }
 ]
