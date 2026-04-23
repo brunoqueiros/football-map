@@ -2502,5 +2502,69 @@
         "capacity": 1500,
         "latitude": 45.815773,
         "longitude": 3.1216781
+    },
+    {
+        "id": 2054,
+        "name": "Stade du Bourgidou",
+        "city": "Aigues-Mortes",
+        "capacity": 5000,
+        "latitude": 43.5673251,
+        "longitude": 4.1966034
+    },
+    {
+        "id": 10819,
+        "name": "Stade Plaine Sportive 1",
+        "city": "Rousset",
+        "capacity": 2000,
+        "latitude": 43.4766767,
+        "longitude": 5.6236498
+    },
+    {
+        "id": 6391,
+        "name": "Stade Bernard Gasset Terrain n°7",
+        "city": "Montpellier",
+        "capacity": 2000,
+        "latitude": 43.6132929,
+        "longitude": 3.9261995
+    },
+    {
+        "id": 19036,
+        "name": "Stade Paul Le Cesne",
+        "city": "Marseille",
+        "capacity": 1900,
+        "latitude": 43.25086049999999,
+        "longitude": 5.400537
+    },
+    {
+        "id": 21053,
+        "name": "Stade Sévan",
+        "city": "Marseille",
+        "capacity": 2000,
+        "latitude": 43.316888,
+        "longitude": 5.4329451
+    },
+    {
+        "id": 10821,
+        "name": "Stade Intercommunal Beaulieu",
+        "city": "Saint Jean Cap Ferrat",
+        "capacity": 500,
+        "latitude": 43.6875059,
+        "longitude": 7.328679599999999
+    },
+    {
+        "id": 2132,
+        "name": "Stade Parsemain",
+        "city": "Fos-sur-Mer",
+        "capacity": 17363,
+        "latitude": 43.469034,
+        "longitude": 4.9491936
+    },
+    {
+        "id": 6545461212315456,
+        "name": "Stade du Forum",
+        "city": "Saint-Maurice-de-Beynost",
+        "capacity": 500,
+        "latitude": 45.8282077,
+        "longitude": 4.986974
     }
 ]
