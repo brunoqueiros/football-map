@@ -2008,5 +2008,85 @@
         "national": false,
         "logo": "https://media.api-sports.io/football/teams/9930.png",
         "venue_id": 6999
+    },
+    {
+        "id": 3009,
+        "name": "Andrézieux",
+        "code": null,
+        "country": "France",
+        "founded": 1947,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/3009.png",
+        "venue_id": 1984
+    },
+    {
+        "id": 3010,
+        "name": "Anglet Genets",
+        "code": null,
+        "country": "France",
+        "founded": 1910,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/3010.png",
+        "venue_id": 1985
+    },
+    {
+        "id": 3022,
+        "name": "Bergerac",
+        "code": null,
+        "country": "France",
+        "founded": 1916,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/3022.png",
+        "venue_id": 1993
+    },
+    {
+        "id": 3051,
+        "name": "Fréjus St-Raphaël",
+        "code": "FRE",
+        "country": "France",
+        "founded": 2009,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/3051.png",
+        "venue_id": 2012
+    },
+    {
+        "id": 3061,
+        "name": "Hyères",
+        "code": "HYE",
+        "country": "France",
+        "founded": 1912,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/3061.png",
+        "venue_id": 2019
+    },
+    {
+        "id": 3125,
+        "name": "Toulon",
+        "code": null,
+        "country": "France",
+        "founded": 1944,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/3125.png",
+        "venue_id": 2063
+    },
+    {
+        "id": 3296,
+        "name": "Saint-Priest",
+        "code": "SAI",
+        "country": "France",
+        "founded": 1945,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/3296.png",
+        "venue_id": 2144
+    },
+    {
+        "id": 9257,
+        "name": "Grasse",
+        "code": null,
+        "country": "France",
+        "founded": 1950,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/9257.png",
+        "venue_id": 19306
     }
 ]

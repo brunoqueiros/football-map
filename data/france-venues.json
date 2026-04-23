@@ -1582,5 +1582,69 @@
         "capacity": 3000,
         "latitude": 43.2935005,
         "longitude": 5.561774799999999
+    },
+    {
+        "id": 1984,
+        "name": "L'Envol Stadium",
+        "city": "Andrézieux-Bouthéon",
+        "capacity": 5000,
+        "latitude": 45.5236728,
+        "longitude": 4.2992834
+    },
+    {
+        "id": 1985,
+        "name": "Stade Saint-Jean",
+        "city": "Anglet",
+        "capacity": 1300,
+        "latitude": 43.4784279,
+        "longitude": -1.5160419
+    },
+    {
+        "id": 1993,
+        "name": "Stade de Campréal",
+        "city": "Bergerac",
+        "capacity": 1400,
+        "latitude": 44.8568558,
+        "longitude": 0.5005717
+    },
+    {
+        "id": 2012,
+        "name": "Stade Louis Hon",
+        "city": "Saint-Raphaël",
+        "capacity": 3000,
+        "latitude": 43.42962199999999,
+        "longitude": 6.807023999999999
+    },
+    {
+        "id": 2019,
+        "name": "Stade Perruc",
+        "city": "Hyères",
+        "capacity": 1820,
+        "latitude": 43.1197822,
+        "longitude": 6.141689899999999
+    },
+    {
+        "id": 2063,
+        "name": "Stade de Bon-Rencontre",
+        "city": "Toulon",
+        "capacity": 8000,
+        "latitude": 43.1268328,
+        "longitude": 5.9021861
+    },
+    {
+        "id": 2144,
+        "name": "Stade Jacques Joly",
+        "city": "Saint-Priest",
+        "capacity": 2000,
+        "latitude": 45.6968998,
+        "longitude": 4.9393919
+    },
+    {
+        "id": 19306,
+        "name": "Stades de la Paoute",
+        "city": "Grasse",
+        "capacity": 3500,
+        "latitude": 43.632309,
+        "longitude": 6.9547108
     }
 ]
