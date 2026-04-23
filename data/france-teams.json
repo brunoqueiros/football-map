@@ -2998,5 +2998,95 @@
         "national": false,
         "logo": "https://media.api-sports.io/football/teams/22040.png",
         "venue_id": 7003
+    },
+    {
+        "id": 1311,
+        "name": "Belfort",
+        "code": "BEL",
+        "country": "France",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/1311.png",
+        "venue_id": 2075
+    },
+    {
+        "id": 3023,
+        "name": "Besançon",
+        "code": null,
+        "country": "France",
+        "founded": 2014,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/3023.png",
+        "venue_id": 1994
+    },
+    {
+        "id": 3113,
+        "name": "Sarreguemines",
+        "code": null,
+        "country": "France",
+        "founded": 1919,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/3113.png",
+        "venue_id": 2055
+    },
+    {
+        "id": 3214,
+        "name": "Pontarlier",
+        "code": null,
+        "country": "France",
+        "founded": 1911,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/3214.png",
+        "venue_id": 2110
+    },
+    {
+        "id": 9940,
+        "name": "Sochaux II",
+        "code": "SOC",
+        "country": "France",
+        "founded": 1928,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/9940.png",
+        "venue_id": 7007
+    },
+    {
+        "id": 9942,
+        "name": "Metz II",
+        "code": null,
+        "country": "France",
+        "founded": 1932,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/9942.png",
+        "venue_id": 7009
+    },
+    {
+        "id": 9944,
+        "name": "Strasbourg II",
+        "code": null,
+        "country": "France",
+        "founded": 1906,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/9944.png",
+        "venue_id": 20054
+    },
+    {
+        "id": 9974,
+        "name": "Racing Besançon",
+        "code": null,
+        "country": "France",
+        "founded": 1904,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/9974.png",
+        "venue_id": 1994
+    },
+    {
+        "id": 16416,
+        "name": "Strasbourg Koenigshoffen",
+        "code": null,
+        "country": "France",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/16416.png",
+        "venue_id": 6427
     }
 ]

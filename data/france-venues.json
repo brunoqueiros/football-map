@@ -2366,5 +2366,69 @@
         "capacity": 2000,
         "latitude": 48.854689,
         "longitude": 2.6528214
+    },
+    {
+        "id": 2075,
+        "name": "Stade Roger-Serzian",
+        "city": "Belfort",
+        "capacity": 5500,
+        "latitude": 47.6554033,
+        "longitude": 6.8556339
+    },
+    {
+        "id": 1994,
+        "name": "Stade Léo Lagrange",
+        "city": "Besançon",
+        "capacity": 11500,
+        "latitude": 47.2439217,
+        "longitude": 6.003091299999999
+    },
+    {
+        "id": 2055,
+        "name": "Stade de la Blies",
+        "city": "Sarreguemines",
+        "capacity": 5000,
+        "latitude": 49.1190101,
+        "longitude": 7.0691747
+    },
+    {
+        "id": 2110,
+        "name": "Stade Paul Robbe 1",
+        "city": "Pontarlier",
+        "capacity": 3600,
+        "latitude": 46.90282269999999,
+        "longitude": 6.343685499999999
+    },
+    {
+        "id": 7007,
+        "name": "Stade René Blum",
+        "city": "Montbéliard",
+        "capacity": 1900,
+        "latitude": 47.5071318,
+        "longitude": 6.7901178
+    },
+    {
+        "id": 7009,
+        "name": "Stade Dezavelle",
+        "city": "Longeville-lès-Metz",
+        "capacity": 1500,
+        "latitude": 49.1092952,
+        "longitude": 6.156270600000001
+    },
+    {
+        "id": 20054,
+        "name": "Parc des Sports",
+        "city": "Molsheim",
+        "capacity": 3000,
+        "latitude": 48.5314788,
+        "longitude": 7.5075422
+    },
+    {
+        "id": 6427,
+        "name": "Stade Émile Stahl",
+        "city": "Strasbourg",
+        "capacity": 3000,
+        "latitude": 48.57924209999999,
+        "longitude": 7.779977199999999
     }
 ]
