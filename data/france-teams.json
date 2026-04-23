@@ -2398,5 +2398,105 @@
         "national": false,
         "logo": "https://media.api-sports.io/football/teams/13618.png",
         "venue_id": 20397
+    },
+    {
+        "id": 3067,
+        "name": "Lannion",
+        "code": null,
+        "country": "France",
+        "founded": 2000,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/3067.png",
+        "venue_id": 8507
+    },
+    {
+        "id": 3098,
+        "name": "Pontivy GSI",
+        "code": "PON",
+        "country": "France",
+        "founded": 1909,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/3098.png",
+        "venue_id": 2045
+    },
+    {
+        "id": 3243,
+        "name": "Vire",
+        "code": null,
+        "country": "France",
+        "founded": 1962,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/3243.png",
+        "venue_id": 10827
+    },
+    {
+        "id": 9239,
+        "name": "Guingamp II",
+        "code": null,
+        "country": "France",
+        "founded": 1912,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/9239.png",
+        "venue_id": 12096
+    },
+    {
+        "id": 9240,
+        "name": "Lorient II",
+        "code": null,
+        "country": "France",
+        "founded": 1926,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/9240.png",
+        "venue_id": 18844
+    },
+    {
+        "id": 9249,
+        "name": "Rennes II",
+        "code": null,
+        "country": "France",
+        "founded": 1901,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/9249.png",
+        "venue_id": 6397
+    },
+    {
+        "id": 9311,
+        "name": "Stade Plabennec",
+        "code": "PLA",
+        "country": "France",
+        "founded": 1934,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/9311.png",
+        "venue_id": 6425
+    },
+    {
+        "id": 9959,
+        "name": "Drapeau Fougères",
+        "code": null,
+        "country": "France",
+        "founded": 2011,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/9959.png",
+        "venue_id": 7022
+    },
+    {
+        "id": 9960,
+        "name": "Ergué-Gaberic",
+        "code": null,
+        "country": "France",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/9960.png",
+        "venue_id": 7023
+    },
+    {
+        "id": 22036,
+        "name": "Flers",
+        "code": null,
+        "country": "France",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/22036.png",
+        "venue_id": 20050
     }
 ]

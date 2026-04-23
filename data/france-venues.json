@@ -1894,5 +1894,85 @@
         "capacity": 1500,
         "latitude": 45.826292,
         "longitude": 1.3090071
+    },
+    {
+        "id": 8507,
+        "name": "Stade René Guillou",
+        "city": "Lannion",
+        "capacity": 1000,
+        "latitude": 48.7595608,
+        "longitude": -3.4490844
+    },
+    {
+        "id": 2045,
+        "name": "Stade du Faubourg de Verdun",
+        "city": "Pontivy",
+        "capacity": 6101,
+        "latitude": 48.0546646,
+        "longitude": -2.97143
+    },
+    {
+        "id": 10827,
+        "name": "Stade Pierre Compte",
+        "city": "Vire",
+        "capacity": 2000,
+        "latitude": 48.8501187,
+        "longitude": -0.8810969
+    },
+    {
+        "id": 12096,
+        "name": "Stade Centre Formation EAG 1",
+        "city": "Pabu",
+        "capacity": 1000,
+        "latitude": 48.5791191,
+        "longitude": -3.1567999
+    },
+    {
+        "id": 18844,
+        "name": "Stade Jean Charter 1",
+        "city": "Quimperle",
+        "capacity": 4500,
+        "latitude": 47.8715073,
+        "longitude": -3.5677947
+    },
+    {
+        "id": 6397,
+        "name": "Stade de la Piverdière",
+        "city": "Rennes",
+        "capacity": 1500,
+        "latitude": 48.1074856,
+        "longitude": -1.713144
+    },
+    {
+        "id": 6425,
+        "name": "Stade de Kervéguen",
+        "city": "Plabennec",
+        "capacity": 5000,
+        "latitude": 48.499229,
+        "longitude": -4.4345971
+    },
+    {
+        "id": 7022,
+        "name": "Stade Jean Manfredi",
+        "city": "Fougères",
+        "capacity": 3000,
+        "latitude": 48.3550206,
+        "longitude": -1.18007
+    },
+    {
+        "id": 7023,
+        "name": "Stade Lestonan 1",
+        "city": "Ergue Gaberic",
+        "capacity": 1880,
+        "latitude": 48.0181985,
+        "longitude": -4.0232858
+    },
+    {
+        "id": 20050,
+        "name": "Stade du Hazé",
+        "city": "Flers",
+        "capacity": 4501,
+        "latitude": 48.746118,
+        "longitude": -0.5818481999999999
     }
 ]
