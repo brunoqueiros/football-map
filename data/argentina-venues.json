@@ -1,0 +1,1282 @@
+[
+    {
+        "id": 77,
+        "name": "Estadio Juan Carmelo Zerillo",
+        "city": "La Plata",
+        "capacity": 24544,
+        "latitude": -34.9109698,
+        "longitude": -57.93242029999999
+    },
+    {
+        "id": 19570,
+        "name": "Estadio Mâs Monumental",
+        "city": "Capital Federal",
+        "capacity": 83214,
+        "latitude": -34.5455302,
+        "longitude": -58.44967320000001
+    },
+    {
+        "id": 99,
+        "name": "Estadio Presidente Juan Domingo Perón",
+        "city": "Avellaneda",
+        "capacity": 51500,
+        "latitude": -34.6675223,
+        "longitude": -58.3685948
+    },
+    {
+        "id": 19391,
+        "name": "Estadio Gigante de Arroyito",
+        "city": "Rosario",
+        "capacity": 41654,
+        "latitude": -32.9140102,
+        "longitude": -60.6745536
+    },
+    {
+        "id": 115,
+        "name": "Estadio José Amalfitani",
+        "city": "Capital Federal",
+        "capacity": 49747,
+        "latitude": -34.63535299999999,
+        "longitude": -58.5206891
+    },
+    {
+        "id": 80,
+        "name": "Estadio Malvinas Argentinas",
+        "city": "Mendoza",
+        "capacity": 40268,
+        "latitude": -32.8896642,
+        "longitude": -68.88009559999999
+    },
+    {
+        "id": 45,
+        "name": "Estadio Julio César Villagra",
+        "city": "Ciudad de Córdoba",
+        "capacity": 28000,
+        "latitude": -31.4035235,
+        "longitude": -64.20630229999999
+    },
+    {
+        "id": 1933,
+        "name": "Estadio 15 de Abril",
+        "city": "Ciudad de Santa Fe",
+        "capacity": 27000,
+        "latitude": -31.6318671,
+        "longitude": -60.7156543
+    },
+    {
+        "id": 59,
+        "name": "Estadio Norberto Tito Tomaghello",
+        "city": "Florencio Varela",
+        "capacity": 20000,
+        "latitude": -34.8218572,
+        "longitude": -58.2859948
+    },
+    {
+        "id": 95,
+        "name": "Estadio Roberto Natalio Carminatti",
+        "city": "Bahía Blanca",
+        "capacity": 15000,
+        "latitude": -38.727053,
+        "longitude": -62.275934
+    },
+    {
+        "id": 82,
+        "name": "Estadio Tomás Adolfo Ducó",
+        "city": "Capital Federal",
+        "capacity": 48314,
+        "latitude": -34.6434764,
+        "longitude": -58.39650349999999
+    },
+    {
+        "id": 88,
+        "name": "Estadio Ciudad de Lanús - Néstor Díaz Pérez",
+        "city": "Lanús",
+        "capacity": 46619,
+        "latitude": -34.7177025,
+        "longitude": -58.38382069999999
+    },
+    {
+        "id": 54,
+        "name": "Estadio de Chacarita Juniors",
+        "city": "General San Martín",
+        "capacity": 24300,
+        "latitude": -34.5674614,
+        "longitude": -58.52816739999999
+    },
+    {
+        "id": 57,
+        "name": "Estadio Brigadier General Estanislao López",
+        "city": "Ciudad de Santa Fe",
+        "capacity": 40000,
+        "latitude": -31.6625961,
+        "longitude": -60.7253955
+    },
+    {
+        "id": 43,
+        "name": "Estadio Florencio Solá",
+        "city": "Lomas de Zamora",
+        "capacity": 34901,
+        "latitude": -34.75078269999999,
+        "longitude": -58.38819100000001
+    },
+    {
+        "id": 12716,
+        "name": "Estadio Único Diego Armando Maradona",
+        "city": "La Plata",
+        "capacity": 53000,
+        "latitude": -34.9137944,
+        "longitude": -57.98901859999999
+    },
+    {
+        "id": 46,
+        "name": "Estadio Alberto José Armando",
+        "city": "Ciudad de Buenos Aires",
+        "capacity": 49000,
+        "latitude": -34.6356109,
+        "longitude": -58.36475629999999
+    },
+    {
+        "id": 112,
+        "name": "Estadio José Dellagiovanna",
+        "city": "San Fernando",
+        "capacity": 26282,
+        "latitude": -34.4497663,
+        "longitude": -58.5430728
+    },
+    {
+        "id": 7131,
+        "name": "Estadio Libertadores de América",
+        "city": "Avellaneda",
+        "capacity": 52364,
+        "latitude": -34.6702376,
+        "longitude": -58.3710158
+    },
+    {
+        "id": 111,
+        "name": "Estadio Alfredo Martín Beranger",
+        "city": "Temperley",
+        "capacity": 19500,
+        "latitude": -34.78200020000001,
+        "longitude": -58.4003047
+    },
+    {
+        "id": 42,
+        "name": "Estadio Monumental Presidente José Fierro",
+        "city": "San Miguel de Tucumán",
+        "capacity": 35200,
+        "latitude": -26.8126467,
+        "longitude": -65.1998316
+    },
+    {
+        "id": 110,
+        "name": "Estadio Mario Alberto Kempes",
+        "city": "Ciudad de Córdoba",
+        "capacity": 57503,
+        "latitude": -31.3689296,
+        "longitude": -64.2461532
+    },
+    {
+        "id": 93,
+        "name": "Estadio Marcelo Alberto Bielsa",
+        "city": "Rosario",
+        "capacity": 42000,
+        "latitude": -32.9560954,
+        "longitude": -60.66145929999999
+    },
+    {
+        "id": 37,
+        "name": "Estadio Diego Armando Maradona",
+        "city": "Capital Federal",
+        "capacity": 24380,
+        "latitude": -34.606118,
+        "longitude": -58.4726165
+    },
+    {
+        "id": 38,
+        "name": "Estadio Julio Humberto Grondona",
+        "city": "Avellaneda",
+        "capacity": 18300,
+        "latitude": -34.6783662,
+        "longitude": -58.340567
+    },
+    {
+        "id": 103,
+        "name": "Estadio Pedro Bidegaín",
+        "city": "Capital Federal",
+        "capacity": 43494,
+        "latitude": -34.6520781,
+        "longitude": -58.4401001
+    },
+    {
+        "id": 104,
+        "name": "Estadio Ingeniero Hilario Sánchez",
+        "city": "San Juan",
+        "capacity": 19000,
+        "latitude": -31.51962,
+        "longitude": -68.5301815
+    },
+    {
+        "id": 1770,
+        "name": "Estadio Ofelia Rosenzuaig",
+        "city": "Carlos Casares",
+        "capacity": 5000,
+        "latitude": -35.6309556,
+        "longitude": -61.3772336
+    },
+    {
+        "id": 41,
+        "name": "Estadio Nuevo Monumental",
+        "city": "Rafaela",
+        "capacity": 16000,
+        "latitude": -31.2514167,
+        "longitude": -61.4815432
+    },
+    {
+        "id": 1735,
+        "name": "Estadio Aurinegro",
+        "city": "Santiago del Estero",
+        "capacity": 10500,
+        "latitude": -27.7659525,
+        "longitude": -64.270982
+    },
+    {
+        "id": 83,
+        "name": "Estadio Juan Bautista Gargantini",
+        "city": "Mendoza",
+        "capacity": 16000,
+        "latitude": -32.8907551,
+        "longitude": -68.8629133
+    },
+    {
+        "id": 107,
+        "name": "Estadio Eva Perón de Junín",
+        "city": "Junín",
+        "capacity": 22000,
+        "latitude": -34.5853388,
+        "longitude": -60.929344
+    },
+    {
+        "id": 66,
+        "name": "Estadio Guillermo Laza",
+        "city": "Capital Federal",
+        "capacity": 3000,
+        "latitude": -34.6535783,
+        "longitude": -58.443471
+    },
+    {
+        "id": 84,
+        "name": "Estadio Juan Domingo Perón",
+        "city": "Ciudad de Córdoba",
+        "capacity": 26535,
+        "latitude": -31.3837148,
+        "longitude": -64.1803412
+    },
+    {
+        "id": 20215,
+        "name": "Estadio Centenario Ciudad de Quilmes",
+        "city": "Quilmes",
+        "capacity": 30200,
+        "latitude": -34.7417981,
+        "longitude": -58.2518936
+    },
+    {
+        "id": 90,
+        "name": "Estadio Eduardo Gallardón",
+        "city": "Lomas de Zamora",
+        "capacity": 33532,
+        "latitude": -34.7553277,
+        "longitude": -58.4201059
+    },
+    {
+        "id": 105,
+        "name": "Estadio La Ciudadela",
+        "city": "San Miguel de Tucumán",
+        "capacity": 27000,
+        "latitude": -26.8362404,
+        "longitude": -65.2298316
+    },
+    {
+        "id": 69,
+        "name": "Estadio Miguel Morales",
+        "city": "Pergamino",
+        "capacity": 18000,
+        "latitude": -33.8719185,
+        "longitude": -60.56145889999999
+    },
+    {
+        "id": 97,
+        "name": "Estadio Ciudad de Vicente López",
+        "city": "Vicente López",
+        "capacity": 31030,
+        "latitude": -34.5402249,
+        "longitude": -58.4816753
+    },
+    {
+        "id": 2997,
+        "name": "Estadio Alfredo Terrera",
+        "city": "Santiago del Estero",
+        "capacity": 16000,
+        "latitude": -27.7938318,
+        "longitude": -64.26428899999999
+    },
+    {
+        "id": 78,
+        "name": "Estadio Víctor Antonio Legrotaglie",
+        "city": "Mendoza",
+        "capacity": 11500,
+        "latitude": -32.8832066,
+        "longitude": -68.8643613
+    },
+    {
+        "id": 60,
+        "name": "Estadio Juan Pasquale",
+        "city": "Capital Federal",
+        "capacity": 8300,
+        "latitude": -34.5408562,
+        "longitude": -58.46224999999999
+    },
+    {
+        "id": 87,
+        "name": "Estadio Deportivo Laferrere",
+        "city": "Gregorio de Laferrere",
+        "capacity": 5000,
+        "latitude": -34.7525401,
+        "longitude": -58.59255580000001
+    },
+    {
+        "id": 19376,
+        "name": "Estadio Pablo Comelli",
+        "city": "Remedios Escalada",
+        "capacity": 16000,
+        "latitude": -34.7216199,
+        "longitude": -58.4037619
+    },
+    {
+        "id": 79,
+        "name": "Estadio El Gigante del Norte",
+        "city": "Salta",
+        "capacity": 24300,
+        "latitude": -24.7833905,
+        "longitude": -65.4041898
+    },
+    {
+        "id": 118,
+        "name": "Estadio El Fortín",
+        "city": "Bahía Blanca",
+        "capacity": 6000,
+        "latitude": -38.73761030000001,
+        "longitude": -62.2395233
+    },
+    {
+        "id": 109,
+        "name": "Estadio La Perrera",
+        "city": "Las Parejas",
+        "capacity": 3000,
+        "latitude": -32.6904687,
+        "longitude": -61.5263807
+    },
+    {
+        "id": 18531,
+        "name": "Estadio Dr. Luis Güemes",
+        "city": "Salta",
+        "capacity": 10000,
+        "latitude": -24.7791122,
+        "longitude": -65.4211845
+    },
+    {
+        "id": 64,
+        "name": "Estadio Omar Higinio Sperdutti",
+        "city": "Maipú",
+        "capacity": 9000,
+        "latitude": -32.9841632,
+        "longitude": -68.79324310000001
+    },
+    {
+        "id": 1769,
+        "name": "Estadio Raúl Orlando Lungarzo",
+        "city": "Chivilcoy",
+        "capacity": 2500,
+        "latitude": -34.9122084,
+        "longitude": -60.0147796
+    },
+    {
+        "id": 92,
+        "name": "Estadio Ferrocarril Midland",
+        "city": "Libertad",
+        "capacity": 6000,
+        "latitude": -34.689415,
+        "longitude": -58.68735879999999
+    },
+    {
+        "id": 72,
+        "name": "Estadio Ciudad de Río Cuarto",
+        "city": "Ciudad de Río Cuarto",
+        "capacity": 9000,
+        "latitude": -33.1148758,
+        "longitude": -64.3477097
+    },
+    {
+        "id": 44,
+        "name": "Estadio Claudio Fabián Tapia",
+        "city": "Capital Federal",
+        "capacity": 4400,
+        "latitude": -34.6470719,
+        "longitude": -58.39644499999999
+    },
+    {
+        "id": 3004,
+        "name": "Estadio Mario Sebastián Diez",
+        "city": "San Luis",
+        "capacity": 13000,
+        "latitude": -33.2987781,
+        "longitude": -66.3148985
+    },
+    {
+        "id": 5709,
+        "name": "Estadio Alfredo Ramos",
+        "city": "Capital Federal",
+        "capacity": 2076,
+        "latitude": -34.5937952,
+        "longitude": -58.4885629
+    },
+    {
+        "id": 5959,
+        "name": "Estadio Fragata Presidente Sarmiento",
+        "city": "La Matanza",
+        "capacity": 19000,
+        "latitude": -34.694971,
+        "longitude": -58.5868364
+    },
+    {
+        "id": 10528,
+        "name": "Estadio de Argentino de Quilmes",
+        "city": "Quilmes",
+        "capacity": 12000,
+        "latitude": -34.7154653,
+        "longitude": -58.24888410000001
+    },
+    {
+        "id": 5963,
+        "name": "Estadio Malvinas Argentinas",
+        "city": "Los Polvorines",
+        "capacity": 6800,
+        "latitude": -34.5135346,
+        "longitude": -58.7063445
+    },
+    {
+        "id": 5967,
+        "name": "Estadio Gildo Francisco Ghersinich",
+        "city": "Gerli",
+        "capacity": 14000,
+        "latitude": -34.6930525,
+        "longitude": -58.3862021
+    },
+    {
+        "id": 5968,
+        "name": "Estadio de Excursionistas",
+        "city": "Capital Federal",
+        "capacity": 6900,
+        "latitude": -34.5588549,
+        "longitude": -58.44370819999999
+    },
+    {
+        "id": 5970,
+        "name": "Estadio Francisco Boga",
+        "city": "Burzaco",
+        "capacity": 2500,
+        "latitude": -34.8205851,
+        "longitude": -58.4009119
+    },
+    {
+        "id": 5969,
+        "name": "Estadio de Ituzaingó",
+        "city": "Ituzaingó",
+        "capacity": 3300,
+        "latitude": -34.6655298,
+        "longitude": -58.6638279
+    },
+    {
+        "id": 18534,
+        "name": "Estadio Municipal Eva Perón",
+        "city": "Bolívar",
+        "capacity": 3300,
+        "latitude": -36.2242883,
+        "longitude": -61.12176760000001
+    },
+    {
+        "id": 21657,
+        "name": "Estadio Modesto Marrone",
+        "city": "Monte Maíz",
+        "capacity": 3500,
+        "latitude": -33.2075929,
+        "longitude": -62.58784299999999
+    },
+    {
+        "id": 75,
+        "name": "Estadio Carlos V",
+        "city": "Luján",
+        "capacity": 3000,
+        "latitude": -34.587667,
+        "longitude": -59.1814828
+    },
+    {
+        "id": 117,
+        "name": "Estadio El Coliseo de Mitre y Puccini",
+        "city": "Campana",
+        "capacity": 11250,
+        "latitude": -34.1619294,
+        "longitude": -58.977873
+    },
+    {
+        "id": 102,
+        "name": "Estadio Beto Larrosa",
+        "city": "Villa Soldati",
+        "capacity": 4000,
+        "latitude": -34.6594039,
+        "longitude": -58.47703809999999
+    },
+    {
+        "id": 50,
+        "name": "Estadio Jorge Alfredo Arín",
+        "city": "Cañuelas",
+        "capacity": 3000,
+        "latitude": -35.0495389,
+        "longitude": -58.7468784
+    },
+    {
+        "id": 10527,
+        "name": "Estadio Monumental de Villa Lynch",
+        "city": "General San Martín",
+        "capacity": 1000,
+        "latitude": -34.5960293,
+        "longitude": -58.5263362
+    },
+    {
+        "id": 19375,
+        "name": "Estadio La Quema",
+        "city": "San Isidro",
+        "capacity": 800,
+        "latitude": -34.4818588,
+        "longitude": -58.58287600000001
+    },
+    {
+        "id": 62,
+        "name": "Estadio Armenia",
+        "city": "Ingeniero Maschwitz",
+        "capacity": 10500,
+        "latitude": -34.3761336,
+        "longitude": -58.7302266
+    },
+    {
+        "id": 68,
+        "name": "Estadio de los Inmigrantes",
+        "city": "Avellaneda",
+        "capacity": 6500,
+        "latitude": -34.65830529999999,
+        "longitude": -58.3439849
+    },
+    {
+        "id": 5966,
+        "name": "Estadio José Manuel Moreno",
+        "city": "Parque San Martín",
+        "capacity": 6200,
+        "latitude": -34.6810436,
+        "longitude": -58.7329138
+    },
+    {
+        "id": 5961,
+        "name": "Estadio de Colegiales",
+        "city": "Vicente López",
+        "capacity": 6000,
+        "latitude": -34.5380644,
+        "longitude": -58.52561129999999
+    },
+    {
+        "id": 5964,
+        "name": "Estadio Genancio Sálice",
+        "city": "Berisso",
+        "capacity": 4000,
+        "latitude": -34.8734727,
+        "longitude": -57.86254470000001
+    },
+    {
+        "id": 32,
+        "name": "Estadio República de Italia",
+        "city": "La Matanza",
+        "capacity": 6200,
+        "latitude": -34.7380397,
+        "longitude": -58.517306
+    },
+    {
+        "id": 5976,
+        "name": "Estadio Juan Antonio Arias",
+        "city": "La Matanza",
+        "capacity": 3000,
+        "latitude": -34.7040646,
+        "longitude": -58.5520059
+    },
+    {
+        "id": 21658,
+        "name": "Club Sarmiento La Banda",
+        "city": "La Banda",
+        "capacity": 8000,
+        "latitude": -27.7296937,
+        "longitude": -64.2483191
+    },
+    {
+        "id": 18561,
+        "name": "Estadio Islas Malvinas",
+        "city": "Ingeniero Adolfo Sourdeaux",
+        "capacity": 500,
+        "latitude": -34.6168583,
+        "longitude": -58.4980583
+    },
+    {
+        "id": 52,
+        "name": "Estadio Gabino Sosa",
+        "city": "Rosario",
+        "capacity": 17500,
+        "latitude": -32.9710641,
+        "longitude": -60.6370447
+    },
+    {
+        "id": 65,
+        "name": "Estadio Nuevo Francisco Urbano",
+        "city": "Morón",
+        "capacity": 32000,
+        "latitude": -34.6618595,
+        "longitude": -58.6312726
+    },
+    {
+        "id": 40,
+        "name": "Estadio Ricardo Puga",
+        "city": "General Rodríguez",
+        "capacity": 2500,
+        "latitude": -34.6100003,
+        "longitude": -58.90843040000001
+    },
+    {
+        "id": 89,
+        "name": "Estadio Leandro Nicéforo Alem",
+        "city": "General Rodríguez",
+        "capacity": 4000,
+        "latitude": -34.604397,
+        "longitude": -58.95699399999999
+    },
+    {
+        "id": 81,
+        "name": "Estadio Enrique VI",
+        "city": "Capital Federal",
+        "capacity": 3500,
+        "latitude": -34.6125164,
+        "longitude": -58.5151143
+    },
+    {
+        "id": 91,
+        "name": "Campo Municipal de Deportes",
+        "city": "Luján",
+        "capacity": 2500,
+        "latitude": -34.5772953,
+        "longitude": -59.1078778
+    },
+    {
+        "id": 116,
+        "name": "Estadio Saturnino Moure",
+        "city": "Avellaneda",
+        "capacity": 1500,
+        "latitude": -34.6594642,
+        "longitude": -58.3978738
+    },
+    {
+        "id": 1915,
+        "name": "Estadio Municipal de Pilar",
+        "city": "Partido de Pilar",
+        "capacity": 8500,
+        "latitude": -34.468965,
+        "longitude": -58.9195795
+    },
+    {
+        "id": 5962,
+        "name": "Estadio Ramón Roque Martín",
+        "city": "Loma Hermosa",
+        "capacity": 2500,
+        "latitude": -34.55446240000001,
+        "longitude": -58.6186637
+    },
+    {
+        "id": 5956,
+        "name": "Estadio Nueva España",
+        "city": "Capital Federal",
+        "capacity": 34500,
+        "latitude": -34.6578804,
+        "longitude": -58.4650317
+    },
+    {
+        "id": 5965,
+        "name": "Estadio Norman Lee",
+        "city": "Berazategui",
+        "capacity": 4240,
+        "latitude": -34.7592907,
+        "longitude": -58.1971509
+    },
+    {
+        "id": 5969,
+        "name": "Estadio de Ituzaingó",
+        "city": "Ituzaingó",
+        "capacity": 3300,
+        "latitude": -34.6655298,
+        "longitude": -58.6638279
+    },
+    {
+        "id": 5971,
+        "name": "Estadio José María Olaeta",
+        "city": "Rosario",
+        "capacity": 6800,
+        "latitude": -32.9070639,
+        "longitude": -60.68433510000001
+    },
+    {
+        "id": 5973,
+        "name": "Estadio Rodolfo Vicente Capocasa",
+        "city": "Claypole",
+        "capacity": 1300,
+        "latitude": -34.8014561,
+        "longitude": -58.3293375
+    },
+    {
+        "id": 5974,
+        "name": "Estadio 12 de Octubre",
+        "city": "Ensenada",
+        "capacity": 8500,
+        "latitude": -34.8630202,
+        "longitude": -57.9162753
+    },
+    {
+        "id": 5976,
+        "name": "Estadio Juan Antonio Arias",
+        "city": "La Matanza",
+        "capacity": 3000,
+        "latitude": -34.7040646,
+        "longitude": -58.5520059
+    },
+    {
+        "id": 10530,
+        "name": "Estadio José María Moraños",
+        "city": "La Matanza",
+        "capacity": 1500,
+        "latitude": -34.7033844,
+        "longitude": -58.5136478
+    },
+    {
+        "id": 5977,
+        "name": "Estadio Rubén Carlos Vallejos",
+        "city": "Campana",
+        "capacity": 500,
+        "latitude": -34.1939727,
+        "longitude": -58.948569
+    },
+    {
+        "id": 36,
+        "name": "Estadio Juan Carlos Brieva",
+        "city": "Merlo",
+        "capacity": 11000,
+        "latitude": -34.6810436,
+        "longitude": -58.7329138
+    },
+    {
+        "id": 18562,
+        "name": "Estadio Liga Mercedes",
+        "city": "Mercedes",
+        "capacity": 6000,
+        "latitude": -34.6332435,
+        "longitude": -59.43070280000001
+    },
+    {
+        "id": 96,
+        "name": "Estadio Presbítero Bartolomé Grella",
+        "city": "Paraná",
+        "capacity": 22000,
+        "latitude": -31.7425894,
+        "longitude": -60.50758699999999
+    },
+    {
+        "id": 33,
+        "name": "Estadio José María Minella",
+        "city": "Mar del Plata",
+        "capacity": 35354,
+        "latitude": -38.0179331,
+        "longitude": -57.5822143
+    },
+    {
+        "id": 34,
+        "name": "Estadio Islas Malvinas",
+        "city": "Capital Federal",
+        "capacity": 16500,
+        "latitude": -34.6168583,
+        "longitude": -58.4980583
+    },
+    {
+        "id": 48,
+        "name": "Estadio Lorenzo Arandilla",
+        "city": "Almirante Brown",
+        "capacity": 6000,
+        "latitude": -34.8070596,
+        "longitude": -58.3799737
+    },
+    {
+        "id": 65,
+        "name": "Estadio Nuevo Francisco Urbano",
+        "city": "Morón",
+        "capacity": 32000,
+        "latitude": -34.6618595,
+        "longitude": -58.6312726
+    },
+    {
+        "id": 73,
+        "name": "Estadio Arquitecto Ricardo Etcheverry",
+        "city": "Capital Federal",
+        "capacity": 24442,
+        "latitude": -34.6188316,
+        "longitude": -58.44850409999999
+    },
+    {
+        "id": 49,
+        "name": "Estadio Raúl Conti",
+        "city": "Puerto Madryn",
+        "capacity": 8500,
+        "latitude": -42.7776815,
+        "longitude": -65.03900140000002
+    },
+    {
+        "id": 76,
+        "name": "Estadio 23 de Agosto",
+        "city": "San Salvador de Jujuy",
+        "capacity": 23200,
+        "latitude": -24.1985531,
+        "longitude": -65.2908857
+    },
+    {
+        "id": 35,
+        "name": "Estadio Tres de Febrero",
+        "city": "Tres de Febrero",
+        "capacity": 19000,
+        "latitude": -34.6139835,
+        "longitude": -58.5350736
+    },
+    {
+        "id": 94,
+        "name": "Estadio República de Mataderos",
+        "city": "Capital Federal",
+        "capacity": 28500,
+        "latitude": -34.6687472,
+        "longitude": -58.50059770000001
+    },
+    {
+        "id": 63,
+        "name": "Estadio Abel Sastre",
+        "city": "Puerto Madryn",
+        "capacity": 6000,
+        "latitude": -42.7469634,
+        "longitude": -65.04227039999999
+    },
+    {
+        "id": 5957,
+        "name": "Estadio Dr. Osvaldo Francisco Baletto",
+        "city": "Avellaneda",
+        "capacity": 7500,
+        "latitude": -34.6438621,
+        "longitude": -58.3529736
+    },
+    {
+        "id": 71,
+        "name": "Estadio Ciudad de Caseros",
+        "city": "Caseros",
+        "capacity": 16740,
+        "latitude": -34.6058604,
+        "longitude": -58.5563662
+    },
+    {
+        "id": 61,
+        "name": "Estadio Gigante de Villa Fox",
+        "city": "Zárate",
+        "capacity": 6000,
+        "latitude": -34.1051292,
+        "longitude": -59.0167884
+    },
+    {
+        "id": 55,
+        "name": "Estadio Juan Alberto García",
+        "city": "Resistencia",
+        "capacity": 30500,
+        "latitude": -27.4696816,
+        "longitude": -58.96695200000001
+    },
+    {
+        "id": 39,
+        "name": "Estadio Don León Kolbovski",
+        "city": "Capital Federal",
+        "capacity": 24500,
+        "latitude": -34.5949628,
+        "longitude": -58.44928290000001
+    },
+    {
+        "id": 100,
+        "name": "Estadio Miguel Sancho",
+        "city": "Ciudad de Córdoba",
+        "capacity": 22000,
+        "latitude": -31.389542,
+        "longitude": -64.1433559
+    },
+    {
+        "id": 113,
+        "name": "Estadio 20 de Octubre",
+        "city": "Ezeiza",
+        "capacity": 13500,
+        "latitude": -34.8905897,
+        "longitude": -58.56325
+    },
+    {
+        "id": 3024,
+        "name": "Estadio Arturo Jiya Miranda",
+        "city": "Santiago del Estero",
+        "capacity": 2000,
+        "latitude": -27.7929584,
+        "longitude": -64.27645749999999
+    },
+    {
+        "id": 47,
+        "name": "Estadio Leoncio Benítez",
+        "city": "Corrientes",
+        "capacity": 8000,
+        "latitude": -27.4940154,
+        "longitude": -58.7809552
+    },
+    {
+        "id": 106,
+        "name": "Estadio Municipal General San Martín de Tandil",
+        "city": "Tandil",
+        "capacity": 8762,
+        "latitude": -37.3327408,
+        "longitude": -59.14398189999999
+    },
+    {
+        "id": 1768,
+        "name": "Estadio Héctor Odicino Pedro Benoza",
+        "city": "Ciudad de San Luis",
+        "capacity": 12000,
+        "latitude": -33.287677,
+        "longitude": -66.340642
+    },
+    {
+        "id": 58,
+        "name": "Estadio Comandante Andrés Guacurarí",
+        "city": "Gran Posadas",
+        "capacity": 12000,
+        "latitude": -27.4988376,
+        "longitude": -55.8522813
+    },
+    {
+        "id": 1843,
+        "name": "Athletic Club Social y Deportivo Sansinena",
+        "city": "General Daniel Cerri",
+        "capacity": 4000,
+        "latitude": -38.71790228057854,
+        "longitude": -62.40238618631429
+    },
+    {
+        "id": 114,
+        "name": "Estadio Unión de Sunchales",
+        "city": "Sunchales",
+        "capacity": 5650,
+        "latitude": -30.93719159999999,
+        "longitude": -61.56183859999999
+    },
+    {
+        "id": 19530,
+        "name": "Estadio 17 de Octubre",
+        "city": "Ciudad de Formosa",
+        "capacity": 2000,
+        "latitude": -26.1741366,
+        "longitude": -58.1835316
+    },
+    {
+        "id": 1771,
+        "name": "Estadio Sol De Mayo",
+        "city": "Viedma",
+        "capacity": 5000,
+        "latitude": -40.8183003,
+        "longitude": -62.976713
+    },
+    {
+        "id": 56,
+        "name": "Estadio La Visera de Cemento",
+        "city": "Cipolletti",
+        "capacity": 11000,
+        "latitude": -38.9365317,
+        "longitude": -68.0039689
+    },
+    {
+        "id": 1733,
+        "name": "Estadio Centenario del Club Atlético Sarmiento",
+        "city": "Resistencia",
+        "capacity": 25000,
+        "latitude": -27.4426378,
+        "longitude": -59.01073890000001
+    },
+    {
+        "id": 1885,
+        "name": "Estadio Gremio de Los Petroleros",
+        "city": "Rincón de Los Sauces",
+        "capacity": 3200,
+        "latitude": -37.382382,
+        "longitude": -68.92444600000002
+    },
+    {
+        "id": 86,
+        "name": "Estadio Fray Honorato Pistoia",
+        "city": "Ciudad de Salta",
+        "capacity": 8000,
+        "latitude": -24.7982158,
+        "longitude": -65.4074859
+    },
+    {
+        "id": 18532,
+        "name": "Estadio Juan Pablo Francia",
+        "city": "San Francisco",
+        "capacity": 7000,
+        "latitude": -31.4187313,
+        "longitude": -62.0796126
+    },
+    {
+        "id": 1715,
+        "name": "Estadio Salomón Boeseldín",
+        "city": "Villa Ramallo",
+        "capacity": 2000,
+        "latitude": -33.49609460000001,
+        "longitude": -60.07001479999999
+    },
+    {
+        "id": 1732,
+        "name": "Estadio General San Martín",
+        "city": "Las Heras",
+        "capacity": 10000,
+        "latitude": -33.0794278,
+        "longitude": -68.48211189999999
+    },
+    {
+        "id": 2999,
+        "name": "Estadio Delio Esteban Cardozo",
+        "city": "Pronunciamiento",
+        "capacity": 2000,
+        "latitude": -32.3437634,
+        "longitude": -58.45036460000001
+    },
+    {
+        "id": 3000,
+        "name": "Estadio Hugo Moyano",
+        "city": "Estéban Echeverría",
+        "capacity": 2000,
+        "latitude": -34.7530507,
+        "longitude": -58.4909662
+    },
+    {
+        "id": 3001,
+        "name": "Estadio Coloso de Barrio Talleres",
+        "city": "General Pico",
+        "capacity": 6000,
+        "latitude": -35.6680552,
+        "longitude": -63.7646307
+    },
+    {
+        "id": 3002,
+        "name": "Estadio Manuel y Ramón Núñez",
+        "city": "Concepción del Uruguay",
+        "capacity": 6000,
+        "latitude": -32.4726254,
+        "longitude": -58.227011
+    },
+    {
+        "id": 3027,
+        "name": "Estadio El Fortín",
+        "city": "Rawson",
+        "capacity": 8000,
+        "latitude": -43.2906828,
+        "longitude": -65.1145717
+    },
+    {
+        "id": 3030,
+        "name": "Estadio José Antonio Valle",
+        "city": "Mar del Plata",
+        "capacity": 4000,
+        "latitude": -38.0152373,
+        "longitude": -57.59909759999999
+    },
+    {
+        "id": 3037,
+        "name": "Estadio Club Sol de América Formosa",
+        "city": "Ciudad de Formosa",
+        "capacity": 8000,
+        "latitude": -26.1216087,
+        "longitude": -58.21704119999999
+    },
+    {
+        "id": 5978,
+        "name": "Estadio Guillermo Trama",
+        "city": "Comandante Nicanor Otamendi",
+        "capacity": 1300,
+        "latitude": -38.1065301,
+        "longitude": -57.8410743
+    },
+    {
+        "id": 7452,
+        "name": "Estadio General Gutiérrez",
+        "city": "Maipú",
+        "capacity": 5000,
+        "latitude": -32.966261,
+        "longitude": -68.78052199999999
+    },
+    {
+        "id": 19531,
+        "name": "Estadio Germán Malacho Soltermam",
+        "city": "Rafaela",
+        "capacity": 8000,
+        "latitude": -31.2475322,
+        "longitude": -61.4982076
+    },
+    {
+        "id": 19532,
+        "name": "Estadio Leonardo Costa",
+        "city": "Lincoln",
+        "capacity": 6000,
+        "latitude": -34.8559712,
+        "longitude": -61.5423957
+    },
+    {
+        "id": 19533,
+        "name": "Estadio General José de San Martín",
+        "city": "San Martín",
+        "capacity": 8782,
+        "latitude": -33.0794278,
+        "longitude": -68.48211189999999
+    },
+    {
+        "id": 19534,
+        "name": "Estadio 9 de Julio",
+        "city": "Ciudad de Río Cuarto",
+        "capacity": 7000,
+        "latitude": -33.1176757,
+        "longitude": -64.35115429999999
+    },
+    {
+        "id": 3000,
+        "name": "Estadio Hugo Moyano",
+        "city": "Estéban Echeverría",
+        "capacity": 2000,
+        "latitude": -34.7530507,
+        "longitude": -58.4909662
+    },
+    {
+        "id": 88876667776,
+        "name": "Estadio Municipal Carlos Barraza",
+        "city": "Pilar",
+        "capacity": 7000,
+        "latitude": -34.468965,
+        "longitude": -58.9195795
+    },
+    {
+        "id": 5555666576565,
+        "name": "Estadio Nueva España (Mandante)",
+        "city": "CABA",
+        "capacity": 32500,
+        "latitude": -34.6578804,
+        "longitude": -58.4650317
+    },
+    {
+        "id": 10531,
+        "name": "Estadio Luis Vallejos",
+        "city": "Zárate",
+        "capacity": 3000,
+        "latitude": -34.0876021,
+        "longitude": -59.03087310000001
+    },
+    {
+        "id": 553322344432,
+        "name": "Estadio Glorioso de Parque Roma",
+        "city": "Glew",
+        "capacity": 1000,
+        "latitude": -34.8916768,
+        "longitude": -58.4023128
+    },
+    {
+        "id": 11224434344,
+        "name": "Estadio Armenia (Mandante)",
+        "city": "Ingeniero Maschwitz",
+        "capacity": 10500,
+        "latitude": -34.3761336,
+        "longitude": -58.7302266
+    },
+    {
+        "id": 44555333223,
+        "name": "Estadio Claudio Fabián Tapia",
+        "city": "Alejandro Korn",
+        "capacity": 1000,
+        "latitude": -34.6470719,
+        "longitude": -58.39644499999999
+    },
+    {
+        "id": 4442333321,
+        "name": "Cancha Estrella de Berisso",
+        "city": "Berisso",
+        "capacity": 500,
+        "latitude": -34.9043839,
+        "longitude": -57.9662883
+    },
+    {
+        "id": 20589,
+        "name": "Estadio Oscar Pachi Funes",
+        "city": "La Plata",
+        "capacity": 1000,
+        "latitude": -34.9696167,
+        "longitude": -57.8783289
+    },
+    {
+        "id": 213123321222,
+        "name": "Predio Deportivo FC Ezeiza",
+        "city": "Carlos Spegazzini",
+        "capacity": 1000,
+        "latitude": -34.9116585,
+        "longitude": -58.55834960000001
+    },
+    {
+        "id": 666559797956,
+        "name": "Cancha Juventud de Bernal",
+        "city": "Bernal",
+        "capacity": 500,
+        "latitude": -34.7044672,
+        "longitude": -58.28836649999999
+    },
+    {
+        "id": 20590,
+        "name": "Estadio Club Náutico Hacoaj",
+        "city": "Tigre",
+        "capacity": 2000,
+        "latitude": -34.4283419,
+        "longitude": -58.58457809999999
+    },
+    {
+        "id": 11122233454,
+        "name": "Estadio Enrique Quique Arévalo",
+        "city": "Lobos",
+        "capacity": 1000,
+        "latitude": -35.1855281,
+        "longitude": -59.099723
+    },
+    {
+        "id": 648798564654,
+        "name": "Estadio 12 de Agosto",
+        "city": "Moreno",
+        "capacity": 1500,
+        "latitude": -34.6401374,
+        "longitude": -58.81328789999999
+    }
+]

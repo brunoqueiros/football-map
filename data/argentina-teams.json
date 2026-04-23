@@ -1,0 +1,1652 @@
+[
+    {
+        "id": 434,
+        "name": "Gimnasia L.P.",
+        "code": "GIM",
+        "country": "Argentina",
+        "founded": 1887,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/434.png",
+        "venue_id": 77
+    },
+    {
+        "id": 435,
+        "name": "River Plate",
+        "code": "RIV",
+        "country": "Argentina",
+        "founded": 1901,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/435.png",
+        "venue_id": 19570
+    },
+    {
+        "id": 436,
+        "name": "Racing Club",
+        "code": "RAC",
+        "country": "Argentina",
+        "founded": 1903,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/436.png",
+        "venue_id": 99
+    },
+    {
+        "id": 437,
+        "name": "Rosario Central",
+        "code": "ROS",
+        "country": "Argentina",
+        "founded": 1889,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/437.png",
+        "venue_id": 19391
+    },
+    {
+        "id": 438,
+        "name": "Velez Sarsfield",
+        "code": "VEL",
+        "country": "Argentina",
+        "founded": 1910,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/438.png",
+        "venue_id": 115
+    },
+    {
+        "id": 439,
+        "name": "Godoy Cruz",
+        "code": "GOD",
+        "country": "Argentina",
+        "founded": 1921,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/439.png",
+        "venue_id": 80
+    },
+    {
+        "id": 440,
+        "name": "Belgrano Cordoba",
+        "code": "BEL",
+        "country": "Argentina",
+        "founded": 1905,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/440.png",
+        "venue_id": 45
+    },
+    {
+        "id": 441,
+        "name": "Union Santa Fe",
+        "code": "UNI",
+        "country": "Argentina",
+        "founded": 1907,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/441.png",
+        "venue_id": 1933
+    },
+    {
+        "id": 442,
+        "name": "Defensa Y Justicia",
+        "code": "DEF",
+        "country": "Argentina",
+        "founded": 1935,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/442.png",
+        "venue_id": 59
+    },
+    {
+        "id": 443,
+        "name": "Olimpo Bahia Blanca",
+        "code": "OLI",
+        "country": "Argentina",
+        "founded": 1910,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/443.png",
+        "venue_id": 95
+    },
+    {
+        "id": 445,
+        "name": "Huracan",
+        "code": "HUR",
+        "country": "Argentina",
+        "founded": 1908,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/445.png",
+        "venue_id": 82
+    },
+    {
+        "id": 446,
+        "name": "Lanus",
+        "code": "LAN",
+        "country": "Argentina",
+        "founded": 1915,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/446.png",
+        "venue_id": 88
+    },
+    {
+        "id": 447,
+        "name": "Chacarita Juniors",
+        "code": "CHA",
+        "country": "Argentina",
+        "founded": 1906,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/447.png",
+        "venue_id": 54
+    },
+    {
+        "id": 448,
+        "name": "Colon Santa Fe",
+        "code": "COL",
+        "country": "Argentina",
+        "founded": 1905,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/448.png",
+        "venue_id": 57
+    },
+    {
+        "id": 449,
+        "name": "Banfield",
+        "code": "BAN",
+        "country": "Argentina",
+        "founded": 1896,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/449.png",
+        "venue_id": 43
+    },
+    {
+        "id": 450,
+        "name": "Estudiantes L.P.",
+        "code": "EST",
+        "country": "Argentina",
+        "founded": 1905,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/450.png",
+        "venue_id": 12716
+    },
+    {
+        "id": 451,
+        "name": "Boca Juniors",
+        "code": "BOC",
+        "country": "Argentina",
+        "founded": 1905,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/451.png",
+        "venue_id": 46
+    },
+    {
+        "id": 452,
+        "name": "Tigre",
+        "code": "TIG",
+        "country": "Argentina",
+        "founded": 1902,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/452.png",
+        "venue_id": 112
+    },
+    {
+        "id": 453,
+        "name": "Independiente",
+        "code": "IND",
+        "country": "Argentina",
+        "founded": 1905,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/453.png",
+        "venue_id": 7131
+    },
+    {
+        "id": 454,
+        "name": "Temperley",
+        "code": "TEM",
+        "country": "Argentina",
+        "founded": 1912,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/454.png",
+        "venue_id": 111
+    },
+    {
+        "id": 455,
+        "name": "Atletico Tucuman",
+        "code": "TUC",
+        "country": "Argentina",
+        "founded": 1902,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/455.png",
+        "venue_id": 42
+    },
+    {
+        "id": 456,
+        "name": "Talleres Cordoba",
+        "code": "TAL",
+        "country": "Argentina",
+        "founded": 1913,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/456.png",
+        "venue_id": 110
+    },
+    {
+        "id": 457,
+        "name": "Newells Old Boys",
+        "code": "NEW",
+        "country": "Argentina",
+        "founded": 1903,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/457.png",
+        "venue_id": 93
+    },
+    {
+        "id": 458,
+        "name": "Argentinos JRS",
+        "code": "ARG",
+        "country": "Argentina",
+        "founded": 1904,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/458.png",
+        "venue_id": 37
+    },
+    {
+        "id": 459,
+        "name": "Arsenal Sarandi",
+        "code": "ARS",
+        "country": "Argentina",
+        "founded": 1957,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/459.png",
+        "venue_id": 38
+    },
+    {
+        "id": 460,
+        "name": "San Lorenzo",
+        "code": "LOR",
+        "country": "Argentina",
+        "founded": 1908,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/460.png",
+        "venue_id": 103
+    },
+    {
+        "id": 461,
+        "name": "San Martin S.J.",
+        "code": "MAR",
+        "country": "Argentina",
+        "founded": 1907,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/461.png",
+        "venue_id": 104
+    },
+    {
+        "id": 462,
+        "name": "Agropecuario",
+        "code": null,
+        "country": "Argentina",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/462.png",
+        "venue_id": 1770
+    },
+    {
+        "id": 465,
+        "name": "Atletico DE Rafaela",
+        "code": "RAF",
+        "country": "Argentina",
+        "founded": 1907,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/465.png",
+        "venue_id": 41
+    },
+    {
+        "id": 466,
+        "name": "Atletico Mitre",
+        "code": null,
+        "country": "Argentina",
+        "founded": 1907,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/466.png",
+        "venue_id": 1735
+    },
+    {
+        "id": 473,
+        "name": "Independ. Rivadavia",
+        "code": "RIV",
+        "country": "Argentina",
+        "founded": 1913,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/473.png",
+        "venue_id": 83
+    },
+    {
+        "id": 474,
+        "name": "Sarmiento Junin",
+        "code": "SAR",
+        "country": "Argentina",
+        "founded": 1911,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/474.png",
+        "venue_id": 107
+    },
+    {
+        "id": 476,
+        "name": "Deportivo Riestra",
+        "code": "RIE",
+        "country": "Argentina",
+        "founded": 1931,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/476.png",
+        "venue_id": 66
+    },
+    {
+        "id": 478,
+        "name": "Instituto Cordoba",
+        "code": "INS",
+        "country": "Argentina",
+        "founded": 1918,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/478.png",
+        "venue_id": 84
+    },
+    {
+        "id": 480,
+        "name": "Quilmes",
+        "code": "QUI",
+        "country": "Argentina",
+        "founded": 1887,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/480.png",
+        "venue_id": 20215
+    },
+    {
+        "id": 483,
+        "name": "Los Andes",
+        "code": "AND",
+        "country": "Argentina",
+        "founded": 1917,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/483.png",
+        "venue_id": 90
+    },
+    {
+        "id": 485,
+        "name": "San Martin Tucuman",
+        "code": "MAR",
+        "country": "Argentina",
+        "founded": 1909,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/485.png",
+        "venue_id": 105
+    },
+    {
+        "id": 789,
+        "name": "Douglas Haig",
+        "code": "DOU",
+        "country": "Argentina",
+        "founded": 1918,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/789.png",
+        "venue_id": 69
+    },
+    {
+        "id": 1064,
+        "name": "Platense",
+        "code": "PLA",
+        "country": "Argentina",
+        "founded": 1905,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/1064.png",
+        "venue_id": 97
+    },
+    {
+        "id": 1065,
+        "name": "Central Cordoba de Santiago",
+        "code": null,
+        "country": "Argentina",
+        "founded": 1919,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/1065.png",
+        "venue_id": 2997
+    },
+    {
+        "id": 1066,
+        "name": "Gimnasia M.",
+        "code": null,
+        "country": "Argentina",
+        "founded": 1908,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/1066.png",
+        "venue_id": 78
+    },
+    {
+        "id": 1067,
+        "name": "Defensores De Belgrano",
+        "code": "DEF",
+        "country": "Argentina",
+        "founded": 1906,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/1067.png",
+        "venue_id": 60
+    },
+    {
+        "id": 1924,
+        "name": "Deportivo Laferrere",
+        "code": "LAF",
+        "country": "Argentina",
+        "founded": 1956,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/1924.png",
+        "venue_id": 87
+    },
+    {
+        "id": 1927,
+        "name": "Talleres Remedios",
+        "code": "TAL",
+        "country": "Argentina",
+        "founded": 1906,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/1927.png",
+        "venue_id": 19376
+    },
+    {
+        "id": 1928,
+        "name": "Gimnasia Y Tiro",
+        "code": "GIM",
+        "country": "Argentina",
+        "founded": 1902,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/1928.png",
+        "venue_id": 79
+    },
+    {
+        "id": 1938,
+        "name": "Villa Mitre",
+        "code": null,
+        "country": "Argentina",
+        "founded": 1924,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/1938.png",
+        "venue_id": 118
+    },
+    {
+        "id": 1950,
+        "name": "Sportivo Las Parejas",
+        "code": null,
+        "country": "Argentina",
+        "founded": 1922,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/1950.png",
+        "venue_id": 109
+    },
+    {
+        "id": 1951,
+        "name": "Central Norte",
+        "code": "CEN",
+        "country": "Argentina",
+        "founded": 1921,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/1951.png",
+        "venue_id": 18531
+    },
+    {
+        "id": 1954,
+        "name": "Deportivo Maipu",
+        "code": "DEP",
+        "country": "Argentina",
+        "founded": 1927,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/1954.png",
+        "venue_id": 64
+    },
+    {
+        "id": 1960,
+        "name": "Independiente De Chivilcoy",
+        "code": null,
+        "country": "Argentina",
+        "founded": 1930,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/1960.png",
+        "venue_id": 1769
+    },
+    {
+        "id": 1963,
+        "name": "Midland",
+        "code": "MID",
+        "country": "Argentina",
+        "founded": 1914,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/1963.png",
+        "venue_id": 92
+    },
+    {
+        "id": 2424,
+        "name": "Estudiantes de Rio Cuarto",
+        "code": null,
+        "country": "Argentina",
+        "founded": 1912,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/2424.png",
+        "venue_id": 72
+    },
+    {
+        "id": 2432,
+        "name": "Barracas Central",
+        "code": "BAR",
+        "country": "Argentina",
+        "founded": 1904,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/2432.png",
+        "venue_id": 44
+    },
+    {
+        "id": 3947,
+        "name": "Juventud Unida Univ.",
+        "code": "JUV",
+        "country": "Argentina",
+        "founded": 1920,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/3947.png",
+        "venue_id": 3004
+    },
+    {
+        "id": 8008,
+        "name": "Comunicaciones",
+        "code": "COM",
+        "country": "Argentina",
+        "founded": 1931,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/8008.png",
+        "venue_id": 5709
+    },
+    {
+        "id": 8375,
+        "name": "Almirante Brown",
+        "code": "ALM",
+        "country": "Argentina",
+        "founded": 1922,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/8375.png",
+        "venue_id": 5959
+    },
+    {
+        "id": 8376,
+        "name": "Argentino Quilmes",
+        "code": "ARG",
+        "country": "Argentina",
+        "founded": 1899,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/8376.png",
+        "venue_id": 10528
+    },
+    {
+        "id": 8379,
+        "name": "San Miguel",
+        "code": "MIG",
+        "country": "Argentina",
+        "founded": 1922,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/8379.png",
+        "venue_id": 5963
+    },
+    {
+        "id": 8384,
+        "name": "El Porvenir",
+        "code": "POR",
+        "country": "Argentina",
+        "founded": 1915,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/8384.png",
+        "venue_id": 5967
+    },
+    {
+        "id": 8385,
+        "name": "Excursionistas",
+        "code": "EXC",
+        "country": "Argentina",
+        "founded": 1910,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/8385.png",
+        "venue_id": 5968
+    },
+    {
+        "id": 8387,
+        "name": "San Martín Burzaco",
+        "code": "BUR",
+        "country": "Argentina",
+        "founded": 1936,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/8387.png",
+        "venue_id": 5970
+    },
+    {
+        "id": 8390,
+        "name": "Centro Español",
+        "code": "CSR",
+        "country": "Argentina",
+        "founded": 1934,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/8390.png",
+        "venue_id": 5969
+    },
+    {
+        "id": 16612,
+        "name": "Ciudad de Bolívar",
+        "code": null,
+        "country": "Argentina",
+        "founded": 1947,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/16612.png",
+        "venue_id": 18534
+    },
+    {
+        "id": 18764,
+        "name": "Argentino Monte Maíz",
+        "code": null,
+        "country": "Argentina",
+        "founded": 1925,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/18764.png",
+        "venue_id": 21657
+    },
+    {
+        "id": 471,
+        "name": "Flandria",
+        "code": "FLA",
+        "country": "Argentina",
+        "founded": 1941,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/471.png",
+        "venue_id": 75
+    },
+    {
+        "id": 481,
+        "name": "Villa Dalmine",
+        "code": "DAL",
+        "country": "Argentina",
+        "founded": 1957,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/481.png",
+        "venue_id": 117
+    },
+    {
+        "id": 1942,
+        "name": "Sacachispas",
+        "code": "SAC",
+        "country": "Argentina",
+        "founded": 1948,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/1942.png",
+        "venue_id": 102
+    },
+    {
+        "id": 1947,
+        "name": "Canuelas",
+        "code": "CAN",
+        "country": "Argentina",
+        "founded": 1911,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/1947.png",
+        "venue_id": 50
+    },
+    {
+        "id": 1956,
+        "name": "UAI Urquiza",
+        "code": "UAI",
+        "country": "Argentina",
+        "founded": 1950,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/1956.png",
+        "venue_id": 10527
+    },
+    {
+        "id": 2425,
+        "name": "Acassuso",
+        "code": "ACA",
+        "country": "Argentina",
+        "founded": 1922,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/2425.png",
+        "venue_id": 19375
+    },
+    {
+        "id": 2427,
+        "name": "Deportivo Armenio",
+        "code": "DEP",
+        "country": "Argentina",
+        "founded": 1962,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/2427.png",
+        "venue_id": 62
+    },
+    {
+        "id": 2429,
+        "name": "Dock Sud",
+        "code": "DOC",
+        "country": "Argentina",
+        "founded": 1916,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/2429.png",
+        "venue_id": 68
+    },
+    {
+        "id": 2430,
+        "name": "Argentino de Merlo",
+        "code": "MER",
+        "country": "Argentina",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/2430.png",
+        "venue_id": 5966
+    },
+    {
+        "id": 8374,
+        "name": "Fénix",
+        "code": null,
+        "country": "Argentina",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/8374.png",
+        "venue_id": 5966
+    },
+    {
+        "id": 8377,
+        "name": "Colegiales",
+        "code": "COL",
+        "country": "Argentina",
+        "founded": 1908,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/8377.png",
+        "venue_id": 5961
+    },
+    {
+        "id": 8380,
+        "name": "Villa San Carlos",
+        "code": "VIL",
+        "country": "Argentina",
+        "founded": 1925,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/8380.png",
+        "venue_id": 5964
+    },
+    {
+        "id": 8383,
+        "name": "Deportivo Merlo",
+        "code": "MER",
+        "country": "Argentina",
+        "founded": 1954,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/8383.png",
+        "venue_id": 5966
+    },
+    {
+        "id": 8388,
+        "name": "Sportivo Italiano",
+        "code": "SPO",
+        "country": "Argentina",
+        "founded": 1955,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/8388.png",
+        "venue_id": 32
+    },
+    {
+        "id": 8395,
+        "name": "Liniers",
+        "code": "LIN",
+        "country": "Argentina",
+        "founded": 1931,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/8395.png",
+        "venue_id": 5976
+    },
+    {
+        "id": 23255,
+        "name": "Sarmiento de La Banda",
+        "code": null,
+        "country": "Argentina",
+        "founded": 1909,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/23255.png",
+        "venue_id": 21658
+    },
+    {
+        "id": 486,
+        "name": "Juventud Unida",
+        "code": "JUV",
+        "country": "Argentina",
+        "founded": 1949,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/486.png",
+        "venue_id": 18561
+    },
+    {
+        "id": 790,
+        "name": "Central Cordoba",
+        "code": "CEN",
+        "country": "Argentina",
+        "founded": 1906,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/790.png",
+        "venue_id": 52
+    },
+    {
+        "id": 1931,
+        "name": "Sportivo Barracas",
+        "code": "BAR",
+        "country": "Argentina",
+        "founded": 1913,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/1931.png",
+        "venue_id": 65
+    },
+    {
+        "id": 1937,
+        "name": "Atletico Atlas",
+        "code": null,
+        "country": "Argentina",
+        "founded": 1951,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/1937.png",
+        "venue_id": 40
+    },
+    {
+        "id": 1940,
+        "name": "Leandro N. Alem",
+        "code": "ALE",
+        "country": "Argentina",
+        "founded": 1925,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/1940.png",
+        "venue_id": 89
+    },
+    {
+        "id": 1955,
+        "name": "General Lamadrid",
+        "code": "LAM",
+        "country": "Argentina",
+        "founded": 1950,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/1955.png",
+        "venue_id": 81
+    },
+    {
+        "id": 1958,
+        "name": "Lujan",
+        "code": "LUJ",
+        "country": "Argentina",
+        "founded": 1936,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/1958.png",
+        "venue_id": 91
+    },
+    {
+        "id": 1964,
+        "name": "Victoriano Arenas",
+        "code": "VIC",
+        "country": "Argentina",
+        "founded": 1928,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/1964.png",
+        "venue_id": 116
+    },
+    {
+        "id": 1967,
+        "name": "Central Ballester",
+        "code": "CEN",
+        "country": "Argentina",
+        "founded": 1974,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/1967.png",
+        "venue_id": 40
+    },
+    {
+        "id": 2422,
+        "name": "Real Pilar",
+        "code": null,
+        "country": "Argentina",
+        "founded": 2017,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/2422.png",
+        "venue_id": 1915
+    },
+    {
+        "id": 8378,
+        "name": "JJ Urquiza",
+        "code": "URQ",
+        "country": "Argentina",
+        "founded": 1936,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/8378.png",
+        "venue_id": 5962
+    },
+    {
+        "id": 8381,
+        "name": "Deportivo Español",
+        "code": "DEP",
+        "country": "Argentina",
+        "founded": 1956,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/8381.png",
+        "venue_id": 5956
+    },
+    {
+        "id": 8382,
+        "name": "Berazategui",
+        "code": "BER",
+        "country": "Argentina",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/8382.png",
+        "venue_id": 5965
+    },
+    {
+        "id": 8386,
+        "name": "Ituzaingó",
+        "code": "ITU",
+        "country": "Argentina",
+        "founded": 1912,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/8386.png",
+        "venue_id": 5969
+    },
+    {
+        "id": 8389,
+        "name": "Argentino Rosario",
+        "code": "ARG",
+        "country": "Argentina",
+        "founded": 1912,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/8389.png",
+        "venue_id": 5971
+    },
+    {
+        "id": 8391,
+        "name": "Claypole",
+        "code": "CLA",
+        "country": "Argentina",
+        "founded": 1923,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/8391.png",
+        "venue_id": 5973
+    },
+    {
+        "id": 8392,
+        "name": "Defensores de Cambaceres",
+        "code": "DEF",
+        "country": "Argentina",
+        "founded": 1921,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/8392.png",
+        "venue_id": 5974
+    },
+    {
+        "id": 8393,
+        "name": "Deportivo Muñiz",
+        "code": "DEP",
+        "country": "Argentina",
+        "founded": 1932,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/8393.png",
+        "venue_id": 18561
+    },
+    {
+        "id": 8394,
+        "name": "Deportivo Paraguayo",
+        "code": "DEP",
+        "country": "Argentina",
+        "founded": 1961,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/8394.png",
+        "venue_id": 5976
+    },
+    {
+        "id": 8396,
+        "name": "Lugano",
+        "code": null,
+        "country": "Argentina",
+        "founded": 1915,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/8396.png",
+        "venue_id": 10530
+    },
+    {
+        "id": 8397,
+        "name": "Puerto Nuevo",
+        "code": null,
+        "country": "Argentina",
+        "founded": 1939,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/8397.png",
+        "venue_id": 5977
+    },
+    {
+        "id": 8398,
+        "name": "Yupanqui",
+        "code": "YUP",
+        "country": "Argentina",
+        "founded": 1935,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/8398.png",
+        "venue_id": 36
+    },
+    {
+        "id": 18915,
+        "name": "Mercedes",
+        "code": null,
+        "country": "Argentina",
+        "founded": 1875,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/18915.png",
+        "venue_id": 18562
+    },
+    {
+        "id": 444,
+        "name": "Patronato",
+        "code": "PAT",
+        "country": "Argentina",
+        "founded": 1914,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/444.png",
+        "venue_id": 96
+    },
+    {
+        "id": 463,
+        "name": "Aldosivi",
+        "code": "ALD",
+        "country": "Argentina",
+        "founded": 1913,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/463.png",
+        "venue_id": 33
+    },
+    {
+        "id": 464,
+        "name": "All Boys",
+        "code": "BOY",
+        "country": "Argentina",
+        "founded": 1913,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/464.png",
+        "venue_id": 34
+    },
+    {
+        "id": 468,
+        "name": "Brown DE Adrogue",
+        "code": "BRO",
+        "country": "Argentina",
+        "founded": 1945,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/468.png",
+        "venue_id": 48
+    },
+    {
+        "id": 469,
+        "name": "Deportivo Moron",
+        "code": "DEP",
+        "country": "Argentina",
+        "founded": 1947,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/469.png",
+        "venue_id": 65
+    },
+    {
+        "id": 470,
+        "name": "Ferro Carril Oeste",
+        "code": "FER",
+        "country": "Argentina",
+        "founded": 1904,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/470.png",
+        "venue_id": 73
+    },
+    {
+        "id": 472,
+        "name": "Guillermo Brown",
+        "code": "GUI",
+        "country": "Argentina",
+        "founded": 1945,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/472.png",
+        "venue_id": 49
+    },
+    {
+        "id": 479,
+        "name": "Gimnasia Jujuy",
+        "code": "GIM",
+        "country": "Argentina",
+        "founded": 1931,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/479.png",
+        "venue_id": 76
+    },
+    {
+        "id": 482,
+        "name": "Almagro",
+        "code": "ALM",
+        "country": "Argentina",
+        "founded": 1911,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/482.png",
+        "venue_id": 35
+    },
+    {
+        "id": 484,
+        "name": "Nueva Chicago",
+        "code": "NUE",
+        "country": "Argentina",
+        "founded": 1911,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/484.png",
+        "venue_id": 94
+    },
+    {
+        "id": 1929,
+        "name": "Deportivo Madryn",
+        "code": null,
+        "country": "Argentina",
+        "founded": 1924,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/1929.png",
+        "venue_id": 63
+    },
+    {
+        "id": 1932,
+        "name": "San Telmo",
+        "code": "TEL",
+        "country": "Argentina",
+        "founded": 1904,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/1932.png",
+        "venue_id": 5957
+    },
+    {
+        "id": 1936,
+        "name": "CA Estudiantes",
+        "code": "EST",
+        "country": "Argentina",
+        "founded": 1898,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/1936.png",
+        "venue_id": 71
+    },
+    {
+        "id": 1945,
+        "name": "Defensores Unidos",
+        "code": "UNI",
+        "country": "Argentina",
+        "founded": 1914,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/1945.png",
+        "venue_id": 61
+    },
+    {
+        "id": 1946,
+        "name": "Chaco For Ever",
+        "code": "CHA",
+        "country": "Argentina",
+        "founded": 1913,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/1946.png",
+        "venue_id": 55
+    },
+    {
+        "id": 1948,
+        "name": "Atlanta",
+        "code": "ATL",
+        "country": "Argentina",
+        "founded": 1904,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/1948.png",
+        "venue_id": 39
+    },
+    {
+        "id": 1957,
+        "name": "Racing Cordoba",
+        "code": "RAC",
+        "country": "Argentina",
+        "founded": 1924,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/1957.png",
+        "venue_id": 100
+    },
+    {
+        "id": 1962,
+        "name": "Alvarado",
+        "code": "ALV",
+        "country": "Argentina",
+        "founded": 1928,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/1962.png",
+        "venue_id": 33
+    },
+    {
+        "id": 1965,
+        "name": "Tristan Suarez",
+        "code": "TRI",
+        "country": "Argentina",
+        "founded": 1929,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/1965.png",
+        "venue_id": 113
+    },
+    {
+        "id": 3969,
+        "name": "Club Atlético Güemes",
+        "code": null,
+        "country": "Argentina",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/3969.png",
+        "venue_id": 3024
+    },
+    {
+        "id": 467,
+        "name": "Boca Unidos",
+        "code": "BOC",
+        "country": "Argentina",
+        "founded": 1927,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/467.png",
+        "venue_id": 47
+    },
+    {
+        "id": 475,
+        "name": "Santamarina",
+        "code": "SAN",
+        "country": "Argentina",
+        "founded": 1913,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/475.png",
+        "venue_id": 106
+    },
+    {
+        "id": 477,
+        "name": "Estudiantes S.l.",
+        "code": "SPO",
+        "country": "Argentina",
+        "founded": 1920,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/477.png",
+        "venue_id": 1768
+    },
+    {
+        "id": 788,
+        "name": "Crucero Del Norte",
+        "code": "CRU",
+        "country": "Argentina",
+        "founded": 1989,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/788.png",
+        "venue_id": 58
+    },
+    {
+        "id": 1930,
+        "name": "Sansinena",
+        "code": null,
+        "country": "Argentina",
+        "founded": 1914,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/1930.png",
+        "venue_id": 1843
+    },
+    {
+        "id": 1934,
+        "name": "Union Sunchales",
+        "code": null,
+        "country": "Argentina",
+        "founded": 1948,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/1934.png",
+        "venue_id": 114
+    },
+    {
+        "id": 1935,
+        "name": "San Martin Formosa",
+        "code": null,
+        "country": "Argentina",
+        "founded": 1941,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/1935.png",
+        "venue_id": 19530
+    },
+    {
+        "id": 1941,
+        "name": "Sol de Mayo",
+        "code": null,
+        "country": "Argentina",
+        "founded": 1920,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/1941.png",
+        "venue_id": 1771
+    },
+    {
+        "id": 1949,
+        "name": "Cipolletti",
+        "code": "CIP",
+        "country": "Argentina",
+        "founded": 1926,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/1949.png",
+        "venue_id": 56
+    },
+    {
+        "id": 1953,
+        "name": "Sarmiento Resistencia",
+        "code": null,
+        "country": "Argentina",
+        "founded": 1910,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/1953.png",
+        "venue_id": 1733
+    },
+    {
+        "id": 1959,
+        "name": "Deportivo Rincon",
+        "code": null,
+        "country": "Argentina",
+        "founded": 2012,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/1959.png",
+        "venue_id": 1885
+    },
+    {
+        "id": 1961,
+        "name": "Juventud Antoniana",
+        "code": "ANT",
+        "country": "Argentina",
+        "founded": 1916,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/1961.png",
+        "venue_id": 86
+    },
+    {
+        "id": 1966,
+        "name": "Sportivo Belgrano",
+        "code": "SPO",
+        "country": "Argentina",
+        "founded": 1914,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/1966.png",
+        "venue_id": 18532
+    },
+    {
+        "id": 2426,
+        "name": "Defensores de Belgrano VR",
+        "code": null,
+        "country": "Argentina",
+        "founded": 1946,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/2426.png",
+        "venue_id": 1715
+    },
+    {
+        "id": 2428,
+        "name": "Huracan Las Heras",
+        "code": null,
+        "country": "Argentina",
+        "founded": 1916,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/2428.png",
+        "venue_id": 1732
+    },
+    {
+        "id": 3942,
+        "name": "Def. de Pronunciamiento",
+        "code": null,
+        "country": "Argentina",
+        "founded": 1972,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/3942.png",
+        "venue_id": 2999
+    },
+    {
+        "id": 3943,
+        "name": "Deportivo Camioneros",
+        "code": null,
+        "country": "Argentina",
+        "founded": 2009,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/3943.png",
+        "venue_id": 3000
+    },
+    {
+        "id": 3944,
+        "name": "Ferro Carril Oeste LP",
+        "code": null,
+        "country": "Argentina",
+        "founded": 1934,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/3944.png",
+        "venue_id": 3001
+    },
+    {
+        "id": 3945,
+        "name": "Gimnasia Concepción",
+        "code": "GER",
+        "country": "Argentina",
+        "founded": 1917,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/3945.png",
+        "venue_id": 3002
+    },
+    {
+        "id": 3972,
+        "name": "Germinal de Rawson",
+        "code": null,
+        "country": "Argentina",
+        "founded": 1922,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/3972.png",
+        "venue_id": 3027
+    },
+    {
+        "id": 3975,
+        "name": "Kimberley Mar del Plata",
+        "code": null,
+        "country": "Argentina",
+        "founded": 1921,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/3975.png",
+        "venue_id": 3030
+    },
+    {
+        "id": 3982,
+        "name": "Sol de América",
+        "code": "AME",
+        "country": "Argentina",
+        "founded": 1947,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/3982.png",
+        "venue_id": 3037
+    },
+    {
+        "id": 8399,
+        "name": "Circulo Deportivo",
+        "code": null,
+        "country": "Argentina",
+        "founded": 1921,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/8399.png",
+        "venue_id": 5978
+    },
+    {
+        "id": 11156,
+        "name": "Gutiérrez",
+        "code": null,
+        "country": "Argentina",
+        "founded": 1923,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/11156.png",
+        "venue_id": 7452
+    },
+    {
+        "id": 21040,
+        "name": "9 de Julio Rafaela",
+        "code": null,
+        "country": "Argentina",
+        "founded": 1904,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/21040.png",
+        "venue_id": 19531
+    },
+    {
+        "id": 21041,
+        "name": "El Linqueño",
+        "code": null,
+        "country": "Argentina",
+        "founded": 1915,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/21041.png",
+        "venue_id": 19532
+    },
+    {
+        "id": 21042,
+        "name": "San Martín Mendoza",
+        "code": null,
+        "country": "Argentina",
+        "founded": 1927,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/21042.png",
+        "venue_id": 19533
+    },
+    {
+        "id": 21043,
+        "name": "Atenas",
+        "code": null,
+        "country": "Argentina",
+        "founded": 1916,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/21043.png",
+        "venue_id": 19534
+    },
+    {
+        "id": 3943,
+        "name": "Deportivo Camioneros",
+        "code": null,
+        "country": "Argentina",
+        "founded": 2009,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/3943.png",
+        "venue_id": 3000
+    },
+    {
+        "id": 23094,
+        "name": "Atletico Pilar",
+        "code": null,
+        "country": "Argentina",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/23094.png",
+        "venue_id": 88876667776
+    },
+    {
+        "id": 23095,
+        "name": "Barrancas UMET",
+        "code": null,
+        "country": "Argentina",
+        "founded": 2023,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/23095.png",
+        "venue_id": 5555666576565
+    },
+    {
+        "id": 23096,
+        "name": "Belgrano Zarate",
+        "code": null,
+        "country": "Argentina",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/23096.png",
+        "venue_id": 10531
+    },
+    {
+        "id": 23097,
+        "name": "Defensores Glew",
+        "code": null,
+        "country": "Argentina",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/23097.png",
+        "venue_id": 553322344432
+    },
+    {
+        "id": 23098,
+        "name": "Deportivo Metalurgico",
+        "code": null,
+        "country": "Argentina",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/23098.png",
+        "venue_id": 11224434344
+    },
+    {
+        "id": 23099,
+        "name": "Estrella Del Sur",
+        "code": null,
+        "country": "Argentina",
+        "founded": 2006,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/23099.png",
+        "venue_id": 44555333223
+    },
+    {
+        "id": 23100,
+        "name": "Estrella de Berisso",
+        "code": null,
+        "country": "Argentina",
+        "founded": 1921,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/23100.png",
+        "venue_id": 4442333321
+    },
+    {
+        "id": 23101,
+        "name": "Everton La Plata",
+        "code": null,
+        "country": "Argentina",
+        "founded": 1905,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/23101.png",
+        "venue_id": 20589
+    },
+    {
+        "id": 23102,
+        "name": "Ezeiza",
+        "code": null,
+        "country": "Argentina",
+        "founded": 2021,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/23102.png",
+        "venue_id": 213123321222
+    },
+    {
+        "id": 23103,
+        "name": "Juventud de Bernal",
+        "code": null,
+        "country": "Argentina",
+        "founded": 1934,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/23103.png",
+        "venue_id": 666559797956
+    },
+    {
+        "id": 23104,
+        "name": "Nautico Hacoaj",
+        "code": null,
+        "country": "Argentina",
+        "founded": 1935,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/23104.png",
+        "venue_id": 20590
+    },
+    {
+        "id": 23105,
+        "name": "Provincial",
+        "code": null,
+        "country": "Argentina",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/23105.png",
+        "venue_id": 11122233454
+    },
+    {
+        "id": 23106,
+        "name": "SAT Moreno",
+        "code": null,
+        "country": "Argentina",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/23106.png",
+        "venue_id": 648798564654
+    }
+]
