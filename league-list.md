@@ -163,3 +163,50 @@
 # 707 | Cup
 # 708 | Super Cup
 # 310 | Superliga
+
+
+# Algeria
+# 514 | Coupe Nationale
+# 186 | Ligue 1
+# 187 | Ligue 2
+# 516 | Super Cup
+
+
+# Andorra
+# 312 | 1a Divisió
+# 313 | 2a Divisió
+# 655 | Copa Constitució
+# 809 | Super Cup
+
+
+# Angola
+# 397 | Girabola
+# 1192 | Super Cup
+
+
+# Argentina
+# 130 | Copa Argentina
+# 1032 | Copa de la Liga Profesional
+# 128 | Liga Profesional Argentina
+# 131 | Primera B Metropolitana
+# 132 | Primera C
+# 133 | Primera D
+# 129 | Primera Nacional
+# 810 | Super Copa
+# 1178 | Super Copa International
+# 134 | Torneo Federal A
+# 1067 | Torneo Promocional Amateur
+# 517 | Trofeo de Campeones de la Superliga
+
+
+# Armenia
+# 709 | Cup
+# 343 | First League
+# 342 | Premier League
+# 654 | Super Cup
+# 421 | Division di Honor
+# 421 | Division di Honor
+
+
+# Aruba
+# 421 | Division di Honor

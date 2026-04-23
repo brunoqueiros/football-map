@@ -1,0 +1,602 @@
+[
+    {
+        "id": 5,
+        "name": "Stade du 5 Juillet 1962",
+        "city": "Algiers",
+        "capacity": 80200,
+        "latitude": 36.7598716,
+        "longitude": 2.9951899
+    },
+    {
+        "id": 19,
+        "name": "Stade du 8 Mai 1945",
+        "city": "Sétif",
+        "capacity": 25000,
+        "latitude": 36.1868811,
+        "longitude": 5.3931653
+    },
+    {
+        "id": 21540,
+        "name": "Stade Ali-la-Pointe",
+        "city": "Douera",
+        "capacity": 40000,
+        "latitude": 36.6816962,
+        "longitude": 2.961807
+    },
+    {
+        "id": 21541,
+        "name": "Stade Olympique d'Oran",
+        "city": "Bir El Djir",
+        "capacity": 40143,
+        "latitude": 35.7284343,
+        "longitude": -0.5494177000000001
+    },
+    {
+        "id": 19338,
+        "name": "Stade 18 Février",
+        "city": "Biskra",
+        "capacity": 35000,
+        "latitude": 34.8536654,
+        "longitude": 5.727726199999999
+    },
+    {
+        "id": 16,
+        "name": "Stade Mohamed-Hamlaoui",
+        "city": "Constantine",
+        "capacity": 50000,
+        "latitude": 36.349307,
+        "longitude": 6.626100300000001
+    },
+    {
+        "id": 12,
+        "name": "Stade Mustapha Tchaker",
+        "city": "Blida",
+        "capacity": 45000,
+        "latitude": 36.4904107,
+        "longitude": 2.846904
+    },
+    {
+        "id": 20,
+        "name": "Stade Frères Zioui",
+        "city": "Algiers",
+        "capacity": 7000,
+        "latitude": 36.7438433,
+        "longitude": 3.0918343
+    },
+    {
+        "id": 2594,
+        "name": "Stade du 20 Août 1955",
+        "city": "Bechar",
+        "capacity": 20000,
+        "latitude": 31.60574909999999,
+        "longitude": -2.2182861
+    },
+    {
+        "id": 21542,
+        "name": "Stade Dar El Beïda",
+        "city": "Algiers",
+        "capacity": 11000,
+        "latitude": 36.7149829,
+        "longitude": 3.2244447
+    },
+    {
+        "id": 9,
+        "name": "Stade du 24 février 1956",
+        "city": "Sidi Bel Abbès",
+        "capacity": 45000,
+        "latitude": 35.1850719,
+        "longitude": -0.6218678
+    },
+    {
+        "id": 22,
+        "name": "Stade du 1er Novembre 1954",
+        "city": "Tizi-Ouzou",
+        "capacity": 25000,
+        "latitude": 36.7068914,
+        "longitude": 4.0560512
+    },
+    {
+        "id": 18,
+        "name": "Stade du 1er novembre 1954",
+        "city": "Algiers",
+        "capacity": 8000,
+        "latitude": 36.7344841,
+        "longitude": 3.1314589
+    },
+    {
+        "id": 21,
+        "name": "Stade de l'Unité Maghrébine",
+        "city": "Béjaïa",
+        "capacity": 19000,
+        "latitude": 36.7493601,
+        "longitude": 5.0463583
+    },
+    {
+        "id": 11107,
+        "name": "Stade Seffouhi",
+        "city": "Batna",
+        "capacity": 5000,
+        "latitude": 35.5577949,
+        "longitude": 6.1803764
+    },
+    {
+        "id": 19699,
+        "name": "Stade Municipal Hareche Ammar",
+        "city": "El Eulma",
+        "capacity": 5000,
+        "latitude": 36.15197790000001,
+        "longitude": 5.6984881
+    },
+    {
+        "id": 2659,
+        "name": "Stade Aoued Meflah",
+        "city": "Mascara",
+        "capacity": 5000,
+        "latitude": 35.39308219999999,
+        "longitude": 0.1342234
+    },
+    {
+        "id": 15,
+        "name": "Stade Mohamed Boumezrag",
+        "city": "Chlef",
+        "capacity": 15000,
+        "latitude": 36.1615702,
+        "longitude": 1.3087846
+    },
+    {
+        "id": 23,
+        "name": "Stade Omar Benhaddad",
+        "city": "Kouba",
+        "capacity": 10000,
+        "latitude": 36.7296294,
+        "longitude": 3.0903638
+    },
+    {
+        "id": 2660,
+        "name": "Stade Abed Hamdani",
+        "city": "El-Khroub",
+        "capacity": 10000,
+        "latitude": 36.2608013,
+        "longitude": 6.6879252
+    },
+    {
+        "id": 20454,
+        "name": "Stade Ben Alli Youcef Tacha",
+        "city": "Berrahal",
+        "capacity": 5000,
+        "latitude": 36.8444607,
+        "longitude": 7.425685700000001
+    },
+    {
+        "id": 26,
+        "name": "Stade Commandant Ferradj",
+        "city": "Mostaganem",
+        "capacity": 15000,
+        "latitude": 35.9243539,
+        "longitude": 0.1053479
+    },
+    {
+        "id": 1814,
+        "name": "Stade Municipal de Magra",
+        "city": "Magra",
+        "capacity": 8000,
+        "latitude": 35.61721,
+        "longitude": 5.1006171
+    },
+    {
+        "id": 7340,
+        "name": "Stade Zerdani Hassouna",
+        "city": "Oum El Bouaghi",
+        "capacity": 5000,
+        "latitude": 35.8725373,
+        "longitude": 7.125585000000001
+    },
+    {
+        "id": 7342,
+        "name": "Stade OPOW de Koléa",
+        "city": "Koléa",
+        "capacity": 15000,
+        "latitude": 36.6433035,
+        "longitude": 2.7560019
+    },
+    {
+        "id": 7346,
+        "name": "Stade Oucief Omar SIKI",
+        "city": "Aïn Témouchent",
+        "capacity": 12000,
+        "latitude": 35.312058,
+        "longitude": -1.1469975
+    },
+    {
+        "id": 19339,
+        "name": "Stade De Mechria",
+        "city": "Mecheria",
+        "capacity": 10000,
+        "latitude": 33.5512651,
+        "longitude": -0.2734405
+    },
+    {
+        "id": 100001,
+        "name": "Boudjemaa Souidani Stadium",
+        "city": "Guelma",
+        "capacity": 15000,
+        "latitude": 36.4688336,
+        "longitude": 7.4461669
+    },
+    {
+        "id": 19340,
+        "name": "Stade Zakaria Medjdoub",
+        "city": "El-Bayadh",
+        "capacity": 8000,
+        "latitude": 33.6780523,
+        "longitude": 1.0212194
+    },
+    {
+        "id": 11109,
+        "name": "Stade Hamam Ammar",
+        "city": "Khenchela",
+        "capacity": 5000,
+        "latitude": 35.4284269,
+        "longitude": 7.1465059
+    },
+    {
+        "id": 100002,
+        "name": "Menaouer Kerbouci Stadium",
+        "city": "Arzew",
+        "capacity": 7000,
+        "latitude": 35.8608153,
+        "longitude": -0.3135312
+    },
+    {
+        "id": 100003,
+        "name": "Stade Municipal",
+        "city": "Fedjoudj",
+        "capacity": null,
+        "latitude": 34.6856816,
+        "longitude": -1.9053444
+    },
+    {
+        "id": 100004,
+        "name": "1 November 1954 Stadium",
+        "city": "Magrane",
+        "capacity": 7200,
+        "latitude": 36.7068914,
+        "longitude": 4.0560512
+    },
+    {
+        "id": 100005,
+        "name": "Stade Municipal",
+        "city": "Zaouia",
+        "capacity": null,
+        "latitude": 36.5265442,
+        "longitude": 2.8047005
+    },
+    {
+        "id": 100006,
+        "name": "Colonel Lotfi Stadium",
+        "city": "Tlemcen",
+        "capacity": 18000,
+        "latitude": 34.8775346,
+        "longitude": -1.3011289
+    },
+    {
+        "id": 100007,
+        "name": "18 February Stadium",
+        "city": "Rouissat",
+        "capacity": 18000,
+        "latitude": 31.9413039,
+        "longitude": 5.3420967
+    },
+    {
+        "id": 100008,
+        "name": "Stade de Bougaa",
+        "city": "Bougaa",
+        "capacity": null,
+        "latitude": 36.3396891,
+        "longitude": 5.0968111
+    },
+    {
+        "id": 11112,
+        "name": "Stade Ahmed Kaïd",
+        "city": "Tiaret",
+        "capacity": 30000,
+        "latitude": 35.3622053,
+        "longitude": 1.3308863
+    },
+    {
+        "id": 100009,
+        "name": "8 May 1945 Stadium",
+        "city": "Sétif",
+        "capacity": 18000,
+        "latitude": 36.1868811,
+        "longitude": 5.3931653
+    },
+    {
+        "id": 12562,
+        "name": "Stade Ben Aknoun",
+        "city": "Ben Aknoun",
+        "capacity": 5000,
+        "latitude": 36.7574313,
+        "longitude": 3.0045965
+    },
+    {
+        "id": 100010,
+        "name": "El Moustakbel Stadium",
+        "city": "Touggourt",
+        "capacity": 10000,
+        "latitude": 36.5836044,
+        "longitude": 2.457828
+    },
+    {
+        "id": 100011,
+        "name": "Stade Municipal",
+        "city": "Azazga",
+        "capacity": null,
+        "latitude": 36.741378,
+        "longitude": 4.3303473
+    },
+    {
+        "id": 100012,
+        "name": "20 August 1955 Stadium",
+        "city": "Béchar",
+        "capacity": 20000,
+        "latitude": 31.60574909999999,
+        "longitude": -2.2182861
+    },
+    {
+        "id": 11114,
+        "name": "Stade Es Senia",
+        "city": "Es Senia",
+        "capacity": 5000,
+        "latitude": 35.6468674,
+        "longitude": -0.6145748999999999
+    },
+    {
+        "id": 100013,
+        "name": "Delali Habib Stadium",
+        "city": "Oued Fodda",
+        "capacity": null,
+        "latitude": 35.9619402,
+        "longitude": 0.9093329
+    },
+    {
+        "id": 100014,
+        "name": "Stade Municipal",
+        "city": "Tissemsilt",
+        "capacity": null,
+        "latitude": 35.6085079,
+        "longitude": 1.8191583
+    },
+    {
+        "id": 100015,
+        "name": "Stade Municipal",
+        "city": "Nezla",
+        "capacity": null,
+        "latitude": 39.4746556,
+        "longitude": -0.3585902
+    },
+    {
+        "id": 100016,
+        "name": "Stade Municipal",
+        "city": "Sedrata",
+        "capacity": null,
+        "latitude": 36.12814890000001,
+        "longitude": 7.5355029
+    },
+    {
+        "id": 100017,
+        "name": "Stade Municipal",
+        "city": "Barika",
+        "capacity": null,
+        "latitude": 34.9273122,
+        "longitude": -2.3260915
+    },
+    {
+        "id": 100018,
+        "name": "Mohamed Bensaïd Stadium",
+        "city": "Mostaganem",
+        "capacity": 18000,
+        "latitude": 35.9243539,
+        "longitude": 0.1053479
+    },
+    {
+        "id": 100019,
+        "name": "Hocine Rouibah Stadium",
+        "city": "Jijel",
+        "capacity": 40000,
+        "latitude": 36.81087520000001,
+        "longitude": 5.7427939
+    },
+    {
+        "id": 100020,
+        "name": "Stade Municipal",
+        "city": "Béni Thamou",
+        "capacity": null,
+        "latitude": 34.6550692,
+        "longitude": -1.5516743
+    },
+    {
+        "id": 100021,
+        "name": "Stade Municipal",
+        "city": "Bouakal",
+        "capacity": null,
+        "latitude": 7.6830648,
+        "longitude": -5.0447517
+    },
+    {
+        "id": 100022,
+        "name": "Messaoud Zeghar Stadium",
+        "city": "El Eulma",
+        "capacity": 25000,
+        "latitude": 36.1439313,
+        "longitude": 5.7224135
+    },
+    {
+        "id": 100023,
+        "name": "Stade Municipal",
+        "city": "Aïn Yagout",
+        "capacity": null,
+        "latitude": 35.7723193,
+        "longitude": 6.4218708
+    },
+    {
+        "id": 100024,
+        "name": "Stade Maamar Sahli",
+        "city": "Sendjas",
+        "capacity": null,
+        "latitude": 36.1748649,
+        "longitude": 1.328094
+    },
+    {
+        "id": 100025,
+        "name": "Stade Municipal",
+        "city": "El Abiodh Sidi Cheikh",
+        "capacity": null,
+        "latitude": 34.837315,
+        "longitude": 0.1511079
+    },
+    {
+        "id": 100026,
+        "name": "Stade Municipal",
+        "city": "Hai Jebel",
+        "capacity": null,
+        "latitude": 11.578911,
+        "longitude": 43.1487048
+    },
+    {
+        "id": 100027,
+        "name": "Stade Municipal",
+        "city": "Sidi Abdelmoumen",
+        "capacity": null,
+        "latitude": 36.1412796,
+        "longitude": 0.8443590999999999
+    },
+    {
+        "id": 100028,
+        "name": "Stade Municipal",
+        "city": "Théniet El-Abed",
+        "capacity": null,
+        "latitude": 35.8754533,
+        "longitude": 1.9420249
+    },
+    {
+        "id": 100029,
+        "name": "Stade Municipal",
+        "city": "Hassi R'Mel",
+        "capacity": null,
+        "latitude": 35.860974,
+        "longitude": 0.0672939
+    },
+    {
+        "id": 8,
+        "name": "Stade Habib Bouakeul",
+        "city": "Oran",
+        "capacity": 20000,
+        "latitude": 35.6792333,
+        "longitude": -0.6756738999999999
+    },
+    {
+        "id": 28,
+        "name": "Stade 13 Avril 1958",
+        "city": "Saïda",
+        "capacity": 20000,
+        "latitude": 34.8630523,
+        "longitude": 0.1511807
+    },
+    {
+        "id": 2662,
+        "name": "Stade Smaïl-Makhlouf",
+        "city": "Larbaâ",
+        "capacity": 8000,
+        "latitude": 36.5668785,
+        "longitude": 3.1491333
+    },
+    {
+        "id": 14,
+        "name": "Stade du 1er novembre 1954",
+        "city": "Batna",
+        "capacity": 20000,
+        "latitude": 35.5572337,
+        "longitude": 6.1879561
+    },
+    {
+        "id": 20455,
+        "name": "Stade Ben-Abdelmalek-Ramdhan",
+        "city": "Constantine",
+        "capacity": 6000,
+        "latitude": 36.3565971,
+        "longitude": 6.6047177
+    },
+    {
+        "id": 65656898789794,
+        "name": "Salah Takdjerad Stadium",
+        "city": "Bordj Menaïel",
+        "capacity": 7000,
+        "latitude": 36.7427067,
+        "longitude": 3.719235
+    },
+    {
+        "id": 987987896555,
+        "name": "Mohamed Boumezrag Stadium",
+        "city": "Chlef",
+        "capacity": 18000,
+        "latitude": 36.1615702,
+        "longitude": 1.3087846
+    },
+    {
+        "id": 19341,
+        "name": "Stade 11 Décembre 1960",
+        "city": "Chelghoum Laïd",
+        "capacity": 10000,
+        "latitude": 36.1563593,
+        "longitude": 6.172159199999999
+    },
+    {
+        "id": 19622,
+        "name": "Stade Khabaza Bachir",
+        "city": "Teleghma",
+        "capacity": 3000,
+        "latitude": 36.1237393,
+        "longitude": 6.3686639
+    },
+    {
+        "id": 654655456432121,
+        "name": "Mohamed Belkebir Stadium",
+        "city": "Khemis Miliana",
+        "capacity": 8000,
+        "latitude": 36.2565145,
+        "longitude": 2.2172104
+    },
+    {
+        "id": 20457,
+        "name": "Stade OPOW de Rouissat",
+        "city": "Ouargla",
+        "capacity": 18000,
+        "latitude": 31.9413039,
+        "longitude": 5.3420967
+    },
+    {
+        "id": 20458,
+        "name": "Stade Communal de Réghaïa",
+        "city": "Réghaïa",
+        "capacity": 3000,
+        "latitude": 36.7564701,
+        "longitude": 3.3433317
+    },
+    {
+        "id": 20459,
+        "name": "Stade El Oued OPOW",
+        "city": "El Oued",
+        "capacity": 7200,
+        "latitude": 33.4003332,
+        "longitude": 6.878246
+    },
+    {
+        "id": 223233254654546,
+        "name": "El Biar Stadium",
+        "city": "El Biar",
+        "capacity": 3000,
+        "latitude": 36.7639465,
+        "longitude": 3.0239543
+    }
+]
