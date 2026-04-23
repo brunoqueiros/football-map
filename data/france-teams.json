@@ -2328,5 +2328,75 @@
         "national": false,
         "logo": "https://media.api-sports.io/football/teams/15115.png",
         "venue_id": 10826
+    },
+    {
+        "id": 3032,
+        "name": "Challans",
+        "code": null,
+        "country": "France",
+        "founded": 2000,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/3032.png",
+        "venue_id": 2000
+    },
+    {
+        "id": 3037,
+        "name": "Chauray",
+        "code": null,
+        "country": "France",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/3037.png",
+        "venue_id": 2004
+    },
+    {
+        "id": 3066,
+        "name": "La Châtaigneraie",
+        "code": null,
+        "country": "France",
+        "founded": 1925,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/3066.png",
+        "venue_id": 2022
+    },
+    {
+        "id": 9236,
+        "name": "Angers SCO II",
+        "code": null,
+        "country": "France",
+        "founded": 1919,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/9236.png",
+        "venue_id": 22127
+    },
+    {
+        "id": 9244,
+        "name": "Nantes II",
+        "code": "NAN",
+        "country": "France",
+        "founded": 1943,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/9244.png",
+        "venue_id": 6392
+    },
+    {
+        "id": 9916,
+        "name": "Laval II",
+        "code": null,
+        "country": "France",
+        "founded": 1902,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/9916.png",
+        "venue_id": 6992
+    },
+    {
+        "id": 13618,
+        "name": "Panazol",
+        "code": null,
+        "country": "France",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/13618.png",
+        "venue_id": 20397
     }
 ]

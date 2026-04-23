@@ -1838,5 +1838,61 @@
         "capacity": 1000,
         "latitude": 43.5204811,
         "longitude": 1.5176586
+    },
+    {
+        "id": 2000,
+        "name": "Stade Jean Léveillé",
+        "city": "Challans",
+        "capacity": 5000,
+        "latitude": 46.8411863,
+        "longitude": -1.8793813
+    },
+    {
+        "id": 2004,
+        "name": "Stade Municipal",
+        "city": "Chauray",
+        "capacity": 1500,
+        "latitude": 46.3571657,
+        "longitude": -0.3766998
+    },
+    {
+        "id": 2022,
+        "name": "Stade Claude Bétard",
+        "city": "La-Chataigneraie",
+        "capacity": 1500,
+        "latitude": 46.6440563,
+        "longitude": -0.7391166
+    },
+    {
+        "id": 22127,
+        "name": "Stade de la Salpinte",
+        "city": "Angers",
+        "capacity": 1000,
+        "latitude": 47.446735,
+        "longitude": -0.5549334000000001
+    },
+    {
+        "id": 6392,
+        "name": "Stade Marcel-Saupin",
+        "city": "Nantes",
+        "capacity": 1921,
+        "latitude": 47.2128256,
+        "longitude": -1.5381382
+    },
+    {
+        "id": 6992,
+        "name": "Stade des Gandonnières N° 5",
+        "city": "Laval",
+        "capacity": 1000,
+        "latitude": 48.07153839999999,
+        "longitude": -0.8032494
+    },
+    {
+        "id": 20397,
+        "name": "Stade de Morpiènas",
+        "city": "Panazol",
+        "capacity": 1500,
+        "latitude": 45.826292,
+        "longitude": 1.3090071
     }
 ]
