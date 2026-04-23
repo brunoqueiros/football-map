@@ -1,0 +1,106 @@
+[
+    {
+        "id": 3712,
+        "name": "Estádio 11 de Novembro",
+        "city": "Luanda",
+        "capacity": 48500,
+        "latitude": -8.9698785,
+        "longitude": 13.2835372
+    },
+    {
+        "id": 3714,
+        "name": "Estádio do Buraco",
+        "city": "Lobito",
+        "capacity": 15000,
+        "latitude": -12.3925481,
+        "longitude": 13.5537386
+    },
+    {
+        "id": 10511,
+        "name": "Estádio Provincial da Huíla (Ferroviário)",
+        "city": "Lubango",
+        "capacity": 10000,
+        "latitude": -14.9310411,
+        "longitude": 13.5004976
+    },
+    {
+        "id": 3718,
+        "name": "Estádio Joaquim Dinis",
+        "city": "Luanda",
+        "capacity": 10000,
+        "latitude": -8.8689865,
+        "longitude": 13.2088245
+    },
+    {
+        "id": 3719,
+        "name": "Estádio das Mangueiras",
+        "city": "Saurimo",
+        "capacity": 7000,
+        "latitude": -9.6525647,
+        "longitude": 20.3915772
+    },
+    {
+        "id": 3721,
+        "name": "Estádio Municipal de Calulo",
+        "city": "Calulo",
+        "capacity": 5000,
+        "latitude": -10.0066065,
+        "longitude": 14.9050034
+    },
+    {
+        "id": 3722,
+        "name": "Estádio Quintalão",
+        "city": "Dundo",
+        "capacity": 3000,
+        "latitude": -7.3746324,
+        "longitude": 20.8342172
+    },
+    {
+        "id": 6656545646544,
+        "name": "Estádio 4 de Janeiro",
+        "city": "Uíge",
+        "capacity": 120000,
+        "latitude": -7.623759199999999,
+        "longitude": 15.0580126
+    },
+    {
+        "id": 3724,
+        "name": "Estádio Municipal dos Coqueiros",
+        "city": "Luanda",
+        "capacity": 12000,
+        "latitude": -8.8144634,
+        "longitude": 13.2261328
+    },
+    {
+        "id": 7135,
+        "name": "Estádio Nacional de OMBAKA",
+        "city": "Benguela",
+        "capacity": 35000,
+        "latitude": -12.5430474,
+        "longitude": 13.4602086
+    },
+    {
+        "id": 11000312154,
+        "name": "Estádio São Filipe",
+        "city": "Benguela",
+        "capacity": null,
+        "latitude": -12.5765753,
+        "longitude": 13.4088497
+    },
+    {
+        "id": 12111101210,
+        "name": "Estádio Municipal Álvaro Buta",
+        "city": "M'banza-Kongo",
+        "capacity": 10000,
+        "latitude": -6.264691699999999,
+        "longitude": 14.2409346
+    },
+    {
+        "id": 5646531232154,
+        "name": "Estádio dos Coqueiros",
+        "city": "Luanda",
+        "capacity": 120000,
+        "latitude": -8.8144634,
+        "longitude": 13.2261328
+    }
+]

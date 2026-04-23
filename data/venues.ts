@@ -5,3 +5,4 @@ export { default as france } from './france-venues.json';
 export { default as albania } from './albania-venues.json';
 export { default as algeria } from './algeria-venues.json';
 export { default as andorra } from './andorra-venues.json';
+export { default as angola } from './angola-venues.json';

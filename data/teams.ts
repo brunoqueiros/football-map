@@ -5,3 +5,4 @@ export { default as france } from './france-teams.json';
 export { default as albania } from './albania-teams.json';
 export { default as algeria } from './algeria-teams.json';
 export { default as andorra } from './andorra-teams.json';
+export { default as angola } from './angola-teams.json';
