@@ -1702,5 +1702,53 @@
         "capacity": 13000,
         "latitude": 47.1157689,
         "longitude": 2.3948154
+    },
+    {
+        "id": 12036,
+        "name": "Stade Pierre Brisson",
+        "city": "Beauvais",
+        "capacity": 10178,
+        "latitude": 49.43139040000001,
+        "longitude": 2.114426
+    },
+    {
+        "id": 1978,
+        "name": "Stade Dominique Duvauchelle",
+        "city": "Créteil",
+        "capacity": 12050,
+        "latitude": 48.7679637,
+        "longitude": 2.4616268
+    },
+    {
+        "id": 20390,
+        "name": "Stade Roger Gardin",
+        "city": "Houlgate",
+        "capacity": 1500,
+        "latitude": 49.29140779999999,
+        "longitude": -0.07356
+    },
+    {
+        "id": 2073,
+        "name": "Complexe Sportif Lucien Montagne",
+        "city": "Wasquehal",
+        "capacity": 500,
+        "latitude": 50.6757185,
+        "longitude": 3.1216512
+    },
+    {
+        "id": 10816,
+        "name": "Stade d'Erbajolo",
+        "city": "Bastia",
+        "capacity": 1600,
+        "latitude": 42.6629246,
+        "longitude": 9.4359929
+    },
+    {
+        "id": 7000,
+        "name": "Stade Jacques Ambroggi",
+        "city": "L&apos;Île-Rousse",
+        "capacity": 1000,
+        "latitude": 42.63039860000001,
+        "longitude": 8.9510575
     }
 ]

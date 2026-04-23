@@ -2158,5 +2158,65 @@
         "national": false,
         "logo": "https://media.api-sports.io/football/teams/17360.png",
         "venue_id": 6994
+    },
+    {
+        "id": 1291,
+        "name": "Chambly Thelle FC",
+        "code": "CHA",
+        "country": "France",
+        "founded": 1989,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/1291.png",
+        "venue_id": 12036
+    },
+    {
+        "id": 1307,
+        "name": "Creteil",
+        "code": "CRE",
+        "country": "France",
+        "founded": 1936,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/1307.png",
+        "venue_id": 1978
+    },
+    {
+        "id": 3135,
+        "name": "Villers Houlgate CF",
+        "code": null,
+        "country": "France",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/3135.png",
+        "venue_id": 20390
+    },
+    {
+        "id": 3140,
+        "name": "Wasquehal",
+        "code": null,
+        "country": "France",
+        "founded": 1924,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/3140.png",
+        "venue_id": 2073
+    },
+    {
+        "id": 3181,
+        "name": "Furiani-Agliani",
+        "code": null,
+        "country": "France",
+        "founded": 0,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/3181.png",
+        "venue_id": 10816
+    },
+    {
+        "id": 9931,
+        "name": "Balagne",
+        "code": "MON",
+        "country": "France",
+        "founded": 2008,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/9931.png",
+        "venue_id": 7000
     }
 ]
