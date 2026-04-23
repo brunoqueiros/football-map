@@ -1,0 +1,1962 @@
+[
+    {
+        "id": 77,
+        "name": "Angers",
+        "code": "ANG",
+        "country": "France",
+        "founded": 1919,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/77.png",
+        "venue_id": 634
+    },
+    {
+        "id": 78,
+        "name": "Bordeaux",
+        "code": "BOR",
+        "country": "France",
+        "founded": 1881,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/78.png",
+        "venue_id": 638
+    },
+    {
+        "id": 79,
+        "name": "Lille",
+        "code": "LIL",
+        "country": "France",
+        "founded": 1944,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/79.png",
+        "venue_id": 19207
+    },
+    {
+        "id": 80,
+        "name": "Lyon",
+        "code": "LYO",
+        "country": "France",
+        "founded": 1950,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/80.png",
+        "venue_id": 666
+    },
+    {
+        "id": 81,
+        "name": "Marseille",
+        "code": "MAR",
+        "country": "France",
+        "founded": 1899,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/81.png",
+        "venue_id": 12678
+    },
+    {
+        "id": 82,
+        "name": "Montpellier",
+        "code": "MON",
+        "country": "France",
+        "founded": 1974,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/82.png",
+        "venue_id": 20107
+    },
+    {
+        "id": 83,
+        "name": "Nantes",
+        "code": "NAN",
+        "country": "France",
+        "founded": 1943,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/83.png",
+        "venue_id": 662
+    },
+    {
+        "id": 84,
+        "name": "Nice",
+        "code": "NIC",
+        "country": "France",
+        "founded": 1904,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/84.png",
+        "venue_id": 663
+    },
+    {
+        "id": 85,
+        "name": "Paris Saint Germain",
+        "code": "PSG",
+        "country": "France",
+        "founded": 1970,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/85.png",
+        "venue_id": 671
+    },
+    {
+        "id": 87,
+        "name": "Amiens",
+        "code": "AMI",
+        "country": "France",
+        "founded": 1901,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/87.png",
+        "venue_id": 633
+    },
+    {
+        "id": 88,
+        "name": "Caen",
+        "code": "CAE",
+        "country": "France",
+        "founded": 1897,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/88.png",
+        "venue_id": 642
+    },
+    {
+        "id": 89,
+        "name": "Dijon",
+        "code": "DIJ",
+        "country": "France",
+        "founded": 1936,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/89.png",
+        "venue_id": 645
+    },
+    {
+        "id": 90,
+        "name": "Guingamp",
+        "code": "GUI",
+        "country": "France",
+        "founded": 1912,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/90.png",
+        "venue_id": 650
+    },
+    {
+        "id": 91,
+        "name": "Monaco",
+        "code": "MON",
+        "country": "France",
+        "founded": 1919,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/91.png",
+        "venue_id": 20470
+    },
+    {
+        "id": 93,
+        "name": "Reims",
+        "code": "REI",
+        "country": "France",
+        "founded": 1909,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/93.png",
+        "venue_id": 22707
+    },
+    {
+        "id": 94,
+        "name": "Rennes",
+        "code": "REN",
+        "country": "France",
+        "founded": 1901,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/94.png",
+        "venue_id": 680
+    },
+    {
+        "id": 95,
+        "name": "Strasbourg",
+        "code": "STR",
+        "country": "France",
+        "founded": 1906,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/95.png",
+        "venue_id": 681
+    },
+    {
+        "id": 96,
+        "name": "Toulouse",
+        "code": "TOU",
+        "country": "France",
+        "founded": 1937,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/96.png",
+        "venue_id": 682
+    },
+    {
+        "id": 97,
+        "name": "Lorient",
+        "code": "LOR",
+        "country": "France",
+        "founded": 1926,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/97.png",
+        "venue_id": 21430
+    },
+    {
+        "id": 98,
+        "name": "Ajaccio",
+        "code": "AJA",
+        "country": "France",
+        "founded": 1910,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/98.png",
+        "venue_id": 21428
+    },
+    {
+        "id": 99,
+        "name": "Clermont Foot",
+        "code": "CLE",
+        "country": "France",
+        "founded": 1990,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/99.png",
+        "venue_id": 21429
+    },
+    {
+        "id": 101,
+        "name": "Grenoble",
+        "code": "GRE",
+        "country": "France",
+        "founded": 1917,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/101.png",
+        "venue_id": 649
+    },
+    {
+        "id": 102,
+        "name": "Nancy",
+        "code": "NAN",
+        "country": "France",
+        "founded": 1967,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/102.png",
+        "venue_id": 661
+    },
+    {
+        "id": 103,
+        "name": "Orleans",
+        "code": "ORL",
+        "country": "France",
+        "founded": 1976,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/103.png",
+        "venue_id": 668
+    },
+    {
+        "id": 104,
+        "name": "RED Star FC 93",
+        "code": "STA",
+        "country": "France",
+        "founded": 1897,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/104.png",
+        "venue_id": 673
+    },
+    {
+        "id": 105,
+        "name": "Valenciennes",
+        "code": "VAL",
+        "country": "France",
+        "founded": 1913,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/105.png",
+        "venue_id": 686
+    },
+    {
+        "id": 106,
+        "name": "Stade Brestois 29",
+        "code": "BRE",
+        "country": "France",
+        "founded": 1950,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/106.png",
+        "venue_id": 641
+    },
+    {
+        "id": 108,
+        "name": "Auxerre",
+        "code": "AUX",
+        "country": "France",
+        "founded": 1905,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/108.png",
+        "venue_id": 636
+    },
+    {
+        "id": 110,
+        "name": "Estac Troyes",
+        "code": "TRO",
+        "country": "France",
+        "founded": 1986,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/110.png",
+        "venue_id": 684
+    },
+    {
+        "id": 111,
+        "name": "Le Havre",
+        "code": "HAV",
+        "country": "France",
+        "founded": 1872,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/111.png",
+        "venue_id": 652
+    },
+    {
+        "id": 112,
+        "name": "Metz",
+        "code": "MET",
+        "country": "France",
+        "founded": 1932,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/112.png",
+        "venue_id": 658
+    },
+    {
+        "id": 113,
+        "name": "Niort",
+        "code": "NIO",
+        "country": "France",
+        "founded": 1925,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/113.png",
+        "venue_id": 665
+    },
+    {
+        "id": 114,
+        "name": "Paris FC",
+        "code": "PAR",
+        "country": "France",
+        "founded": 1969,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/114.png",
+        "venue_id": 12585
+    },
+    {
+        "id": 115,
+        "name": "Sochaux",
+        "code": "SOC",
+        "country": "France",
+        "founded": 1928,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/115.png",
+        "venue_id": 678
+    },
+    {
+        "id": 116,
+        "name": "Lens",
+        "code": "LEN",
+        "country": "France",
+        "founded": 1906,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/116.png",
+        "venue_id": 654
+    },
+    {
+        "id": 431,
+        "name": "Quevilly",
+        "code": "QUE",
+        "country": "France",
+        "founded": 1902,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/431.png",
+        "venue_id": 672
+    },
+    {
+        "id": 432,
+        "name": "Tours",
+        "code": "TOU",
+        "country": "France",
+        "founded": 1919,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/432.png",
+        "venue_id": 683
+    },
+    {
+        "id": 433,
+        "name": "Laval",
+        "code": "LAV",
+        "country": "France",
+        "founded": 1902,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/433.png",
+        "venue_id": 651
+    },
+    {
+        "id": 1063,
+        "name": "Saint Etienne",
+        "code": "ETI",
+        "country": "France",
+        "founded": 1920,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/1063.png",
+        "venue_id": 676
+    },
+    {
+        "id": 1293,
+        "name": "Drancy",
+        "code": null,
+        "country": "France",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/1293.png",
+        "venue_id": 679
+    },
+    {
+        "id": 1296,
+        "name": "Marignane",
+        "code": null,
+        "country": "France",
+        "founded": 2022,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/1296.png",
+        "venue_id": 1879
+    },
+    {
+        "id": 1297,
+        "name": "PAU",
+        "code": "PAU",
+        "country": "France",
+        "founded": 1904,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/1297.png",
+        "venue_id": 11898
+    },
+    {
+        "id": 1298,
+        "name": "Le Mans",
+        "code": null,
+        "country": "France",
+        "founded": 1985,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/1298.png",
+        "venue_id": 19206
+    },
+    {
+        "id": 1299,
+        "name": "Boulogne",
+        "code": "BOU",
+        "country": "France",
+        "founded": 1898,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/1299.png",
+        "venue_id": 639
+    },
+    {
+        "id": 1300,
+        "name": "Concarneau",
+        "code": "CON",
+        "country": "France",
+        "founded": 1911,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/1300.png",
+        "venue_id": 641
+    },
+    {
+        "id": 1301,
+        "name": "Rodez",
+        "code": "ROD",
+        "country": "France",
+        "founded": 1929,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/1301.png",
+        "venue_id": 675
+    },
+    {
+        "id": 1302,
+        "name": "Villefranche",
+        "code": "VIL",
+        "country": "France",
+        "founded": 1923,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/1302.png",
+        "venue_id": 687
+    },
+    {
+        "id": 1303,
+        "name": "Avranches",
+        "code": "AVR",
+        "country": "France",
+        "founded": 0,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/1303.png",
+        "venue_id": 637
+    },
+    {
+        "id": 1304,
+        "name": "Dunkerque",
+        "code": "DUN",
+        "country": "France",
+        "founded": 0,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/1304.png",
+        "venue_id": 646
+    },
+    {
+        "id": 1305,
+        "name": "Bastia",
+        "code": "BAS",
+        "country": "France",
+        "founded": 1905,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/1305.png",
+        "venue_id": 1977
+    },
+    {
+        "id": 1308,
+        "name": "Les Herbiers",
+        "code": "HER",
+        "country": "France",
+        "founded": 0,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/1308.png",
+        "venue_id": 1982
+    },
+    {
+        "id": 1309,
+        "name": "Epinal",
+        "code": "EPI",
+        "country": "France",
+        "founded": 1941,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/1309.png",
+        "venue_id": 1980
+    },
+    {
+        "id": 3011,
+        "name": "Angoulême",
+        "code": null,
+        "country": "France",
+        "founded": 1920,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/3011.png",
+        "venue_id": 1986
+    },
+    {
+        "id": 3012,
+        "name": "Annecy",
+        "code": null,
+        "country": "France",
+        "founded": 1927,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/3012.png",
+        "venue_id": 1979
+    },
+    {
+        "id": 3024,
+        "name": "Biars-Bretenoux",
+        "code": null,
+        "country": "France",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/3024.png",
+        "venue_id": 22708
+    },
+    {
+        "id": 3025,
+        "name": "Biesheim",
+        "code": null,
+        "country": "France",
+        "founded": 1968,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/3025.png",
+        "venue_id": 1995
+    },
+    {
+        "id": 3027,
+        "name": "Bobigny",
+        "code": null,
+        "country": "France",
+        "founded": 1993,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/3027.png",
+        "venue_id": 19224
+    },
+    {
+        "id": 3030,
+        "name": "Canet Roussillon",
+        "code": null,
+        "country": "France",
+        "founded": 1934,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/3030.png",
+        "venue_id": 1999
+    },
+    {
+        "id": 3048,
+        "name": "Etoile Matoury",
+        "code": null,
+        "country": "France",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/3048.png",
+        "venue_id": 2010
+    },
+    {
+        "id": 3056,
+        "name": "Gueugnon",
+        "code": null,
+        "country": "France",
+        "founded": 1940,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/3056.png",
+        "venue_id": 2016
+    },
+    {
+        "id": 3058,
+        "name": "Haguenau",
+        "code": null,
+        "country": "France",
+        "founded": 1987,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/3058.png",
+        "venue_id": 2017
+    },
+    {
+        "id": 3062,
+        "name": "Illkirch Graffenstaden",
+        "code": null,
+        "country": "France",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/3062.png",
+        "venue_id": 2020
+    },
+    {
+        "id": 3069,
+        "name": "Le Puy Foot",
+        "code": null,
+        "country": "France",
+        "founded": 1903,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/3069.png",
+        "venue_id": 2025
+    },
+    {
+        "id": 3081,
+        "name": "Montagnarde",
+        "code": null,
+        "country": "France",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/3081.png",
+        "venue_id": 2035
+    },
+    {
+        "id": 3093,
+        "name": "Olympique d'Alès",
+        "code": null,
+        "country": "France",
+        "founded": 1923,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/3093.png",
+        "venue_id": 2043
+    },
+    {
+        "id": 3094,
+        "name": "Olympique de Valence",
+        "code": null,
+        "country": "France",
+        "founded": 2014,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/3094.png",
+        "venue_id": 21431
+    },
+    {
+        "id": 3100,
+        "name": "Raon l'Etape",
+        "code": "RAO",
+        "country": "France",
+        "founded": 1921,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/3100.png",
+        "venue_id": 2047
+    },
+    {
+        "id": 3107,
+        "name": "Saint-Lô Manche",
+        "code": null,
+        "country": "France",
+        "founded": 1965,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/3107.png",
+        "venue_id": 2050
+    },
+    {
+        "id": 3108,
+        "name": "Saint-Malo",
+        "code": "SAI",
+        "country": "France",
+        "founded": 1901,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/3108.png",
+        "venue_id": 2051
+    },
+    {
+        "id": 3109,
+        "name": "Saint-Omer",
+        "code": null,
+        "country": "France",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/3109.png",
+        "venue_id": 2052
+    },
+    {
+        "id": 3118,
+        "name": "Stade Beaucairois",
+        "code": null,
+        "country": "France",
+        "founded": 1908,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/3118.png",
+        "venue_id": 2059
+    },
+    {
+        "id": 3123,
+        "name": "Thaon",
+        "code": null,
+        "country": "France",
+        "founded": 1920,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/3123.png",
+        "venue_id": 2061
+    },
+    {
+        "id": 3127,
+        "name": "USSA Vertou",
+        "code": null,
+        "country": "France",
+        "founded": 1944,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/3127.png",
+        "venue_id": 2064
+    },
+    {
+        "id": 3129,
+        "name": "Vannes",
+        "code": "VAN",
+        "country": "France",
+        "founded": 1998,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/3129.png",
+        "venue_id": 2065
+    },
+    {
+        "id": 3130,
+        "name": "Vendée Fontenay",
+        "code": "FON",
+        "country": "France",
+        "founded": 1991,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/3130.png",
+        "venue_id": 2066
+    },
+    {
+        "id": 3131,
+        "name": "Versailles",
+        "code": null,
+        "country": "France",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/3131.png",
+        "venue_id": 18861
+    },
+    {
+        "id": 3138,
+        "name": "Vitré",
+        "code": "VIT",
+        "country": "France",
+        "founded": 1907,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/3138.png",
+        "venue_id": 2071
+    },
+    {
+        "id": 3146,
+        "name": "Anduzien",
+        "code": null,
+        "country": "France",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/3146.png",
+        "venue_id": 1278178217812
+    },
+    {
+        "id": 3147,
+        "name": "Arras",
+        "code": null,
+        "country": "France",
+        "founded": 1901,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/3147.png",
+        "venue_id": 2078
+    },
+    {
+        "id": 3148,
+        "name": "Aubervilliers",
+        "code": "AUB",
+        "country": "France",
+        "founded": 1948,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/3148.png",
+        "venue_id": 2079
+    },
+    {
+        "id": 3153,
+        "name": "Beauvais",
+        "code": "BEA",
+        "country": "France",
+        "founded": 1945,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/3153.png",
+        "venue_id": 12036
+    },
+    {
+        "id": 3155,
+        "name": "Bressuire",
+        "code": null,
+        "country": "France",
+        "founded": 1965,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/3155.png",
+        "venue_id": 21432
+    },
+    {
+        "id": 3162,
+        "name": "Chantilly",
+        "code": null,
+        "country": "France",
+        "founded": 1902,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/3162.png",
+        "venue_id": 2089
+    },
+    {
+        "id": 3165,
+        "name": "Chaumont",
+        "code": null,
+        "country": "France",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/3165.png",
+        "venue_id": 2091
+    },
+    {
+        "id": 3168,
+        "name": "Cluses-Scionzier",
+        "code": null,
+        "country": "France",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/3168.png",
+        "venue_id": 1287127871287812
+    },
+    {
+        "id": 3169,
+        "name": "Colomiers",
+        "code": "COL",
+        "country": "France",
+        "founded": 1932,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/3169.png",
+        "venue_id": 2093
+    },
+    {
+        "id": 3176,
+        "name": "Feignies-Aulnoye",
+        "code": null,
+        "country": "France",
+        "founded": 2016,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/3176.png",
+        "venue_id": 12588
+    },
+    {
+        "id": 3178,
+        "name": "Feytiat",
+        "code": null,
+        "country": "France",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/3178.png",
+        "venue_id": 2096
+    },
+    {
+        "id": 3179,
+        "name": "Fleury 91",
+        "code": null,
+        "country": "France",
+        "founded": 1970,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/3179.png",
+        "venue_id": 12132
+    },
+    {
+        "id": 3182,
+        "name": "Gallia Lucciana",
+        "code": null,
+        "country": "France",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/3182.png",
+        "venue_id": 10817
+    },
+    {
+        "id": 3184,
+        "name": "Grandvillars",
+        "code": null,
+        "country": "France",
+        "founded": 1936,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/3184.png",
+        "venue_id": 10648
+    },
+    {
+        "id": 3187,
+        "name": "Hauts Lyonnais",
+        "code": null,
+        "country": "France",
+        "founded": 2012,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/3187.png",
+        "venue_id": 22710
+    },
+    {
+        "id": 3188,
+        "name": "Houilles",
+        "code": null,
+        "country": "France",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/3188.png",
+        "venue_id": 121287127871827
+    },
+    {
+        "id": 3196,
+        "name": "Les Ulis",
+        "code": null,
+        "country": "France",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/3196.png",
+        "venue_id": 2104
+    },
+    {
+        "id": 3200,
+        "name": "Martigues",
+        "code": "MAR",
+        "country": "France",
+        "founded": 1921,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/3200.png",
+        "venue_id": 2106
+    },
+    {
+        "id": 3206,
+        "name": "Mérignac-Arlac",
+        "code": null,
+        "country": "France",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/3206.png",
+        "venue_id": 332823893298
+    },
+    {
+        "id": 3215,
+        "name": "Porto Portugais Amiens",
+        "code": null,
+        "country": "France",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/3215.png",
+        "venue_id": 3232393298
+    },
+    {
+        "id": 3220,
+        "name": "Romorantin",
+        "code": "ROM",
+        "country": "France",
+        "founded": 1930,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/3220.png",
+        "venue_id": 2112
+    },
+    {
+        "id": 3221,
+        "name": "Rouen",
+        "code": null,
+        "country": "France",
+        "founded": 1899,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/3221.png",
+        "venue_id": 672
+    },
+    {
+        "id": 3224,
+        "name": "Saint-Colomban Locminé",
+        "code": null,
+        "country": "France",
+        "founded": 1908,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/3224.png",
+        "venue_id": 2113
+    },
+    {
+        "id": 3225,
+        "name": "Saumur",
+        "code": null,
+        "country": "France",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/3225.png",
+        "venue_id": 2114
+    },
+    {
+        "id": 3229,
+        "name": "Stade Briochin",
+        "code": null,
+        "country": "France",
+        "founded": 1904,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/3229.png",
+        "venue_id": 2118
+    },
+    {
+        "id": 3248,
+        "name": "Alençon",
+        "code": null,
+        "country": "France",
+        "founded": 1916,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/3248.png",
+        "venue_id": 2125
+    },
+    {
+        "id": 3261,
+        "name": "Dives-Cabourg",
+        "code": null,
+        "country": "France",
+        "founded": 1929,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/3261.png",
+        "venue_id": 2131
+    },
+    {
+        "id": 3267,
+        "name": "Istres",
+        "code": "IST",
+        "country": "France",
+        "founded": 1920,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/3267.png",
+        "venue_id": 2132
+    },
+    {
+        "id": 3275,
+        "name": "Lunéville",
+        "code": null,
+        "country": "France",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/3275.png",
+        "venue_id": 2136
+    },
+    {
+        "id": 3277,
+        "name": "Mâcon",
+        "code": null,
+        "country": "France",
+        "founded": 1999,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/3277.png",
+        "venue_id": 2137
+    },
+    {
+        "id": 3295,
+        "name": "Saint-Pierroise",
+        "code": null,
+        "country": "Reunion",
+        "founded": 1956,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/3295.png",
+        "venue_id": 2143
+    },
+    {
+        "id": 3297,
+        "name": "Sarre Union",
+        "code": "SAR",
+        "country": "France",
+        "founded": 1924,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/3297.png",
+        "venue_id": 2145
+    },
+    {
+        "id": 3310,
+        "name": "TA Rennes",
+        "code": null,
+        "country": "France",
+        "founded": 1907,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/3310.png",
+        "venue_id": 2150
+    },
+    {
+        "id": 4652,
+        "name": "Arles",
+        "code": "ARL",
+        "country": "France",
+        "founded": 1912,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/4652.png",
+        "venue_id": 3505
+    },
+    {
+        "id": 9237,
+        "name": "C' Chartres",
+        "code": null,
+        "country": "France",
+        "founded": 2018,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/9237.png",
+        "venue_id": 12095
+    },
+    {
+        "id": 9254,
+        "name": "Chasselay MDA",
+        "code": "MON",
+        "country": "France",
+        "founded": 2000,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/9254.png",
+        "venue_id": 6402
+    },
+    {
+        "id": 9255,
+        "name": "Jura Sud Foot",
+        "code": "JUR",
+        "country": "France",
+        "founded": 1991,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/9255.png",
+        "venue_id": 21433
+    },
+    {
+        "id": 9263,
+        "name": "Agde",
+        "code": null,
+        "country": "France",
+        "founded": 1904,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/9263.png",
+        "venue_id": 6409
+    },
+    {
+        "id": 9267,
+        "name": "Boulay",
+        "code": null,
+        "country": "France",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/9267.png",
+        "venue_id": 37828437834784
+    },
+    {
+        "id": 9268,
+        "name": "Bourgoin-Jallieu",
+        "code": null,
+        "country": "France",
+        "founded": 1936,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/9268.png",
+        "venue_id": 6411
+    },
+    {
+        "id": 9275,
+        "name": "Dinan Léhon",
+        "code": null,
+        "country": "France",
+        "founded": 1989,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/9275.png",
+        "venue_id": 6416
+    },
+    {
+        "id": 9287,
+        "name": "Le Touquet",
+        "code": null,
+        "country": "France",
+        "founded": 1933,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/9287.png",
+        "venue_id": 6421
+    },
+    {
+        "id": 9288,
+        "name": "Linas-Montlhery",
+        "code": null,
+        "country": "France",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/9288.png",
+        "venue_id": 12586
+    },
+    {
+        "id": 9301,
+        "name": "Paimpol",
+        "code": null,
+        "country": "France",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/9301.png",
+        "venue_id": 498749874398734
+    },
+    {
+        "id": 9304,
+        "name": "Sablé",
+        "code": null,
+        "country": "France",
+        "founded": 1986,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/9304.png",
+        "venue_id": 6424
+    },
+    {
+        "id": 9309,
+        "name": "Saint-Pierre Milizac",
+        "code": null,
+        "country": "France",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/9309.png",
+        "venue_id": 10831
+    },
+    {
+        "id": 9315,
+        "name": "Union Saint-Jean",
+        "code": null,
+        "country": "France",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/9315.png",
+        "venue_id": 682
+    },
+    {
+        "id": 9915,
+        "name": "La Roche VF",
+        "code": null,
+        "country": "France",
+        "founded": 1989,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/9915.png",
+        "venue_id": 6991
+    },
+    {
+        "id": 9932,
+        "name": "Cannes",
+        "code": "CAN",
+        "country": "France",
+        "founded": 1902,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/9932.png",
+        "venue_id": 7001
+    },
+    {
+        "id": 9937,
+        "name": "Jura Dolois",
+        "code": null,
+        "country": "France",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/9937.png",
+        "venue_id": 12587
+    },
+    {
+        "id": 9941,
+        "name": "Valdahon Vercel",
+        "code": null,
+        "country": "France",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/9941.png",
+        "venue_id": 21434
+    },
+    {
+        "id": 9969,
+        "name": "Chambéry",
+        "code": null,
+        "country": "France",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/9969.png",
+        "venue_id": 10836
+    },
+    {
+        "id": 9973,
+        "name": "Rumilly Vallières",
+        "code": null,
+        "country": "France",
+        "founded": 2018,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/9973.png",
+        "venue_id": 12099
+    },
+    {
+        "id": 10166,
+        "name": "Bayonne",
+        "code": null,
+        "country": "France",
+        "founded": 1904,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/10166.png",
+        "venue_id": 2081
+    },
+    {
+        "id": 10684,
+        "name": "La Roche sur Yon",
+        "code": null,
+        "country": "France",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/10684.png",
+        "venue_id": 19033
+    },
+    {
+        "id": 13583,
+        "name": "Colmar",
+        "code": "COL",
+        "country": "France",
+        "founded": 1920,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/13583.png",
+        "venue_id": 8479
+    },
+    {
+        "id": 13592,
+        "name": "Brétigny Foot",
+        "code": null,
+        "country": "France",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/13592.png",
+        "venue_id": 8485
+    },
+    {
+        "id": 13601,
+        "name": "Espaly-Saint-Marcel",
+        "code": null,
+        "country": "France",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/13601.png",
+        "venue_id": 20392
+    },
+    {
+        "id": 13648,
+        "name": "Ginglin Cesson",
+        "code": null,
+        "country": "France",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/13648.png",
+        "venue_id": 92387398273987
+    },
+    {
+        "id": 13697,
+        "name": "Marboz",
+        "code": null,
+        "country": "France",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/13697.png",
+        "venue_id": 17822182128172
+    },
+    {
+        "id": 13710,
+        "name": "Saint-Brieuc",
+        "code": null,
+        "country": "France",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/13710.png",
+        "venue_id": 387237627762
+    },
+    {
+        "id": 13722,
+        "name": "Cesson",
+        "code": null,
+        "country": "France",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/13722.png",
+        "venue_id": 19041
+    },
+    {
+        "id": 13723,
+        "name": "Corte",
+        "code": null,
+        "country": "France",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/13723.png",
+        "venue_id": 8509
+    },
+    {
+        "id": 13736,
+        "name": "Marmande",
+        "code": null,
+        "country": "France",
+        "founded": 1969,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/13736.png",
+        "venue_id": 8513
+    },
+    {
+        "id": 13803,
+        "name": "Vesoul",
+        "code": "VES",
+        "country": "France",
+        "founded": 1921,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/13803.png",
+        "venue_id": 8530
+    },
+    {
+        "id": 15110,
+        "name": "St-Philbert Gd Lieu",
+        "code": null,
+        "country": "France",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/15110.png",
+        "venue_id": 22128
+    },
+    {
+        "id": 15114,
+        "name": "Cannet Rocheville",
+        "code": null,
+        "country": "France",
+        "founded": 1920,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/15114.png",
+        "venue_id": 21054
+    },
+    {
+        "id": 15592,
+        "name": "Samaritaine",
+        "code": null,
+        "country": "France",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/15592.png",
+        "venue_id": 11490
+    },
+    {
+        "id": 18146,
+        "name": "Raismes",
+        "code": null,
+        "country": "France",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/18146.png",
+        "venue_id": 872383278923
+    },
+    {
+        "id": 18148,
+        "name": "Saint-Cyr Collonges",
+        "code": null,
+        "country": "France",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/18148.png",
+        "venue_id": 22714
+    },
+    {
+        "id": 18149,
+        "name": "Saint-Denis",
+        "code": null,
+        "country": "France",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/18149.png",
+        "venue_id": 20394
+    },
+    {
+        "id": 18153,
+        "name": "Stade Béthunois",
+        "code": null,
+        "country": "France",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/18153.png",
+        "venue_id": 22715
+    },
+    {
+        "id": 19617,
+        "name": "Vierzon FC",
+        "code": null,
+        "country": "France",
+        "founded": 2015,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/19617.png",
+        "venue_id": 2123
+    },
+    {
+        "id": 19916,
+        "name": "Carnoux",
+        "code": null,
+        "country": "France",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/19916.png",
+        "venue_id": 6408
+    },
+    {
+        "id": 20567,
+        "name": "AC Paris 15",
+        "code": null,
+        "country": "France",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/20567.png",
+        "venue_id": 490480983409834
+    },
+    {
+        "id": 20575,
+        "name": "Liancourt Clermont",
+        "code": null,
+        "country": "France",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/20575.png",
+        "venue_id": 48674387834973496
+    },
+    {
+        "id": 20580,
+        "name": "Pays de Cassel",
+        "code": null,
+        "country": "France",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/20580.png",
+        "venue_id": 21052
+    },
+    {
+        "id": 20581,
+        "name": "SA Mérignac",
+        "code": null,
+        "country": "France",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/20581.png",
+        "venue_id": 22716
+    },
+    {
+        "id": 21310,
+        "name": "Dragon",
+        "code": null,
+        "country": "Tahiti",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/21310.png",
+        "venue_id": 2121
+    },
+    {
+        "id": 22038,
+        "name": "Neuilly sur Marne",
+        "code": null,
+        "country": "France",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/22038.png",
+        "venue_id": 21435
+    },
+    {
+        "id": 22039,
+        "name": "Thionville Lusitanos",
+        "code": null,
+        "country": "France",
+        "founded": 0,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/22039.png",
+        "venue_id": 20396
+    },
+    {
+        "id": 22744,
+        "name": "RC Calais",
+        "code": null,
+        "country": "France",
+        "founded": 2023,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/22744.png",
+        "venue_id": 8497
+    },
+    {
+        "id": 22753,
+        "name": "Étoile Maritime",
+        "code": null,
+        "country": "France",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/22753.png",
+        "venue_id": 332932023903
+    },
+    {
+        "id": 24546,
+        "name": "OCPAM",
+        "code": null,
+        "country": "France",
+        "founded": 2024,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/24546.png",
+        "venue_id": 21436
+    },
+    {
+        "id": 25324,
+        "name": "ASS Still Mutzig",
+        "code": null,
+        "country": "France",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/25324.png",
+        "venue_id": 20054
+    },
+    {
+        "id": 25325,
+        "name": "Allobroges Asafia",
+        "code": null,
+        "country": "France",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/25325.png",
+        "venue_id": 4434390349034
+    },
+    {
+        "id": 25326,
+        "name": "Beaumont Saint-Cyr",
+        "code": null,
+        "country": "France",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/25326.png",
+        "venue_id": 4434398438934
+    },
+    {
+        "id": 25327,
+        "name": "Blenod",
+        "code": null,
+        "country": "France",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/25327.png",
+        "venue_id": 121232131233
+    },
+    {
+        "id": 25328,
+        "name": "Bolbec",
+        "code": null,
+        "country": "France",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/25328.png",
+        "venue_id": 33233232232332
+    },
+    {
+        "id": 25329,
+        "name": "Calais Beau-Marais",
+        "code": null,
+        "country": "France",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/25329.png",
+        "venue_id": 434343434343
+    },
+    {
+        "id": 25330,
+        "name": "Comtal",
+        "code": null,
+        "country": "France",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/25330.png",
+        "venue_id": 545454342323
+    },
+    {
+        "id": 25331,
+        "name": "Couzeix-Chaptelat",
+        "code": null,
+        "country": "France",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/25331.png",
+        "venue_id": 995848954854985
+    },
+    {
+        "id": 25332,
+        "name": "ETC Anstaing Chéreng",
+        "code": null,
+        "country": "France",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/25332.png",
+        "venue_id": 321982179812
+    },
+    {
+        "id": 25333,
+        "name": "FCSR Obernai",
+        "code": null,
+        "country": "France",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/25333.png",
+        "venue_id": 3390903290390309
+    },
+    {
+        "id": 25334,
+        "name": "Fief-Gesté",
+        "code": null,
+        "country": "France",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/25334.png",
+        "venue_id": 4344334434334
+    },
+    {
+        "id": 25335,
+        "name": "Foron",
+        "code": null,
+        "country": "France",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/25335.png",
+        "venue_id": 238712987312987330
+    },
+    {
+        "id": 25336,
+        "name": "Freyming",
+        "code": null,
+        "country": "France",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/25336.png",
+        "venue_id": 218321893721
+    },
+    {
+        "id": 25337,
+        "name": "Guéreins Genouilleux",
+        "code": null,
+        "country": "France",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/25337.png",
+        "venue_id": 43432322323
+    },
+    {
+        "id": 25338,
+        "name": "Haubourdin",
+        "code": null,
+        "country": "France",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/25338.png",
+        "venue_id": 3233232323234
+    },
+    {
+        "id": 25339,
+        "name": "Hettange-Grande",
+        "code": null,
+        "country": "France",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/25339.png",
+        "venue_id": 2172182718712
+    },
+    {
+        "id": 25340,
+        "name": "Labourse",
+        "code": null,
+        "country": "France",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/25340.png",
+        "venue_id": 892928182198912
+    },
+    {
+        "id": 25341,
+        "name": "Lempdes",
+        "code": null,
+        "country": "France",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/25341.png",
+        "venue_id": 2812812712781
+    },
+    {
+        "id": 25342,
+        "name": "Maladrerie",
+        "code": null,
+        "country": "France",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/25342.png",
+        "venue_id": 27821782178278
+    },
+    {
+        "id": 25343,
+        "name": "Monnaie",
+        "code": null,
+        "country": "France",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/25343.png",
+        "venue_id": 23723782377283
+    },
+    {
+        "id": 25344,
+        "name": "Montferrand",
+        "code": null,
+        "country": "France",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/25344.png",
+        "venue_id": 278781278217812
+    },
+    {
+        "id": 25345,
+        "name": "Nousseviller",
+        "code": null,
+        "country": "France",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/25345.png",
+        "venue_id": 54879789798654
+    },
+    {
+        "id": 25346,
+        "name": "Noyelles sous Lens",
+        "code": null,
+        "country": "France",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/25346.png",
+        "venue_id": 48498489489489
+    },
+    {
+        "id": 25347,
+        "name": "Olympique Cazaux",
+        "code": null,
+        "country": "France",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/25347.png",
+        "venue_id": 213123213123
+    },
+    {
+        "id": 25348,
+        "name": "Roubaix",
+        "code": null,
+        "country": "France",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/25348.png",
+        "venue_id": 89898958055454
+    },
+    {
+        "id": 25349,
+        "name": "Ruffiac Malestroit",
+        "code": null,
+        "country": "France",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/25349.png",
+        "venue_id": 2183712983712983
+    },
+    {
+        "id": 25350,
+        "name": "Sauveteurs Brivois",
+        "code": null,
+        "country": "France",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/25350.png",
+        "venue_id": 23323211221212
+    },
+    {
+        "id": 25351,
+        "name": "Serquigny Nassandres",
+        "code": null,
+        "country": "France",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/25351.png",
+        "venue_id": 31288989489889
+    },
+    {
+        "id": 25352,
+        "name": "St-Just St-Rambert",
+        "code": null,
+        "country": "France",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/25352.png",
+        "venue_id": 3786238762837623
+    },
+    {
+        "id": 25354,
+        "name": "Thouars",
+        "code": null,
+        "country": "France",
+        "founded": 0,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/25354.png",
+        "venue_id": 21437
+    },
+    {
+        "id": 25355,
+        "name": "Valence FC",
+        "code": null,
+        "country": "France",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/25355.png",
+        "venue_id": 82872981971
+    },
+    {
+        "id": 25356,
+        "name": "Avenir Mourenxois",
+        "code": null,
+        "country": "France",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/25356.png",
+        "venue_id": 4344399439030934
+    },
+    {
+        "id": 25357,
+        "name": "Crépy-en-Valois",
+        "code": null,
+        "country": "France",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/25357.png",
+        "venue_id": 44343343434433
+    },
+    {
+        "id": 25358,
+        "name": "Grau-du-Roi",
+        "code": null,
+        "country": "France",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/25358.png",
+        "venue_id": 498794387983
+    },
+    {
+        "id": 25370,
+        "name": "RC Saint Joseph",
+        "code": null,
+        "country": "France",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/25370.png",
+        "venue_id": 21972918798127
+    }
+]

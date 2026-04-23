@@ -1,0 +1,1546 @@
+[
+    {
+        "id": 634,
+        "name": "Stade Raymond-Kopa",
+        "city": "Angers",
+        "capacity": 19000,
+        "latitude": 47.4610005,
+        "longitude": -0.5307170999999999
+    },
+    {
+        "id": 638,
+        "name": "Stade Matmut-Atlantique",
+        "city": "Bordeaux",
+        "capacity": 42115,
+        "latitude": 44.89735830000001,
+        "longitude": -0.5615863
+    },
+    {
+        "id": 19207,
+        "name": "Decathlon Arena – Stade Pierre-Mauroy",
+        "city": "Villeneuve d&apos;Ascq",
+        "capacity": 50083,
+        "latitude": 50.611355,
+        "longitude": 3.1326951
+    },
+    {
+        "id": 666,
+        "name": "Groupama Stadium",
+        "city": "Décines-Charpieu",
+        "capacity": 61556,
+        "latitude": 45.7652169,
+        "longitude": 4.9820302
+    },
+    {
+        "id": 12678,
+        "name": "Stade Orange Vélodrome",
+        "city": "Marseille",
+        "capacity": 67394,
+        "latitude": 43.269859,
+        "longitude": 5.3959015
+    },
+    {
+        "id": 20107,
+        "name": "Stade de la Mosson-Mondial 98",
+        "city": "Montpellier",
+        "capacity": 32939,
+        "latitude": 43.6221434,
+        "longitude": 3.8120627
+    },
+    {
+        "id": 662,
+        "name": "Stade de la Beaujoire - Louis Fonteneau",
+        "city": "Nantes",
+        "capacity": 38285,
+        "latitude": 47.2560233,
+        "longitude": -1.524675
+    },
+    {
+        "id": 663,
+        "name": "Allianz Riviera",
+        "city": "Nice",
+        "capacity": 35624,
+        "latitude": 43.7051012,
+        "longitude": 7.1926095
+    },
+    {
+        "id": 671,
+        "name": "Parc des Princes",
+        "city": "Paris",
+        "capacity": 47929,
+        "latitude": 48.8414374,
+        "longitude": 2.2530504
+    },
+    {
+        "id": 633,
+        "name": "Stade Crédit Agricole de la Licorne",
+        "city": "Amiens",
+        "capacity": 12999,
+        "latitude": 49.8941524,
+        "longitude": 2.2634041
+    },
+    {
+        "id": 642,
+        "name": "Stade Michel d'Ornano",
+        "city": "Caen",
+        "capacity": 20453,
+        "latitude": 49.179489,
+        "longitude": -0.3967966
+    },
+    {
+        "id": 645,
+        "name": "Stade Gaston-Gérard",
+        "city": "Dijon",
+        "capacity": 16098,
+        "latitude": 47.324369,
+        "longitude": 5.0683444
+    },
+    {
+        "id": 650,
+        "name": "Stade du Roudourou",
+        "city": "Guingamp",
+        "capacity": 19003,
+        "latitude": 48.5661437,
+        "longitude": -3.1643512
+    },
+    {
+        "id": 20470,
+        "name": "Stade Louis-II",
+        "city": "Monaco",
+        "capacity": 18523,
+        "latitude": 43.7275946,
+        "longitude": 7.4155435
+    },
+    {
+        "id": 22707,
+        "name": "Stade Auguste-Delaune",
+        "city": "Reims",
+        "capacity": 21684,
+        "latitude": 49.24705489999999,
+        "longitude": 4.0239334
+    },
+    {
+        "id": 680,
+        "name": "Roazhon Park",
+        "city": "Rennes",
+        "capacity": 31127,
+        "latitude": 48.1074881,
+        "longitude": -1.7128664
+    },
+    {
+        "id": 681,
+        "name": "Stade de la Meinau",
+        "city": "Strasbourg",
+        "capacity": 26109,
+        "latitude": 48.5600068,
+        "longitude": 7.755130899999999
+    },
+    {
+        "id": 682,
+        "name": "Stadium de Toulouse",
+        "city": "Toulouse",
+        "capacity": 33150,
+        "latitude": 43.5832972,
+        "longitude": 1.434048
+    },
+    {
+        "id": 21430,
+        "name": "Stade du Moustoir - Yves Allainmat",
+        "city": "Lorient",
+        "capacity": 18970,
+        "latitude": 47.7487474,
+        "longitude": -3.3692894
+    },
+    {
+        "id": 21428,
+        "name": "Stade Michel-Moretti",
+        "city": "Ajaccio",
+        "capacity": 10660,
+        "latitude": 41.9308256,
+        "longitude": 8.7767353
+    },
+    {
+        "id": 21429,
+        "name": "Stade Gabriel-Montpied",
+        "city": "Clermont-Ferrand",
+        "capacity": 13576,
+        "latitude": 45.815773,
+        "longitude": 3.1216781
+    },
+    {
+        "id": 649,
+        "name": "Stade des Alpes",
+        "city": "Grenoble",
+        "capacity": 20068,
+        "latitude": 45.1874353,
+        "longitude": 5.7401278
+    },
+    {
+        "id": 661,
+        "name": "Stade Marcel-Picot",
+        "city": "Tomblaine",
+        "capacity": 20087,
+        "latitude": 48.6954626,
+        "longitude": 6.210709899999999
+    },
+    {
+        "id": 668,
+        "name": "Stade de la Source",
+        "city": "Orléans",
+        "capacity": 7812,
+        "latitude": 47.8406445,
+        "longitude": 1.9416618
+    },
+    {
+        "id": 673,
+        "name": "Stade de Paris (Stade Bauer)",
+        "city": "Saint-Ouen",
+        "capacity": 10000,
+        "latitude": 48.9060706,
+        "longitude": 2.3410397
+    },
+    {
+        "id": 686,
+        "name": "Stade du Hainaut",
+        "city": "Valenciennes",
+        "capacity": 24926,
+        "latitude": 50.34842159999999,
+        "longitude": 3.5317617
+    },
+    {
+        "id": 641,
+        "name": "Stade Francis-Le Blé",
+        "city": "Brest",
+        "capacity": 15931,
+        "latitude": 48.4028861,
+        "longitude": -4.461456699999999
+    },
+    {
+        "id": 636,
+        "name": "Stade de l'Abbé Deschamps",
+        "city": "Auxerre",
+        "capacity": 23467,
+        "latitude": 47.7867476,
+        "longitude": 3.5885458
+    },
+    {
+        "id": 684,
+        "name": "Stade de l'Aube",
+        "city": "Troyes",
+        "capacity": 21877,
+        "latitude": 48.3075473,
+        "longitude": 4.0984348
+    },
+    {
+        "id": 652,
+        "name": "Stade Océane",
+        "city": "Le Havre",
+        "capacity": 25178,
+        "latitude": 49.4993417,
+        "longitude": 0.1692945
+    },
+    {
+        "id": 658,
+        "name": "Stade Saint-Symphorien",
+        "city": "Longeville-lès-Metz",
+        "capacity": 30000,
+        "latitude": 49.1099545,
+        "longitude": 6.157976700000001
+    },
+    {
+        "id": 665,
+        "name": "Stade René Gaillard",
+        "city": "Niort",
+        "capacity": 11352,
+        "latitude": 46.31708,
+        "longitude": -0.4895833000000001
+    },
+    {
+        "id": 12585,
+        "name": "Stade Charléty",
+        "city": "Paris",
+        "capacity": 20000,
+        "latitude": 48.8185279,
+        "longitude": 2.3466506
+    },
+    {
+        "id": 678,
+        "name": "Stade Auguste-Bonal",
+        "city": "Montbéliard",
+        "capacity": 20005,
+        "latitude": 47.5123863,
+        "longitude": 6.8105468
+    },
+    {
+        "id": 654,
+        "name": "Stade Bollaert-Delelis",
+        "city": "Lens",
+        "capacity": 41233,
+        "latitude": 50.4328789,
+        "longitude": 2.8150836
+    },
+    {
+        "id": 672,
+        "name": "Stade Robert Diochon",
+        "city": "Le Petit-Quevilly",
+        "capacity": 12018,
+        "latitude": 49.411043,
+        "longitude": 1.0707057
+    },
+    {
+        "id": 683,
+        "name": "Stade de la Vallée du Cher",
+        "city": "Tours",
+        "capacity": 16827,
+        "latitude": 47.3760663,
+        "longitude": 0.7281537
+    },
+    {
+        "id": 651,
+        "name": "Stade Francis Le Basser",
+        "city": "Laval",
+        "capacity": 18607,
+        "latitude": 48.0823136,
+        "longitude": -0.7547423999999999
+    },
+    {
+        "id": 676,
+        "name": "Stade Geoffroy-Guichard",
+        "city": "Saint-Ètienne",
+        "capacity": 41965,
+        "latitude": 45.460517,
+        "longitude": 4.389434
+    },
+    {
+        "id": 679,
+        "name": "Stade Charles Sage",
+        "city": "Drancy",
+        "capacity": 2500,
+        "latitude": 48.9262571,
+        "longitude": 2.4590691
+    },
+    {
+        "id": 1879,
+        "name": "Stade Antoine de Saint-Exupéry",
+        "city": "Marignane",
+        "capacity": 1500,
+        "latitude": 43.4190499,
+        "longitude": 5.212598
+    },
+    {
+        "id": 11898,
+        "name": "Stade Nouste Camp",
+        "city": "Bizanos",
+        "capacity": 4031,
+        "latitude": 43.3074859,
+        "longitude": -0.3251504
+    },
+    {
+        "id": 19206,
+        "name": "Stade Marie-Marvingt",
+        "city": "Le Mans",
+        "capacity": 25064,
+        "latitude": 47.9591696,
+        "longitude": 0.2231041
+    },
+    {
+        "id": 639,
+        "name": "Stade de la Libération",
+        "city": "Boulogne-sur-Mer",
+        "capacity": 15242,
+        "latitude": 50.7236509,
+        "longitude": 1.6195777
+    },
+    {
+        "id": 675,
+        "name": "Stade Paul Lignon",
+        "city": "Rodez",
+        "capacity": 5996,
+        "latitude": 44.3515659,
+        "longitude": 2.5636029
+    },
+    {
+        "id": 687,
+        "name": "Stade Armand Chouffet",
+        "city": "Villefranche-sur-Saône",
+        "capacity": 3200,
+        "latitude": 45.999982,
+        "longitude": 4.707279199999999
+    },
+    {
+        "id": 637,
+        "name": "Stade René Fenouillère",
+        "city": "Avranches",
+        "capacity": 5000,
+        "latitude": 48.6806705,
+        "longitude": -1.3592332
+    },
+    {
+        "id": 646,
+        "name": "Stade Marcel-Tribut",
+        "city": "Dunkerque",
+        "capacity": 4933,
+        "latitude": 51.0351563,
+        "longitude": 2.3896873
+    },
+    {
+        "id": 1977,
+        "name": "Stade Armand-Césari",
+        "city": "Furiani",
+        "capacity": 17000,
+        "latitude": 42.6514524,
+        "longitude": 9.4427034
+    },
+    {
+        "id": 1982,
+        "name": "Stade Massabielle",
+        "city": "Les Herbiers",
+        "capacity": 5000,
+        "latitude": 46.8777555,
+        "longitude": -1.0101434
+    },
+    {
+        "id": 1980,
+        "name": "Stade de la Colombière",
+        "city": "Épinal",
+        "capacity": 8250,
+        "latitude": 48.1787332,
+        "longitude": 6.4670519
+    },
+    {
+        "id": 1986,
+        "name": "Stade Lebon",
+        "city": "Angoulême",
+        "capacity": 6500,
+        "latitude": 45.6409897,
+        "longitude": 0.1776973
+    },
+    {
+        "id": 1979,
+        "name": "Parc des Sports",
+        "city": "Annecy",
+        "capacity": 15660,
+        "latitude": 45.9165548,
+        "longitude": 6.118079499999999
+    },
+    {
+        "id": 22708,
+        "name": "Stade Municipal 1",
+        "city": "Biars-sur-Cère",
+        "capacity": 1000,
+        "latitude": 44.9246965,
+        "longitude": 1.8442129
+    },
+    {
+        "id": 1995,
+        "name": "Stade Municipal",
+        "city": "Biesheim",
+        "capacity": 2000,
+        "latitude": 48.03977560000001,
+        "longitude": 7.550553499999999
+    },
+    {
+        "id": 19224,
+        "name": "Stade Auguste Delaune",
+        "city": "Bobigny",
+        "capacity": 2000,
+        "latitude": 48.9086173,
+        "longitude": 2.4600202
+    },
+    {
+        "id": 1999,
+        "name": "Stade Saint-Michel",
+        "city": "Canet-en-Roussillon",
+        "capacity": 3400,
+        "latitude": 42.7067164,
+        "longitude": 3.0034706
+    },
+    {
+        "id": 2010,
+        "name": "Stade Municipal",
+        "city": "Matoury",
+        "capacity": 2353,
+        "latitude": 4.8472209,
+        "longitude": -52.3298211
+    },
+    {
+        "id": 2016,
+        "name": "Stade Jean Laville",
+        "city": "Gueugnon",
+        "capacity": 13872,
+        "latitude": 46.5951147,
+        "longitude": 4.0559848
+    },
+    {
+        "id": 2017,
+        "name": "Parc des Sports",
+        "city": "Haguenau",
+        "capacity": 5000,
+        "latitude": 48.8175477,
+        "longitude": 7.775522400000001
+    },
+    {
+        "id": 2020,
+        "name": "Stade Albert Schweitzer",
+        "city": "Illkirch Graffenstaden",
+        "capacity": 1500,
+        "latitude": 48.5330293,
+        "longitude": 7.713799499999999
+    },
+    {
+        "id": 2025,
+        "name": "Stade Charles Massot",
+        "city": "Espaly-Saint-Marcel",
+        "capacity": 4800,
+        "latitude": 45.0459995,
+        "longitude": 3.8738082
+    },
+    {
+        "id": 2035,
+        "name": "Stade de Mané-Braz",
+        "city": "Inzinzac-Lochrist",
+        "capacity": 2500,
+        "latitude": 47.8288253,
+        "longitude": -3.2602523
+    },
+    {
+        "id": 2043,
+        "name": "Stade Pierre Pibarot",
+        "city": "Alès",
+        "capacity": 12000,
+        "latitude": 44.1187349,
+        "longitude": 4.088947699999999
+    },
+    {
+        "id": 21431,
+        "name": "Stade Georges-Pompidou",
+        "city": "Valence",
+        "capacity": 15128,
+        "latitude": 44.9456256,
+        "longitude": 4.9190371
+    },
+    {
+        "id": 2047,
+        "name": "Stade Paul Gasser",
+        "city": "Raon-l&apos;Etape",
+        "capacity": 6000,
+        "latitude": 48.41607639999999,
+        "longitude": 6.830564
+    },
+    {
+        "id": 2050,
+        "name": "Stade Louis Villemer",
+        "city": "Saint-Lô",
+        "capacity": 4659,
+        "latitude": 49.1036223,
+        "longitude": -1.0640055
+    },
+    {
+        "id": 2051,
+        "name": "Stade de Marville",
+        "city": "Saint-Malo",
+        "capacity": 3000,
+        "latitude": 48.6429863,
+        "longitude": -2.007042
+    },
+    {
+        "id": 2052,
+        "name": "Stade Gaston Bonnet",
+        "city": "Saint-Omer",
+        "capacity": 4600,
+        "latitude": 50.7418916,
+        "longitude": 2.2525268
+    },
+    {
+        "id": 2059,
+        "name": "Stade Philibert Schneider",
+        "city": "Beaucaire",
+        "capacity": 2000,
+        "latitude": 43.8116442,
+        "longitude": 4.6429893
+    },
+    {
+        "id": 2061,
+        "name": "Stade Robert Sayer",
+        "city": "Thaon-lès-Vosges",
+        "capacity": 3000,
+        "latitude": 48.2453873,
+        "longitude": 6.4294525
+    },
+    {
+        "id": 2064,
+        "name": "Stade des Échalonnières",
+        "city": "Vertou",
+        "capacity": 3500,
+        "latitude": 47.176296,
+        "longitude": -1.4662638
+    },
+    {
+        "id": 2065,
+        "name": "Stade de la Rabine",
+        "city": "Vannes",
+        "capacity": 9143,
+        "latitude": 47.6518469,
+        "longitude": -2.7610331
+    },
+    {
+        "id": 2066,
+        "name": "Stade Emmanuel Murzeau",
+        "city": "Fontenay-le-Comte",
+        "capacity": 3500,
+        "latitude": 46.4625903,
+        "longitude": -0.8100518
+    },
+    {
+        "id": 18861,
+        "name": "Stade Jean Bouin",
+        "city": "Paris",
+        "capacity": 20000,
+        "latitude": 48.8433145,
+        "longitude": 2.2529449
+    },
+    {
+        "id": 2071,
+        "name": "Stade Municipal de Vitré",
+        "city": "Vitré",
+        "capacity": 3400,
+        "latitude": 48.1185577,
+        "longitude": -1.205997
+    },
+    {
+        "id": 1278178217812,
+        "name": "Sporting Club Anduzien",
+        "city": "Anduze",
+        "capacity": null,
+        "latitude": 44.052618,
+        "longitude": 3.9901008
+    },
+    {
+        "id": 2078,
+        "name": "Stade Degouve Brabant",
+        "city": "Arras",
+        "capacity": 3000,
+        "latitude": 50.2844458,
+        "longitude": 2.765724
+    },
+    {
+        "id": 2079,
+        "name": "Stade André Karman",
+        "city": "Aubervilliers",
+        "capacity": 2500,
+        "latitude": 48.9090582,
+        "longitude": 2.3825964
+    },
+    {
+        "id": 12036,
+        "name": "Stade Pierre Brisson",
+        "city": "Beauvais",
+        "capacity": 10178,
+        "latitude": 49.43139040000001,
+        "longitude": 2.114426
+    },
+    {
+        "id": 21432,
+        "name": "Stade de Terves 1",
+        "city": "Bressuire",
+        "capacity": 1500,
+        "latitude": 46.8016805,
+        "longitude": -0.5102919
+    },
+    {
+        "id": 2089,
+        "name": "Stade des Bourgognes",
+        "city": "Vineuil-Saint-Firmin",
+        "capacity": 2400,
+        "latitude": 49.2013555,
+        "longitude": 2.4690241
+    },
+    {
+        "id": 2091,
+        "name": "Stade Georges Dodin",
+        "city": "Chaumont",
+        "capacity": 1500,
+        "latitude": 48.1123564,
+        "longitude": 5.1117295
+    },
+    {
+        "id": 1287127871287812,
+        "name": "Stade Intercommunal de Cluses",
+        "city": "Cluses",
+        "capacity": null,
+        "latitude": 46.06418900000001,
+        "longitude": 6.561488
+    },
+    {
+        "id": 2093,
+        "name": "Complexe Sportif Capitany 1",
+        "city": "Colomiers",
+        "capacity": 2000,
+        "latitude": 43.6142641,
+        "longitude": 1.3472394
+    },
+    {
+        "id": 12588,
+        "name": "Stade Didier Eloy",
+        "city": "Feignies",
+        "capacity": 2300,
+        "latitude": 50.2932546,
+        "longitude": 3.9240642
+    },
+    {
+        "id": 2096,
+        "name": "Stade Roger Couderc",
+        "city": "Feytiat",
+        "capacity": 2000,
+        "latitude": 45.805617,
+        "longitude": 1.3260107
+    },
+    {
+        "id": 12132,
+        "name": "Terrain Walter Felder",
+        "city": "Fleury Merogis",
+        "capacity": 1000,
+        "latitude": 48.63333830000001,
+        "longitude": 2.3617194
+    },
+    {
+        "id": 10817,
+        "name": "Stade Charles Galletti",
+        "city": "Lucciana",
+        "capacity": 1500,
+        "latitude": 42.5326463,
+        "longitude": 9.449904799999999
+    },
+    {
+        "id": 10648,
+        "name": "Stade Léon Gelot",
+        "city": "Grandvillars",
+        "capacity": 1000,
+        "latitude": 47.5387967,
+        "longitude": 6.959178199999999
+    },
+    {
+        "id": 22710,
+        "name": "Stade Thomas Granjon",
+        "city": "Saint-Symphorien-sur-Coise",
+        "capacity": 1000,
+        "latitude": 45.63309839999999,
+        "longitude": 4.4600962
+    },
+    {
+        "id": 121287127871827,
+        "name": "Stade Municipal Maurice Baquet",
+        "city": "Houilles",
+        "capacity": null,
+        "latitude": 48.926202,
+        "longitude": 2.1710967
+    },
+    {
+        "id": 2104,
+        "name": "Stade Jean-Marc Salinier 1",
+        "city": "Les Ulis",
+        "capacity": 2500,
+        "latitude": 48.68091399999999,
+        "longitude": 2.1743158
+    },
+    {
+        "id": 2106,
+        "name": "Stade Francis Turcan",
+        "city": "Martigues",
+        "capacity": 11500,
+        "latitude": 43.4071018,
+        "longitude": 5.049135
+    },
+    {
+        "id": 332823893298,
+        "name": "Stade Joseph-Antoine Cruchon",
+        "city": "Mérignac",
+        "capacity": null,
+        "latitude": 44.8152122,
+        "longitude": -0.6475107999999999
+    },
+    {
+        "id": 3232393298,
+        "name": "Stade Louise Michelet",
+        "city": "Amiens",
+        "capacity": null,
+        "latitude": 49.9101557,
+        "longitude": 2.2895062
+    },
+    {
+        "id": 2112,
+        "name": "Stade Jules Ladoumègue",
+        "city": "Romorantin-Lanthenay",
+        "capacity": 5280,
+        "latitude": 47.3702026,
+        "longitude": 1.7395932
+    },
+    {
+        "id": 2113,
+        "name": "Stade du Pigeon Blanc",
+        "city": "Locminé",
+        "capacity": 2350,
+        "latitude": 47.8811913,
+        "longitude": -2.8302495
+    },
+    {
+        "id": 2114,
+        "name": "Stade des Rives du Thouet",
+        "city": "Saumur",
+        "capacity": 3000,
+        "latitude": 47.2453712,
+        "longitude": -0.0811232
+    },
+    {
+        "id": 2118,
+        "name": "Stade Fred Aubert",
+        "city": "Saint-Brieuc",
+        "capacity": 13500,
+        "latitude": 48.508806,
+        "longitude": -2.7438121
+    },
+    {
+        "id": 2125,
+        "name": "Stade Jacques-Fould",
+        "city": "Alençon",
+        "capacity": 2000,
+        "latitude": 48.4411037,
+        "longitude": 0.1024446
+    },
+    {
+        "id": 2131,
+        "name": "Stade André Heurtematte",
+        "city": "Dives-sur-Mer",
+        "capacity": 2000,
+        "latitude": 49.2806079,
+        "longitude": -0.1074587
+    },
+    {
+        "id": 2132,
+        "name": "Stade Parsemain",
+        "city": "Fos-sur-Mer",
+        "capacity": 17363,
+        "latitude": 43.469034,
+        "longitude": 4.9491936
+    },
+    {
+        "id": 2136,
+        "name": "Stade Édouard Fenal",
+        "city": "Lunéville",
+        "capacity": 1800,
+        "latitude": 48.5986014,
+        "longitude": 6.5074042
+    },
+    {
+        "id": 2137,
+        "name": "Complexe Champlevert - Terrain Paul Guérin",
+        "city": "Mâcon",
+        "capacity": 2000,
+        "latitude": 46.2980795,
+        "longitude": 4.8108221
+    },
+    {
+        "id": 2143,
+        "name": "Stade Michel Volnay",
+        "city": "Saint-Pierre",
+        "capacity": 8000,
+        "latitude": -21.3388502,
+        "longitude": 55.4672078
+    },
+    {
+        "id": 2145,
+        "name": "Stade Omnisports",
+        "city": "Sarre-Union",
+        "capacity": 3000,
+        "latitude": 48.9350056,
+        "longitude": 7.0959821
+    },
+    {
+        "id": 2150,
+        "name": "Stade Roger Salengro",
+        "city": "Rennes",
+        "capacity": 3000,
+        "latitude": 48.0821917,
+        "longitude": -1.6651174
+    },
+    {
+        "id": 3505,
+        "name": "Parc des Sports",
+        "city": "Avignon",
+        "capacity": 17518,
+        "latitude": 43.9282769,
+        "longitude": 4.8431032
+    },
+    {
+        "id": 12095,
+        "name": "Stade Jacques Couvret",
+        "city": "Chartres",
+        "capacity": 4000,
+        "latitude": 48.4609801,
+        "longitude": 1.4850402
+    },
+    {
+        "id": 6402,
+        "name": "Stade Ludovic Giuly",
+        "city": "Chasselay",
+        "capacity": 5000,
+        "latitude": 45.8809466,
+        "longitude": 4.7695963
+    },
+    {
+        "id": 21433,
+        "name": "Stade Edouard Guillon Annexe 1",
+        "city": "Molinges",
+        "capacity": 2080,
+        "latitude": 46.3533858,
+        "longitude": 5.7569792
+    },
+    {
+        "id": 6409,
+        "name": "Stade Louis Sanguin",
+        "city": "Agde",
+        "capacity": 3500,
+        "latitude": 43.3122558,
+        "longitude": 3.4844243
+    },
+    {
+        "id": 37828437834784,
+        "name": "Complexe Isabelle Wendling",
+        "city": "Boulay-Moselle",
+        "capacity": null,
+        "latitude": 49.18435760000001,
+        "longitude": 6.483848699999999
+    },
+    {
+        "id": 6411,
+        "name": "Stade de Chantereine",
+        "city": "Bourgoin-Jallieu",
+        "capacity": 1500,
+        "latitude": 45.6049059,
+        "longitude": 5.2607838
+    },
+    {
+        "id": 6416,
+        "name": "Stade du Clos Gastel",
+        "city": "Dinan",
+        "capacity": 2830,
+        "latitude": 48.4434647,
+        "longitude": -2.0702993
+    },
+    {
+        "id": 6421,
+        "name": "Stade Gerard Houllier",
+        "city": "Le Touquet-Paris-Plage",
+        "capacity": 2000,
+        "latitude": 50.51836549999999,
+        "longitude": 1.5988279
+    },
+    {
+        "id": 12586,
+        "name": "Stade d'Honneur Paul Desgouillons",
+        "city": "Montlhéry",
+        "capacity": 3000,
+        "latitude": 48.6378233,
+        "longitude": 2.2773998
+    },
+    {
+        "id": 498749874398734,
+        "name": "Stade Paimpolais FC",
+        "city": "Paimpol",
+        "capacity": null,
+        "latitude": 48.7841449,
+        "longitude": -3.0517792
+    },
+    {
+        "id": 6424,
+        "name": "Stade Rémy Lambert",
+        "city": "Sablé-sur-Sarthe",
+        "capacity": 15000,
+        "latitude": 47.8299025,
+        "longitude": -0.3208179
+    },
+    {
+        "id": 10831,
+        "name": "Stade Pen Ar Guéar N°1",
+        "city": "Milizac",
+        "capacity": 1000,
+        "latitude": 48.461799,
+        "longitude": -4.5611802
+    },
+    {
+        "id": 6991,
+        "name": "Stade Henri Desgrange",
+        "city": "La Roche-sur-Yon",
+        "capacity": 7000,
+        "latitude": 46.6707362,
+        "longitude": -1.4412999
+    },
+    {
+        "id": 7001,
+        "name": "Stade Pierre de Coubertin",
+        "city": "Cannes",
+        "capacity": 11211,
+        "latitude": 43.5526165,
+        "longitude": 6.9657937
+    },
+    {
+        "id": 12587,
+        "name": "Stade Municipal Robert Bobin",
+        "city": "Dole",
+        "capacity": 3000,
+        "latitude": 47.089955,
+        "longitude": 5.4987714
+    },
+    {
+        "id": 21434,
+        "name": "Stade De La Combe Bourdon 1",
+        "city": "Valdahon",
+        "capacity": 1000,
+        "latitude": 47.15392,
+        "longitude": 6.35396
+    },
+    {
+        "id": 10836,
+        "name": "Plaine De Jeux Mager 1",
+        "city": "Chambery",
+        "capacity": 1200,
+        "latitude": 45.5782448,
+        "longitude": 5.888777399999999
+    },
+    {
+        "id": 12099,
+        "name": "Stade des Grangettes",
+        "city": "Rumilly",
+        "capacity": 2124,
+        "latitude": 45.8625927,
+        "longitude": 5.953356500000001
+    },
+    {
+        "id": 2081,
+        "name": "Stade Didier Deschamps",
+        "city": "Bayonne",
+        "capacity": 4700,
+        "latitude": 43.4944451,
+        "longitude": -1.4567689
+    },
+    {
+        "id": 19033,
+        "name": "Stade de Saint-André-d'Ornay",
+        "city": "La Roche-sur-Yon",
+        "capacity": 1800,
+        "latitude": 46.6681667,
+        "longitude": -1.4537181
+    },
+    {
+        "id": 8479,
+        "name": "Colmar Stadium",
+        "city": "Colmar",
+        "capacity": 5400,
+        "latitude": 48.087366,
+        "longitude": 7.3764403
+    },
+    {
+        "id": 8485,
+        "name": "Stade Auguste Delaune",
+        "city": "Brétigny-sur-Orge",
+        "capacity": 2000,
+        "latitude": 48.6112551,
+        "longitude": 2.3181903
+    },
+    {
+        "id": 20392,
+        "name": "Stade du Viouzou 2",
+        "city": "Espaly-Saint-Marcel",
+        "capacity": 1000,
+        "latitude": 45.0401602,
+        "longitude": 3.8712527
+    },
+    {
+        "id": 92387398273987,
+        "name": "Amicale Sportive Ginglin Cesson",
+        "city": "Saint-Brieuc",
+        "capacity": null,
+        "latitude": 48.5164586,
+        "longitude": -2.7401814
+    },
+    {
+        "id": 17822182128172,
+        "name": "ESB Foot Marboz",
+        "city": "Marboz",
+        "capacity": null,
+        "latitude": 46.3463084,
+        "longitude": 5.2607084
+    },
+    {
+        "id": 387237627762,
+        "name": "Stade Fred-Aubert",
+        "city": "Saint-Brieuc",
+        "capacity": 11000,
+        "latitude": 48.508806,
+        "longitude": -2.7438121
+    },
+    {
+        "id": 19041,
+        "name": "Stade Municipal",
+        "city": "Cesson-Sévigné",
+        "capacity": 1571,
+        "latitude": 48.1179487,
+        "longitude": -1.597523
+    },
+    {
+        "id": 8509,
+        "name": "Stade Santos Manfredi",
+        "city": "Corté",
+        "capacity": 2000,
+        "latitude": 42.3028583,
+        "longitude": 9.1564494
+    },
+    {
+        "id": 8513,
+        "name": "Stade Michelon",
+        "city": "Marmande",
+        "capacity": 1500,
+        "latitude": 44.5142114,
+        "longitude": 0.1500557
+    },
+    {
+        "id": 8530,
+        "name": "Stade René Hologne",
+        "city": "Vesoul",
+        "capacity": 6275,
+        "latitude": 47.62305,
+        "longitude": 6.166379099999999
+    },
+    {
+        "id": 22128,
+        "name": "Complexe Sportif Des Chevrets 3",
+        "city": "Saint-Philbert-de-Grand-Lieu",
+        "capacity": 1000,
+        "latitude": 47.0438301,
+        "longitude": -1.6475963
+    },
+    {
+        "id": 21054,
+        "name": "Stade Maurice Jean-Pierre",
+        "city": "Le Cannet",
+        "capacity": 1500,
+        "latitude": 43.5773028,
+        "longitude": 7.006256199999999
+    },
+    {
+        "id": 11490,
+        "name": "Stade Claude Gélie",
+        "city": "Sainte-Marie",
+        "capacity": 432,
+        "latitude": 14.7814491,
+        "longitude": -60.99350769999999
+    },
+    {
+        "id": 872383278923,
+        "name": "Stade de l'Olympique Raismois",
+        "city": "Raismes",
+        "capacity": null,
+        "latitude": 50.383514,
+        "longitude": 3.4967493
+    },
+    {
+        "id": 22714,
+        "name": "Stade Charles Trevoux",
+        "city": "Craponne",
+        "capacity": 2000,
+        "latitude": 45.74055620000001,
+        "longitude": 4.7096121
+    },
+    {
+        "id": 20394,
+        "name": "Stade de la Redoute A",
+        "city": "Saint-Denis",
+        "capacity": 2000,
+        "latitude": -20.8845793,
+        "longitude": 55.4420757
+    },
+    {
+        "id": 22715,
+        "name": "Stade Hermant-Deprez",
+        "city": "Bethune",
+        "capacity": 2000,
+        "latitude": 50.5328684,
+        "longitude": 2.6328192
+    },
+    {
+        "id": 2123,
+        "name": "Stade de Brouhot",
+        "city": "Vierzon",
+        "capacity": 1863,
+        "latitude": 47.2354216,
+        "longitude": 2.066287
+    },
+    {
+        "id": 6408,
+        "name": "Stade Marcel Cerdan",
+        "city": "Carnoux-en-Provence",
+        "capacity": 1700,
+        "latitude": 43.2497986,
+        "longitude": 5.5519058
+    },
+    {
+        "id": 490480983409834,
+        "name": "Stade Charles Rigoulot",
+        "city": "Paris",
+        "capacity": null,
+        "latitude": 48.8264355,
+        "longitude": 2.2990797
+    },
+    {
+        "id": 48674387834973496,
+        "name": "Terrain de Football de Liancourt Clermont",
+        "city": "Liancourt",
+        "capacity": null,
+        "latitude": 49.3349639,
+        "longitude": 2.4664961
+    },
+    {
+        "id": 21052,
+        "name": "Stade Auguste Damette 1",
+        "city": "Hazebrouck",
+        "capacity": 3000,
+        "latitude": 50.7189245,
+        "longitude": 2.5379639
+    },
+    {
+        "id": 22716,
+        "name": "Stade Robert Brettes 1",
+        "city": "Bordeaux",
+        "capacity": 3558,
+        "latitude": 44.845839,
+        "longitude": -0.6521222999999999
+    },
+    {
+        "id": 2121,
+        "name": "Stade Pater Te Hono Nui",
+        "city": "Papeete",
+        "capacity": 15000,
+        "latitude": -17.5398487,
+        "longitude": -149.5519529
+    },
+    {
+        "id": 21435,
+        "name": "Stade Alain Mimoun",
+        "city": "Noisy-le-Grand",
+        "capacity": 1000,
+        "latitude": 48.8347864,
+        "longitude": 2.5576366
+    },
+    {
+        "id": 20396,
+        "name": "Stade de Guentrange",
+        "city": "Thionville",
+        "capacity": 3025,
+        "latitude": 49.3664978,
+        "longitude": 6.140534
+    },
+    {
+        "id": 8497,
+        "name": "Stade de l'Epopée",
+        "city": "Calais",
+        "capacity": 12430,
+        "latitude": 50.9570227,
+        "longitude": 1.901826
+    },
+    {
+        "id": 332932023903,
+        "name": "Stade Municipal d'Aytré",
+        "city": "Aytré",
+        "capacity": null,
+        "latitude": 46.1305162,
+        "longitude": -1.1259431
+    },
+    {
+        "id": 21436,
+        "name": "Stade du Petit Bois",
+        "city": "Charleville-Mézières",
+        "capacity": 4000,
+        "latitude": 49.7723521,
+        "longitude": 4.729263899999999
+    },
+    {
+        "id": 20054,
+        "name": "Parc des Sports",
+        "city": "Molsheim",
+        "capacity": 3000,
+        "latitude": 48.5314788,
+        "longitude": 7.5075422
+    },
+    {
+        "id": 4434390349034,
+        "name": "Stade du Vercors",
+        "city": "Grenoble",
+        "capacity": null,
+        "latitude": 45.1722448,
+        "longitude": 5.7490181
+    },
+    {
+        "id": 4434398438934,
+        "name": "Stade Michel Brémaud",
+        "city": "Beaumont",
+        "capacity": null,
+        "latitude": 46.7266591,
+        "longitude": 0.4453395
+    },
+    {
+        "id": 121232131233,
+        "name": "Stade Des Fonderies",
+        "city": "Blénod-lès-Pont-à-Mousson",
+        "capacity": null,
+        "latitude": 48.8900789,
+        "longitude": 6.052579700000001
+    },
+    {
+        "id": 33233232232332,
+        "name": "Stade Municipal Roland Carlier",
+        "city": "Bolbec",
+        "capacity": null,
+        "latitude": 49.5798272,
+        "longitude": 0.4863888
+    },
+    {
+        "id": 434343434343,
+        "name": "Stadium Stecy Suisse",
+        "city": "Calais",
+        "capacity": null,
+        "latitude": 50.94925600000001,
+        "longitude": 1.9027473
+    },
+    {
+        "id": 545454342323,
+        "name": "Stade Christian DUMAS et Stade Josy QUELIN",
+        "city": "Sébazac-Concourès",
+        "capacity": null,
+        "latitude": 44.411337,
+        "longitude": 2.603991
+    },
+    {
+        "id": 995848954854985,
+        "name": "Stade Adrien Lacore",
+        "city": "Couzeix",
+        "capacity": null,
+        "latitude": 45.8777012,
+        "longitude": 1.2431509
+    },
+    {
+        "id": 321982179812,
+        "name": "Stade Anstaing",
+        "city": "Anstaing",
+        "capacity": null,
+        "latitude": 50.6103938,
+        "longitude": 3.1927316
+    },
+    {
+        "id": 3390903290390309,
+        "name": "Desserte Collège et Complexe Sportif",
+        "city": "Obernai",
+        "capacity": null,
+        "latitude": 48.4582892,
+        "longitude": 7.490507300000001
+    },
+    {
+        "id": 4344334434334,
+        "name": "Assoc Football Club Fief Geste",
+        "city": "Montrevault-sur-Èvre",
+        "capacity": null,
+        "latitude": 47.22330849999999,
+        "longitude": -1.0451719
+    },
+    {
+        "id": 238712987312987330,
+        "name": "FC Foron",
+        "city": "La Roche-sur-Foron",
+        "capacity": null,
+        "latitude": 46.07083910000001,
+        "longitude": 6.3165454
+    },
+    {
+        "id": 218321893721,
+        "name": "FC Freyming",
+        "city": "Freyming-Merlebach",
+        "capacity": null,
+        "latitude": 49.1462195,
+        "longitude": 6.790322499999999
+    },
+    {
+        "id": 43432322323,
+        "name": "Stade Paul Melinon",
+        "city": "Guéreins",
+        "capacity": null,
+        "latitude": 46.1049728,
+        "longitude": 4.7805075
+    },
+    {
+        "id": 3233232323234,
+        "name": "Stade Beaupré",
+        "city": "Haubourdin",
+        "capacity": null,
+        "latitude": 50.6009198,
+        "longitude": 2.9895613
+    },
+    {
+        "id": 2172182718712,
+        "name": "F.C. Hettange-Grande",
+        "city": "Hettange-Grande",
+        "capacity": null,
+        "latitude": 49.4090597,
+        "longitude": 6.155549
+    },
+    {
+        "id": 892928182198912,
+        "name": "Stade Municipal de Football Claude Buisine",
+        "city": "Labourse",
+        "capacity": null,
+        "latitude": 50.501126,
+        "longitude": 2.6767839
+    },
+    {
+        "id": 2812812712781,
+        "name": "Lempdes Sport Football",
+        "city": "Lempdes",
+        "capacity": null,
+        "latitude": 45.782182,
+        "longitude": 3.1977859
+    },
+    {
+        "id": 27821782178278,
+        "name": "Maladrerie",
+        "city": "Caen",
+        "capacity": null,
+        "latitude": 49.1909814,
+        "longitude": -0.4054595
+    },
+    {
+        "id": 23723782377283,
+        "name": "US Monnaie Football",
+        "city": "Monnaie",
+        "capacity": null,
+        "latitude": 47.5057905,
+        "longitude": 0.7888057
+    },
+    {
+        "id": 278781278217812,
+        "name": "Stade de Saint-Louis-de-Montferrand",
+        "city": "Saint-Louis-de-Montferrand",
+        "capacity": null,
+        "latitude": 44.954166,
+        "longitude": -0.534732
+    },
+    {
+        "id": 54879789798654,
+        "name": "Stade de Foot",
+        "city": "Nousseviller-Saint-Nabor",
+        "capacity": null,
+        "latitude": 49.1180381,
+        "longitude": 6.9706606
+    },
+    {
+        "id": 48498489489489,
+        "name": "Stade Auguste Gallet",
+        "city": "Noyelles-sous-Lens",
+        "capacity": null,
+        "latitude": 50.4282192,
+        "longitude": 2.8754929
+    },
+    {
+        "id": 213123213123,
+        "name": "Cazaux Olympique Football",
+        "city": "La Teste-de-Buch",
+        "capacity": null,
+        "latitude": 44.5443545,
+        "longitude": -1.1426505
+    },
+    {
+        "id": 89898958055454,
+        "name": "Stade Amédée-Prouvost",
+        "city": "Wattrelos",
+        "capacity": null,
+        "latitude": 50.7048633,
+        "longitude": 3.1943529
+    },
+    {
+        "id": 2183712983712983,
+        "name": "Ruffiac Malestroit Foot local",
+        "city": "Malestroit",
+        "capacity": null,
+        "latitude": 47.8090628,
+        "longitude": -2.377207
+    },
+    {
+        "id": 23323211221212,
+        "name": "Complexe Multisport de Saint-Germain-Laprade",
+        "city": "Saint-Germain-Laprade",
+        "capacity": null,
+        "latitude": 45.0465895,
+        "longitude": 3.9751646
+    },
+    {
+        "id": 31288989489889,
+        "name": "Football Club Serquigny",
+        "city": "Serquigny",
+        "capacity": null,
+        "latitude": 49.1051254,
+        "longitude": 0.7220399
+    },
+    {
+        "id": 3786238762837623,
+        "name": "Complexe Sportif des Unchats",
+        "city": "Saint-Just-Saint-Rambert",
+        "capacity": null,
+        "latitude": 45.4969913,
+        "longitude": 4.2403892
+    },
+    {
+        "id": 21437,
+        "name": "Stade du Grand Bournais",
+        "city": "Thouars",
+        "capacity": 1500,
+        "latitude": 46.98718419999999,
+        "longitude": -0.2129667
+    },
+    {
+        "id": 82872981971,
+        "name": "Stade Georges Pompidou",
+        "city": "Valence",
+        "capacity": null,
+        "latitude": 44.9456256,
+        "longitude": 4.9190371
+    },
+    {
+        "id": 4344399439030934,
+        "name": "Stade de Mourenx",
+        "city": "Mourenx",
+        "capacity": null,
+        "latitude": 43.376459,
+        "longitude": -0.6265927
+    },
+    {
+        "id": 44343343434433,
+        "name": "Complexe Sportif Patrice Cauvin",
+        "city": "Crépy",
+        "capacity": null,
+        "latitude": 49.6136603,
+        "longitude": 3.5148953
+    },
+    {
+        "id": 498794387983,
+        "name": "Stade Michel Mézy",
+        "city": "Le Grau-du-Roi",
+        "capacity": 3500,
+        "latitude": 43.5374653,
+        "longitude": 4.1438976
+    },
+    {
+        "id": 21972918798127,
+        "name": "Stade Henri Murano",
+        "city": "Saint-Joseph",
+        "capacity": 2000,
+        "latitude": 14.6738877,
+        "longitude": -61.03537240000001
+    }
+]
