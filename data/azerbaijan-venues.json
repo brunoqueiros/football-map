@@ -1,0 +1,210 @@
+[
+    {
+        "id": 158,
+        "name": "Şəhər stadionu",
+        "city": "Qəbələ",
+        "capacity": 5000,
+        "latitude": 40.98437940000001,
+        "longitude": 47.8331104
+    },
+    {
+        "id": 4174,
+        "name": "Binə qəsəbə stadionu",
+        "city": "Binə",
+        "capacity": 600,
+        "latitude": 40.44800770000001,
+        "longitude": 50.0784134
+    },
+    {
+        "id": 4128,
+        "name": "Lökbatan OIK stadionu",
+        "city": "Lökbatan",
+        "capacity": 3000,
+        "latitude": 40.323015,
+        "longitude": 49.73617429999999
+    },
+    {
+        "id": 4132,
+        "name": "Şəhər stadionu",
+        "city": "Zaqatala",
+        "capacity": 3500,
+        "latitude": 41.6397213,
+        "longitude": 46.65230649999999
+    },
+    {
+        "id": 20247,
+        "name": "Saatli Rayon Olimpiya Idman Kompleksi Stadionu",
+        "city": "Saatli",
+        "capacity": 2000,
+        "latitude": 39.9449119,
+        "longitude": 48.3496908
+    },
+    {
+        "id": 4176,
+        "name": "Yaşar Məmmədzadə adına şəhər stadionu",
+        "city": "Mingəçevir",
+        "capacity": 16000,
+        "latitude": 40.7629903,
+        "longitude": 47.04241529999999
+    },
+    {
+        "id": 7513,
+        "name": "Şəhər stadionu",
+        "city": "Evlakh",
+        "capacity": 4980,
+        "latitude": 40.6029711,
+        "longitude": 47.1616237
+    },
+    {
+        "id": 554445654564,
+        "name": "Agsu City Stadium (Ağsu Şəhər Stadionu)",
+        "city": "Agsu",
+        "capacity": 30000,
+        "latitude": 40.5765999,
+        "longitude": 48.3820975
+    },
+    {
+        "id": 66887977878998700,
+        "name": "Bine Stadium (Binə qəsəbə stadionu)",
+        "city": "Baku",
+        "capacity": 600,
+        "latitude": 40.44800770000001,
+        "longitude": 50.0784134
+    },
+    {
+        "id": 200056465464,
+        "name": "Shamakhi Olympic Sports Complex Stadium (Şamaxı OİK Stadionu)",
+        "city": "Shamakhi",
+        "capacity": 2000,
+        "latitude": 40.640632,
+        "longitude": 48.6354926
+    },
+    {
+        "id": 5799,
+        "name": "Tofiq Bəhramov adına Respublika stadionu",
+        "city": "Baku",
+        "capacity": 31850,
+        "latitude": 40.3973253,
+        "longitude": 49.8524143
+    },
+    {
+        "id": 4134,
+        "name": "Zirə qəsəbə stadionu",
+        "city": "Zirya",
+        "capacity": 3000,
+        "latitude": 40.359048,
+        "longitude": 50.2931061
+    },
+    {
+        "id": 155,
+        "name": "ASK Arena",
+        "city": "Baku",
+        "capacity": 8152,
+        "latitude": 40.4110883,
+        "longitude": 49.8977458
+    },
+    {
+        "id": 20297,
+        "name": "Neftçi Arena",
+        "city": "Baku",
+        "capacity": 15000,
+        "latitude": 40.3999309,
+        "longitude": 49.9436244
+    },
+    {
+        "id": 12459,
+        "name": "ASCO Arena",
+        "city": "Baku",
+        "capacity": 6000,
+        "latitude": 40.3321607,
+        "longitude": 49.8177066
+    },
+    {
+        "id": 4125,
+        "name": "Şəhər stadionu",
+        "city": "Gəncə",
+        "capacity": 26120,
+        "latitude": 40.7061619,
+        "longitude": 46.3620053
+    },
+    {
+        "id": 4131,
+        "name": "Şəhər stadionu",
+        "city": "Tovuz",
+        "capacity": 6800,
+        "latitude": 40.9921,
+        "longitude": 45.6251805
+    },
+    {
+        "id": 4135,
+        "name": "Kapital Bank Arena",
+        "city": "Sumqayıt",
+        "capacity": 3000,
+        "latitude": 40.6032274,
+        "longitude": 49.67309880000001
+    },
+    {
+        "id": 4178,
+        "name": "Şövkət Orduxanov adına stadionu",
+        "city": "Gusar",
+        "capacity": 6000,
+        "latitude": 41.4193881,
+        "longitude": 48.4203586
+    },
+    {
+        "id": 4179,
+        "name": "Şəmkir Olimpiya İdman Kompleksinin stadionu",
+        "city": "Şəmkir",
+        "capacity": 11050,
+        "latitude": 40.8544671,
+        "longitude": 46.0358246
+    },
+    {
+        "id": 7512,
+        "name": "İbrahimxəlil Axundlu adına Naxçıvan şəhər stadionu",
+        "city": "Nakchivan",
+        "capacity": 12800,
+        "latitude": 39.219327,
+        "longitude": 45.4133602
+    },
+    {
+        "id": 2783,
+        "name": "Bank Respublika Arena",
+        "city": "Masazir",
+        "capacity": 13000,
+        "latitude": 40.486353,
+        "longitude": 49.766203
+    },
+    {
+        "id": 1000564654646541,
+        "name": "Agdash City Stadium (Ağdaş Şəhər Stadionu)",
+        "city": "Agsu",
+        "capacity": 1000,
+        "latitude": 40.5765999,
+        "longitude": 48.3820975
+    },
+    {
+        "id": 656546458711,
+        "name": "Bine Stadium (Binə qəsəbə stadionu)",
+        "city": "Baku",
+        "capacity": 600,
+        "latitude": 40.44800770000001,
+        "longitude": 50.0784134
+    },
+    {
+        "id": 99898985565414,
+        "name": "Quba Arena",
+        "city": "Quba",
+        "capacity": 5100,
+        "latitude": 52.3856498,
+        "longitude": 4.9229626
+    },
+    {
+        "id": 4512312311112221,
+        "name": "Siyazan City Stadium (Siyəzən Şəhər Stadionu)",
+        "city": "Siyazan",
+        "capacity": 980,
+        "latitude": 41.0847066,
+        "longitude": 49.1124565
+    }
+]

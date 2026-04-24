@@ -1,0 +1,272 @@
+[
+    {
+        "id": 627,
+        "name": "Qabala",
+        "code": "GAB",
+        "country": "Azerbaijan",
+        "founded": 2005,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/627.png",
+        "venue_id": 158
+    },
+    {
+        "id": 5492,
+        "name": "MOIK",
+        "code": "MOI",
+        "country": "Azerbaijan",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/5492.png",
+        "venue_id": 4174
+    },
+    {
+        "id": 5495,
+        "name": "Qaradağ Lökbatan",
+        "code": "LOK",
+        "country": "Azerbaijan",
+        "founded": 2009,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/5495.png",
+        "venue_id": 4128
+    },
+    {
+        "id": 5500,
+        "name": "Zaqatala",
+        "code": null,
+        "country": "Azerbaijan",
+        "founded": 2010,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/5500.png",
+        "venue_id": 4132
+    },
+    {
+        "id": 5570,
+        "name": "Imisli FK",
+        "code": "MIL",
+        "country": "Azerbaijan",
+        "founded": 2013,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/5570.png",
+        "venue_id": 20247
+    },
+    {
+        "id": 5573,
+        "name": "Mingəçevir",
+        "code": null,
+        "country": "Azerbaijan",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/5573.png",
+        "venue_id": 4176
+    },
+    {
+        "id": 11239,
+        "name": "Karvan",
+        "code": null,
+        "country": "Azerbaijan",
+        "founded": 2004,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/11239.png",
+        "venue_id": 7513
+    },
+    {
+        "id": 22280,
+        "name": "Difai Ağsu",
+        "code": null,
+        "country": "Azerbaijan",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/22280.png",
+        "venue_id": 554445654564
+    },
+    {
+        "id": 22788,
+        "name": "Baku Sportinq",
+        "code": null,
+        "country": "Azerbaijan",
+        "founded": 2018,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/22788.png",
+        "venue_id": 66887977878998700
+    },
+    {
+        "id": 22789,
+        "name": "Cəbrayıl",
+        "code": null,
+        "country": "Azerbaijan",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/22789.png",
+        "venue_id": 200056465464
+    },
+    {
+        "id": 556,
+        "name": "Qarabag",
+        "code": "KAR",
+        "country": "Azerbaijan",
+        "founded": 1950,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/556.png",
+        "venue_id": 5799
+    },
+    {
+        "id": 648,
+        "name": "Zira",
+        "code": null,
+        "country": "Azerbaijan",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/648.png",
+        "venue_id": 4134
+    },
+    {
+        "id": 666,
+        "name": "Şamaxı FK",
+        "code": "INT",
+        "country": "Azerbaijan",
+        "founded": 1997,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/666.png",
+        "venue_id": 155
+    },
+    {
+        "id": 2270,
+        "name": "Neftchi Baku",
+        "code": "NEF",
+        "country": "Azerbaijan",
+        "founded": 1937,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/2270.png",
+        "venue_id": 20297
+    },
+    {
+        "id": 4199,
+        "name": "Səbail",
+        "code": null,
+        "country": "Azerbaijan",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/4199.png",
+        "venue_id": 12459
+    },
+    {
+        "id": 5490,
+        "name": "Kapaz",
+        "code": "KAP",
+        "country": "Azerbaijan",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/5490.png",
+        "venue_id": 4125
+    },
+    {
+        "id": 5499,
+        "name": "Turan",
+        "code": "TUR",
+        "country": "Azerbaijan",
+        "founded": 1945,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/5499.png",
+        "venue_id": 4131
+    },
+    {
+        "id": 5503,
+        "name": "Sumqayıt",
+        "code": "SUM",
+        "country": "Azerbaijan",
+        "founded": 2010,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/5503.png",
+        "venue_id": 4135
+    },
+    {
+        "id": 5576,
+        "name": "Şahdağ",
+        "code": "SAH",
+        "country": "Azerbaijan",
+        "founded": 1992,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/5576.png",
+        "venue_id": 4178
+    },
+    {
+        "id": 5577,
+        "name": "Şəmkir",
+        "code": null,
+        "country": "Azerbaijan",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/5577.png",
+        "venue_id": 4179
+    },
+    {
+        "id": 11238,
+        "name": "Araz",
+        "code": "ARA",
+        "country": "Azerbaijan",
+        "founded": 2013,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/11238.png",
+        "venue_id": 7512
+    },
+    {
+        "id": 13976,
+        "name": "Sabah FA",
+        "code": null,
+        "country": "Azerbaijan",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/13976.png",
+        "venue_id": 2783
+    },
+    {
+        "id": 25270,
+        "name": "Ağdaş",
+        "code": null,
+        "country": "Azerbaijan",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/25270.png",
+        "venue_id": 1000564654646541
+    },
+    {
+        "id": 25271,
+        "name": "Dinamo Bakı",
+        "code": null,
+        "country": "Azerbaijan",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/25271.png",
+        "venue_id": 656546458711
+    },
+    {
+        "id": 25272,
+        "name": "Hypers Guba",
+        "code": null,
+        "country": "Azerbaijan",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/25272.png",
+        "venue_id": 99898985565414
+    },
+    {
+        "id": 25273,
+        "name": "Şimal",
+        "code": null,
+        "country": "Azerbaijan",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/25273.png",
+        "venue_id": 4512312311112221
+    },
+    {
+        "id": 25318,
+        "name": "Safa Baku",
+        "code": null,
+        "country": "Azerbaijan",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/25318.png",
+        "venue_id": 66887977878998700
+    }
+]

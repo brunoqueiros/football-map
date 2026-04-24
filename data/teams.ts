@@ -11,3 +11,4 @@ export { default as aruba } from './aruba-teams.json';
 export { default as armenia } from './armenia-teams.json';
 export { default as australia } from './australia-teams.json';
 export { default as austria } from './austria-teams.json';
+export { default as azerbaijan } from './azerbaijan-teams.json';

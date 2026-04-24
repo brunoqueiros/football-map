@@ -11,3 +11,4 @@ export { default as aruba } from './aruba-venues.json';
 export { default as armenia } from './armenia-venues.json';
 export { default as australia } from './australia-venues.json';
 export { default as austria } from './austria-venues.json';
+export { default as azerbaijan } from './azerbaijan-venues.json';
