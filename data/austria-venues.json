@@ -1,0 +1,1554 @@
+[
+    {
+        "id": 20412,
+        "name": "DATENPOL ARENA",
+        "city": "Maria Enzersdorf",
+        "capacity": 12000,
+        "latitude": 48.097496,
+        "longitude": 16.311533
+    },
+    {
+        "id": 149,
+        "name": "NV ARENA",
+        "city": "St. Pölten",
+        "capacity": 8000,
+        "latitude": 48.2209408,
+        "longitude": 15.65352
+    },
+    {
+        "id": 19921,
+        "name": "Innviertel Arena",
+        "city": "Ried Im Innkreis",
+        "capacity": 7680,
+        "latitude": 48.2078047,
+        "longitude": 13.4785848
+    },
+    {
+        "id": 19920,
+        "name": "FAC-Platz",
+        "city": "Wien",
+        "capacity": 3500,
+        "latitude": 48.2695028,
+        "longitude": 16.3935525
+    },
+    {
+        "id": 10507,
+        "name": "Sparkasse Horn Arena",
+        "city": "Horn",
+        "capacity": 5500,
+        "latitude": 48.6693242,
+        "longitude": 15.6628043
+    },
+    {
+        "id": 10523,
+        "name": "ImmoAgentur Stadion Bregenz",
+        "city": "Bregenz",
+        "capacity": 11112,
+        "latitude": 47.5039068,
+        "longitude": 9.7334063
+    },
+    {
+        "id": 148,
+        "name": "Red Bull Arena",
+        "city": "Wals-Siezenheim",
+        "capacity": 31895,
+        "latitude": 47.8162823,
+        "longitude": 12.9982153
+    },
+    {
+        "id": 19512,
+        "name": "Stadion Kapfenberg",
+        "city": "Kapfenberg",
+        "capacity": 12000,
+        "latitude": 47.4440062,
+        "longitude": 15.3003433
+    },
+    {
+        "id": 1725,
+        "name": "Sportplatz Lafnitz",
+        "city": "Lafnitz",
+        "capacity": 3000,
+        "latitude": 47.3733529,
+        "longitude": 16.0114824
+    },
+    {
+        "id": 133,
+        "name": "Ertl Glas-Stadion",
+        "city": "Amstetten",
+        "capacity": 3300,
+        "latitude": 48.1156123,
+        "longitude": 14.8767851
+    },
+    {
+        "id": 19947,
+        "name": "Naturarena Hohe Warte",
+        "city": "Wien",
+        "capacity": 7260,
+        "latitude": 48.2487702,
+        "longitude": 16.3596991
+    },
+    {
+        "id": 19958,
+        "name": "Körner Trainingszentrum powered by Varta",
+        "city": "Wien",
+        "capacity": 1000,
+        "latitude": 48.2081834,
+        "longitude": 16.4257669
+    },
+    {
+        "id": 3733,
+        "name": "Solarstadion der Stadt Gleisdorf",
+        "city": "Gleisdorf",
+        "capacity": 1700,
+        "latitude": 47.0975872,
+        "longitude": 15.7042711
+    },
+    {
+        "id": 19961,
+        "name": "Münzer Bioindustrie Sportpark Voitsberg",
+        "city": "Voitsberg",
+        "capacity": 2500,
+        "latitude": 47.0486725,
+        "longitude": 15.1569017
+    },
+    {
+        "id": 136,
+        "name": "Generali Arena",
+        "city": "Wien",
+        "capacity": 18944,
+        "latitude": 48.1616958,
+        "longitude": 16.3875045
+    },
+    {
+        "id": 146,
+        "name": "CASHPOINT Arena",
+        "city": "Altach",
+        "capacity": 8500,
+        "latitude": 47.3540541,
+        "longitude": 9.6367929
+    },
+    {
+        "id": 150,
+        "name": "Merkur Arena",
+        "city": "Graz",
+        "capacity": 16764,
+        "latitude": 47.04637169999999,
+        "longitude": 15.4547844
+    },
+    {
+        "id": 145,
+        "name": "Allianz Stadion",
+        "city": "Wien",
+        "capacity": 28345,
+        "latitude": 48.198023,
+        "longitude": 16.266021
+    },
+    {
+        "id": 1761,
+        "name": "Lavanttal Arena",
+        "city": "Wolfsberg",
+        "capacity": 9000,
+        "latitude": 46.8262444,
+        "longitude": 14.85189
+    },
+    {
+        "id": 143,
+        "name": "Raiffeisen Arena",
+        "city": "Linz",
+        "capacity": 19080,
+        "latitude": 48.2926244,
+        "longitude": 14.275692
+    },
+    {
+        "id": 140,
+        "name": "PROfertil ARENA",
+        "city": "Hartberg",
+        "capacity": 5420,
+        "latitude": 47.28105739999999,
+        "longitude": 15.9771312
+    },
+    {
+        "id": 11873,
+        "name": "Hofmann Personal Stadion",
+        "city": "Linz",
+        "capacity": 6000,
+        "latitude": 48.3162746,
+        "longitude": 14.2991547
+    },
+    {
+        "id": 152,
+        "name": "Tivoli Stadion Tirol",
+        "city": "Innsbruck",
+        "capacity": 16008,
+        "latitude": 47.256008,
+        "longitude": 11.4111766
+    },
+    {
+        "id": 11874,
+        "name": "Wörthersee Stadion",
+        "city": "Klagenfurt am Wörthersee",
+        "capacity": 32000,
+        "latitude": 46.60957630000001,
+        "longitude": 14.2780624
+    },
+    {
+        "id": 20339,
+        "name": "Sparkasse Arena Birkenwiese",
+        "city": "Dornbirn",
+        "capacity": 5000,
+        "latitude": 47.4164132,
+        "longitude": 9.7240305
+    },
+    {
+        "id": 3730,
+        "name": "Sportplatz Draßburg",
+        "city": "Draßburg",
+        "capacity": 2000,
+        "latitude": 47.7479918,
+        "longitude": 16.4810373
+    },
+    {
+        "id": 19403,
+        "name": "Krammer-Arena",
+        "city": "Gloggnitz",
+        "capacity": 3000,
+        "latitude": 47.670161,
+        "longitude": 15.9310955
+    },
+    {
+        "id": 3734,
+        "name": "Park21-Arena Gurten",
+        "city": "Gurten",
+        "capacity": 2000,
+        "latitude": 48.2405867,
+        "longitude": 13.3415072
+    },
+    {
+        "id": 3737,
+        "name": "Herrenriedstadion",
+        "city": "Hohenems",
+        "capacity": 2800,
+        "latitude": 47.3699082,
+        "longitude": 9.678873600000001
+    },
+    {
+        "id": 3739,
+        "name": "Sportplatz Langau",
+        "city": "Kitzbühel",
+        "capacity": 1900,
+        "latitude": 47.4348184,
+        "longitude": 12.4049565
+    },
+    {
+        "id": 3741,
+        "name": "Sportplatz ASKÖ Köttmannsdorf",
+        "city": "Köttmannsdorf",
+        "capacity": 1544,
+        "latitude": 46.5561879,
+        "longitude": 14.2394672
+    },
+    {
+        "id": 3743,
+        "name": "Sportplatz Leobendorf",
+        "city": "Leobendorf",
+        "capacity": 1500,
+        "latitude": 48.3794191,
+        "longitude": 16.3126782
+    },
+    {
+        "id": 3744,
+        "name": "Aulandstadion",
+        "city": "Mannsdorf",
+        "capacity": 2000,
+        "latitude": 48.1504138,
+        "longitude": 16.6634491
+    },
+    {
+        "id": 3746,
+        "name": "Sportzentrum Neusiedl",
+        "city": "Neusiedl am See",
+        "capacity": 3000,
+        "latitude": 47.9409232,
+        "longitude": 16.8424837
+    },
+    {
+        "id": 3749,
+        "name": "Silberstadt Arena Schwaz",
+        "city": "Schwaz",
+        "capacity": 3000,
+        "latitude": 47.33674269999999,
+        "longitude": 11.7041461
+    },
+    {
+        "id": 3751,
+        "name": "Bollwerk-Arena",
+        "city": "Aigen",
+        "capacity": 4000,
+        "latitude": 52.3143557,
+        "longitude": 4.9418487
+    },
+    {
+        "id": 19578,
+        "name": "ARBÖ-Arena",
+        "city": "Traiskirchen",
+        "capacity": 3000,
+        "latitude": 48.0221278,
+        "longitude": 16.2987453
+    },
+    {
+        "id": 3754,
+        "name": "Turnerwald-Stadion",
+        "city": "Althofen",
+        "capacity": 2000,
+        "latitude": 46.86519999999999,
+        "longitude": 14.4548693
+    },
+    {
+        "id": 3758,
+        "name": "Sportplatz Wiener Viktoria",
+        "city": "Wien",
+        "capacity": 2500,
+        "latitude": 48.1678016,
+        "longitude": 16.3247529
+    },
+    {
+        "id": 3764,
+        "name": "Koralmstadion",
+        "city": "Deutschlandsberg",
+        "capacity": 2500,
+        "latitude": 46.8224996,
+        "longitude": 15.2248713
+    },
+    {
+        "id": 3770,
+        "name": "Transdanubia Sportanlage",
+        "city": "Traun/Oedt",
+        "capacity": 2112,
+        "latitude": 48.21715409999999,
+        "longitude": 14.2061621
+    },
+    {
+        "id": 19946,
+        "name": "1508 SaalfeldenArena",
+        "city": "Saalfelden am Steinernen Meer",
+        "capacity": 1250,
+        "latitude": 47.4361536,
+        "longitude": 12.8541975
+    },
+    {
+        "id": 3772,
+        "name": "Kunstrasen Reichenau Hauptspielfeld",
+        "city": "Innsbruck",
+        "capacity": 1500,
+        "latitude": 47.2689331,
+        "longitude": 11.4161682
+    },
+    {
+        "id": 20518,
+        "name": "PAC Sportpark",
+        "city": "Siegendorf",
+        "capacity": 1000,
+        "latitude": 47.7838068,
+        "longitude": 16.5454229
+    },
+    {
+        "id": 3787,
+        "name": "SIEMENS Energy Stadion",
+        "city": "Weiz",
+        "capacity": 3000,
+        "latitude": 47.2187782,
+        "longitude": 15.622568
+    },
+    {
+        "id": 3792,
+        "name": "Max-Aicher-Stadion",
+        "city": "Salzburg",
+        "capacity": 2320,
+        "latitude": 47.7916198,
+        "longitude": 13.0142273
+    },
+    {
+        "id": 5845,
+        "name": "Sportplatz an der Ratz",
+        "city": "Röthis",
+        "capacity": 2000,
+        "latitude": 47.2977876,
+        "longitude": 9.642972499999999
+    },
+    {
+        "id": 5846,
+        "name": "Sportplatz Bischofshofen",
+        "city": "Bischofshofen",
+        "capacity": 1500,
+        "latitude": 47.4269063,
+        "longitude": 13.2150944
+    },
+    {
+        "id": 5847,
+        "name": "Hans-Ludwig-Stadion",
+        "city": "Wals",
+        "capacity": 1800,
+        "latitude": 47.7894275,
+        "longitude": 12.956927
+    },
+    {
+        "id": 19960,
+        "name": "Monte Schlacko Arena",
+        "city": "Leoben",
+        "capacity": 8450,
+        "latitude": 47.3767264,
+        "longitude": 15.0783121
+    },
+    {
+        "id": 5916,
+        "name": "Sportplatz Wildon",
+        "city": "Wildon",
+        "capacity": 500,
+        "latitude": 46.8897734,
+        "longitude": 15.5107409
+    },
+    {
+        "id": 5947,
+        "name": "Sportplatz SV Donau",
+        "city": "Wien",
+        "capacity": 1500,
+        "latitude": 48.2306223,
+        "longitude": 16.4208855
+    },
+    {
+        "id": 5948,
+        "name": "Sportplatz Donaufeld",
+        "city": "Wien",
+        "capacity": 4000,
+        "latitude": 48.2512748,
+        "longitude": 16.4133356
+    },
+    {
+        "id": 5954,
+        "name": "Sportplatz Union Mauer",
+        "city": "Wien",
+        "capacity": 1000,
+        "latitude": 48.1554988,
+        "longitude": 16.2762575
+    },
+    {
+        "id": 5857,
+        "name": "Informstadion",
+        "city": "Oberwart",
+        "capacity": 7000,
+        "latitude": 47.2816474,
+        "longitude": 16.2097256
+    },
+    {
+        "id": 10722,
+        "name": "Velly Arena Imst",
+        "city": "Imst",
+        "capacity": 2500,
+        "latitude": 47.2408778,
+        "longitude": 10.7493025
+    },
+    {
+        "id": 12080,
+        "name": "ASK-Sportanlage Fischl",
+        "city": "Klagenfurt am Wörthersee",
+        "capacity": 3000,
+        "latitude": 46.6198826,
+        "longitude": 14.3411671
+    },
+    {
+        "id": 19867,
+        "name": "DietachArena",
+        "city": "Dietach",
+        "capacity": 3000,
+        "latitude": 48.0894318,
+        "longitude": 14.4197994
+    },
+    {
+        "id": 19986,
+        "name": "Sportplatz Velden",
+        "city": "Velden am Wörthersee",
+        "capacity": 1000,
+        "latitude": 46.6077005,
+        "longitude": 14.0320371
+    },
+    {
+        "id": 5886,
+        "name": "Sportplatz SV Zaunergroup Wallern",
+        "city": "Wallern an der Trattnach",
+        "capacity": 2000,
+        "latitude": 48.230694,
+        "longitude": 13.9509208
+    },
+    {
+        "id": 20202,
+        "name": "druckmittel.at-Arena",
+        "city": "Korneuburg",
+        "capacity": 1000,
+        "latitude": 48.3547118,
+        "longitude": 16.3451595
+    },
+    {
+        "id": 66559988989898,
+        "name": "HUBER Arena",
+        "city": "Wels",
+        "capacity": 3000,
+        "latitude": 48.1586419,
+        "longitude": 13.9817501
+    },
+    {
+        "id": 22060,
+        "name": "ANDREA BINDER ARENA",
+        "city": "Linz",
+        "capacity": 1000,
+        "latitude": 48.255736,
+        "longitude": 14.3132315
+    },
+    {
+        "id": 19623,
+        "name": "voestalpine Stadion",
+        "city": "Pasching",
+        "capacity": 7870,
+        "latitude": 48.2361799,
+        "longitude": 14.228303
+    },
+    {
+        "id": 3747,
+        "name": "Heidebodenstadion",
+        "city": "Parndorf",
+        "capacity": 4000,
+        "latitude": 47.9958719,
+        "longitude": 16.8636408
+    },
+    {
+        "id": 3748,
+        "name": "Sportplatz Pinkafeld",
+        "city": "Pinkafeld",
+        "capacity": 1500,
+        "latitude": 47.3716918,
+        "longitude": 16.1191355
+    },
+    {
+        "id": 3779,
+        "name": "Wetterkreuzstadion Bad Sauerbrunn",
+        "city": "Bad Sauerbrunn",
+        "capacity": 2500,
+        "latitude": 47.7802214,
+        "longitude": 16.3379165
+    },
+    {
+        "id": 5848,
+        "name": "Sportplatz Deutschkreutz",
+        "city": "Deutschkreutz",
+        "capacity": 2000,
+        "latitude": 47.6060365,
+        "longitude": 16.6262393
+    },
+    {
+        "id": 5851,
+        "name": "Sportplatz Horitschon",
+        "city": "Horitschon",
+        "capacity": 1500,
+        "latitude": 47.5863299,
+        "longitude": 16.5438712
+    },
+    {
+        "id": 18678,
+        "name": "Grenzstadion Klingenbach",
+        "city": "Klingenbach",
+        "capacity": 1000,
+        "latitude": 47.7562169,
+        "longitude": 16.5437539
+    },
+    {
+        "id": 5853,
+        "name": "Stadion Kohfidisch",
+        "city": "Kohfidisch",
+        "capacity": 1200,
+        "latitude": 47.1775549,
+        "longitude": 16.3545073
+    },
+    {
+        "id": 5854,
+        "name": "LeithArena",
+        "city": "Leithaprodersdorf",
+        "capacity": 2000,
+        "latitude": 47.9394708,
+        "longitude": 16.4911431
+    },
+    {
+        "id": 5858,
+        "name": "Greabochstadion",
+        "city": "Sankt Margarethen im Burgenland",
+        "capacity": 2000,
+        "latitude": 47.0450544,
+        "longitude": 15.7398399
+    },
+    {
+        "id": 12735,
+        "name": "Grenzstadion Schattendorf",
+        "city": "Schattendorf",
+        "capacity": 3000,
+        "latitude": 47.7089024,
+        "longitude": 16.5173434
+    },
+    {
+        "id": 21003,
+        "name": "Sportplatz Jennersdorf",
+        "city": "Jennersdorf",
+        "capacity": 1500,
+        "latitude": 46.9430683,
+        "longitude": 16.134913
+    },
+    {
+        "id": 21004,
+        "name": "Sportplatz Stuben",
+        "city": "Stuben",
+        "capacity": 1000,
+        "latitude": 47.4265725,
+        "longitude": 16.245343
+    },
+    {
+        "id": 20501,
+        "name": "Sportplatz USV Halbturn",
+        "city": "Halbturn",
+        "capacity": 1500,
+        "latitude": 47.8724564,
+        "longitude": 16.9785627
+    },
+    {
+        "id": 144,
+        "name": "Pappelstadion",
+        "city": "Mattersburg",
+        "capacity": 15100,
+        "latitude": 47.7393417,
+        "longitude": 16.406424
+    },
+    {
+        "id": 22502,
+        "name": "SK-Platz Pama",
+        "city": "Pama",
+        "capacity": 1000,
+        "latitude": 48.0423602,
+        "longitude": 17.0335238
+    },
+    {
+        "id": 3759,
+        "name": "ATSV Arena",
+        "city": "Wolfsberg",
+        "capacity": 2520,
+        "latitude": 46.8335195,
+        "longitude": 14.8414592
+    },
+    {
+        "id": 3766,
+        "name": "Thomas-Morgenstern-Arena",
+        "city": "Lendorf",
+        "capacity": 2500,
+        "latitude": 46.8362669,
+        "longitude": 13.4267721
+    },
+    {
+        "id": 3778,
+        "name": "Lilienberg-Arena",
+        "city": "Völkermarkt",
+        "capacity": 1800,
+        "latitude": 46.65714670000001,
+        "longitude": 14.6288538
+    },
+    {
+        "id": 3780,
+        "name": "Sportplatz Ferlach",
+        "city": "Ferlach",
+        "capacity": 2000,
+        "latitude": 46.5259069,
+        "longitude": 14.2822609
+    },
+    {
+        "id": 5859,
+        "name": "Karl-Kornberger-Stadion",
+        "city": "Bleiburg",
+        "capacity": 3000,
+        "latitude": 46.5833351,
+        "longitude": 14.7964791
+    },
+    {
+        "id": 5860,
+        "name": "Sportplatz SV Dellach/Gail",
+        "city": "Dellach/Gail",
+        "capacity": 1000,
+        "latitude": 46.6565054,
+        "longitude": 13.0808512
+    },
+    {
+        "id": 5864,
+        "name": "Goldeckstadion",
+        "city": "Spittal an der Drau",
+        "capacity": 6000,
+        "latitude": 46.7910475,
+        "longitude": 13.4863049
+    },
+    {
+        "id": 5865,
+        "name": "Sportplatz St. Jakob im Rosental",
+        "city": "St. Jakob im Rosental",
+        "capacity": 1500,
+        "latitude": 46.5513461,
+        "longitude": 14.0510889
+    },
+    {
+        "id": 7489,
+        "name": "Jacques Lemans Arena",
+        "city": "St. Veit an der Glan",
+        "capacity": 2420,
+        "latitude": 46.7510278,
+        "longitude": 14.3367955
+    },
+    {
+        "id": 3790,
+        "name": "Sportplatz Welzenegg",
+        "city": "Klagenfurt am Wörthersee",
+        "capacity": 2000,
+        "latitude": 46.6359351,
+        "longitude": 14.3304182
+    },
+    {
+        "id": 3791,
+        "name": "Sportplatz KAC",
+        "city": "Klagenfurt",
+        "capacity": 2000,
+        "latitude": 46.630982,
+        "longitude": 14.3044605
+    },
+    {
+        "id": 22506,
+        "name": "Sportpark Klagenfurt Kunstrasen",
+        "city": "Klagenfurt am Wörthersee",
+        "capacity": 1000,
+        "latitude": 46.6090494,
+        "longitude": 14.2794837
+    },
+    {
+        "id": 22507,
+        "name": "Installateur Wank Arena Donau Klagenfurt",
+        "city": "Klagenfurt am Wörthersee",
+        "capacity": 1000,
+        "latitude": 46.623947,
+        "longitude": 14.3428883
+    },
+    {
+        "id": 99889899899889,
+        "name": "Sportplatz St. Andrä",
+        "city": "Andrä",
+        "capacity": 2000,
+        "latitude": 46.7707407,
+        "longitude": 14.830724
+    },
+    {
+        "id": 19610,
+        "name": "Wiener Neustadt Ergo Arena",
+        "city": "Wiener Neustadt",
+        "capacity": 4000,
+        "latitude": 47.8410577,
+        "longitude": 16.2568276
+    },
+    {
+        "id": 3773,
+        "name": "Pittentalstadion",
+        "city": "Scheiblingkirchen",
+        "capacity": 1500,
+        "latitude": 47.6634424,
+        "longitude": 16.1350014
+    },
+    {
+        "id": 21001,
+        "name": "NÖFV-Verbandssportanlage",
+        "city": "St. Pölten",
+        "capacity": 1500,
+        "latitude": 48.2196831,
+        "longitude": 15.6493842
+    },
+    {
+        "id": 5867,
+        "name": "Sportplatz SCU Ardagger",
+        "city": "Ardagger",
+        "capacity": 2500,
+        "latitude": 48.1694457,
+        "longitude": 14.8369589
+    },
+    {
+        "id": 5869,
+        "name": "Waldstadion Kilb",
+        "city": "Kilb",
+        "capacity": 2000,
+        "latitude": 48.096203,
+        "longitude": 15.4136517
+    },
+    {
+        "id": 5871,
+        "name": "Sportplatz SV Langenrohr",
+        "city": "Langenrohr",
+        "capacity": 1000,
+        "latitude": 48.3068159,
+        "longitude": 16.0003201
+    },
+    {
+        "id": 5873,
+        "name": "Sportplatz Ortmann BSV",
+        "city": "Neusiedl",
+        "capacity": 2000,
+        "latitude": 47.9402197,
+        "longitude": 16.8409595
+    },
+    {
+        "id": 5874,
+        "name": "Sportplatz Retz",
+        "city": "Retz",
+        "capacity": 2000,
+        "latitude": 48.7537847,
+        "longitude": 15.9548912
+    },
+    {
+        "id": 22510,
+        "name": "ELK-Arena",
+        "city": "Schrems",
+        "capacity": 2000,
+        "latitude": 48.791112,
+        "longitude": 15.0659181
+    },
+    {
+        "id": 5877,
+        "name": "Liese Prokop Sportanlage",
+        "city": "Rohrbach an der Gölsen",
+        "capacity": 3000,
+        "latitude": 48.04926409999999,
+        "longitude": 15.7420039
+    },
+    {
+        "id": 19959,
+        "name": "Waldviertler Sparkasse Arena",
+        "city": "Zwettl",
+        "capacity": 3000,
+        "latitude": 48.6054989,
+        "longitude": 15.2189301
+    },
+    {
+        "id": 10750,
+        "name": "Stadion Alte Au",
+        "city": "Stockerau",
+        "capacity": 5000,
+        "latitude": 48.38274699999999,
+        "longitude": 16.2014126
+    },
+    {
+        "id": 19860,
+        "name": "Sportplatz St. Peter/Au",
+        "city": "St. Peter/Au",
+        "capacity": 1000,
+        "latitude": 48.036294,
+        "longitude": 14.6218355
+    },
+    {
+        "id": 22511,
+        "name": "Wüsterstrom Arena Ybbs",
+        "city": "Ybbs an der Donau",
+        "capacity": 2000,
+        "latitude": 48.1737794,
+        "longitude": 15.0799767
+    },
+    {
+        "id": 22513,
+        "name": "JAZ LINZ SÜD Edelweiß",
+        "city": "Linz",
+        "capacity": 2000,
+        "latitude": 48.2490051,
+        "longitude": 14.289715
+    },
+    {
+        "id": 5880,
+        "name": "Sportplatz SV Sedda Bad Schallerbach",
+        "city": "Bad Schallerbach",
+        "capacity": 1000,
+        "latitude": 48.2245306,
+        "longitude": 13.9356383
+    },
+    {
+        "id": 22515,
+        "name": "GREAT-Arena Friedburg",
+        "city": "Friedburg",
+        "capacity": 1000,
+        "latitude": 47.2384028,
+        "longitude": 12.2425615
+    },
+    {
+        "id": 21005,
+        "name": "Monoflo Arena Micheldorf",
+        "city": "Micheldorf",
+        "capacity": 3000,
+        "latitude": 46.9141701,
+        "longitude": 14.4310313
+    },
+    {
+        "id": 21006,
+        "name": "Mondseeland Arena",
+        "city": "Mondsee",
+        "capacity": 2000,
+        "latitude": 47.8575385,
+        "longitude": 13.3426489
+    },
+    {
+        "id": 20761,
+        "name": "Sparkasse Pregarten Stadion",
+        "city": "Pregarten",
+        "capacity": 1000,
+        "latitude": 48.3548406,
+        "longitude": 14.5311026
+    },
+    {
+        "id": 22516,
+        "name": "Fresh Energy Arena",
+        "city": "St. Martin im Mühlkreis",
+        "capacity": 1000,
+        "latitude": 48.2875684,
+        "longitude": 13.4454052
+    },
+    {
+        "id": 5888,
+        "name": "STEYR Arena",
+        "city": "St. Valentin",
+        "capacity": 1000,
+        "latitude": 48.1614316,
+        "longitude": 14.5074282
+    },
+    {
+        "id": 22517,
+        "name": "Forstenlechner Arena Perg",
+        "city": "Perg",
+        "capacity": 1000,
+        "latitude": 48.2376943,
+        "longitude": 14.6410578
+    },
+    {
+        "id": 5890,
+        "name": "Sportplatz Weißkirchen",
+        "city": "Weißkirchen",
+        "capacity": 2500,
+        "latitude": 48.1662529,
+        "longitude": 14.1258109
+    },
+    {
+        "id": 5891,
+        "name": "ÖKO-BOX Stadion",
+        "city": "Bad Ischl",
+        "capacity": 2000,
+        "latitude": 47.7117362,
+        "longitude": 13.6281665
+    },
+    {
+        "id": 19866,
+        "name": "Stampfl-Bau Arena Ostermiething",
+        "city": "Ostermiething",
+        "capacity": 1000,
+        "latitude": 48.0277375,
+        "longitude": 12.859774
+    },
+    {
+        "id": 21007,
+        "name": "Sportplatz Bad Leonfelden",
+        "city": "Bad Leonfelden",
+        "capacity": 700,
+        "latitude": 48.5175948,
+        "longitude": 14.297931
+    },
+    {
+        "id": 21008,
+        "name": "SEP Arena Gmunden",
+        "city": "Gmunden",
+        "capacity": 5000,
+        "latitude": 47.9233708,
+        "longitude": 13.7927218
+    },
+    {
+        "id": 3750,
+        "name": "Sportzentrum Seekirchen",
+        "city": "Seekirchen am Wallersee",
+        "capacity": 2000,
+        "latitude": 47.9030823,
+        "longitude": 13.1253577
+    },
+    {
+        "id": 22520,
+        "name": "Stadion Grödig",
+        "city": "Grödig",
+        "capacity": 4132,
+        "latitude": 47.7432841,
+        "longitude": 13.0475481
+    },
+    {
+        "id": 3776,
+        "name": "Straßwalchen Nevoga-Arena",
+        "city": "Straßwalchen",
+        "capacity": 800,
+        "latitude": 47.9681796,
+        "longitude": 13.270086
+    },
+    {
+        "id": 18613,
+        "name": "Smaragdarena Bramberg",
+        "city": "Bramberg",
+        "capacity": 2000,
+        "latitude": 47.27249519999999,
+        "longitude": 12.3413359
+    },
+    {
+        "id": 5895,
+        "name": "Kunstrasenplatz Bürmoos",
+        "city": "Bürmoos",
+        "capacity": 1000,
+        "latitude": 47.9860868,
+        "longitude": 12.9215838
+    },
+    {
+        "id": 5896,
+        "name": "Sportzentrum Eugendorf",
+        "city": "Eugendorf",
+        "capacity": 1500,
+        "latitude": 47.873453,
+        "longitude": 13.1277231
+    },
+    {
+        "id": 5897,
+        "name": "Sportplatz Golling",
+        "city": "Golling",
+        "capacity": 1500,
+        "latitude": 47.6020754,
+        "longitude": 13.1713967
+    },
+    {
+        "id": 5898,
+        "name": "Sportplatz Hallwang",
+        "city": "Hallwang bei Salzburg",
+        "capacity": 1000,
+        "latitude": 47.8501228,
+        "longitude": 13.0930196
+    },
+    {
+        "id": 5899,
+        "name": "Sportplatz Neumarkt",
+        "city": "Neumarkt am Wallersee",
+        "capacity": 1250,
+        "latitude": 47.9433759,
+        "longitude": 13.2179704
+    },
+    {
+        "id": 5900,
+        "name": "Waldstadion Puch",
+        "city": "Puch",
+        "capacity": 3000,
+        "latitude": 47.71419059999999,
+        "longitude": 13.0840855
+    },
+    {
+        "id": 5901,
+        "name": "Sportplatz Thalgau",
+        "city": "Thalgau",
+        "capacity": 1500,
+        "latitude": 47.8382812,
+        "longitude": 13.2508485
+    },
+    {
+        "id": 7148,
+        "name": "Sportzentrum Anif",
+        "city": "Anif",
+        "capacity": 2500,
+        "latitude": 47.7409354,
+        "longitude": 13.0644081
+    },
+    {
+        "id": 22519,
+        "name": "SAK Arena Nonntal",
+        "city": "Salzburg",
+        "capacity": 2500,
+        "latitude": 47.7930239,
+        "longitude": 13.0560692
+    },
+    {
+        "id": 10853,
+        "name": "Sportplatz Siezenheim",
+        "city": "Siezenheim",
+        "capacity": 1000,
+        "latitude": 47.8105128,
+        "longitude": 12.9872569
+    },
+    {
+        "id": 9966655556565656,
+        "name": "ASV Salzburg",
+        "city": "Salzburg",
+        "capacity": null,
+        "latitude": 47.821588,
+        "longitude": 13.0386343
+    },
+    {
+        "id": 10525,
+        "name": "Thomas Stangassinger Sportanlage",
+        "city": "Hallein",
+        "capacity": 1330,
+        "latitude": 47.6725642,
+        "longitude": 13.1055849
+    },
+    {
+        "id": 3727,
+        "name": "Sportanlage Allerheiligen",
+        "city": "Allerheiligen bei Wildon",
+        "capacity": 2200,
+        "latitude": 46.9122001,
+        "longitude": 15.552798
+    },
+    {
+        "id": 3738,
+        "name": "Sportzentrum Kalsdorf",
+        "city": "Kalsdorf bei Graz",
+        "capacity": 3000,
+        "latitude": 46.96226129999999,
+        "longitude": 15.4778329
+    },
+    {
+        "id": 5905,
+        "name": "Rudolf-Gutmann-Stadion",
+        "city": "Fürstenfeld",
+        "capacity": 1500,
+        "latitude": 47.0521773,
+        "longitude": 16.0730063
+    },
+    {
+        "id": 20562,
+        "name": "Pfeifer Real Arena Ilz",
+        "city": "Ilz",
+        "capacity": 3000,
+        "latitude": 47.0989714,
+        "longitude": 15.7165114
+    },
+    {
+        "id": 11962,
+        "name": "sanSirro Stadion Lebring",
+        "city": "Lebring",
+        "capacity": 3000,
+        "latitude": 46.8502617,
+        "longitude": 15.5151543
+    },
+    {
+        "id": 5913,
+        "name": "Sportplatz TuS Heiligenkreuz",
+        "city": "Heiligenkreuz am Waasen",
+        "capacity": 1000,
+        "latitude": 46.957107,
+        "longitude": 15.5880766
+    },
+    {
+        "id": 5914,
+        "name": "Weinland-Stadion",
+        "city": "Gamlitz",
+        "capacity": 2000,
+        "latitude": 46.7225636,
+        "longitude": 15.5505338
+    },
+    {
+        "id": 7499,
+        "name": "Sportplatz Ungersdorf",
+        "city": "Frohnleiten",
+        "capacity": 1000,
+        "latitude": 47.2520257,
+        "longitude": 15.3203921
+    },
+    {
+        "id": 18671,
+        "name": "Sportzentrum Fehring",
+        "city": "Fehring",
+        "capacity": 2800,
+        "latitude": 46.9384918,
+        "longitude": 16.0111236
+    },
+    {
+        "id": 18672,
+        "name": "Werner Skabitz Stadion",
+        "city": "Köflach",
+        "capacity": 2500,
+        "latitude": 47.05708569999999,
+        "longitude": 15.0875085
+    },
+    {
+        "id": 19994,
+        "name": "Nunner Arena Tillmitsch",
+        "city": "Tillmitsch",
+        "capacity": 1000,
+        "latitude": 46.814308,
+        "longitude": 15.533759
+    },
+    {
+        "id": 20986,
+        "name": "GREMSL Parkett GPT Stadion Eggendorf",
+        "city": "Hartberg",
+        "capacity": 1000,
+        "latitude": 47.3004377,
+        "longitude": 16.0014528
+    },
+    {
+        "id": 20987,
+        "name": "Hohenhaus Tenne Area Schladming",
+        "city": "Schladming",
+        "capacity": 1500,
+        "latitude": 47.3936986,
+        "longitude": 13.6942967
+    },
+    {
+        "id": 4400022320,
+        "name": "Thermenstadion",
+        "city": "Bad Waltersdorf",
+        "capacity": 400,
+        "latitude": 47.164956,
+        "longitude": 16.0175164
+    },
+    {
+        "id": 15502323200,
+        "name": "Sportzentrum Kindberg",
+        "city": "Kindberg",
+        "capacity": 1500,
+        "latitude": 47.4936699,
+        "longitude": 15.4305458
+    },
+    {
+        "id": 3789,
+        "name": "Sportstadion Wörgl",
+        "city": "Wörgl",
+        "capacity": 3500,
+        "latitude": 47.4874362,
+        "longitude": 12.056751
+    },
+    {
+        "id": 19236,
+        "name": "Glonner Arena Ebbs",
+        "city": "Ebbs",
+        "capacity": 1500,
+        "latitude": 47.6298628,
+        "longitude": 12.2207524
+    },
+    {
+        "id": 10526,
+        "name": "Sportplatz Fügen",
+        "city": "Fügen",
+        "capacity": 1500,
+        "latitude": 47.3470323,
+        "longitude": 11.8579139
+    },
+    {
+        "id": 5919,
+        "name": "Sportplatz Kematen",
+        "city": "Kematen",
+        "capacity": 2000,
+        "latitude": 47.2609344,
+        "longitude": 11.2680196
+    },
+    {
+        "id": 5921,
+        "name": "Achenstadion Kundl",
+        "city": "Kundl",
+        "capacity": 2500,
+        "latitude": 47.4792011,
+        "longitude": 11.9893254
+    },
+    {
+        "id": 5922,
+        "name": "Sportplatz Mils",
+        "city": "Mils",
+        "capacity": 1000,
+        "latitude": 47.2987779,
+        "longitude": 11.5291603
+    },
+    {
+        "id": 5925,
+        "name": "Sportplatz Silz",
+        "city": "Silz",
+        "capacity": 1000,
+        "latitude": 47.26238439999999,
+        "longitude": 10.913332
+    },
+    {
+        "id": 5926,
+        "name": "Koasastadion St. Johann",
+        "city": "St. Johann in Tirol",
+        "capacity": 1000,
+        "latitude": 47.5264208,
+        "longitude": 12.421614
+    },
+    {
+        "id": 153,
+        "name": "Gernot Langes Stadion",
+        "city": "Wattens",
+        "capacity": 5200,
+        "latitude": 47.2951263,
+        "longitude": 11.5825503
+    },
+    {
+        "id": 5929,
+        "name": "Sportplatz Volders",
+        "city": "Volders",
+        "capacity": 2000,
+        "latitude": 47.2899709,
+        "longitude": 11.5707391
+    },
+    {
+        "id": 5930,
+        "name": "Sportplatz Völs",
+        "city": "Völs",
+        "capacity": 800,
+        "latitude": 47.2531477,
+        "longitude": 11.3185183
+    },
+    {
+        "id": 8216,
+        "name": "Sportplatz Telfs Emat",
+        "city": "Telfs",
+        "capacity": 1500,
+        "latitude": 47.3131783,
+        "longitude": 11.0663605
+    },
+    {
+        "id": 18666,
+        "name": "ASKÖ-Sportplatz",
+        "city": "Innsbruck",
+        "capacity": 500,
+        "latitude": 47.2704765,
+        "longitude": 11.4242302
+    },
+    {
+        "id": 3760,
+        "name": "Sportplatz Wolfurt",
+        "city": "Wolfurt",
+        "capacity": 1000,
+        "latitude": 47.4655458,
+        "longitude": 9.743724
+    },
+    {
+        "id": 3762,
+        "name": "Sportplatz Alberschwende",
+        "city": "Alberschwende",
+        "capacity": 1500,
+        "latitude": 47.4542684,
+        "longitude": 9.8306823
+    },
+    {
+        "id": 18683,
+        "name": "EMMA & EUGEN Arena (DSV)",
+        "city": "Dornbirn",
+        "capacity": 1500,
+        "latitude": 47.4146752,
+        "longitude": 9.7450285
+    },
+    {
+        "id": 3782,
+        "name": "Waldstadion Hard",
+        "city": "Hard am Bodensee",
+        "capacity": 2250,
+        "latitude": 47.4955613,
+        "longitude": 9.6983283
+    },
+    {
+        "id": 5844,
+        "name": "Gastrastadion",
+        "city": "Rankweil",
+        "capacity": 6000,
+        "latitude": 47.2711306,
+        "longitude": 9.6492597
+    },
+    {
+        "id": 5932,
+        "name": "Sportplatz Admira Dornbirn",
+        "city": "Dornbirn",
+        "capacity": 1000,
+        "latitude": 47.4343437,
+        "longitude": 9.7281733
+    },
+    {
+        "id": 5936,
+        "name": "Waldstadion Gisingen",
+        "city": "Feldkirch",
+        "capacity": 3500,
+        "latitude": 47.2562905,
+        "longitude": 9.5841327
+    },
+    {
+        "id": 5937,
+        "name": "Sportplatz FC Egg",
+        "city": "Egg",
+        "capacity": 1800,
+        "latitude": 47.299356,
+        "longitude": 8.6949236
+    },
+    {
+        "id": 5939,
+        "name": "Sportplatz Sc Göfis",
+        "city": "Göfis",
+        "capacity": 1000,
+        "latitude": 47.2440185,
+        "longitude": 9.6232395
+    },
+    {
+        "id": 5941,
+        "name": "Stadion Hoferfeld",
+        "city": "Lochau",
+        "capacity": 1000,
+        "latitude": 47.5323291,
+        "longitude": 9.753063299999999
+    },
+    {
+        "id": 5942,
+        "name": "Sportplatz SV Ludesch",
+        "city": "Ludesch",
+        "capacity": 1000,
+        "latitude": 47.1954696,
+        "longitude": 9.772762
+    },
+    {
+        "id": 5943,
+        "name": "Stadion an der Holzstraße",
+        "city": "Lustenau",
+        "capacity": 2000,
+        "latitude": 47.4226641,
+        "longitude": 9.6643135
+    },
+    {
+        "id": 5944,
+        "name": "Sportplatz Nenzing",
+        "city": "Nenzing",
+        "capacity": 800,
+        "latitude": 47.19414870000001,
+        "longitude": 9.7006205
+    },
+    {
+        "id": 3742,
+        "name": "Sportplatz Fc Langenegg",
+        "city": "Langenegg",
+        "capacity": 1500,
+        "latitude": 47.4673782,
+        "longitude": 9.890411
+    },
+    {
+        "id": 3763,
+        "name": "Sportplatz Kinkplatz",
+        "city": "Wien",
+        "capacity": 1800,
+        "latitude": 48.1999435,
+        "longitude": 16.275299
+    },
+    {
+        "id": 3775,
+        "name": "OMV-Sportanlage Stadlau",
+        "city": "Wien",
+        "capacity": 6000,
+        "latitude": 48.2295215,
+        "longitude": 16.4501547
+    },
+    {
+        "id": 20999,
+        "name": "Wienerberg Arena",
+        "city": "Wien",
+        "capacity": 3000,
+        "latitude": 48.1871866,
+        "longitude": 16.4128715
+    },
+    {
+        "id": 3745,
+        "name": "Rudolf-Tonn-Stadion",
+        "city": "Schwechat",
+        "capacity": 10000,
+        "latitude": 48.1292966,
+        "longitude": 16.4687603
+    },
+    {
+        "id": 5950,
+        "name": "Sportplatz Gerasdorf",
+        "city": "Gerasdorf",
+        "capacity": 4000,
+        "latitude": 48.300577,
+        "longitude": 16.465204
+    },
+    {
+        "id": 5951,
+        "name": "Sportplatz Mannswörth",
+        "city": "Mannswörth",
+        "capacity": 1000,
+        "latitude": 48.145895,
+        "longitude": 16.524247
+    },
+    {
+        "id": 5953,
+        "name": "Slovanplatz Hütteldorf",
+        "city": "Wien",
+        "capacity": 1500,
+        "latitude": 48.2045584,
+        "longitude": 16.305411
+    },
+    {
+        "id": 5955,
+        "name": "Sportplatz WAF Gruabn",
+        "city": "Wien",
+        "capacity": 1000,
+        "latitude": 48.2422806,
+        "longitude": 16.3755938
+    },
+    {
+        "id": 21000,
+        "name": "Sportplatz Red Star Auto",
+        "city": "Wien",
+        "capacity": 1000,
+        "latitude": 48.2032065,
+        "longitude": 16.3101801
+    },
+    {
+        "id": 19962,
+        "name": "Hellas Kagran Sport-Arena",
+        "city": "Wien",
+        "capacity": 2000,
+        "latitude": 48.2426349,
+        "longitude": 16.4438502
+    },
+    {
+        "id": 7506,
+        "name": "Sportplatz Simmering",
+        "city": "Wien",
+        "capacity": 5000,
+        "latitude": 48.1656332,
+        "longitude": 16.4256734
+    },
+    {
+        "id": 19475,
+        "name": "Franz Koci Anlage",
+        "city": "Wien",
+        "capacity": 1000,
+        "latitude": 48.1451263,
+        "longitude": 16.3929842
+    },
+    {
+        "id": 12127,
+        "name": "Sportplatz Helfort",
+        "city": "Wien",
+        "capacity": 1000,
+        "latitude": 48.2059569,
+        "longitude": 16.3101076
+    },
+    {
+        "id": 18684,
+        "name": "First Vienna Football Campus",
+        "city": "Wien",
+        "capacity": 1000,
+        "latitude": 48.24243999999999,
+        "longitude": 16.370278
+    },
+    {
+        "id": 22527,
+        "name": "LAC-Sportanlage",
+        "city": "Wien",
+        "capacity": 1000,
+        "latitude": 48.1912615,
+        "longitude": 16.4093991
+    }
+]

@@ -256,7 +256,6 @@
 # 688 | Regionalliga - Salzburg
 # 687 | Regionalliga - Tirol
 # 223 | Regionalliga - West
-# 223 | Regionalliga - West
 
 
 # Azerbaijan
