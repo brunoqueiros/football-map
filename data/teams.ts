@@ -9,3 +9,4 @@ export { default as angola } from './angola-teams.json';
 export { default as argentina } from './argentina-teams.json';
 export { default as aruba } from './aruba-teams.json';
 export { default as armenia } from './armenia-teams.json';
+export { default as australia } from './australia-teams.json';

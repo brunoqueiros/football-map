@@ -9,3 +9,4 @@ export { default as angola } from './angola-venues.json';
 export { default as argentina } from './argentina-venues.json';
 export { default as aruba } from './aruba-venues.json';
 export { default as armenia } from './armenia-venues.json';
+export { default as australia } from './australia-venues.json';
