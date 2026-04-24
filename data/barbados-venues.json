@@ -1,0 +1,50 @@
+[
+    {
+        "id": 4152,
+        "name": "Wildey Turf (Sir Garfield Sobers Complex)",
+        "city": "Bridgetown",
+        "capacity": 2000,
+        "latitude": 13.0915189,
+        "longitude": -59.5730488
+    },
+    {
+        "id": 5979,
+        "name": "Barbados National Stadium",
+        "city": "Bridgetown",
+        "capacity": 5000,
+        "latitude": 13.1202759,
+        "longitude": -59.6046861
+    },
+    {
+        "id": 5980,
+        "name": "Wildey Astro Turf",
+        "city": "Bridgetown",
+        "capacity": 1000,
+        "latitude": 13.0915189,
+        "longitude": -59.5730488
+    },
+    {
+        "id": 1210032540055,
+        "name": "Deacons Playing Field",
+        "city": "Bridgetown",
+        "capacity": 1000,
+        "latitude": 13.1179721,
+        "longitude": -59.62387580000001
+    },
+    {
+        "id": 54546512312140024,
+        "name": "Wotton Playing Field",
+        "city": "Oistins",
+        "capacity": 1000,
+        "latitude": 13.074455,
+        "longitude": -59.54481029999999
+    },
+    {
+        "id": 66554442200230,
+        "name": "Kickstart Rush",
+        "city": "Wildey",
+        "capacity": 1000,
+        "latitude": 13.0942705,
+        "longitude": -59.59023
+    }
+]

@@ -1,0 +1,102 @@
+[
+    {
+        "id": 8402,
+        "name": "Brittons Hill",
+        "code": null,
+        "country": "Barbados",
+        "founded": 1979,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/8402.png",
+        "venue_id": 4152
+    },
+    {
+        "id": 8403,
+        "name": "Ellerton",
+        "code": null,
+        "country": "Barbados",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/8403.png",
+        "venue_id": 5979
+    },
+    {
+        "id": 8406,
+        "name": "Paradise",
+        "code": null,
+        "country": "Barbados",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/8406.png",
+        "venue_id": 4152
+    },
+    {
+        "id": 8409,
+        "name": "UWI Blackbirds",
+        "code": null,
+        "country": "Barbados",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/8409.png",
+        "venue_id": 4152
+    },
+    {
+        "id": 8410,
+        "name": "Weymouth Wales",
+        "code": null,
+        "country": "Barbados",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/8410.png",
+        "venue_id": 4152
+    },
+    {
+        "id": 8413,
+        "name": "Silver Sands",
+        "code": null,
+        "country": "Barbados",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/8413.png",
+        "venue_id": 5979
+    },
+    {
+        "id": 8417,
+        "name": "Pride of Gall Hill",
+        "code": null,
+        "country": "Barbados",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/8417.png",
+        "venue_id": 5980
+    },
+    {
+        "id": 10083,
+        "name": "Deacons",
+        "code": null,
+        "country": "Barbados",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/10083.png",
+        "venue_id": 1210032540055
+    },
+    {
+        "id": 10084,
+        "name": "Wotton",
+        "code": null,
+        "country": "Barbados",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/10084.png",
+        "venue_id": 54546512312140024
+    },
+    {
+        "id": 22944,
+        "name": "Kick Start",
+        "code": null,
+        "country": "Barbados",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/22944.png",
+        "venue_id": 66554442200230
+    }
+]
