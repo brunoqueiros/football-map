@@ -1,0 +1,242 @@
+[
+    {
+        "id": 5479,
+        "name": "Al Najma",
+        "code": null,
+        "country": "Bahrain",
+        "founded": 1943,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/5479.png",
+        "venue_id": 159
+    },
+    {
+        "id": 5480,
+        "name": "Al Shabab",
+        "code": null,
+        "country": "Bahrain",
+        "founded": 2001,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/5480.png",
+        "venue_id": 159
+    },
+    {
+        "id": 5481,
+        "name": "Al Hala",
+        "code": null,
+        "country": "Bahrain",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/5481.png",
+        "venue_id": 159
+    },
+    {
+        "id": 5482,
+        "name": "Al Riffa",
+        "code": "RIF",
+        "country": "Bahrain",
+        "founded": 1953,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/5482.png",
+        "venue_id": 159
+    },
+    {
+        "id": 5483,
+        "name": "Al-Hidd",
+        "code": "HAD",
+        "country": "Bahrain",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/5483.png",
+        "venue_id": 159
+    },
+    {
+        "id": 5484,
+        "name": "Budaiya",
+        "code": null,
+        "country": "Bahrain",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/5484.png",
+        "venue_id": 4122
+    },
+    {
+        "id": 5485,
+        "name": "East Riffa",
+        "code": null,
+        "country": "Bahrain",
+        "founded": 1958,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/5485.png",
+        "venue_id": 4123
+    },
+    {
+        "id": 5486,
+        "name": "Malkiya",
+        "code": null,
+        "country": "Bahrain",
+        "founded": 1968,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/5486.png",
+        "venue_id": 159
+    },
+    {
+        "id": 5487,
+        "name": "Manama",
+        "code": null,
+        "country": "Bahrain",
+        "founded": 1946,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/5487.png",
+        "venue_id": 159
+    },
+    {
+        "id": 5488,
+        "name": "Muharraq",
+        "code": "MUH",
+        "country": "Bahrain",
+        "founded": 1928,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/5488.png",
+        "venue_id": 159
+    },
+    {
+        "id": 5580,
+        "name": "Al Ahli",
+        "code": null,
+        "country": "Bahrain",
+        "founded": 1936,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/5580.png",
+        "venue_id": 159
+    },
+    {
+        "id": 5581,
+        "name": "Al Ittihad",
+        "code": null,
+        "country": "Bahrain",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/5581.png",
+        "venue_id": 4122
+    },
+    {
+        "id": 5582,
+        "name": "Bahrain SC",
+        "code": null,
+        "country": "Bahrain",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/5582.png",
+        "venue_id": 159
+    },
+    {
+        "id": 7515,
+        "name": "Busaiteen",
+        "code": "BUS",
+        "country": "Bahrain",
+        "founded": 1945,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/7515.png",
+        "venue_id": 159
+    },
+    {
+        "id": 10234,
+        "name": "Al Ittifaq Maqaba",
+        "code": null,
+        "country": "Bahrain",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/10234.png",
+        "venue_id": 4122
+    },
+    {
+        "id": 10235,
+        "name": "Al Tadamun Buri",
+        "code": null,
+        "country": "Bahrain",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/10235.png",
+        "venue_id": 4122
+    },
+    {
+        "id": 10236,
+        "name": "Isa Town",
+        "code": null,
+        "country": "Bahrain",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/10236.png",
+        "venue_id": 4122
+    },
+    {
+        "id": 10237,
+        "name": "Qalali",
+        "code": null,
+        "country": "Bahrain",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/10237.png",
+        "venue_id": 7174
+    },
+    {
+        "id": 10238,
+        "name": "Sitra",
+        "code": null,
+        "country": "Bahrain",
+        "founded": 0,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/10238.png",
+        "venue_id": 22754
+    },
+    {
+        "id": 17666,
+        "name": "Khalidiya",
+        "code": null,
+        "country": "Bahrain",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/17666.png",
+        "venue_id": 159
+    },
+    {
+        "id": 20386,
+        "name": "A'Ali",
+        "code": null,
+        "country": "Bahrain",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/20386.png",
+        "venue_id": 22754
+    },
+    {
+        "id": 20387,
+        "name": "Buri",
+        "code": null,
+        "country": "Bahrain",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/20387.png",
+        "venue_id": 4122
+    },
+    {
+        "id": 20388,
+        "name": "Etehad Al Reef",
+        "code": null,
+        "country": "Bahrain",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/20388.png",
+        "venue_id": 66554445548780
+    },
+    {
+        "id": 20389,
+        "name": "Umm Al Hassam",
+        "code": null,
+        "country": "Bahrain",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/20389.png",
+        "venue_id": 879879987454
+    }
+]

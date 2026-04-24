@@ -1,0 +1,58 @@
+[
+    {
+        "id": 159,
+        "name": "Stād al-Bahrayn al-Watanī (Bahrain National Stadium)",
+        "city": "Riffa",
+        "capacity": 35580,
+        "latitude": 26.1534328,
+        "longitude": 50.5435792
+    },
+    {
+        "id": 4122,
+        "name": "Madinet Hamad Stadium",
+        "city": "Hamad Town",
+        "capacity": 2000,
+        "latitude": 26.1437075,
+        "longitude": 50.4989596
+    },
+    {
+        "id": 4123,
+        "name": "Al-Ahli Stadium",
+        "city": "Manama",
+        "capacity": 5000,
+        "latitude": 26.2058927,
+        "longitude": 50.5745869
+    },
+    {
+        "id": 7174,
+        "name": "Madinat 'Isa Stadium",
+        "city": "Manama",
+        "capacity": 15000,
+        "latitude": 26.1740598,
+        "longitude": 50.5484293
+    },
+    {
+        "id": 22754,
+        "name": "Khalifa Sports City Stadium",
+        "city": "al-Manāma (Manama)",
+        "capacity": 15000,
+        "latitude": 26.1740598,
+        "longitude": 50.5484293
+    },
+    {
+        "id": 66554445548780,
+        "name": "Rural Union Club Stadium",
+        "city": "Dar Kulaib",
+        "capacity": 1000,
+        "latitude": 26.0724128,
+        "longitude": 50.4983179
+    },
+    {
+        "id": 879879987454,
+        "name": "Umm Al Hassam Football Club",
+        "city": "Manama",
+        "capacity": 2500,
+        "latitude": 26.2042871,
+        "longitude": 50.5881242
+    }
+]
