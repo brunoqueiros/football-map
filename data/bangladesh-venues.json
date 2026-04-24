@@ -1,0 +1,58 @@
+[
+    {
+        "id": 22277,
+        "name": "Comilla Stadium",
+        "city": "Comilla",
+        "capacity": 18000,
+        "latitude": 23.4644716,
+        "longitude": 91.1813622
+    },
+    {
+        "id": 3798,
+        "name": "Bangabandhu National Stadium",
+        "city": "Dhaka",
+        "capacity": 36000,
+        "latitude": 23.7277859,
+        "longitude": 90.4131561
+    },
+    {
+        "id": 21483,
+        "name": "Bashundhara Kings Arena",
+        "city": "Dhaka",
+        "capacity": 20000,
+        "latitude": 23.8239025,
+        "longitude": 90.4699552
+    },
+    {
+        "id": 21484,
+        "name": "Shaheed Bir Sreshtho Flight Lieutenant Matiur Rahman Stadium",
+        "city": "Munshiganj",
+        "capacity": 10000,
+        "latitude": 22.3558508,
+        "longitude": 91.7677648
+    },
+    {
+        "id": 3799,
+        "name": "Mymensingh Stadium",
+        "city": "Mymensingh",
+        "capacity": 12000,
+        "latitude": 24.7671382,
+        "longitude": 90.38960689999999
+    },
+    {
+        "id": 22702,
+        "name": "Shahid Barkat Stadium",
+        "city": "Gazipur",
+        "capacity": 3000,
+        "latitude": 23.9983826,
+        "longitude": 90.42460960000001
+    },
+    {
+        "id": 19351,
+        "name": "Sylhet District Stadium",
+        "city": "Sylhet",
+        "capacity": 25000,
+        "latitude": 24.8981652,
+        "longitude": 91.8633369
+    }
+]

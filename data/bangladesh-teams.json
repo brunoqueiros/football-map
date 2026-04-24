@@ -1,0 +1,122 @@
+[
+    {
+        "id": 5009,
+        "name": "Abahani",
+        "code": null,
+        "country": "Bangladesh",
+        "founded": 1972,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/5009.png",
+        "venue_id": 22277
+    },
+    {
+        "id": 5010,
+        "name": "Abahani Chittagong",
+        "code": null,
+        "country": "Bangladesh",
+        "founded": 1972,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/5010.png",
+        "venue_id": 3798
+    },
+    {
+        "id": 5012,
+        "name": "Bashundhara Kings",
+        "code": null,
+        "country": "Bangladesh",
+        "founded": 2013,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/5012.png",
+        "venue_id": 21483
+    },
+    {
+        "id": 5013,
+        "name": "Brothers Union",
+        "code": null,
+        "country": "Bangladesh",
+        "founded": 1949,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/5013.png",
+        "venue_id": 21484
+    },
+    {
+        "id": 5014,
+        "name": "Mohammedan Dhaka",
+        "code": null,
+        "country": "Bangladesh",
+        "founded": 1936,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/5014.png",
+        "venue_id": 22277
+    },
+    {
+        "id": 5017,
+        "name": "Rahmatgonj MFS",
+        "code": null,
+        "country": "Bangladesh",
+        "founded": 1933,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/5017.png",
+        "venue_id": 21484
+    },
+    {
+        "id": 10106,
+        "name": "Bangladesh Police",
+        "code": null,
+        "country": "Bangladesh",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/10106.png",
+        "venue_id": 3799
+    },
+    {
+        "id": 20780,
+        "name": "Fortis",
+        "code": null,
+        "country": "Bangladesh",
+        "founded": 2020,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/20780.png",
+        "venue_id": 21483
+    },
+    {
+        "id": 25415,
+        "name": "Dhaka Wanderers",
+        "code": null,
+        "country": "Bangladesh",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/25415.png",
+        "venue_id": 3798
+    },
+    {
+        "id": 25416,
+        "name": "Fakirerpool",
+        "code": null,
+        "country": "Bangladesh",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/25416.png",
+        "venue_id": 22702
+    },
+    {
+        "id": 5019,
+        "name": "Sheikh Jamal",
+        "code": null,
+        "country": "Bangladesh",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/5019.png",
+        "venue_id": 3798
+    },
+    {
+        "id": 5020,
+        "name": "Sheikh Russel",
+        "code": "SHE",
+        "country": "Bangladesh",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/5020.png",
+        "venue_id": 19351
+    }
+]
