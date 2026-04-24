@@ -7,3 +7,4 @@ export { default as algeria } from './algeria-teams.json';
 export { default as andorra } from './andorra-teams.json';
 export { default as angola } from './angola-teams.json';
 export { default as argentina } from './argentina-teams.json';
+export { default as aruba } from './aruba-teams.json';

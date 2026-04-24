@@ -1,0 +1,42 @@
+[
+    {
+        "id": 4928173645,
+        "name": "Deportivo Nacional Stadium",
+        "city": "Noord",
+        "capacity": 1000,
+        "latitude": 12.5662145,
+        "longitude": -70.0153503
+    },
+    {
+        "id": 1039485726,
+        "name": "Franklyn Bareño Sports Complex",
+        "city": "Santa Cruz/Piedra Plat",
+        "capacity": 1000,
+        "latitude": 12.5246817,
+        "longitude": -69.9930959
+    },
+    {
+        "id": 8827364519,
+        "name": "Guillermo P. Trinidad Stadium",
+        "city": "Oranjestad (Dakota)",
+        "capacity": 2500,
+        "latitude": 12.5131692,
+        "longitude": -70.02386899999999
+    },
+    {
+        "id": 3394857210,
+        "name": "Estrella Stadium",
+        "city": "Santa Cruz",
+        "capacity": 1000,
+        "latitude": 12.5059335,
+        "longitude": -69.9858062
+    },
+    {
+        "id": 5564738291,
+        "name": "La Fama Stadium",
+        "city": "Savaneta",
+        "capacity": 1100,
+        "latitude": 12.447296,
+        "longitude": -69.9458792
+    }
+]

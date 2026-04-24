@@ -1,0 +1,102 @@
+[
+    {
+        "id": 8232,
+        "name": "Nacional",
+        "code": null,
+        "country": "Aruba",
+        "founded": 1970,
+        "national": true,
+        "logo": "https://api-sports.io",
+        "venue_id": 4928173645
+    },
+    {
+        "id": 8234,
+        "name": "Britannia",
+        "code": null,
+        "country": "Aruba",
+        "founded": 1958,
+        "national": false,
+        "logo": "https://api-sports.io",
+        "venue_id": 1039485726
+    },
+    {
+        "id": 8237,
+        "name": "Dakota",
+        "code": null,
+        "country": "Aruba",
+        "founded": 1947,
+        "national": false,
+        "logo": "https://api-sports.io",
+        "venue_id": 8827364519
+    },
+    {
+        "id": 8238,
+        "name": "Estrella",
+        "code": null,
+        "country": "Aruba",
+        "founded": 1948,
+        "national": false,
+        "logo": "https://api-sports.io",
+        "venue_id": 3394857210
+    },
+    {
+        "id": 8239,
+        "name": "La Fama",
+        "code": null,
+        "country": "Aruba",
+        "founded": 1927,
+        "national": false,
+        "logo": "https://api-sports.io",
+        "venue_id": 5564738291
+    },
+    {
+        "id": 8240,
+        "name": "RCA",
+        "code": null,
+        "country": "Aruba",
+        "founded": 1934,
+        "national": false,
+        "logo": "https://api-sports.io",
+        "venue_id": 8827364519
+    },
+    {
+        "id": 8242,
+        "name": "River Plate",
+        "code": null,
+        "country": "Aruba",
+        "founded": 1953,
+        "national": false,
+        "logo": "https://api-sports.io",
+        "venue_id": 8827364519
+    },
+    {
+        "id": 11176,
+        "name": "Jong Aruba",
+        "code": null,
+        "country": "Aruba",
+        "founded": 1948,
+        "national": false,
+        "logo": "https://api-sports.io",
+        "venue_id": 8827364519
+    },
+    {
+        "id": 18449,
+        "name": "United",
+        "code": null,
+        "country": "Aruba",
+        "founded": null,
+        "national": false,
+        "logo": "https://api-sports.io",
+        "venue_id": 4928173645
+    },
+    {
+        "id": 25131,
+        "name": "Unistars",
+        "code": null,
+        "country": "Aruba",
+        "founded": null,
+        "national": false,
+        "logo": "https://api-sports.io",
+        "venue_id": 5564738291
+    }
+]
