@@ -1,0 +1,146 @@
+[
+    {
+        "id": 1755,
+        "name": "Stadion Nairi",
+        "city": "Yerevan",
+        "capacity": 6800,
+        "latitude": 40.154449,
+        "longitude": 44.4754099
+    },
+    {
+        "id": 19103,
+        "name": "Gandzasar Stadium",
+        "city": "Kapan",
+        "capacity": 3500,
+        "latitude": 39.2076496,
+        "longitude": 46.4008828
+    },
+    {
+        "id": 121,
+        "name": "Vazgen Sargsyan anvan Hanrapetakan Marzadasht",
+        "city": "Yerevan",
+        "capacity": 14530,
+        "latitude": 40.1719192,
+        "longitude": 44.5256442
+    },
+    {
+        "id": 119,
+        "name": "Urartu Stadium",
+        "city": "Yerevan",
+        "capacity": 5000,
+        "latitude": 40.171373,
+        "longitude": 44.4499346
+    },
+    {
+        "id": 120,
+        "name": "Yerevan Football Academy",
+        "city": "Yerevan",
+        "capacity": 1500,
+        "latitude": 40.21941,
+        "longitude": 44.5577857
+    },
+    {
+        "id": 20559,
+        "name": "Armaviri Hakob Tonoyani Stadium",
+        "city": "Armavir",
+        "capacity": 3300,
+        "latitude": 40.16473939999999,
+        "longitude": 44.04528579999999
+    },
+    {
+        "id": 2479,
+        "name": "Gyumri City Stadium",
+        "city": "Gyumri",
+        "capacity": 3500,
+        "latitude": 40.78579999999999,
+        "longitude": 43.8334284
+    },
+    {
+        "id": 19915,
+        "name": "Vayk Stadium",
+        "city": "Vayk",
+        "capacity": 2000,
+        "latitude": 39.6896794,
+        "longitude": 45.4627792
+    },
+    {
+        "id": 4655,
+        "name": "Charentsavan City Stadium",
+        "city": "Charentsavan",
+        "capacity": 5000,
+        "latitude": 40.4088241,
+        "longitude": 44.6459899
+    },
+    {
+        "id": 10489,
+        "name": "Kasakhi Marzik Stadium",
+        "city": "Ashtarak",
+        "capacity": 3600,
+        "latitude": 40.2909303,
+        "longitude": 44.3524068
+    },
+    {
+        "id": 7464,
+        "name": "Mika",
+        "city": "Yerevan",
+        "capacity": 7140,
+        "latitude": 40.1493985,
+        "longitude": 44.4764603
+    },
+    {
+        "id": 21934,
+        "name": "Junior Sport Stadium",
+        "city": "Yerevan",
+        "capacity": 1188,
+        "latitude": 40.1440875,
+        "longitude": 44.4846552
+    },
+    {
+        "id": 2122332223256,
+        "name": "Vanadzor Football Academy",
+        "city": "Vanadzor",
+        "capacity": 5000,
+        "latitude": 40.8398715,
+        "longitude": 44.4490059
+    },
+    {
+        "id": 2478,
+        "name": "Vanadzor Stadium",
+        "city": "Vanadzor",
+        "capacity": 6000,
+        "latitude": 40.79745459999999,
+        "longitude": 44.4939542
+    },
+    {
+        "id": 2481,
+        "name": "Sports Complex Dzoraghbyur",
+        "city": "Dzoraghbyur",
+        "capacity": 1000,
+        "latitude": 40.2025619,
+        "longitude": 44.652151
+    },
+    {
+        "id": 4653,
+        "name": "Banants-3",
+        "city": "Yerevan",
+        "capacity": 1500,
+        "latitude": 40.171373,
+        "longitude": 44.4499346
+    },
+    {
+        "id": 2480,
+        "name": "Pyunik Training Centre",
+        "city": "Yerevan",
+        "capacity": 2000,
+        "latitude": 40.18221150000001,
+        "longitude": 44.4891857
+    },
+    {
+        "id": 21935,
+        "name": "Fut Akademia",
+        "city": "Vagharshapat (Ejmiatsin)",
+        "capacity": 1000,
+        "latitude": 40.1483373,
+        "longitude": 44.29809909999999
+    }
+]

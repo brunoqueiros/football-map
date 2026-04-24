@@ -1,0 +1,272 @@
+[
+    {
+        "id": 582,
+        "name": "Alashkert",
+        "code": "ALA",
+        "country": "Armenia",
+        "founded": 1990,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/582.png",
+        "venue_id": 1755
+    },
+    {
+        "id": 688,
+        "name": "Gandzasar",
+        "code": "GAN",
+        "country": "Armenia",
+        "founded": 2021,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/688.png",
+        "venue_id": 19103
+    },
+    {
+        "id": 709,
+        "name": "Pyunik Yerevan",
+        "code": "PYU",
+        "country": "Armenia",
+        "founded": 1992,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/709.png",
+        "venue_id": 121
+    },
+    {
+        "id": 2276,
+        "name": "FC Urartu",
+        "code": "BAN",
+        "country": "Armenia",
+        "founded": 1992,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/2276.png",
+        "venue_id": 119
+    },
+    {
+        "id": 3682,
+        "name": "Ararat",
+        "code": "ARA",
+        "country": "Armenia",
+        "founded": 1935,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/3682.png",
+        "venue_id": 121
+    },
+    {
+        "id": 3683,
+        "name": "Ararat-Armenia",
+        "code": null,
+        "country": "Armenia",
+        "founded": 2017,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/3683.png",
+        "venue_id": 120
+    },
+    {
+        "id": 3684,
+        "name": "FC Noah",
+        "code": null,
+        "country": "Armenia",
+        "founded": 2017,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/3684.png",
+        "venue_id": 20559
+    },
+    {
+        "id": 3686,
+        "name": "Shirak",
+        "code": "SHI",
+        "country": "Armenia",
+        "founded": 1958,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/3686.png",
+        "venue_id": 2479
+    },
+    {
+        "id": 6279,
+        "name": "BKMA",
+        "code": null,
+        "country": "Armenia",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/6279.png",
+        "venue_id": 120
+    },
+    {
+        "id": 6281,
+        "name": "Lernayin Artsakh",
+        "code": null,
+        "country": "Armenia",
+        "founded": 1927,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/6281.png",
+        "venue_id": 19915
+    },
+    {
+        "id": 6286,
+        "name": "Van",
+        "code": null,
+        "country": "Armenia",
+        "founded": 2019,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/6286.png",
+        "venue_id": 4655
+    },
+    {
+        "id": 6287,
+        "name": "West Armenia",
+        "code": null,
+        "country": "Armenia",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/6287.png",
+        "venue_id": 10489
+    },
+    {
+        "id": 11174,
+        "name": "Mika",
+        "code": "MIK",
+        "country": "Armenia",
+        "founded": 2018,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/11174.png",
+        "venue_id": 7464
+    },
+    {
+        "id": 20087,
+        "name": "Syunik",
+        "code": null,
+        "country": "Armenia",
+        "founded": 2004,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/20087.png",
+        "venue_id": 19103
+    },
+    {
+        "id": 21877,
+        "name": "Andranik",
+        "code": null,
+        "country": "Armenia",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/21877.png",
+        "venue_id": 21934
+    },
+    {
+        "id": 21878,
+        "name": "Nikarm",
+        "code": null,
+        "country": "Armenia",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/21878.png",
+        "venue_id": 2122332223256
+    },
+    {
+        "id": 22561,
+        "name": "Cilicia",
+        "code": null,
+        "country": "Armenia",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/22561.png",
+        "venue_id": 7464
+    },
+    {
+        "id": 24712,
+        "name": "Vayk",
+        "code": null,
+        "country": "Armenia",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/24712.png",
+        "venue_id": 19915
+    },
+    {
+        "id": 24965,
+        "name": "Bentonit Ijevan",
+        "code": null,
+        "country": "Armenia",
+        "founded": 2019,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/24965.png",
+        "venue_id": 2478
+    },
+    {
+        "id": 25114,
+        "name": "Araks Ararat",
+        "code": null,
+        "country": "Armenia",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/25114.png",
+        "venue_id": 20559
+    },
+    {
+        "id": 3688,
+        "name": "Ararat II",
+        "code": null,
+        "country": "Armenia",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/3688.png",
+        "venue_id": 2481
+    },
+    {
+        "id": 3689,
+        "name": "Ararat-Armenia II",
+        "code": null,
+        "country": "Armenia",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/3689.png",
+        "venue_id": 120
+    },
+    {
+        "id": 3690,
+        "name": "Banants II",
+        "code": null,
+        "country": "Armenia",
+        "founded": 1992,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/3690.png",
+        "venue_id": 4653
+    },
+    {
+        "id": 3696,
+        "name": "Pyunik II",
+        "code": null,
+        "country": "Armenia",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/3696.png",
+        "venue_id": 2480
+    },
+    {
+        "id": 3697,
+        "name": "Shirak II",
+        "code": null,
+        "country": "Armenia",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/3697.png",
+        "venue_id": 2479
+    },
+    {
+        "id": 17171,
+        "name": "BKMA II",
+        "code": null,
+        "country": "Armenia",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/17171.png",
+        "venue_id": 120
+    },
+    {
+        "id": 21879,
+        "name": "Noah II",
+        "code": null,
+        "country": "Armenia",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/21879.png",
+        "venue_id": 21935
+    }
+]
