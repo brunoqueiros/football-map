@@ -56,7 +56,6 @@ export default function MapContainer({
           setSelectedTeam(null); // Reset selected team when clicking map marker
         }}
       />
-      {console.log('selectedStadium', selectedStadium)}
       {selectedStadium && (
         <StadiumCard
           stadium={{

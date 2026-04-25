@@ -3,7 +3,7 @@
 import { supabase, Team } from '@/lib/supabase';
 
 export async function getFixturesForTeam(teamId: number) {
-  const fixtures = require('../../data/fixtures.json');
+  const fixtures: any[] = require('../../data/fixtures.json');
 
   return fixtures.filter(fixture => fixture.teams.home.id === teamId || fixture.teams.away.id === teamId);
 }
@@ -16,6 +16,9 @@ export async function getAllTeams(): Promise<{
     return {
       teams: Object.values(require('../../data/teams')).flat(),
       venues: Object.values(require('../../data/venues')).flat(),
+    } as {
+      teams: any;
+      venues: any;
     };
   }
 
@@ -31,6 +34,7 @@ export async function getAllTeams(): Promise<{
     throw new Error('Failed to fetch teams');
   }
 
+  // @ts-ignore
   return data || [];
 }
 

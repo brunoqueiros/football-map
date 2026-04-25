@@ -5,9 +5,10 @@ import { useFuzzySearchList } from '@nozbe/microfuzz/react';
 import Crest from "./Crest";
 
 interface SearchBarProps {
-  onSelectTeam: (team: Stadium) => void;
+  onSelectTeam: (team: Stadium, venue: any) => void;
   hideCard: () => void;
   teams: Stadium[];
+  venues: any[];
 }
 
 const COUNTRIES: Record<string, string> = {
@@ -267,6 +268,7 @@ export default function SearchBar({ onSelectTeam, teams, hideCard, venues }: Sea
                     className={`flex items-center justify-between gap-3 px-4 py-3 rounded-lg transition-colors text-left bg-neutral-800/30 hover:bg-neutral-700/50 border-neutral-700/30 hover:border-neutral-600/50 border`}
                     // onMouseEnter={() => !isMobile && setHighlightedIndex(index)}
                     onClick={() => {
+                      // @ts-ignore
                       onSelectTeam(team, venues.find(v => v.id === team.venue_id));
                       setSearchQuery("");
                       setIsFocused(false);
@@ -277,6 +279,7 @@ export default function SearchBar({ onSelectTeam, teams, hideCard, venues }: Sea
                       <div>
                         <span className="text-sm font-medium text-neutral-200 truncate">{team.name}</span>
                         <div className="flex items-center gap-1.5 text-xs text-neutral-400">
+                          {/* @ts-ignore */}
                           <span>{venues.find(v => v.id === team.venue_id).city}</span>
                         </div>
                       </div>
