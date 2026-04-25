@@ -29,3 +29,4 @@ export { default as burkinaFaso } from './burkina-faso-teams.json';
 export { default as burundi } from './burundi-teams.json';
 export { default as cambodia } from './cambodia-teams.json';
 export { default as cameroon } from './cameroon-teams.json';
+export { default as canada } from './canada-teams.json';

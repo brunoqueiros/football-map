@@ -29,3 +29,4 @@ export { default as burkinaFaso } from './burkina-faso-venues.json';
 export { default as burundi } from './burundi-venues.json';
 export { default as cambodia } from './cambodia-venues.json';
 export { default as cameroon } from './cameroon-venues.json';
+export { default as canada } from './canada-venues.json';

@@ -1,0 +1,290 @@
+[
+  {
+    "id": 312,
+    "name": "BMO Field",
+    "city": "Toronto",
+    "capacity": 36045,
+    "latitude": 43.6332125,
+    "longitude": -79.4185813
+  },
+  {
+    "id": 19445,
+    "name": "BC Place",
+    "city": "Vancouver",
+    "capacity": 54405,
+    "latitude": 49.27675,
+    "longitude": -123.111999
+  },
+  {
+    "id": 310,
+    "name": "Stade Saputo",
+    "city": "Montreal",
+    "capacity": 20801,
+    "latitude": 45.5630738,
+    "longitude": -73.5526584
+  },
+  {
+    "id": 2597,
+    "name": "ATCO Field",
+    "city": "Calgary",
+    "capacity": 7052,
+    "latitude": 50.8840181,
+    "longitude": -114.0986904
+  },
+  {
+    "id": 2599,
+    "name": "Wanderers Grounds",
+    "city": "Halifax",
+    "capacity": 6500,
+    "latitude": 44.6444567,
+    "longitude": -63.5835848
+  },
+  {
+    "id": 19444,
+    "name": "Starlight Stadium",
+    "city": "Victoria",
+    "capacity": 6000,
+    "latitude": 48.4431007,
+    "longitude": -123.5236036
+  },
+  {
+    "id": 2601,
+    "name": "York Lions Stadium",
+    "city": "Toronto",
+    "capacity": 8000,
+    "latitude": 43.7751651,
+    "longitude": -79.5065664
+  },
+  {
+    "id": 21640,
+    "name": "Hamilton Stadium",
+    "city": "Hamilton",
+    "capacity": 40000,
+    "latitude": 43.2521188,
+    "longitude": -79.8300998
+  },
+  {
+    "id": 21643,
+    "name": "Princess Auto Stadium",
+    "city": "Winnipeg",
+    "capacity": 33422,
+    "latitude": 49.8078783,
+    "longitude": -97.14297239999999
+  },
+  {
+    "id": 3128,
+    "name": "Swangard Stadium",
+    "city": "Burnaby",
+    "capacity": 6868,
+    "latitude": 49.2308474,
+    "longitude": -123.0214483
+  },
+  {
+    "id": 7149,
+    "name": "TD Place Stadium",
+    "city": "Ottawa",
+    "capacity": 28826,
+    "latitude": 45.39840359999999,
+    "longitude": -75.6835728
+  },
+  {
+    "id": 131846723009,
+    "name": "J.C. Massie Field",
+    "city": "Barrie",
+    "capacity": null,
+    "latitude": 44.4102335,
+    "longitude": -79.66124549999999
+  },
+  {
+    "id": 20613,
+    "name": "Willoughby Community Park at the Langley Events Centre",
+    "city": "Langley",
+    "capacity": 6600,
+    "latitude": 49.1450514,
+    "longitude": -122.6656481
+  },
+  {
+    "id": 20614,
+    "name": "Stade Cégep Vanier",
+    "city": "Saint-Laurent",
+    "capacity": 1500,
+    "latitude": 45.51446259999999,
+    "longitude": -73.6755719
+  },
+  {
+    "id": 311,
+    "name": "Centennial Park Stadium",
+    "city": "Etobicoke",
+    "capacity": 2200,
+    "latitude": 43.65384700000001,
+    "longitude": -79.584575
+  },
+  {
+    "id": 1840,
+    "name": "Birchmount Stadium",
+    "city": "Scarborough",
+    "capacity": 2500,
+    "latitude": 43.696126,
+    "longitude": -79.2611405
+  },
+  {
+    "id": 309,
+    "name": "Heritage Green Field",
+    "city": "Stoney Creek",
+    "capacity": 1000,
+    "latitude": 43.1998649,
+    "longitude": -79.77658029999999
+  },
+  {
+    "id": 266703549604,
+    "name": "St. Joan of Arc Catholic High School ",
+    "city": "Maple",
+    "capacity": null,
+    "latitude": 43.8612838,
+    "longitude": -79.5189183
+  },
+  {
+    "id": 18600,
+    "name": "North Maple Regional Park Turf 1",
+    "city": "Vaughan",
+    "capacity": 1000,
+    "latitude": 43.8854759,
+    "longitude": -79.5104569
+  },
+  {
+    "id": 936540746136,
+    "name": "Centennial Bowl",
+    "city": "Guelph",
+    "capacity": 2500,
+    "latitude": 43.5237045,
+    "longitude": -80.2532122
+  },
+  {
+    "id": 18585,
+    "name": "Centennial College Turf",
+    "city": "Toronto",
+    "capacity": 1500,
+    "latitude": 43.657032,
+    "longitude": -79.5918851
+  },
+  {
+    "id": 18587,
+    "name": "Oakville Sheridan College Stadium",
+    "city": "Oakville",
+    "capacity": 1000,
+    "latitude": 43.4690663,
+    "longitude": -79.70004109999999
+  },
+  {
+    "id": 18588,
+    "name": "Nelson Stadium",
+    "city": "Burlington",
+    "capacity": 1000,
+    "latitude": 43.3597349,
+    "longitude": -79.76718079999999
+  },
+  {
+    "id": 18591,
+    "name": "Ron Joyce Stadium",
+    "city": "Hamilton",
+    "capacity": 6000,
+    "latitude": 43.2661138,
+    "longitude": -79.9169964
+  },
+  {
+    "id": 18593,
+    "name": "Downsview Turf 1",
+    "city": "North York",
+    "capacity": 1000,
+    "latitude": 43.7441806,
+    "longitude": -79.47334219999999
+  },
+  {
+    "id": 18595,
+    "name": "Victoria Park Stadium",
+    "city": "Brampton",
+    "capacity": 2000,
+    "latitude": 43.7044446,
+    "longitude": -79.699107
+  },
+  {
+    "id": 21641,
+    "name": "Jean Vanier Field",
+    "city": "Milton",
+    "capacity": 1000,
+    "latitude": 43.5132917,
+    "longitude": -79.82777589999999
+  },
+  {
+    "id": 18592,
+    "name": "Hershey Centre Turf Field 1",
+    "city": "Mississauga",
+    "capacity": 5400,
+    "latitude": 43.6323149,
+    "longitude": -79.65345599999999
+  },
+  {
+    "id": 18599,
+    "name": "Vaughan Grove 1",
+    "city": "Woodbridge",
+    "capacity": 1000,
+    "latitude": 43.7681744,
+    "longitude": -79.60440489999999
+  },
+  {
+    "id": 2360,
+    "name": "Queens Park Stadium",
+    "city": "New Westminster",
+    "capacity": 1000,
+    "latitude": 49.2128864,
+    "longitude": -122.9050155
+  },
+  {
+    "id": 2361,
+    "name": "Ladysmith Turf Field",
+    "city": "Ladysmith",
+    "capacity": 2000,
+    "latitude": 48.9985168,
+    "longitude": -123.8433871
+  },
+  {
+    "id": 11621,
+    "name": "Port Moody Trasolini Turf",
+    "city": "Port Moody",
+    "capacity": 1000,
+    "latitude": 49.2981378,
+    "longitude": -122.8392073
+  },
+  {
+    "id": 20668,
+    "name": "Warner Rentals Field at Hillside Stadium",
+    "city": "Kamloops",
+    "capacity": 1060,
+    "latitude": 50.6697122,
+    "longitude": -120.3671177
+  },
+  {
+    "id": 18564,
+    "name": "Braefoot Park",
+    "city": "Victoria",
+    "capacity": 2000,
+    "latitude": 48.4708082,
+    "longitude": -123.3481355
+  },
+  {
+    "id": 20669,
+    "name": "University of Victoria - Field 3",
+    "city": "Victoria",
+    "capacity": 1000,
+    "latitude": 48.4700204,
+    "longitude": -123.3173829
+  },
+  {
+    "id": 962385703876,
+    "name": "Varsity Stadium",
+    "city": "Toronto",
+    "capacity": 5000,
+    "latitude": 43.66705289999999,
+    "longitude": -79.3972706
+  }
+]
