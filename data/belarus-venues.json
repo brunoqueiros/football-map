@@ -428,8 +428,8 @@
         "name": "City Stadium",
         "city": "Gorki",
         "capacity": 1939,
-        "latitude": 53.4831634,
-        "longitude": -2.2003736
+        "latitude": 54.27727296552825,
+        "longitude": 31.00049202016409
     },
     {
         "id": 5643,
@@ -548,8 +548,8 @@
         "name": "City Stadium",
         "city": "Belynichi",
         "capacity": null,
-        "latitude": 53.4831634,
-        "longitude": -2.2003736
+        "latitude": 54.00710802963352,
+        "longitude": 29.712300787714984
     },
     {
         "id": 900040,

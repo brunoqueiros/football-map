@@ -1,0 +1,234 @@
+[
+    {
+        "id": 246,
+        "name": "Estádio Municipal Prefeito Dilzon Luiz de Melo",
+        "city": "Varginha",
+        "capacity": 15471,
+        "latitude": -21.5701332,
+        "longitude": -45.4141273
+    },
+    {
+        "id": 4079,
+        "name": "Stade Omnisports Paulin Tomanaga",
+        "city": "Bohicon",
+        "capacity": 5000,
+        "latitude": 7.195275199999999,
+        "longitude": 2.057941
+    },
+    {
+        "id": 4113,
+        "name": "Stade René Pleven d'Akpakpa",
+        "city": "Cotonou",
+        "capacity": 10000,
+        "latitude": 6.3664386,
+        "longitude": 2.4491147
+    },
+    {
+        "id": 19315,
+        "name": "Stade de Toffo",
+        "city": "Toffo",
+        "capacity": 3500,
+        "latitude": 6.8408947,
+        "longitude": 2.1083993
+    },
+    {
+        "id": 20367,
+        "name": "Stade d'Adjohoun",
+        "city": "Adjohoun",
+        "capacity": 3500,
+        "latitude": 6.713338599999999,
+        "longitude": 2.4865399
+    },
+    {
+        "id": 11491,
+        "name": "Stade Municipal d'Avrankou",
+        "city": "Avrankou",
+        "capacity": 5000,
+        "latitude": 6.568428099999999,
+        "longitude": 2.6503363
+    },
+    {
+        "id": 20368,
+        "name": "Stade de Pobè",
+        "city": "Pobè",
+        "capacity": 3000,
+        "latitude": 6.9931361,
+        "longitude": 2.6697909
+    },
+    {
+        "id": 4105,
+        "name": "Stade Municipal de Parakou",
+        "city": "Parakou",
+        "capacity": 7000,
+        "latitude": 9.3431448,
+        "longitude": 2.6365746
+    },
+    {
+        "id": 4106,
+        "name": "Stade Municipal de Bembèrèkè",
+        "city": "Bembèrèkè",
+        "capacity": 1000,
+        "latitude": 10.2436663,
+        "longitude": 2.6810397
+    },
+    {
+        "id": 4107,
+        "name": "Stade Charles de Gaulle",
+        "city": "Porto-Novo",
+        "capacity": 16872,
+        "latitude": 6.477385,
+        "longitude": 2.6180395
+    },
+    {
+        "id": 4108,
+        "name": "Stade Omnisport d'Abomey",
+        "city": "Abomey",
+        "capacity": 7500,
+        "latitude": 7.183668099999999,
+        "longitude": 2.0101631
+    },
+    {
+        "id": 4111,
+        "name": "Stade Jean-Pierre Gascon",
+        "city": "Pobè",
+        "capacity": 5000,
+        "latitude": 6.9931361,
+        "longitude": 2.6697909
+    },
+    {
+        "id": 20369,
+        "name": "Stade Municipal de Djougou",
+        "city": "Djougou",
+        "capacity": 3000,
+        "latitude": 9.7062419,
+        "longitude": 1.670333
+    },
+    {
+        "id": 4114,
+        "name": "Stade Universitaire",
+        "city": "Abomey Calavi",
+        "capacity": 1000,
+        "latitude": 6.4110206,
+        "longitude": 2.3410219
+    },
+    {
+        "id": 21292,
+        "name": "Stade Omnisports de Ouessè",
+        "city": "Ouesse",
+        "capacity": 3000,
+        "latitude": 8.494668299999999,
+        "longitude": 2.4311217
+    },
+    {
+        "id": 306,
+        "name": "Terrain de foot de Godomey",
+        "city": "Godomey",
+        "capacity": 60000,
+        "latitude": 6.396337767102338,
+        "longitude": 2.3447502565715017
+    },
+    {
+        "id": 19319,
+        "name": "Stade Omnisports de Nikki",
+        "city": "Nikki",
+        "capacity": 1500,
+        "latitude": 9.937408699999999,
+        "longitude": 3.176225
+    },
+    {
+        "id": 20371,
+        "name": "Stade Aplahoué",
+        "city": "Aplahoué",
+        "capacity": 3000,
+        "latitude": 6.942356200000001,
+        "longitude": 1.6733691
+    },
+    {
+        "id": 20372,
+        "name": "Stade N’Dali",
+        "city": "N’Dali",
+        "capacity": 1000,
+        "latitude": 9.863038699999999,
+        "longitude": 2.7133005
+    },
+    {
+        "id": 19317,
+        "name": "Stade Atchoukouma",
+        "city": "Djougou",
+        "capacity": 3400,
+        "latitude": 9.7062419,
+        "longitude": 1.670333
+    },
+    {
+        "id": 20373,
+        "name": "Stade Municipal de Savalou",
+        "city": "Savalou",
+        "capacity": 1000,
+        "latitude": 7.916782199999999,
+        "longitude": 1.9560844
+    },
+    {
+        "id": 19320,
+        "name": "Stade de Comè",
+        "city": "Comè",
+        "capacity": 4000,
+        "latitude": 45.8138711,
+        "longitude": 9.0723755
+    },
+    {
+        "id": 19321,
+        "name": "Stade Saka Kina Guézéré",
+        "city": "Kandi",
+        "capacity": 1000,
+        "latitude": 11.1374941,
+        "longitude": 2.9374581
+    },
+    {
+        "id": 20037,
+        "name": "Stade Municipal de Ouidah",
+        "city": "Ouidah",
+        "capacity": 1000,
+        "latitude": 6.3699689,
+        "longitude": 2.0650659
+    },
+    {
+        "id": 20030,
+        "name": "Stade Omnisports de Grand-Popo",
+        "city": "Grand Popo",
+        "capacity": 4000,
+        "latitude": 6.280416600000001,
+        "longitude": 1.8282084
+    },
+    {
+        "id": 20374,
+        "name": "Stade de Banikoara",
+        "city": "Banikoara",
+        "capacity": 4000,
+        "latitude": 11.3022695,
+        "longitude": 2.4352731
+    },
+    {
+        "id": 20375,
+        "name": "Stade de Kétou",
+        "city": "Kétou",
+        "capacity": 1000,
+        "latitude": 7.370456399999998,
+        "longitude": 2.6108478
+    },
+    {
+        "id": 21293,
+        "name": "Stade Tchaourou",
+        "city": "Tchaourou",
+        "capacity": 1000,
+        "latitude": 8.8901424,
+        "longitude": 2.5927188
+    },
+    {
+        "id": 215976685871,
+        "name": "USS Krake Stadium",
+        "city": "Akraké",
+        "capacity": null,
+        "latitude": 6.382858799999999,
+        "longitude": 2.6688694
+    }
+]

@@ -708,8 +708,8 @@
         "name": "Thornton Park",
         "city": "Thornton",
         "capacity": 1000,
-        "latitude": 53.9283852,
-        "longitude": -2.1539463
+        "latitude": -32.7776609519489,
+        "longitude": 151.64182017500264
     },
     {
         "id": 20675,
@@ -785,11 +785,11 @@
     },
     {
         "id": 7161,
-        "name": "Rockwell Automation Park",
-        "city": "Newcastle",
+        "name": "Hunter City Motor Group Stadium",
+        "city": "Weston",
         "capacity": 1000,
-        "latitude": 54.978252,
-        "longitude": -1.61778
+        "latitude": -32.81327415669163,
+        "longitude": 151.46619276707054
     },
     {
         "id": 12668,
