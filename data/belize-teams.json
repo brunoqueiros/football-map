@@ -1,0 +1,62 @@
+[
+    {
+        "id": 5470,
+        "name": "Bandits",
+        "code": null,
+        "country": "Belize",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/5470.png",
+        "venue_id": 4116
+    },
+    {
+        "id": 5475,
+        "name": "Verdes",
+        "code": null,
+        "country": "Belize",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/5475.png",
+        "venue_id": 4119
+    },
+    {
+        "id": 5476,
+        "name": "Wagiya",
+        "code": null,
+        "country": "Belize",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/5476.png",
+        "venue_id": 4120
+    },
+    {
+        "id": 5478,
+        "name": "San Pedro Pirates",
+        "code": null,
+        "country": "Belize",
+        "founded": 2017,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/5478.png",
+        "venue_id": 4121
+    },
+    {
+        "id": 19741,
+        "name": "Port Layola",
+        "code": null,
+        "country": "Belize",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/19741.png",
+        "venue_id": 4153
+    },
+    {
+        "id": 19762,
+        "name": "Progresso",
+        "code": null,
+        "country": "Belize",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/19762.png",
+        "venue_id": 111888338790
+    }
+]

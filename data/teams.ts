@@ -17,3 +17,4 @@ export { default as bangladesh } from './bangladesh-teams.json';
 export { default as barbados } from './barbados-teams.json';
 export { default as belarus } from './belarus-teams.json';
 export { default as belgium } from './belgium-teams.json';
+export { default as belize } from './belize-teams.json';

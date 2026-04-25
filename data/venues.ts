@@ -17,3 +17,4 @@ export { default as bangladesh } from './bangladesh-venues.json';
 export { default as barbados } from './barbados-venues.json';
 export { default as belarus } from './belarus-venues.json';
 export { default as belgium } from './belgium-venues.json';
+export { default as belize } from './belize-venues.json';

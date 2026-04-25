@@ -1,0 +1,50 @@
+[
+    {
+        "id": 4116,
+        "name": "Isidoro Beaton Stadium",
+        "city": "Belmopan",
+        "capacity": 2500,
+        "latitude": 17.2514857,
+        "longitude": -88.76333369999999
+    },
+    {
+        "id": 4119,
+        "name": "Norman Broaster Stadium",
+        "city": "San Ignacio Town",
+        "capacity": 2000,
+        "latitude": 17.1601979,
+        "longitude": -89.0699578
+    },
+    {
+        "id": 4120,
+        "name": "Carl Ramos Stadium",
+        "city": "Dangriga",
+        "capacity": 3500,
+        "latitude": 16.9712076,
+        "longitude": -88.2214322
+    },
+    {
+        "id": 4121,
+        "name": "San Pedro Municipal Stadium",
+        "city": "San Pedro",
+        "capacity": 2000,
+        "latitude": 17.904864349135686,
+        "longitude": -87.97899300028662
+    },
+    {
+        "id": 4153,
+        "name": "FFB Field",
+        "city": "Belmopán",
+        "capacity": 5000,
+        "latitude": 17.2521511,
+        "longitude": -88.7863586
+    },
+    {
+        "id": 111888338790,
+        "name": "People's Stadium",
+        "city": "Orange Walk Town",
+        "capacity": 1200,
+        "latitude": 18.0847736,
+        "longitude": -88.5699795
+    }
+]
