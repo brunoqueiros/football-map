@@ -58,6 +58,35 @@ const COUNTRIES: Record<string, string> = {
   'ukraine': '🇺🇦',
   'croatia': '🇭🇷',
   'algeria': '🇩🇿',
+  'albania': '🇦🇱',
+  'angola': '🇦🇴',
+  'armenia': '🇦🇲',
+  'azerbaijan': '🇦🇿',
+  'aruba': '🇦🇼',
+  'australia': '🇦🇺',
+  'bahrain': '🇧🇭',
+  'bangladesh': '🇧🇩',
+  'barbados': '🇧🇧',
+  'reunion': '🇷🇪',
+  'tahiti': '🇵🇫',
+  'new-zealand': '🇳🇿',
+  'belarus': '🇧🇾',
+  'belize': '🇧🇿',
+  'benin': '🇧🇯',
+  'bermuda': '🇧🇲',
+  'bhutan': '🇧🇹',
+  'bolivia': '🇧🇴',
+  'bosnia': '🇧🇦',
+  'botswana': '🇧🇼',
+  'bulgaria': '🇧🇬',
+  'burkina-faso': '🇧🇫',
+  'burundi': '🇧🇮',
+  'cambodia': '🇰🇭',
+  'cameroon': '🇨🇲',
+  'taiwan': '🇹🇼',
+  'congo-dr': '🇨🇩',
+  'congo': '🇨🇬',
+  'costa-rica': '🇨🇷',
 };
 
 export const flag = (country: string) => COUNTRIES[country.replaceAll(' ', '-').toLocaleLowerCase()];
@@ -65,7 +94,7 @@ export const flag = (country: string) => COUNTRIES[country.replaceAll(' ', '-').
 export default function SearchBar({ onSelectTeam, teams, hideCard, venues }: SearchBarProps) {
   const [searchQuery, setSearchQuery] = useState("");
   const [isFocused, setIsFocused] = useState(false);
-  const [highlightedIndex, setHighlightedIndex] = useState(0);
+  // const [highlightedIndex, setHighlightedIndex] = useState(0);
   const [isMobile, setIsMobile] = useState(false);
   const inputRef = useRef<HTMLInputElement>(null);
 
@@ -92,10 +121,10 @@ export default function SearchBar({ onSelectTeam, teams, hideCard, venues }: Sea
   const showResults = isFocused && filteredTeams.length > 0;
   const showNoResults = isFocused && searchQuery.trim() && filteredTeams.length === 0;
 
-  // Reset highlighted index when filtered teams change
-  useEffect(() => {
-    setHighlightedIndex(0);
-  }, [filteredTeams.length, searchQuery]);
+  // // Reset highlighted index when filtered teams change
+  // useEffect(() => {
+  //   setHighlightedIndex(0);
+  // }, [filteredTeams.length, searchQuery]);
 
   // Detect if we're on mobile
   useEffect(() => {
@@ -123,44 +152,44 @@ export default function SearchBar({ onSelectTeam, teams, hideCard, venues }: Sea
     return () => window.removeEventListener('keydown', handleGlobalKeyDown);
   }, [isMobile]);
 
-  const handleKeyDown = (e: React.KeyboardEvent<HTMLInputElement>) => {
-    // Disable keyboard navigation on mobile
-    if (isMobile) return;
+  // const handleKeyDown = (e: React.KeyboardEvent<HTMLInputElement>) => {
+  //   // Disable keyboard navigation on mobile
+  //   if (isMobile) return;
 
-    // Handle Escape key
-    if (e.key === 'Escape') {
-      e.preventDefault();
-      setIsFocused(false);
-      inputRef.current?.blur();
-      return;
-    }
+  //   // Handle Escape key
+  //   if (e.key === 'Escape') {
+  //     e.preventDefault();
+  //     setIsFocused(false);
+  //     inputRef.current?.blur();
+  //     return;
+  //   }
 
-    if (!showResults) return;
+  //   if (!showResults) return;
 
-    switch (e.key) {
-      case 'ArrowDown':
-        e.preventDefault();
-        setHighlightedIndex((prev) =>
-          prev < filteredTeams.length - 1 ? prev + 1 : 0
-        );
-        break;
-      case 'ArrowUp':
-        e.preventDefault();
-        setHighlightedIndex((prev) =>
-          prev > 0 ? prev - 1 : filteredTeams.length - 1
-        );
-        break;
-      case 'Enter':
-        e.preventDefault();
-        if (highlightedIndex >= 0 && highlightedIndex < filteredTeams.length) {
-          const selectedTeam = filteredTeams[highlightedIndex];
-          onSelectTeam(selectedTeam, venues.find(v => v.id === team.venue_id));
-          setSearchQuery("");
-          setIsFocused(false);
-        }
-        break;
-    }
-  };
+  //   switch (e.key) {
+  //     case 'ArrowDown':
+  //       e.preventDefault();
+  //       setHighlightedIndex((prev) =>
+  //         prev < filteredTeams.length - 1 ? prev + 1 : 0
+  //       );
+  //       break;
+  //     case 'ArrowUp':
+  //       e.preventDefault();
+  //       setHighlightedIndex((prev) =>
+  //         prev > 0 ? prev - 1 : filteredTeams.length - 1
+  //       );
+  //       break;
+  //     case 'Enter':
+  //       e.preventDefault();
+  //       if (highlightedIndex >= 0 && highlightedIndex < filteredTeams.length) {
+  //         const selectedTeam = filteredTeams[highlightedIndex];
+  //         onSelectTeam(selectedTeam, venues.find(v => v.id === team.venue_id));
+  //         setSearchQuery("");
+  //         setIsFocused(false);
+  //       }
+  //       break;
+  //   }
+  // };
 
   return (
     <div
@@ -191,7 +220,7 @@ export default function SearchBar({ onSelectTeam, teams, hideCard, venues }: Sea
               type="text"
               value={searchQuery}
               onChange={(e) => setSearchQuery(e.target.value)}
-              onKeyDown={handleKeyDown}
+              // onKeyDown={handleKeyDown}
               onFocus={() => {
                 setIsFocused(true);
                 hideCard();
@@ -235,11 +264,8 @@ export default function SearchBar({ onSelectTeam, teams, hideCard, venues }: Sea
                 {filteredTeams.map((team, index) => (
                   <button
                     key={`${team.name}-${index}`}
-                    className={`flex items-center justify-between gap-3 px-4 py-3 rounded-lg transition-colors text-left ${!isMobile && highlightedIndex === index
-                      ? 'bg-neutral-700/70 border-neutral-600'
-                      : 'bg-neutral-800/30 hover:bg-neutral-700/50 border-neutral-700/30 hover:border-neutral-600/50'
-                      } border`}
-                    onMouseEnter={() => !isMobile && setHighlightedIndex(index)}
+                    className={`flex items-center justify-between gap-3 px-4 py-3 rounded-lg transition-colors text-left bg-neutral-800/30 hover:bg-neutral-700/50 border-neutral-700/30 hover:border-neutral-600/50 border`}
+                    // onMouseEnter={() => !isMobile && setHighlightedIndex(index)}
                     onClick={() => {
                       onSelectTeam(team, venues.find(v => v.id === team.venue_id));
                       setSearchQuery("");
