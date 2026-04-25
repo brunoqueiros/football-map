@@ -349,3 +349,165 @@
 
 # Botswana
 # 412 | Premier League
+
+
+# Bulgaria
+# 174 | Cup
+# 172 | First League
+# 173 | Second League
+# 656 | Super Cup
+# 175 | Third League - Northeast
+# 176 | Third League - Northwest
+# 177 | Third League - Southeast
+# 178 | Third League - Southwest
+
+
+# Burkina-Faso
+# 423 | Ligue 1
+
+
+# Burundi
+# 566 | Ligue A
+
+
+# Cambodia
+# 410 | C-League
+# 1174 | Hun Sen Cup
+
+
+# Cameroon
+# 411 | Elite One
+# 813 | Elite Two
+# 1166 | Super Cup
+
+
+# Canada
+# 259 | Canadian Championship
+# 479 | Canadian Premier League
+# 258 | Canadian Soccer League
+# 923 | League 1 Ontario
+# 1182 | Northern Super League
+# 260 | Pacific Coast Soccer League
+
+
+# Chile
+# 267 | Copa Chile
+# 1220 | Copa De La Liga
+# 266 | Primera B
+# 265 | Primera División
+# 711 | Segunda División
+# 527 | Super Cup
+
+
+# China
+# 171 | FA Cup
+# 170 | League One
+# 929 | League Two
+# 972 | Super Cup
+# 169 | Super League
+
+
+# Chinese-Taipei
+# 589 | Taiwan Football Premier League
+
+
+# Colombia
+# 241 | Copa Colombia
+# 239 | Primera A
+# 240 | Primera B
+# 713 | Superliga
+
+
+# Congo
+# 844 | Ligue 1
+
+
+# Congo-DR
+# 424 | Ligue 1
+
+
+# Costa-Rica
+# 958 | Copa Costa Rica
+# 163 | Liga de Ascenso
+# 162 | Primera División
+# 1167 | Recopa
+# 864 | Supercopa
+
+
+# Crimea
+# 870 | Premier League
+
+
+# Croatia
+# 212 | Cup
+# 211 | First NL
+# 210 | HNL
+# 946 | Second NL
+# 1021 | Super Cup
+# 213 | Third NL - Istok
+# 214 | Third NL - Jug
+# 215 | Third NL - Sjever
+# 216 | Third NL - Sredite
+# 217 | Third NL - Zapad
+
+
+# Cuba
+# 907 | Primera Division
+
+
+# Curacao
+# 642 | Curaçao Sekshon Pagá
+
+
+# Cyprus
+# 318 | 1. Division
+# 319 | 2. Division
+# 320 | 3. Division
+# 321 | Cup
+# 852 | Super Cup
+
+
+# Czech-Republic
+# 348 | 3. liga - CFL A
+# 685 | 3. liga - CFL B
+# 349 | 3. liga - MSFL
+# 1010 | 3. liga - Promotion Play-off
+# 350 | 4. liga - Divizie A
+# 351 | 4. liga - Divizie B
+# 352 | 4. liga - Divizie C
+# 353 | 4. liga - Divizie D
+# 354 | 4. liga - Divizie E
+# 686 | 4. liga - Divizie F
+# 347 | Cup
+# 345 | Czech Liga
+# 346 | FNL
+# 925 | Super Cup
+# 1211 | Tipsport Liga
+
+
+# Denmark
+# 120 | 1. Division
+# 122 | 2. Division
+# 123 | 2nd Division - Group 2
+# 862 | 3. Division
+# 121 | DBU Pokalen
+# 124 | Denmark Series - Group 1
+# 125 | Denmark Series - Group 2
+# 126 | Denmark Series - Group 3
+# 127 | Denmark Series - Group 4
+# 982 | Denmark Series - Promotion Round
+# 983 | Denmark Series - Relegation Round
+# 638 | Kvindeliga
+# 119 | Superliga
+
+
+# Dominican-Republic
+# 1180 | Copa LDF
+# 759 | Liga Mayor
+
+
+# Ecuador
+# 917 | Copa Ecuador
+# 242 | Liga Pro
+# 243 | Liga Pro Serie B
+# 853 | Supercopa de Ecuador

@@ -1,0 +1,106 @@
+[
+    {
+        "id": 4083,
+        "name": "SSKB-Stadium",
+        "city": "Gaborone",
+        "capacity": 5000,
+        "latitude": -24.6022064,
+        "longitude": 25.859676
+    },
+    {
+        "id": 203,
+        "name": "Botswana National Stadium",
+        "city": "Gaborone",
+        "capacity": 22500,
+        "latitude": -24.6568117,
+        "longitude": 25.9327514
+    },
+    {
+        "id": 4086,
+        "name": "Lobatse Stadium",
+        "city": "Lobatse",
+        "capacity": 22000,
+        "latitude": -25.2171174,
+        "longitude": 25.6757778
+    },
+    {
+        "id": 4087,
+        "name": "Jwaneng Galaxy Stadium",
+        "city": "Jwaneng",
+        "capacity": 5000,
+        "latitude": -24.5953291,
+        "longitude": 24.7354413
+    },
+    {
+        "id": 4088,
+        "name": "Itekeng Stadium",
+        "city": "Orapa",
+        "capacity": 5000,
+        "latitude": -21.3341582,
+        "longitude": 25.3656109
+    },
+    {
+        "id": 4084,
+        "name": "Molepolole Stadium",
+        "city": "Molepolole",
+        "capacity": 6600,
+        "latitude": -24.3835997,
+        "longitude": 25.5376983
+    },
+    {
+        "id": 4183,
+        "name": "Obed Itani Chilume Stadium",
+        "city": "Francistown",
+        "capacity": 27000,
+        "latitude": -21.1518024,
+        "longitude": 27.4789452
+    },
+    {
+        "id": 4184,
+        "name": "Selebi-Phikwe Stadium",
+        "city": "Selebi-Phikwe",
+        "capacity": 9000,
+        "latitude": -21.9726683,
+        "longitude": 27.8516722
+    },
+    {
+        "id": 10519,
+        "name": "Serowe Stadium",
+        "city": "Serowe",
+        "capacity": 6000,
+        "latitude": -22.406021,
+        "longitude": 26.718938
+    },
+    {
+        "id": 20356,
+        "name": "Sowa Town Council Stadium",
+        "city": "Sowa",
+        "capacity": 1500,
+        "latitude": -20.5670473,
+        "longitude": 26.213849
+    },
+    {
+        "id": 22625,
+        "name": "BPSC Stadium",
+        "city": "Gaborone",
+        "capacity": 2000,
+        "latitude": -24.6568117,
+        "longitude": 25.9327514
+    },
+    {
+        "id": 236929186182,
+        "name": "VTM Arena",
+        "city": "Metsimotlhaba",
+        "capacity": 2000,
+        "latitude": -24.5137346,
+        "longitude": 25.7490102
+    },
+    {
+        "id": 690254396071,
+        "name": "Francistown Stadium",
+        "city": "Francistown",
+        "capacity": 26000,
+        "latitude": -21.1518024,
+        "longitude": 27.4789452
+    }
+]
