@@ -1,0 +1,66 @@
+[
+    {
+        "id": 3379,
+        "name": "Stade Peace Park Progress",
+        "city": "Makamba",
+        "capacity": 23000,
+        "latitude": -4.1887655,
+        "longitude": 29.7986811
+    },
+    {
+        "id": 307,
+        "name": "Stade Intwari",
+        "city": "Bujumbura",
+        "capacity": 22000,
+        "latitude": -3.3832023,
+        "longitude": 29.3736122
+    },
+    {
+        "id": 5751,
+        "name": "Stade Municipal de Muyinga",
+        "city": "Muyinga",
+        "capacity": 10000,
+        "latitude": -2.8436816,
+        "longitude": 30.33829949999999
+    },
+    {
+        "id": 5756,
+        "name": "Stade Urukundo",
+        "city": "Ngozi",
+        "capacity": 5000,
+        "latitude": -2.8650936,
+        "longitude": 29.8267409
+    },
+    {
+        "id": 10544,
+        "name": "Stade Urunani",
+        "city": "Buganda",
+        "capacity": 7000,
+        "latitude": -2.9637227,
+        "longitude": 29.1919382
+    },
+    {
+        "id": 7766,
+        "name": "Stade Ingoma",
+        "city": "Gitega",
+        "capacity": 10000,
+        "latitude": -3.4211211,
+        "longitude": 29.9249743
+    },
+    {
+        "id": 19011215265,
+        "name": "Stade Gitega",
+        "city": "Gitega",
+        "capacity": 10000,
+        "latitude": -3.4211211,
+        "longitude": 29.9249743
+    },
+    {
+        "id": 170936117148,
+        "name": "Stade Intwari",
+        "city": "Bujumbura",
+        "capacity": 10000,
+        "latitude": -3.3832023,
+        "longitude": 29.3736122
+    }
+]

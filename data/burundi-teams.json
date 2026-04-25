@@ -1,0 +1,162 @@
+[
+    {
+        "id": 4447,
+        "name": "Aigle Noir",
+        "code": null,
+        "country": "Burundi",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/4447.png",
+        "venue_id": 3379
+    },
+    {
+        "id": 8070,
+        "name": "Rukinzo",
+        "code": null,
+        "country": "Burundi",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/8070.png",
+        "venue_id": 307
+    },
+    {
+        "id": 8092,
+        "name": "Olympic Star",
+        "code": null,
+        "country": "Burundi",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/8092.png",
+        "venue_id": 5751
+    },
+    {
+        "id": 8104,
+        "name": "Le Messager Ngozi",
+        "code": null,
+        "country": "Burundi",
+        "founded": 2005,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/8104.png",
+        "venue_id": 5756
+    },
+    {
+        "id": 12177,
+        "name": "Bumamuru",
+        "code": null,
+        "country": "Burundi",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/12177.png",
+        "venue_id": 10544
+    },
+    {
+        "id": 12178,
+        "name": "Dynamik",
+        "code": null,
+        "country": "Burundi",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/12178.png",
+        "venue_id": 307
+    },
+    {
+        "id": 12179,
+        "name": "Flambeau du Centre",
+        "code": null,
+        "country": "Burundi",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/12179.png",
+        "venue_id": 7766
+    },
+    {
+        "id": 12180,
+        "name": "Inter Star",
+        "code": null,
+        "country": "Burundi",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/12180.png",
+        "venue_id": 307
+    },
+    {
+        "id": 12181,
+        "name": "Kayanza United",
+        "code": null,
+        "country": "Burundi",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/12181.png",
+        "venue_id": 5751
+    },
+    {
+        "id": 12183,
+        "name": "Lydia Ludic",
+        "code": null,
+        "country": "Burundi",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/12183.png",
+        "venue_id": 3379
+    },
+    {
+        "id": 12184,
+        "name": "Musongati",
+        "code": null,
+        "country": "Burundi",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/12184.png",
+        "venue_id": 7766
+    },
+    {
+        "id": 12185,
+        "name": "Ngozi City",
+        "code": null,
+        "country": "Burundi",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/12185.png",
+        "venue_id": 5756
+    },
+    {
+        "id": 12186,
+        "name": "Vital'O",
+        "code": "VIT",
+        "country": "Burundi",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/12186.png",
+        "venue_id": 307
+    },
+    {
+        "id": 21991,
+        "name": "Moso Sugar",
+        "code": null,
+        "country": "Burundi",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/21991.png",
+        "venue_id": 19011215265
+    },
+    {
+        "id": 24754,
+        "name": "Académie Deira",
+        "code": null,
+        "country": "Burundi",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/24754.png",
+        "venue_id": 170936117148
+    },
+    {
+        "id": 24755,
+        "name": "Royal Vision",
+        "code": null,
+        "country": "Burundi",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/24755.png",
+        "venue_id": 10544
+    }
+]
