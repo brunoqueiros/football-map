@@ -10,15 +10,11 @@ export async function getAllTeams(): Promise<{
   teams: any[];
   venues: any[];
 }> {
-  if (process.env.NODE_ENV === 'development') {
-    return {
-      teams: Object.values(require('../../data/teams')).flat(),
-      venues: Object.values(require('../../data/venues')).flat(),
-    } as {
-      teams: any;
-      venues: any;
-    };
-  }
-
-  return require('../../data/teams.json');
+  return {
+    teams: Object.values(require('../../data/teams')).flat(),
+    venues: Object.values(require('../../data/venues')).flat(),
+  } as {
+    teams: any;
+    venues: any;
+  };
 }
