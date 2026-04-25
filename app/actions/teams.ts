@@ -1,7 +1,5 @@
 'use server'
 
-import { supabase, Team } from '@/lib/supabase';
-
 export async function getFixturesForTeam(teamId: number) {
   const fixtures: any[] = require('../../data/fixtures.json');
 
@@ -9,8 +7,8 @@ export async function getFixturesForTeam(teamId: number) {
 }
 
 export async function getAllTeams(): Promise<{
-  teams: Team[];
-  venues: Team[];
+  teams: any[];
+  venues: any[];
 }> {
   if (process.env.NODE_ENV === 'development') {
     return {
@@ -23,47 +21,4 @@ export async function getAllTeams(): Promise<{
   }
 
   return require('../../data/teams.json');
-
-  const { data, error } = await supabase
-    .from('teams')
-    .select('*')
-    .order('name');
-
-  if (error) {
-    console.error('Error fetching teams:', error);
-    throw new Error('Failed to fetch teams');
-  }
-
-  // @ts-ignore
-  return data || [];
-}
-
-export async function getTeamsByCountry(country: string): Promise<Team[]> {
-  const { data, error } = await supabase
-    .from('teams')
-    .select('*')
-    .eq('country', country)
-    .order('name');
-
-  if (error) {
-    console.error('Error fetching teams by country:', error);
-    throw new Error('Failed to fetch teams');
-  }
-
-  return data || [];
-}
-
-export async function getTeamById(id: string): Promise<Team | null> {
-  const { data, error } = await supabase
-    .from('teams')
-    .select('*')
-    .eq('id', id)
-    .single();
-
-  if (error) {
-    console.error('Error fetching team:', error);
-    return null;
-  }
-
-  return data;
 }
