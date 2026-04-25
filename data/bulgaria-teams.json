@@ -1,0 +1,1252 @@
+[
+    {
+        "id": 566,
+        "name": "Ludogorets",
+        "code": "LUD",
+        "country": "Bulgaria",
+        "founded": 1945,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/566.png",
+        "venue_id": 10547
+    },
+    {
+        "id": 634,
+        "name": "Botev Plovdiv",
+        "code": "BOT",
+        "country": "Bulgaria",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/634.png",
+        "venue_id": 19922
+    },
+    {
+        "id": 646,
+        "name": "Levski Sofia",
+        "code": "LEV",
+        "country": "Bulgaria",
+        "founded": 1914,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/646.png",
+        "venue_id": 297
+    },
+    {
+        "id": 683,
+        "name": "Dunav Ruse",
+        "code": null,
+        "country": "Bulgaria",
+        "founded": 2010,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/683.png",
+        "venue_id": 1736
+    },
+    {
+        "id": 851,
+        "name": "Cherno More Varna",
+        "code": "CHE",
+        "country": "Bulgaria",
+        "founded": 1945,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/851.png",
+        "venue_id": 286
+    },
+    {
+        "id": 853,
+        "name": "CSKA Sofia",
+        "code": "CSK",
+        "country": "Bulgaria",
+        "founded": 1948,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/853.png",
+        "venue_id": 288
+    },
+    {
+        "id": 854,
+        "name": "Slavia Sofia",
+        "code": "SLA",
+        "country": "Bulgaria",
+        "founded": 1913,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/854.png",
+        "venue_id": 18616
+    },
+    {
+        "id": 855,
+        "name": "Etar Veliko Tarnovo",
+        "code": null,
+        "country": "Bulgaria",
+        "founded": 2013,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/855.png",
+        "venue_id": 290
+    },
+    {
+        "id": 856,
+        "name": "Septemvri Sofia",
+        "code": null,
+        "country": "Bulgaria",
+        "founded": 1944,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/856.png",
+        "venue_id": 304
+    },
+    {
+        "id": 857,
+        "name": "Beroe",
+        "code": "BER",
+        "country": "Bulgaria",
+        "founded": 1916,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/857.png",
+        "venue_id": 283
+    },
+    {
+        "id": 858,
+        "name": "Lokomotiv Plovdiv",
+        "code": "PLO",
+        "country": "Bulgaria",
+        "founded": 1936,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/858.png",
+        "venue_id": 298
+    },
+    {
+        "id": 859,
+        "name": "Botev Vratsa",
+        "code": "VRA",
+        "country": "Bulgaria",
+        "founded": 1921,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/859.png",
+        "venue_id": 285
+    },
+    {
+        "id": 1410,
+        "name": "Nesebar",
+        "code": null,
+        "country": "Bulgaria",
+        "founded": 1946,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/1410.png",
+        "venue_id": 301
+    },
+    {
+        "id": 1411,
+        "name": "Oborishte",
+        "code": null,
+        "country": "Bulgaria",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/1411.png",
+        "venue_id": 2665
+    },
+    {
+        "id": 1412,
+        "name": "Sozopol",
+        "code": "SOZ",
+        "country": "Bulgaria",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/1412.png",
+        "venue_id": 2666
+    },
+    {
+        "id": 1416,
+        "name": "Lokomotiv Sofia",
+        "code": null,
+        "country": "Bulgaria",
+        "founded": 2015,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/1416.png",
+        "venue_id": 1883
+    },
+    {
+        "id": 1418,
+        "name": "Spartak Pleven",
+        "code": null,
+        "country": "Bulgaria",
+        "founded": 2013,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/1418.png",
+        "venue_id": 2669
+    },
+    {
+        "id": 1419,
+        "name": "Litex",
+        "code": "LIT",
+        "country": "Bulgaria",
+        "founded": 1921,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/1419.png",
+        "venue_id": 299
+    },
+    {
+        "id": 1420,
+        "name": "Lokomotiv G. Oryahovitsa",
+        "code": null,
+        "country": "Bulgaria",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/1420.png",
+        "venue_id": 293
+    },
+    {
+        "id": 1421,
+        "name": "Strumska Slava",
+        "code": null,
+        "country": "Bulgaria",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/1421.png",
+        "venue_id": 295
+    },
+    {
+        "id": 1423,
+        "name": "Maritsa Plovdiv",
+        "code": null,
+        "country": "Bulgaria",
+        "founded": 2011,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/1423.png",
+        "venue_id": 11659
+    },
+    {
+        "id": 1424,
+        "name": "Montana",
+        "code": "MON",
+        "country": "Bulgaria",
+        "founded": 1947,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/1424.png",
+        "venue_id": 300
+    },
+    {
+        "id": 1425,
+        "name": "Neftochimic Burgas",
+        "code": "NAF",
+        "country": "Bulgaria",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/1425.png",
+        "venue_id": 11660
+    },
+    {
+        "id": 1426,
+        "name": "CSKA 1948",
+        "code": null,
+        "country": "Bulgaria",
+        "founded": 2016,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/1426.png",
+        "venue_id": 296
+    },
+    {
+        "id": 1427,
+        "name": "Dobrudzha",
+        "code": "DOB",
+        "country": "Bulgaria",
+        "founded": 1919,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/1427.png",
+        "venue_id": 289
+    },
+    {
+        "id": 1428,
+        "name": "Pirin Blagoevgrad",
+        "code": null,
+        "country": "Bulgaria",
+        "founded": 1931,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/1428.png",
+        "venue_id": 303
+    },
+    {
+        "id": 1430,
+        "name": "Arda Kardzhali",
+        "code": null,
+        "country": "Bulgaria",
+        "founded": 1924,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/1430.png",
+        "venue_id": 291
+    },
+    {
+        "id": 4659,
+        "name": "Hebar 1918",
+        "code": null,
+        "country": "Bulgaria",
+        "founded": 2015,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/4659.png",
+        "venue_id": 3511
+    },
+    {
+        "id": 4660,
+        "name": "Spartak Varna",
+        "code": "SPA",
+        "country": "Bulgaria",
+        "founded": 1918,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/4660.png",
+        "venue_id": 3512
+    },
+    {
+        "id": 5023,
+        "name": "Atletik Kuklen",
+        "code": null,
+        "country": "Bulgaria",
+        "founded": 1927,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/5023.png",
+        "venue_id": 3804
+    },
+    {
+        "id": 5024,
+        "name": "Sevlievo",
+        "code": null,
+        "country": "Bulgaria",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/5024.png",
+        "venue_id": 3805
+    },
+    {
+        "id": 5025,
+        "name": "Vihren",
+        "code": null,
+        "country": "Bulgaria",
+        "founded": 1925,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/5025.png",
+        "venue_id": 3806
+    },
+    {
+        "id": 6389,
+        "name": "Balkan Botevgrad",
+        "code": "BAL",
+        "country": "Bulgaria",
+        "founded": 1929,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/6389.png",
+        "venue_id": 20478
+    },
+    {
+        "id": 6390,
+        "name": "Botev Ihtiman",
+        "code": null,
+        "country": "Bulgaria",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/6390.png",
+        "venue_id": 4712
+    },
+    {
+        "id": 6392,
+        "name": "FK Minyor Pernik",
+        "code": null,
+        "country": "Bulgaria",
+        "founded": 2013,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/6392.png",
+        "venue_id": 4714
+    },
+    {
+        "id": 6395,
+        "name": "Partizan",
+        "code": null,
+        "country": "Bulgaria",
+        "founded": 1918,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/6395.png",
+        "venue_id": 4716
+    },
+    {
+        "id": 6398,
+        "name": "Varbitsa Benkovski",
+        "code": null,
+        "country": "Bulgaria",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/6398.png",
+        "venue_id": 988060837600
+    },
+    {
+        "id": 6399,
+        "name": "Zagorets",
+        "code": null,
+        "country": "Bulgaria",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/6399.png",
+        "venue_id": 4719
+    },
+    {
+        "id": 8509,
+        "name": "Botev Novi Pazar",
+        "code": null,
+        "country": "Bulgaria",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/8509.png",
+        "venue_id": 6065
+    },
+    {
+        "id": 8510,
+        "name": "Chernolomets 1919",
+        "code": null,
+        "country": "Bulgaria",
+        "founded": 1919,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/8510.png",
+        "venue_id": 6066
+    },
+    {
+        "id": 8514,
+        "name": "Septemvri Tervel",
+        "code": null,
+        "country": "Bulgaria",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/8514.png",
+        "venue_id": 6070
+    },
+    {
+        "id": 8518,
+        "name": "Akademik Svishtov",
+        "code": "SVI",
+        "country": "Bulgaria",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/8518.png",
+        "venue_id": 6074
+    },
+    {
+        "id": 8520,
+        "name": "Juventus Malchika",
+        "code": null,
+        "country": "Bulgaria",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/8520.png",
+        "venue_id": 6076
+    },
+    {
+        "id": 8521,
+        "name": "Kom Berkovitsa",
+        "code": null,
+        "country": "Bulgaria",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/8521.png",
+        "venue_id": 6077
+    },
+    {
+        "id": 8523,
+        "name": "Lokomotiv Mezdra",
+        "code": null,
+        "country": "Bulgaria",
+        "founded": 2017,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/8523.png",
+        "venue_id": 6079
+    },
+    {
+        "id": 8525,
+        "name": "Pavlikeni",
+        "code": null,
+        "country": "Bulgaria",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/8525.png",
+        "venue_id": 6081
+    },
+    {
+        "id": 8528,
+        "name": "Yantra 2019",
+        "code": null,
+        "country": "Bulgaria",
+        "founded": 1919,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/8528.png",
+        "venue_id": 6084
+    },
+    {
+        "id": 8530,
+        "name": "Chernomorets 1919 Burgas",
+        "code": null,
+        "country": "Bulgaria",
+        "founded": 2015,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/8530.png",
+        "venue_id": 11660
+    },
+    {
+        "id": 8532,
+        "name": "Gigant Saedinenie",
+        "code": null,
+        "country": "Bulgaria",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/8532.png",
+        "venue_id": 6087
+    },
+    {
+        "id": 8537,
+        "name": "Rozova dolina",
+        "code": null,
+        "country": "Bulgaria",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/8537.png",
+        "venue_id": 6092
+    },
+    {
+        "id": 8539,
+        "name": "Yambol 1915",
+        "code": null,
+        "country": "Bulgaria",
+        "founded": 2017,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/8539.png",
+        "venue_id": 6094
+    },
+    {
+        "id": 8540,
+        "name": "Belasitsa",
+        "code": null,
+        "country": "Bulgaria",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/8540.png",
+        "venue_id": 12285
+    },
+    {
+        "id": 8542,
+        "name": "Kyustendil",
+        "code": null,
+        "country": "Bulgaria",
+        "founded": 2010,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/8542.png",
+        "venue_id": 6097
+    },
+    {
+        "id": 8543,
+        "name": "Marek",
+        "code": "MAR",
+        "country": "Bulgaria",
+        "founded": 1947,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/8543.png",
+        "venue_id": 6098
+    },
+    {
+        "id": 8547,
+        "name": "Rilski Sportist",
+        "code": null,
+        "country": "Bulgaria",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/8547.png",
+        "venue_id": 6102
+    },
+    {
+        "id": 8550,
+        "name": "Sportist Svoge",
+        "code": null,
+        "country": "Bulgaria",
+        "founded": 1924,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/8550.png",
+        "venue_id": 6105
+    },
+    {
+        "id": 8553,
+        "name": "OFK Levski",
+        "code": null,
+        "country": "Bulgaria",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/8553.png",
+        "venue_id": 6107
+    },
+    {
+        "id": 8556,
+        "name": "Asenovets",
+        "code": null,
+        "country": "Bulgaria",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/8556.png",
+        "venue_id": 6109
+    },
+    {
+        "id": 14568,
+        "name": "Spartak Plovdiv",
+        "code": null,
+        "country": "Bulgaria",
+        "founded": 1947,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/14568.png",
+        "venue_id": 19014
+    },
+    {
+        "id": 17306,
+        "name": "Levski Krumovgrad",
+        "code": null,
+        "country": "Bulgaria",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/17306.png",
+        "venue_id": 19902
+    },
+    {
+        "id": 17308,
+        "name": "Sayana Haskovo",
+        "code": null,
+        "country": "Bulgaria",
+        "founded": 2021,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/17308.png",
+        "venue_id": 6088
+    },
+    {
+        "id": 17652,
+        "name": "Septemvri Glozhene",
+        "code": null,
+        "country": "Bulgaria",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/17652.png",
+        "venue_id": 128818438113
+    },
+    {
+        "id": 17655,
+        "name": "Vitosha Dolna Dikanya",
+        "code": null,
+        "country": "Bulgaria",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/17655.png",
+        "venue_id": 10430
+    },
+    {
+        "id": 19874,
+        "name": "Rakovski 2011",
+        "code": null,
+        "country": "Bulgaria",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/19874.png",
+        "venue_id": 32053170839
+    },
+    {
+        "id": 20032,
+        "name": "Metalurg Pernik",
+        "code": null,
+        "country": "Bulgaria",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/20032.png",
+        "venue_id": 14259897394
+    },
+    {
+        "id": 21836,
+        "name": "Fratria",
+        "code": null,
+        "country": "Bulgaria",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/21836.png",
+        "venue_id": 20253
+    },
+    {
+        "id": 21863,
+        "name": "Sekirovo Rakovski",
+        "code": null,
+        "country": "Bulgaria",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/21863.png",
+        "venue_id": 20206
+    },
+    {
+        "id": 22177,
+        "name": "Metalik Sopot",
+        "code": null,
+        "country": "Bulgaria",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/22177.png",
+        "venue_id": 336577512828
+    },
+    {
+        "id": 22193,
+        "name": "Druzhba Meshtitsa",
+        "code": null,
+        "country": "Bulgaria",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/22193.png",
+        "venue_id": 614150734868
+    },
+    {
+        "id": 22196,
+        "name": "Sportist Dragichevo",
+        "code": null,
+        "country": "Bulgaria",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/22196.png",
+        "venue_id": 664058385104
+    },
+    {
+        "id": 22250,
+        "name": "Natsional Sofia",
+        "code": null,
+        "country": "Bulgaria",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/22250.png",
+        "venue_id": 885541547040
+    },
+    {
+        "id": 24544,
+        "name": "Aksakovo",
+        "code": null,
+        "country": "Bulgaria",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/24544.png",
+        "venue_id": 22098
+    },
+    {
+        "id": 24646,
+        "name": "Ares Sofia",
+        "code": null,
+        "country": "Bulgaria",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/24646.png",
+        "venue_id": 746396810876
+    },
+    {
+        "id": 24647,
+        "name": "Bankya 2009",
+        "code": null,
+        "country": "Bulgaria",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/24647.png",
+        "venue_id": 863050569308
+    },
+    {
+        "id": 24648,
+        "name": "Levski Spartak 1962",
+        "code": null,
+        "country": "Bulgaria",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/24648.png",
+        "venue_id": 444521821879
+    },
+    {
+        "id": 24705,
+        "name": "Ovoshtnik",
+        "code": null,
+        "country": "Bulgaria",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/24705.png",
+        "venue_id": 762932049338
+    },
+    {
+        "id": 24745,
+        "name": "Bratsigovo",
+        "code": null,
+        "country": "Bulgaria",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/24745.png",
+        "venue_id": 769161527752
+    },
+    {
+        "id": 24746,
+        "name": "Sveti Vlas",
+        "code": null,
+        "country": "Bulgaria",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/24746.png",
+        "venue_id": 694561297582
+    },
+    {
+        "id": 24747,
+        "name": "Svoboda Peshtera",
+        "code": null,
+        "country": "Bulgaria",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/24747.png",
+        "venue_id": 469276441532
+    },
+    {
+        "id": 24901,
+        "name": "Zemedelets Kozlovets",
+        "code": null,
+        "country": "Bulgaria",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/24901.png",
+        "venue_id": 584191570758
+    },
+    {
+        "id": 24907,
+        "name": "Butan",
+        "code": null,
+        "country": "Bulgaria",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/24907.png",
+        "venue_id": 61391701297
+    },
+    {
+        "id": 24963,
+        "name": "Orfey Devin",
+        "code": null,
+        "country": "Bulgaria",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/24963.png",
+        "venue_id": 670004775419
+    },
+    {
+        "id": 24964,
+        "name": "Vihar Zlatograd",
+        "code": null,
+        "country": "Bulgaria",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/24964.png",
+        "venue_id": 283924310057
+    },
+    {
+        "id": 1409,
+        "name": "Ludogorets II",
+        "code": null,
+        "country": "Bulgaria",
+        "founded": 2015,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/1409.png",
+        "venue_id": 1847
+    },
+    {
+        "id": 1415,
+        "name": "CSKA Sofia II",
+        "code": null,
+        "country": "Bulgaria",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/1415.png",
+        "venue_id": 18964
+    },
+    {
+        "id": 16963,
+        "name": "Botev Plovdiv II",
+        "code": null,
+        "country": "Bulgaria",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/16963.png",
+        "venue_id": 19902
+    },
+    {
+        "id": 16964,
+        "name": "CSKA 1948 Sofia II",
+        "code": null,
+        "country": "Bulgaria",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/16964.png",
+        "venue_id": 1882
+    },
+    {
+        "id": 1422,
+        "name": "Chernomorets Balchik",
+        "code": null,
+        "country": "Bulgaria",
+        "founded": 1957,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/1422.png",
+        "venue_id": 287
+    },
+    {
+        "id": 6397,
+        "name": "Svetkavitsa Targovishte",
+        "code": null,
+        "country": "Bulgaria",
+        "founded": 2013,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/6397.png",
+        "venue_id": 4718
+    },
+    {
+        "id": 8512,
+        "name": "Kubrat",
+        "code": null,
+        "country": "Bulgaria",
+        "founded": 2007,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/8512.png",
+        "venue_id": 6068
+    },
+    {
+        "id": 8515,
+        "name": "Shumen 2007",
+        "code": null,
+        "country": "Bulgaria",
+        "founded": 2007,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/8515.png",
+        "venue_id": 4662
+    },
+    {
+        "id": 8517,
+        "name": "Ustrem Donchevo",
+        "code": null,
+        "country": "Bulgaria",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/8517.png",
+        "venue_id": 6073
+    },
+    {
+        "id": 14220,
+        "name": "Dorostol",
+        "code": null,
+        "country": "Bulgaria",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/14220.png",
+        "venue_id": 10584
+    },
+    {
+        "id": 14222,
+        "name": "Ludogorets III",
+        "code": null,
+        "country": "Bulgaria",
+        "founded": 2020,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/14222.png",
+        "venue_id": 1847
+    },
+    {
+        "id": 17309,
+        "name": "Riltzi",
+        "code": null,
+        "country": "Bulgaria",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/17309.png",
+        "venue_id": 21050
+    },
+    {
+        "id": 17310,
+        "name": "Spartak Varna II",
+        "code": null,
+        "country": "Bulgaria",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/17310.png",
+        "venue_id": 22097
+    },
+    {
+        "id": 19891,
+        "name": "Cherno more II",
+        "code": null,
+        "country": "Bulgaria",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/19891.png",
+        "venue_id": 21051
+    },
+    {
+        "id": 21835,
+        "name": "Benkovski Isperih",
+        "code": null,
+        "country": "Bulgaria",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/21835.png",
+        "venue_id": 20252
+    },
+    {
+        "id": 24545,
+        "name": "Fratria II",
+        "code": null,
+        "country": "Bulgaria",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/24545.png",
+        "venue_id": 22099
+    },
+    {
+        "id": 8519,
+        "name": "Bdin",
+        "code": null,
+        "country": "Bulgaria",
+        "founded": 1923,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/8519.png",
+        "venue_id": 6075
+    },
+    {
+        "id": 8522,
+        "name": "Lokomotiv Dryanovo",
+        "code": null,
+        "country": "Bulgaria",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/8522.png",
+        "venue_id": 6078
+    },
+    {
+        "id": 8527,
+        "name": "Vihar Slavyanovo",
+        "code": null,
+        "country": "Bulgaria",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/8527.png",
+        "venue_id": 6083
+    },
+    {
+        "id": 8555,
+        "name": "Yantra Polski Trambesh",
+        "code": null,
+        "country": "Bulgaria",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/8555.png",
+        "venue_id": 6108
+    },
+    {
+        "id": 15141,
+        "name": "Etar VT II",
+        "code": null,
+        "country": "Bulgaria",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/15141.png",
+        "venue_id": 10855
+    },
+    {
+        "id": 1408,
+        "name": "Levski Karlovo",
+        "code": null,
+        "country": "Bulgaria",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/1408.png",
+        "venue_id": 2668
+    },
+    {
+        "id": 8531,
+        "name": "Dimitrovgrad",
+        "code": null,
+        "country": "Bulgaria",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/8531.png",
+        "venue_id": 6086
+    },
+    {
+        "id": 8534,
+        "name": "Karnobat",
+        "code": null,
+        "country": "Bulgaria",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/8534.png",
+        "venue_id": 6089
+    },
+    {
+        "id": 8536,
+        "name": "Rodopa Smolyan",
+        "code": null,
+        "country": "Bulgaria",
+        "founded": 2011,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/8536.png",
+        "venue_id": 6091
+    },
+    {
+        "id": 14566,
+        "name": "Maritsa Milevo",
+        "code": null,
+        "country": "Bulgaria",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/14566.png",
+        "venue_id": 846705241787
+    },
+    {
+        "id": 17307,
+        "name": "Lokomotiv Plovdiv II",
+        "code": null,
+        "country": "Bulgaria",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/17307.png",
+        "venue_id": 3818
+    },
+    {
+        "id": 22195,
+        "name": "FK Svilengrad",
+        "code": null,
+        "country": "Bulgaria",
+        "founded": 2018,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/22195.png",
+        "venue_id": 6093
+    },
+    {
+        "id": 24522,
+        "name": "Botev Plovdiv III",
+        "code": null,
+        "country": "Bulgaria",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/24522.png",
+        "venue_id": 31772236981
+    },
+    {
+        "id": 850,
+        "name": "Vitosha Bistritsa",
+        "code": "BIS",
+        "country": "Bulgaria",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/850.png",
+        "venue_id": 20105
+    },
+    {
+        "id": 1407,
+        "name": "Bansko",
+        "code": "BAN",
+        "country": "Bulgaria",
+        "founded": 1951,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/1407.png",
+        "venue_id": 2667
+    },
+    {
+        "id": 8546,
+        "name": "Pirin Razlog",
+        "code": "RAZ",
+        "country": "Bulgaria",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/8546.png",
+        "venue_id": 6101
+    },
+    {
+        "id": 8548,
+        "name": "Septemvri Simitli",
+        "code": null,
+        "country": "Bulgaria",
+        "founded": 2013,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/8548.png",
+        "venue_id": 6103
+    },
+    {
+        "id": 8549,
+        "name": "Slivnishki geroy",
+        "code": null,
+        "country": "Bulgaria",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/8549.png",
+        "venue_id": 6104
+    },
+    {
+        "id": 14749,
+        "name": "Pirin Gotse Delchev",
+        "code": "PIR",
+        "country": "Bulgaria",
+        "founded": 1925,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/14749.png",
+        "venue_id": 10736
+    },
+    {
+        "id": 15145,
+        "name": "Granit Vladaya",
+        "code": null,
+        "country": "Bulgaria",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/15145.png",
+        "venue_id": 10858
+    },
+    {
+        "id": 17313,
+        "name": "Pirin Blagoevgrad II",
+        "code": null,
+        "country": "Bulgaria",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/17313.png",
+        "venue_id": 303
+    },
+    {
+        "id": 17314,
+        "name": "Septemvri Sofia II",
+        "code": null,
+        "country": "Bulgaria",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/17314.png",
+        "venue_id": 21014
+    },
+    {
+        "id": 19829,
+        "name": "CSKA 1948 Sofia III",
+        "code": null,
+        "country": "Bulgaria",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/19829.png",
+        "venue_id": 21015
+    },
+    {
+        "id": 19831,
+        "name": "Levski Sofia II",
+        "code": null,
+        "country": "Bulgaria",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/19831.png",
+        "venue_id": 18966
+    },
+    {
+        "id": 19832,
+        "name": "Slavia Sofia II",
+        "code": null,
+        "country": "Bulgaria",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/19832.png",
+        "venue_id": 21016
+    },
+    {
+        "id": 24521,
+        "name": "CSKA Sofia III",
+        "code": null,
+        "country": "Bulgaria",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/24521.png",
+        "venue_id": 690920073153
+    }
+]

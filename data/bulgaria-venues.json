@@ -1,0 +1,970 @@
+[
+    {
+        "id": 10547,
+        "name": "Huvepharma Arena",
+        "city": "Razgrad",
+        "capacity": 10422,
+        "latitude": 43.5346325,
+        "longitude": 26.5276144
+    },
+    {
+        "id": 19922,
+        "name": "Stadion Hristo Botev",
+        "city": "Plovdiv",
+        "capacity": 22000,
+        "latitude": 42.1399668,
+        "longitude": 24.7645025
+    },
+    {
+        "id": 297,
+        "name": "Vivacom Arena - Georgi Asparuhov",
+        "city": "Sofia",
+        "capacity": 29200,
+        "latitude": 42.7053331,
+        "longitude": 23.3632479
+    },
+    {
+        "id": 1736,
+        "name": "Gradski Stadion",
+        "city": "Rousse",
+        "capacity": 13000,
+        "latitude": 43.8479708,
+        "longitude": 25.9630579
+    },
+    {
+        "id": 286,
+        "name": "Stadion Ticha",
+        "city": "Varna",
+        "capacity": 12500,
+        "latitude": 43.2157421,
+        "longitude": 27.9312899
+    },
+    {
+        "id": 288,
+        "name": "Stadion Bâlgarska Armija",
+        "city": "Sofia",
+        "capacity": 22015,
+        "latitude": 42.6844725,
+        "longitude": 23.3393277
+    },
+    {
+        "id": 18616,
+        "name": "Stadion Aleksandar Shalamanov",
+        "city": "Sofia",
+        "capacity": 25556,
+        "latitude": 42.6752221,
+        "longitude": 23.2719951
+    },
+    {
+        "id": 290,
+        "name": "Stadion Ivailo",
+        "city": "Veliko Târnovo",
+        "capacity": 18000,
+        "latitude": 43.0779844,
+        "longitude": 25.6204043
+    },
+    {
+        "id": 304,
+        "name": "Stadion Dragalevtsi",
+        "city": "Sofia",
+        "capacity": 2000,
+        "latitude": 42.63710409999999,
+        "longitude": 23.3091624
+    },
+    {
+        "id": 283,
+        "name": "Stadion Beroe",
+        "city": "Stara Zagora",
+        "capacity": 12128,
+        "latitude": 42.432692,
+        "longitude": 25.6153319
+    },
+    {
+        "id": 298,
+        "name": "Stadion Lokomotiv",
+        "city": "Plovdiv",
+        "capacity": 13800,
+        "latitude": 42.1335424,
+        "longitude": 24.7718006
+    },
+    {
+        "id": 285,
+        "name": "Stadion Hristo Botev",
+        "city": "Vratsa",
+        "capacity": 32000,
+        "latitude": 43.2007363,
+        "longitude": 23.5687259
+    },
+    {
+        "id": 301,
+        "name": "Gradski stadion",
+        "city": "Nesebar",
+        "capacity": 1500,
+        "latitude": 42.666791,
+        "longitude": 27.7050022
+    },
+    {
+        "id": 2665,
+        "name": "Stadion Orcho Voyvoda",
+        "city": "Panagyurishte",
+        "capacity": 3000,
+        "latitude": 42.51156,
+        "longitude": 24.190656
+    },
+    {
+        "id": 2666,
+        "name": "Gradski stadion",
+        "city": "Sozopol",
+        "capacity": 3500,
+        "latitude": 42.4137364,
+        "longitude": 27.6974924
+    },
+    {
+        "id": 1883,
+        "name": "Stadion Lokomotiv",
+        "city": "Sofia",
+        "capacity": 7000,
+        "latitude": 42.7376225,
+        "longitude": 23.3146157
+    },
+    {
+        "id": 2669,
+        "name": "Pleven Stadium",
+        "city": "Pleven",
+        "capacity": 25100,
+        "latitude": 43.4126264,
+        "longitude": 24.6086498
+    },
+    {
+        "id": 299,
+        "name": "Gradski stadion",
+        "city": "Lovech",
+        "capacity": 7050,
+        "latitude": 43.1433883,
+        "longitude": 24.7240018
+    },
+    {
+        "id": 293,
+        "name": "Stadion Lokomotiv",
+        "city": "Gorna Oryahovitsa",
+        "capacity": 16000,
+        "latitude": 43.123554,
+        "longitude": 25.6805073
+    },
+    {
+        "id": 295,
+        "name": "Gradski stadion",
+        "city": "Radomir",
+        "capacity": 5000,
+        "latitude": 42.5381314,
+        "longitude": 22.9615294
+    },
+    {
+        "id": 11659,
+        "name": "Stadion Maritsa",
+        "city": "Plovdiv",
+        "capacity": 8000,
+        "latitude": 42.1557636,
+        "longitude": 24.7211563
+    },
+    {
+        "id": 300,
+        "name": "Stadion Ogosta",
+        "city": "Montana",
+        "capacity": 7000,
+        "latitude": 43.3984139,
+        "longitude": 23.225435
+    },
+    {
+        "id": 11660,
+        "name": "Efbet Arena",
+        "city": "Burgas",
+        "capacity": 18037,
+        "latitude": 42.5124033,
+        "longitude": 27.4704109
+    },
+    {
+        "id": 296,
+        "name": "Stadion Vitosha",
+        "city": "Bistrica",
+        "capacity": 2500,
+        "latitude": 42.59124,
+        "longitude": 23.363421
+    },
+    {
+        "id": 289,
+        "name": "Stadion Druzhba",
+        "city": "Dobrich",
+        "capacity": 12500,
+        "latitude": 43.5563853,
+        "longitude": 27.8261295
+    },
+    {
+        "id": 303,
+        "name": "Stadion Hristo Botev",
+        "city": "Blagoevgrad",
+        "capacity": 15000,
+        "latitude": 42.0266788,
+        "longitude": 23.1000906
+    },
+    {
+        "id": 291,
+        "name": "Arena Arda",
+        "city": "Kardzhali",
+        "capacity": 15000,
+        "latitude": 41.6411933,
+        "longitude": 25.3780448
+    },
+    {
+        "id": 3511,
+        "name": "Stadion Georgi Benkovski",
+        "city": "Pazardzhik",
+        "capacity": 13128,
+        "latitude": 42.2108109,
+        "longitude": 24.322691
+    },
+    {
+        "id": 3512,
+        "name": "Stadion Spartak",
+        "city": "Varna",
+        "capacity": 12000,
+        "latitude": 43.2186427,
+        "longitude": 27.912358
+    },
+    {
+        "id": 3804,
+        "name": "Stadion Kuklen",
+        "city": "Kuklen",
+        "capacity": 1500,
+        "latitude": 42.0402516,
+        "longitude": 24.7875458
+    },
+    {
+        "id": 3805,
+        "name": "Stadion Rakovski",
+        "city": "Sevlievo",
+        "capacity": 8816,
+        "latitude": 43.0241412,
+        "longitude": 25.1113121
+    },
+    {
+        "id": 3806,
+        "name": "Stadion Spartak",
+        "city": "Sandanski",
+        "capacity": 6000,
+        "latitude": 41.5736876,
+        "longitude": 23.2836469
+    },
+    {
+        "id": 20478,
+        "name": "Hristo Botev Izkustven Teren",
+        "city": "Botevgrad",
+        "capacity": 1000,
+        "latitude": 42.90049399999999,
+        "longitude": 23.7865316
+    },
+    {
+        "id": 4712,
+        "name": "Gradski stadion",
+        "city": "Ihtiman",
+        "capacity": 2000,
+        "latitude": 42.4357454,
+        "longitude": 23.8285498
+    },
+    {
+        "id": 4714,
+        "name": "Stadion Minyor",
+        "city": "Pernik",
+        "capacity": 8000,
+        "latitude": 42.6065691,
+        "longitude": 23.0232893
+    },
+    {
+        "id": 4716,
+        "name": "Gradski stadion",
+        "city": "Cherven bryag",
+        "capacity": 3000,
+        "latitude": 43.2825889,
+        "longitude": 24.0765175
+    },
+    {
+        "id": 988060837600,
+        "name": null,
+        "city": "Benkovski",
+        "capacity": null,
+        "latitude": 42.2081474,
+        "longitude": 24.6494541
+    },
+    {
+        "id": 4719,
+        "name": "Stadion Zagorets",
+        "city": "Nova Zagora",
+        "capacity": 5069,
+        "latitude": 42.5004873,
+        "longitude": 26.0159963
+    },
+    {
+        "id": 6065,
+        "name": "Stadion Botev",
+        "city": "Novi Pazar",
+        "capacity": 5000,
+        "latitude": 43.3468974,
+        "longitude": 27.1883626
+    },
+    {
+        "id": 6066,
+        "name": "Stadion Stamo Kostov",
+        "city": "Popovo",
+        "capacity": 5000,
+        "latitude": 43.34416969999999,
+        "longitude": 26.2356021
+    },
+    {
+        "id": 6070,
+        "name": "Gradski stadion",
+        "city": "Tervel",
+        "capacity": 700,
+        "latitude": 43.7396389,
+        "longitude": 27.4116611
+    },
+    {
+        "id": 6074,
+        "name": "Stadion Akademik",
+        "city": "Svishtov (Svištov)",
+        "capacity": 13500,
+        "latitude": 43.6094264,
+        "longitude": 25.3669083
+    },
+    {
+        "id": 6076,
+        "name": "Stadion Georgi Karchev",
+        "city": "Malchika",
+        "capacity": 1000,
+        "latitude": 42.7053331,
+        "longitude": 23.3632479
+    },
+    {
+        "id": 6077,
+        "name": "Stadion Mramor",
+        "city": "Berkovitsa",
+        "capacity": 3000,
+        "latitude": 43.2374435,
+        "longitude": 23.1075798
+    },
+    {
+        "id": 6079,
+        "name": "Stadion Lokomotiv",
+        "city": "Mezdra",
+        "capacity": 3800,
+        "latitude": 43.1397038,
+        "longitude": 23.7123798
+    },
+    {
+        "id": 6081,
+        "name": "Stadion Gancho Panov",
+        "city": "Pavlikeni",
+        "capacity": 10000,
+        "latitude": 43.23247440000001,
+        "longitude": 25.3173706
+    },
+    {
+        "id": 6084,
+        "name": "Stadion Hristo Botev",
+        "city": "Gabrovo",
+        "capacity": 14000,
+        "latitude": 42.8603242,
+        "longitude": 25.3195506
+    },
+    {
+        "id": 6087,
+        "name": "Gradski Stadion",
+        "city": "Saedinenie",
+        "capacity": 6000,
+        "latitude": 42.26309,
+        "longitude": 24.5371292
+    },
+    {
+        "id": 6092,
+        "name": "Stadion Sevtopolis",
+        "city": "Kazanlak",
+        "capacity": 15000,
+        "latitude": 42.6310155,
+        "longitude": 25.3932035
+    },
+    {
+        "id": 6094,
+        "name": "Stadion Tundzha",
+        "city": "Yambol",
+        "capacity": 8000,
+        "latitude": 42.483719,
+        "longitude": 26.494282
+    },
+    {
+        "id": 12285,
+        "name": "Stadion Tsar Samuil",
+        "city": "Petrich",
+        "capacity": 9500,
+        "latitude": 41.3905825,
+        "longitude": 23.1996183
+    },
+    {
+        "id": 6097,
+        "name": "Stadion Osogovo",
+        "city": "Kyustendil",
+        "capacity": 18000,
+        "latitude": 42.2769188,
+        "longitude": 22.6828702
+    },
+    {
+        "id": 6098,
+        "name": "Stadion Bonchuk",
+        "city": "Dupnitsa",
+        "capacity": 16050,
+        "latitude": 42.2753053,
+        "longitude": 23.1356343
+    },
+    {
+        "id": 6102,
+        "name": "Stadion Iskar",
+        "city": "Samokov",
+        "capacity": 6800,
+        "latitude": 42.3222646,
+        "longitude": 23.5589575
+    },
+    {
+        "id": 6105,
+        "name": "Stadion Chavdar Tsvetkov",
+        "city": "Svoge",
+        "capacity": 3500,
+        "latitude": 42.962167,
+        "longitude": 23.3499416
+    },
+    {
+        "id": 6107,
+        "name": "Gradski stadion",
+        "city": "Levski",
+        "capacity": 2500,
+        "latitude": 42.6882036,
+        "longitude": 23.3345562
+    },
+    {
+        "id": 6109,
+        "name": "Stadion Shipka",
+        "city": "Asenovgrad",
+        "capacity": 10000,
+        "latitude": 42.0104283,
+        "longitude": 24.8652545
+    },
+    {
+        "id": 19014,
+        "name": "Plovdiv Stadium",
+        "city": "Plovdiv",
+        "capacity": 55000,
+        "latitude": 42.1497263,
+        "longitude": 24.7197798
+    },
+    {
+        "id": 19902,
+        "name": "Nikola Shterev-Starika Complex",
+        "city": "Plovdiv",
+        "capacity": 4000,
+        "latitude": 42.1074661,
+        "longitude": 24.7079839
+    },
+    {
+        "id": 6088,
+        "name": "Stadion Dimitar Kanev",
+        "city": "Haskovo",
+        "capacity": 20000,
+        "latitude": 41.9271638,
+        "longitude": 25.5477445
+    },
+    {
+        "id": 128818438113,
+        "name": "Stadion Septemvri",
+        "city": "Glozhene",
+        "capacity": 500,
+        "latitude": 42.980141,
+        "longitude": 24.1875543
+    },
+    {
+        "id": 10430,
+        "name": "Dolna Dikanya Stadion",
+        "city": "Dolna Dikanya",
+        "capacity": 2000,
+        "latitude": 42.43701,
+        "longitude": 23.1472868
+    },
+    {
+        "id": 32053170839,
+        "name": "Rakovski Stadium",
+        "city": "Rakovski",
+        "capacity": 3000,
+        "latitude": 42.6780515,
+        "longitude": 23.3042185
+    },
+    {
+        "id": 14259897394,
+        "name": "Metallurg Stadium",
+        "city": "Pernik",
+        "capacity": 12000,
+        "latitude": 42.60299089999999,
+        "longitude": 23.1193695
+    },
+    {
+        "id": 20253,
+        "name": "Stadion Albena-1",
+        "city": "Albena",
+        "capacity": 3000,
+        "latitude": 43.3650413,
+        "longitude": 28.0685397
+    },
+    {
+        "id": 20206,
+        "name": "Stadion Peter Parchevich",
+        "city": "Rakovski",
+        "capacity": 2000,
+        "latitude": 42.2702001,
+        "longitude": 24.9287006
+    },
+    {
+        "id": 336577512828,
+        "name": "Sopot City Stadium",
+        "city": "Sopot",
+        "capacity": 1500,
+        "latitude": 42.657228126666354,
+        "longitude": 24.74939819822409
+    },
+    {
+        "id": 614150734868,
+        "name": "Village Stadium Druzhba",
+        "city": "Meshtitsa",
+        "capacity": null,
+        "latitude": 43.5563853,
+        "longitude": 27.8261295
+    },
+    {
+        "id": 664058385104,
+        "name": "Village Stadium",
+        "city": "Dragichevo",
+        "capacity": 500,
+        "latitude": 43.6436488,
+        "longitude": 26.7655676
+    },
+    {
+        "id": 885541547040,
+        "name": "NSA Stadium",
+        "city": "Sofia",
+        "capacity": 1500,
+        "latitude": 42.6463976,
+        "longitude": 23.3483633
+    },
+    {
+        "id": 22098,
+        "name": "Aksakovo stadium",
+        "city": "Aksakovo",
+        "capacity": 1000,
+        "latitude": 43.253571,
+        "longitude": 27.8181218
+    },
+    {
+        "id": 746396810876,
+        "name": "Tsarsko Selo Stadium",
+        "city": "Sofia",
+        "capacity": 1550,
+        "latitude": 42.6882036,
+        "longitude": 23.3345562
+    },
+    {
+        "id": 863050569308,
+        "name": "Стадион Банкя",
+        "city": "Sofia",
+        "capacity": 800,
+        "latitude": 42.7114808,
+        "longitude": 23.1606801
+    },
+    {
+        "id": 444521821879,
+        "name": "Vivacom Arena Georgi Asparuhov Stadium",
+        "city": "Sofia",
+        "capacity": 25000,
+        "latitude": 42.7053331,
+        "longitude": 23.3632479
+    },
+    {
+        "id": 762932049338,
+        "name": "City Stadium",
+        "city": "Byala Slatina",
+        "capacity": 3000,
+        "latitude": 42.87615479999999,
+        "longitude": 27.8903014
+    },
+    {
+        "id": 769161527752,
+        "name": "Gradski Stadion Bratsigovo",
+        "city": "Bratsigovo",
+        "capacity": 2000,
+        "latitude": 42.0301227,
+        "longitude": 24.3674397
+    },
+    {
+        "id": 694561297582,
+        "name": "Stadium Sveti Vlas",
+        "city": "Sveti Vlas",
+        "capacity": null,
+        "latitude": 42.7140025,
+        "longitude": 27.7539948
+    },
+    {
+        "id": 469276441532,
+        "name": "Стадион Свобода",
+        "city": "Пещера",
+        "capacity": 5000,
+        "latitude": 42.0287097,
+        "longitude": 24.3026702
+    },
+    {
+        "id": 584191570758,
+        "name": "Stadion Kozlovets",
+        "city": "Kozlovets",
+        "capacity": null,
+        "latitude": 43.34416969999999,
+        "longitude": 26.2356021
+    },
+    {
+        "id": 61391701297,
+        "name": "Стадион Бутан",
+        "city": "Бутан",
+        "capacity": null,
+        "latitude": 27.471371,
+        "longitude": 89.64105099999999
+    },
+    {
+        "id": 670004775419,
+        "name": "Gradski stadion Devin",
+        "city": "Devin",
+        "capacity": 1000,
+        "latitude": 41.74218067363153,
+        "longitude": 24.405172355833386
+    },
+    {
+        "id": 283924310057,
+        "name": "Gradski Stadion Zlatograd",
+        "city": "Zlatograd",
+        "capacity": null,
+        "latitude": 41.3805969,
+        "longitude": 25.0854365
+    },
+    {
+        "id": 1847,
+        "name": "Sporten tsentar Ludogorets",
+        "city": "Razgrad",
+        "capacity": 2000,
+        "latitude": 43.5157596,
+        "longitude": 26.5369003
+    },
+    {
+        "id": 18964,
+        "name": "Sportna baza Pancharevo",
+        "city": "Sofia",
+        "capacity": 800,
+        "latitude": 42.5869677,
+        "longitude": 23.422628
+    },
+    {
+        "id": 1882,
+        "name": "Tsarsko selo Complex",
+        "city": "Sofia",
+        "capacity": 2000,
+        "latitude": 42.6381352,
+        "longitude": 23.3189065
+    },
+    {
+        "id": 287,
+        "name": "Gradski stadion",
+        "city": "Balchik",
+        "capacity": 5000,
+        "latitude": 43.4092793,
+        "longitude": 28.158309
+    },
+    {
+        "id": 4718,
+        "name": "Stadion Dimitar Burkov",
+        "city": "Targovishte",
+        "capacity": 10000,
+        "latitude": 43.23565749999999,
+        "longitude": 26.5725401
+    },
+    {
+        "id": 6068,
+        "name": "Gradski stadion",
+        "city": "Kubrat",
+        "capacity": 5000,
+        "latitude": 43.8011975,
+        "longitude": 26.4919843
+    },
+    {
+        "id": 4662,
+        "name": "Stadion Panayot Volov",
+        "city": "Šumen (Shumen)",
+        "capacity": 24390,
+        "latitude": 43.2766941,
+        "longitude": 26.9442837
+    },
+    {
+        "id": 6073,
+        "name": "Stadion Donchevo",
+        "city": "Donchevo",
+        "capacity": 1000,
+        "latitude": 43.5164536,
+        "longitude": 27.7616044
+    },
+    {
+        "id": 10584,
+        "name": "Stadion Louis Eyer",
+        "city": "Silistra",
+        "capacity": 15069,
+        "latitude": 44.1086811,
+        "longitude": 27.2568903
+    },
+    {
+        "id": 21050,
+        "name": "Stadion kv. Riltsi",
+        "city": "Dobrich",
+        "capacity": 1000,
+        "latitude": 43.586496,
+        "longitude": 27.7741252
+    },
+    {
+        "id": 22097,
+        "name": "Stadion Lokomotiv",
+        "city": "Varna",
+        "capacity": 3000,
+        "latitude": 43.2210563,
+        "longitude": 27.895926
+    },
+    {
+        "id": 21051,
+        "name": "Cherno More Sports Complex",
+        "city": "Varna",
+        "capacity": 1500,
+        "latitude": 43.2150036,
+        "longitude": 27.9324968
+    },
+    {
+        "id": 20252,
+        "name": "Gradski Stadion Isperih",
+        "city": "Isperih",
+        "capacity": 1500,
+        "latitude": 43.7048292,
+        "longitude": 26.825509
+    },
+    {
+        "id": 22099,
+        "name": "Stadion Staro Oryahovo",
+        "city": "Staro Oryahovo",
+        "capacity": 2000,
+        "latitude": 42.9883083,
+        "longitude": 27.8101958
+    },
+    {
+        "id": 6075,
+        "name": "Stadion Georgi Benkovski",
+        "city": "Vidin",
+        "capacity": 15000,
+        "latitude": 43.9938587,
+        "longitude": 22.8635476
+    },
+    {
+        "id": 6078,
+        "name": "Stadion Lokomotiv",
+        "city": "Dryanovo",
+        "capacity": 3000,
+        "latitude": 42.9737819,
+        "longitude": 25.4773527
+    },
+    {
+        "id": 6083,
+        "name": "City Stadium Slavyanovo",
+        "city": "Slavyanovo",
+        "capacity": 1000,
+        "latitude": 43.4548955,
+        "longitude": 24.8677414
+    },
+    {
+        "id": 6108,
+        "name": "Gradski Stadion",
+        "city": "Polski Trambesh",
+        "capacity": 2000,
+        "latitude": 43.3746145,
+        "longitude": 25.6284757
+    },
+    {
+        "id": 10855,
+        "name": "Stadion Trifon Ivanov",
+        "city": "Veliko Tarnovo",
+        "capacity": 1000,
+        "latitude": 43.0779844,
+        "longitude": 25.6204043
+    },
+    {
+        "id": 2668,
+        "name": "Vasil Levski Stadium",
+        "city": "Karlovo",
+        "capacity": 3000,
+        "latitude": 42.6391229,
+        "longitude": 24.813238
+    },
+    {
+        "id": 6086,
+        "name": "Stadion Minyor",
+        "city": "Dimitrovgrad",
+        "capacity": 6000,
+        "latitude": 42.0657584,
+        "longitude": 25.5877117
+    },
+    {
+        "id": 6089,
+        "name": "Gradski stadion",
+        "city": "Karnobat",
+        "capacity": 4000,
+        "latitude": 42.653791,
+        "longitude": 26.9882565
+    },
+    {
+        "id": 6091,
+        "name": "Stadion Septemvri",
+        "city": "Smolian",
+        "capacity": 6100,
+        "latitude": 41.5676546,
+        "longitude": 24.7392523
+    },
+    {
+        "id": 846705241787,
+        "name": "Стадион Милево",
+        "city": "Milevo",
+        "capacity": null,
+        "latitude": 42.145695,
+        "longitude": 25.101296
+    },
+    {
+        "id": 3818,
+        "name": "Stadion Lokomotiv",
+        "city": "Plovdiv",
+        "capacity": 9220,
+        "latitude": 42.1335424,
+        "longitude": 24.7718006
+    },
+    {
+        "id": 6093,
+        "name": "Stadion Kolodruma",
+        "city": "Svilengrad",
+        "capacity": 6536,
+        "latitude": 41.7639348,
+        "longitude": 26.2115597
+    },
+    {
+        "id": 31772236981,
+        "name": "Komatevo Training Complex",
+        "city": "Plovdiv",
+        "capacity": null,
+        "latitude": 42.1074661,
+        "longitude": 24.7079839
+    },
+    {
+        "id": 20105,
+        "name": "Stadion Letishte",
+        "city": "Sofia",
+        "capacity": 3000,
+        "latitude": 42.687664,
+        "longitude": 23.39899
+    },
+    {
+        "id": 2667,
+        "name": "Stadion Sveti Petar",
+        "city": "Bansko",
+        "capacity": 2000,
+        "latitude": 41.8337066,
+        "longitude": 23.49357
+    },
+    {
+        "id": 6101,
+        "name": "Stadion Septemvri",
+        "city": "Razlog",
+        "capacity": 8000,
+        "latitude": 41.8793575,
+        "longitude": 23.4529661
+    },
+    {
+        "id": 6103,
+        "name": "Stadion Struma",
+        "city": "Simitli",
+        "capacity": 8000,
+        "latitude": 41.8908168,
+        "longitude": 23.1152052
+    },
+    {
+        "id": 6104,
+        "name": "Slivnishki Geroy Stadium",
+        "city": "Slivnitsa",
+        "capacity": 5000,
+        "latitude": 42.8582436,
+        "longitude": 23.0322844
+    },
+    {
+        "id": 10736,
+        "name": "Gradski stadion",
+        "city": "Gotse Delchev",
+        "capacity": 6500,
+        "latitude": 41.5715745,
+        "longitude": 23.735085
+    },
+    {
+        "id": 10858,
+        "name": "Stadion Vladaia",
+        "city": "Vladaya",
+        "capacity": 5000,
+        "latitude": 42.63235359999999,
+        "longitude": 23.1976176
+    },
+    {
+        "id": 21014,
+        "name": "Stadion German",
+        "city": "German",
+        "capacity": 500,
+        "latitude": 42.61667762426715,
+        "longitude": 23.415430107985873
+    },
+    {
+        "id": 21015,
+        "name": "Stadion NSA",
+        "city": "Sofia",
+        "capacity": 1000,
+        "latitude": 42.6882036,
+        "longitude": 23.3345562
+    },
+    {
+        "id": 18966,
+        "name": "Georgi Asparuhov pomoshtno igrishte",
+        "city": "Sofia",
+        "capacity": 2000,
+        "latitude": 42.7053331,
+        "longitude": 23.3632479
+    },
+    {
+        "id": 21016,
+        "name": "Slavija pomoshten teren",
+        "city": "Sofia",
+        "capacity": 1000,
+        "latitude": 42.6977082,
+        "longitude": 23.3218675
+    },
+    {
+        "id": 690920073153,
+        "name": "Sporten kompleks Pancharevo",
+        "city": "Sofia",
+        "capacity": null,
+        "latitude": 42.6029112,
+        "longitude": 23.4034071
+    }
+]
