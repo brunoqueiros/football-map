@@ -1,0 +1,50 @@
+[
+    {
+        "id": 4740,
+        "name": "Stade Wobi",
+        "city": "Bobo-Dioulasso",
+        "capacity": 10000,
+        "latitude": 11.1816193,
+        "longitude": -4.2971054
+    },
+    {
+        "id": 306,
+        "name": "Stade du 4 Août",
+        "city": "Ouagadougou",
+        "capacity": 60000,
+        "latitude": 12.3687021,
+        "longitude": -1.5534607
+    },
+    {
+        "id": 5758,
+        "name": "Stade du 4 Août",
+        "city": "Ouagadougou",
+        "capacity": 38000,
+        "latitude": 12.3687021,
+        "longitude": -1.5534607
+    },
+    {
+        "id": 6111,
+        "name": "Stade Balibié Batiebo",
+        "city": "Koudougou",
+        "capacity": 5000,
+        "latitude": 12.2526704,
+        "longitude": -2.3677093
+    },
+    {
+        "id": 6112,
+        "name": "Stade du 4 Août",
+        "city": "Ouagadougou",
+        "capacity": 35000,
+        "latitude": 12.3687021,
+        "longitude": -1.5534607
+    },
+    {
+        "id": 21393,
+        "name": "Stade Banfora",
+        "city": "Banfora",
+        "capacity": 6000,
+        "latitude": 10.6521579,
+        "longitude": -4.7458019
+    }
+]

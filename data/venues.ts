@@ -25,3 +25,4 @@ export { default as bolivia } from './bolivia-venues.json';
 export { default as bosnia } from './bosnia-venues.json';
 export { default as botswana } from './botswana-venues.json';
 export { default as bulgaria } from './bulgaria-venues.json';
+export { default as burkinaFaso } from './burkina-faso-venues.json';

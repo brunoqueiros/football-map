@@ -1,0 +1,162 @@
+[
+    {
+        "id": 6430,
+        "name": "Rahimo",
+        "code": null,
+        "country": "Burkina-Faso",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/6430.png",
+        "venue_id": 4740
+    },
+    {
+        "id": 8072,
+        "name": "Salitas",
+        "code": null,
+        "country": "Burkina-Faso",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/8072.png",
+        "venue_id": 306
+    },
+    {
+        "id": 8086,
+        "name": "Etoile Filante",
+        "code": null,
+        "country": "Burkina-Faso",
+        "founded": 1955,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/8086.png",
+        "venue_id": 306
+    },
+    {
+        "id": 8111,
+        "name": "SONABEL",
+        "code": null,
+        "country": "Burkina-Faso",
+        "founded": 1990,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/8111.png",
+        "venue_id": 5758
+    },
+    {
+        "id": 8561,
+        "name": "RCK",
+        "code": null,
+        "country": "Burkina-Faso",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/8561.png",
+        "venue_id": 306
+    },
+    {
+        "id": 8562,
+        "name": "ASEC-K",
+        "code": null,
+        "country": "Burkina-Faso",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/8562.png",
+        "venue_id": 6111
+    },
+    {
+        "id": 8563,
+        "name": "ASFA-Yennenga",
+        "code": null,
+        "country": "Burkina-Faso",
+        "founded": 1947,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/8563.png",
+        "venue_id": 5758
+    },
+    {
+        "id": 8564,
+        "name": "ASFB",
+        "code": null,
+        "country": "Burkina-Faso",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/8564.png",
+        "venue_id": 4740
+    },
+    {
+        "id": 8566,
+        "name": "Majestic",
+        "code": null,
+        "country": "Burkina-Faso",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/8566.png",
+        "venue_id": 6112
+    },
+    {
+        "id": 8568,
+        "name": "RC Bobo-Dioulasso",
+        "code": null,
+        "country": "Burkina-Faso",
+        "founded": 1949,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/8568.png",
+        "venue_id": 4740
+    },
+    {
+        "id": 8570,
+        "name": "USFA",
+        "code": null,
+        "country": "Burkina-Faso",
+        "founded": 1962,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/8570.png",
+        "venue_id": 5758
+    },
+    {
+        "id": 13978,
+        "name": "Douanes",
+        "code": null,
+        "country": "Burkina-Faso",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/13978.png",
+        "venue_id": 5758
+    },
+    {
+        "id": 17923,
+        "name": "Vitesse",
+        "code": null,
+        "country": "Burkina-Faso",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/17923.png",
+        "venue_id": 4740
+    },
+    {
+        "id": 20029,
+        "name": "Réal du Faso",
+        "code": null,
+        "country": "Burkina-Faso",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/20029.png",
+        "venue_id": 5758
+    },
+    {
+        "id": 22017,
+        "name": "Sporting Cascades",
+        "code": null,
+        "country": "Burkina-Faso",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/22017.png",
+        "venue_id": 21393
+    },
+    {
+        "id": 25180,
+        "name": "Comoé",
+        "code": null,
+        "country": "Burkina-Faso",
+        "founded": 1985,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/25180.png",
+        "venue_id": 21393
+    }
+]

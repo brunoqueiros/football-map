@@ -25,3 +25,4 @@ export { default as bolivia } from './bolivia-teams.json';
 export { default as bosnia } from './bosnia-teams.json';
 export { default as botswana } from './botswana-teams.json';
 export { default as bulgaria } from './bulgaria-teams.json';
+export { default as burkinaFaso } from './burkina-faso-teams.json';
