@@ -1,0 +1,3232 @@
+[
+    {
+        "id": 259,
+        "name": "Lommel United",
+        "code": "KVS",
+        "country": "Belgium",
+        "founded": 1937,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/259.png",
+        "venue_id": 20335
+    },
+    {
+        "id": 600,
+        "name": "Zulte Waregem",
+        "code": "WAR",
+        "country": "Belgium",
+        "founded": 2001,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/600.png",
+        "venue_id": 11891
+    },
+    {
+        "id": 738,
+        "name": "SK Beveren",
+        "code": "WAA",
+        "country": "Belgium",
+        "founded": 1936,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/738.png",
+        "venue_id": 189
+    },
+    {
+        "id": 739,
+        "name": "AS Eupen",
+        "code": "EUP",
+        "country": "Belgium",
+        "founded": 1945,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/739.png",
+        "venue_id": 20333
+    },
+    {
+        "id": 5805,
+        "name": "Francs Borains",
+        "code": null,
+        "country": "Belgium",
+        "founded": 1922,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/5805.png",
+        "venue_id": 4311
+    },
+    {
+        "id": 5902,
+        "name": "RAAL La Louvière",
+        "code": null,
+        "country": "Belgium",
+        "founded": 2017,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/5902.png",
+        "venue_id": 10514
+    },
+    {
+        "id": 6214,
+        "name": "Deinze",
+        "code": "DEI",
+        "country": "Belgium",
+        "founded": 1926,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/6214.png",
+        "venue_id": 12688
+    },
+    {
+        "id": 6219,
+        "name": "K. Lierse S.K.",
+        "code": null,
+        "country": "Belgium",
+        "founded": 2018,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/6219.png",
+        "venue_id": 21826
+    },
+    {
+        "id": 6220,
+        "name": "Liège",
+        "code": null,
+        "country": "Belgium",
+        "founded": 1995,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/6220.png",
+        "venue_id": 21404
+    },
+    {
+        "id": 6222,
+        "name": "Patro Eisden",
+        "code": "PAT",
+        "country": "Belgium",
+        "founded": 1942,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/6222.png",
+        "venue_id": 20343
+    },
+    {
+        "id": 6224,
+        "name": "RWDM",
+        "code": null,
+        "country": "Belgium",
+        "founded": 2015,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/6224.png",
+        "venue_id": 19385
+    },
+    {
+        "id": 10244,
+        "name": "Seraing United",
+        "code": null,
+        "country": "Belgium",
+        "founded": 1901,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/10244.png",
+        "venue_id": 4600
+    },
+    {
+        "id": 14128,
+        "name": "Lokeren-Temse",
+        "code": null,
+        "country": "Belgium",
+        "founded": 2020,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/14128.png",
+        "venue_id": 183
+    },
+    {
+        "id": 14130,
+        "name": "Club Brugge II",
+        "code": null,
+        "country": "Belgium",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/14130.png",
+        "venue_id": 22555
+    },
+    {
+        "id": 19045,
+        "name": "KRC Genk II",
+        "code": null,
+        "country": "Belgium",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/19045.png",
+        "venue_id": 12455
+    },
+    {
+        "id": 19046,
+        "name": "RSC Anderlecht II",
+        "code": null,
+        "country": "Belgium",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/19046.png",
+        "venue_id": 21827
+    },
+    {
+        "id": 260,
+        "name": "OH Leuven",
+        "code": "LEU",
+        "country": "Belgium",
+        "founded": 1957,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/260.png",
+        "venue_id": 186
+    },
+    {
+        "id": 261,
+        "name": "KVC Westerlo",
+        "code": "WES",
+        "country": "Belgium",
+        "founded": 1933,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/261.png",
+        "venue_id": 195
+    },
+    {
+        "id": 262,
+        "name": "Tubize",
+        "code": "TUB",
+        "country": "Belgium",
+        "founded": 1953,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/262.png",
+        "venue_id": 193
+    },
+    {
+        "id": 263,
+        "name": "Beerschot VA",
+        "code": null,
+        "country": "Belgium",
+        "founded": 1921,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/263.png",
+        "venue_id": 181
+    },
+    {
+        "id": 266,
+        "name": "KV Mechelen",
+        "code": "MEC",
+        "country": "Belgium",
+        "founded": 1904,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/266.png",
+        "venue_id": 20336
+    },
+    {
+        "id": 554,
+        "name": "Anderlecht",
+        "code": "AND",
+        "country": "Belgium",
+        "founded": 1908,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/554.png",
+        "venue_id": 174
+    },
+    {
+        "id": 569,
+        "name": "Club Brugge KV",
+        "code": "CLU",
+        "country": "Belgium",
+        "founded": 1891,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/569.png",
+        "venue_id": 176
+    },
+    {
+        "id": 631,
+        "name": "Gent",
+        "code": "GEN",
+        "country": "Belgium",
+        "founded": 1900,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/631.png",
+        "venue_id": 20727
+    },
+    {
+        "id": 733,
+        "name": "Standard Liege",
+        "code": "STA",
+        "country": "Belgium",
+        "founded": 1898,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/733.png",
+        "venue_id": 192
+    },
+    {
+        "id": 734,
+        "name": "Kortrijk",
+        "code": "KOR",
+        "country": "Belgium",
+        "founded": 1901,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/734.png",
+        "venue_id": 182
+    },
+    {
+        "id": 735,
+        "name": "St. Truiden",
+        "code": "TRU",
+        "country": "Belgium",
+        "founded": 1924,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/735.png",
+        "venue_id": 19611
+    },
+    {
+        "id": 736,
+        "name": "Charleroi",
+        "code": "CHA",
+        "country": "Belgium",
+        "founded": 1904,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/736.png",
+        "venue_id": 177
+    },
+    {
+        "id": 740,
+        "name": "Antwerp",
+        "code": "ANT",
+        "country": "Belgium",
+        "founded": 1880,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/740.png",
+        "venue_id": 175
+    },
+    {
+        "id": 741,
+        "name": "Cercle Brugge",
+        "code": "CER",
+        "country": "Belgium",
+        "founded": 1899,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/741.png",
+        "venue_id": 176
+    },
+    {
+        "id": 742,
+        "name": "Genk",
+        "code": "GEN",
+        "country": "Belgium",
+        "founded": 1988,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/742.png",
+        "venue_id": 12455
+    },
+    {
+        "id": 1393,
+        "name": "Union St. Gilloise",
+        "code": "GIL",
+        "country": "Belgium",
+        "founded": 1897,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/1393.png",
+        "venue_id": 194
+    },
+    {
+        "id": 4715,
+        "name": "Excelsior Virton",
+        "code": "VIR",
+        "country": "Belgium",
+        "founded": 1922,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/4715.png",
+        "venue_id": 3563
+    },
+    {
+        "id": 5734,
+        "name": "Lille",
+        "code": null,
+        "country": "Belgium",
+        "founded": 1938,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/5734.png",
+        "venue_id": 22100
+    },
+    {
+        "id": 5735,
+        "name": "Chaumont",
+        "code": null,
+        "country": "Belgium",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/5735.png",
+        "venue_id": 19898
+    },
+    {
+        "id": 5737,
+        "name": "Acren-Lessines",
+        "code": null,
+        "country": "Belgium",
+        "founded": 1939,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/5737.png",
+        "venue_id": 4256
+    },
+    {
+        "id": 5739,
+        "name": "Aische",
+        "code": null,
+        "country": "Belgium",
+        "founded": 1941,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/5739.png",
+        "venue_id": 4258
+    },
+    {
+        "id": 5740,
+        "name": "Albert Quévy-Mons",
+        "code": null,
+        "country": "Belgium",
+        "founded": 1946,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/5740.png",
+        "venue_id": 11664
+    },
+    {
+        "id": 5746,
+        "name": "Avanti",
+        "code": null,
+        "country": "Belgium",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/5746.png",
+        "venue_id": 4264
+    },
+    {
+        "id": 5747,
+        "name": "Aywaille",
+        "code": null,
+        "country": "Belgium",
+        "founded": 1933,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/5747.png",
+        "venue_id": 4265
+    },
+    {
+        "id": 5750,
+        "name": "Belœil",
+        "code": null,
+        "country": "Belgium",
+        "founded": 1945,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/5750.png",
+        "venue_id": 4268
+    },
+    {
+        "id": 5751,
+        "name": "Berchem Sport",
+        "code": "BER",
+        "country": "Belgium",
+        "founded": 1908,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/5751.png",
+        "venue_id": 4269
+    },
+    {
+        "id": 5752,
+        "name": "Berg en Dal",
+        "code": null,
+        "country": "Belgium",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/5752.png",
+        "venue_id": 20230
+    },
+    {
+        "id": 5755,
+        "name": "Bertem-Leefdaal",
+        "code": null,
+        "country": "Belgium",
+        "founded": 2005,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/5755.png",
+        "venue_id": 4272
+    },
+    {
+        "id": 5756,
+        "name": "Betekom",
+        "code": null,
+        "country": "Belgium",
+        "founded": 1927,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/5756.png",
+        "venue_id": 4273
+    },
+    {
+        "id": 5757,
+        "name": "Biesme",
+        "code": null,
+        "country": "Belgium",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/5757.png",
+        "venue_id": 10878
+    },
+    {
+        "id": 5759,
+        "name": "Blankenberge",
+        "code": null,
+        "country": "Belgium",
+        "founded": 1909,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/5759.png",
+        "venue_id": 11661
+    },
+    {
+        "id": 5760,
+        "name": "Bocholt",
+        "code": "BOC",
+        "country": "Belgium",
+        "founded": 1923,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/5760.png",
+        "venue_id": 19018
+    },
+    {
+        "id": 5764,
+        "name": "Braine",
+        "code": null,
+        "country": "Belgium",
+        "founded": 1913,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/5764.png",
+        "venue_id": 4279
+    },
+    {
+        "id": 5767,
+        "name": "Cappellen",
+        "code": "CAP",
+        "country": "Belgium",
+        "founded": 1909,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/5767.png",
+        "venue_id": 4280
+    },
+    {
+        "id": 5768,
+        "name": "City Pirates Antwerpen",
+        "code": null,
+        "country": "Belgium",
+        "founded": 1921,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/5768.png",
+        "venue_id": 4281
+    },
+    {
+        "id": 5770,
+        "name": "Crossing Schaerbeek",
+        "code": null,
+        "country": "Belgium",
+        "founded": 1973,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/5770.png",
+        "venue_id": 4283
+    },
+    {
+        "id": 5773,
+        "name": "De Kempen",
+        "code": null,
+        "country": "Belgium",
+        "founded": 1946,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/5773.png",
+        "venue_id": 4285
+    },
+    {
+        "id": 5776,
+        "name": "Diegem Sport",
+        "code": "DIE",
+        "country": "Belgium",
+        "founded": 1941,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/5776.png",
+        "venue_id": 4288
+    },
+    {
+        "id": 5777,
+        "name": "Diest",
+        "code": null,
+        "country": "Belgium",
+        "founded": 1948,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/5777.png",
+        "venue_id": 4289
+    },
+    {
+        "id": 5778,
+        "name": "Dikkelvenne",
+        "code": null,
+        "country": "Belgium",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/5778.png",
+        "venue_id": 4290
+    },
+    {
+        "id": 5780,
+        "name": "Drongen",
+        "code": null,
+        "country": "Belgium",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/5780.png",
+        "venue_id": 4291
+    },
+    {
+        "id": 5784,
+        "name": "Eendracht Aalter",
+        "code": null,
+        "country": "Belgium",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/5784.png",
+        "venue_id": 4294
+    },
+    {
+        "id": 5786,
+        "name": "Eendracht Termien",
+        "code": null,
+        "country": "Belgium",
+        "founded": 1968,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/5786.png",
+        "venue_id": 4295
+    },
+    {
+        "id": 5787,
+        "name": "Eendracht Wervik",
+        "code": null,
+        "country": "Belgium",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/5787.png",
+        "venue_id": 4296
+    },
+    {
+        "id": 5790,
+        "name": "Elene-Grotenberge",
+        "code": null,
+        "country": "Belgium",
+        "founded": 2014,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/5790.png",
+        "venue_id": 4299
+    },
+    {
+        "id": 5791,
+        "name": "Elsautoise",
+        "code": null,
+        "country": "Belgium",
+        "founded": 1961,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/5791.png",
+        "venue_id": 4300
+    },
+    {
+        "id": 5793,
+        "name": "Entité Manageoise",
+        "code": null,
+        "country": "Belgium",
+        "founded": 1976,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/5793.png",
+        "venue_id": 4301
+    },
+    {
+        "id": 5795,
+        "name": "Esperanza Pelt",
+        "code": "NEE",
+        "country": "Belgium",
+        "founded": 1937,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/5795.png",
+        "venue_id": 4303
+    },
+    {
+        "id": 5798,
+        "name": "Etterbeek",
+        "code": null,
+        "country": "Belgium",
+        "founded": 1916,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/5798.png",
+        "venue_id": 4305
+    },
+    {
+        "id": 5802,
+        "name": "FC Eupen",
+        "code": null,
+        "country": "Belgium",
+        "founded": 1963,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/5802.png",
+        "venue_id": 18935
+    },
+    {
+        "id": 5803,
+        "name": "FC Lebbeke",
+        "code": null,
+        "country": "Belgium",
+        "founded": 1978,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/5803.png",
+        "venue_id": 4309
+    },
+    {
+        "id": 5806,
+        "name": "Ganshoren",
+        "code": null,
+        "country": "Belgium",
+        "founded": 1971,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/5806.png",
+        "venue_id": 4312
+    },
+    {
+        "id": 5807,
+        "name": "Geel",
+        "code": "ASV",
+        "country": "Belgium",
+        "founded": 2008,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/5807.png",
+        "venue_id": 20341
+    },
+    {
+        "id": 5809,
+        "name": "Gosselies Sports",
+        "code": null,
+        "country": "Belgium",
+        "founded": 1908,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/5809.png",
+        "venue_id": 4314
+    },
+    {
+        "id": 5810,
+        "name": "Grand-Leez",
+        "code": null,
+        "country": "Belgium",
+        "founded": 1958,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/5810.png",
+        "venue_id": 4315
+    },
+    {
+        "id": 5812,
+        "name": "Gullegem",
+        "code": "GUL",
+        "country": "Belgium",
+        "founded": 2007,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/5812.png",
+        "venue_id": 4316
+    },
+    {
+        "id": 5813,
+        "name": "HO Kalken",
+        "code": null,
+        "country": "Belgium",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/5813.png",
+        "venue_id": 4317
+    },
+    {
+        "id": 5814,
+        "name": "Habay-la-Neuve",
+        "code": null,
+        "country": "Belgium",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/5814.png",
+        "venue_id": 4318
+    },
+    {
+        "id": 5815,
+        "name": "Hades",
+        "code": null,
+        "country": "Belgium",
+        "founded": 1952,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/5815.png",
+        "venue_id": 4319
+    },
+    {
+        "id": 5816,
+        "name": "Hamoir",
+        "code": null,
+        "country": "Belgium",
+        "founded": 1931,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/5816.png",
+        "venue_id": 4320
+    },
+    {
+        "id": 5817,
+        "name": "Harelbeke",
+        "code": null,
+        "country": "Belgium",
+        "founded": 2002,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/5817.png",
+        "venue_id": 4321
+    },
+    {
+        "id": 5824,
+        "name": "Hoboken",
+        "code": null,
+        "country": "Belgium",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/5824.png",
+        "venue_id": 4327
+    },
+    {
+        "id": 5825,
+        "name": "Hoogstraten",
+        "code": "HOO",
+        "country": "Belgium",
+        "founded": 1936,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/5825.png",
+        "venue_id": 4328
+    },
+    {
+        "id": 5829,
+        "name": "Houtvenne",
+        "code": null,
+        "country": "Belgium",
+        "founded": 1946,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/5829.png",
+        "venue_id": 20232
+    },
+    {
+        "id": 5832,
+        "name": "Huy",
+        "code": "HUY",
+        "country": "Belgium",
+        "founded": 1908,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/5832.png",
+        "venue_id": 21402
+    },
+    {
+        "id": 5836,
+        "name": "Jette",
+        "code": null,
+        "country": "Belgium",
+        "founded": 1927,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/5836.png",
+        "venue_id": 4336
+    },
+    {
+        "id": 5838,
+        "name": "Jodoigne",
+        "code": null,
+        "country": "Belgium",
+        "founded": 1922,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/5838.png",
+        "venue_id": 4337
+    },
+    {
+        "id": 5839,
+        "name": "Jong Lede",
+        "code": null,
+        "country": "Belgium",
+        "founded": 1943,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/5839.png",
+        "venue_id": 4338
+    },
+    {
+        "id": 5841,
+        "name": "K. Kontich",
+        "code": null,
+        "country": "Belgium",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/5841.png",
+        "venue_id": 4340
+    },
+    {
+        "id": 5843,
+        "name": "KRC Gent",
+        "code": "ZEE",
+        "country": "Belgium",
+        "founded": 1899,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/5843.png",
+        "venue_id": 19273
+    },
+    {
+        "id": 5846,
+        "name": "Kleit Maldegem",
+        "code": null,
+        "country": "Belgium",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/5846.png",
+        "venue_id": 19878
+    },
+    {
+        "id": 5847,
+        "name": "Knokke",
+        "code": null,
+        "country": "Belgium",
+        "founded": 1920,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/5847.png",
+        "venue_id": 4343
+    },
+    {
+        "id": 5850,
+        "name": "Kosova Schaerbeek",
+        "code": null,
+        "country": "Belgium",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/5850.png",
+        "venue_id": 4345
+    },
+    {
+        "id": 5853,
+        "name": "Lauwe",
+        "code": null,
+        "country": "Belgium",
+        "founded": 1925,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/5853.png",
+        "venue_id": 19879
+    },
+    {
+        "id": 5858,
+        "name": "Libramont",
+        "code": null,
+        "country": "Belgium",
+        "founded": 1930,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/5858.png",
+        "venue_id": 4350
+    },
+    {
+        "id": 5859,
+        "name": "Linden",
+        "code": null,
+        "country": "Belgium",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/5859.png",
+        "venue_id": 4351
+    },
+    {
+        "id": 5862,
+        "name": "Londerzeel",
+        "code": "LON",
+        "country": "Belgium",
+        "founded": 1929,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/5862.png",
+        "venue_id": 4353
+    },
+    {
+        "id": 5863,
+        "name": "Loyers",
+        "code": null,
+        "country": "Belgium",
+        "founded": 1949,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/5863.png",
+        "venue_id": 10879
+    },
+    {
+        "id": 5864,
+        "name": "Lyra-Lierse Berlaar",
+        "code": null,
+        "country": "Belgium",
+        "founded": 1972,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/5864.png",
+        "venue_id": 4355
+    },
+    {
+        "id": 5865,
+        "name": "Léopold",
+        "code": null,
+        "country": "Belgium",
+        "founded": 1893,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/5865.png",
+        "venue_id": 11667
+    },
+    {
+        "id": 5868,
+        "name": "Mandel United",
+        "code": null,
+        "country": "Belgium",
+        "founded": 2017,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/5868.png",
+        "venue_id": 19050
+    },
+    {
+        "id": 5870,
+        "name": "Meix-Devant-Virton",
+        "code": null,
+        "country": "Belgium",
+        "founded": 1941,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/5870.png",
+        "venue_id": 4360
+    },
+    {
+        "id": 5871,
+        "name": "Merelbeke",
+        "code": null,
+        "country": "Belgium",
+        "founded": 1942,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/5871.png",
+        "venue_id": 19949
+    },
+    {
+        "id": 5872,
+        "name": "Meux",
+        "code": null,
+        "country": "Belgium",
+        "founded": 1946,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/5872.png",
+        "venue_id": 4362
+    },
+    {
+        "id": 5876,
+        "name": "Mormont",
+        "code": null,
+        "country": "Belgium",
+        "founded": 1942,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/5876.png",
+        "venue_id": 4365
+    },
+    {
+        "id": 5880,
+        "name": "Nassogne",
+        "code": null,
+        "country": "Belgium",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/5880.png",
+        "venue_id": 4366
+    },
+    {
+        "id": 5883,
+        "name": "Nijlen",
+        "code": null,
+        "country": "Belgium",
+        "founded": 1927,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/5883.png",
+        "venue_id": 4368
+    },
+    {
+        "id": 5884,
+        "name": "Ninove",
+        "code": null,
+        "country": "Belgium",
+        "founded": 1936,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/5884.png",
+        "venue_id": 4369
+    },
+    {
+        "id": 5885,
+        "name": "Nismes",
+        "code": null,
+        "country": "Belgium",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/5885.png",
+        "venue_id": 4370
+    },
+    {
+        "id": 5886,
+        "name": "Olsa Brakel",
+        "code": "BRA",
+        "country": "Belgium",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/5886.png",
+        "venue_id": 4371
+    },
+    {
+        "id": 5887,
+        "name": "Olympia Wijgmaal",
+        "code": null,
+        "country": "Belgium",
+        "founded": 1926,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/5887.png",
+        "venue_id": 4372
+    },
+    {
+        "id": 5888,
+        "name": "Onhaye",
+        "code": null,
+        "country": "Belgium",
+        "founded": 1963,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/5888.png",
+        "venue_id": 4373
+    },
+    {
+        "id": 5890,
+        "name": "Oostkamp",
+        "code": null,
+        "country": "Belgium",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/5890.png",
+        "venue_id": 4375
+    },
+    {
+        "id": 5892,
+        "name": "Oppagne-Wéris",
+        "code": null,
+        "country": "Belgium",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/5892.png",
+        "venue_id": 4377
+    },
+    {
+        "id": 5893,
+        "name": "Ostiches",
+        "code": null,
+        "country": "Belgium",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/5893.png",
+        "venue_id": 4378
+    },
+    {
+        "id": 5894,
+        "name": "Oudenaarde",
+        "code": "OUD",
+        "country": "Belgium",
+        "founded": 1919,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/5894.png",
+        "venue_id": 4379
+    },
+    {
+        "id": 5896,
+        "name": "PAC Buzet",
+        "code": null,
+        "country": "Belgium",
+        "founded": 1994,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/5896.png",
+        "venue_id": 4380
+    },
+    {
+        "id": 5898,
+        "name": "Pepingen-Halle",
+        "code": null,
+        "country": "Belgium",
+        "founded": 2017,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/5898.png",
+        "venue_id": 12165
+    },
+    {
+        "id": 5901,
+        "name": "Pâturages",
+        "code": null,
+        "country": "Belgium",
+        "founded": 1931,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/5901.png",
+        "venue_id": 4384
+    },
+    {
+        "id": 5905,
+        "name": "RFC Wetteren",
+        "code": null,
+        "country": "Belgium",
+        "founded": 1920,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/5905.png",
+        "venue_id": 4388
+    },
+    {
+        "id": 5906,
+        "name": "Racing Mechelen",
+        "code": "MEC",
+        "country": "Belgium",
+        "founded": 1904,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/5906.png",
+        "venue_id": 4389
+    },
+    {
+        "id": 5907,
+        "name": "Racing Waregem",
+        "code": null,
+        "country": "Belgium",
+        "founded": 1941,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/5907.png",
+        "venue_id": 4390
+    },
+    {
+        "id": 5908,
+        "name": "Raeren-Eynatten",
+        "code": null,
+        "country": "Belgium",
+        "founded": 1912,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/5908.png",
+        "venue_id": 4391
+    },
+    {
+        "id": 5910,
+        "name": "Rebecq",
+        "code": null,
+        "country": "Belgium",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/5910.png",
+        "venue_id": 4393
+    },
+    {
+        "id": 5913,
+        "name": "Richelle United",
+        "code": null,
+        "country": "Belgium",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/5913.png",
+        "venue_id": 10395
+    },
+    {
+        "id": 5914,
+        "name": "Rochefort",
+        "code": null,
+        "country": "Belgium",
+        "founded": 1939,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/5914.png",
+        "venue_id": 4397
+    },
+    {
+        "id": 5917,
+        "name": "SG-Tertre-Hautrage",
+        "code": null,
+        "country": "Belgium",
+        "founded": 1930,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/5917.png",
+        "venue_id": 11668
+    },
+    {
+        "id": 5921,
+        "name": "Sassport Boezinge",
+        "code": null,
+        "country": "Belgium",
+        "founded": 1952,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/5921.png",
+        "venue_id": 4402
+    },
+    {
+        "id": 5922,
+        "name": "Schelle Sport",
+        "code": null,
+        "country": "Belgium",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/5922.png",
+        "venue_id": 5646235400231900000
+    },
+    {
+        "id": 5925,
+        "name": "Sint-Lenaarts",
+        "code": null,
+        "country": "Belgium",
+        "founded": 1916,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/5925.png",
+        "venue_id": 4405
+    },
+    {
+        "id": 5927,
+        "name": "Sparta Petegem",
+        "code": null,
+        "country": "Belgium",
+        "founded": 1928,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/5927.png",
+        "venue_id": 4407
+    },
+    {
+        "id": 5931,
+        "name": "Sporting Hasselt",
+        "code": "HAS",
+        "country": "Belgium",
+        "founded": 1927,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/5931.png",
+        "venue_id": 4408
+    },
+    {
+        "id": 5934,
+        "name": "Spouwen-Mopertingen",
+        "code": null,
+        "country": "Belgium",
+        "founded": 1967,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/5934.png",
+        "venue_id": 12166
+    },
+    {
+        "id": 5935,
+        "name": "Sprimont",
+        "code": "SPC",
+        "country": "Belgium",
+        "founded": 1919,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/5935.png",
+        "venue_id": 4411
+    },
+    {
+        "id": 5939,
+        "name": "Stade Everois",
+        "code": null,
+        "country": "Belgium",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/5939.png",
+        "venue_id": 18797
+    },
+    {
+        "id": 5940,
+        "name": "Standard Elen",
+        "code": null,
+        "country": "Belgium",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/5940.png",
+        "venue_id": 5646235400231900000
+    },
+    {
+        "id": 5941,
+        "name": "Ster-Francorchamps",
+        "code": null,
+        "country": "Belgium",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/5941.png",
+        "venue_id": 4415
+    },
+    {
+        "id": 5942,
+        "name": "Stockay-Warfusée",
+        "code": null,
+        "country": "Belgium",
+        "founded": 1935,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/5942.png",
+        "venue_id": 4416
+    },
+    {
+        "id": 5947,
+        "name": "Tempo Overijse",
+        "code": "OVE",
+        "country": "Belgium",
+        "founded": 1998,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/5947.png",
+        "venue_id": 4420
+    },
+    {
+        "id": 5950,
+        "name": "Tervuren-Duisburg",
+        "code": null,
+        "country": "Belgium",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/5950.png",
+        "venue_id": 4423
+    },
+    {
+        "id": 5951,
+        "name": "Tienen",
+        "code": null,
+        "country": "Belgium",
+        "founded": 1921,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/5951.png",
+        "venue_id": 4424
+    },
+    {
+        "id": 5955,
+        "name": "Torhout",
+        "code": "TOR",
+        "country": "Belgium",
+        "founded": 1926,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/5955.png",
+        "venue_id": 4427
+    },
+    {
+        "id": 5957,
+        "name": "Tournai",
+        "code": "TOU",
+        "country": "Belgium",
+        "founded": 1903,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/5957.png",
+        "venue_id": 4429
+    },
+    {
+        "id": 5959,
+        "name": "Turnhout",
+        "code": "TUR",
+        "country": "Belgium",
+        "founded": 1912,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/5959.png",
+        "venue_id": 4431
+    },
+    {
+        "id": 5962,
+        "name": "US d'Ophain",
+        "code": null,
+        "country": "Belgium",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/5962.png",
+        "venue_id": 4434
+    },
+    {
+        "id": 5963,
+        "name": "Union Lasne-Ohain",
+        "code": null,
+        "country": "Belgium",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/5963.png",
+        "venue_id": 11669
+    },
+    {
+        "id": 5964,
+        "name": "Union Namur",
+        "code": null,
+        "country": "Belgium",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/5964.png",
+        "venue_id": 21403
+    },
+    {
+        "id": 5966,
+        "name": "VW Hamme",
+        "code": null,
+        "country": "Belgium",
+        "founded": 1908,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/5966.png",
+        "venue_id": 4438
+    },
+    {
+        "id": 5970,
+        "name": "Verlaine",
+        "code": null,
+        "country": "Belgium",
+        "founded": 1940,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/5970.png",
+        "venue_id": 4441
+    },
+    {
+        "id": 5971,
+        "name": "Villers-La-Ville",
+        "code": null,
+        "country": "Belgium",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/5971.png",
+        "venue_id": 4442
+    },
+    {
+        "id": 5975,
+        "name": "Voorde Appelterre",
+        "code": null,
+        "country": "Belgium",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/5975.png",
+        "venue_id": 4444
+    },
+    {
+        "id": 5978,
+        "name": "Vrasene",
+        "code": null,
+        "country": "Belgium",
+        "founded": 1996,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/5978.png",
+        "venue_id": 4447
+    },
+    {
+        "id": 5979,
+        "name": "Vyle-Tharoul",
+        "code": null,
+        "country": "Belgium",
+        "founded": 1956,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/5979.png",
+        "venue_id": 4448
+    },
+    {
+        "id": 5981,
+        "name": "Wallonia Libin",
+        "code": null,
+        "country": "Belgium",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/5981.png",
+        "venue_id": 21069
+    },
+    {
+        "id": 5982,
+        "name": "Wallonne Ciney",
+        "code": "WAL",
+        "country": "Belgium",
+        "founded": 1924,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/5982.png",
+        "venue_id": 12267
+    },
+    {
+        "id": 5984,
+        "name": "Waremme",
+        "code": null,
+        "country": "Belgium",
+        "founded": 1922,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/5984.png",
+        "venue_id": 4452
+    },
+    {
+        "id": 5988,
+        "name": "Weerstand Koersel",
+        "code": null,
+        "country": "Belgium",
+        "founded": 1938,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/5988.png",
+        "venue_id": 18798
+    },
+    {
+        "id": 5989,
+        "name": "Wellen",
+        "code": null,
+        "country": "Belgium",
+        "founded": 1935,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/5989.png",
+        "venue_id": 4457
+    },
+    {
+        "id": 5990,
+        "name": "Westhoek",
+        "code": "WES",
+        "country": "Belgium",
+        "founded": 1974,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/5990.png",
+        "venue_id": 19384
+    },
+    {
+        "id": 5991,
+        "name": "Wielsbeke",
+        "code": null,
+        "country": "Belgium",
+        "founded": 1960,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/5991.png",
+        "venue_id": 4459
+    },
+    {
+        "id": 5993,
+        "name": "Witgoor Sport",
+        "code": null,
+        "country": "Belgium",
+        "founded": 1933,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/5993.png",
+        "venue_id": 19020
+    },
+    {
+        "id": 5995,
+        "name": "Wolvertem Merchtem",
+        "code": null,
+        "country": "Belgium",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/5995.png",
+        "venue_id": 19051
+    },
+    {
+        "id": 5997,
+        "name": "Wépion",
+        "code": null,
+        "country": "Belgium",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/5997.png",
+        "venue_id": 4464
+    },
+    {
+        "id": 6001,
+        "name": "Zelzate",
+        "code": null,
+        "country": "Belgium",
+        "founded": 1944,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/6001.png",
+        "venue_id": 4466
+    },
+    {
+        "id": 6003,
+        "name": "Zwarte Leeuw",
+        "code": null,
+        "country": "Belgium",
+        "founded": 1926,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/6003.png",
+        "venue_id": 4467
+    },
+    {
+        "id": 6215,
+        "name": "Dender",
+        "code": "DEN",
+        "country": "Belgium",
+        "founded": 1935,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/6215.png",
+        "venue_id": 19052
+    },
+    {
+        "id": 6216,
+        "name": "Dessel Sport",
+        "code": "DES",
+        "country": "Belgium",
+        "founded": 1926,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/6216.png",
+        "venue_id": 4595
+    },
+    {
+        "id": 6217,
+        "name": "Heist",
+        "code": "HEI",
+        "country": "Belgium",
+        "founded": 1940,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/6217.png",
+        "venue_id": 4596
+    },
+    {
+        "id": 6218,
+        "name": "La Louvière Centre",
+        "code": "URL",
+        "country": "Belgium",
+        "founded": 1922,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/6218.png",
+        "venue_id": 22101
+    },
+    {
+        "id": 6221,
+        "name": "Olympic Charleroi",
+        "code": null,
+        "country": "Belgium",
+        "founded": 1911,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/6221.png",
+        "venue_id": 4598
+    },
+    {
+        "id": 6225,
+        "name": "Rupel Boom",
+        "code": "RUP",
+        "country": "Belgium",
+        "founded": 1913,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/6225.png",
+        "venue_id": 4602
+    },
+    {
+        "id": 6227,
+        "name": "Thes Sport",
+        "code": null,
+        "country": "Belgium",
+        "founded": 1942,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/6227.png",
+        "venue_id": 4604
+    },
+    {
+        "id": 8423,
+        "name": "Antonia",
+        "code": null,
+        "country": "Belgium",
+        "founded": 1927,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/8423.png",
+        "venue_id": 5982
+    },
+    {
+        "id": 8424,
+        "name": "Berlaar-Heikant",
+        "code": null,
+        "country": "Belgium",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/8424.png",
+        "venue_id": 5983
+    },
+    {
+        "id": 8429,
+        "name": "Wezel",
+        "code": null,
+        "country": "Belgium",
+        "founded": 1926,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/8429.png",
+        "venue_id": 5988
+    },
+    {
+        "id": 8430,
+        "name": "Aarschot",
+        "code": null,
+        "country": "Belgium",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/8430.png",
+        "venue_id": 5989
+    },
+    {
+        "id": 8438,
+        "name": "Huldenberg",
+        "code": null,
+        "country": "Belgium",
+        "founded": 1965,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/8438.png",
+        "venue_id": 5995
+    },
+    {
+        "id": 8440,
+        "name": "Liedekerke",
+        "code": null,
+        "country": "Belgium",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/8440.png",
+        "venue_id": 5997
+    },
+    {
+        "id": 8444,
+        "name": "Sporting Bruxelles",
+        "code": null,
+        "country": "Belgium",
+        "founded": 2010,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/8444.png",
+        "venue_id": 6001
+    },
+    {
+        "id": 8446,
+        "name": "Waterloo",
+        "code": null,
+        "country": "Belgium",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/8446.png",
+        "venue_id": 22102
+    },
+    {
+        "id": 8447,
+        "name": "Antoing",
+        "code": null,
+        "country": "Belgium",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/8447.png",
+        "venue_id": 6004
+    },
+    {
+        "id": 8452,
+        "name": "RAS Monceau",
+        "code": null,
+        "country": "Belgium",
+        "founded": 2012,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/8452.png",
+        "venue_id": 12269
+    },
+    {
+        "id": 8454,
+        "name": "Soignies Sports",
+        "code": null,
+        "country": "Belgium",
+        "founded": 1930,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/8454.png",
+        "venue_id": 6011
+    },
+    {
+        "id": 8456,
+        "name": "Aubel",
+        "code": null,
+        "country": "Belgium",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/8456.png",
+        "venue_id": 10532
+    },
+    {
+        "id": 8458,
+        "name": "FC Du Geer",
+        "code": null,
+        "country": "Belgium",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/8458.png",
+        "venue_id": 6015
+    },
+    {
+        "id": 8459,
+        "name": "Grün-Weiss Amel",
+        "code": null,
+        "country": "Belgium",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/8459.png",
+        "venue_id": 6016
+    },
+    {
+        "id": 8461,
+        "name": "La Calamine",
+        "code": "LAC",
+        "country": "Belgium",
+        "founded": 1923,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/8461.png",
+        "venue_id": 6018
+    },
+    {
+        "id": 8464,
+        "name": "Rechain",
+        "code": null,
+        "country": "Belgium",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/8464.png",
+        "venue_id": 6021
+    },
+    {
+        "id": 8468,
+        "name": "Achel",
+        "code": null,
+        "country": "Belgium",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/8468.png",
+        "venue_id": 6024
+    },
+    {
+        "id": 8471,
+        "name": "Groen Star Beek",
+        "code": null,
+        "country": "Belgium",
+        "founded": 1969,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/8471.png",
+        "venue_id": 6027
+    },
+    {
+        "id": 8475,
+        "name": "Schoonbeek-Beverst",
+        "code": null,
+        "country": "Belgium",
+        "founded": 1936,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/8475.png",
+        "venue_id": 6031
+    },
+    {
+        "id": 8476,
+        "name": "Zepperen-Brustem",
+        "code": null,
+        "country": "Belgium",
+        "founded": 2016,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/8476.png",
+        "venue_id": 6032
+    },
+    {
+        "id": 8478,
+        "name": "Gouvy",
+        "code": null,
+        "country": "Belgium",
+        "founded": 1924,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/8478.png",
+        "venue_id": 6034
+    },
+    {
+        "id": 8481,
+        "name": "Marloie Sport",
+        "code": null,
+        "country": "Belgium",
+        "founded": 1956,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/8481.png",
+        "venue_id": 6037
+    },
+    {
+        "id": 8485,
+        "name": "Chevetogne",
+        "code": null,
+        "country": "Belgium",
+        "founded": 1969,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/8485.png",
+        "venue_id": 6041
+    },
+    {
+        "id": 8486,
+        "name": "Condruzien",
+        "code": null,
+        "country": "Belgium",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/8486.png",
+        "venue_id": 6042
+    },
+    {
+        "id": 8491,
+        "name": "Berlare",
+        "code": null,
+        "country": "Belgium",
+        "founded": 1972,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/8491.png",
+        "venue_id": 6047
+    },
+    {
+        "id": 8492,
+        "name": "Denderhoutem",
+        "code": null,
+        "country": "Belgium",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/8492.png",
+        "venue_id": 6048
+    },
+    {
+        "id": 8493,
+        "name": "Haasdonk",
+        "code": null,
+        "country": "Belgium",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/8493.png",
+        "venue_id": 6049
+    },
+    {
+        "id": 8497,
+        "name": "Excelsior Zedelgem",
+        "code": null,
+        "country": "Belgium",
+        "founded": 1941,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/8497.png",
+        "venue_id": 6053
+    },
+    {
+        "id": 8498,
+        "name": "Varsenare",
+        "code": null,
+        "country": "Belgium",
+        "founded": 1949,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/8498.png",
+        "venue_id": 6054
+    },
+    {
+        "id": 8499,
+        "name": "Wevelgem City",
+        "code": null,
+        "country": "Belgium",
+        "founded": 1941,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/8499.png",
+        "venue_id": 6055
+    },
+    {
+        "id": 10110,
+        "name": "Péruwelz",
+        "code": null,
+        "country": "Belgium",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/10110.png",
+        "venue_id": 7120
+    },
+    {
+        "id": 14150,
+        "name": "Arquet",
+        "code": null,
+        "country": "Belgium",
+        "founded": 1945,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/14150.png",
+        "venue_id": 9191
+    },
+    {
+        "id": 14157,
+        "name": "Diksmuide",
+        "code": null,
+        "country": "Belgium",
+        "founded": 1933,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/14157.png",
+        "venue_id": 10577
+    },
+    {
+        "id": 14168,
+        "name": "Herent",
+        "code": null,
+        "country": "Belgium",
+        "founded": 1931,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/14168.png",
+        "venue_id": 9194
+    },
+    {
+        "id": 14172,
+        "name": "Houdinois",
+        "code": null,
+        "country": "Belgium",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/14172.png",
+        "venue_id": 6007
+    },
+    {
+        "id": 14185,
+        "name": "Munkzwalm",
+        "code": null,
+        "country": "Belgium",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/14185.png",
+        "venue_id": 10578
+    },
+    {
+        "id": 14190,
+        "name": "Punt-Larum",
+        "code": null,
+        "country": "Belgium",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/14190.png",
+        "venue_id": 21405
+    },
+    {
+        "id": 14195,
+        "name": "Rumbeke",
+        "code": null,
+        "country": "Belgium",
+        "founded": 1949,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/14195.png",
+        "venue_id": 10581
+    },
+    {
+        "id": 14199,
+        "name": "Sart-Tilman",
+        "code": null,
+        "country": "Belgium",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/14199.png",
+        "venue_id": 5646235400231900000
+    },
+    {
+        "id": 14201,
+        "name": "Sint-Denijs Sport",
+        "code": null,
+        "country": "Belgium",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/14201.png",
+        "venue_id": 18921
+    },
+    {
+        "id": 15154,
+        "name": "Bevel",
+        "code": null,
+        "country": "Belgium",
+        "founded": 1930,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/15154.png",
+        "venue_id": 10865
+    },
+    {
+        "id": 15162,
+        "name": "KFC Eksel",
+        "code": null,
+        "country": "Belgium",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/15162.png",
+        "venue_id": 10873
+    },
+    {
+        "id": 15164,
+        "name": "Longlier",
+        "code": null,
+        "country": "Belgium",
+        "founded": 1941,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/15164.png",
+        "venue_id": 10875
+    },
+    {
+        "id": 15167,
+        "name": "Meux II",
+        "code": null,
+        "country": "Belgium",
+        "founded": 1946,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/15167.png",
+        "venue_id": 10881
+    },
+    {
+        "id": 15168,
+        "name": "US Dinantaise",
+        "code": null,
+        "country": "Belgium",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/15168.png",
+        "venue_id": 10882
+    },
+    {
+        "id": 15171,
+        "name": "Sparta Heestert",
+        "code": null,
+        "country": "Belgium",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/15171.png",
+        "venue_id": 10885
+    },
+    {
+        "id": 16965,
+        "name": "Aubel II",
+        "code": null,
+        "country": "Belgium",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/16965.png",
+        "venue_id": 5646235400231900000
+    },
+    {
+        "id": 16966,
+        "name": "Courcelles",
+        "code": null,
+        "country": "Belgium",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/16966.png",
+        "venue_id": 11674
+    },
+    {
+        "id": 16968,
+        "name": "Erpe-Mere United",
+        "code": null,
+        "country": "Belgium",
+        "founded": 2021,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/16968.png",
+        "venue_id": 19015
+    },
+    {
+        "id": 16970,
+        "name": "Estaimbourg",
+        "code": null,
+        "country": "Belgium",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/16970.png",
+        "venue_id": 11663
+    },
+    {
+        "id": 16980,
+        "name": "Roeselare Daisel",
+        "code": null,
+        "country": "Belgium",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/16980.png",
+        "venue_id": 22555
+    },
+    {
+        "id": 17049,
+        "name": "Hooikt",
+        "code": null,
+        "country": "Belgium",
+        "founded": 1938,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/17049.png",
+        "venue_id": 21406
+    },
+    {
+        "id": 19521,
+        "name": "Perwez",
+        "code": null,
+        "country": "Belgium",
+        "founded": 2017,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/19521.png",
+        "venue_id": 18930
+    },
+    {
+        "id": 19522,
+        "name": "Poesele",
+        "code": null,
+        "country": "Belgium",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/19522.png",
+        "venue_id": 5646235400231900000
+    },
+    {
+        "id": 19523,
+        "name": "RAEC Mons II",
+        "code": null,
+        "country": "Belgium",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/19523.png",
+        "venue_id": 18932
+    },
+    {
+        "id": 19524,
+        "name": "RESC Houffaloise",
+        "code": null,
+        "country": "Belgium",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/19524.png",
+        "venue_id": 18947
+    },
+    {
+        "id": 19526,
+        "name": "RUS Assenois",
+        "code": null,
+        "country": "Belgium",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/19526.png",
+        "venue_id": 18948
+    },
+    {
+        "id": 19528,
+        "name": "Racing Peer",
+        "code": null,
+        "country": "Belgium",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/19528.png",
+        "venue_id": 18807
+    },
+    {
+        "id": 19538,
+        "name": "Union Bossière Gembloux",
+        "code": null,
+        "country": "Belgium",
+        "founded": 2021,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/19538.png",
+        "venue_id": 20824
+    },
+    {
+        "id": 19542,
+        "name": "Vlijtingen",
+        "code": null,
+        "country": "Belgium",
+        "founded": 1935,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/19542.png",
+        "venue_id": 18809
+    },
+    {
+        "id": 19545,
+        "name": "Wambeek-Ternat",
+        "code": null,
+        "country": "Belgium",
+        "founded": 2019,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/19545.png",
+        "venue_id": 11672
+    },
+    {
+        "id": 19645,
+        "name": "RAFC Cuesmes",
+        "code": null,
+        "country": "Belgium",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/19645.png",
+        "venue_id": 5646235400231900000
+    },
+    {
+        "id": 19770,
+        "name": "Sporting Tisselt",
+        "code": null,
+        "country": "Belgium",
+        "founded": 1971,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/19770.png",
+        "venue_id": 21407
+    },
+    {
+        "id": 19772,
+        "name": "DT Borsbeke",
+        "code": null,
+        "country": "Belgium",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/19772.png",
+        "venue_id": 18922
+    },
+    {
+        "id": 19773,
+        "name": "Heikant Zele",
+        "code": null,
+        "country": "Belgium",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/19773.png",
+        "venue_id": 18923
+    },
+    {
+        "id": 19774,
+        "name": "KSK Beveren",
+        "code": null,
+        "country": "Belgium",
+        "founded": 1934,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/19774.png",
+        "venue_id": 20237
+    },
+    {
+        "id": 19775,
+        "name": "Sottegem",
+        "code": null,
+        "country": "Belgium",
+        "founded": 1922,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/19775.png",
+        "venue_id": 20238
+    },
+    {
+        "id": 19776,
+        "name": "Moen",
+        "code": null,
+        "country": "Belgium",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/19776.png",
+        "venue_id": 18927
+    },
+    {
+        "id": 19779,
+        "name": "Flénu",
+        "code": null,
+        "country": "Belgium",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/19779.png",
+        "venue_id": 18933
+    },
+    {
+        "id": 19780,
+        "name": "Evelette-Jallet",
+        "code": null,
+        "country": "Belgium",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/19780.png",
+        "venue_id": 10877
+    },
+    {
+        "id": 19787,
+        "name": "Tongeren",
+        "code": null,
+        "country": "Belgium",
+        "founded": 1908,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/19787.png",
+        "venue_id": 19019
+    },
+    {
+        "id": 19956,
+        "name": "KBSK Retie",
+        "code": null,
+        "country": "Belgium",
+        "founded": 2019,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/19956.png",
+        "venue_id": 10867
+    },
+    {
+        "id": 20403,
+        "name": "RUS Binche",
+        "code": null,
+        "country": "Belgium",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/20403.png",
+        "venue_id": 11671
+    },
+    {
+        "id": 21776,
+        "name": "Ardooie",
+        "code": null,
+        "country": "Belgium",
+        "founded": 1928,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/21776.png",
+        "venue_id": 20239
+    },
+    {
+        "id": 21777,
+        "name": "Auderghem",
+        "code": null,
+        "country": "Belgium",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/21777.png",
+        "venue_id": 20240
+    },
+    {
+        "id": 21781,
+        "name": "Brasschaat",
+        "code": null,
+        "country": "Belgium",
+        "founded": 1911,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/21781.png",
+        "venue_id": 19884
+    },
+    {
+        "id": 21782,
+        "name": "Bredene",
+        "code": null,
+        "country": "Belgium",
+        "founded": 1946,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/21782.png",
+        "venue_id": 19885
+    },
+    {
+        "id": 21795,
+        "name": "Isièroise",
+        "code": null,
+        "country": "Belgium",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/21795.png",
+        "venue_id": 5646235400231900000
+    },
+    {
+        "id": 21800,
+        "name": "Landen",
+        "code": null,
+        "country": "Belgium",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/21800.png",
+        "venue_id": 19888
+    },
+    {
+        "id": 21806,
+        "name": "PSV 1820",
+        "code": null,
+        "country": "Belgium",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/21806.png",
+        "venue_id": 5646235400231900000
+    },
+    {
+        "id": 21811,
+        "name": "Rotselaar",
+        "code": null,
+        "country": "Belgium",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/21811.png",
+        "venue_id": 20241
+    },
+    {
+        "id": 21830,
+        "name": "Westrozebeke",
+        "code": null,
+        "country": "Belgium",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/21830.png",
+        "venue_id": 20242
+    },
+    {
+        "id": 21841,
+        "name": "Tilffois",
+        "code": null,
+        "country": "Belgium",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/21841.png",
+        "venue_id": 21408
+    },
+    {
+        "id": 21843,
+        "name": "Union Flémalloise",
+        "code": null,
+        "country": "Belgium",
+        "founded": 2017,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/21843.png",
+        "venue_id": 20825
+    },
+    {
+        "id": 21844,
+        "name": "Kraainem",
+        "code": null,
+        "country": "Belgium",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/21844.png",
+        "venue_id": 20826
+    },
+    {
+        "id": 21848,
+        "name": "Turkse Rangers",
+        "code": null,
+        "country": "Belgium",
+        "founded": 1976,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/21848.png",
+        "venue_id": 20827
+    },
+    {
+        "id": 21849,
+        "name": "Harre-Manhay",
+        "code": null,
+        "country": "Belgium",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/21849.png",
+        "venue_id": 21409
+    },
+    {
+        "id": 22256,
+        "name": "Stade Verviers",
+        "code": null,
+        "country": "Belgium",
+        "founded": 2023,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/22256.png",
+        "venue_id": 19836
+    },
+    {
+        "id": 24135,
+        "name": "Arquet II",
+        "code": null,
+        "country": "Belgium",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/24135.png",
+        "venue_id": 5646235400231900000
+    },
+    {
+        "id": 24136,
+        "name": "Aye",
+        "code": null,
+        "country": "Belgium",
+        "founded": 1936,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/24136.png",
+        "venue_id": 20828
+    },
+    {
+        "id": 24137,
+        "name": "Aywaille II",
+        "code": null,
+        "country": "Belgium",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/24137.png",
+        "venue_id": 5646235400231900000
+    },
+    {
+        "id": 24138,
+        "name": "BO Beerzel",
+        "code": null,
+        "country": "Belgium",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/24138.png",
+        "venue_id": 5646235400231900000
+    },
+    {
+        "id": 24139,
+        "name": "Beauvechain",
+        "code": null,
+        "country": "Belgium",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/24139.png",
+        "venue_id": 5646235400231900000
+    },
+    {
+        "id": 24140,
+        "name": "Beveren-Leie",
+        "code": null,
+        "country": "Belgium",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/24140.png",
+        "venue_id": 5646235400231900000
+    },
+    {
+        "id": 24141,
+        "name": "Casteau",
+        "code": null,
+        "country": "Belgium",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/24141.png",
+        "venue_id": 5646235400231900000
+    },
+    {
+        "id": 24142,
+        "name": "Corbion",
+        "code": null,
+        "country": "Belgium",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/24142.png",
+        "venue_id": 5646235400231900000
+    },
+    {
+        "id": 24143,
+        "name": "Diepenbeek",
+        "code": null,
+        "country": "Belgium",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/24143.png",
+        "venue_id": 5646235400231900000
+    },
+    {
+        "id": 24144,
+        "name": "Ekeren",
+        "code": null,
+        "country": "Belgium",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/24144.png",
+        "venue_id": 20829
+    },
+    {
+        "id": 24145,
+        "name": "Elsautoise II",
+        "code": null,
+        "country": "Belgium",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/24145.png",
+        "venue_id": 5646235400231900000
+    },
+    {
+        "id": 24146,
+        "name": "Excelsior Stéphanois",
+        "code": null,
+        "country": "Belgium",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/24146.png",
+        "venue_id": 5646235400231900000
+    },
+    {
+        "id": 24147,
+        "name": "Fontaine-l'Évêque",
+        "code": null,
+        "country": "Belgium",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/24147.png",
+        "venue_id": 20830
+    },
+    {
+        "id": 24148,
+        "name": "Frasnoise",
+        "code": null,
+        "country": "Belgium",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/24148.png",
+        "venue_id": 5646235400231900000
+    },
+    {
+        "id": 24149,
+        "name": "GD Ingooigem",
+        "code": null,
+        "country": "Belgium",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/24149.png",
+        "venue_id": 5646235400231900000
+    },
+    {
+        "id": 24150,
+        "name": "Gooreind",
+        "code": null,
+        "country": "Belgium",
+        "founded": 1933,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/24150.png",
+        "venue_id": 20831
+    },
+    {
+        "id": 24151,
+        "name": "Habay-la-Vieille",
+        "code": null,
+        "country": "Belgium",
+        "founded": 1962,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/24151.png",
+        "venue_id": 20832
+    },
+    {
+        "id": 24152,
+        "name": "Ham United",
+        "code": null,
+        "country": "Belgium",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/24152.png",
+        "venue_id": 5646235400231900000
+    },
+    {
+        "id": 24153,
+        "name": "Jalhay",
+        "code": null,
+        "country": "Belgium",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/24153.png",
+        "venue_id": 5646235400231900000
+    },
+    {
+        "id": 24154,
+        "name": "Juprelle",
+        "code": null,
+        "country": "Belgium",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/24154.png",
+        "venue_id": 5646235400231900000
+    },
+    {
+        "id": 24155,
+        "name": "Knesselare",
+        "code": null,
+        "country": "Belgium",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/24155.png",
+        "venue_id": 5646235400231900000
+    },
+    {
+        "id": 24156,
+        "name": "Linkhout",
+        "code": null,
+        "country": "Belgium",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/24156.png",
+        "venue_id": 5646235400231900000
+    },
+    {
+        "id": 24157,
+        "name": "Lint",
+        "code": null,
+        "country": "Belgium",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/24157.png",
+        "venue_id": 5646235400231900000
+    },
+    {
+        "id": 24158,
+        "name": "Londerzeel United",
+        "code": null,
+        "country": "Belgium",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/24158.png",
+        "venue_id": 5646235400231900000
+    },
+    {
+        "id": 24159,
+        "name": "Mol",
+        "code": null,
+        "country": "Belgium",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/24159.png",
+        "venue_id": 5646235400231900000
+    },
+    {
+        "id": 24160,
+        "name": "Nieuwmoer",
+        "code": null,
+        "country": "Belgium",
+        "founded": 1953,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/24160.png",
+        "venue_id": 20833
+    },
+    {
+        "id": 24161,
+        "name": "Racing Waregem II",
+        "code": null,
+        "country": "Belgium",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/24161.png",
+        "venue_id": 5646235400231900000
+    },
+    {
+        "id": 24162,
+        "name": "Rapid Oudler",
+        "code": null,
+        "country": "Belgium",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/24162.png",
+        "venue_id": 5646235400231900000
+    },
+    {
+        "id": 24163,
+        "name": "Saintoise",
+        "code": null,
+        "country": "Belgium",
+        "founded": 1933,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/24163.png",
+        "venue_id": 20834
+    },
+    {
+        "id": 24164,
+        "name": "Sparta Waasmunster",
+        "code": null,
+        "country": "Belgium",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/24164.png",
+        "venue_id": 20835
+    },
+    {
+        "id": 24165,
+        "name": "Sparta Wortegem",
+        "code": null,
+        "country": "Belgium",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/24165.png",
+        "venue_id": 5646235400231900000
+    },
+    {
+        "id": 24166,
+        "name": "Standard Bouillon",
+        "code": null,
+        "country": "Belgium",
+        "founded": 1923,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/24166.png",
+        "venue_id": 20836
+    },
+    {
+        "id": 24167,
+        "name": "Uikhoven",
+        "code": null,
+        "country": "Belgium",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/24167.png",
+        "venue_id": 5646235400231900000
+    },
+    {
+        "id": 24168,
+        "name": "Unico Tongeren",
+        "code": null,
+        "country": "Belgium",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/24168.png",
+        "venue_id": 5646235400231900000
+    },
+    {
+        "id": 24169,
+        "name": "Union Limbourg",
+        "code": null,
+        "country": "Belgium",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/24169.png",
+        "venue_id": 5646235400231900000
+    },
+    {
+        "id": 24170,
+        "name": "Veldwezelt",
+        "code": null,
+        "country": "Belgium",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/24170.png",
+        "venue_id": 5646235400231900000
+    },
+    {
+        "id": 24171,
+        "name": "Warsage",
+        "code": null,
+        "country": "Belgium",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/24171.png",
+        "venue_id": 20837
+    },
+    {
+        "id": 24172,
+        "name": "Weerstand Koersel II",
+        "code": null,
+        "country": "Belgium",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/24172.png",
+        "venue_id": 5646235400231900000
+    },
+    {
+        "id": 24173,
+        "name": "Zwaneven",
+        "code": null,
+        "country": "Belgium",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/24173.png",
+        "venue_id": 5646235400231900000
+    },
+    {
+        "id": 24174,
+        "name": "Zwevegem Sport",
+        "code": null,
+        "country": "Belgium",
+        "founded": 1940,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/24174.png",
+        "venue_id": 20838
+    },
+    {
+        "id": 24175,
+        "name": "Zwijnaarde",
+        "code": null,
+        "country": "Belgium",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/24175.png",
+        "venue_id": 20839
+    },
+    {
+        "id": 24551,
+        "name": "Hedes",
+        "code": null,
+        "country": "Belgium",
+        "founded": 2024,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/24551.png",
+        "venue_id": 20236
+    },
+    {
+        "id": 25275,
+        "name": "TK Meldert II",
+        "code": null,
+        "country": "Belgium",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/25275.png",
+        "venue_id": 5646235400231900000
+    },
+    {
+        "id": 19047,
+        "name": "Standard Liège II",
+        "code": null,
+        "country": "Belgium",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/19047.png",
+        "venue_id": 5646235400231900000
+    },
+    {
+        "id": 19685,
+        "name": "KAA Gent II",
+        "code": null,
+        "country": "Belgium",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/19685.png",
+        "venue_id": 19273
+    },
+    {
+        "id": 19897,
+        "name": "Cercle Brugge II",
+        "code": null,
+        "country": "Belgium",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/19897.png",
+        "venue_id": 5646235400231900000
+    },
+    {
+        "id": 19902,
+        "name": "Union Saint-Gilloise II",
+        "code": null,
+        "country": "Belgium",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/19902.png",
+        "venue_id": 19835
+    },
+    {
+        "id": 19957,
+        "name": "Oud-Heverlee Leuven II",
+        "code": null,
+        "country": "Belgium",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/19957.png",
+        "venue_id": 186
+    },
+    {
+        "id": 19958,
+        "name": "Royal Antwerp II",
+        "code": null,
+        "country": "Belgium",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/19958.png",
+        "venue_id": 2664
+    },
+    {
+        "id": 19959,
+        "name": "Sporting Charleroi II",
+        "code": null,
+        "country": "Belgium",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/19959.png",
+        "venue_id": 177
+    },
+    {
+        "id": 5861,
+        "name": "Loenhout",
+        "code": null,
+        "country": "Belgium",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/5861.png",
+        "venue_id": 18915
+    },
+    {
+        "id": 5869,
+        "name": "Mariekerke",
+        "code": null,
+        "country": "Belgium",
+        "founded": 1954,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/5869.png",
+        "venue_id": 4359
+    },
+    {
+        "id": 5999,
+        "name": "Zandhovense",
+        "code": null,
+        "country": "Belgium",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/5999.png",
+        "venue_id": 20234
+    },
+    {
+        "id": 14154,
+        "name": "Broechem",
+        "code": null,
+        "country": "Belgium",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/14154.png",
+        "venue_id": 9192
+    },
+    {
+        "id": 14193,
+        "name": "Ranst",
+        "code": null,
+        "country": "Belgium",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/14193.png",
+        "venue_id": 10579
+    },
+    {
+        "id": 21814,
+        "name": "SC Duffel",
+        "code": null,
+        "country": "Belgium",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/21814.png",
+        "venue_id": 5646235400231900000
+    },
+    {
+        "id": 21831,
+        "name": "Wilrijk",
+        "code": null,
+        "country": "Belgium",
+        "founded": 2020,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/21831.png",
+        "venue_id": 22107
+    },
+    {
+        "id": 5833,
+        "name": "Ixelles",
+        "code": null,
+        "country": "Belgium",
+        "founded": 1909,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/5833.png",
+        "venue_id": 4335
+    },
+    {
+        "id": 5851,
+        "name": "La Hulpe",
+        "code": null,
+        "country": "Belgium",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/5851.png",
+        "venue_id": 21063
+    },
+    {
+        "id": 5919,
+        "name": "Saint-Josse",
+        "code": null,
+        "country": "Belgium",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/5919.png",
+        "venue_id": 4400
+    },
+    {
+        "id": 8431,
+        "name": "BX Brussels",
+        "code": null,
+        "country": "Belgium",
+        "founded": 1986,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/8431.png",
+        "venue_id": 11670
+    },
+    {
+        "id": 8435,
+        "name": "Genappe",
+        "code": null,
+        "country": "Belgium",
+        "founded": 2017,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/8435.png",
+        "venue_id": 4455
+    },
+    {
+        "id": 15173,
+        "name": "NSeth Berchem",
+        "code": null,
+        "country": "Belgium",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/15173.png",
+        "venue_id": 12266
+    },
+    {
+        "id": 19778,
+        "name": "Saint-Michel",
+        "code": null,
+        "country": "Belgium",
+        "founded": 1972,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/19778.png",
+        "venue_id": 18931
+    },
+    {
+        "id": 21852,
+        "name": "Amicii Bruxelles",
+        "code": null,
+        "country": "Belgium",
+        "founded": 2014,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/21852.png",
+        "venue_id": 4335
+    },
+    {
+        "id": 24554,
+        "name": "Jette II",
+        "code": null,
+        "country": "Belgium",
+        "founded": 1927,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/24554.png",
+        "venue_id": 21064
+    },
+    {
+        "id": 24555,
+        "name": "Suryoyés Bruxellois",
+        "code": null,
+        "country": "Belgium",
+        "founded": 2002,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/24555.png",
+        "venue_id": 6001
+    }
+]

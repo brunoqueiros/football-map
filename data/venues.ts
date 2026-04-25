@@ -16,3 +16,4 @@ export { default as barein } from './barein-venues.json';
 export { default as bangladesh } from './bangladesh-venues.json';
 export { default as barbados } from './barbados-venues.json';
 export { default as belarus } from './belarus-venues.json';
+export { default as belgium } from './belgium-venues.json';

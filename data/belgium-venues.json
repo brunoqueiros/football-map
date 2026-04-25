@@ -1,0 +1,2202 @@
+[
+    {
+        "id": 20335,
+        "name": "Soeverein Stadion",
+        "city": "Lommel",
+        "capacity": 12911,
+        "latitude": 51.2395966,
+        "longitude": 5.306609
+    },
+    {
+        "id": 11891,
+        "name": "Elindus Arena",
+        "city": "Waregem",
+        "capacity": 12300,
+        "latitude": 50.8830931,
+        "longitude": 3.4290429
+    },
+    {
+        "id": 189,
+        "name": "Freethielstadion",
+        "city": "Beveren",
+        "capacity": 8235,
+        "latitude": 51.2142038,
+        "longitude": 4.243835
+    },
+    {
+        "id": 20333,
+        "name": "Kehrwegstadion",
+        "city": "Eupen",
+        "capacity": 8363,
+        "latitude": 50.6263333,
+        "longitude": 6.0451763
+    },
+    {
+        "id": 4311,
+        "name": "Stade Robert Urbain",
+        "city": "Boussu",
+        "capacity": 8500,
+        "latitude": 50.4135337,
+        "longitude": 3.779318
+    },
+    {
+        "id": 10514,
+        "name": "Stade Communal du Tivoli",
+        "city": "La Louvière",
+        "capacity": 13500,
+        "latitude": 50.4783523,
+        "longitude": 4.200953
+    },
+    {
+        "id": 12688,
+        "name": "Dakota Arena",
+        "city": "Deinze",
+        "capacity": 8000,
+        "latitude": 50.9838637,
+        "longitude": 3.5216375
+    },
+    {
+        "id": 21826,
+        "name": "AsterX Group-f Arena",
+        "city": "Lier",
+        "capacity": 14538,
+        "latitude": 51.1434825,
+        "longitude": 4.574112899999999
+    },
+    {
+        "id": 21404,
+        "name": "Stade de Rocourt",
+        "city": "Liège",
+        "capacity": 8000,
+        "latitude": 50.6603437,
+        "longitude": 5.5515981
+    },
+    {
+        "id": 20343,
+        "name": "Patrostadion",
+        "city": "Maasmechelen",
+        "capacity": 6490,
+        "latitude": 50.9949539,
+        "longitude": 5.703963799999999
+    },
+    {
+        "id": 19385,
+        "name": "Edmond Machtensstadion",
+        "city": "Bruxelles",
+        "capacity": 15266,
+        "latitude": 50.8550378,
+        "longitude": 4.3105624
+    },
+    {
+        "id": 4600,
+        "name": "Stade du Pairay",
+        "city": "Seraing",
+        "capacity": 14326,
+        "latitude": 50.6005766,
+        "longitude": 5.503846100000001
+    },
+    {
+        "id": 183,
+        "name": "Daknamstadion",
+        "city": "Lokeren",
+        "capacity": 12136,
+        "latitude": 51.11622269999999,
+        "longitude": 3.986459
+    },
+    {
+        "id": 22555,
+        "name": "The NEST",
+        "city": "Roeselare (Roulers)",
+        "capacity": 9593,
+        "latitude": 50.95230429999999,
+        "longitude": 3.1054552
+    },
+    {
+        "id": 12455,
+        "name": "Cegeka Arena",
+        "city": "Genk",
+        "capacity": 24956,
+        "latitude": 51.00502119999999,
+        "longitude": 5.5334055
+    },
+    {
+        "id": 21827,
+        "name": "Stade Roi Baudouin",
+        "city": "Bruxelles (Brussel)",
+        "capacity": 50093,
+        "latitude": 50.8957028,
+        "longitude": 4.3340679
+    },
+    {
+        "id": 186,
+        "name": "King Power at Den Dreef Stadion",
+        "city": "Heverlee",
+        "capacity": 12500,
+        "latitude": 50.8683341,
+        "longitude": 4.694427399999999
+    },
+    {
+        "id": 195,
+        "name": "Het Kuipje",
+        "city": "Westerlo",
+        "capacity": 8035,
+        "latitude": 51.0948754,
+        "longitude": 4.928956299999999
+    },
+    {
+        "id": 193,
+        "name": "Stade Leburton",
+        "city": "Tubize",
+        "capacity": 8100,
+        "latitude": 50.6838641,
+        "longitude": 4.200531799999999
+    },
+    {
+        "id": 181,
+        "name": "Olympisch Stadion",
+        "city": "Antwerp (Anvers)",
+        "capacity": 13405,
+        "latitude": 51.1850654,
+        "longitude": 4.381964099999999
+    },
+    {
+        "id": 20336,
+        "name": "AFAS Stadion",
+        "city": "Malines",
+        "capacity": 16715,
+        "latitude": 51.0367965,
+        "longitude": 4.4865727
+    },
+    {
+        "id": 174,
+        "name": "Lotto Park",
+        "city": "Brussel",
+        "capacity": 28063,
+        "latitude": 50.8341173,
+        "longitude": 4.298896099999999
+    },
+    {
+        "id": 176,
+        "name": "Jan Breydelstadion",
+        "city": "Brugge",
+        "capacity": 29062,
+        "latitude": 51.1932398,
+        "longitude": 3.1800161
+    },
+    {
+        "id": 20727,
+        "name": "Planet Group Arena",
+        "city": "Gent",
+        "capacity": 20185,
+        "latitude": 51.0161221,
+        "longitude": 3.7337422
+    },
+    {
+        "id": 192,
+        "name": "Stade Maurice Dufrasne",
+        "city": "Luik",
+        "capacity": 27670,
+        "latitude": 50.6099294,
+        "longitude": 5.5426816
+    },
+    {
+        "id": 182,
+        "name": "Guldensporenstadion",
+        "city": "Kortrijk",
+        "capacity": 9399,
+        "latitude": 50.830357,
+        "longitude": 3.2490402
+    },
+    {
+        "id": 19611,
+        "name": "Daio Wasabi Stayen Stadium",
+        "city": "St.-Trond",
+        "capacity": 14600,
+        "latitude": 50.8135246,
+        "longitude": 5.1663087
+    },
+    {
+        "id": 177,
+        "name": "Stade du Pays de Charleroi",
+        "city": "Charleroi",
+        "capacity": 18000,
+        "latitude": 50.4146472,
+        "longitude": 4.4537759
+    },
+    {
+        "id": 175,
+        "name": "Bosuilstadion",
+        "city": "Deurne",
+        "capacity": 23057,
+        "latitude": 51.2324121,
+        "longitude": 4.4721042
+    },
+    {
+        "id": 194,
+        "name": "Stade Joseph Mariën",
+        "city": "Brussels",
+        "capacity": 9400,
+        "latitude": 50.8177884,
+        "longitude": 4.329338799999999
+    },
+    {
+        "id": 3563,
+        "name": "Stade Yvan Georges",
+        "city": "Virton",
+        "capacity": 4572,
+        "latitude": 49.56224479999999,
+        "longitude": 5.529986600000001
+    },
+    {
+        "id": 22100,
+        "name": "Stade Gierle F.C.",
+        "city": "Gierle",
+        "capacity": 3000,
+        "latitude": 51.2716818,
+        "longitude": 4.8699804
+    },
+    {
+        "id": 19898,
+        "name": "Terrein 1 Remichampagne",
+        "city": "Vaux-sur-Sûre",
+        "capacity": 1000,
+        "latitude": 49.9409984,
+        "longitude": 5.633258199999999
+    },
+    {
+        "id": 4256,
+        "name": "Stade des Camomilles",
+        "city": "Deux-Acren",
+        "capacity": 1500,
+        "latitude": 50.7287893,
+        "longitude": 3.852017899999999
+    },
+    {
+        "id": 4258,
+        "name": "Stade René Bertrand",
+        "city": "Aische-en-Refail",
+        "capacity": 1500,
+        "latitude": 50.5985903,
+        "longitude": 4.829341299999999
+    },
+    {
+        "id": 11664,
+        "name": "Stade Charles Tondreau",
+        "city": "Mons",
+        "capacity": 9504,
+        "latitude": 50.461895,
+        "longitude": 3.963642799999999
+    },
+    {
+        "id": 4264,
+        "name": "Groene Putte - Terrein 3",
+        "city": "Stekene",
+        "capacity": 1000,
+        "latitude": 51.2025711,
+        "longitude": 4.0381912
+    },
+    {
+        "id": 4265,
+        "name": "Stade de la Porallée",
+        "city": "Aywaille",
+        "capacity": 1500,
+        "latitude": 50.4796798,
+        "longitude": 5.6951531
+    },
+    {
+        "id": 4268,
+        "name": "Stade Communal de  Quevaucamps",
+        "city": "Quevaucamps",
+        "capacity": 1000,
+        "latitude": 50.5206108,
+        "longitude": 3.6803519
+    },
+    {
+        "id": 4269,
+        "name": "Ludo Coeckstadion",
+        "city": "Berchem",
+        "capacity": 13607,
+        "latitude": 51.1878335,
+        "longitude": 4.439774799999999
+    },
+    {
+        "id": 20230,
+        "name": "B.R.I.S. Stadion",
+        "city": "Meerhout",
+        "capacity": 2300,
+        "latitude": 51.1282006,
+        "longitude": 5.0671566
+    },
+    {
+        "id": 4272,
+        "name": "Terrain Berteem Leefdaal",
+        "city": "Leefdaal",
+        "capacity": 2000,
+        "latitude": 50.85754679999999,
+        "longitude": 4.6181511
+    },
+    {
+        "id": 4273,
+        "name": "Grote Baan",
+        "city": "Betekom",
+        "capacity": 500,
+        "latitude": 50.9962396,
+        "longitude": 4.7916945
+    },
+    {
+        "id": 10878,
+        "name": "Terrain Biesme St De La Tourette",
+        "city": "Biesme",
+        "capacity": 1000,
+        "latitude": 50.3380668,
+        "longitude": 4.6110568
+    },
+    {
+        "id": 11661,
+        "name": "Bloso Park",
+        "city": "Blankenberge",
+        "capacity": 4000,
+        "latitude": 51.3108509,
+        "longitude": 3.139418
+    },
+    {
+        "id": 19018,
+        "name": "Axor Arena",
+        "city": "Bocholt",
+        "capacity": 2000,
+        "latitude": 51.168284,
+        "longitude": 5.568536
+    },
+    {
+        "id": 4279,
+        "name": "Stade Gaston Reiff",
+        "city": "Eigenbrakel",
+        "capacity": 2500,
+        "latitude": 50.67836819999999,
+        "longitude": 4.386194199999999
+    },
+    {
+        "id": 4280,
+        "name": "Stadion Jos van Wellen",
+        "city": "Kapellen",
+        "capacity": 3506,
+        "latitude": 51.3142003,
+        "longitude": 4.420164499999999
+    },
+    {
+        "id": 4281,
+        "name": "Jef Mermansstadion",
+        "city": "Merksem",
+        "capacity": 1500,
+        "latitude": 51.24951189999999,
+        "longitude": 4.4434081
+    },
+    {
+        "id": 4283,
+        "name": "Stade Renan",
+        "city": "Schaerbeek",
+        "capacity": 2500,
+        "latitude": 50.8679169,
+        "longitude": 4.3840596
+    },
+    {
+        "id": 4285,
+        "name": "Staf Janssensstadion",
+        "city": "Tielen",
+        "capacity": 1800,
+        "latitude": 51.2556069,
+        "longitude": 4.8971059
+    },
+    {
+        "id": 4288,
+        "name": "Gemeentelijk Sportstadion",
+        "city": "Diegem",
+        "capacity": 5000,
+        "latitude": 50.8943362,
+        "longitude": 4.4385781
+    },
+    {
+        "id": 4289,
+        "name": "Stedelijk Sportstadion De Warande",
+        "city": "Diest",
+        "capacity": 8000,
+        "latitude": 50.9856224,
+        "longitude": 5.0600948
+    },
+    {
+        "id": 4290,
+        "name": "Sportcomplex Marc Gevaert",
+        "city": "Dikkelvenne",
+        "capacity": 500,
+        "latitude": 50.92180579999999,
+        "longitude": 3.6823801
+    },
+    {
+        "id": 4291,
+        "name": "Keiskant Stadium",
+        "city": "Drongen",
+        "capacity": 1000,
+        "latitude": 51.0467315,
+        "longitude": 3.6429153
+    },
+    {
+        "id": 4294,
+        "name": "Gemeentelijk Sportcentrum",
+        "city": "Aalter",
+        "capacity": 1500,
+        "latitude": 51.0820131,
+        "longitude": 3.4388065
+    },
+    {
+        "id": 4295,
+        "name": "Terrain 't Heke",
+        "city": "Genk",
+        "capacity": 500,
+        "latitude": 50.94409,
+        "longitude": 5.4708915
+    },
+    {
+        "id": 4296,
+        "name": "Stadion De Pionier",
+        "city": "Wervik",
+        "capacity": 500,
+        "latitude": 50.7838825,
+        "longitude": 3.031788
+    },
+    {
+        "id": 4299,
+        "name": "Terrain Grotenberge",
+        "city": "Grotenberge",
+        "capacity": 1000,
+        "latitude": 50.871571,
+        "longitude": 3.837533
+    },
+    {
+        "id": 4300,
+        "name": "Stade Léon Crosset",
+        "city": "Henri-Chapelle",
+        "capacity": 1000,
+        "latitude": 50.63221919999999,
+        "longitude": 5.895198199999999
+    },
+    {
+        "id": 4301,
+        "name": "Stade du Scailmont",
+        "city": "Manage",
+        "capacity": 1000,
+        "latitude": 50.499415,
+        "longitude": 4.2440332
+    },
+    {
+        "id": 4303,
+        "name": "Gemeentelijk Stadion De Roosen",
+        "city": "Neerpelt",
+        "capacity": 1700,
+        "latitude": 51.2155821,
+        "longitude": 5.449572499999999
+    },
+    {
+        "id": 4305,
+        "name": "Stade Guy Thys",
+        "city": "Etterbeek",
+        "capacity": 500,
+        "latitude": 50.8293098,
+        "longitude": 4.397082
+    },
+    {
+        "id": 18935,
+        "name": "Stade Communal",
+        "city": "Eupen",
+        "capacity": 1000,
+        "latitude": 50.6263333,
+        "longitude": 6.0451763
+    },
+    {
+        "id": 4309,
+        "name": "Sportcomplex Lebbeke",
+        "city": "Lebbeke",
+        "capacity": 2000,
+        "latitude": 50.9977938,
+        "longitude": 4.140666
+    },
+    {
+        "id": 4312,
+        "name": "Complexe Sportif de Ganshoren",
+        "city": "Ganshoren",
+        "capacity": 1800,
+        "latitude": 50.87655820000001,
+        "longitude": 4.302207
+    },
+    {
+        "id": 20341,
+        "name": "De Leunen",
+        "city": "Geel",
+        "capacity": 10524,
+        "latitude": 51.1699414,
+        "longitude": 4.9677029
+    },
+    {
+        "id": 4314,
+        "name": "Stade Bardet",
+        "city": "Gosselies",
+        "capacity": 1000,
+        "latitude": 50.4751777,
+        "longitude": 4.428321
+    },
+    {
+        "id": 4315,
+        "name": "Stade Jean Josis",
+        "city": "Grand-Leez",
+        "capacity": 500,
+        "latitude": 50.5866274,
+        "longitude": 4.7821997
+    },
+    {
+        "id": 4316,
+        "name": "Stadion FC Gullegem",
+        "city": "Gullegem",
+        "capacity": 1000,
+        "latitude": 50.8393106,
+        "longitude": 3.1975336
+    },
+    {
+        "id": 4317,
+        "name": "Jozef Plaetinck Stadion",
+        "city": "Kalken",
+        "capacity": 500,
+        "latitude": 51.04190699999999,
+        "longitude": 3.9154948
+    },
+    {
+        "id": 4318,
+        "name": "Terrain de Habay-la-Neuve",
+        "city": "Habay-la-Neuve",
+        "capacity": 500,
+        "latitude": 49.7343402,
+        "longitude": 5.6548114
+    },
+    {
+        "id": 4319,
+        "name": "Sportcentrum Kiewit",
+        "city": "Hasselt",
+        "capacity": 1500,
+        "latitude": 50.9577412,
+        "longitude": 5.3697187
+    },
+    {
+        "id": 4320,
+        "name": "Terrain du RRC Hamoir",
+        "city": "Hamoir",
+        "capacity": 2500,
+        "latitude": 50.4239146,
+        "longitude": 5.5330827
+    },
+    {
+        "id": 4321,
+        "name": "Forestiersstadion",
+        "city": "Harelbeke",
+        "capacity": 9737,
+        "latitude": 50.8451406,
+        "longitude": 3.3110857
+    },
+    {
+        "id": 4327,
+        "name": "Stadion De Visputten",
+        "city": "Hoboken",
+        "capacity": 3450,
+        "latitude": 51.1781519,
+        "longitude": 4.3436189
+    },
+    {
+        "id": 4328,
+        "name": "Sportcomplex Seminarie",
+        "city": "Hoogstraten",
+        "capacity": 5000,
+        "latitude": 51.39848480000001,
+        "longitude": 4.7594555
+    },
+    {
+        "id": 20232,
+        "name": "Stadion Oosterzonen",
+        "city": "Westerlo",
+        "capacity": 1500,
+        "latitude": 51.1292337,
+        "longitude": 4.8571256
+    },
+    {
+        "id": 21402,
+        "name": "Château Vert Terrain 2",
+        "city": "Huy",
+        "capacity": 1000,
+        "latitude": 50.4757414,
+        "longitude": 5.1768534
+    },
+    {
+        "id": 4336,
+        "name": "Stade Communal",
+        "city": "Jette",
+        "capacity": 8000,
+        "latitude": 50.8831523,
+        "longitude": 4.3152341
+    },
+    {
+        "id": 4337,
+        "name": "Stade de la Cabouse",
+        "city": "Jodoigne",
+        "capacity": 2000,
+        "latitude": 50.7270324,
+        "longitude": 4.8721576
+    },
+    {
+        "id": 4338,
+        "name": "Sportcomplex Ommegang",
+        "city": "Lede",
+        "capacity": 1500,
+        "latitude": 50.95817940000001,
+        "longitude": 3.9783913
+    },
+    {
+        "id": 4340,
+        "name": "Stadion FC Kontich",
+        "city": "Kontich",
+        "capacity": 500,
+        "latitude": 51.1311113,
+        "longitude": 4.4512654
+    },
+    {
+        "id": 19273,
+        "name": "Chillax Arena",
+        "city": "Oostakker",
+        "capacity": 6500,
+        "latitude": 51.0894779,
+        "longitude": 3.7647857
+    },
+    {
+        "id": 19878,
+        "name": "Hoge Branddreef Kleit Terrain 1",
+        "city": "Maldegem",
+        "capacity": 1000,
+        "latitude": 51.1800988,
+        "longitude": 3.4581654
+    },
+    {
+        "id": 4343,
+        "name": "Stadion Olivier",
+        "city": "Knokke-Heist",
+        "capacity": 3000,
+        "latitude": 51.3394759,
+        "longitude": 3.2896586
+    },
+    {
+        "id": 4345,
+        "name": "Stade Chazal",
+        "city": "Schaerbeek",
+        "capacity": 1500,
+        "latitude": 50.8592013,
+        "longitude": 4.3921032
+    },
+    {
+        "id": 19879,
+        "name": "Stadion Jan Verhoeve",
+        "city": "Lauwe",
+        "capacity": 1500,
+        "latitude": 50.7926927,
+        "longitude": 3.1876609
+    },
+    {
+        "id": 4350,
+        "name": "Stade du RCS Libramont",
+        "city": "Libramont",
+        "capacity": 2000,
+        "latitude": 49.9242828,
+        "longitude": 5.3829025
+    },
+    {
+        "id": 4351,
+        "name": "Terrein Kerkdreef",
+        "city": "Linden",
+        "capacity": 1000,
+        "latitude": 50.8948418,
+        "longitude": 4.7671376
+    },
+    {
+        "id": 4353,
+        "name": "Burgemeester Albert Lambertsstadion",
+        "city": "Londerzeel",
+        "capacity": 3000,
+        "latitude": 50.99309900000001,
+        "longitude": 4.2984401
+    },
+    {
+        "id": 10879,
+        "name": "Terrain de Loyers - Kunstgras",
+        "city": "Loyers",
+        "capacity": 1000,
+        "latitude": 50.4553449,
+        "longitude": 4.9579186
+    },
+    {
+        "id": 4355,
+        "name": "Sportcomplex De Doelvelden",
+        "city": "Berlaar",
+        "capacity": 2000,
+        "latitude": 51.1079369,
+        "longitude": 4.6382354
+    },
+    {
+        "id": 11667,
+        "name": "Complexe Sportif Neerstalle",
+        "city": "Uccle (Ukkel)",
+        "capacity": 1500,
+        "latitude": 50.7977003,
+        "longitude": 4.3173519
+    },
+    {
+        "id": 19050,
+        "name": "Skyline Arena",
+        "city": "Izegem",
+        "capacity": 2200,
+        "latitude": 50.9223892,
+        "longitude": 3.1774173
+    },
+    {
+        "id": 4360,
+        "name": "Stade G. Briffard",
+        "city": "Meix-Devant-Virton",
+        "capacity": 1500,
+        "latitude": 49.608138,
+        "longitude": 5.4820373
+    },
+    {
+        "id": 19949,
+        "name": "Sportpark Molenkouter",
+        "city": "Merelbeke",
+        "capacity": 1000,
+        "latitude": 50.98459099999999,
+        "longitude": 3.7527639
+    },
+    {
+        "id": 4362,
+        "name": "Stade des Vert et Blanc",
+        "city": "Meux",
+        "capacity": 500,
+        "latitude": 45.460517,
+        "longitude": 4.389434
+    },
+    {
+        "id": 4365,
+        "name": "Terrain Mormont R.C.",
+        "city": "Érezée",
+        "capacity": 1500,
+        "latitude": 50.3349324,
+        "longitude": 5.5908071
+    },
+    {
+        "id": 4366,
+        "name": "Stade Emile Benoit",
+        "city": "Nassogne",
+        "capacity": 2000,
+        "latitude": 50.1272929,
+        "longitude": 5.3420152
+    },
+    {
+        "id": 4368,
+        "name": "KFC Nijlen A-terrein",
+        "city": "Nijlen",
+        "capacity": 1000,
+        "latitude": 51.1574325,
+        "longitude": 4.6574468
+    },
+    {
+        "id": 4369,
+        "name": "Stadion De Kloppers",
+        "city": "Meerbeeke",
+        "capacity": 1500,
+        "latitude": 50.8304243,
+        "longitude": 4.0332136
+    },
+    {
+        "id": 4370,
+        "name": "Terrain de Nismes",
+        "city": "Nismes",
+        "capacity": 500,
+        "latitude": 50.0765767,
+        "longitude": 4.550160099999999
+    },
+    {
+        "id": 4371,
+        "name": "Stephan Van de Berghe Stadion",
+        "city": "Brakel",
+        "capacity": 3000,
+        "latitude": 50.7983939,
+        "longitude": 3.7593926
+    },
+    {
+        "id": 4372,
+        "name": "Complex Pastoor Bellonstraat",
+        "city": "Wijgmaal",
+        "capacity": 2500,
+        "latitude": 50.9258217,
+        "longitude": 4.706357
+    },
+    {
+        "id": 4373,
+        "name": "Terrain de Onhaye",
+        "city": "Onhaye",
+        "capacity": 5000,
+        "latitude": 50.2418931,
+        "longitude": 4.8491722
+    },
+    {
+        "id": 4375,
+        "name": "Complex KSV Oostkamp",
+        "city": "Oostkamp",
+        "capacity": 2000,
+        "latitude": 51.1562922,
+        "longitude": 3.2459439
+    },
+    {
+        "id": 4377,
+        "name": "Terrain d'Oppagne",
+        "city": "Wéris",
+        "capacity": 1500,
+        "latitude": 50.31255179999999,
+        "longitude": 5.5277682
+    },
+    {
+        "id": 4378,
+        "name": "Stade des Géants",
+        "city": "Ath",
+        "capacity": 2000,
+        "latitude": 50.6198473,
+        "longitude": 3.7691608
+    },
+    {
+        "id": 4379,
+        "name": "Burgemeester Thienpontstadion",
+        "city": "Oudenaarde",
+        "capacity": 5000,
+        "latitude": 50.8495941,
+        "longitude": 3.6148922
+    },
+    {
+        "id": 4380,
+        "name": "Complexe Pont-à-Celles",
+        "city": "Pont-à-Celles",
+        "capacity": 1000,
+        "latitude": 50.5070533,
+        "longitude": 4.383194599999999
+    },
+    {
+        "id": 12165,
+        "name": "Kruisveld Terrein 1",
+        "city": "Halle",
+        "capacity": 1000,
+        "latitude": 52.193931,
+        "longitude": 5.124976999999999
+    },
+    {
+        "id": 4384,
+        "name": "Stade Communal",
+        "city": "Pâturages",
+        "capacity": 2500,
+        "latitude": 50.40345720000001,
+        "longitude": 3.8560024
+    },
+    {
+        "id": 4388,
+        "name": "Marcel De Kerpelstadion",
+        "city": "Wetteren",
+        "capacity": 6000,
+        "latitude": 50.9957164,
+        "longitude": 3.875957
+    },
+    {
+        "id": 4389,
+        "name": "Oscar Vankesbeeck Stadion",
+        "city": "Mechelen",
+        "capacity": 13687,
+        "latitude": 51.037805,
+        "longitude": 4.4716146
+    },
+    {
+        "id": 4390,
+        "name": "Mirakelstadion",
+        "city": "Waregem",
+        "capacity": 6000,
+        "latitude": 50.8688212,
+        "longitude": 3.4040461
+    },
+    {
+        "id": 4391,
+        "name": "Terrain de Raeren",
+        "city": "Raeren",
+        "capacity": 750,
+        "latitude": 50.6783379,
+        "longitude": 6.1258199
+    },
+    {
+        "id": 4393,
+        "name": "Complexe Gobard",
+        "city": "Rebecq",
+        "capacity": 500,
+        "latitude": 50.66352999999999,
+        "longitude": 4.144794
+    },
+    {
+        "id": 10395,
+        "name": "Stade de la Cité de l'Oie",
+        "city": "Visé",
+        "capacity": 5460,
+        "latitude": 50.7362384,
+        "longitude": 5.7074729
+    },
+    {
+        "id": 4397,
+        "name": "Parc des Roches",
+        "city": "Rochefort",
+        "capacity": 1000,
+        "latitude": 50.1602136,
+        "longitude": 5.2249327
+    },
+    {
+        "id": 11668,
+        "name": "Stade Saint Lo",
+        "city": "Saint-Ghislain",
+        "capacity": 1000,
+        "latitude": 50.4488628,
+        "longitude": 3.825291899999999
+    },
+    {
+        "id": 4402,
+        "name": "Terrein Sassport Boezinge",
+        "city": "Boezinge",
+        "capacity": 1000,
+        "latitude": 50.8968214,
+        "longitude": 2.8573442
+    },
+    {
+        "id": 5646235400231900000,
+        "name": "Sportpark Patersbos",
+        "city": "Schelle",
+        "capacity": null,
+        "latitude": 51.1226461,
+        "longitude": 4.3287297
+    },
+    {
+        "id": 4405,
+        "name": "Complexe Houtstraat",
+        "city": "Sint-Lenaarts",
+        "capacity": 2500,
+        "latitude": 51.3452144,
+        "longitude": 4.680325799999999
+    },
+    {
+        "id": 4407,
+        "name": "Complex Gaversesteenweg",
+        "city": "Deinze",
+        "capacity": 2500,
+        "latitude": 50.9757452,
+        "longitude": 3.5351982
+    },
+    {
+        "id": 4408,
+        "name": "Stedelijk Sportstadion",
+        "city": "Hasselt",
+        "capacity": 8800,
+        "latitude": 50.9363334,
+        "longitude": 5.3202813
+    },
+    {
+        "id": 12166,
+        "name": "Sportpark Katteberg",
+        "city": "Bilzen",
+        "capacity": 2000,
+        "latitude": 50.864527,
+        "longitude": 5.5108033
+    },
+    {
+        "id": 4411,
+        "name": "Stade du Tultay",
+        "city": "Sprimont",
+        "capacity": 2300,
+        "latitude": 50.5117683,
+        "longitude": 5.660542
+    },
+    {
+        "id": 18797,
+        "name": "Parc Saint-Vincent",
+        "city": "Evere",
+        "capacity": 500,
+        "latitude": 50.88086790000001,
+        "longitude": 4.396579099999999
+    },
+    {
+        "id": 4415,
+        "name": "Stade Maurice Sacré",
+        "city": "Stavelot",
+        "capacity": 1000,
+        "latitude": 50.4690196,
+        "longitude": 5.9681127
+    },
+    {
+        "id": 4416,
+        "name": "Terrain rue Joseph Wauters",
+        "city": "Saint-Georges-sur-Meuse",
+        "capacity": 1000,
+        "latitude": 50.5795884,
+        "longitude": 5.3566838
+    },
+    {
+        "id": 4420,
+        "name": "Begijnhofstadion",
+        "city": "Overijse",
+        "capacity": 3000,
+        "latitude": 50.76865919999999,
+        "longitude": 4.536544
+    },
+    {
+        "id": 4423,
+        "name": "Terrein Berg Van Termunt",
+        "city": "Tervuren",
+        "capacity": 1000,
+        "latitude": 50.82776639999999,
+        "longitude": 4.5101376
+    },
+    {
+        "id": 4424,
+        "name": "Bergéstadion",
+        "city": "Tirlemont",
+        "capacity": 7100,
+        "latitude": 50.804516,
+        "longitude": 4.948535
+    },
+    {
+        "id": 4427,
+        "name": "Complex De Velodroom",
+        "city": "Torhout",
+        "capacity": 2000,
+        "latitude": 51.0702681,
+        "longitude": 3.1075197
+    },
+    {
+        "id": 4429,
+        "name": "Stade Luc Varenne",
+        "city": "Kain",
+        "capacity": 7552,
+        "latitude": 50.626582,
+        "longitude": 3.4086045
+    },
+    {
+        "id": 4431,
+        "name": "Stadsparkstadion",
+        "city": "Turnhout",
+        "capacity": 3000,
+        "latitude": 51.3105202,
+        "longitude": 4.9430735
+    },
+    {
+        "id": 4434,
+        "name": "Terrein Union Sportive d'Ophain",
+        "city": "Braine-l&apos;Alleud",
+        "capacity": 1000,
+        "latitude": 50.6648255,
+        "longitude": 4.350730899999999
+    },
+    {
+        "id": 11669,
+        "name": "Route de Genval",
+        "city": "Ohain",
+        "capacity": 1000,
+        "latitude": 50.7085979,
+        "longitude": 4.4775544
+    },
+    {
+        "id": 21403,
+        "name": "Terrain Jambes ADEPS",
+        "city": "Jambes",
+        "capacity": 5000,
+        "latitude": 50.4573098,
+        "longitude": 4.8749268
+    },
+    {
+        "id": 4438,
+        "name": "Gemeentelijk Stadion Vigor Wuitens Hamme",
+        "city": "Hamme",
+        "capacity": 6000,
+        "latitude": 51.0928332,
+        "longitude": 4.1438061
+    },
+    {
+        "id": 4441,
+        "name": "Stade des Six Bonniers",
+        "city": "Verlaine",
+        "capacity": 1000,
+        "latitude": 50.6088338,
+        "longitude": 5.3234311
+    },
+    {
+        "id": 4442,
+        "name": "Terrain Plaine des Sports",
+        "city": "Villers-La-Ville",
+        "capacity": 1000,
+        "latitude": 50.5773374,
+        "longitude": 4.5269926
+    },
+    {
+        "id": 4444,
+        "name": "Molenveld",
+        "city": "Appelterre-Eichem",
+        "capacity": 1500,
+        "latitude": 50.8135611,
+        "longitude": 3.9729159
+    },
+    {
+        "id": 4447,
+        "name": "Braderick Stadion",
+        "city": "Vrasene",
+        "capacity": 2000,
+        "latitude": 51.2207926,
+        "longitude": 4.187806399999999
+    },
+    {
+        "id": 4448,
+        "name": "Stade Communal",
+        "city": "Vyle-et-Tharoul",
+        "capacity": 500,
+        "latitude": 50.4468355,
+        "longitude": 5.263406
+    },
+    {
+        "id": 21069,
+        "name": "Terrein Libin",
+        "city": "Libin",
+        "capacity": 1000,
+        "latitude": 49.9827222,
+        "longitude": 5.2562741
+    },
+    {
+        "id": 12267,
+        "name": "Ciney Terrain 4",
+        "city": "Ciney",
+        "capacity": 1000,
+        "latitude": 50.31012399999999,
+        "longitude": 5.115854
+    },
+    {
+        "id": 4452,
+        "name": "Stade Edmond Leburton",
+        "city": "Waremme",
+        "capacity": 2500,
+        "latitude": 50.6987673,
+        "longitude": 5.2449544
+    },
+    {
+        "id": 18798,
+        "name": "Weerstand Koersel Terrain 1",
+        "city": "Koersel",
+        "capacity": 1000,
+        "latitude": 51.0565743,
+        "longitude": 5.2783533
+    },
+    {
+        "id": 4457,
+        "name": "KVK Wellen Sportcomplex",
+        "city": "Wellen",
+        "capacity": 1500,
+        "latitude": 50.8527131,
+        "longitude": 5.3500464
+    },
+    {
+        "id": 19384,
+        "name": "Crack Stadion",
+        "city": "Ypres",
+        "capacity": 1000,
+        "latitude": 50.8435867,
+        "longitude": 2.8979181
+    },
+    {
+        "id": 4459,
+        "name": "Sportpark Hernieuwenburg",
+        "city": "Wielsbeke",
+        "capacity": 2500,
+        "latitude": 50.9112684,
+        "longitude": 3.3754306
+    },
+    {
+        "id": 19020,
+        "name": "Sportpark De Wouwer",
+        "city": "Dessel",
+        "capacity": 1000,
+        "latitude": 51.2442317,
+        "longitude": 5.1533431
+    },
+    {
+        "id": 19051,
+        "name": "Frans Lathouwersstadion",
+        "city": "Wolvertem",
+        "capacity": 2000,
+        "latitude": 50.95546,
+        "longitude": 4.2435201
+    },
+    {
+        "id": 4464,
+        "name": "Stade Wépion",
+        "city": "Wépion",
+        "capacity": 1500,
+        "latitude": 50.421206,
+        "longitude": 4.8633172
+    },
+    {
+        "id": 4466,
+        "name": "KVV Zelzate A-Complex",
+        "city": "Zelzate",
+        "capacity": 500,
+        "latitude": 51.2031601,
+        "longitude": 3.815971
+    },
+    {
+        "id": 4467,
+        "name": "Louis van Roeystadion",
+        "city": "Rijkevorsel",
+        "capacity": 6000,
+        "latitude": 51.3432664,
+        "longitude": 4.7494525
+    },
+    {
+        "id": 19052,
+        "name": "DENDER Football Complex",
+        "city": "Denderleeuw",
+        "capacity": 6429,
+        "latitude": 50.8840708,
+        "longitude": 4.0726862
+    },
+    {
+        "id": 4595,
+        "name": "Armand Melis Stadion",
+        "city": "Dessel",
+        "capacity": 4291,
+        "latitude": 51.2392698,
+        "longitude": 5.0920553
+    },
+    {
+        "id": 4596,
+        "name": "Gemeentelijk Sportcentrum",
+        "city": "Heist-Op-Den-Berg",
+        "capacity": 7000,
+        "latitude": 51.0674319,
+        "longitude": 4.7356285
+    },
+    {
+        "id": 22101,
+        "name": "Stade R. Dienne Terrain 2",
+        "city": "Haine-St-Pierre",
+        "capacity": 1000,
+        "latitude": 50.3686547,
+        "longitude": 3.1081508
+    },
+    {
+        "id": 4598,
+        "name": "Stade de la Neuville",
+        "city": "Charleroi",
+        "capacity": 12164,
+        "latitude": 50.4086201,
+        "longitude": 4.4569578
+    },
+    {
+        "id": 4602,
+        "name": "Gemeentelijk Parkstadion",
+        "city": "Boom",
+        "capacity": 9470,
+        "latitude": 51.10390090000001,
+        "longitude": 4.3741521
+    },
+    {
+        "id": 4604,
+        "name": "Sportcentrum Tessenderlo",
+        "city": "Tessenderlo",
+        "capacity": 1500,
+        "latitude": 51.0765466,
+        "longitude": 5.088475499999999
+    },
+    {
+        "id": 5982,
+        "name": "Sportcomplex Antonia FC",
+        "city": "Zoersel",
+        "capacity": 500,
+        "latitude": 51.2759519,
+        "longitude": 4.6314487
+    },
+    {
+        "id": 5983,
+        "name": "Terrein FC Berlaar-Heikant",
+        "city": "Berlaar",
+        "capacity": 750,
+        "latitude": 51.088432,
+        "longitude": 4.6699708
+    },
+    {
+        "id": 5988,
+        "name": "Jeugdcentrum Racing Mol-Wezel",
+        "city": "Mol",
+        "capacity": 2000,
+        "latitude": 51.1983516,
+        "longitude": 5.224969799999999
+    },
+    {
+        "id": 5989,
+        "name": "Marcel Verwimpstadion",
+        "city": "Aarschot",
+        "capacity": 4000,
+        "latitude": 50.9921844,
+        "longitude": 4.8337094
+    },
+    {
+        "id": 5995,
+        "name": "OHR Huldenberg Terrain A",
+        "city": "Huldenberg",
+        "capacity": 1000,
+        "latitude": 50.7923834,
+        "longitude": 4.5827917
+    },
+    {
+        "id": 5997,
+        "name": "Sportcentrum Heuvelkouter",
+        "city": "Liedekerke",
+        "capacity": 1000,
+        "latitude": 50.8643617,
+        "longitude": 4.0803309
+    },
+    {
+        "id": 6001,
+        "name": "Complexe Sportif de Neder-Over-Heembeek",
+        "city": "Bruxelles",
+        "capacity": 2000,
+        "latitude": 50.8929781,
+        "longitude": 4.3769185
+    },
+    {
+        "id": 22102,
+        "name": "Complexe Sportif du Joli Bois Terrein 2",
+        "city": "Waterloo",
+        "capacity": 1000,
+        "latitude": 50.7162675,
+        "longitude": 4.3956652
+    },
+    {
+        "id": 6004,
+        "name": "Stade d'Antoing",
+        "city": "Antoing",
+        "capacity": 2000,
+        "latitude": 50.569143,
+        "longitude": 3.4478908
+    },
+    {
+        "id": 12269,
+        "name": "Complexe des Sablières",
+        "city": "Châtelet",
+        "capacity": 1500,
+        "latitude": 46.67887169999999,
+        "longitude": 0.4055948
+    },
+    {
+        "id": 6011,
+        "name": "Stade Communal de Soignies",
+        "city": "Soignies",
+        "capacity": 1000,
+        "latitude": 50.5710899,
+        "longitude": 4.0796952
+    },
+    {
+        "id": 10532,
+        "name": "Stade Jean-Marie Doome",
+        "city": "Aubel",
+        "capacity": 1500,
+        "latitude": 50.705368,
+        "longitude": 5.8603103
+    },
+    {
+        "id": 6015,
+        "name": "Terrain du ESFC Geer",
+        "city": "Geer",
+        "capacity": 1000,
+        "latitude": 50.67559730000001,
+        "longitude": 5.1706816
+    },
+    {
+        "id": 6016,
+        "name": "Terrain Amblève",
+        "city": "Amel",
+        "capacity": 1500,
+        "latitude": 50.3566543,
+        "longitude": 6.164336599999999
+    },
+    {
+        "id": 6018,
+        "name": "Stade Prince Philippe",
+        "city": "La Calamine",
+        "capacity": 4000,
+        "latitude": 50.7133051,
+        "longitude": 6.0158118
+    },
+    {
+        "id": 6021,
+        "name": "Terrain Entente Rechaintoise",
+        "city": "Petit-Rechain",
+        "capacity": 1000,
+        "latitude": 50.6110401,
+        "longitude": 5.825507399999999
+    },
+    {
+        "id": 6024,
+        "name": "Terrein Achel VV",
+        "city": "Hamont-Achel",
+        "capacity": 2000,
+        "latitude": 51.263396,
+        "longitude": 5.474558
+    },
+    {
+        "id": 6027,
+        "name": "Geussensstraat Sportcomplex",
+        "city": "Bree",
+        "capacity": 500,
+        "latitude": 51.1561775,
+        "longitude": 5.6081948
+    },
+    {
+        "id": 6031,
+        "name": "Hereveld Complex A",
+        "city": "Bilzen",
+        "capacity": 500,
+        "latitude": 50.8739881,
+        "longitude": 5.506307
+    },
+    {
+        "id": 6032,
+        "name": "Het Dekken",
+        "city": "Zepperen",
+        "capacity": 1500,
+        "latitude": 50.8377699,
+        "longitude": 5.2596226
+    },
+    {
+        "id": 6034,
+        "name": "Terrain de Gouvy",
+        "city": "Gouvy",
+        "capacity": 500,
+        "latitude": 50.1940856,
+        "longitude": 5.9571158
+    },
+    {
+        "id": 6037,
+        "name": "Terrain de Marloie",
+        "city": "Marche-en-Famenne",
+        "capacity": 500,
+        "latitude": 50.2070666,
+        "longitude": 5.312022199999999
+    },
+    {
+        "id": 6041,
+        "name": "Terrain de Chevetogne",
+        "city": "Chevetogne",
+        "capacity": 500,
+        "latitude": 50.2175474,
+        "longitude": 5.147823499999999
+    },
+    {
+        "id": 6042,
+        "name": "Terrain de Condruzien",
+        "city": "Hamois",
+        "capacity": 500,
+        "latitude": 50.3418309,
+        "longitude": 5.1606181
+    },
+    {
+        "id": 6047,
+        "name": "Puitenstadion",
+        "city": "Berlare",
+        "capacity": 2000,
+        "latitude": 51.01723699999999,
+        "longitude": 4.012713
+    },
+    {
+        "id": 6048,
+        "name": "Den Deysel",
+        "city": "Haaltert",
+        "capacity": 1000,
+        "latitude": 50.8732949,
+        "longitude": 4.0107727
+    },
+    {
+        "id": 6049,
+        "name": "Terrein HRS Haasdonk",
+        "city": "Beveren",
+        "capacity": 1000,
+        "latitude": 51.1841623,
+        "longitude": 4.2408329
+    },
+    {
+        "id": 6053,
+        "name": "Sportstadion De Groene Meersen",
+        "city": "Zedelgem",
+        "capacity": 1500,
+        "latitude": 51.13967969999999,
+        "longitude": 3.1521519
+    },
+    {
+        "id": 6054,
+        "name": "Gemeentelijk Sportcomplex Van Caloen",
+        "city": "Varsenare",
+        "capacity": 2000,
+        "latitude": 51.1913384,
+        "longitude": 3.1425305
+    },
+    {
+        "id": 6055,
+        "name": "Stadion Menenstraat",
+        "city": "Wevelgem",
+        "capacity": 2000,
+        "latitude": 50.806273,
+        "longitude": 3.170886
+    },
+    {
+        "id": 7120,
+        "name": "Stade de la Verte Chasse",
+        "city": "Péruwelz",
+        "capacity": 2000,
+        "latitude": 50.5060082,
+        "longitude": 3.599907
+    },
+    {
+        "id": 9191,
+        "name": "Fond De Bouge",
+        "city": "Vedrin",
+        "capacity": 500,
+        "latitude": 50.4872641,
+        "longitude": 4.8834518
+    },
+    {
+        "id": 10577,
+        "name": "Sportpark de Pluimen",
+        "city": "Diksmuide",
+        "capacity": 2500,
+        "latitude": 51.0259578,
+        "longitude": 2.8690044
+    },
+    {
+        "id": 9194,
+        "name": "De Kempen",
+        "city": "Herent",
+        "capacity": 500,
+        "latitude": 50.9024959,
+        "longitude": 4.6677419
+    },
+    {
+        "id": 6007,
+        "name": "Stade Henri Rochefort",
+        "city": "Houdeng-Goegnies",
+        "capacity": 1000,
+        "latitude": 50.4912923,
+        "longitude": 4.155815599999999
+    },
+    {
+        "id": 10578,
+        "name": "Terrein Zwalmmeersch",
+        "city": "Munkzwalm",
+        "capacity": 2000,
+        "latitude": 50.8779106,
+        "longitude": 3.7367072
+    },
+    {
+        "id": 21405,
+        "name": "FC Punt-Larum A Terrain 1",
+        "city": "Geel",
+        "capacity": 1000,
+        "latitude": 51.1626503,
+        "longitude": 4.957364699999999
+    },
+    {
+        "id": 10581,
+        "name": "Terrein KSV Rumbeke",
+        "city": "Rimbeke",
+        "capacity": 2000,
+        "latitude": 50.9276036,
+        "longitude": 3.1579723
+    },
+    {
+        "id": 18921,
+        "name": "Klein Kouterken Terrain 1",
+        "city": "Sint-Denijs-Westrem",
+        "capacity": 1000,
+        "latitude": 51.0200854,
+        "longitude": 3.669579299999999
+    },
+    {
+        "id": 10865,
+        "name": "Terrain Bevel FC",
+        "city": "Bevel",
+        "capacity": 1000,
+        "latitude": 51.1339432,
+        "longitude": 4.6855588
+    },
+    {
+        "id": 10873,
+        "name": "Sparrenstadion",
+        "city": "Eksel",
+        "capacity": 1500,
+        "latitude": 51.1553601,
+        "longitude": 5.3775267
+    },
+    {
+        "id": 10875,
+        "name": "Terrain du RRC Longlier",
+        "city": "Longlier",
+        "capacity": 1000,
+        "latitude": 49.87026059999999,
+        "longitude": 5.461550799999999
+    },
+    {
+        "id": 10881,
+        "name": "Terrain 2 Meux - Des Vert Et Blanc",
+        "city": "La Bruyère",
+        "capacity": 1000,
+        "latitude": 50.5832682,
+        "longitude": 4.7747892
+    },
+    {
+        "id": 10882,
+        "name": "Terrain Dinant - Citadelle",
+        "city": "Dinant",
+        "capacity": 1000,
+        "latitude": 50.26172709999999,
+        "longitude": 4.9131095
+    },
+    {
+        "id": 10885,
+        "name": "Sportterrein Heestert Terrain 1",
+        "city": "Heestert",
+        "capacity": 1000,
+        "latitude": 50.7861418,
+        "longitude": 3.4132759
+    },
+    {
+        "id": 11674,
+        "name": "Stade Principal",
+        "city": "Courcelles",
+        "capacity": 1000,
+        "latitude": 47.4991733,
+        "longitude": 6.776286499999999
+    },
+    {
+        "id": 19015,
+        "name": "Steenberg Terrain 1",
+        "city": "Erpe-Mere",
+        "capacity": 1000,
+        "latitude": 50.9238867,
+        "longitude": 3.9431247
+    },
+    {
+        "id": 11663,
+        "name": "Stade Communal",
+        "city": "Estaimbourg",
+        "capacity": 1000,
+        "latitude": 50.7041768,
+        "longitude": 3.2663689
+    },
+    {
+        "id": 21406,
+        "name": "Sportcentrum Koningsbos",
+        "city": "Koningshooikt",
+        "capacity": 1000,
+        "latitude": 51.0924576,
+        "longitude": 4.6101892
+    },
+    {
+        "id": 18930,
+        "name": "Complex Sp. Perwez",
+        "city": "Perwez",
+        "capacity": 1000,
+        "latitude": 50.6251834,
+        "longitude": 4.8051205
+    },
+    {
+        "id": 18932,
+        "name": "Mons Terrain Synthétique",
+        "city": "Mons",
+        "capacity": 1000,
+        "latitude": 50.4106794,
+        "longitude": 3.8881915
+    },
+    {
+        "id": 18947,
+        "name": "Stade St Roch",
+        "city": "Houffalize",
+        "capacity": 1000,
+        "latitude": 50.1199598,
+        "longitude": 5.788382299999999
+    },
+    {
+        "id": 18948,
+        "name": "Assenois Terrain 1",
+        "city": "Assenois",
+        "capacity": 1000,
+        "latitude": 49.8056462,
+        "longitude": 5.4589761
+    },
+    {
+        "id": 18807,
+        "name": "Complex Racing Peer",
+        "city": "Peer",
+        "capacity": 1000,
+        "latitude": 51.0860335,
+        "longitude": 5.442544
+    },
+    {
+        "id": 20824,
+        "name": "Complexe sportif de Bossière",
+        "city": "Bossière",
+        "capacity": 500,
+        "latitude": 50.519908,
+        "longitude": 4.704319300000001
+    },
+    {
+        "id": 18809,
+        "name": "Allewijweg",
+        "city": "Riemst",
+        "capacity": 1000,
+        "latitude": 50.826224,
+        "longitude": 5.582377699999999
+    },
+    {
+        "id": 11672,
+        "name": "Campus Sportcentrum Ternat",
+        "city": "Ternat",
+        "capacity": 2000,
+        "latitude": 50.8688681,
+        "longitude": 4.1732814
+    },
+    {
+        "id": 21407,
+        "name": "Terrain 1 Sporting Tisselt",
+        "city": "Willebroek",
+        "capacity": 1000,
+        "latitude": 51.0363477,
+        "longitude": 4.361502199999999
+    },
+    {
+        "id": 18922,
+        "name": "Terrein KVC De Toekomst Borsbeke",
+        "city": "Herzele",
+        "capacity": 1000,
+        "latitude": 50.9079208,
+        "longitude": 3.8930985
+    },
+    {
+        "id": 18923,
+        "name": "Terrein Heikant Zele",
+        "city": "Zele",
+        "capacity": 1000,
+        "latitude": 51.06316589999999,
+        "longitude": 3.9881203
+    },
+    {
+        "id": 20237,
+        "name": "Freethielstadion Terrain 7",
+        "city": "Beveren-Waas",
+        "capacity": 1000,
+        "latitude": 51.2142038,
+        "longitude": 4.243835
+    },
+    {
+        "id": 20238,
+        "name": "Jeugdterreinen KSV Sottegem Terrein 1 – Kunstgras",
+        "city": "Zottegem",
+        "capacity": 1000,
+        "latitude": 50.85498200000001,
+        "longitude": 3.8189329
+    },
+    {
+        "id": 18927,
+        "name": "Sportcomplex Moen",
+        "city": "Moen",
+        "capacity": 1000,
+        "latitude": 50.770792,
+        "longitude": 3.3999648
+    },
+    {
+        "id": 18933,
+        "name": "Terrain Rue des Produits",
+        "city": "Flénu",
+        "capacity": 1500,
+        "latitude": 50.4289725,
+        "longitude": 3.8881604
+    },
+    {
+        "id": 10877,
+        "name": "Stade Julien Pappa",
+        "city": "Andenne",
+        "capacity": 1500,
+        "latitude": 50.490568,
+        "longitude": 5.1006409
+    },
+    {
+        "id": 19019,
+        "name": "SportOase Eburons Dome",
+        "city": "Tongeren",
+        "capacity": 2000,
+        "latitude": 50.7831457,
+        "longitude": 5.5183681
+    },
+    {
+        "id": 10867,
+        "name": "Sportpark 't Vossekot",
+        "city": "Retie",
+        "capacity": 1500,
+        "latitude": 51.26108170000001,
+        "longitude": 5.074927
+    },
+    {
+        "id": 11671,
+        "name": "Stade Aimé Vachaudez",
+        "city": "Binche",
+        "capacity": 1000,
+        "latitude": 50.4185357,
+        "longitude": 4.166837399999999
+    },
+    {
+        "id": 20239,
+        "name": "KVC Ardooie Terrain 1",
+        "city": "Ardooie",
+        "capacity": 1000,
+        "latitude": 50.9667584,
+        "longitude": 3.181517
+    },
+    {
+        "id": 20240,
+        "name": "Stade Communal",
+        "city": "Auderghem",
+        "capacity": 500,
+        "latitude": 50.8124848,
+        "longitude": 4.4402142
+    },
+    {
+        "id": 19884,
+        "name": "Louis De Winterstadion",
+        "city": "Brasschaat",
+        "capacity": 3000,
+        "latitude": 51.2853532,
+        "longitude": 4.494297899999999
+    },
+    {
+        "id": 19885,
+        "name": "Terrein KSV Bredene",
+        "city": "Bredene",
+        "capacity": 1000,
+        "latitude": 51.23161990000001,
+        "longitude": 2.9644203
+    },
+    {
+        "id": 19888,
+        "name": "Sportstadion FC Landen",
+        "city": "Landen",
+        "capacity": 2000,
+        "latitude": 50.7508382,
+        "longitude": 5.086873499999999
+    },
+    {
+        "id": 20241,
+        "name": "Ter Heide Terrain 2",
+        "city": "Rotselaar",
+        "capacity": 1000,
+        "latitude": 50.9616799,
+        "longitude": 4.7238475
+    },
+    {
+        "id": 20242,
+        "name": "Terrein SK Westrozebeke",
+        "city": "Westrozebeke",
+        "capacity": 500,
+        "latitude": 50.9352406,
+        "longitude": 3.0078704
+    },
+    {
+        "id": 21408,
+        "name": "Stade H.Colley-Sainval Terrein 2",
+        "city": "Tilff",
+        "capacity": 1000,
+        "latitude": 50.5715589,
+        "longitude": 5.595737199999999
+    },
+    {
+        "id": 20825,
+        "name": "Terrein 1 Rue Jean Louis Adam",
+        "city": "Flémalle",
+        "capacity": 1000,
+        "latitude": 50.6212954,
+        "longitude": 5.4473821
+    },
+    {
+        "id": 20826,
+        "name": "K Europa 90 Kraainem FC Terrain 1",
+        "city": "Kraainem",
+        "capacity": 1000,
+        "latitude": 50.8561136,
+        "longitude": 4.4617341
+    },
+    {
+        "id": 20827,
+        "name": "Terrain Turkse Rangers",
+        "city": "Genk",
+        "capacity": 1000,
+        "latitude": 51.0058978,
+        "longitude": 5.5144924
+    },
+    {
+        "id": 21409,
+        "name": "Terrain de foot Manhay",
+        "city": "Manhay",
+        "capacity": 1000,
+        "latitude": 50.2912362,
+        "longitude": 5.6738176
+    },
+    {
+        "id": 19836,
+        "name": "Stade Communale de Bielmont",
+        "city": "Verviers",
+        "capacity": 4291,
+        "latitude": 50.58487710000001,
+        "longitude": 5.8734205
+    },
+    {
+        "id": 20828,
+        "name": "Terrain d'Aye",
+        "city": "Aye",
+        "capacity": 1500,
+        "latitude": 50.2272842,
+        "longitude": 5.2929761
+    },
+    {
+        "id": 20829,
+        "name": "Sportpark Veltwijck",
+        "city": "Ekeren",
+        "capacity": 1000,
+        "latitude": 51.2776243,
+        "longitude": 4.4227826
+    },
+    {
+        "id": 20830,
+        "name": "Stade Tout Vent",
+        "city": "Leernes",
+        "capacity": 1000,
+        "latitude": 50.3975148,
+        "longitude": 4.3471633
+    },
+    {
+        "id": 20831,
+        "name": "Eikendreef",
+        "city": "Gooreind",
+        "capacity": 500,
+        "latitude": 51.3542931,
+        "longitude": 4.5325697
+    },
+    {
+        "id": 20832,
+        "name": "Complexe Sportif d'Habay-la-Vieille",
+        "city": "Habay-la-Vieille",
+        "capacity": 1000,
+        "latitude": 49.72714089999999,
+        "longitude": 5.6459291
+    },
+    {
+        "id": 20833,
+        "name": "Sportterrein K.F.C. Nieuwmoer",
+        "city": "Wuustwezel",
+        "capacity": 2000,
+        "latitude": 51.4375919,
+        "longitude": 4.5067375
+    },
+    {
+        "id": 20834,
+        "name": "Stade René Kiemeer",
+        "city": "Saintes",
+        "capacity": 500,
+        "latitude": 45.7370526,
+        "longitude": -0.620925
+    },
+    {
+        "id": 20835,
+        "name": "Stadion Sparta Waasmunster",
+        "city": "Waasmunster",
+        "capacity": 1000,
+        "latitude": 51.1154832,
+        "longitude": 4.0932251
+    },
+    {
+        "id": 20836,
+        "name": "Stade Roger Hardy",
+        "city": "Bouillon",
+        "capacity": 1000,
+        "latitude": 49.79115640000001,
+        "longitude": 5.0589926
+    },
+    {
+        "id": 20837,
+        "name": "Terrain Warsage",
+        "city": "Dalhem",
+        "capacity": 1000,
+        "latitude": 50.73921780000001,
+        "longitude": 5.770859499999999
+    },
+    {
+        "id": 20838,
+        "name": "Terrein Zwevegem Sport",
+        "city": "Zwevegem",
+        "capacity": 1500,
+        "latitude": 50.81764829999999,
+        "longitude": 3.332407
+    },
+    {
+        "id": 20839,
+        "name": "Henri Story Stadion",
+        "city": "Zwijnaarde",
+        "capacity": 500,
+        "latitude": 51.01857469999999,
+        "longitude": 3.7261264
+    },
+    {
+        "id": 20236,
+        "name": "Gemeentelijk Voetbalterrein",
+        "city": "Destelbergen",
+        "capacity": 2000,
+        "latitude": 51.0548504,
+        "longitude": 3.8038426
+    },
+    {
+        "id": 19835,
+        "name": "Le Barca Terrein 2",
+        "city": "Brussel",
+        "capacity": 1000,
+        "latitude": 50.84770289999999,
+        "longitude": 4.357200100000001
+    },
+    {
+        "id": 2664,
+        "name": "Herman Vanderpoortenstadion",
+        "city": "Lier",
+        "capacity": 14538,
+        "latitude": 51.1434825,
+        "longitude": 4.574112899999999
+    },
+    {
+        "id": 18915,
+        "name": "Terrein Loenhout SK",
+        "city": "Wuustwezel",
+        "capacity": 1500,
+        "latitude": 51.3955063,
+        "longitude": 4.6465375
+    },
+    {
+        "id": 4359,
+        "name": "De Witte Molen",
+        "city": "Bornem",
+        "capacity": 1500,
+        "latitude": 51.16249029999999,
+        "longitude": 4.1569517
+    },
+    {
+        "id": 20234,
+        "name": "Complex Zandhoven SK",
+        "city": "Zandhoven",
+        "capacity": 1000,
+        "latitude": 51.2162449,
+        "longitude": 4.6517211
+    },
+    {
+        "id": 9192,
+        "name": "Terrein KFC Broechem",
+        "city": "Broechem",
+        "capacity": 500,
+        "latitude": 51.1810522,
+        "longitude": 4.5819426
+    },
+    {
+        "id": 10579,
+        "name": "KFC Ranst Terrain 1",
+        "city": "Ranst",
+        "capacity": 1000,
+        "latitude": 51.18228209999999,
+        "longitude": 4.5605734
+    },
+    {
+        "id": 22107,
+        "name": "Sportcomplex Ter Beke",
+        "city": "Wilrijk",
+        "capacity": 500,
+        "latitude": 51.1625062,
+        "longitude": 4.3751156
+    },
+    {
+        "id": 4335,
+        "name": "Stade Albert Demuyter",
+        "city": "Ixelles",
+        "capacity": 2000,
+        "latitude": 50.8134232,
+        "longitude": 4.3956384
+    },
+    {
+        "id": 21063,
+        "name": "Terrein 2 Stade Soyer",
+        "city": "La Hulpe",
+        "capacity": 1000,
+        "latitude": 50.729722,
+        "longitude": 4.492105
+    },
+    {
+        "id": 4400,
+        "name": "Stade Communal Georges Pètre",
+        "city": "Brussel",
+        "capacity": 2500,
+        "latitude": 50.8666293,
+        "longitude": 4.3823015
+    },
+    {
+        "id": 11670,
+        "name": "La Roue Terrain 1",
+        "city": "Anderlecht",
+        "capacity": 1000,
+        "latitude": 50.821636,
+        "longitude": 4.2942501
+    },
+    {
+        "id": 4455,
+        "name": "Terrein R.C.S Ways-Genappe",
+        "city": "Genappe",
+        "capacity": 1000,
+        "latitude": 50.633585,
+        "longitude": 4.4769244
+    },
+    {
+        "id": 12266,
+        "name": "Complexe Sportif de Berchem-Sainte-Agathe",
+        "city": "Bruxelles",
+        "capacity": 1000,
+        "latitude": 50.8696467,
+        "longitude": 4.2872983
+    },
+    {
+        "id": 18931,
+        "name": "Sportcity Terrain 1",
+        "city": "Woluwe-Saint-Pierre",
+        "capacity": 1000,
+        "latitude": 50.8304262,
+        "longitude": 4.456488300000001
+    },
+    {
+        "id": 21064,
+        "name": "Stade Communal Jette Terrein 2",
+        "city": "Jette",
+        "capacity": 1000,
+        "latitude": 50.8831523,
+        "longitude": 4.3152341
+    }
+]
