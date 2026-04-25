@@ -1,0 +1,234 @@
+[
+  {
+    "id": 402,
+    "name": "Estadio Eladio Rosabal Cordero",
+    "city": "Heredia",
+    "capacity": 8700,
+    "latitude": 9.9995175,
+    "longitude": -84.1231071
+  },
+  {
+    "id": 399,
+    "name": "Estadio Ricardo Saprissa Aymá",
+    "city": "San Juan de Tíbás (San José)",
+    "capacity": 23112,
+    "latitude": 9.965517400000001,
+    "longitude": -84.0752497
+  },
+  {
+    "id": 22254,
+    "name": "Estadio Municipal Pérez Zeledón",
+    "city": "San Isidro de El General",
+    "capacity": 6000,
+    "latitude": 9.368807499999999,
+    "longitude": -83.70465759999999
+  },
+  {
+    "id": 398,
+    "name": "Estadio José Rafael Fello Meza",
+    "city": "Cartago",
+    "capacity": 13500,
+    "latitude": 9.858454,
+    "longitude": -83.918931
+  },
+  {
+    "id": 393,
+    "name": "Estadio Alejandro Morera Soto",
+    "city": "Alajuela",
+    "capacity": 17895,
+    "latitude": 10.0217334,
+    "longitude": -84.20916369999999
+  },
+  {
+    "id": 406,
+    "name": "Estadio Carlos Ugalde Álvarez",
+    "city": "Ciudad Quesada",
+    "capacity": 6200,
+    "latitude": 10.3241562,
+    "longitude": -84.4238558
+  },
+  {
+    "id": 407,
+    "name": "Estadio Ebal Rodríguez Aguilar",
+    "city": "Guápiles",
+    "capacity": 4500,
+    "latitude": 10.2114656,
+    "longitude": -83.78993009999999
+  },
+  {
+    "id": 1730,
+    "name": "Estadio Edgardo Baltodano Briceño",
+    "city": "Liberia",
+    "capacity": 5797,
+    "latitude": 10.6359639,
+    "longitude": -85.433334
+  },
+  {
+    "id": 1799,
+    "name": "Estadio de la Asociación Cívica Jicaraleña",
+    "city": "Jicaral",
+    "capacity": 1500,
+    "latitude": 9.9583207,
+    "longitude": -85.1195654
+  },
+  {
+    "id": 401,
+    "name": "Estadio Chorotega",
+    "city": "Nicoya",
+    "capacity": 6500,
+    "latitude": 10.139124,
+    "longitude": -85.4550548
+  },
+  {
+    "id": 405,
+    "name": "Estadio Municipal de Puntarenas Miguel Ángel Lito Pérez Treacy",
+    "city": "Puntarenas",
+    "capacity": 4105,
+    "latitude": 9.9764296,
+    "longitude": -84.838932
+  },
+  {
+    "id": 1884,
+    "name": "Estadio Ernesto Rohrmoser Lahmann",
+    "city": "San José",
+    "capacity": 3000,
+    "latitude": 9.94273,
+    "longitude": -84.1302367
+  },
+  {
+    "id": 1851,
+    "name": "Estadio Jorge Palmareño Solís",
+    "city": "Palmares",
+    "capacity": 4000,
+    "latitude": 10.0577681,
+    "longitude": -84.4297826
+  },
+  {
+    "id": 136654790144,
+    "name": "Estadio Luis Ángel Calderón Schult",
+    "city": "Aserrí",
+    "capacity": 1000,
+    "latitude": 9.850796899999999,
+    "longitude": -84.3115188
+  },
+  {
+    "id": 1916,
+    "name": "Estadio Piedades de Santa Ana",
+    "city": "Santa Ana",
+    "capacity": 2000,
+    "latitude": 9.9335911,
+    "longitude": -84.21855
+  },
+  {
+    "id": 3294,
+    "name": "Estadio Juan Francisco Barraza",
+    "city": "San Miguel",
+    "capacity": 10000,
+    "latitude": 13.4825625,
+    "longitude": -88.1689531
+  },
+  {
+    "id": 22255,
+    "name": "Estadio Polideportivo de Belén",
+    "city": "San Antonio de Belén",
+    "capacity": 4403,
+    "latitude": 9.9768387,
+    "longitude": -84.19289669999999
+  },
+  {
+    "id": 707804688341,
+    "name": "Estadio Eliécer Pérez Conejo",
+    "city": "Sarchí",
+    "capacity": 1500,
+    "latitude": 10.0958997,
+    "longitude": -84.3454958
+  },
+  {
+    "id": 22256,
+    "name": "Estadio de Damas",
+    "city": "Quepos",
+    "capacity": 1000,
+    "latitude": 9.4905236,
+    "longitude": -84.207954
+  },
+  {
+    "id": 927463985998,
+    "name": "Estadio Juan Gobán",
+    "city": "Limón",
+    "capacity": 3000,
+    "latitude": 9.9911803,
+    "longitude": -83.03319619999999
+  },
+  {
+    "id": 22257,
+    "name": "Estadio de Pital",
+    "city": "Pital",
+    "capacity": 3000,
+    "latitude": 10.4529644,
+    "longitude": -84.27664039999999
+  },
+  {
+    "id": 396,
+    "name": "Estadio Rafael Bolaños",
+    "city": "San Antonio de Belén",
+    "capacity": 2400,
+    "latitude": 9.996067,
+    "longitude": -84.2437005
+  },
+  {
+    "id": 2675,
+    "name": "Estadio CDI José Joaquín Colleya Fonseca",
+    "city": "San José",
+    "capacity": 4500,
+    "latitude": 9.9463504,
+    "longitude": -84.0568632
+  },
+  {
+    "id": 21311,
+    "name": "Estadio Comunal Bernardo Veach",
+    "city": "Cariari",
+    "capacity": 1200,
+    "latitude": 10.3612292,
+    "longitude": -83.7373088
+  },
+  {
+    "id": 409,
+    "name": "Estadio Jorge Hernán Cuty Monge",
+    "city": "San José",
+    "capacity": 5500,
+    "latitude": 9.8896287,
+    "longitude": -84.0492859
+  },
+  {
+    "id": 410,
+    "name": "Estadio Municipal El Labrador de Coronado",
+    "city": "San Jose",
+    "capacity": 3200,
+    "latitude": 9.9730139,
+    "longitude": -84.0070224
+  },
+  {
+    "id": 408,
+    "name": "Estadio Rafael Ángel Camacho",
+    "city": "Turrialba",
+    "capacity": 5500,
+    "latitude": 9.8988187,
+    "longitude": -83.6762297
+  },
+  {
+    "id": 668464229676,
+    "name": "Estadio Municipal de Upala",
+    "city": "Upala",
+    "capacity": 1500,
+    "latitude": 10.898861,
+    "longitude": -85.00673599999999
+  },
+  {
+    "id": 57413532992,
+    "name": "Estadio Carlos Ugalde Álvarez",
+    "city": "San Carlos",
+    "capacity": 5600,
+    "latitude": 10.3241562,
+    "longitude": -84.4238558
+  }
+]
