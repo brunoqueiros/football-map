@@ -1,0 +1,162 @@
+[
+    {
+        "id": 5385,
+        "name": "Angkor Tiger",
+        "code": null,
+        "country": "Cambodia",
+        "founded": 2012,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/5385.png",
+        "venue_id": 21650
+    },
+    {
+        "id": 5387,
+        "name": "Boeung Ket",
+        "code": "BOE",
+        "country": "Cambodia",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/5387.png",
+        "venue_id": 12722
+    },
+    {
+        "id": 5389,
+        "name": "Kirivong Sok Sen Chey",
+        "code": null,
+        "country": "Cambodia",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/5389.png",
+        "venue_id": 11528
+    },
+    {
+        "id": 5391,
+        "name": "National Defense",
+        "code": null,
+        "country": "Cambodia",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/5391.png",
+        "venue_id": 4067
+    },
+    {
+        "id": 5392,
+        "name": "National Police",
+        "code": null,
+        "country": "Cambodia",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/5392.png",
+        "venue_id": 20324
+    },
+    {
+        "id": 5394,
+        "name": "Phnom Penh Crown",
+        "code": null,
+        "country": "Cambodia",
+        "founded": 2001,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/5394.png",
+        "venue_id": 4069
+    },
+    {
+        "id": 5396,
+        "name": "Svay Rieng",
+        "code": "SVA",
+        "country": "Cambodia",
+        "founded": 1997,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/5396.png",
+        "venue_id": 4070
+    },
+    {
+        "id": 5397,
+        "name": "Visakha",
+        "code": null,
+        "country": "Cambodia",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/5397.png",
+        "venue_id": 19868
+    },
+    {
+        "id": 5566,
+        "name": "NagaWorld",
+        "code": null,
+        "country": "Cambodia",
+        "founded": 2001,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/5566.png",
+        "venue_id": 20324
+    },
+    {
+        "id": 21735,
+        "name": "Dangkor Senchey",
+        "code": null,
+        "country": "Cambodia",
+        "founded": 2016,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/21735.png",
+        "venue_id": 20324
+    },
+    {
+        "id": 24520,
+        "name": "Life Sihanoukville",
+        "code": null,
+        "country": "Cambodia",
+        "founded": 2023,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/24520.png",
+        "venue_id": 21651
+    },
+    {
+        "id": 5390,
+        "name": "Kompong Cham",
+        "code": null,
+        "country": "Cambodia",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/5390.png",
+        "venue_id": 4066
+    },
+    {
+        "id": 25739,
+        "name": "Chheu Tom Pursat",
+        "code": null,
+        "country": "Cambodia",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/25739.png",
+        "venue_id": 915654961372
+    },
+    {
+        "id": 25740,
+        "name": "Kep",
+        "code": null,
+        "country": "Cambodia",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/25740.png",
+        "venue_id": 405232883653
+    },
+    {
+        "id": 25741,
+        "name": "Lion King",
+        "code": null,
+        "country": "Cambodia",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/25741.png",
+        "venue_id": 751163678926
+    },
+    {
+        "id": 25742,
+        "name": "Thbong Khmum",
+        "code": null,
+        "country": "Cambodia",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/25742.png",
+        "venue_id": 788773569327
+    }
+]

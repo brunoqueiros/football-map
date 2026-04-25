@@ -511,3 +511,14 @@
 # 242 | Liga Pro
 # 243 | Liga Pro Serie B
 # 853 | Supercopa de Ecuador
+
+
+# Egypt
+# 714 | Cup
+# 895 | League Cup
+# 233 | Premier League
+# 887 | Second League
+# 888 | Second League - Group B
+# 889 | Second League - Group C
+# 1014 | Second League - Play-offs
+# 539 | Super Cup

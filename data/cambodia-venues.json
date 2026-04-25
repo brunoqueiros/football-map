@@ -1,0 +1,114 @@
+[
+    {
+        "id": 21650,
+        "name": "Akihiro Kato Stadium",
+        "city": "Siem Reap",
+        "capacity": 5000,
+        "latitude": 13.3485625,
+        "longitude": 103.7643375
+    },
+    {
+        "id": 12722,
+        "name": "Cambodia Airways Stadium",
+        "city": "Phnom Penh",
+        "capacity": 2000,
+        "latitude": 11.558333,
+        "longitude": 104.9121024
+    },
+    {
+        "id": 11528,
+        "name": "Kirivong Sok Sen Chey Stadium",
+        "city": "Krong Doun Kaev",
+        "capacity": 1000,
+        "latitude": 10.973987,
+        "longitude": 104.7699529
+    },
+    {
+        "id": 4067,
+        "name": "Army Stadium",
+        "city": "Phnom Penh",
+        "capacity": 8000,
+        "latitude": 11.5864404,
+        "longitude": 104.9151085
+    },
+    {
+        "id": 20324,
+        "name": "Olympic Stadium",
+        "city": "Phnom Penh",
+        "capacity": 70000,
+        "latitude": 11.558333,
+        "longitude": 104.9121024
+    },
+    {
+        "id": 4069,
+        "name": "RSN Stadium",
+        "city": "Phnom Penh",
+        "capacity": 5000,
+        "latitude": 11.6047663,
+        "longitude": 104.8940787
+    },
+    {
+        "id": 4070,
+        "name": "Svay Rieng Stadium",
+        "city": "Svay Rieng",
+        "capacity": 2000,
+        "latitude": 11.0823465,
+        "longitude": 105.8029159
+    },
+    {
+        "id": 19868,
+        "name": "Prince Stadium",
+        "city": "Phnom Penh",
+        "capacity": 7000,
+        "latitude": 11.6263468,
+        "longitude": 104.8734136
+    },
+    {
+        "id": 21651,
+        "name": "Life University Stadium",
+        "city": "Krong Preah Sihanouk",
+        "capacity": 1000,
+        "latitude": 10.6320733,
+        "longitude": 103.5218173
+    },
+    {
+        "id": 4066,
+        "name": "Kampong Cham Stadium",
+        "city": "Kampong Cham",
+        "capacity": 1000,
+        "latitude": 11.9949623,
+        "longitude": 105.4555026
+    },
+    {
+        "id": 915654961372,
+        "name": "Pursat Stadium",
+        "city": "Pursat",
+        "capacity": 2500,
+        "latitude": 12.5420826,
+        "longitude": 103.9133115
+    },
+    {
+        "id": 405232883653,
+        "name": "Kep Stadium",
+        "city": "Kep",
+        "capacity": null,
+        "latitude": 10.4916384,
+        "longitude": 104.2918142
+    },
+    {
+        "id": 751163678926,
+        "name": "Lion Soccer Club",
+        "city": "Krong Siem Reap",
+        "capacity": null,
+        "latitude": 13.3560192,
+        "longitude": 103.8453899
+    },
+    {
+        "id": 788773569327,
+        "name": "Tbong Khmum Stadium",
+        "city": "Suong",
+        "capacity": null,
+        "latitude": 11.6828165,
+        "longitude": 104.876189
+    }
+]
