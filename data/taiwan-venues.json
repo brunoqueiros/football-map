@@ -1,0 +1,58 @@
+[
+  {
+    "id": 5722,
+    "name": "Tainan Football Field",
+    "city": "Tainan",
+    "capacity": 5000,
+    "latitude": 22.975556,
+    "longitude": 120.209722
+  },
+  {
+    "id": 5732,
+    "name": "Taipei Municipal Stadium",
+    "city": "Taipei",
+    "capacity": 21000,
+    "latitude": 25.0496413,
+    "longitude": 121.5517379
+  },
+  {
+    "id": 3890,
+    "name": "Kaohsiung National Stadium",
+    "city": "Gaoxiong",
+    "capacity": 55000,
+    "latitude": 22.7031213,
+    "longitude": 120.2944653
+  },
+  {
+    "id": 7965,
+    "name": "Hsinchu County Second Stadium",
+    "city": "Zhubei City",
+    "capacity": 3000,
+    "latitude": 24.8239682,
+    "longitude": 121.019613
+  },
+  {
+    "id": 7966,
+    "name": "Tainan Municipal Stadium",
+    "city": "Tainan",
+    "capacity": 15000,
+    "latitude": 22.97908,
+    "longitude": 120.2070394
+  },
+  {
+    "id": 754878416588,
+    "name": "Taipei Municipal Stadium",
+    "city": "Taipei City",
+    "capacity": 20000,
+    "latitude": 25.0496413,
+    "longitude": 121.5517379
+  },
+  {
+    "id": 269620084068,
+    "name": "Dajia Riverside Park Football Field",
+    "city": "Taipei",
+    "capacity": null,
+    "latitude": 25.07469,
+    "longitude": 121.5411006
+  }
+]

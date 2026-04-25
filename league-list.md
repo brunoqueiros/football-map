@@ -407,7 +407,7 @@
 # 169 | Super League
 
 
-# Chinese-Taipei
+# Taiwan
 # 589 | Taiwan Football Premier League
 
 
