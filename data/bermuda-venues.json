@@ -40,19 +40,11 @@
         "longitude": -64.8087005
     },
     {
-        "id": 4181,
-        "name": "Police Recreation Club Field",
-        "city": "Devonshire",
-        "capacity": 1000,
-        "latitude": 51.6247828,
-        "longitude": 0.0764205
-    },
-    {
         "id": 10906,
         "name": "Wellington Oval Field",
         "city": "St. George&apos;s",
         "capacity": 1000,
-        "latitude": 51.4837565,
-        "longitude": -0.1149737
+        "latitude": 32.37784659606547,
+        "longitude": -64.68890424614723
     }
 ]
