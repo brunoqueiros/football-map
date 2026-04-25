@@ -337,19 +337,19 @@
   },
   {
     "id": 19666,
-    "name": "Taishan Stadium",
-    "city": "Tai&apos;an",
+    "name": "Wenhe Sports Park Stadium",
+    "city": "Tai'an",
     "capacity": 32000,
-    "latitude": 25.055459,
-    "longitude": 121.4265919
+    "latitude": 26.65523545143639,
+    "longitude": 106.61358582863542
   },
   {
     "id": 21685,
     "name": "Taiyuan University Football Stadium",
     "city": "Taiyuan",
     "capacity": 3000,
-    "latitude": 24.1608823,
-    "longitude": 120.7194589
+    "latitude": 37.75206749474083,
+    "longitude": 112.72585652456733
   },
   {
     "id": 19669,
@@ -537,11 +537,11 @@
   },
   {
     "id": 911051369227,
-    "name": "Xingyi City Sports Center",
-    "city": "Xingyi City",
+    "name": "Guiyang Olympic Sports Center",
+    "city": "Guizhou",
     "capacity": 12000,
-    "latitude": 25.0316985,
-    "longitude": 121.566768
+    "latitude": 26.619989709311664,
+    "longitude": 106.60794086302046
   },
   {
     "id": 288601252130,
