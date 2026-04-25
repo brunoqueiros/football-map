@@ -1,0 +1,792 @@
+[
+    {
+        "id": 2433,
+        "name": "FC Energetik-Bgu Minsk",
+        "code": "ZVE",
+        "country": "Belarus",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/2433.png",
+        "venue_id": 172
+    },
+    {
+        "id": 3383,
+        "name": "Baranovichi",
+        "code": "BAR",
+        "country": "Belarus",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/3383.png",
+        "venue_id": 2203
+    },
+    {
+        "id": 3384,
+        "name": "Belshina",
+        "code": "BEL",
+        "country": "Belarus",
+        "founded": 1977,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/3384.png",
+        "venue_id": 8650
+    },
+    {
+        "id": 3387,
+        "name": "Lida",
+        "code": "LID",
+        "country": "Belarus",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/3387.png",
+        "venue_id": 2206
+    },
+    {
+        "id": 3388,
+        "name": "Lokomotiv Gomel",
+        "code": null,
+        "country": "Belarus",
+        "founded": 2008,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/3388.png",
+        "venue_id": 2207
+    },
+    {
+        "id": 3390,
+        "name": "Orsha",
+        "code": null,
+        "country": "Belarus",
+        "founded": 1956,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/3390.png",
+        "venue_id": 2208
+    },
+    {
+        "id": 3392,
+        "name": "Slonim",
+        "code": "FCS",
+        "country": "Belarus",
+        "founded": 2013,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/3392.png",
+        "venue_id": 2209
+    },
+    {
+        "id": 3395,
+        "name": "Volna",
+        "code": "VOL",
+        "country": "Belarus",
+        "founded": 1989,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/3395.png",
+        "venue_id": 2211
+    },
+    {
+        "id": 7798,
+        "name": "Molodechno-DYuSSh 4",
+        "code": "MOL",
+        "country": "Belarus",
+        "founded": 1989,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/7798.png",
+        "venue_id": 1759
+    },
+    {
+        "id": 7802,
+        "name": "Bumprom",
+        "code": null,
+        "country": "Belarus",
+        "founded": 2016,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/7802.png",
+        "venue_id": 900001
+    },
+    {
+        "id": 7808,
+        "name": "ML Vitebsk",
+        "code": null,
+        "country": "Belarus",
+        "founded": 1983,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/7808.png",
+        "venue_id": 5648
+    },
+    {
+        "id": 11266,
+        "name": "Dinamo Minsk II",
+        "code": null,
+        "country": "Belarus",
+        "founded": 1927,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/11266.png",
+        "venue_id": 172
+    },
+    {
+        "id": 13149,
+        "name": "Ostrovets FC",
+        "code": null,
+        "country": "Belarus",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/13149.png",
+        "venue_id": 8300
+    },
+    {
+        "id": 13151,
+        "name": "Shakhtyor Petrikov",
+        "code": null,
+        "country": "Belarus",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/13151.png",
+        "venue_id": 8301
+    },
+    {
+        "id": 16656,
+        "name": "Niva",
+        "code": null,
+        "country": "Belarus",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/16656.png",
+        "venue_id": 900004
+    },
+    {
+        "id": 23271,
+        "name": "ABFF U17",
+        "code": null,
+        "country": "Belarus",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/23271.png",
+        "venue_id": 900005
+    },
+    {
+        "id": 23272,
+        "name": "BATE II",
+        "code": null,
+        "country": "Belarus",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/23272.png",
+        "venue_id": 900006
+    },
+    {
+        "id": 23273,
+        "name": "Torpedo BelAZ II",
+        "code": null,
+        "country": "Belarus",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/23273.png",
+        "venue_id": 900007
+    },
+    {
+        "id": 3389,
+        "name": "NFK Minsk",
+        "code": "KRU",
+        "country": "Belarus",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/3389.png",
+        "venue_id": 163
+    },
+    {
+        "id": 7793,
+        "name": "DYuSSh-3 Pinsk",
+        "code": null,
+        "country": "Belarus",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/7793.png",
+        "venue_id": 5647
+    },
+    {
+        "id": 7794,
+        "name": "Energosbyt-BSATU",
+        "code": "ENE",
+        "country": "Belarus",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/7794.png",
+        "venue_id": 5642
+    },
+    {
+        "id": 11249,
+        "name": "Minsk II",
+        "code": null,
+        "country": "Belarus",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/11249.png",
+        "venue_id": 170
+    },
+    {
+        "id": 11250,
+        "name": "Polotsk",
+        "code": "POL",
+        "country": "Belarus",
+        "founded": 2004,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/11250.png",
+        "venue_id": 7521
+    },
+    {
+        "id": 11263,
+        "name": "Vitebsk II",
+        "code": null,
+        "country": "Belarus",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/11263.png",
+        "venue_id": 7529
+    },
+    {
+        "id": 11267,
+        "name": "Dnepr Mogilev II",
+        "code": null,
+        "country": "Belarus",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/11267.png",
+        "venue_id": 7531
+    },
+    {
+        "id": 13144,
+        "name": "BGU Minsk",
+        "code": null,
+        "country": "Belarus",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/13144.png",
+        "venue_id": 900008
+    },
+    {
+        "id": 13970,
+        "name": "Stroitel Kapyl",
+        "code": null,
+        "country": "Hungary",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/13970.png",
+        "venue_id": 11574
+    },
+    {
+        "id": 16638,
+        "name": "Gazovik",
+        "code": null,
+        "country": "Belarus",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/16638.png",
+        "venue_id": 900009
+    },
+    {
+        "id": 16709,
+        "name": "Partizan Salihorsk",
+        "code": null,
+        "country": "Belarus",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/16709.png",
+        "venue_id": 900010
+    },
+    {
+        "id": 18856,
+        "name": "Traktor Minsk",
+        "code": null,
+        "country": "Belarus",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/18856.png",
+        "venue_id": 900011
+    },
+    {
+        "id": 18857,
+        "name": "Uni Minsk",
+        "code": null,
+        "country": "Belarus",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/18857.png",
+        "venue_id": 900012
+    },
+    {
+        "id": 19663,
+        "name": "Dinamo Brest II",
+        "code": null,
+        "country": "Belarus",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/19663.png",
+        "venue_id": 900013
+    },
+    {
+        "id": 21252,
+        "name": "Smorgon II",
+        "code": null,
+        "country": "Belarus",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/21252.png",
+        "venue_id": 900014
+    },
+    {
+        "id": 23432,
+        "name": "Arsenal II",
+        "code": null,
+        "country": "Belarus",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/23432.png",
+        "venue_id": 900015
+    },
+    {
+        "id": 23433,
+        "name": "Gomel II",
+        "code": null,
+        "country": "Belarus",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/23433.png",
+        "venue_id": 900016
+    },
+    {
+        "id": 23434,
+        "name": "Isloch II",
+        "code": null,
+        "country": "Belarus",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/23434.png",
+        "venue_id": 900017
+    },
+    {
+        "id": 23435,
+        "name": "Naftan II",
+        "code": null,
+        "country": "Belarus",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/23435.png",
+        "venue_id": 900018
+    },
+    {
+        "id": 23436,
+        "name": "Neman Grodno II",
+        "code": null,
+        "country": "Belarus",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/23436.png",
+        "venue_id": 900019
+    },
+    {
+        "id": 23437,
+        "name": "Slavia II",
+        "code": null,
+        "country": "Belarus",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/23437.png",
+        "venue_id": 900020
+    },
+    {
+        "id": 23438,
+        "name": "Slutsk II",
+        "code": null,
+        "country": "Belarus",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/23438.png",
+        "venue_id": 900021
+    },
+    {
+        "id": 379,
+        "name": "FC Slutsk",
+        "code": "SLU",
+        "country": "Belarus",
+        "founded": 1998,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/379.png",
+        "venue_id": 169
+    },
+    {
+        "id": 380,
+        "name": "FC Minsk",
+        "code": "MIN",
+        "country": "Belarus",
+        "founded": 2003,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/380.png",
+        "venue_id": 163
+    },
+    {
+        "id": 382,
+        "name": "FC Vitebsk",
+        "code": null,
+        "country": "Belarus",
+        "founded": 1960,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/382.png",
+        "venue_id": 164
+    },
+    {
+        "id": 383,
+        "name": "Torpedo Minsk",
+        "code": "TAR",
+        "country": "Belarus",
+        "founded": 1947,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/383.png",
+        "venue_id": 170
+    },
+    {
+        "id": 384,
+        "name": "FC Dnepr Mogilev",
+        "code": "DNE",
+        "country": "Belarus",
+        "founded": 1960,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/384.png",
+        "venue_id": 2595
+    },
+    {
+        "id": 385,
+        "name": "Torpedo Zhodino",
+        "code": "ZHO",
+        "country": "Belarus",
+        "founded": 1961,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/385.png",
+        "venue_id": 171
+    },
+    {
+        "id": 386,
+        "name": "Dinamo Brest",
+        "code": "BRE",
+        "country": "Belarus",
+        "founded": 1960,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/386.png",
+        "venue_id": 160
+    },
+    {
+        "id": 387,
+        "name": "Neman",
+        "code": "NEM",
+        "country": "Belarus",
+        "founded": 1964,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/387.png",
+        "venue_id": 10497
+    },
+    {
+        "id": 388,
+        "name": "Bate Borisov",
+        "code": "BAT",
+        "country": "Belarus",
+        "founded": 1973,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/388.png",
+        "venue_id": 7764
+    },
+    {
+        "id": 389,
+        "name": "FC Gomel",
+        "code": "GOM",
+        "country": "Belarus",
+        "founded": 1959,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/389.png",
+        "venue_id": 162
+    },
+    {
+        "id": 391,
+        "name": "FC Isloch Minsk R.",
+        "code": null,
+        "country": "Belarus",
+        "founded": 2007,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/391.png",
+        "venue_id": 1759
+    },
+    {
+        "id": 392,
+        "name": "Shakhter Soligorsk",
+        "code": "SOL",
+        "country": "Belarus",
+        "founded": 1963,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/392.png",
+        "venue_id": 167
+    },
+    {
+        "id": 394,
+        "name": "Dinamo Minsk",
+        "code": "MIN",
+        "country": "Belarus",
+        "founded": 1927,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/394.png",
+        "venue_id": 2606
+    },
+    {
+        "id": 750,
+        "name": "Naftan",
+        "code": "NAF",
+        "country": "Belarus",
+        "founded": 1963,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/750.png",
+        "venue_id": 2202
+    },
+    {
+        "id": 751,
+        "name": "Slavia Mozyr",
+        "code": "SLA",
+        "country": "Belarus",
+        "founded": 1987,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/751.png",
+        "venue_id": 168
+    },
+    {
+        "id": 3393,
+        "name": "Smorgon",
+        "code": "SMO",
+        "country": "Belarus",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/3393.png",
+        "venue_id": 2210
+    },
+    {
+        "id": 4273,
+        "name": "Osipovichy",
+        "code": null,
+        "country": "Belarus",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/4273.png",
+        "venue_id": 3268
+    },
+    {
+        "id": 7795,
+        "name": "Gorki",
+        "code": "GOR",
+        "country": "Belarus",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/7795.png",
+        "venue_id": 900025
+    },
+    {
+        "id": 7796,
+        "name": "Ivatsevichi",
+        "code": null,
+        "country": "Belarus",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/7796.png",
+        "venue_id": 5643
+    },
+    {
+        "id": 7797,
+        "name": "Kletsk",
+        "code": null,
+        "country": "Belarus",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/7797.png",
+        "venue_id": 5644
+    },
+    {
+        "id": 9419,
+        "name": "Arsenal",
+        "code": null,
+        "country": "Belarus",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/9419.png",
+        "venue_id": 900015
+    },
+    {
+        "id": 11248,
+        "name": "Kobrin",
+        "code": null,
+        "country": "Belarus",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/11248.png",
+        "venue_id": 7519
+    },
+    {
+        "id": 11269,
+        "name": "Miory",
+        "code": null,
+        "country": "Belarus",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/11269.png",
+        "venue_id": 7523
+    },
+    {
+        "id": 13968,
+        "name": "Novaya Pripyat",
+        "code": null,
+        "country": "Belarus",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/13968.png",
+        "venue_id": 11566
+    },
+    {
+        "id": 16643,
+        "name": "Kolos Cherven",
+        "code": null,
+        "country": "Belarus",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/16643.png",
+        "venue_id": 900028
+    },
+    {
+        "id": 16649,
+        "name": "Leskhoz",
+        "code": null,
+        "country": "Belarus",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/16649.png",
+        "venue_id": 900030
+    },
+    {
+        "id": 16653,
+        "name": "Mozyr NPZ",
+        "code": null,
+        "country": "Belarus",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/16653.png",
+        "venue_id": 900031
+    },
+    {
+        "id": 16655,
+        "name": "Nadezhda",
+        "code": null,
+        "country": "Belarus",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/16655.png",
+        "venue_id": 900032
+    },
+    {
+        "id": 16664,
+        "name": "Slonim City",
+        "code": null,
+        "country": "Belarus",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/16664.png",
+        "venue_id": 900033
+    },
+    {
+        "id": 16667,
+        "name": "Svislach",
+        "code": null,
+        "country": "Belarus",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/16667.png",
+        "venue_id": 900034
+    },
+    {
+        "id": 16729,
+        "name": "Urozhaynaya",
+        "code": null,
+        "country": "Belarus",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/16729.png",
+        "venue_id": 172
+    },
+    {
+        "id": 18850,
+        "name": "Kirovsk",
+        "code": null,
+        "country": "Belarus",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/18850.png",
+        "venue_id": 900036
+    },
+    {
+        "id": 18980,
+        "name": "Tekhnolog",
+        "code": null,
+        "country": "Belarus",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/18980.png",
+        "venue_id": 900037
+    },
+    {
+        "id": 21238,
+        "name": "Agro-Pelishche",
+        "code": null,
+        "country": "Belarus",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/21238.png",
+        "venue_id": 900038
+    },
+    {
+        "id": 21241,
+        "name": "Drut Belynichi",
+        "code": null,
+        "country": "Belarus",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/21241.png",
+        "venue_id": 900039
+    },
+    {
+        "id": 21245,
+        "name": "Kommunalnik Beloozersk",
+        "code": null,
+        "country": "Belarus",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/21245.png",
+        "venue_id": 900040
+    },
+    {
+        "id": 21246,
+        "name": "Lyakhavitski Volat",
+        "code": null,
+        "country": "Belarus",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/21246.png",
+        "venue_id": 900041
+    },
+    {
+        "id": 23680,
+        "name": "DMedia",
+        "code": null,
+        "country": "Belarus",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/23680.png",
+        "venue_id": 900042
+    },
+    {
+        "id": 23681,
+        "name": "Inform",
+        "code": null,
+        "country": "Belarus",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/23681.png",
+        "venue_id": 900043
+    }
+]

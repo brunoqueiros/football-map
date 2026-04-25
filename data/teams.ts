@@ -15,3 +15,4 @@ export { default as azerbaijan } from './azerbaijan-teams.json';
 export { default as barein } from './barein-teams.json';
 export { default as bangladesh } from './bangladesh-teams.json';
 export { default as barbados } from './barbados-teams.json';
+export { default as belarus } from './belarus-teams.json';

@@ -1,0 +1,586 @@
+[
+    {
+        "id": 172,
+        "name": "Stadyen RTsOP-BGU",
+        "city": "Minsk",
+        "capacity": 1500,
+        "latitude": 53.85950709999999,
+        "longitude": 27.5007802
+    },
+    {
+        "id": 2203,
+        "name": "Stadyen Lyakamatyu",
+        "city": "Baranovichi",
+        "capacity": 4000,
+        "latitude": 53.1297073,
+        "longitude": 26.0313512
+    },
+    {
+        "id": 8650,
+        "name": "Stadyen Spartak",
+        "city": "Bobruisk",
+        "capacity": 3661,
+        "latitude": 53.1404316,
+        "longitude": 29.2172921
+    },
+    {
+        "id": 2206,
+        "name": "Stadyen Start",
+        "city": "Lida",
+        "capacity": 3000,
+        "latitude": 51.9083753,
+        "longitude": 4.5069361
+    },
+    {
+        "id": 2207,
+        "name": "Stadyen DYuSSh-8",
+        "city": "Gomel",
+        "capacity": 2200,
+        "latitude": 52.43349869999999,
+        "longitude": 31.0192172
+    },
+    {
+        "id": 2208,
+        "name": "Stadyen Haradski",
+        "city": "Orsha",
+        "capacity": 2600,
+        "latitude": 54.299933,
+        "longitude": 26.8297718
+    },
+    {
+        "id": 2209,
+        "name": "Stadyen Yunatstva",
+        "city": "Slonim",
+        "capacity": 2220,
+        "latitude": 53.09767970000001,
+        "longitude": 25.3065356
+    },
+    {
+        "id": 2211,
+        "name": "Stadyen Valna",
+        "city": "Pinsk",
+        "capacity": 3136,
+        "latitude": 52.12302889999999,
+        "longitude": 26.1260891
+    },
+    {
+        "id": 1759,
+        "name": "Stadyen Haradski",
+        "city": "Molodechno",
+        "capacity": 4312,
+        "latitude": 54.299933,
+        "longitude": 26.8297718
+    },
+    {
+        "id": 900001,
+        "name": "Центральный стадион",
+        "city": "Гомель",
+        "capacity": 14307,
+        "latitude": 52.4365695,
+        "longitude": 31.0119149
+    },
+    {
+        "id": 5648,
+        "name": "Stadyen DYuSSh-1",
+        "city": "Rohachev",
+        "capacity": 7000,
+        "latitude": 53.0801904,
+        "longitude": 30.0539399
+    },
+    {
+        "id": 8300,
+        "name": "Stadyen ASK",
+        "city": "Astravets",
+        "capacity": 1500,
+        "latitude": 54.7601909,
+        "longitude": 26.0919944
+    },
+    {
+        "id": 8301,
+        "name": "Stadyen FOK Prypiać",
+        "city": "Petrykaŭ",
+        "capacity": 1500,
+        "latitude": 52.12681569999999,
+        "longitude": 28.4930942
+    },
+    {
+        "id": 900004,
+        "name": "Dolbizno Stadium",
+        "city": "Dolbizno",
+        "capacity": 300,
+        "latitude": 52.48911829999999,
+        "longitude": 23.4508394
+    },
+    {
+        "id": 900005,
+        "name": "ABFF Technical Centre",
+        "city": "Minsk",
+        "capacity": null,
+        "latitude": 53.9350103,
+        "longitude": 27.5024777
+    },
+    {
+        "id": 900006,
+        "name": "City Stadium",
+        "city": "Barysaŭ",
+        "capacity": 5402,
+        "latitude": 54.192864,
+        "longitude": 28.4758124
+    },
+    {
+        "id": 900007,
+        "name": "Torpedo Stadium",
+        "city": "Zhodino",
+        "capacity": 6524,
+        "latitude": 54.0925199,
+        "longitude": 28.3199195
+    },
+    {
+        "id": 163,
+        "name": "Stadion FK Minsk",
+        "city": "Minsk",
+        "capacity": 3100,
+        "latitude": 53.86234109999999,
+        "longitude": 27.5773902
+    },
+    {
+        "id": 5647,
+        "name": "Stadyen Akademii Futbola",
+        "city": "Pinsk",
+        "capacity": 1000,
+        "latitude": 52.1387514,
+        "longitude": 26.0653617
+    },
+    {
+        "id": 5642,
+        "name": "Stadyen BGATU (BATU)",
+        "city": "Minsk",
+        "capacity": 1000,
+        "latitude": 53.91914689999999,
+        "longitude": 27.5907951
+    },
+    {
+        "id": 170,
+        "name": "Stadyen Tarpeda",
+        "city": "Minsk",
+        "capacity": 5200,
+        "latitude": 53.8695132,
+        "longitude": 27.6583505
+    },
+    {
+        "id": 7521,
+        "name": "Stadyen Spartak",
+        "city": "Polatsk",
+        "capacity": 5000,
+        "latitude": 55.4879822,
+        "longitude": 28.7654452
+    },
+    {
+        "id": 7529,
+        "name": "CSK Vitebskiy Iskusstvennoe pole",
+        "city": "Vitebsk",
+        "capacity": 1138,
+        "latitude": 55.1986351,
+        "longitude": 30.2292454
+    },
+    {
+        "id": 7531,
+        "name": "Stadion SDYuShOR-7",
+        "city": "Mogilev",
+        "capacity": 1000,
+        "latitude": 53.917678,
+        "longitude": 30.3197481
+    },
+    {
+        "id": 900008,
+        "name": "RCOP BGU Stadium",
+        "city": "Minsk",
+        "capacity": null,
+        "latitude": 53.892166,
+        "longitude": 27.5659948
+    },
+    {
+        "id": 11574,
+        "name": "Stadyen Haradski Kopyl",
+        "city": "Kapyl",
+        "capacity": 3200,
+        "latitude": 53.1511134,
+        "longitude": 27.0908124
+    },
+    {
+        "id": 900009,
+        "name": "Vitebsky Central Sport Complex",
+        "city": "Vitebsk",
+        "capacity": 8144,
+        "latitude": 55.1986351,
+        "longitude": 30.2292454
+    },
+    {
+        "id": 900010,
+        "name": "Stroitel Stadium",
+        "city": "Salihorsk",
+        "capacity": null,
+        "latitude": 52.7986689,
+        "longitude": 27.5381003
+    },
+    {
+        "id": 900011,
+        "name": "Traktor Stadium",
+        "city": "Minsk",
+        "capacity": 17600,
+        "latitude": 53.881407,
+        "longitude": 27.6173726
+    },
+    {
+        "id": 900012,
+        "name": "Stadium RCOP-BGU",
+        "city": "Minsk",
+        "capacity": 1500,
+        "latitude": 53.8595067,
+        "longitude": 27.5010282
+    },
+    {
+        "id": 900013,
+        "name": "OSK Brestsky",
+        "city": "Brest",
+        "capacity": 10169,
+        "latitude": 52.0896102,
+        "longitude": 23.6826961
+    },
+    {
+        "id": 900014,
+        "name": "Yunost Stadium",
+        "city": "Smarhon",
+        "capacity": 3500,
+        "latitude": 53.09767970000001,
+        "longitude": 25.3065356
+    },
+    {
+        "id": 900015,
+        "name": "City Stadium",
+        "city": "Dzerzhinsk",
+        "capacity": 1150,
+        "latitude": 53.683575481054525,
+        "longitude": 27.138477266602546
+    },
+    {
+        "id": 900016,
+        "name": "Gomel Regional Olympic Reserve Center Stadium",
+        "city": "Gomel",
+        "capacity": 1500,
+        "latitude": 52.4331053,
+        "longitude": 31.0071644
+    },
+    {
+        "id": 900017,
+        "name": "FC Minsk Stadium",
+        "city": "Minsk",
+        "capacity": 3000,
+        "latitude": 53.86234109999999,
+        "longitude": 27.5773902
+    },
+    {
+        "id": 900018,
+        "name": "Atlant Stadium",
+        "city": "Novopolotsk",
+        "capacity": 4522,
+        "latitude": 55.53769930000001,
+        "longitude": 28.6484657
+    },
+    {
+        "id": 900019,
+        "name": "Grodno Artificial Field",
+        "city": "Grodno",
+        "capacity": null,
+        "latitude": 53.6840826,
+        "longitude": 23.8360908
+    },
+    {
+        "id": 900020,
+        "name": "Yunost Stadium",
+        "city": "Mozyr",
+        "capacity": 5300,
+        "latitude": 52.0389801,
+        "longitude": 29.2768052
+    },
+    {
+        "id": 900021,
+        "name": "Stadion Haradski",
+        "city": "Slutsk",
+        "capacity": 1896,
+        "latitude": 53.0217651,
+        "longitude": 27.5462407
+    },
+    {
+        "id": 169,
+        "name": "Stadyen Haradski",
+        "city": "Slutsk",
+        "capacity": 2150,
+        "latitude": 53.0217651,
+        "longitude": 27.5462407
+    },
+    {
+        "id": 164,
+        "name": "Stadyen Central'ny Vitsyebski",
+        "city": "Vitebsk",
+        "capacity": 8144,
+        "latitude": 55.1986351,
+        "longitude": 30.2292454
+    },
+    {
+        "id": 2595,
+        "name": "Stadyen Spartak",
+        "city": "Mogilev",
+        "capacity": 7350,
+        "latitude": 53.9057121,
+        "longitude": 30.3405439
+    },
+    {
+        "id": 171,
+        "name": "Stadyen Tarpeda",
+        "city": "Zhodino",
+        "capacity": 6524,
+        "latitude": 54.0925199,
+        "longitude": 28.3199195
+    },
+    {
+        "id": 160,
+        "name": "Stadyen DASK Brestski",
+        "city": "Brest",
+        "capacity": 10169,
+        "latitude": 48.4028861,
+        "longitude": -4.461456699999999
+    },
+    {
+        "id": 10497,
+        "name": "Stadion Neman",
+        "city": "Grodno",
+        "capacity": 9000,
+        "latitude": 53.6889064,
+        "longitude": 23.8208652
+    },
+    {
+        "id": 7764,
+        "name": "Borisov Arena",
+        "city": "Borisov",
+        "capacity": 13126,
+        "latitude": 54.192864,
+        "longitude": 28.4758124
+    },
+    {
+        "id": 162,
+        "name": "Stadyen Central'ny",
+        "city": "Gomel",
+        "capacity": 14307,
+        "latitude": 52.4365695,
+        "longitude": 31.0119149
+    },
+    {
+        "id": 167,
+        "name": "Stadyen Budaŭnik (Stroitel')",
+        "city": "Soligorsk",
+        "capacity": 4200,
+        "latitude": 52.7986689,
+        "longitude": 27.5381003
+    },
+    {
+        "id": 2606,
+        "name": "Stadyen Dynama",
+        "city": "Minsk",
+        "capacity": 41024,
+        "latitude": 53.8951794,
+        "longitude": 27.5602867
+    },
+    {
+        "id": 2202,
+        "name": "Stadyen Atlant",
+        "city": "Novopolotsk",
+        "capacity": 4522,
+        "latitude": 55.53769930000001,
+        "longitude": 28.6484657
+    },
+    {
+        "id": 168,
+        "name": "Stadyen Junatsva",
+        "city": "Mozyr",
+        "capacity": 5371,
+        "latitude": 52.0389801,
+        "longitude": 29.2768052
+    },
+    {
+        "id": 2210,
+        "name": "Stadyen Junatstva",
+        "city": "Smorgon",
+        "capacity": 3500,
+        "latitude": 54.4750408,
+        "longitude": 26.4197533
+    },
+    {
+        "id": 3268,
+        "name": "Stadyen Junatstva",
+        "city": "Osipovichy",
+        "capacity": 2200,
+        "latitude": 53.3239485,
+        "longitude": 28.6438864
+    },
+    {
+        "id": 900025,
+        "name": "City Stadium",
+        "city": "Gorki",
+        "capacity": 1939,
+        "latitude": 53.4831634,
+        "longitude": -2.2003736
+    },
+    {
+        "id": 5643,
+        "name": "Klenovka Arena",
+        "city": "Ivatsevichy",
+        "capacity": 2000,
+        "latitude": 52.71756509999999,
+        "longitude": 25.3219138
+    },
+    {
+        "id": 5644,
+        "name": "Stadyen Haradski",
+        "city": "Kletsk",
+        "capacity": 1000,
+        "latitude": 54.2229609,
+        "longitude": 28.4903308
+    },
+    {
+        "id": 7519,
+        "name": "Stadyen Junatstva",
+        "city": "Kobryn",
+        "capacity": 2000,
+        "latitude": 52.21175849999999,
+        "longitude": 24.3562415
+    },
+    {
+        "id": 7523,
+        "name": "Stadyen Haradski",
+        "city": "Miory",
+        "capacity": 2000,
+        "latitude": 54.2229609,
+        "longitude": 28.4903308
+    },
+    {
+        "id": 11566,
+        "name": "Stadyen Škol’nyj",
+        "city": "Ol&apos;shany",
+        "capacity": 3000,
+        "latitude": 52.07637580000001,
+        "longitude": 27.3532603
+    },
+    {
+        "id": 900028,
+        "name": "Haradski Stadyen",
+        "city": "Cherven",
+        "capacity": null,
+        "latitude": 54.299933,
+        "longitude": 26.8297718
+    },
+    {
+        "id": 900030,
+        "name": "SDYuShOR 7",
+        "city": "Gomel",
+        "capacity": null,
+        "latitude": 52.38377943190671,
+        "longitude": 31.03719024448521
+    },
+    {
+        "id": 900031,
+        "name": "SDYUSHOR No. 3 Stadium",
+        "city": "Mozyr",
+        "capacity": null,
+        "latitude": 52.0330886,
+        "longitude": 29.2609367
+    },
+    {
+        "id": 900032,
+        "name": "Spartak Stadium",
+        "city": "Mogilev",
+        "capacity": 7350,
+        "latitude": 53.9057121,
+        "longitude": 30.3405439
+    },
+    {
+        "id": 900033,
+        "name": "Yunost Stadium",
+        "city": "Slonim",
+        "capacity": 2220,
+        "latitude": 53.09767970000001,
+        "longitude": 25.3065356
+    },
+    {
+        "id": 900034,
+        "name": "Svislach Stadium",
+        "city": "Svislach",
+        "capacity": 1000,
+        "latitude": 53.0324392,
+        "longitude": 24.0851565
+    },
+    {
+        "id": 900036,
+        "name": "Detsko-Yunosheskaya Sportivnaya Shkoly",
+        "city": "Kirawsk",
+        "capacity": null,
+        "latitude": 53.27418776070088,
+        "longitude": 29.466338271494465
+    },
+    {
+        "id": 900037,
+        "name": "Стадион г. Червень",
+        "city": "Червень",
+        "capacity": null,
+        "latitude": 53.7011932,
+        "longitude": 28.4173127
+    },
+    {
+        "id": 900038,
+        "name": "Stadion Pelishche",
+        "city": "Pelishche",
+        "capacity": null,
+        "latitude": 52.3212091,
+        "longitude": 23.9317179
+    },
+    {
+        "id": 900039,
+        "name": "City Stadium",
+        "city": "Belynichi",
+        "capacity": null,
+        "latitude": 53.4831634,
+        "longitude": -2.2003736
+    },
+    {
+        "id": 900040,
+        "name": "City Stadium",
+        "city": "Beloozyorsk",
+        "capacity": 1000,
+        "latitude": 53.0217651,
+        "longitude": 27.5462407
+    },
+    {
+        "id": 900041,
+        "name": "Lyakhovichi City Stadium",
+        "city": "Lyakhovichi",
+        "capacity": null,
+        "latitude": 54.299933,
+        "longitude": 26.8297718
+    },
+    {
+        "id": 900042,
+        "name": "SOK Olimpyski Stadium",
+        "city": "Minsk",
+        "capacity": 1500,
+        "latitude": 53.8951794,
+        "longitude": 27.5602867
+    },
+    {
+        "id": 900043,
+        "name": "City Stadium",
+        "city": "Волковыск",
+        "capacity": 1000,
+        "latitude": 53.1614124,
+        "longitude": 24.4773889
+    }
+]
