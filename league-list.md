@@ -522,3 +522,44 @@
 # 889 | Second League - Group C
 # 1014 | Second League - Play-offs
 # 539 | Super Cup
+
+
+# El-Salvador
+# 1219 | Copa Presidente
+# 370 | Primera Division
+
+
+# England
+# 40 | Championship
+# 528 | Community Shield
+# 46 | EFL Trophy
+# 45 | FA Cup
+# 47 | FA Trophy
+# 48 | League Cup
+# 41 | League One
+# 42 | League Two
+# 43 | National League
+# 50 | National League - North
+# 984 | National League - North - Play-offs
+# 49 | National League - Play-offs
+# 51 | National League - South
+# 985 | National League - South - Play-offs
+# 1156 | National League Cup
+# 52 | Non League Div One - Isthmian North
+# 53 | Non League Div One - Isthmian South Central
+# 57 | Non League Div One - Isthmian South East
+# 932 | Non League Div One - Northern East
+# 55 | Non League Div One - Northern Midlands
+# 54 | Non League Div One - Northern West
+# 986 | Non League Div One - Play-offs
+# 933 | Non League Div One - Southern Central
+# 56 | Non League Div One - Southern South
+# 58 | Non League Premier - Isthmian
+# 993 | Non League Premier - Isthmian - Play-offs
+# 59 | Non League Premier - Northern
+# 994 | Non League Premier - Northern - Play-offs
+# 931 | Non League Premier - Southern Central
+# 996 | Non League Premier - Southern Central - Play-offs
+# 60 | Non League Premier - Southern South
+# 995 | Non League Premier - Southern South - Play-offs
+# 39 | Premier League

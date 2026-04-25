@@ -1,0 +1,194 @@
+[
+  {
+    "id": 4072,
+    "name": "Stade de Ngoa Ekélé",
+    "city": "Yaoundé",
+    "capacity": 5000,
+    "latitude": 3.8496724,
+    "longitude": 11.4989117
+  },
+  {
+    "id": 4077,
+    "name": "Stade de la Réunification",
+    "city": "Douala",
+    "capacity": 30000,
+    "latitude": 4.0559743,
+    "longitude": 9.718848099999999
+  },
+  {
+    "id": 22567,
+    "name": "Stade Municipal de Mbalmayo",
+    "city": "Mbalmayo",
+    "capacity": 5000,
+    "latitude": 3.519152,
+    "longitude": 11.5114512
+  },
+  {
+    "id": 4073,
+    "name": "Stade Omnisport Roumdé Adjia",
+    "city": "Garoua",
+    "capacity": 22000,
+    "latitude": 9.326271,
+    "longitude": 13.3993471
+  },
+  {
+    "id": 4075,
+    "name": "Centre sportif académique de Mbankomo",
+    "city": "Mbankomo",
+    "capacity": 1000,
+    "latitude": 3.7794316,
+    "longitude": 11.354967
+  },
+  {
+    "id": 4076,
+    "name": "Stade de Mbouda",
+    "city": "Mbouda",
+    "capacity": 5000,
+    "latitude": 5.6235273,
+    "longitude": 10.2459486
+  },
+  {
+    "id": 818096573553,
+    "name": "Molyko Omnisport Stadium",
+    "city": "Buea",
+    "capacity": 8000,
+    "latitude": 4.1606089,
+    "longitude": 9.2798558
+  },
+  {
+    "id": 4078,
+    "name": "Stade Municipal de Mélong",
+    "city": "Mélong",
+    "capacity": 1000,
+    "latitude": 5.1178826,
+    "longitude": 9.946781699999999
+  },
+  {
+    "id": 4080,
+    "name": "Stade Municipal de Loum",
+    "city": "Loum",
+    "capacity": 3000,
+    "latitude": 4.7218239,
+    "longitude": 9.736435199999999
+  },
+  {
+    "id": 4082,
+    "name": "Stade Municipal Mankon",
+    "city": "Bamenda",
+    "capacity": 5000,
+    "latitude": 5.9563845,
+    "longitude": 10.1496686
+  },
+  {
+    "id": 4169,
+    "name": "Stade du CENAJES",
+    "city": "Dschang",
+    "capacity": 2000,
+    "latitude": 5.4533521,
+    "longitude": 10.0646722
+  },
+  {
+    "id": 4170,
+    "name": "Stade Municipal de Mbouda",
+    "city": "Mbouda",
+    "capacity": 11000,
+    "latitude": 5.6235273,
+    "longitude": 10.2459486
+  },
+  {
+    "id": 308,
+    "name": "Stade Omnisport Ahmadou Ahidjo",
+    "city": "Yaoundé",
+    "capacity": 38509,
+    "latitude": 3.885493,
+    "longitude": 11.5406096
+  },
+  {
+    "id": 4731,
+    "name": "Complexe Sportif du Coton Sport de Garoua",
+    "city": "Garoua",
+    "capacity": 30000,
+    "latitude": 9.3706131,
+    "longitude": 13.3845349
+  },
+  {
+    "id": 83552048223,
+    "name": "Stade Municipal de Limbé",
+    "city": "Limbe",
+    "capacity": null,
+    "latitude": 4.0264815,
+    "longitude": 9.1605552
+  },
+  {
+    "id": 4074,
+    "name": "Stade Omnisports de Bafoussam",
+    "city": "Bafoussam",
+    "capacity": 20000,
+    "latitude": 5.478288099999999,
+    "longitude": 10.5476689
+  },
+  {
+    "id": 4081,
+    "name": "Stade Municipal Ngadjui Kamga Gaston",
+    "city": "Bafang",
+    "capacity": 5000,
+    "latitude": 5.1610652,
+    "longitude": 10.1774007
+  },
+  {
+    "id": 237332429254,
+    "name": "Stade Ahmadou Ahidjo",
+    "city": "Yaoundé",
+    "capacity": 42500,
+    "latitude": 3.885493,
+    "longitude": 11.5406096
+  },
+  {
+    "id": 4172,
+    "name": "Stade Municipal de Bangangté",
+    "city": "Bangangté",
+    "capacity": 2000,
+    "latitude": 5.1420837,
+    "longitude": 10.5345591
+  },
+  {
+    "id": 495142816928,
+    "name": "Stade FAP",
+    "city": "Yaoundé",
+    "capacity": null,
+    "latitude": 3.9509083,
+    "longitude": 11.5405976
+  },
+  {
+    "id": 925180022478,
+    "name": "Molyko Omnisport Stadium",
+    "city": "Buea",
+    "capacity": 2000,
+    "latitude": 4.1606089,
+    "longitude": 9.2798558
+  },
+  {
+    "id": 402741977248,
+    "name": "Stade de la Réunification",
+    "city": "Douala",
+    "capacity": 30000,
+    "latitude": 4.0559743,
+    "longitude": 9.718848099999999
+  },
+  {
+    "id": 788530250542,
+    "name": "Stade Municipal de Nkongsamba",
+    "city": "Nkongsamba",
+    "capacity": 5000,
+    "latitude": 4.9569297,
+    "longitude": 9.9359112
+  },
+  {
+    "id": 372631307595,
+    "name": "Bamenda Football Stadium",
+    "city": "Bafmeng",
+    "capacity": null,
+    "latitude": 5.956478799999999,
+    "longitude": 10.1497385
+  }
+]
