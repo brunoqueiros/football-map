@@ -10,6 +10,7 @@
     "migrate": "tsx scripts/migrate-to-supabase.ts"
   },
   "dependencies": {
+    "@google/generative-ai": "^0.24.1",
     "@nozbe/microfuzz": "^1.0.0",
     "@supabase/supabase-js": "^2.90.1",
     "@vercel/analytics": "^1.6.1",

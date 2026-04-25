@@ -1,5 +1,6 @@
 const fs = require('fs');
 const https = require('https');
+const path = require('path');
 const dotenv = require('dotenv');
 
 dotenv.config();
@@ -122,7 +123,7 @@ function delay(ms) {
 }
 
 // Main conversion function
-async function convertTeamsVenues(inputFile) {
+async function convertTeamsVenues(inputFile, country) {
   console.log(`Reading input file: ${inputFile}`);
 
   const rawData = fs.readFileSync(inputFile, 'utf8');
@@ -189,9 +190,9 @@ async function convertTeamsVenues(inputFile) {
   }
 
   // Write output files
-  const teamsOutputFile = inputFile.replace('.json', '-teams.json');
-  const venuesOutputFile = inputFile.replace('.json', '-venues.json');
-  const verificationFile = inputFile.replace('.json', '-venues-verify.csv');
+  const teamsOutputFile = `./data/${country}-teams.json`; // inputFile.replace('.json', '-teams.json');
+  const venuesOutputFile = `./data/${country}-venues.json`; inputFile.replace('.json', '-venues.json');
+  // const verificationFile = inputFile.replace('.json', '-venues-verify.csv');
 
   console.log('\nWriting output files...');
   fs.writeFileSync(teamsOutputFile, JSON.stringify(teams, null, 2), 'utf8');
@@ -205,18 +206,19 @@ async function convertTeamsVenues(inputFile) {
       : 'N/A';
     return `${v.id},"${v.name}","${v.city}",${v.latitude || ''},${v.longitude || ''},${mapsLink}`;
   }).join('\n');
-  fs.writeFileSync(verificationFile, csvHeader + csvRows, 'utf8');
+  // fs.writeFileSync(verificationFile, csvHeader + csvRows, 'utf8');
 
   console.log(`\n✓ Teams written to: ${teamsOutputFile}`);
   console.log(`✓ Venues written to: ${venuesOutputFile}`);
-  console.log(`✓ Verification CSV: ${verificationFile}`);
-  console.log('\n💡 Open the CSV to verify coordinates in Google Maps');
+  // console.log(`✓ Verification CSV: ${verificationFile}`);
+  // console.log('\n💡 Open the CSV to verify coordinates in Google Maps');
   console.log('   Click the links to check if the pins are accurate\n');
   console.log('Done!');
 }
 
 // Run the script
 const inputFile = process.argv[2];
+const country = process.argv[3];
 
 if (!inputFile) {
   console.error('Error: Please provide an input JSON file');
@@ -229,7 +231,7 @@ if (!fs.existsSync(inputFile)) {
   process.exit(1);
 }
 
-convertTeamsVenues(inputFile).catch((error) => {
+convertTeamsVenues(inputFile, country).catch((error) => {
   console.error('Error:', error);
   process.exit(1);
 });
