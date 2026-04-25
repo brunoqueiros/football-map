@@ -1,0 +1,66 @@
+[
+    {
+        "id": 913756327059,
+        "name": "Changlimithang National Stadium",
+        "city": "Thimphu",
+        "capacity": 15000,
+        "latitude": 27.471371,
+        "longitude": 89.64105099999999
+    },
+    {
+        "id": 21632,
+        "name": "Changlimithang Stadium",
+        "city": "Thimphu",
+        "capacity": 15000,
+        "latitude": 27.471371,
+        "longitude": 89.64105099999999
+    },
+    {
+        "id": 20179,
+        "name": "Woochu Sports Arena",
+        "city": "Paro",
+        "capacity": 1000,
+        "latitude": 27.39772,
+        "longitude": 89.4243386
+    },
+    {
+        "id": 20180,
+        "name": "RTC Football Ground",
+        "city": "Thimphu",
+        "capacity": 1000,
+        "latitude": 27.4007672,
+        "longitude": 89.6594791
+    },
+    {
+        "id": 20707,
+        "name": "Samtse Dzongkhag Ground",
+        "city": "Samtse",
+        "capacity": 2000,
+        "latitude": 27.0291832,
+        "longitude": 89.0561532
+    },
+    {
+        "id": 192686122724,
+        "name": "Tsirang Sports Complex",
+        "city": "Tsirang",
+        "capacity": null,
+        "latitude": 27.0070043,
+        "longitude": 90.1228467
+    },
+    {
+        "id": 450911895166,
+        "name": "Changlimithang Stadium",
+        "city": "Thimphu",
+        "capacity": 15000,
+        "latitude": 27.471371,
+        "longitude": 89.64105099999999
+    },
+    {
+        "id": 504804070725,
+        "name": "Phuntsholing Sports Association Ground",
+        "city": "Phuntsholing",
+        "capacity": null,
+        "latitude": 26.8608128,
+        "longitude": 89.3862448
+    }
+]

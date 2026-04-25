@@ -1,0 +1,102 @@
+[
+    {
+        "id": 5433,
+        "name": "Bhutan U19",
+        "code": null,
+        "country": "Bhutan",
+        "founded": null,
+        "national": true,
+        "logo": "https://media.api-sports.io/football/teams/5433.png",
+        "venue_id": 913756327059
+    },
+    {
+        "id": 5590,
+        "name": "Tensung",
+        "code": null,
+        "country": "Bhutan",
+        "founded": 2016,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/5590.png",
+        "venue_id": 21632
+    },
+    {
+        "id": 5592,
+        "name": "Thimphu City",
+        "code": null,
+        "country": "Bhutan",
+        "founded": 2011,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/5592.png",
+        "venue_id": 21632
+    },
+    {
+        "id": 5593,
+        "name": "Transport United",
+        "code": null,
+        "country": "Bhutan",
+        "founded": 2000,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/5593.png",
+        "venue_id": 21632
+    },
+    {
+        "id": 9426,
+        "name": "Paro",
+        "code": null,
+        "country": "Bhutan",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/9426.png",
+        "venue_id": 20179
+    },
+    {
+        "id": 19005,
+        "name": "RTC",
+        "code": null,
+        "country": "Bhutan",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/19005.png",
+        "venue_id": 20180
+    },
+    {
+        "id": 21275,
+        "name": "Samtse",
+        "code": null,
+        "country": "Bhutan",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/21275.png",
+        "venue_id": 20707
+    },
+    {
+        "id": 21277,
+        "name": "Tsirang",
+        "code": null,
+        "country": "Bhutan",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/21277.png",
+        "venue_id": 192686122724
+    },
+    {
+        "id": 23606,
+        "name": "Daga United",
+        "code": null,
+        "country": "Bhutan",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/23606.png",
+        "venue_id": 450911895166
+    },
+    {
+        "id": 23607,
+        "name": "Phuntsholing Heroes",
+        "code": null,
+        "country": "Bhutan",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/23607.png",
+        "venue_id": 504804070725
+    }
+]
