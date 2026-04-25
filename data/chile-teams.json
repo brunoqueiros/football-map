@@ -1,0 +1,742 @@
+[
+  {
+    "id": 1951,
+    "name": "Central Norte",
+    "code": "CEN",
+    "country": "Chile",
+    "founded": 1921,
+    "national": false,
+    "logo": "https://media.api-sports.io/football/teams/1951.png",
+    "venue_id": 318
+  },
+  {
+    "id": 2315,
+    "name": "Colo Colo",
+    "code": "COL",
+    "country": "Chile",
+    "founded": 1925,
+    "national": false,
+    "logo": "https://media.api-sports.io/football/teams/2315.png",
+    "venue_id": 319
+  },
+  {
+    "id": 2316,
+    "name": "Curico Unido",
+    "code": "CUR",
+    "country": "Chile",
+    "founded": 1973,
+    "national": false,
+    "logo": "https://media.api-sports.io/football/teams/2316.png",
+    "venue_id": 326
+  },
+  {
+    "id": 2317,
+    "name": "Deportes Temuco",
+    "code": "DEP",
+    "country": "Chile",
+    "founded": 1960,
+    "national": false,
+    "logo": "https://media.api-sports.io/football/teams/2317.png",
+    "venue_id": 331
+  },
+  {
+    "id": 2318,
+    "name": "Palestino",
+    "code": "PAL",
+    "country": "Chile",
+    "founded": 1920,
+    "national": false,
+    "logo": "https://media.api-sports.io/football/teams/2318.png",
+    "venue_id": 338
+  },
+  {
+    "id": 2319,
+    "name": "Deportes Iquique",
+    "code": "IQU",
+    "country": "Chile",
+    "founded": 1978,
+    "national": false,
+    "logo": "https://media.api-sports.io/football/teams/2319.png",
+    "venue_id": 336
+  },
+  {
+    "id": 2320,
+    "name": "O'Higgins",
+    "code": "HIG",
+    "country": "Chile",
+    "founded": 1955,
+    "national": false,
+    "logo": "https://media.api-sports.io/football/teams/2320.png",
+    "venue_id": 337
+  },
+  {
+    "id": 2321,
+    "name": "Union Espanola",
+    "code": "ESP",
+    "country": "Chile",
+    "founded": 1897,
+    "national": false,
+    "logo": "https://media.api-sports.io/football/teams/2321.png",
+    "venue_id": 342
+  },
+  {
+    "id": 2322,
+    "name": "San Luis",
+    "code": "LUI",
+    "country": "Chile",
+    "founded": 1919,
+    "national": false,
+    "logo": "https://media.api-sports.io/football/teams/2322.png",
+    "venue_id": 340
+  },
+  {
+    "id": 2323,
+    "name": "Universidad de Chile",
+    "code": "CHI",
+    "country": "Chile",
+    "founded": 1927,
+    "national": false,
+    "logo": "https://media.api-sports.io/football/teams/2323.png",
+    "venue_id": 342
+  },
+  {
+    "id": 2324,
+    "name": "Universidad de Concepcion",
+    "code": "CON",
+    "country": "Chile",
+    "founded": 1994,
+    "national": false,
+    "logo": "https://media.api-sports.io/football/teams/2324.png",
+    "venue_id": 346
+  },
+  {
+    "id": 2325,
+    "name": "Everton de Vina",
+    "code": "EVE",
+    "country": "Chile",
+    "founded": 1909,
+    "national": false,
+    "logo": "https://media.api-sports.io/football/teams/2325.png",
+    "venue_id": 334
+  },
+  {
+    "id": 2326,
+    "name": "Union La Calera",
+    "code": "UNI",
+    "country": "Chile",
+    "founded": 1954,
+    "national": false,
+    "logo": "https://media.api-sports.io/football/teams/2326.png",
+    "venue_id": 343
+  },
+  {
+    "id": 2327,
+    "name": "Antofagasta",
+    "code": "ANT",
+    "country": "Chile",
+    "founded": 1966,
+    "national": false,
+    "logo": "https://media.api-sports.io/football/teams/2327.png",
+    "venue_id": 318
+  },
+  {
+    "id": 2328,
+    "name": "Huachipato",
+    "code": "HUA",
+    "country": "Chile",
+    "founded": 1947,
+    "national": false,
+    "logo": "https://media.api-sports.io/football/teams/2328.png",
+    "venue_id": 320
+  },
+  {
+    "id": 2329,
+    "name": "A. Italiano",
+    "code": "ITA",
+    "country": "Chile",
+    "founded": 1910,
+    "national": false,
+    "logo": "https://media.api-sports.io/football/teams/2329.png",
+    "venue_id": 317
+  },
+  {
+    "id": 2330,
+    "name": "Coquimbo Unido",
+    "code": "COQ",
+    "country": "Chile",
+    "founded": 1957,
+    "national": false,
+    "logo": "https://media.api-sports.io/football/teams/2330.png",
+    "venue_id": 324
+  },
+  {
+    "id": 2331,
+    "name": "Cobresal",
+    "code": "COB",
+    "country": "Chile",
+    "founded": 1979,
+    "national": false,
+    "logo": "https://media.api-sports.io/football/teams/2331.png",
+    "venue_id": 323
+  },
+  {
+    "id": 2332,
+    "name": "Cobreloa",
+    "code": "COB",
+    "country": "Chile",
+    "founded": 1977,
+    "national": false,
+    "logo": "https://media.api-sports.io/football/teams/2332.png",
+    "venue_id": 322
+  },
+  {
+    "id": 2333,
+    "name": "Santiago Wanderers",
+    "code": "WAN",
+    "country": "Chile",
+    "founded": 1892,
+    "national": false,
+    "logo": "https://media.api-sports.io/football/teams/2333.png",
+    "venue_id": 341
+  },
+  {
+    "id": 2334,
+    "name": "Deportes Valdivia",
+    "code": null,
+    "country": "Chile",
+    "founded": 1983,
+    "national": false,
+    "logo": "https://media.api-sports.io/football/teams/2334.png",
+    "venue_id": 332
+  },
+  {
+    "id": 2335,
+    "name": "Santiago Morning",
+    "code": "MOR",
+    "country": "Chile",
+    "founded": 1903,
+    "national": false,
+    "logo": "https://media.api-sports.io/football/teams/2335.png",
+    "venue_id": 328
+  },
+  {
+    "id": 2336,
+    "name": "Magallanes",
+    "code": "MAG",
+    "country": "Chile",
+    "founded": 1897,
+    "national": false,
+    "logo": "https://media.api-sports.io/football/teams/2336.png",
+    "venue_id": 335
+  },
+  {
+    "id": 2337,
+    "name": "Nublense",
+    "code": "NUB",
+    "country": "Chile",
+    "founded": 1916,
+    "national": false,
+    "logo": "https://media.api-sports.io/football/teams/2337.png",
+    "venue_id": 333
+  },
+  {
+    "id": 2338,
+    "name": "Barnechea",
+    "code": "BAR",
+    "country": "Chile",
+    "founded": 1929,
+    "national": false,
+    "logo": "https://media.api-sports.io/football/teams/2338.png",
+    "venue_id": 325
+  },
+  {
+    "id": 2339,
+    "name": "D. Melipilla",
+    "code": null,
+    "country": "Chile",
+    "founded": 1963,
+    "national": false,
+    "logo": "https://media.api-sports.io/football/teams/2339.png",
+    "venue_id": 20702
+  },
+  {
+    "id": 2340,
+    "name": "Union San Felipe",
+    "code": "FEL",
+    "country": "Chile",
+    "founded": 1956,
+    "national": false,
+    "logo": "https://media.api-sports.io/football/teams/2340.png",
+    "venue_id": 344
+  },
+  {
+    "id": 2341,
+    "name": "D. La Serena",
+    "code": "SER",
+    "country": "Chile",
+    "founded": 1955,
+    "national": false,
+    "logo": "https://media.api-sports.io/football/teams/2341.png",
+    "venue_id": 321
+  },
+  {
+    "id": 2342,
+    "name": "D. Puerto Montt",
+    "code": null,
+    "country": "Chile",
+    "founded": 1983,
+    "national": false,
+    "logo": "https://media.api-sports.io/football/teams/2342.png",
+    "venue_id": 329
+  },
+  {
+    "id": 2343,
+    "name": "Deportes Copiapo",
+    "code": "COP",
+    "country": "Chile",
+    "founded": 1999,
+    "national": false,
+    "logo": "https://media.api-sports.io/football/teams/2343.png",
+    "venue_id": 327
+  },
+  {
+    "id": 2344,
+    "name": "Rangers de Talca",
+    "code": "RAN",
+    "country": "Chile",
+    "founded": 1902,
+    "national": false,
+    "logo": "https://media.api-sports.io/football/teams/2344.png",
+    "venue_id": 339
+  },
+  {
+    "id": 2345,
+    "name": "San Marcos de Arica",
+    "code": "MAR",
+    "country": "Chile",
+    "founded": 1978,
+    "national": false,
+    "logo": "https://media.api-sports.io/football/teams/2345.png",
+    "venue_id": 2672
+  },
+  {
+    "id": 2346,
+    "name": "Deportes Santa Cruz",
+    "code": null,
+    "country": "Chile",
+    "founded": null,
+    "national": false,
+    "logo": "https://media.api-sports.io/football/teams/2346.png",
+    "venue_id": 330
+  },
+  {
+    "id": 2994,
+    "name": "U. Catolica",
+    "code": "CAT",
+    "country": "Chile",
+    "founded": 1937,
+    "national": false,
+    "logo": "https://media.api-sports.io/football/teams/2994.png",
+    "venue_id": 342
+  },
+  {
+    "id": 5633,
+    "name": "Colchagua",
+    "code": null,
+    "country": "Chile",
+    "founded": null,
+    "national": false,
+    "logo": "https://media.api-sports.io/football/teams/5633.png",
+    "venue_id": 4215
+  },
+  {
+    "id": 5634,
+    "name": "Colina",
+    "code": null,
+    "country": "Chile",
+    "founded": 2015,
+    "national": false,
+    "logo": "https://media.api-sports.io/football/teams/5634.png",
+    "venue_id": 4216
+  },
+  {
+    "id": 5635,
+    "name": "Concepción",
+    "code": "CON",
+    "country": "Chile",
+    "founded": 1966,
+    "national": false,
+    "logo": "https://media.api-sports.io/football/teams/5635.png",
+    "venue_id": 346
+  },
+  {
+    "id": 5636,
+    "name": "Deportes Rengo",
+    "code": null,
+    "country": "Chile",
+    "founded": null,
+    "national": false,
+    "logo": "https://media.api-sports.io/football/teams/5636.png",
+    "venue_id": 4217
+  },
+  {
+    "id": 5638,
+    "name": "Fernández Vial",
+    "code": null,
+    "country": "Chile",
+    "founded": null,
+    "national": false,
+    "logo": "https://media.api-sports.io/football/teams/5638.png",
+    "venue_id": 346
+  },
+  {
+    "id": 5639,
+    "name": "General Velásquez",
+    "code": null,
+    "country": "Chile",
+    "founded": 1908,
+    "national": false,
+    "logo": "https://media.api-sports.io/football/teams/5639.png",
+    "venue_id": 19598
+  },
+  {
+    "id": 5640,
+    "name": "Iberia",
+    "code": null,
+    "country": "Chile",
+    "founded": null,
+    "national": false,
+    "logo": "https://media.api-sports.io/football/teams/5640.png",
+    "venue_id": 4220
+  },
+  {
+    "id": 5641,
+    "name": "Lautaro de Buin",
+    "code": null,
+    "country": "Chile",
+    "founded": 1923,
+    "national": false,
+    "logo": "https://media.api-sports.io/football/teams/5641.png",
+    "venue_id": 4221
+  },
+  {
+    "id": 5643,
+    "name": "Provincial Osorno",
+    "code": null,
+    "country": "Chile",
+    "founded": 1983,
+    "national": false,
+    "logo": "https://media.api-sports.io/football/teams/5643.png",
+    "venue_id": 4223
+  },
+  {
+    "id": 5644,
+    "name": "Recoleta",
+    "code": null,
+    "country": "Chile",
+    "founded": null,
+    "national": false,
+    "logo": "https://media.api-sports.io/football/teams/5644.png",
+    "venue_id": 19599
+  },
+  {
+    "id": 5645,
+    "name": "San Antonio Unido",
+    "code": null,
+    "country": "Chile",
+    "founded": null,
+    "national": false,
+    "logo": "https://media.api-sports.io/football/teams/5645.png",
+    "venue_id": 4225
+  },
+  {
+    "id": 5646,
+    "name": "Trasandino",
+    "code": null,
+    "country": "Chile",
+    "founded": null,
+    "national": false,
+    "logo": "https://media.api-sports.io/football/teams/5646.png",
+    "venue_id": 4226
+  },
+  {
+    "id": 15717,
+    "name": "Linares Unido",
+    "code": null,
+    "country": "Chile",
+    "founded": 1955,
+    "national": false,
+    "logo": "https://media.api-sports.io/football/teams/15717.png",
+    "venue_id": 11133
+  },
+  {
+    "id": 16730,
+    "name": "Deportes Limache",
+    "code": null,
+    "country": "Chile",
+    "founded": null,
+    "national": false,
+    "logo": "https://media.api-sports.io/football/teams/16730.png",
+    "venue_id": 11598
+  },
+  {
+    "id": 18772,
+    "name": "Deportes Quillón",
+    "code": null,
+    "country": "Chile",
+    "founded": null,
+    "national": false,
+    "logo": "https://media.api-sports.io/football/teams/18772.png",
+    "venue_id": 692875597818
+  },
+  {
+    "id": 18775,
+    "name": "Municipal Salamanca",
+    "code": null,
+    "country": "Chile",
+    "founded": null,
+    "national": false,
+    "logo": "https://media.api-sports.io/football/teams/18775.png",
+    "venue_id": 19552
+  },
+  {
+    "id": 18776,
+    "name": "Provincial Ovalle",
+    "code": null,
+    "country": "Chile",
+    "founded": 1942,
+    "national": false,
+    "logo": "https://media.api-sports.io/football/teams/18776.png",
+    "venue_id": 19553
+  },
+  {
+    "id": 18779,
+    "name": "Real San Joaquín",
+    "code": null,
+    "country": "Chile",
+    "founded": 1963,
+    "national": false,
+    "logo": "https://media.api-sports.io/football/teams/18779.png",
+    "venue_id": 19600
+  },
+  {
+    "id": 18783,
+    "name": "Unión Compañías",
+    "code": null,
+    "country": "Chile",
+    "founded": null,
+    "national": false,
+    "logo": "https://media.api-sports.io/football/teams/18783.png",
+    "venue_id": 19601
+  },
+  {
+    "id": 20672,
+    "name": "Miramar",
+    "code": null,
+    "country": "New-Zealand",
+    "founded": null,
+    "national": false,
+    "logo": "https://media.api-sports.io/football/teams/20672.png",
+    "venue_id": 1165
+  },
+  {
+    "id": 21112,
+    "name": "Chimbarongo",
+    "code": null,
+    "country": "Chile",
+    "founded": 2014,
+    "national": false,
+    "logo": "https://media.api-sports.io/football/teams/21112.png",
+    "venue_id": 19602
+  },
+  {
+    "id": 21113,
+    "name": "Comunal Cabrero",
+    "code": null,
+    "country": "Chile",
+    "founded": 2017,
+    "national": false,
+    "logo": "https://media.api-sports.io/football/teams/21113.png",
+    "venue_id": 178167728282
+  },
+  {
+    "id": 21114,
+    "name": "Concón National",
+    "code": null,
+    "country": "Chile",
+    "founded": 1914,
+    "national": false,
+    "logo": "https://media.api-sports.io/football/teams/21114.png",
+    "venue_id": 340
+  },
+  {
+    "id": 21115,
+    "name": "Municipal Puente Alto",
+    "code": null,
+    "country": "Chile",
+    "founded": 2019,
+    "national": false,
+    "logo": "https://media.api-sports.io/football/teams/21115.png",
+    "venue_id": 521809520079
+  },
+  {
+    "id": 21117,
+    "name": "Santiago City",
+    "code": null,
+    "country": "Chile",
+    "founded": 2020,
+    "national": false,
+    "logo": "https://media.api-sports.io/football/teams/21117.png",
+    "venue_id": 17088134923
+  },
+  {
+    "id": 23550,
+    "name": "Constitución Unido",
+    "code": null,
+    "country": "Chile",
+    "founded": null,
+    "national": false,
+    "logo": "https://media.api-sports.io/football/teams/23550.png",
+    "venue_id": 642760521893
+  },
+  {
+    "id": 23551,
+    "name": "Imperial Unido",
+    "code": null,
+    "country": "Chile",
+    "founded": null,
+    "national": false,
+    "logo": "https://media.api-sports.io/football/teams/23551.png",
+    "venue_id": 833582034569
+  },
+  {
+    "id": 23553,
+    "name": "Municipal Mejillones",
+    "code": null,
+    "country": "Chile",
+    "founded": null,
+    "national": false,
+    "logo": "https://media.api-sports.io/football/teams/23553.png",
+    "venue_id": 20690
+  },
+  {
+    "id": 23556,
+    "name": "El Lucero",
+    "code": null,
+    "country": "Chile",
+    "founded": null,
+    "national": false,
+    "logo": "https://media.api-sports.io/football/teams/23556.png",
+    "venue_id": 566515410595
+  },
+  {
+    "id": 23557,
+    "name": "Juvenil Seminario",
+    "code": null,
+    "country": "Chile",
+    "founded": null,
+    "national": false,
+    "logo": "https://media.api-sports.io/football/teams/23557.png",
+    "venue_id": 582671584955
+  },
+  {
+    "id": 23558,
+    "name": "Unión Wanderers",
+    "code": null,
+    "country": "Chile",
+    "founded": 0,
+    "national": false,
+    "logo": "https://media.api-sports.io/football/teams/23558.png",
+    "venue_id": 717372465466
+  },
+  {
+    "id": 23559,
+    "name": "Vicente Rosales",
+    "code": null,
+    "country": "Chile",
+    "founded": null,
+    "national": false,
+    "logo": "https://media.api-sports.io/football/teams/23559.png",
+    "venue_id": 735080144944
+  },
+  {
+    "id": 23584,
+    "name": "11 de Septiembre",
+    "code": null,
+    "country": "Chile",
+    "founded": null,
+    "national": false,
+    "logo": "https://media.api-sports.io/football/teams/23584.png",
+    "venue_id": 425301048577
+  },
+  {
+    "id": 23585,
+    "name": "Barcelona Copiapó",
+    "code": null,
+    "country": "Chile",
+    "founded": null,
+    "national": false,
+    "logo": "https://media.api-sports.io/football/teams/23585.png",
+    "venue_id": 327
+  },
+  {
+    "id": 23586,
+    "name": "Marcos Trincado",
+    "code": null,
+    "country": "Chile",
+    "founded": null,
+    "national": false,
+    "logo": "https://media.api-sports.io/football/teams/23586.png",
+    "venue_id": 691549485097
+  },
+  {
+    "id": 23587,
+    "name": "Norte Unido",
+    "code": null,
+    "country": "Chile",
+    "founded": null,
+    "national": false,
+    "logo": "https://media.api-sports.io/football/teams/23587.png",
+    "venue_id": 927128162533
+  },
+  {
+    "id": 23588,
+    "name": "Presidente Ibáñez",
+    "code": null,
+    "country": "Chile",
+    "founded": null,
+    "national": false,
+    "logo": "https://media.api-sports.io/football/teams/23588.png",
+    "venue_id": 347014008138
+  },
+  {
+    "id": 23589,
+    "name": "Ferro Monte Águila",
+    "code": null,
+    "country": "Chile",
+    "founded": null,
+    "national": false,
+    "logo": "https://media.api-sports.io/football/teams/23589.png",
+    "venue_id": 736469239944
+  },
+  {
+    "id": 23590,
+    "name": "Glorias Navales",
+    "code": null,
+    "country": "Chile",
+    "founded": null,
+    "national": false,
+    "logo": "https://media.api-sports.io/football/teams/23590.png",
+    "venue_id": 400677815524
+  },
+  {
+    "id": 23605,
+    "name": "Alas Portuarias",
+    "code": null,
+    "country": "Chile",
+    "founded": null,
+    "national": false,
+    "logo": "https://media.api-sports.io/football/teams/23605.png",
+    "venue_id": 131954978092
+  }
+]

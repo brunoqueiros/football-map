@@ -1,0 +1,538 @@
+[
+  {
+    "id": 318,
+    "name": "Estadio Regional Calvo y Bascuñán",
+    "city": "Antofagasta",
+    "capacity": 21178,
+    "latitude": -23.6700972,
+    "longitude": -70.40452599999999
+  },
+  {
+    "id": 319,
+    "name": "Estadio Monumental David Arellano",
+    "city": "Santiago de Chile",
+    "capacity": 47017,
+    "latitude": -33.5065938,
+    "longitude": -70.6059776
+  },
+  {
+    "id": 326,
+    "name": "Estadio Bicentenario La Granja",
+    "city": "Curicó",
+    "capacity": 12000,
+    "latitude": -34.974444,
+    "longitude": -71.2306608
+  },
+  {
+    "id": 331,
+    "name": "Estadio Municipal Bicentenario Germán Becker",
+    "city": "Temuco",
+    "capacity": 18413,
+    "latitude": -38.7428497,
+    "longitude": -72.619259
+  },
+  {
+    "id": 338,
+    "name": "Estadio Municipal de La Cisterna",
+    "city": "Santiago de Chile",
+    "capacity": 12000,
+    "latitude": -33.5206471,
+    "longitude": -70.6730536
+  },
+  {
+    "id": 336,
+    "name": "Estadio Tierra de Campeones",
+    "city": "Iquique",
+    "capacity": 12000,
+    "latitude": -20.2423171,
+    "longitude": -70.1332168
+  },
+  {
+    "id": 337,
+    "name": "Estadio El Teniente",
+    "city": "Rancagua",
+    "capacity": 14450,
+    "latitude": -34.177772,
+    "longitude": -70.7374947
+  },
+  {
+    "id": 342,
+    "name": "Estadio Santa Laura-Universidad SEK",
+    "city": "Santiago de Chile",
+    "capacity": 28500,
+    "latitude": -33.4044126,
+    "longitude": -70.65899139999999
+  },
+  {
+    "id": 340,
+    "name": "Estadio Bicentenario Lucio Fariña",
+    "city": "Quillota",
+    "capacity": 7703,
+    "latitude": -32.8875725,
+    "longitude": -71.2518544
+  },
+  {
+    "id": 346,
+    "name": "Estadio Municipal Alcaldesa Ester Roa Rebolledo",
+    "city": "Concepción",
+    "capacity": 33000,
+    "latitude": -36.81535830000001,
+    "longitude": -73.0236018
+  },
+  {
+    "id": 334,
+    "name": "Estadio Sausalito",
+    "city": "Viña del Mar",
+    "capacity": 23360,
+    "latitude": -33.014399,
+    "longitude": -71.5354168
+  },
+  {
+    "id": 343,
+    "name": "Estadio Municipal Nicolás Chahuán Nazar",
+    "city": "La Calera",
+    "capacity": 15000,
+    "latitude": -32.7842674,
+    "longitude": -71.199811
+  },
+  {
+    "id": 320,
+    "name": "Estadio CAP",
+    "city": "Talcahuano",
+    "capacity": 10579,
+    "latitude": -36.7550626,
+    "longitude": -73.10757029999999
+  },
+  {
+    "id": 317,
+    "name": "Estadio Bicentenario Municipal de La Florida",
+    "city": "Santiago de Chile",
+    "capacity": 12000,
+    "latitude": -33.5406862,
+    "longitude": -70.57804639999999
+  },
+  {
+    "id": 324,
+    "name": "Estadio Bicentenario Francisco Sánchez Rumoroso",
+    "city": "Coquimbo",
+    "capacity": 18750,
+    "latitude": -29.9654169,
+    "longitude": -71.3381922
+  },
+  {
+    "id": 323,
+    "name": "Estadio El Cobre",
+    "city": "El Salvador",
+    "capacity": 20752,
+    "latitude": -26.251913,
+    "longitude": -69.62871030000001
+  },
+  {
+    "id": 322,
+    "name": "Estadio Zorros del Desierto",
+    "city": "Calama",
+    "capacity": 12000,
+    "latitude": -22.4611544,
+    "longitude": -68.9210978
+  },
+  {
+    "id": 341,
+    "name": "Estadio Elías Figueroa Brander",
+    "city": "Valparaíso",
+    "capacity": 21113,
+    "latitude": -33.0223416,
+    "longitude": -71.63976869999999
+  },
+  {
+    "id": 332,
+    "name": "Estadio El Parque Municipal",
+    "city": "Valdivia",
+    "capacity": 4500,
+    "latitude": -39.8206746,
+    "longitude": -73.233383
+  },
+  {
+    "id": 328,
+    "name": "Estadio Municipal de La Pintana",
+    "city": "Santiago de Chile",
+    "capacity": 6000,
+    "latitude": -33.5867306,
+    "longitude": -70.6360019
+  },
+  {
+    "id": 335,
+    "name": "Estadio Municipal",
+    "city": "San Bernardo",
+    "capacity": 3500,
+    "latitude": -33.594459,
+    "longitude": -70.69026699999999
+  },
+  {
+    "id": 333,
+    "name": "Estadio Bicentenario Municipal Nelson Oyarzún",
+    "city": "Chillán",
+    "capacity": 12000,
+    "latitude": -36.618327,
+    "longitude": -72.10788099999999
+  },
+  {
+    "id": 325,
+    "name": "Estadio Municipal de Lo Barnechea",
+    "city": "Santiago de Chile",
+    "capacity": 5000,
+    "latitude": -33.354275,
+    "longitude": -70.4981834
+  },
+  {
+    "id": 20702,
+    "name": "Estadio Soinca Bata",
+    "city": "Melipilla",
+    "capacity": 2000,
+    "latitude": -33.681169,
+    "longitude": -71.18738189999999
+  },
+  {
+    "id": 344,
+    "name": "Estadio Municipal de San Felipe",
+    "city": "San Felipe",
+    "capacity": 13162,
+    "latitude": -32.7469869,
+    "longitude": -70.7300435
+  },
+  {
+    "id": 321,
+    "name": "Estadio La Portada de La Serena",
+    "city": "La Serena",
+    "capacity": 18500,
+    "latitude": -29.9110857,
+    "longitude": -71.2519655
+  },
+  {
+    "id": 329,
+    "name": "Estadio Bicentenario de Chinquihue",
+    "city": "Puerto Montt",
+    "capacity": 11300,
+    "latitude": -41.4917184,
+    "longitude": -72.9859901
+  },
+  {
+    "id": 327,
+    "name": "Estadio Luis Valenzuela Hermosilla",
+    "city": "Copiapó",
+    "capacity": 10000,
+    "latitude": -27.3766856,
+    "longitude": -70.3206903
+  },
+  {
+    "id": 339,
+    "name": "Estadio Fiscal de Talca",
+    "city": "Talca",
+    "capacity": 17020,
+    "latitude": -35.419827,
+    "longitude": -71.674088
+  },
+  {
+    "id": 2672,
+    "name": "Estadio Carlos Dittborn",
+    "city": "Arica",
+    "capacity": 17786,
+    "latitude": -18.4876168,
+    "longitude": -70.2991313
+  },
+  {
+    "id": 330,
+    "name": "Estadio Municipal Joaquín Muñoz García",
+    "city": "Santa Cruz",
+    "capacity": 5000,
+    "latitude": -34.6392156,
+    "longitude": -71.3684519
+  },
+  {
+    "id": 4215,
+    "name": "Estadio Municipal Jorge Silva Valenzuela",
+    "city": "San Fernando",
+    "capacity": 5900,
+    "latitude": -34.5770996,
+    "longitude": -70.986462
+  },
+  {
+    "id": 4216,
+    "name": "Estadio Municipal de Colina",
+    "city": "Colina",
+    "capacity": 6000,
+    "latitude": -33.2062163,
+    "longitude": -70.6857713
+  },
+  {
+    "id": 4217,
+    "name": "Estadio Municipal Guillermo Guzmán Díaz",
+    "city": "Rengo",
+    "capacity": 2000,
+    "latitude": -34.4039412,
+    "longitude": -70.86128099999999
+  },
+  {
+    "id": 19598,
+    "name": "Estadio Municipal Augusto Rodríguez",
+    "city": "San Vicente de Tagua Tagua",
+    "capacity": 5000,
+    "latitude": -34.4413819,
+    "longitude": -71.0826149
+  },
+  {
+    "id": 4220,
+    "name": "Estadio Municipal de Los Ángeles",
+    "city": "Los Ángeles",
+    "capacity": 5100,
+    "latitude": -37.4703676,
+    "longitude": -72.3615317
+  },
+  {
+    "id": 4221,
+    "name": "Estadio Municipal de La Pintana",
+    "city": "La Pintana",
+    "capacity": 6000,
+    "latitude": -33.5867306,
+    "longitude": -70.6360019
+  },
+  {
+    "id": 4223,
+    "name": "Estadio Municipal Rubén Marcos Peralta",
+    "city": "Osorno",
+    "capacity": 11800,
+    "latitude": -40.58347699999999,
+    "longitude": -73.1314163
+  },
+  {
+    "id": 19599,
+    "name": "Estadio Municipal de Recoleta",
+    "city": "Recoleta",
+    "capacity": 2000,
+    "latitude": -33.3995484,
+    "longitude": -70.6413836
+  },
+  {
+    "id": 4225,
+    "name": "Estadio Municipal Doctor Olegario Henríquez Escalante",
+    "city": "San Antonio",
+    "capacity": 2025,
+    "latitude": -33.6040787,
+    "longitude": -71.614684
+  },
+  {
+    "id": 4226,
+    "name": "Estadio Regional de Los Andes",
+    "city": "Los Andes",
+    "capacity": 3313,
+    "latitude": -32.8396815,
+    "longitude": -70.6050283
+  },
+  {
+    "id": 11133,
+    "name": "Estadio Tucapel Bustamante",
+    "city": "Linares",
+    "capacity": 7000,
+    "latitude": -35.8554465,
+    "longitude": -71.5909151
+  },
+  {
+    "id": 11598,
+    "name": "Estadio Gustavo Ocaranza",
+    "city": "Limache",
+    "capacity": 2000,
+    "latitude": -33.0122074,
+    "longitude": -71.25758239999999
+  },
+  {
+    "id": 692875597818,
+    "name": "Estadio Municipal de Quillón",
+    "city": "Quillón",
+    "capacity": 1500,
+    "latitude": -36.739541,
+    "longitude": -72.4711147
+  },
+  {
+    "id": 19552,
+    "name": "Estadio Municipal de Salamanca",
+    "city": "Salamanca",
+    "capacity": 2500,
+    "latitude": -31.7831909,
+    "longitude": -70.96989130000001
+  },
+  {
+    "id": 19553,
+    "name": "Estadio Diaguita",
+    "city": "Ovalle",
+    "capacity": 5600,
+    "latitude": -30.6094609,
+    "longitude": -71.205838
+  },
+  {
+    "id": 19600,
+    "name": "Estadio Municipal de San Joaquín",
+    "city": "San Joaquín",
+    "capacity": 3500,
+    "latitude": -33.4843847,
+    "longitude": -70.62894109999999
+  },
+  {
+    "id": 19601,
+    "name": "Complejo Juan Soldado",
+    "city": "La Serena",
+    "capacity": 500,
+    "latitude": -29.8710776,
+    "longitude": -71.24647970000001
+  },
+  {
+    "id": 1165,
+    "name": "David Farrington Park",
+    "city": "Wellington",
+    "capacity": 2000,
+    "latitude": -41.3027124,
+    "longitude": 174.8241447
+  },
+  {
+    "id": 19602,
+    "name": "Municipal de Chimbarongo",
+    "city": "Chimbarongo",
+    "capacity": 1000,
+    "latitude": -34.7085172,
+    "longitude": -71.0410579
+  },
+  {
+    "id": 178167728282,
+    "name": "Estadio Municipal de Cabrero",
+    "city": "Cabrero",
+    "capacity": 1500,
+    "latitude": -37.0256256,
+    "longitude": -72.3979423
+  },
+  {
+    "id": 521809520079,
+    "name": "Estadio Municipal de Puente Alto",
+    "city": "Puente Alto",
+    "capacity": 1500,
+    "latitude": -33.606168,
+    "longitude": -70.57182329999999
+  },
+  {
+    "id": 17088134923,
+    "name": "Estadio Municipal de Puente Alto",
+    "city": "Puente Alto",
+    "capacity": 3500,
+    "latitude": -33.606168,
+    "longitude": -70.57182329999999
+  },
+  {
+    "id": 642760521893,
+    "name": "Estadio Enrique Donn",
+    "city": "Constitución",
+    "capacity": 2000,
+    "latitude": -35.3381678,
+    "longitude": -72.4084304
+  },
+  {
+    "id": 833582034569,
+    "name": "Estadio Municipal de Nueva Imperial",
+    "city": "Nueva Imperial",
+    "capacity": 3000,
+    "latitude": -38.7392381,
+    "longitude": -72.9484025
+  },
+  {
+    "id": 20690,
+    "name": "Estadio Municipal Rolando Cortés Dubo",
+    "city": "Mejillones",
+    "capacity": 1500,
+    "latitude": -23.1046401,
+    "longitude": -70.44615110000001
+  },
+  {
+    "id": 566515410595,
+    "name": "Estadio Municipal de San Bernardo",
+    "city": "San Bernardo",
+    "capacity": 3500,
+    "latitude": -33.594459,
+    "longitude": -70.69026699999999
+  },
+  {
+    "id": 582671584955,
+    "name": "Cancha Juvenil Seminario",
+    "city": "Talca",
+    "capacity": null,
+    "latitude": -35.4227218,
+    "longitude": -71.6767883
+  },
+  {
+    "id": 717372465466,
+    "name": "ANFP Federacion de Futbol de Chile",
+    "city": "Peñalolén",
+    "capacity": null,
+    "latitude": -33.4921451,
+    "longitude": -70.5735377
+  },
+  {
+    "id": 735080144944,
+    "name": "Cancha de Vicente Rosales",
+    "city": "Puerto Montt",
+    "capacity": null,
+    "latitude": -41.4875733,
+    "longitude": -72.98568279999999
+  },
+  {
+    "id": 425301048577,
+    "name": "Estadio Municipal Patricio Mekis",
+    "city": "Rancagua",
+    "capacity": 3000,
+    "latitude": -34.155511,
+    "longitude": -70.7481968
+  },
+  {
+    "id": 691549485097,
+    "name": "Estadio Municipal de San Fernando",
+    "city": "San Fernando",
+    "capacity": 4494,
+    "latitude": 40.4289563,
+    "longitude": -3.5212292
+  },
+  {
+    "id": 927128162533,
+    "name": "Estádio Tierra de Campeones",
+    "city": "Iquique",
+    "capacity": null,
+    "latitude": -20.2423171,
+    "longitude": -70.1332168
+  },
+  {
+    "id": 347014008138,
+    "name": "Estadio Fiscal Antonio Bories",
+    "city": "Puerto Natales",
+    "capacity": 2500,
+    "latitude": -51.7255321,
+    "longitude": -72.50311119999999
+  },
+  {
+    "id": 736469239944,
+    "name": "Estadio Municipal de Monte Águila",
+    "city": "Monte Águila",
+    "capacity": null,
+    "latitude": -37.0785792,
+    "longitude": -72.4411634
+  },
+  {
+    "id": 400677815524,
+    "name": "Estadio Sausalito",
+    "city": "Viña del Mar",
+    "capacity": 23423,
+    "latitude": -33.014399,
+    "longitude": -71.5354168
+  },
+  {
+    "id": 131954978092,
+    "name": "Estadio Chinquihue",
+    "city": "Puerto Montt",
+    "capacity": 10000,
+    "latitude": -41.4917184,
+    "longitude": -72.9859901
+  }
+]
