@@ -1,0 +1,418 @@
+[
+    {
+        "id": 2184,
+        "name": "Stadion Tušanj",
+        "city": "Tuzla",
+        "capacity": 8444,
+        "latitude": 44.5416119,
+        "longitude": 18.6613214
+    },
+    {
+        "id": 2186,
+        "name": "Stadion Bilino Polje",
+        "city": "Zenica",
+        "capacity": 15292,
+        "latitude": 44.20576459999999,
+        "longitude": 17.9071479
+    },
+    {
+        "id": 2189,
+        "name": "Stadion Midhat Drljević",
+        "city": "Goražde",
+        "capacity": 4000,
+        "latitude": 43.6719052,
+        "longitude": 18.9830581
+    },
+    {
+        "id": 2199,
+        "name": "Stadion Luke Tešanj",
+        "city": "Tešanj",
+        "capacity": 7000,
+        "latitude": 44.6054726,
+        "longitude": 17.9830469
+    },
+    {
+        "id": 2201,
+        "name": "Stadion Banja Ilidža",
+        "city": "Gradačac",
+        "capacity": 5000,
+        "latitude": 44.8871281,
+        "longitude": 18.4124979
+    },
+    {
+        "id": 3270,
+        "name": "Gradski stadion Luke",
+        "city": "Gračanica",
+        "capacity": 3000,
+        "latitude": 44.6944877,
+        "longitude": 18.2973727
+    },
+    {
+        "id": 3280,
+        "name": "Stadion Josik",
+        "city": "Lukavac",
+        "capacity": 2000,
+        "latitude": 44.5380416,
+        "longitude": 18.5293299
+    },
+    {
+        "id": 3282,
+        "name": "Stadion Pirota",
+        "city": "Travnik",
+        "capacity": 3200,
+        "latitude": 44.2253335,
+        "longitude": 17.6449965
+    },
+    {
+        "id": 5462,
+        "name": "Gradski Stadion",
+        "city": "Banovići",
+        "capacity": 4600,
+        "latitude": 44.4138451,
+        "longitude": 18.5351266
+    },
+    {
+        "id": 5463,
+        "name": "Stadion Pod Borićima",
+        "city": "Bihać",
+        "capacity": 7500,
+        "latitude": 44.8065894,
+        "longitude": 15.8636434
+    },
+    {
+        "id": 5464,
+        "name": "Gradski stadion",
+        "city": "Hadžići",
+        "capacity": 1500,
+        "latitude": 43.8217993,
+        "longitude": 18.1958535
+    },
+    {
+        "id": 19871,
+        "name": "Gradski stadion Maglaj",
+        "city": "Maglaj",
+        "capacity": 500,
+        "latitude": 44.5425088,
+        "longitude": 18.0930914
+    },
+    {
+        "id": 12152,
+        "name": "Gradski stadion",
+        "city": "Srebrenik",
+        "capacity": 8000,
+        "latitude": 44.7043016,
+        "longitude": 18.4884038
+    },
+    {
+        "id": 19872,
+        "name": "Stadion Tomislavgrad",
+        "city": "Tomislavgrad",
+        "capacity": 3000,
+        "latitude": 43.7153135,
+        "longitude": 17.236191
+    },
+    {
+        "id": 19873,
+        "name": "Gradski stadion Olovo",
+        "city": "Olovo",
+        "capacity": 1300,
+        "latitude": 44.1293264,
+        "longitude": 18.5872797
+    },
+    {
+        "id": 20781,
+        "name": "Stadion Harf Arena Gornji Rahić",
+        "city": "Gornji Rahić",
+        "capacity": 3000,
+        "latitude": 44.7790733,
+        "longitude": 18.6797421
+    },
+    {
+        "id": 2185,
+        "name": "Novi Gradski Stadion",
+        "city": "Ugljevik",
+        "capacity": 8118,
+        "latitude": 44.6906134,
+        "longitude": 18.9979379
+    },
+    {
+        "id": 2191,
+        "name": "Gradski Stadion",
+        "city": "Gradiška",
+        "capacity": 5000,
+        "latitude": 45.1424721,
+        "longitude": 17.2565234
+    },
+    {
+        "id": 2192,
+        "name": "Stadion Police",
+        "city": "Trebinje",
+        "capacity": 8550,
+        "latitude": 42.7087951,
+        "longitude": 18.3527845
+    },
+    {
+        "id": 2196,
+        "name": "Gradski Stadion",
+        "city": "Prijedor",
+        "capacity": 3540,
+        "latitude": 44.981987,
+        "longitude": 16.707998
+    },
+    {
+        "id": 2197,
+        "name": "Gradski Stadion SRC",
+        "city": "Istočno Sarajevo",
+        "capacity": 6000,
+        "latitude": 43.82933,
+        "longitude": 18.3671696
+    },
+    {
+        "id": 3271,
+        "name": "Stadion Borik",
+        "city": "Prnjavor",
+        "capacity": 2500,
+        "latitude": 44.8818658,
+        "longitude": 17.6709746
+    },
+    {
+        "id": 3274,
+        "name": "Gradski Stadion",
+        "city": "Foča",
+        "capacity": 4000,
+        "latitude": 43.50420889999999,
+        "longitude": 18.7795925
+    },
+    {
+        "id": 3277,
+        "name": "Gradski Stadion",
+        "city": "Zvornik",
+        "capacity": 3020,
+        "latitude": 44.3833018,
+        "longitude": 19.1045775
+    },
+    {
+        "id": 3281,
+        "name": "Stadion Mlakve",
+        "city": "Bosanska Krajina",
+        "capacity": 4000,
+        "latitude": 45.03757900000001,
+        "longitude": 16.3638196
+    },
+    {
+        "id": 6057,
+        "name": "Stadion FK Željezničar",
+        "city": "Banja Luka",
+        "capacity": 3000,
+        "latitude": 44.7915438,
+        "longitude": 17.211304
+    },
+    {
+        "id": 6058,
+        "name": "Gradski stadion Luke",
+        "city": "Mrkonjić Grad",
+        "capacity": 500,
+        "latitude": 44.4111556,
+        "longitude": 17.0848597
+    },
+    {
+        "id": 10887,
+        "name": "Stadion Đolovi",
+        "city": "Kozarska Dubica",
+        "capacity": 2000,
+        "latitude": 45.1793526,
+        "longitude": 16.8168666
+    },
+    {
+        "id": 20775,
+        "name": "Gradski stadion Nevesinje",
+        "city": "Nevesinje",
+        "capacity": 2000,
+        "latitude": 43.259702,
+        "longitude": 18.1175
+    },
+    {
+        "id": 19869,
+        "name": "Stadion u centru Vojkovića",
+        "city": "Istočno Sarajevo",
+        "capacity": 1000,
+        "latitude": 43.798621,
+        "longitude": 18.3470174
+    },
+    {
+        "id": 18829,
+        "name": "Stadion Laktaša",
+        "city": "Laktaši",
+        "capacity": 2200,
+        "latitude": 44.90784190000001,
+        "longitude": 17.3101002
+    },
+    {
+        "id": 21031,
+        "name": "Stadion Čaire",
+        "city": "Banja Luka",
+        "capacity": 500,
+        "latitude": 44.7638521,
+        "longitude": 17.1793228
+    },
+    {
+        "id": 21032,
+        "name": "Stadion FK Romanija",
+        "city": "Pale",
+        "capacity": 2000,
+        "latitude": 43.8185049,
+        "longitude": 18.5651986
+    },
+    {
+        "id": 21033,
+        "name": "Gradski Stadion Drine",
+        "city": "Višegrad",
+        "capacity": 1500,
+        "latitude": 43.7816459,
+        "longitude": 19.2970768
+    },
+    {
+        "id": 202,
+        "name": "Stadion Bijeli Brijeg",
+        "city": "Mostar",
+        "capacity": 20000,
+        "latitude": 43.3456602,
+        "longitude": 17.7953705
+    },
+    {
+        "id": 200,
+        "name": "Stadion Pecara",
+        "city": "Široki Brijeg",
+        "capacity": 5628,
+        "latitude": 43.3814609,
+        "longitude": 17.5920302
+    },
+    {
+        "id": 201,
+        "name": "Stadion Grbavica",
+        "city": "Sarajevo",
+        "capacity": 16100,
+        "latitude": 43.8466144,
+        "longitude": 18.3873361
+    },
+    {
+        "id": 199,
+        "name": "Olimpijski Stadion Asim Ferhatović Hase",
+        "city": "Sarajevo",
+        "capacity": 35630,
+        "latitude": 43.8737169,
+        "longitude": 18.4086321
+    },
+    {
+        "id": 19942,
+        "name": "Stadion Perica-Pero Pavlović",
+        "city": "Gabela",
+        "capacity": 5000,
+        "latitude": 43.0619573,
+        "longitude": 17.6829528
+    },
+    {
+        "id": 2183,
+        "name": "Gradski Stadion",
+        "city": "Bijeljina",
+        "capacity": 6000,
+        "latitude": 44.7543989,
+        "longitude": 19.2250276
+    },
+    {
+        "id": 2187,
+        "name": "Gradski Stadion",
+        "city": "Banja Luka",
+        "capacity": 9730,
+        "latitude": 44.77603329999999,
+        "longitude": 17.1995302
+    },
+    {
+        "id": 2190,
+        "name": "Gradski Stadion",
+        "city": "Konjic",
+        "capacity": 5000,
+        "latitude": 43.6587633,
+        "longitude": 17.9497163
+    },
+    {
+        "id": 2200,
+        "name": "Stadion Rođeni",
+        "city": "Mostar",
+        "capacity": 5294,
+        "latitude": 43.378341,
+        "longitude": 17.8544867
+    },
+    {
+        "id": 23574896938,
+        "name": "Stadion Poljice",
+        "city": "Poljice",
+        "capacity": 1000,
+        "latitude": 44.4860273,
+        "longitude": 18.503158
+    },
+    {
+        "id": 6060,
+        "name": "Dvorana SC u Doboju (Stadion Luke)",
+        "city": "Doboj",
+        "capacity": 3000,
+        "latitude": 44.73226529999999,
+        "longitude": 18.0938581
+    },
+    {
+        "id": 10571,
+        "name": "Stadion Mokri Dolac",
+        "city": "Posušje",
+        "capacity": 8000,
+        "latitude": 43.4693387,
+        "longitude": 17.3277549
+    },
+    {
+        "id": 19304,
+        "name": "Stadion Doglodi",
+        "city": "Sarajevo",
+        "capacity": 400,
+        "latitude": 43.8563994,
+        "longitude": 18.3006157
+    },
+    {
+        "id": 443507024481,
+        "name": "Stadion HŠK Zrinjski - pomoćni teren",
+        "city": "Kruševo",
+        "capacity": null,
+        "latitude": 43.34449499999999,
+        "longitude": 17.7954097
+    },
+    {
+        "id": 55591931051,
+        "name": "Stadion Solina",
+        "city": "Cazin",
+        "capacity": null,
+        "latitude": 44.9627823,
+        "longitude": 15.9345605
+    },
+    {
+        "id": 21424,
+        "name": "Stadion Zgona",
+        "city": "Livno",
+        "capacity": 2000,
+        "latitude": 43.8194245,
+        "longitude": 17.0043313
+    },
+    {
+        "id": 788349691585,
+        "name": "Gradski stadion Vareš",
+        "city": "Vareš",
+        "capacity": null,
+        "latitude": 44.1612304,
+        "longitude": 18.3259597
+    },
+    {
+        "id": 21425,
+        "name": "Gradski stadion Žepče",
+        "city": "Žepče",
+        "capacity": 4000,
+        "latitude": 44.4267534,
+        "longitude": 18.0346283
+    }
+]

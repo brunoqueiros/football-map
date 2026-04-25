@@ -22,3 +22,4 @@ export { default as benin } from './benin-venues.json';
 export { default as bermuda } from './bermuda-venues.json';
 export { default as bhutan } from './bhutan-venues.json';
 export { default as bolivia } from './bolivia-venues.json';
+export { default as bosnia } from './bosnia-venues.json';

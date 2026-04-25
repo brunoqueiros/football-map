@@ -1,0 +1,532 @@
+[
+    {
+        "id": 3361,
+        "name": "Tuzla City",
+        "code": null,
+        "country": "Bosnia",
+        "founded": 1955,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/3361.png",
+        "venue_id": 2184
+    },
+    {
+        "id": 3363,
+        "name": "Čelik",
+        "code": "ZEN",
+        "country": "Bosnia",
+        "founded": 1945,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/3363.png",
+        "venue_id": 2186
+    },
+    {
+        "id": 3366,
+        "name": "Goražde",
+        "code": null,
+        "country": "Bosnia",
+        "founded": 1960,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/3366.png",
+        "venue_id": 2189
+    },
+    {
+        "id": 3380,
+        "name": "TOŠK Tešanj",
+        "code": null,
+        "country": "Bosnia",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/3380.png",
+        "venue_id": 2199
+    },
+    {
+        "id": 3382,
+        "name": "Zvijezda Gradačac",
+        "code": "ZVI",
+        "country": "Bosnia",
+        "founded": 1922,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/3382.png",
+        "venue_id": 2201
+    },
+    {
+        "id": 4278,
+        "name": "Bratstvo Gračanica",
+        "code": "BRA",
+        "country": "Bosnia",
+        "founded": 1945,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/4278.png",
+        "venue_id": 3270
+    },
+    {
+        "id": 4295,
+        "name": "Radnički Lukavac",
+        "code": null,
+        "country": "Bosnia",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/4295.png",
+        "venue_id": 3280
+    },
+    {
+        "id": 4297,
+        "name": "Travnik",
+        "code": "TRA",
+        "country": "Bosnia",
+        "founded": 1922,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/4297.png",
+        "venue_id": 3282
+    },
+    {
+        "id": 7528,
+        "name": "Budućnost Banovići",
+        "code": null,
+        "country": "Bosnia",
+        "founded": 1947,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/7528.png",
+        "venue_id": 5462
+    },
+    {
+        "id": 7529,
+        "name": "Jedinstvo Bihać",
+        "code": null,
+        "country": "Bosnia",
+        "founded": 1919,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/7529.png",
+        "venue_id": 5463
+    },
+    {
+        "id": 7531,
+        "name": "Radnik Hadžići",
+        "code": null,
+        "country": "Bosnia",
+        "founded": 1948,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/7531.png",
+        "venue_id": 5464
+    },
+    {
+        "id": 14147,
+        "name": "Vis Kosova",
+        "code": null,
+        "country": "Bosnia",
+        "founded": 1975,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/14147.png",
+        "venue_id": 19871
+    },
+    {
+        "id": 17371,
+        "name": "Gradina",
+        "code": null,
+        "country": "Bosnia",
+        "founded": 1963,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/17371.png",
+        "venue_id": 12152
+    },
+    {
+        "id": 17372,
+        "name": "Tomislav",
+        "code": null,
+        "country": "Bosnia",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/17372.png",
+        "venue_id": 19872
+    },
+    {
+        "id": 17901,
+        "name": "Stupčanica Olovo",
+        "code": null,
+        "country": "Bosnia",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/17901.png",
+        "venue_id": 19873
+    },
+    {
+        "id": 21738,
+        "name": "Gornji Rahić",
+        "code": null,
+        "country": "Bosnia",
+        "founded": 1936,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/21738.png",
+        "venue_id": 20781
+    },
+    {
+        "id": 3362,
+        "name": "Zvijezda 09",
+        "code": null,
+        "country": "Bosnia",
+        "founded": 2009,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/3362.png",
+        "venue_id": 2185
+    },
+    {
+        "id": 3369,
+        "name": "Kozara Gradiška",
+        "code": null,
+        "country": "Bosnia",
+        "founded": 1945,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/3369.png",
+        "venue_id": 2191
+    },
+    {
+        "id": 3370,
+        "name": "Leotar",
+        "code": "LEO",
+        "country": "Bosnia",
+        "founded": 1925,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/3370.png",
+        "venue_id": 2192
+    },
+    {
+        "id": 3377,
+        "name": "Rudar Prijedor",
+        "code": "RUD",
+        "country": "Bosnia",
+        "founded": 1968,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/3377.png",
+        "venue_id": 2196
+    },
+    {
+        "id": 3378,
+        "name": "Slavija",
+        "code": "SLA",
+        "country": "Bosnia",
+        "founded": 1908,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/3378.png",
+        "venue_id": 2197
+    },
+    {
+        "id": 4281,
+        "name": "Ljubić Prnjavor",
+        "code": null,
+        "country": "Bosnia",
+        "founded": 1946,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/4281.png",
+        "venue_id": 3271
+    },
+    {
+        "id": 4285,
+        "name": "Sutjeska Foča",
+        "code": null,
+        "country": "Bosnia",
+        "founded": 1946,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/4285.png",
+        "venue_id": 3274
+    },
+    {
+        "id": 4291,
+        "name": "Drina Zvornik",
+        "code": null,
+        "country": "Bosnia",
+        "founded": 1945,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/4291.png",
+        "venue_id": 3277
+    },
+    {
+        "id": 4296,
+        "name": "Sloboda Novi Grad",
+        "code": null,
+        "country": "Bosnia",
+        "founded": 1910,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/4296.png",
+        "venue_id": 3281
+    },
+    {
+        "id": 8501,
+        "name": "Željezničar Banja Luka",
+        "code": null,
+        "country": "Bosnia",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/8501.png",
+        "venue_id": 6057
+    },
+    {
+        "id": 8502,
+        "name": "Sloboda Mrkonjić Grad",
+        "code": "MRK",
+        "country": "Bosnia",
+        "founded": 1945,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/8502.png",
+        "venue_id": 6058
+    },
+    {
+        "id": 15174,
+        "name": "Borac Kozarska Dubica",
+        "code": null,
+        "country": "Bosnia",
+        "founded": 1936,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/15174.png",
+        "venue_id": 10887
+    },
+    {
+        "id": 15290,
+        "name": "Velež Nevesinje",
+        "code": null,
+        "country": "Bosnia",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/15290.png",
+        "venue_id": 20775
+    },
+    {
+        "id": 19561,
+        "name": "Famos Vojkovići",
+        "code": null,
+        "country": "Bosnia",
+        "founded": 1968,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/19561.png",
+        "venue_id": 19869
+    },
+    {
+        "id": 19562,
+        "name": "Laktaši",
+        "code": null,
+        "country": "Bosnia",
+        "founded": 1974,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/19562.png",
+        "venue_id": 18829
+    },
+    {
+        "id": 21736,
+        "name": "BSK Banja Luka",
+        "code": null,
+        "country": "Bosnia",
+        "founded": 1932,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/21736.png",
+        "venue_id": 21031
+    },
+    {
+        "id": 21737,
+        "name": "FK Romanija Pale",
+        "code": null,
+        "country": "Bosnia",
+        "founded": 1934,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/21737.png",
+        "venue_id": 21032
+    },
+    {
+        "id": 24537,
+        "name": "Drina HE Višegrad",
+        "code": null,
+        "country": "Bosnia",
+        "founded": 1924,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/24537.png",
+        "venue_id": 21033
+    },
+    {
+        "id": 588,
+        "name": "Zrinjski",
+        "code": "ZRI",
+        "country": "Bosnia",
+        "founded": 1905,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/588.png",
+        "venue_id": 202
+    },
+    {
+        "id": 642,
+        "name": "Siroki Brijeg",
+        "code": "SIR",
+        "country": "Bosnia",
+        "founded": 1948,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/642.png",
+        "venue_id": 200
+    },
+    {
+        "id": 654,
+        "name": "Zeljeznicar Sarajevo",
+        "code": "ZEL",
+        "country": "Bosnia",
+        "founded": 1921,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/654.png",
+        "venue_id": 201
+    },
+    {
+        "id": 679,
+        "name": "FK Sarajevo",
+        "code": "SAR",
+        "country": "Bosnia",
+        "founded": 1946,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/679.png",
+        "venue_id": 199
+    },
+    {
+        "id": 3356,
+        "name": "GOŠK Gabela",
+        "code": null,
+        "country": "Bosnia",
+        "founded": 1919,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/3356.png",
+        "venue_id": 19942
+    },
+    {
+        "id": 3359,
+        "name": "Radnik Bijeljina",
+        "code": "RAD",
+        "country": "Bosnia",
+        "founded": 1945,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/3359.png",
+        "venue_id": 2183
+    },
+    {
+        "id": 3360,
+        "name": "Sloboda Tuzla",
+        "code": null,
+        "country": "Bosnia",
+        "founded": 1919,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/3360.png",
+        "venue_id": 2184
+    },
+    {
+        "id": 3364,
+        "name": "Borac Banja Luka",
+        "code": "BOR",
+        "country": "Bosnia",
+        "founded": 1926,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/3364.png",
+        "venue_id": 2187
+    },
+    {
+        "id": 3367,
+        "name": "Igman Konjic",
+        "code": null,
+        "country": "Bosnia",
+        "founded": 1920,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/3367.png",
+        "venue_id": 2190
+    },
+    {
+        "id": 3381,
+        "name": "Velež",
+        "code": "VEL",
+        "country": "Bosnia",
+        "founded": 1922,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/3381.png",
+        "venue_id": 2200
+    },
+    {
+        "id": 4286,
+        "name": "Svatovac Poljice",
+        "code": null,
+        "country": "Bosnia",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/4286.png",
+        "venue_id": 23574896938
+    },
+    {
+        "id": 8504,
+        "name": "Sloga Doboj",
+        "code": null,
+        "country": "Bosnia",
+        "founded": 1946,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/8504.png",
+        "venue_id": 6060
+    },
+    {
+        "id": 14146,
+        "name": "Posušje",
+        "code": null,
+        "country": "Bosnia",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/14146.png",
+        "venue_id": 10571
+    },
+    {
+        "id": 20565,
+        "name": "Famos-SAŠK",
+        "code": null,
+        "country": "Bosnia",
+        "founded": 2000,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/20565.png",
+        "venue_id": 19304
+    },
+    {
+        "id": 25289,
+        "name": "Kruševo",
+        "code": null,
+        "country": "Bosnia",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/25289.png",
+        "venue_id": 443507024481
+    },
+    {
+        "id": 25290,
+        "name": "Mladost Solina",
+        "code": null,
+        "country": "Bosnia",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/25290.png",
+        "venue_id": 55591931051
+    },
+    {
+        "id": 25291,
+        "name": "Troglav Livno",
+        "code": null,
+        "country": "Bosnia",
+        "founded": 0,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/25291.png",
+        "venue_id": 21424
+    },
+    {
+        "id": 25292,
+        "name": "Vareš",
+        "code": null,
+        "country": "Bosnia",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/25292.png",
+        "venue_id": 788349691585
+    },
+    {
+        "id": 25293,
+        "name": "Žepce",
+        "code": null,
+        "country": "Bosnia",
+        "founded": 1919,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/25293.png",
+        "venue_id": 21425
+    }
+]

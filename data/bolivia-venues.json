@@ -1,11 +1,11 @@
 [
     {
         "id": 1213,
-        "name": "Estadio Antonio Aranda",
-        "city": "Ciudad del Este",
+        "name": "Municipal Stadium Enrique Jiese",
+        "city": "Riberalta",
         "capacity": 28000,
-        "latitude": -25.5269714,
-        "longitude": -54.61202919999999
+        "latitude": -11.002720593613441,
+        "longitude": -66.07815564440749
     },
     {
         "id": 2488,
