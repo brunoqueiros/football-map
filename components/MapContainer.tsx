@@ -14,6 +14,20 @@ export default function MapContainer({
   const [selectedTeam, setSelectedTeam] = useState<any | null>(null);
   const mapRef = useRef<MapRef>(null);
   const initialCenter = useMemo<[number, number]>(() => [5, 22], []);
+  const allCountries = useMemo(
+    () => Array.from(new Set(teams.map(t => t.country))).sort(),
+    [teams]
+  );
+  const [selectedCountries, setSelectedCountries] = useState<string[]>(allCountries);
+
+  const filteredVenues = useMemo(() => {
+    if (selectedCountries.length === allCountries.length) return venues;
+    const selected = new Set(selectedCountries);
+    const allowedVenueIds = new Set(
+      teams.filter(t => selected.has(t.country)).map(t => (t as any).venue_id)
+    );
+    return venues.filter((v: any) => allowedVenueIds.has(v.id));
+  }, [venues, teams, selectedCountries, allCountries.length]);
 
   const handleSelectTeam = (team: Stadium, venue: any) => {
     // Fly to the team location with closer zoom
@@ -64,7 +78,11 @@ export default function MapContainer({
         />
       )}
       <SearchBar onSelectTeam={handleSelectTeam} teams={teams} hideCard={() => setSelectedStadium(null)} venues={venues} />
-      {/* <CountriesFilter teams={teams} /> */}
+      <CountriesFilter
+        teams={teams}
+        selectedCountries={selectedCountries}
+        onChange={setSelectedCountries}
+      />
     </div>
   );
 }

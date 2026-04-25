@@ -109,19 +109,35 @@ const Map = forwardRef<MapRef, MapProps>(({
     if (!mapLoaded || !mapRef.current) return;
 
     const map = mapRef.current;
-    map.addSource('stadiums', {
-      type: 'geojson',
-      data: {
-        type: 'FeatureCollection',
-        features: venues.map(venue => {
-          return {
-            type: 'Feature',
-            geometry: { type: 'Point', coordinates: [venue.longitude, venue.latitude] },
-            properties: { ...venue }
-          }
-        })
-      }
-    });
+    const data = {
+      type: 'FeatureCollection' as const,
+      features: venues.map(venue => ({
+        type: 'Feature' as const,
+        geometry: { type: 'Point' as const, coordinates: [venue.longitude, venue.latitude] },
+        properties: { ...venue }
+      }))
+    };
+
+    const existingSource = map.getSource('stadiums') as mapboxgl.GeoJSONSource | undefined;
+    if (existingSource) {
+      existingSource.setData(data);
+      return;
+    }
+
+    map.addSource('stadiums', { type: 'geojson', data });
+    // map.addSource('stadiums', {
+    //   type: 'geojson',
+    //   data: {
+    //     type: 'FeatureCollection',
+    //     features: venues.map(venue => {
+    //       return {
+    //         type: 'Feature',
+    //         geometry: { type: 'Point', coordinates: [venue.longitude, venue.latitude] },
+    //         properties: { ...venue }
+    //       }
+    //     })
+    //   }
+    // });
 
     map.addLayer({
       id: 'stadium-circles',
