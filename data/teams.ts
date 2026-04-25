@@ -35,3 +35,4 @@ export { default as china } from './china-teams.json';
 export { default as taiwan } from './taiwan-teams.json';
 export { default as colombia } from './colombia-teams.json';
 export { default as congo } from './congo-teams.json';
+export { default as congoDR } from './congo-dr-teams.json';

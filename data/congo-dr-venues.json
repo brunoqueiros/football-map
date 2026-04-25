@@ -1,0 +1,138 @@
+[
+  {
+    "id": 4742,
+    "name": "Stade du TP Mazembe",
+    "city": "Lubumbashi",
+    "capacity": 18500,
+    "latitude": -11.6783085,
+    "longitude": 27.4894365
+  },
+  {
+    "id": 4743,
+    "name": "Stade Tata Raphaël",
+    "city": "Kinshasa",
+    "capacity": 30000,
+    "latitude": -4.3379344,
+    "longitude": 15.3226484
+  },
+  {
+    "id": 10536,
+    "name": "Stade Joseph Kabila Kabange",
+    "city": "Kindu",
+    "capacity": 15000,
+    "latitude": -2.9246547,
+    "longitude": 25.8831527
+  },
+  {
+    "id": 391,
+    "name": "Stade des Martyrs de la Pentecôte",
+    "city": "Kinshasa",
+    "capacity": 100000,
+    "latitude": -4.3302879,
+    "longitude": 15.3103565
+  },
+  {
+    "id": 5759,
+    "name": "Stade Kashala Bonzola",
+    "city": "Mbuji-Mayi",
+    "capacity": 15000,
+    "latitude": -6.1452266,
+    "longitude": 23.605227
+  },
+  {
+    "id": 6113,
+    "name": "Stade TP Mazembe",
+    "city": "Lubumbashi",
+    "capacity": 18500,
+    "latitude": -11.6783085,
+    "longitude": 27.4894365
+  },
+  {
+    "id": 6114,
+    "name": "Stade Manika",
+    "city": "Kolwezi",
+    "capacity": 1500,
+    "latitude": -10.717442,
+    "longitude": 25.4628049
+  },
+  {
+    "id": 19815,
+    "name": "Stade de la Concorde",
+    "city": "Bukavu",
+    "capacity": 5000,
+    "latitude": -2.5173531,
+    "longitude": 28.8516634
+  },
+  {
+    "id": 6115,
+    "name": "Stade des Volcans",
+    "city": "Goma",
+    "capacity": 9000,
+    "latitude": -1.6823686,
+    "longitude": 29.2379374
+  },
+  {
+    "id": 19813,
+    "name": "Stade Gaëtan Kakudji",
+    "city": "Lubumbashi",
+    "capacity": 1500,
+    "latitude": -11.5815347,
+    "longitude": 27.5126627
+  },
+  {
+    "id": 746206099496,
+    "name": "Stade des Martyrs",
+    "city": "Kinshasa",
+    "capacity": 80000,
+    "latitude": -4.3302879,
+    "longitude": 15.3103565
+  },
+  {
+    "id": 637230096502,
+    "name": "Stade des Martyrs",
+    "city": "Kinshasa",
+    "capacity": 80000,
+    "latitude": -4.3302879,
+    "longitude": 15.3103565
+  },
+  {
+    "id": 19814,
+    "name": "Stade Dominique Diur",
+    "city": "Kolwezi",
+    "capacity": 5000,
+    "latitude": -10.7309511,
+    "longitude": 25.4842576
+  },
+  {
+    "id": 933947275577,
+    "name": "Stade Tata Raphaël",
+    "city": "Kinshasa",
+    "capacity": 50000,
+    "latitude": -4.3379344,
+    "longitude": 15.3226484
+  },
+  {
+    "id": 19816,
+    "name": "Stade de Kikula",
+    "city": "Likasi",
+    "capacity": 5000,
+    "latitude": -10.9806564,
+    "longitude": 26.729567
+  },
+  {
+    "id": 12395,
+    "name": "Stade des Jeunes de Katoka",
+    "city": "Kananga",
+    "capacity": 10000,
+    "latitude": -5.897060799999999,
+    "longitude": 22.3858538
+  },
+  {
+    "id": 670983968730,
+    "name": "Stade Tata Raphaël",
+    "city": "Kinshasa",
+    "capacity": 30000,
+    "latitude": -4.3379344,
+    "longitude": 15.3226484
+  }
+]

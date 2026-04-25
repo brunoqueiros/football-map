@@ -35,3 +35,4 @@ export { default as china } from './china-venues.json';
 export { default as taiwan } from './taiwan-venues.json';
 export { default as colombia } from './colombia-venues.json';
 export { default as congo } from './congo-venues.json';
+export { default as congoDR } from './congo-dr-venues.json';
