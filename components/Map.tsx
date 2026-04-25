@@ -39,6 +39,7 @@ interface MapProps {
 
 export interface MapRef {
   flyToLocation: (lng: number, lat: number, zoom?: number) => void;
+  fitToVenues: (venues: { longitude: number; latitude: number }[]) => void;
 }
 
 export const FLY_DURATION = 1000;
@@ -66,6 +67,29 @@ const Map = forwardRef<MapRef, MapProps>(({
           essential: true
         });
       }
+    },
+    fitToVenues: (venues) => {
+      const map = mapRef.current;
+      if (!map || venues.length === 0) return;
+      if (venues.length === 1) {
+        map.flyTo({
+          center: [venues[0].longitude, venues[0].latitude],
+          zoom: 6,
+          duration: FLY_DURATION,
+          essential: true
+        });
+        return;
+      }
+      const bounds = venues.reduce(
+        (b, v) => b.extend([v.longitude, v.latitude]),
+        new mapboxgl.LngLatBounds()
+      );
+      map.fitBounds(bounds, {
+        padding: { top: 80, bottom: 80, left: 80, right: 80 },
+        duration: FLY_DURATION,
+        maxZoom: 8,
+        essential: true
+      });
     }
   }));
 

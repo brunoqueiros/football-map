@@ -1,5 +1,5 @@
 'use client'
-import { useRef, useState, useMemo } from "react";
+import { useRef, useState, useMemo, useEffect } from "react";
 import CountriesFilter from "@/components/CountriesFilter";
 import SearchBar from "@/components/SearchBar";
 import Map, { Stadium, MapRef, FLY_DURATION } from "@/components/Map";
@@ -20,14 +20,26 @@ export default function MapContainer({
   );
   const [selectedCountries, setSelectedCountries] = useState<string[]>(allCountries);
 
-  const filteredVenues = useMemo(() => {
-    if (selectedCountries.length === allCountries.length) return venues;
+  const { filteredTeams, filteredVenues } = useMemo(() => {
+    if (selectedCountries.length === allCountries.length) {
+      return { filteredTeams: teams, filteredVenues: venues };
+    }
     const selected = new Set(selectedCountries);
-    const allowedVenueIds = new Set(
-      teams.filter(t => selected.has(t.country)).map(t => (t as any).venue_id)
-    );
-    return venues.filter((v: any) => allowedVenueIds.has(v.id));
+    const filteredTeams = teams.filter(t => selected.has(t.country));
+    const allowedVenueIds = new Set(filteredTeams.map(t => (t as any).venue_id));
+    const filteredVenues = venues.filter((v: any) => allowedVenueIds.has(v.id));
+    return { filteredTeams, filteredVenues };
   }, [venues, teams, selectedCountries, allCountries.length]);
+
+  const isFirstFitRef = useRef(true);
+  useEffect(() => {
+    if (isFirstFitRef.current) {
+      isFirstFitRef.current = false;
+      return;
+    }
+    if (selectedCountries.length === 0) return;
+    mapRef.current?.fitToVenues(filteredVenues);
+  }, [selectedCountries, filteredVenues]);
 
   const handleSelectTeam = (team: Stadium, venue: any) => {
     // Fly to the team location with closer zoom
@@ -45,8 +57,8 @@ export default function MapContainer({
     <div className="App relative">
       <Map
         ref={mapRef}
-        teams={teams}
-        venues={venues}
+        teams={filteredTeams}
+        venues={filteredVenues}
         accessToken={accessToken}
         initialZoom={2.5}
         initialCenter={initialCenter}
@@ -76,7 +88,7 @@ export default function MapContainer({
           onClose={() => setSelectedStadium(null)}
         />
       )}
-      <SearchBar onSelectTeam={handleSelectTeam} teams={teams} hideCard={() => setSelectedStadium(null)} venues={venues} />
+      <SearchBar onSelectTeam={handleSelectTeam} teams={filteredTeams} hideCard={() => setSelectedStadium(null)} venues={venues} />
       <CountriesFilter
         teams={teams}
         selectedCountries={selectedCountries}
