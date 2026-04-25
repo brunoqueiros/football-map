@@ -21,3 +21,4 @@ export { default as belize } from './belize-teams.json';
 export { default as benin } from './benin-teams.json';
 export { default as bermuda } from './bermuda-teams.json';
 export { default as bhutan } from './bhutan-teams.json';
+export { default as bolivia } from './bolivia-teams.json';

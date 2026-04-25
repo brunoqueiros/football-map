@@ -1,0 +1,210 @@
+[
+    {
+        "id": 1213,
+        "name": "Estadio Antonio Aranda",
+        "city": "Ciudad del Este",
+        "capacity": 28000,
+        "latitude": -25.5269714,
+        "longitude": -54.61202919999999
+    },
+    {
+        "id": 2488,
+        "name": "Estadio Ramón Aguilera Costas",
+        "city": "Santa Cruz de la Sierra",
+        "capacity": 38000,
+        "latitude": -17.7960687,
+        "longitude": -63.1838687
+    },
+    {
+        "id": 2655,
+        "name": "Estadio Olímpico Patria",
+        "city": "Sucre",
+        "capacity": 32000,
+        "latitude": -19.0336611,
+        "longitude": -65.2578667
+    },
+    {
+        "id": 198,
+        "name": "Estadio Hernando Siles",
+        "city": "La Paz",
+        "capacity": 45000,
+        "latitude": -16.4994705,
+        "longitude": -68.1226406
+    },
+    {
+        "id": 2487,
+        "name": "Estadio Municipal El Alto",
+        "city": "El Alto",
+        "capacity": 25000,
+        "latitude": -16.4727211,
+        "longitude": -68.2015284
+    },
+    {
+        "id": 85655886824,
+        "name": "Estadio Municipal de Tiquipaya",
+        "city": "Tiquipaya",
+        "capacity": null,
+        "latitude": -17.337298,
+        "longitude": -66.21362599999999
+    },
+    {
+        "id": 2491,
+        "name": "Estadio Jesús Bermúdez",
+        "city": "Oruro",
+        "capacity": 39000,
+        "latitude": -17.9463472,
+        "longitude": -67.1113439
+    },
+    {
+        "id": 11128,
+        "name": "Estadio Roberto Jordán Cuéllar",
+        "city": "Cobija",
+        "capacity": 25000,
+        "latitude": -11.0247822,
+        "longitude": -68.759627
+    },
+    {
+        "id": 502897713311,
+        "name": "Estadio Ramón Tahuichi Aguilera",
+        "city": "Santa Cruz de la Sierra",
+        "capacity": 38500,
+        "latitude": -17.7960687,
+        "longitude": -63.1838687
+    },
+    {
+        "id": 899038459337,
+        "name": "Estadio Potosí",
+        "city": "Potosí",
+        "capacity": 7000,
+        "latitude": -19.5828933,
+        "longitude": -65.7507116
+    },
+    {
+        "id": 2490,
+        "name": "Estadio Víctor Agustín Ugarte",
+        "city": "Potosí",
+        "capacity": 35000,
+        "latitude": -19.5787179,
+        "longitude": -65.76151279999999
+    },
+    {
+        "id": 954058875228,
+        "name": "Estadio Orlando Mercado",
+        "city": "Riberalta",
+        "capacity": 5000,
+        "latitude": -11.0087799,
+        "longitude": -66.0262753
+    },
+    {
+        "id": 942901640090,
+        "name": "Estadio Jesús Bermúdez",
+        "city": "Oruro",
+        "capacity": 33795,
+        "latitude": -17.9463472,
+        "longitude": -67.1113439
+    },
+    {
+        "id": 20355,
+        "name": "Estadio Municipal de Camargo",
+        "city": "Camargo",
+        "capacity": 1000,
+        "latitude": -20.6385867,
+        "longitude": -65.21094649999999
+    },
+    {
+        "id": 7627805604,
+        "name": "Estadio Municipal De Arbieto",
+        "city": "Arbieto",
+        "capacity": null,
+        "latitude": -17.587405,
+        "longitude": -66.01154199999999
+    },
+    {
+        "id": 11127,
+        "name": "Estadio IV Centenario",
+        "city": "Tarija",
+        "capacity": 18000,
+        "latitude": -21.5322484,
+        "longitude": -64.7251169
+    },
+    {
+        "id": 771247277054,
+        "name": "Cancha de Fútbol El Tejar",
+        "city": "La Paz",
+        "capacity": null,
+        "latitude": -16.4948339,
+        "longitude": -68.1552517
+    },
+    {
+        "id": 690693188436,
+        "name": "Estadio Ramón Tahuichi Aguilera",
+        "city": "Santa Cruz de la Sierra",
+        "capacity": 38000,
+        "latitude": -17.7960687,
+        "longitude": -63.1838687
+    },
+    {
+        "id": 709628299947,
+        "name": "Estadio Municipal de San Juan de Yapacaní",
+        "city": "San Juan de Yapacaní",
+        "capacity": 5000,
+        "latitude": -17.2896574,
+        "longitude": -63.84764029999999
+    },
+    {
+        "id": 710705896360,
+        "name": "Estadio IV Centenario",
+        "city": "Tarija",
+        "capacity": 18000,
+        "latitude": -21.5322484,
+        "longitude": -64.7251169
+    },
+    {
+        "id": 2438,
+        "name": "Estadio Félix Capriles",
+        "city": "Cochabamba",
+        "capacity": 38530,
+        "latitude": -17.3792677,
+        "longitude": -66.1617936
+    },
+    {
+        "id": 2489,
+        "name": "Estadio Gilberto Parada",
+        "city": "Montero",
+        "capacity": 18000,
+        "latitude": -17.343087,
+        "longitude": -63.2619723
+    },
+    {
+        "id": 11130,
+        "name": "Estadio IV Centenario",
+        "city": "Tarija",
+        "capacity": 15000,
+        "latitude": -21.5322484,
+        "longitude": -64.7251169
+    },
+    {
+        "id": 82726602457,
+        "name": "Estadio Carlos Villegas",
+        "city": "Shinaota",
+        "capacity": 17000,
+        "latitude": -17.2009507,
+        "longitude": -64.512913
+    },
+    {
+        "id": 843076660765,
+        "name": "Estadio Olímpico Patria",
+        "city": "Sucre",
+        "capacity": 30700,
+        "latitude": -19.0336611,
+        "longitude": -65.2578667
+    },
+    {
+        "id": 467298270976,
+        "name": "Estadio Municipal de El Alto",
+        "city": "El Alto",
+        "capacity": 25000,
+        "latitude": -16.4727211,
+        "longitude": -68.2015284
+    }
+]
