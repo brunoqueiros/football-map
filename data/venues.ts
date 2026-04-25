@@ -19,3 +19,4 @@ export { default as belarus } from './belarus-venues.json';
 export { default as belgium } from './belgium-venues.json';
 export { default as belize } from './belize-venues.json';
 export { default as benin } from './benin-venues.json';
+export { default as bermuda } from './bermuda-venues.json';

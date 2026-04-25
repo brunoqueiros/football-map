@@ -1,0 +1,102 @@
+[
+    {
+        "id": 5443,
+        "name": "Dandy Town Hornets",
+        "code": null,
+        "country": "Bermuda",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/5443.png",
+        "venue_id": 4095
+    },
+    {
+        "id": 5444,
+        "name": "Devonshire Cougars",
+        "code": null,
+        "country": "Bermuda",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/5444.png",
+        "venue_id": 4097
+    },
+    {
+        "id": 5445,
+        "name": "North Village Rams",
+        "code": null,
+        "country": "Bermuda",
+        "founded": 1957,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/5445.png",
+        "venue_id": 4098
+    },
+    {
+        "id": 5446,
+        "name": "Paget Lions",
+        "code": null,
+        "country": "Bermuda",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/5446.png",
+        "venue_id": 4099
+    },
+    {
+        "id": 5447,
+        "name": "Pembroke Hamilton Club",
+        "code": null,
+        "country": "Bermuda",
+        "founded": 1876,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/5447.png",
+        "venue_id": 4100
+    },
+    {
+        "id": 5586,
+        "name": "YMSC",
+        "code": null,
+        "country": "Bermuda",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/5586.png",
+        "venue_id": 4181
+    },
+    {
+        "id": 5587,
+        "name": "Devonshire Colts",
+        "code": null,
+        "country": "Bermuda",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/5587.png",
+        "venue_id": 4181
+    },
+    {
+        "id": 15226,
+        "name": "St. George's Colts",
+        "code": null,
+        "country": "Bermuda",
+        "founded": 1892,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/15226.png",
+        "venue_id": 10906
+    },
+    {
+        "id": 20405,
+        "name": "Hamilton Parish",
+        "code": null,
+        "country": "Bermuda",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/20405.png",
+        "venue_id": 10906
+    },
+    {
+        "id": 25133,
+        "name": "Wolves Sports Club",
+        "code": null,
+        "country": "Bermuda",
+        "founded": null,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/25133.png",
+        "venue_id": 4097
+    }
+]

@@ -1,0 +1,58 @@
+[
+    {
+        "id": 4095,
+        "name": "Bermuda Athletic Association Field",
+        "city": "Hamilton",
+        "capacity": 1000,
+        "latitude": 32.2977369,
+        "longitude": -64.7890422
+    },
+    {
+        "id": 4097,
+        "name": "Devonshire Recreation Club Field",
+        "city": "Devonshire",
+        "capacity": 1000,
+        "latitude": 32.3038209,
+        "longitude": -64.77088359999999
+    },
+    {
+        "id": 4098,
+        "name": "Bernard Park Field",
+        "city": "Hamilton",
+        "capacity": 1000,
+        "latitude": 32.3004449,
+        "longitude": -64.78396479999999
+    },
+    {
+        "id": 4099,
+        "name": "Southampton Rangers Field",
+        "city": "Southampton",
+        "capacity": 1000,
+        "latitude": 32.2557224,
+        "longitude": -64.8212386
+    },
+    {
+        "id": 4100,
+        "name": "Pembroke Hamilton Club Field",
+        "city": "Warwick",
+        "capacity": 1000,
+        "latitude": 32.2671332,
+        "longitude": -64.8087005
+    },
+    {
+        "id": 4181,
+        "name": "Police Recreation Club Field",
+        "city": "Devonshire",
+        "capacity": 1000,
+        "latitude": 51.6247828,
+        "longitude": 0.0764205
+    },
+    {
+        "id": 10906,
+        "name": "Wellington Oval Field",
+        "city": "St. George&apos;s",
+        "capacity": 1000,
+        "latitude": 51.4837565,
+        "longitude": -0.1149737
+    }
+]
