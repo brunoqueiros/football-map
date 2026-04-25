@@ -1,0 +1,634 @@
+[
+  {
+    "id": 348,
+    "name": "Workers' Stadium",
+    "city": "Beijing",
+    "capacity": 68000,
+    "latitude": 39.9298807,
+    "longitude": 116.4407424
+  },
+  {
+    "id": 353,
+    "name": "Tianhe Stadium",
+    "city": "Canton",
+    "capacity": 60151,
+    "latitude": 23.1380215,
+    "longitude": 113.3246753
+  },
+  {
+    "id": 19701,
+    "name": "Shanghai Stadium",
+    "city": "Shanghai",
+    "capacity": 56842,
+    "latitude": 31.181471,
+    "longitude": 121.438378
+  },
+  {
+    "id": 350,
+    "name": "Changchun's People Stadium",
+    "city": "Changchun",
+    "capacity": 38500,
+    "latitude": 43.866704,
+    "longitude": 125.341853
+  },
+  {
+    "id": 360,
+    "name": "Yuanshen Sports Centre Stadium",
+    "city": "Shanghai",
+    "capacity": 16000,
+    "latitude": 31.2311605,
+    "longitude": 121.5359764
+  },
+  {
+    "id": 363,
+    "name": "Tianjin Olympic Center Stadium",
+    "city": "Tianjin",
+    "capacity": 54696,
+    "latitude": 39.074351,
+    "longitude": 117.175807
+  },
+  {
+    "id": 355,
+    "name": "Zhengzhou Hanghai Stadium",
+    "city": "Zhengzhou",
+    "capacity": 29000,
+    "latitude": 34.715653,
+    "longitude": 113.731553
+  },
+  {
+    "id": 359,
+    "name": "Jinan Olympic Sports Center Stadium",
+    "city": "Jinan",
+    "capacity": 56808,
+    "latitude": 36.659045,
+    "longitude": 117.1153
+  },
+  {
+    "id": 20729,
+    "name": "Yellow Dragon Sports Center Stadium",
+    "city": "Hangzhou",
+    "capacity": 52672,
+    "latitude": 30.266082,
+    "longitude": 120.133683
+  },
+  {
+    "id": 1868,
+    "name": "Cangzhou Stadium",
+    "city": "Cangzhou",
+    "capacity": 31886,
+    "latitude": 38.30549,
+    "longitude": 116.806064
+  },
+  {
+    "id": 20427,
+    "name": "Qingdao Youth Football Stadium",
+    "city": "Qingdao",
+    "capacity": 50000,
+    "latitude": 36.058761,
+    "longitude": 120.349192
+  },
+  {
+    "id": 19659,
+    "name": "Loudi Sports Center",
+    "city": "Loudi",
+    "capacity": 30000,
+    "latitude": 27.742481,
+    "longitude": 112.034449
+  },
+  {
+    "id": 19329,
+    "name": "Wuhua Olympic Sports Center Huitang Stadium",
+    "city": "Wuhua",
+    "capacity": 30000,
+    "latitude": 23.9144297,
+    "longitude": 115.7653271
+  },
+  {
+    "id": 1873,
+    "name": "Harbin International Convention and Exhibition Center Stadium",
+    "city": "Harbin",
+    "capacity": 50000,
+    "latitude": 45.7516067,
+    "longitude": 126.7013369
+  },
+  {
+    "id": 1874,
+    "name": "Rugao Olympic Sports Center Stadium",
+    "city": "Rugao",
+    "capacity": 15000,
+    "latitude": 32.37481,
+    "longitude": 120.58674
+  },
+  {
+    "id": 4227,
+    "name": "Beijing Institute of Technology Eastern Athletic Field",
+    "city": "Beijing",
+    "capacity": 5000,
+    "latitude": 39.959229,
+    "longitude": 116.31453
+  },
+  {
+    "id": 20429,
+    "name": "Chengdu Phoenix Mountain Sports Park",
+    "city": "Chengdu",
+    "capacity": 60000,
+    "latitude": 30.7648,
+    "longitude": 104.07659
+  },
+  {
+    "id": 19670,
+    "name": "Jinzhou Stadium",
+    "city": "Dalian",
+    "capacity": 30776,
+    "latitude": 39.096365,
+    "longitude": 121.724325
+  },
+  {
+    "id": 616456247953,
+    "name": "Guangxi Sports Center Stadium",
+    "city": "Nanning",
+    "capacity": 60000,
+    "latitude": 22.762882,
+    "longitude": 108.390654
+  },
+  {
+    "id": 121796388110,
+    "name": "Huanglong Sports Center Stadium",
+    "city": "Hangzhou",
+    "capacity": 51971,
+    "latitude": 30.266082,
+    "longitude": 120.133683
+  },
+  {
+    "id": 21698,
+    "name": "Hubei Football Management Center Training Base Central Stadium",
+    "city": "Wuhan",
+    "capacity": 1000,
+    "latitude": 30.50047,
+    "longitude": 114.17194
+  },
+  {
+    "id": 739522512508,
+    "name": "Inner Mongolia Sports Center Stadium",
+    "city": "Hohhot",
+    "capacity": 60000,
+    "latitude": 40.854811,
+    "longitude": 111.661648
+  },
+  {
+    "id": 21667,
+    "name": "Ruichang Sports Park Stadium",
+    "city": "Jiujiang",
+    "capacity": 13000,
+    "latitude": 29.653336,
+    "longitude": 115.638427
+  },
+  {
+    "id": 620217787716,
+    "name": "Qingdao Youth Football Field",
+    "city": "Qingdao",
+    "capacity": 50000,
+    "latitude": 36.058761,
+    "longitude": 120.349192
+  },
+  {
+    "id": 6964281741,
+    "name": "Qingdao Tiantai Stadium",
+    "city": "Qingdao",
+    "capacity": 20000,
+    "latitude": 36.058761,
+    "longitude": 120.349192
+  },
+  {
+    "id": 2674,
+    "name": "Qingdao Tiantai Stadium",
+    "city": "Qingdao",
+    "capacity": 20525,
+    "latitude": 36.058761,
+    "longitude": 120.349192
+  },
+  {
+    "id": 19330,
+    "name": "Jiading Stadium",
+    "city": "Shanghai",
+    "capacity": 10000,
+    "latitude": 31.376644,
+    "longitude": 121.2713544
+  },
+  {
+    "id": 19331,
+    "name": "Wuhua Hengpi Football Town",
+    "city": "Dongguan",
+    "capacity": 10000,
+    "latitude": 22.9028879,
+    "longitude": 114.0676464
+  },
+  {
+    "id": 11559,
+    "name": "Wujiang Stadium",
+    "city": "Suzhou",
+    "capacity": 15000,
+    "latitude": 31.148515,
+    "longitude": 120.649753
+  },
+  {
+    "id": 11560,
+    "name": "Wuhan Sports Center Stadium",
+    "city": "Wuhan",
+    "capacity": 54357,
+    "latitude": 30.50047,
+    "longitude": 114.17194
+  },
+  {
+    "id": 737263317445,
+    "name": "Xi'an Olympic Sports Center Stadium",
+    "city": "Xi'an",
+    "capacity": 60000,
+    "latitude": 34.3776464,
+    "longitude": 109.0286502
+  },
+  {
+    "id": 868163635195,
+    "name": "Nanjing Youth Olympic Sports Park Stadium",
+    "city": "Nanjing",
+    "capacity": 61443,
+    "latitude": 32.0433142,
+    "longitude": 118.6618899
+  },
+  {
+    "id": 156462650875,
+    "name": "Dongguan Sports Center Stadium",
+    "city": "Dongguan",
+    "capacity": 28000,
+    "latitude": 23.024018,
+    "longitude": 113.751732
+  },
+  {
+    "id": 128459343181,
+    "name": "Yutong International Sports Center",
+    "city": "Shijiazhuang",
+    "capacity": 38500,
+    "latitude": 38.041909,
+    "longitude": 114.535011
+  },
+  {
+    "id": 98175201914,
+    "name": "Qingdao West Coast University City Sports Center",
+    "city": "Qingdao",
+    "capacity": 20000,
+    "latitude": 36.104596,
+    "longitude": 120.441114
+  },
+  {
+    "id": 19661,
+    "name": "Jinjiang Football Training Center Stadium",
+    "city": "Jinjiang",
+    "capacity": 8000,
+    "latitude": 24.806055,
+    "longitude": 118.567513
+  },
+  {
+    "id": 21668,
+    "name": "Wuxi Sports Center",
+    "city": "Wuxi",
+    "capacity": 30000,
+    "latitude": 31.546871,
+    "longitude": 120.264328
+  },
+  {
+    "id": 850119446478,
+    "name": "Yanji People's Stadium",
+    "city": "Yanji",
+    "capacity": 30000,
+    "latitude": 42.912459,
+    "longitude": 129.495634
+  },
+  {
+    "id": 21699,
+    "name": "Wenzhou Sports Center Stadium",
+    "city": "Wenzhou",
+    "capacity": 15000,
+    "latitude": 28.0008611,
+    "longitude": 120.676364
+  },
+  {
+    "id": 21700,
+    "name": "Yunnan Coerver Football Training Base Stadium",
+    "city": "Kunming",
+    "capacity": 2000,
+    "latitude": 25.035206,
+    "longitude": 102.730228
+  },
+  {
+    "id": 19664,
+    "name": "Haimen Sports Center Stadium",
+    "city": "Nantong",
+    "capacity": 10000,
+    "latitude": 32.0039186,
+    "longitude": 120.8484971
+  },
+  {
+    "id": 21684,
+    "name": "Ganzhou Nationwide Fitness Centre Stadium",
+    "city": "Ganzhou",
+    "capacity": 40000,
+    "latitude": 23.1380215,
+    "longitude": 113.3246753
+  },
+  {
+    "id": 19666,
+    "name": "Taishan Stadium",
+    "city": "Tai&apos;an",
+    "capacity": 32000,
+    "latitude": 25.055459,
+    "longitude": 121.4265919
+  },
+  {
+    "id": 21685,
+    "name": "Taiyuan University Football Stadium",
+    "city": "Taiyuan",
+    "capacity": 3000,
+    "latitude": 24.1608823,
+    "longitude": 120.7194589
+  },
+  {
+    "id": 19669,
+    "name": "Tongliang Long Stadium",
+    "city": "Chongqing",
+    "capacity": 15000,
+    "latitude": 29.83155,
+    "longitude": 106.053267
+  },
+  {
+    "id": 21686,
+    "name": "Baise Sports Center Stadium",
+    "city": "Baise",
+    "capacity": 20000,
+    "latitude": 52.3666534,
+    "longitude": 4.7988805
+  },
+  {
+    "id": 19672,
+    "name": "Yuxi plateau Sports Center Stadium",
+    "city": "Yuxi",
+    "capacity": 10000,
+    "latitude": 25.035206,
+    "longitude": 102.730228
+  },
+  {
+    "id": 86479132001,
+    "name": "Changle City Sports Center Stadium",
+    "city": "Fuzhou",
+    "capacity": null,
+    "latitude": 25.955296,
+    "longitude": 119.519526
+  },
+  {
+    "id": 937314283340,
+    "name": "Helan Mountain Sports Center",
+    "city": "Yinchuan",
+    "capacity": 39872,
+    "latitude": 38.498597,
+    "longitude": 106.153366
+  },
+  {
+    "id": 118824782232,
+    "name": "Qujing City Cultural and Sports Park Stadium",
+    "city": "Qujing",
+    "capacity": 30000,
+    "latitude": 25.54669,
+    "longitude": 103.817347
+  },
+  {
+    "id": 21687,
+    "name": "Lanzhou Olympic Center Stadium",
+    "city": "Lanzhou",
+    "capacity": 60000,
+    "latitude": 36.08772630000001,
+    "longitude": 103.6882506
+  },
+  {
+    "id": 881731162936,
+    "name": "Shanxi Sports Centre Stadium",
+    "city": "Taiyuan",
+    "capacity": 62000,
+    "latitude": 37.7575473,
+    "longitude": 112.5395162
+  },
+  {
+    "id": 874874770896,
+    "name": "Wuhan Sports Center Training Base",
+    "city": "Wuhan",
+    "capacity": null,
+    "latitude": 30.50047,
+    "longitude": 114.17194
+  },
+  {
+    "id": 21688,
+    "name": "Yatai Training Base Stadium",
+    "city": "Changchun",
+    "capacity": 5000,
+    "latitude": 43.8395612,
+    "longitude": 125.395875
+  },
+  {
+    "id": 661069451862,
+    "name": "Changning District Sports Center Stadium",
+    "city": "Shanghai",
+    "capacity": 10000,
+    "latitude": 31.181471,
+    "longitude": 121.438378
+  },
+  {
+    "id": 38423284823,
+    "name": "Chongqing Longxing Football Stadium",
+    "city": "Chongqing",
+    "capacity": 60000,
+    "latitude": 29.527142,
+    "longitude": 106.504327
+  },
+  {
+    "id": 529000156633,
+    "name": "Quanzhou Haixia Sports Center Stadium",
+    "city": "Quanzhou",
+    "capacity": 30000,
+    "latitude": 24.926611,
+    "longitude": 118.663665
+  },
+  {
+    "id": 414739345069,
+    "name": "Gannan Tibetan Autonomous Prefecture Olympic Sports Center Stadium",
+    "city": "Hezuo City",
+    "capacity": 15000,
+    "latitude": 36.08772630000001,
+    "longitude": 103.6882506
+  },
+  {
+    "id": 769566401667,
+    "name": "Meixian Tsang Hin-chi Stadium",
+    "city": "Meizhou",
+    "capacity": 20000,
+    "latitude": 24.275273,
+    "longitude": 116.078135
+  },
+  {
+    "id": 188613870961,
+    "name": "Guigang Sports Center Stadium",
+    "city": "Guigang",
+    "capacity": 30000,
+    "latitude": 22.758088,
+    "longitude": 108.396972
+  },
+  {
+    "id": 991554278764,
+    "name": "Qingdao Tiantai Stadium",
+    "city": "Qingdao",
+    "capacity": 20525,
+    "latitude": 36.058761,
+    "longitude": 120.349192
+  },
+  {
+    "id": 919193210231,
+    "name": "Rugao Olympic Sports Centre Stadium",
+    "city": "Rugao",
+    "capacity": 32500,
+    "latitude": 32.37481,
+    "longitude": 120.58674
+  },
+  {
+    "id": 415809176377,
+    "name": "Lanzhou Olympic Sports Center Stadium",
+    "city": "Lanzhou",
+    "capacity": 60000,
+    "latitude": 36.08772630000001,
+    "longitude": 103.6882506
+  },
+  {
+    "id": 664479490672,
+    "name": "Shandong Provincial Stadium",
+    "city": "Jinan",
+    "capacity": 43700,
+    "latitude": 36.659045,
+    "longitude": 117.1153
+  },
+  {
+    "id": 193752698873,
+    "name": "Guangxi Sports Center",
+    "city": "Nanning",
+    "capacity": 60000,
+    "latitude": 22.762882,
+    "longitude": 108.390654
+  },
+  {
+    "id": 734567833154,
+    "name": "Ningbo Fubon Sports Center Stadium",
+    "city": "Ningbo",
+    "capacity": 36000,
+    "latitude": 29.871359,
+    "longitude": 121.581581
+  },
+  {
+    "id": 914239111071,
+    "name": "Pingluo Stadium",
+    "city": "Shizuishan",
+    "capacity": null,
+    "latitude": 39.021481,
+    "longitude": 106.370896
+  },
+  {
+    "id": 911051369227,
+    "name": "Xingyi City Sports Center",
+    "city": "Xingyi City",
+    "capacity": 12000,
+    "latitude": 25.0316985,
+    "longitude": 121.566768
+  },
+  {
+    "id": 288601252130,
+    "name": "Donghua University Stadium",
+    "city": "Shanghai",
+    "capacity": 10000,
+    "latitude": 31.203498,
+    "longitude": 121.414514
+  },
+  {
+    "id": 235822150444,
+    "name": "Tongji University Stadium",
+    "city": "Shanghai",
+    "capacity": 20000,
+    "latitude": 31.290113,
+    "longitude": 121.216301
+  },
+  {
+    "id": 947869578967,
+    "name": "Shanxi Sports Center Stadium",
+    "city": "Taiyuan",
+    "capacity": 62000,
+    "latitude": 37.7575473,
+    "longitude": 112.5395162
+  },
+  {
+    "id": 34177466590,
+    "name": "Shenzhen Wujiayi Football Club No.5 Training Base",
+    "city": "Shenzhen",
+    "capacity": null,
+    "latitude": 22.633213,
+    "longitude": 114.036244
+  },
+  {
+    "id": 688605075054,
+    "name": "Bao'an Stadium",
+    "city": "Baoan",
+    "capacity": 40050,
+    "latitude": 22.557916,
+    "longitude": 113.879597
+  },
+  {
+    "id": 21689,
+    "name": "Nanning Sports School Wuhe Campus Football Field",
+    "city": "Nanning",
+    "capacity": 2000,
+    "latitude": 22.762882,
+    "longitude": 108.390654
+  },
+  {
+    "id": 169123683815,
+    "name": "Huadu Stadium",
+    "city": "Guangzhou",
+    "capacity": 20311,
+    "latitude": 23.3840921,
+    "longitude": 113.2213003
+  },
+  {
+    "id": 21690,
+    "name": "Linping Sports Center Stadium",
+    "city": "Hangzhou",
+    "capacity": 10000,
+    "latitude": 30.4228,
+    "longitude": 120.29721
+  },
+  {
+    "id": 665128440499,
+    "name": "Shaanxi Province Stadium",
+    "city": "Xi'an",
+    "capacity": 50100,
+    "latitude": 34.232261,
+    "longitude": 108.940771
+  },
+  {
+    "id": 21691,
+    "name": "Zoucheng Sports Center",
+    "city": "Zoucheng",
+    "capacity": 30000,
+    "latitude": 35.394632,
+    "longitude": 117.012223
+  },
+  {
+    "id": 21692,
+    "name": "Ledongli Lingang Football Sports Center",
+    "city": "Shanghai",
+    "capacity": 2300,
+    "latitude": 31.155555,
+    "longitude": 121.47303
+  }
+]

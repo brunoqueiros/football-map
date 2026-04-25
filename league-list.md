@@ -563,3 +563,52 @@
 # 60 | Non League Premier - Southern South
 # 995 | Non League Premier - Southern South - Play-offs
 # 39 | Premier League
+
+
+# Estonia
+# 657 | Cup
+# 328 | Esiliiga A
+# 1126 | Esiliiga B
+# 329 | Meistriliiga
+
+
+# Eswatini
+# 847 | Premier League
+
+
+# Ethiopia
+# 363 | Premier League
+
+
+# Faroe-Islands
+# 366 | 1. Deild
+# 491 | Løgmanssteypid
+# 367 | Meistaradeildin
+# 1177 | Super Cup
+
+
+# Fiji
+# 376 | National Football League
+
+
+# Finland
+# 247 | Kakkonen - Lohko A
+# 248 | Kakkonen - Lohko B
+# 249 | Kakkonen - Lohko C
+# 1052 | Kakkonen - Play-offs
+# 700 | Kakkosen Cup
+# 640 | Kansallinen Liiga
+# 899 | League Cup
+# 246 | Suomen Cup
+# 244 | Veikkausliiga
+# 245 | Ykkönen
+# 901 | Ykköscup
+# 1087 | Ykkösliiga
+
+
+# Gabon
+# 968 | Championnat D1
+
+
+# Gambia
+# 845 | GFA League
