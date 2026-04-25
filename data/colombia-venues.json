@@ -1,0 +1,218 @@
+[
+  {
+    "id": 383,
+    "name": "Estadio Nemesio Camacho El Campín",
+    "city": "Bogotá",
+    "capacity": 39512,
+    "latitude": 4.645942,
+    "longitude": -74.0775185
+  },
+  {
+    "id": 377,
+    "name": "Estadio Departamental Libertad",
+    "city": "San Juan de Pasto",
+    "capacity": 27380,
+    "latitude": 1.1980473,
+    "longitude": -77.27786789999999
+  },
+  {
+    "id": 376,
+    "name": "Estadio Deportivo Cali",
+    "city": "Palmira",
+    "capacity": 52000,
+    "latitude": 3.5218253,
+    "longitude": -76.4170055
+  },
+  {
+    "id": 380,
+    "name": "Estadio Atanasio Girardot",
+    "city": "Medellín",
+    "capacity": 45943,
+    "latitude": 6.256767,
+    "longitude": -75.5901729
+  },
+  {
+    "id": 379,
+    "name": "Estadio Polideportivo Sur",
+    "city": "Envigado",
+    "capacity": 14000,
+    "latitude": 6.1643931,
+    "longitude": -75.5996724
+  },
+  {
+    "id": 370,
+    "name": "Estadio Guillermo Plazas Alcid",
+    "city": "Neiva",
+    "capacity": 27000,
+    "latitude": 2.9359166,
+    "longitude": -75.2802951
+  },
+  {
+    "id": 21805,
+    "name": "Estadio Américo Montanini",
+    "city": "Bucaramanga",
+    "capacity": 28000,
+    "latitude": 7.1366903,
+    "longitude": -73.11656239999999
+  },
+  {
+    "id": 372,
+    "name": "Estadio de La Independencia",
+    "city": "Tunja",
+    "capacity": 25000,
+    "latitude": 5.5420772,
+    "longitude": -73.3533681
+  },
+  {
+    "id": 1779,
+    "name": "Estadio Jaraguay de Montería",
+    "city": "Montería",
+    "capacity": 12000,
+    "latitude": 8.7114809,
+    "longitude": -75.8284056
+  },
+  {
+    "id": 371,
+    "name": "Estadio Metropolitano de Techo",
+    "city": "Bogotá",
+    "capacity": 10000,
+    "latitude": 4.623465599999999,
+    "longitude": -74.1357893
+  },
+  {
+    "id": 366,
+    "name": "Estadio Metropolitano Roberto Meléndez",
+    "city": "Barranquilla",
+    "capacity": 49612,
+    "latitude": 10.9269606,
+    "longitude": -74.8005364
+  },
+  {
+    "id": 384,
+    "name": "Estadio Palogrande",
+    "city": "Manizales",
+    "capacity": 42678,
+    "latitude": 5.0569638,
+    "longitude": -75.48999490000001
+  },
+  {
+    "id": 368,
+    "name": "Estadio Olímpico Pascual Guerrero",
+    "city": "Santiago de Cali",
+    "capacity": 46400,
+    "latitude": 3.4298633,
+    "longitude": -76.54103359999999
+  },
+  {
+    "id": 367,
+    "name": "Estadio Daniel Villa Zapata",
+    "city": "Barrancabermeja",
+    "capacity": 10400,
+    "latitude": 7.072995000000001,
+    "longitude": -73.8645107
+  },
+  {
+    "id": 375,
+    "name": "Estadio Manuel Murillo Toro",
+    "city": "Ibagué",
+    "capacity": 38000,
+    "latitude": 4.4299645,
+    "longitude": -75.21817279999999
+  },
+  {
+    "id": 381,
+    "name": "Estadio Alberto Grisales",
+    "city": "Rionegro",
+    "capacity": 14000,
+    "latitude": 6.146667,
+    "longitude": -75.3727569
+  },
+  {
+    "id": 382,
+    "name": "Estadio Municipal de Cota",
+    "city": "Cota",
+    "capacity": 4000,
+    "latitude": 4.818527,
+    "longitude": -74.09886399999999
+  },
+  {
+    "id": 385,
+    "name": "Estadio Olímpico Jaime Morón León",
+    "city": "Cartagena de Indias",
+    "capacity": 16068,
+    "latitude": 10.4056332,
+    "longitude": -75.4981579
+  },
+  {
+    "id": 374,
+    "name": "Estadio Centenario",
+    "city": "Armenia",
+    "capacity": 20729,
+    "latitude": 4.515826200000001,
+    "longitude": -75.6987773
+  },
+  {
+    "id": 378,
+    "name": "Estadio Hernán Ramírez Villegas",
+    "city": "Pereira",
+    "capacity": 30297,
+    "latitude": 4.8041189,
+    "longitude": -75.7520437
+  },
+  {
+    "id": 386,
+    "name": "Estadio Alfonso López",
+    "city": "Bucaramanga",
+    "capacity": 25000,
+    "latitude": 7.1366903,
+    "longitude": -73.11656239999999
+  },
+  {
+    "id": 20648,
+    "name": "Estadio Bello Horizonte - Rey Pelé",
+    "city": "Villavicencio",
+    "capacity": 18000,
+    "latitude": 4.1398773,
+    "longitude": -73.6204741
+  },
+  {
+    "id": 387,
+    "name": "Estadio Sierra Nevada",
+    "city": "Santa Marta",
+    "capacity": 16000,
+    "latitude": 11.1906304,
+    "longitude": -74.19925959999999
+  },
+  {
+    "id": 1867,
+    "name": "Estadio Francisco Rivera Escobar",
+    "city": "Palmira",
+    "capacity": 9000,
+    "latitude": 3.5273686,
+    "longitude": -76.3069385
+  },
+  {
+    "id": 373,
+    "name": "Estadio General Santander",
+    "city": "Cúcuta",
+    "capacity": 42901,
+    "latitude": 7.894729600000001,
+    "longitude": -72.50199549999999
+  },
+  {
+    "id": 692484554288,
+    "name": "Estadio Luis Carlos Galán Sarmiento",
+    "city": "Soacha",
+    "capacity": 10000,
+    "latitude": 4.584300799999999,
+    "longitude": -74.213477
+  },
+  {
+    "id": 383513181332,
+    "name": "Estadio Francisco Rivera Escobar",
+    "city": "Palmira",
+    "capacity": 15300,
+    "latitude": 3.5273686,
+    "longitude": -76.3069385
+  }
+]
