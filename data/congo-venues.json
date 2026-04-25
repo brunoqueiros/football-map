@@ -1,0 +1,82 @@
+[
+  {
+    "id": 390,
+    "name": "Stade Alphonse Massamba-Débat",
+    "city": "Brazzaville",
+    "capacity": 33037,
+    "latitude": -4.2734098,
+    "longitude": 15.2487562
+  },
+  {
+    "id": 4738,
+    "name": "Complexe Omnisports d’Oyo",
+    "city": "Oyo",
+    "capacity": 1629,
+    "latitude": 50.4754523,
+    "longitude": 5.680012800000001
+  },
+  {
+    "id": 19300,
+    "name": "Stade Paul Sayal Moukila",
+    "city": "Dolisie",
+    "capacity": 20000,
+    "latitude": -4.2074509,
+    "longitude": 12.6857748
+  },
+  {
+    "id": 5748,
+    "name": "Complexe Sportif de Pointe-Noire",
+    "city": "Pointe-Noire",
+    "capacity": 13594,
+    "latitude": -4.777500799999999,
+    "longitude": 11.8659039
+  },
+  {
+    "id": 779893375202,
+    "name": "Stade Alphonse Massemba-Débat",
+    "city": "Brazzaville",
+    "capacity": 33030,
+    "latitude": -4.2734098,
+    "longitude": 15.2487562
+  },
+  {
+    "id": 710314593742,
+    "name": "Stade Marien Ngouabi",
+    "city": "Pointe-Noire",
+    "capacity": 13000,
+    "latitude": -4.777500799999999,
+    "longitude": 11.8659039
+  },
+  {
+    "id": 697286555125,
+    "name": "Stade Municipal de Pointe-Noire",
+    "city": "Pointe-Noire",
+    "capacity": 13594,
+    "latitude": -4.777500799999999,
+    "longitude": 11.8659039
+  },
+  {
+    "id": 339922119686,
+    "name": "Stade des Martyrs de la Pentecôte",
+    "city": "Kinshasa",
+    "capacity": 80000,
+    "latitude": -4.3302879,
+    "longitude": 15.3103565
+  },
+  {
+    "id": 639273896352,
+    "name": "Stade du Colonel Denis Sassou Nguesso",
+    "city": "Dolisie",
+    "capacity": 12000,
+    "latitude": -4.2074509,
+    "longitude": 12.6857748
+  },
+  {
+    "id": 296446630394,
+    "name": "Stade de Madingou",
+    "city": "Madingou",
+    "capacity": 7000,
+    "latitude": -4.1713505,
+    "longitude": 13.5568295
+  }
+]

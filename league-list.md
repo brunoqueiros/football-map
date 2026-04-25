@@ -612,3 +612,42 @@
 
 # Gambia
 # 845 | GFA League
+
+
+# Georgia
+# 672 | David Kipiani Cup
+# 327 | Erovnuli Liga
+# 326 | Erovnuli Liga 2
+# 1104 | Liga 3
+# 530 | Super Cup
+
+
+# Germany
+# 79 | 2. Bundesliga
+# 80 | 3. Liga
+# 78 | Bundesliga
+# 81 | DFB Pokal
+# 753 | Oberliga - Baden-Württemberg
+# 938 | Oberliga - Bayern Nord
+# 939 | Oberliga - Bayern Süd
+# 749 | Oberliga - Bremen
+# 745 | Oberliga - Hamburg
+# 750 | Oberliga - Hessen
+# 746 | Oberliga - Mittelrhein
+# 751 | Oberliga - Niederrhein
+# 748 | Oberliga - Niedersachsen
+# 754 | Oberliga - Nordost-Nord
+# 755 | Oberliga - Nordost-Süd
+# 988 | Oberliga - Promotion Round
+# 989 | Oberliga - Relegation Round
+# 752 | Oberliga - Rheinland-Pfalz / Saar
+# 744 | Oberliga - Schleswig-Holstein
+# 747 | Oberliga - Westfalen
+# 83 | Regionalliga - Bayern
+# 84 | Regionalliga - Nord
+# 85 | Regionalliga - Nordost
+# 1002 | Regionalliga - Promotion Play-offs
+# 1003 | Regionalliga - Relegation Round
+# 86 | Regionalliga - SudWest
+# 87 | Regionalliga - West
+# 529 | Super Cup
