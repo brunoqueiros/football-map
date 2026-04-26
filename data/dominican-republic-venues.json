@@ -1,0 +1,66 @@
+[
+  {
+    "id": 976070579806,
+    "name": "Estadio Olímpico Félix Sánchez",
+    "city": "Santo Domingo",
+    "capacity": 27000,
+    "latitude": 18.4804263,
+    "longitude": -69.9186958
+  },
+  {
+    "id": 126299372256,
+    "name": "Estadio Cibao FC",
+    "city": "Santiago de los Caballeros",
+    "capacity": 10000,
+    "latitude": 19.4454,
+    "longitude": -70.6796998
+  },
+  {
+    "id": 112875464654231,
+    "name": "Estadio Leonel Plácido",
+    "city": "Puerto Plata",
+    "capacity": 32157,
+    "latitude": 19.79227850237159,
+    "longitude": -70.68082802162726
+  },
+  {
+    "id": 949911894603,
+    "name": "Estadio Parque del Este",
+    "city": "Santo Domingo Este",
+    "capacity": 5000,
+    "latitude": 18.4791893,
+    "longitude": -69.8543428
+  },
+  {
+    "id": 78136369332,
+    "name": "Estadio Olímpico Félix Sánchez",
+    "city": "Santo Domingo",
+    "capacity": 27000,
+    "latitude": 18.4804263,
+    "longitude": -69.9186958
+  },
+  {
+    "id": 495946385176,
+    "name": "Estadio Olímpico La Vega",
+    "city": "La Vega",
+    "capacity": 7000,
+    "latitude": 19.2281998,
+    "longitude": -70.5135111
+  },
+  {
+    "id": 1231021468566,
+    "name": "Moca FC Football Stadium",
+    "city": "Moca",
+    "capacity": 4000,
+    "latitude": 19.3837635,
+    "longitude": -70.5341802
+  },
+  {
+    "id": 33648720245,
+    "name": "Estadio Panamericano",
+    "city": "San Cristóbal",
+    "capacity": 2800,
+    "latitude": 18.4147536,
+    "longitude": -70.1198272
+  }
+]

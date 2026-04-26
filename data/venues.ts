@@ -42,3 +42,4 @@ export { default as cuba } from './cuba-venues.json';
 export { default as cyprus } from './cyprus-venues.json';
 export { default as czechRepublic } from './czech-republic-venues.json';
 export { default as denmark } from './denmark-venues.json';
+export { default as dominicanRepublic } from './dominican-republic-venues.json';
