@@ -1,0 +1,130 @@
+[
+  {
+    "id": 7374,
+    "name": "Estadio Antonio Maceo",
+    "city": "Santiago de Cuba",
+    "capacity": 5000,
+    "latitude": 20.0297799,
+    "longitude": -75.8149026
+  },
+  {
+    "id": 18504,
+    "name": "Estadio de Guanajay",
+    "city": "Guanajay",
+    "capacity": 3000,
+    "latitude": 22.926653,
+    "longitude": -82.68873339999999
+  },
+  {
+    "id": 18505,
+    "name": "Estadio Amador Fernández",
+    "city": "Camagüey",
+    "capacity": 1000,
+    "latitude": 21.3925336,
+    "longitude": -77.9406825
+  },
+  {
+    "id": 18506,
+    "name": "Estadio Sergio Alonso Grandal",
+    "city": "Morón",
+    "capacity": 3000,
+    "latitude": 22.117569273551407,
+    "longitude": -78.63146159163384
+  },
+  {
+    "id": 18507,
+    "name": "Estadio Luis Pérez Lozano",
+    "city": "Cienfuegos",
+    "capacity": 4000,
+    "latitude": 22.1360215,
+    "longitude": -80.4441258
+  },
+  {
+    "id": 18508,
+    "name": "Estádio Mártires de Barbados",
+    "city": "Bayamo",
+    "capacity": 1000,
+    "latitude": 20.3680334,
+    "longitude": -76.63008889999999
+  },
+  {
+    "id": 18509,
+    "name": "Estadio Rogelio Palacios",
+    "city": "Guantánamo",
+    "capacity": 5000,
+    "latitude": 20.1349979,
+    "longitude": -75.19608629999999
+  },
+  {
+    "id": 18510,
+    "name": "Estadio Calixto García",
+    "city": "Holguín",
+    "capacity": 30000,
+    "latitude": 20.887618,
+    "longitude": -76.2448342
+  },
+  {
+    "id": 18511,
+    "name": "Estadio El Rodeo de Nueva Gerona",
+    "city": "Isla de la Juventud",
+    "capacity": 2000,
+    "latitude": 21.8820599,
+    "longitude": -82.80941899999999
+  },
+  {
+    "id": 18512,
+    "name": "Estadio La Polar",
+    "city": "La Habana",
+    "capacity": 2000,
+    "latitude": 23.0970731,
+    "longitude": -82.40183789999999
+  },
+  {
+    "id": 18513,
+    "name": "Estadio Ovidio Torres",
+    "city": "Manatí",
+    "capacity": 2000,
+    "latitude": 21.3171494,
+    "longitude": -76.93319869999999
+  },
+  {
+    "id": 18514,
+    "name": "Estadio Palmar de Junco",
+    "city": "Matanzas",
+    "capacity": 1000,
+    "latitude": 23.0345325,
+    "longitude": -81.5804775
+  },
+  {
+    "id": 181985511023,
+    "name": "Estadio Nelson Fernández",
+    "city": "San José de las Lajas",
+    "capacity": 3000,
+    "latitude": 22.9635312,
+    "longitude": -82.144017
+  },
+  {
+    "id": 18515,
+    "name": "Estadio Hermanos García",
+    "city": "Pinar del Río",
+    "capacity": 3000,
+    "latitude": 22.421723989140126,
+    "longitude": -83.6901048446881
+  },
+  {
+    "id": 18516,
+    "name": "Estadio Terreno la Formadora",
+    "city": "Sancti Spíritus",
+    "capacity": 2843,
+    "latitude": 21.9354992,
+    "longitude": -79.42783969999999
+  },
+  {
+    "id": 18517,
+    "name": "Estadio Augusto César Sandino",
+    "city": "Santa Clara",
+    "capacity": 20000,
+    "latitude": 22.4039896,
+    "longitude": -79.95493139999999
+  }
+]

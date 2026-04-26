@@ -38,3 +38,4 @@ export { default as congo } from './congo-venues.json';
 export { default as congoDR } from './congo-dr-venues.json';
 export { default as costaRica } from './costa-rica-venues.json';
 export { default as croatia } from './croatia-venues.json';
+export { default as cuba } from './cuba-venues.json';
