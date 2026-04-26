@@ -41,3 +41,4 @@ export { default as croatia } from './croatia-teams.json';
 export { default as cuba } from './cuba-teams.json';
 export { default as cyprus } from './cyprus-teams.json';
 export { default as czechRepublic } from './czech-republic-teams.json';
+export { default as denmark } from './denmark-teams.json';

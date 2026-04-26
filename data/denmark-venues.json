@@ -1,0 +1,994 @@
+[
+  {
+    "id": 448,
+    "name": "Nord Energi Arena",
+    "city": "Hjørring",
+    "capacity": 7500,
+    "latitude": 57.45773670000001,
+    "longitude": 9.9974335
+  },
+  {
+    "id": 445,
+    "name": "Blue Water Arena",
+    "city": "Esbjerg",
+    "capacity": 18000,
+    "latitude": 55.4819865,
+    "longitude": 8.439454
+  },
+  {
+    "id": 19379,
+    "name": "Nordstern Arena Horsens",
+    "city": "Horsens",
+    "capacity": 12452,
+    "latitude": 55.8710561,
+    "longitude": 9.857505999999999
+  },
+  {
+    "id": 456,
+    "name": "Nature Energy Park",
+    "city": "Odense",
+    "capacity": 15790,
+    "latitude": 55.3978008,
+    "longitude": 10.3500634
+  },
+  {
+    "id": 449,
+    "name": "DS Arena",
+    "city": "Hobro",
+    "capacity": 6600,
+    "latitude": 56.6331631,
+    "longitude": 9.8169036
+  },
+  {
+    "id": 446,
+    "name": "Monjasa Park",
+    "city": "Fredericia",
+    "capacity": 4000,
+    "latitude": 55.5781015,
+    "longitude": 9.7291425
+  },
+  {
+    "id": 11892,
+    "name": "Capelli Sport Stadion",
+    "city": "Køge",
+    "capacity": 10000,
+    "latitude": 55.468549,
+    "longitude": 12.1768333
+  },
+  {
+    "id": 458,
+    "name": "Roskilde Idrætspark",
+    "city": "Roskilde",
+    "capacity": 6000,
+    "latitude": 55.6367731,
+    "longitude": 12.0725532
+  },
+  {
+    "id": 451,
+    "name": "Pro Ventilation Arena",
+    "city": "Hvidovre",
+    "capacity": 15600,
+    "latitude": 55.6313249,
+    "longitude": 12.4832115
+  },
+  {
+    "id": 3525,
+    "name": "Autocentralen Park",
+    "city": "Kolding",
+    "capacity": 10000,
+    "latitude": 55.4941402,
+    "longitude": 9.459133999999999
+  },
+  {
+    "id": 442,
+    "name": "Sundby Idrætspark",
+    "city": "København",
+    "capacity": 7200,
+    "latitude": 55.65002939999999,
+    "longitude": 12.6003939
+  },
+  {
+    "id": 454,
+    "name": "Right to Dream Park",
+    "city": "Farum",
+    "capacity": 10300,
+    "latitude": 55.8162203,
+    "longitude": 12.3513091
+  },
+  {
+    "id": 2682,
+    "name": "Gladsaxe Stadion",
+    "city": "Søborg",
+    "capacity": 13200,
+    "latitude": 55.7328443,
+    "longitude": 12.4967347
+  },
+  {
+    "id": 444,
+    "name": "Helsingør Ny Stadion OPV",
+    "city": "Helsingør",
+    "capacity": 6733,
+    "latitude": 56.0464114,
+    "longitude": 12.5848804
+  },
+  {
+    "id": 11893,
+    "name": "Lollands Bank Park",
+    "city": "Nykøbing Falster",
+    "capacity": 10000,
+    "latitude": 54.7723774,
+    "longitude": 11.8754681
+  },
+  {
+    "id": 21388,
+    "name": "MTM Service Park",
+    "city": "Næstved",
+    "capacity": 14300,
+    "latitude": 55.2224003,
+    "longitude": 11.7655403
+  },
+  {
+    "id": 2681,
+    "name": "Hancock Arena",
+    "city": "Skive",
+    "capacity": 6000,
+    "latitude": 56.5679513,
+    "longitude": 9.0370594
+  },
+  {
+    "id": 461,
+    "name": "Sparekassen Thy Arena",
+    "city": "Thisted",
+    "capacity": 4000,
+    "latitude": 56.7821188,
+    "longitude": 8.8405709
+  },
+  {
+    "id": 4468,
+    "name": "Riisvangen Stadion",
+    "city": "Århus",
+    "capacity": 5000,
+    "latitude": 56.179455,
+    "longitude": 10.2121277
+  },
+  {
+    "id": 4477,
+    "name": "Valby Idrætspark",
+    "city": "København",
+    "capacity": 11966,
+    "latitude": 55.6461087,
+    "longitude": 12.5160204
+  },
+  {
+    "id": 20758,
+    "name": "Gentofte Sportspark Vest",
+    "city": "Gentofte",
+    "capacity": 1000,
+    "latitude": 55.757248,
+    "longitude": 12.5258645
+  },
+  {
+    "id": 4495,
+    "name": "Middelfart Stadion",
+    "city": "Middelfart",
+    "capacity": 4000,
+    "latitude": 55.503932,
+    "longitude": 9.715080799999999
+  },
+  {
+    "id": 6177,
+    "name": "Ishøj Idrætscenter",
+    "city": "Ishøj",
+    "capacity": 1226,
+    "latitude": 55.6165481,
+    "longitude": 12.3686726
+  },
+  {
+    "id": 2680,
+    "name": "Brabrand IF's Idrætsanlæg",
+    "city": "Brabrand",
+    "capacity": 2900,
+    "latitude": 56.1495897,
+    "longitude": 10.117743
+  },
+  {
+    "id": 10631,
+    "name": "Tømrermester Jim Jensens Park",
+    "city": "Rødovre",
+    "capacity": 6000,
+    "latitude": 55.6745781,
+    "longitude": 12.4320164
+  },
+  {
+    "id": 4473,
+    "name": "Tingbjerg Idrætspark",
+    "city": "Brønshøj",
+    "capacity": 3000,
+    "latitude": 55.7187341,
+    "longitude": 12.4922502
+  },
+  {
+    "id": 21385,
+    "name": "Holbæk Sportsby",
+    "city": "Holbæk",
+    "capacity": 1000,
+    "latitude": 55.69748689999999,
+    "longitude": 11.6866048
+  },
+  {
+    "id": 22113,
+    "name": "Krøyer Park",
+    "city": "Holstebro",
+    "capacity": 15000,
+    "latitude": 56.3659711,
+    "longitude": 8.6306879
+  },
+  {
+    "id": 4491,
+    "name": "Lyseng Idrætspark",
+    "city": "Højbjerg",
+    "capacity": 1000,
+    "latitude": 56.1122205,
+    "longitude": 10.1938541
+  },
+  {
+    "id": 4498,
+    "name": "Spektrum Odder",
+    "city": "Odder",
+    "capacity": 4000,
+    "latitude": 55.9783752,
+    "longitude": 10.1524615
+  },
+  {
+    "id": 22125,
+    "name": "Ceres Park Vejlby",
+    "city": "Risskov",
+    "capacity": 12000,
+    "latitude": 56.1924254,
+    "longitude": 10.2102887
+  },
+  {
+    "id": 4476,
+    "name": "Frederiksberg IP",
+    "city": "Frederiksberg",
+    "capacity": 5000,
+    "latitude": 55.6810232,
+    "longitude": 12.4986814
+  },
+  {
+    "id": 6168,
+    "name": "ALPI Arena Næsby",
+    "city": "Odense",
+    "capacity": 4500,
+    "latitude": 55.433191,
+    "longitude": 10.340052
+  },
+  {
+    "id": 6179,
+    "name": "Søholt Idrætsanlæg græs",
+    "city": "Silkeborg",
+    "capacity": 1000,
+    "latitude": 56.1827713,
+    "longitude": 9.5741759
+  },
+  {
+    "id": 462,
+    "name": "Vejle Stadion",
+    "city": "Vejle",
+    "capacity": 10418,
+    "latitude": 55.7132878,
+    "longitude": 9.5561694
+  },
+  {
+    "id": 460,
+    "name": "Sydbank Park",
+    "city": "Haderslev",
+    "capacity": 10000,
+    "latitude": 55.26131609999999,
+    "longitude": 9.4877409
+  },
+  {
+    "id": 453,
+    "name": "MCH Arena",
+    "city": "Herning",
+    "capacity": 12152,
+    "latitude": 56.11687749999999,
+    "longitude": 8.9517224
+  },
+  {
+    "id": 11600,
+    "name": "Parken",
+    "city": "København",
+    "capacity": 38065,
+    "latitude": 55.7027203,
+    "longitude": 12.5723096
+  },
+  {
+    "id": 457,
+    "name": "Cepheus Park Randers",
+    "city": "Randers",
+    "capacity": 12000,
+    "latitude": 56.465884,
+    "longitude": 10.010277
+  },
+  {
+    "id": 440,
+    "name": "Aalborg Portland Park",
+    "city": "Aalborg",
+    "capacity": 13797,
+    "latitude": 57.0515968,
+    "longitude": 9.898489699999999
+  },
+  {
+    "id": 441,
+    "name": "Ceres Park & Arena",
+    "city": "Århus",
+    "capacity": 22175,
+    "latitude": 56.13203979999999,
+    "longitude": 10.1967186
+  },
+  {
+    "id": 443,
+    "name": "Brøndby Stadion",
+    "city": "Brøndby",
+    "capacity": 29000,
+    "latitude": 55.6488083,
+    "longitude": 12.4175395
+  },
+  {
+    "id": 452,
+    "name": "Lyngby Stadion",
+    "city": "Lyngby",
+    "capacity": 10100,
+    "latitude": 55.78156019999999,
+    "longitude": 12.5075351
+  },
+  {
+    "id": 463,
+    "name": "Energi Viborg Arena",
+    "city": "Viborg",
+    "capacity": 9566,
+    "latitude": 56.45524200000001,
+    "longitude": 9.4017235
+  },
+  {
+    "id": 459,
+    "name": "JYSK park",
+    "city": "Silkeborg",
+    "capacity": 10000,
+    "latitude": 56.18459540000001,
+    "longitude": 9.5741701
+  },
+  {
+    "id": 19426,
+    "name": "Rema 1000 Park - Dalum",
+    "city": "Odense",
+    "capacity": 4000,
+    "latitude": 55.3660065,
+    "longitude": 10.373451
+  },
+  {
+    "id": 10656,
+    "name": "Herlev Stadion",
+    "city": "Herlev",
+    "capacity": 3500,
+    "latitude": 55.7354903,
+    "longitude": 12.4216137
+  },
+  {
+    "id": 4486,
+    "name": "Karlslunde Stadion",
+    "city": "Karlslunde",
+    "capacity": 1000,
+    "latitude": 55.561941,
+    "longitude": 12.252099
+  },
+  {
+    "id": 10632,
+    "name": "XL-byg Arena",
+    "city": "Kjellerup",
+    "capacity": 1734,
+    "latitude": 56.2809883,
+    "longitude": 9.4503402
+  },
+  {
+    "id": 4488,
+    "name": "Mosevej Sportsplads",
+    "city": "Kolding",
+    "capacity": 1500,
+    "latitude": 55.470186,
+    "longitude": 9.465039599999999
+  },
+  {
+    "id": 988043054842,
+    "name": "Nørresundby Stadion",
+    "city": "Nørresundby",
+    "capacity": 3000,
+    "latitude": 57.07890399999999,
+    "longitude": 9.901207
+  },
+  {
+    "id": 4496,
+    "name": "Nordjyske Bank Arena",
+    "city": "Nørresundby",
+    "capacity": 1200,
+    "latitude": 57.0584857,
+    "longitude": 9.9222517
+  },
+  {
+    "id": 4497,
+    "name": "OKSON-Park",
+    "city": "Odense C",
+    "capacity": 1000,
+    "latitude": 55.3824774,
+    "longitude": 10.3658926
+  },
+  {
+    "id": 4500,
+    "name": "Green Arena",
+    "city": "Ringkøbing",
+    "capacity": 2000,
+    "latitude": 56.083775,
+    "longitude": 8.2675349
+  },
+  {
+    "id": 553167726845,
+    "name": "SGI Anlægget",
+    "city": "Svendborg",
+    "capacity": null,
+    "latitude": 55.05680419999999,
+    "longitude": 10.5777187
+  },
+  {
+    "id": 22120,
+    "name": "Spar Nord Arena – Høje Bøge",
+    "city": "Svendborg",
+    "capacity": 7000,
+    "latitude": 55.05497159999999,
+    "longitude": 10.596138
+  },
+  {
+    "id": 4503,
+    "name": "Birkerød Stadion",
+    "city": "Birkerød",
+    "capacity": 1500,
+    "latitude": 55.8391057,
+    "longitude": 12.4346981
+  },
+  {
+    "id": 4510,
+    "name": "Home Tarup Park",
+    "city": "Odense",
+    "capacity": 1000,
+    "latitude": 55.4093989,
+    "longitude": 10.3123881
+  },
+  {
+    "id": 4512,
+    "name": "Vanløse IP",
+    "city": "Vanløse",
+    "capacity": 10000,
+    "latitude": 55.686257,
+    "longitude": 12.4769756
+  },
+  {
+    "id": 4514,
+    "name": "Bøgeskov Idrætsanlæg",
+    "city": "Fredericia",
+    "capacity": 1000,
+    "latitude": 55.61994439999999,
+    "longitude": 9.7609211
+  },
+  {
+    "id": 21387,
+    "name": "Spar Nord Arena",
+    "city": "Aalborg",
+    "capacity": 1000,
+    "latitude": 57.0532236,
+    "longitude": 9.8765798
+  },
+  {
+    "id": 6169,
+    "name": "Allerød Idrætspark",
+    "city": "Allerød",
+    "capacity": 1000,
+    "latitude": 55.8685157,
+    "longitude": 12.3175899
+  },
+  {
+    "id": 6173,
+    "name": "Tårnby Stadion",
+    "city": "Kastrup",
+    "capacity": 10000,
+    "latitude": 55.628882,
+    "longitude": 12.6090891
+  },
+  {
+    "id": 7589,
+    "name": "Campus Road",
+    "city": "Odense",
+    "capacity": 5000,
+    "latitude": 55.37036879999999,
+    "longitude": 10.429917
+  },
+  {
+    "id": 246604592283,
+    "name": "Marienlyst Stadion",
+    "city": "Odense",
+    "capacity": 3000,
+    "latitude": 55.4225737,
+    "longitude": 10.3972306
+  },
+  {
+    "id": 22116,
+    "name": "OK Plus Stadion",
+    "city": "Nakskov",
+    "capacity": 5000,
+    "latitude": 54.8324606,
+    "longitude": 11.1628944
+  },
+  {
+    "id": 7631,
+    "name": "Hørsholm Idrætspark",
+    "city": "Rungsted Kyst",
+    "capacity": 3000,
+    "latitude": 55.8961662,
+    "longitude": 12.5152437
+  },
+  {
+    "id": 22117,
+    "name": "LUIF´s anlæg",
+    "city": "Nykøbing",
+    "capacity": 1000,
+    "latitude": 54.7899323,
+    "longitude": 11.9644044
+  },
+  {
+    "id": 7592,
+    "name": "Nexø Stadion",
+    "city": "Nexø",
+    "capacity": 3000,
+    "latitude": 55.068678,
+    "longitude": 15.1191971
+  },
+  {
+    "id": 615047397261,
+    "name": "Christiansbjerg Idrætspark",
+    "city": "Aarhus",
+    "capacity": null,
+    "latitude": 56.181987,
+    "longitude": 10.1898479
+  },
+  {
+    "id": 7600,
+    "name": "Herlufsholm Stadion",
+    "city": "Næstved",
+    "capacity": 1000,
+    "latitude": 55.247497,
+    "longitude": 11.7567869
+  },
+  {
+    "id": 22119,
+    "name": "Kastrup IA ved Røllikevej",
+    "city": "Kastrup",
+    "capacity": 1000,
+    "latitude": 55.6321711,
+    "longitude": 12.6298589
+  },
+  {
+    "id": 7602,
+    "name": "Ringsted Stadion",
+    "city": "Ringsted",
+    "capacity": 4000,
+    "latitude": 55.44662229999999,
+    "longitude": 11.8076374
+  },
+  {
+    "id": 7604,
+    "name": "Frejaparken",
+    "city": "Aalborg",
+    "capacity": 1000,
+    "latitude": 57.05038580000001,
+    "longitude": 9.8927766
+  },
+  {
+    "id": 7605,
+    "name": "Gillested Park",
+    "city": "Odense",
+    "capacity": 6000,
+    "latitude": 55.41116109999999,
+    "longitude": 10.4278896
+  },
+  {
+    "id": 19519,
+    "name": "Vestjysk Bank Stadion Varde",
+    "city": "Varde",
+    "capacity": 4000,
+    "latitude": 55.633008,
+    "longitude": 8.472737
+  },
+  {
+    "id": 7620,
+    "name": "Svebølle Stadion",
+    "city": "Svebølle",
+    "capacity": 1000,
+    "latitude": 55.649379,
+    "longitude": 11.287623
+  },
+  {
+    "id": 7621,
+    "name": "Chang Park",
+    "city": "Aalborg",
+    "capacity": 1000,
+    "latitude": 57.028223,
+    "longitude": 9.910359999999999
+  },
+  {
+    "id": 279254297888,
+    "name": "Gug Stadion",
+    "city": "Aalborg",
+    "capacity": null,
+    "latitude": 57.0050463,
+    "longitude": 9.9226146
+  },
+  {
+    "id": 7637,
+    "name": "Madsby Enge",
+    "city": "Fredericia",
+    "capacity": 1000,
+    "latitude": 55.572083,
+    "longitude": 9.7398992
+  },
+  {
+    "id": 22121,
+    "name": "ASA grounds (boldbaner)",
+    "city": "Århus",
+    "capacity": 1000,
+    "latitude": 56.1437177,
+    "longitude": 10.1971563
+  },
+  {
+    "id": 18831,
+    "name": "Solrød Sports Centre",
+    "city": "Solrød Strand",
+    "capacity": 1000,
+    "latitude": 55.529467,
+    "longitude": 12.213261
+  },
+  {
+    "id": 409120262909,
+    "name": "Give Stadion",
+    "city": "Give",
+    "capacity": null,
+    "latitude": 55.851448,
+    "longitude": 9.23155
+  },
+  {
+    "id": 19820,
+    "name": "Gørslev Stadion",
+    "city": "Ringsted",
+    "capacity": 1000,
+    "latitude": 55.4283328,
+    "longitude": 11.9873343
+  },
+  {
+    "id": 860983046082,
+    "name": "Jyllinge Stadion",
+    "city": "Jyllinge",
+    "capacity": null,
+    "latitude": 55.7480404,
+    "longitude": 12.123443
+  },
+  {
+    "id": 377610366623,
+    "name": "Genforeningspladsen",
+    "city": "København",
+    "capacity": null,
+    "latitude": 55.6996921,
+    "longitude": 12.5200219
+  },
+  {
+    "id": 500880438665,
+    "name": "Bagsværd Stadion",
+    "city": "Bagsværd",
+    "capacity": 2000,
+    "latitude": 55.7599279,
+    "longitude": 12.4584518
+  },
+  {
+    "id": 516878032298,
+    "name": "Morud Stadion",
+    "city": "Morud",
+    "capacity": null,
+    "latitude": 55.44049,
+    "longitude": 10.192167
+  },
+  {
+    "id": 113031185716,
+    "name": "Tusindfryd",
+    "city": "Odense",
+    "capacity": null,
+    "latitude": 55.3927737,
+    "longitude": 10.373721
+  },
+  {
+    "id": 295156466490,
+    "name": "Bellinge Stadion",
+    "city": "Odense",
+    "capacity": null,
+    "latitude": 55.343207,
+    "longitude": 10.2919169
+  },
+  {
+    "id": 22168,
+    "name": "Bagsværd Stadion",
+    "city": "Bagsværd",
+    "capacity": 2000,
+    "latitude": 55.7599279,
+    "longitude": 12.4584518
+  },
+  {
+    "id": 549221398185,
+    "name": "Gistrup Stadion",
+    "city": "Gistrup",
+    "capacity": null,
+    "latitude": 56.99192230000001,
+    "longitude": 10.0032256
+  },
+  {
+    "id": 579857904415,
+    "name": "Lemming Idrætscenter",
+    "city": "Silkeborg",
+    "capacity": null,
+    "latitude": 56.18422839999999,
+    "longitude": 9.573293999999999
+  },
+  {
+    "id": 960225545745,
+    "name": "Ballerup Sports Park - Stadium",
+    "city": "Ballerup",
+    "capacity": 3000,
+    "latitude": 55.72059489999999,
+    "longitude": 12.3724678
+  },
+  {
+    "id": 646101971179,
+    "name": "Skjern Stadion",
+    "city": "Skjern",
+    "capacity": null,
+    "latitude": 55.9532272,
+    "longitude": 8.5010161
+  },
+  {
+    "id": 470418582586,
+    "name": "Sønderborg Stadion",
+    "city": "Sønderborg",
+    "capacity": 10000,
+    "latitude": 54.9055652,
+    "longitude": 9.7968806
+  },
+  {
+    "id": 476709940473,
+    "name": "Enghavevej Idrætspark",
+    "city": "København SV",
+    "capacity": null,
+    "latitude": 55.6461087,
+    "longitude": 12.5160204
+  },
+  {
+    "id": 164826180019,
+    "name": "Østerbro Stadion",
+    "city": "Copenhagen",
+    "capacity": 7000,
+    "latitude": 55.7041096,
+    "longitude": 12.5748815
+  },
+  {
+    "id": 22114,
+    "name": "Smørum Idrætscenter",
+    "city": "Smørum",
+    "capacity": 1000,
+    "latitude": 55.731621,
+    "longitude": 12.3034021
+  },
+  {
+    "id": 6174,
+    "name": "Frederikssund Stadion",
+    "city": "Frederikssund",
+    "capacity": 1200,
+    "latitude": 55.831161,
+    "longitude": 12.0601479
+  },
+  {
+    "id": 22166,
+    "name": "Emerson Arena Kunst",
+    "city": "Næstved",
+    "capacity": 1000,
+    "latitude": 55.222924,
+    "longitude": 11.7642451
+  },
+  {
+    "id": 7622,
+    "name": "Glostrup Idrætspark",
+    "city": "Glostrup",
+    "capacity": 4000,
+    "latitude": 55.6683333,
+    "longitude": 12.3758334
+  },
+  {
+    "id": 22169,
+    "name": "Hvidovre IF's baner",
+    "city": "Hvidovre",
+    "capacity": 1000,
+    "latitude": 55.6313208,
+    "longitude": 12.4831878
+  },
+  {
+    "id": 19818,
+    "name": "Fælledparken",
+    "city": "København",
+    "capacity": 1000,
+    "latitude": 55.70178920000001,
+    "longitude": 12.567908
+  },
+  {
+    "id": 6172,
+    "name": "Vestamager Idrætsanlæg",
+    "city": "Kastrup",
+    "capacity": 1000,
+    "latitude": 55.6047246,
+    "longitude": 12.5930815
+  },
+  {
+    "id": 6175,
+    "name": "GVI. Nymosen",
+    "city": "Gentofte",
+    "capacity": 1000,
+    "latitude": 55.7447495,
+    "longitude": 12.517699
+  },
+  {
+    "id": 6176,
+    "name": "Greve Idræts Center",
+    "city": "Greve",
+    "capacity": 7000,
+    "latitude": 55.59209360000001,
+    "longitude": 12.3025828
+  },
+  {
+    "id": 7597,
+    "name": "Fredensborg Stadion",
+    "city": "Fredensborg",
+    "capacity": 2000,
+    "latitude": 55.9770587,
+    "longitude": 12.4119432
+  },
+  {
+    "id": 997133960044,
+    "name": "Nykøbing Falster Idrætspark",
+    "city": "Nykøbing Falster",
+    "capacity": 10000,
+    "latitude": 54.7723774,
+    "longitude": 11.8754681
+  },
+  {
+    "id": 4479,
+    "name": "Hedensted Stadion",
+    "city": "Hedensted",
+    "capacity": 2000,
+    "latitude": 55.7743584,
+    "longitude": 9.6924145
+  },
+  {
+    "id": 4493,
+    "name": "Marienlystcentret",
+    "city": "Odense",
+    "capacity": 1200,
+    "latitude": 55.4225737,
+    "longitude": 10.3972306
+  },
+  {
+    "id": 7636,
+    "name": "Esbjerg Atletikstadion",
+    "city": "Esbjerg",
+    "capacity": 15000,
+    "latitude": 55.484821,
+    "longitude": 8.437515
+  },
+  {
+    "id": 10838,
+    "name": "Jacobsen Plus - Kunst Arena 2",
+    "city": "Horsens",
+    "capacity": 1000,
+    "latitude": 55.8613407,
+    "longitude": 9.819471499999999
+  },
+  {
+    "id": 608379885946,
+    "name": "Middelfart Stadion",
+    "city": "Middelfart",
+    "capacity": 4000,
+    "latitude": 55.503932,
+    "longitude": 9.715080799999999
+  },
+  {
+    "id": 4516,
+    "name": "Viby Idrætspark",
+    "city": "Viby J",
+    "capacity": 2000,
+    "latitude": 56.1269309,
+    "longitude": 10.1570802
+  },
+  {
+    "id": 20851,
+    "name": "Ulvehøj Idrætscenter",
+    "city": "Randers",
+    "capacity": 3000,
+    "latitude": 56.4226454,
+    "longitude": 10.0294097
+  },
+  {
+    "id": 4475,
+    "name": "HSM Arena Grenå",
+    "city": "Grenaa",
+    "capacity": 3420,
+    "latitude": 56.4221916,
+    "longitude": 10.9172372
+  },
+  {
+    "id": 128054554187,
+    "name": "Brøndby Stadion",
+    "city": "Brøndby",
+    "capacity": 28000,
+    "latitude": 55.6488083,
+    "longitude": 12.4175395
+  },
+  {
+    "id": 986263814056,
+    "name": "Kolding Stadion",
+    "city": "Kolding",
+    "capacity": 10000,
+    "latitude": 55.4941402,
+    "longitude": 9.459133999999999
+  },
+  {
+    "id": 441722893113,
+    "name": "Marienlystcentret",
+    "city": "Odense",
+    "capacity": null,
+    "latitude": 55.4225737,
+    "longitude": 10.3972306
+  },
+  {
+    "id": 450730721673,
+    "name": "Sparekassen Thy Arena",
+    "city": "Thisted",
+    "capacity": 3000,
+    "latitude": 56.7821188,
+    "longitude": 8.8405709
+  },
+  {
+    "id": 94564867460,
+    "name": "Østerbro Stadion",
+    "city": "København Ø",
+    "capacity": 7000,
+    "latitude": 55.7041096,
+    "longitude": 12.5748815
+  },
+  {
+    "id": 837056059933,
+    "name": "Ceres Park",
+    "city": "Aarhus",
+    "capacity": 19433,
+    "latitude": 56.13203979999999,
+    "longitude": 10.1967186
+  },
+  {
+    "id": 553839887960,
+    "name": "Ikast Stadion",
+    "city": "Ikast",
+    "capacity": 6800,
+    "latitude": 56.1449683,
+    "longitude": 9.1456549
+  }
+]
