@@ -45,3 +45,4 @@ export { default as denmark } from './denmark-teams.json';
 export { default as dominicanRepublic } from './dominican-republic-teams.json';
 export { default as ecuador } from './ecuador-teams.json';
 export { default as egypt } from './egypt-teams.json';
+export { default as elSalvador } from './el-salvador-teams.json';

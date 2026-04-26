@@ -1,0 +1,82 @@
+[
+  {
+    "id": 3284,
+    "name": "Estadio Cuscatlán",
+    "city": "San Salvador",
+    "capacity": 45925,
+    "latitude": 13.6810957,
+    "longitude": -89.222374
+  },
+  {
+    "id": 3286,
+    "name": "Estadio Óscar Alberto Quiteño",
+    "city": "Santa Ana",
+    "capacity": 15000,
+    "latitude": 13.9764385,
+    "longitude": -89.5689704
+  },
+  {
+    "id": 3287,
+    "name": "Estadio Sergio Torres Rivera",
+    "city": "Usulután",
+    "capacity": 5000,
+    "latitude": 13.3497501,
+    "longitude": -88.43797099999999
+  },
+  {
+    "id": 3288,
+    "name": "Estadio Jorge Calero Suárez",
+    "city": "Metapán",
+    "capacity": 10000,
+    "latitude": 14.3321125,
+    "longitude": -89.4489844
+  },
+  {
+    "id": 3290,
+    "name": "Estadio Dr. Ramón Flores Berríos",
+    "city": "Santa Rosa de Lima",
+    "capacity": 5000,
+    "latitude": 13.6322553,
+    "longitude": -87.8904117
+  },
+  {
+    "id": 32941,
+    "name": "Estadio Juan Francisco Barraza",
+    "city": "San Miguel",
+    "capacity": 10000,
+    "latitude": 13.482833748815183,
+    "longitude": -88.16857759424096
+  },
+  {
+    "id": 4214,
+    "name": "Estadio Simeón Magaña",
+    "city": "Ahuachapán",
+    "capacity": 5000,
+    "latitude": 13.9269305,
+    "longitude": -89.8491385
+  },
+  {
+    "id": 20172,
+    "name": "Estadio Municipal Chapeltique",
+    "city": "Chapeltique",
+    "capacity": 1000,
+    "latitude": 13.6334123,
+    "longitude": -88.26502219999999
+  },
+  {
+    "id": 20461,
+    "name": "Estadio Antonio Toledo Valle",
+    "city": "Zacatecoluca",
+    "capacity": 1000,
+    "latitude": 13.5195998,
+    "longitude": -88.871588
+  },
+  {
+    "id": 20460,
+    "name": "Estadio Tierra de Fuego",
+    "city": "San Francisco Gotera",
+    "capacity": 2500,
+    "latitude": 13.615859,
+    "longitude": -88.02823839999999
+  }
+]
