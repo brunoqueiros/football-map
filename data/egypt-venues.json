@@ -1,0 +1,354 @@
+[
+  {
+    "id": 484,
+    "name": "Ismaïlia Stadium",
+    "city": "Ismailia",
+    "capacity": 18525,
+    "latitude": 30.6014609,
+    "longitude": 32.274085
+  },
+  {
+    "id": 12568,
+    "name": "Al-Shorta Stadium",
+    "city": "Cairo",
+    "capacity": 5000,
+    "latitude": 30.0690928,
+    "longitude": 31.3123256
+  },
+  {
+    "id": 10635,
+    "name": "WE Al-Ahly Stadium",
+    "city": "Cairo",
+    "capacity": 30000,
+    "latitude": 30.1744025,
+    "longitude": 31.4351125
+  },
+  {
+    "id": 22699,
+    "name": "30 June Air Defence Stadium",
+    "city": "al-Qāhirah (Cairo)",
+    "capacity": 30000,
+    "latitude": 30.0199231,
+    "longitude": 31.3737536
+  },
+  {
+    "id": 485,
+    "name": "Petrosport Stadium",
+    "city": "Cairo",
+    "capacity": 25000,
+    "latitude": 30.0270709,
+    "longitude": 31.4459265
+  },
+  {
+    "id": 19650,
+    "name": "Gehaz El Reyada Stadium",
+    "city": "Cairo",
+    "capacity": 20000,
+    "latitude": 30.08110539999999,
+    "longitude": 31.3035863
+  },
+  {
+    "id": 477,
+    "name": "Cairo International Stadium",
+    "city": "Cairo",
+    "capacity": 74100,
+    "latitude": 30.0690928,
+    "longitude": 31.3123256
+  },
+  {
+    "id": 483,
+    "name": "Alexandria Stadium",
+    "city": "Alexandria",
+    "capacity": 19676,
+    "latitude": 31.196926,
+    "longitude": 29.9127553
+  },
+  {
+    "id": 2686,
+    "name": "Tanta Stadium",
+    "city": "Tanta",
+    "capacity": 8000,
+    "latitude": 30.8126841,
+    "longitude": 30.9951602
+  },
+  {
+    "id": 20453,
+    "name": "Al Nasr Lel Taa'den Stadium",
+    "city": "Edfu",
+    "capacity": 1000,
+    "latitude": 24.978881205243383,
+    "longitude": 32.88258949200893
+  },
+  {
+    "id": 2688,
+    "name": "Banha Stadium",
+    "city": "Banha",
+    "capacity": 12000,
+    "latitude": 30.4688943,
+    "longitude": 31.1854126
+  },
+  {
+    "id": 11134,
+    "name": "Nogoom El Mostakbal Stadium",
+    "city": "6th of October City",
+    "capacity": 1000,
+    "latitude": 30.0072054,
+    "longitude": 30.894869
+  },
+  {
+    "id": 482,
+    "name": "Khaled Bichara Stadium",
+    "city": "El Gouna",
+    "capacity": 14000,
+    "latitude": 27.360165,
+    "longitude": 33.6599763
+  },
+  {
+    "id": 478,
+    "name": "Arab Contractors Stadium (Osman Ahmed Osman Stadium)",
+    "city": "Cairo",
+    "capacity": 35000,
+    "latitude": 30.0511343,
+    "longitude": 31.2970166
+  },
+  {
+    "id": 10636,
+    "name": "Haras El Hodoud Stadium",
+    "city": "Alexandria",
+    "capacity": 22500,
+    "latitude": 31.1509683,
+    "longitude": 29.8484749
+  },
+  {
+    "id": 8544,
+    "name": "El Mahalla Stadium",
+    "city": "El-Mahalla El-Kubra",
+    "capacity": 29000,
+    "latitude": 30.9606388,
+    "longitude": 31.1725115
+  },
+  {
+    "id": 12563,
+    "name": "El Minya University Stadium",
+    "city": "El Minya",
+    "capacity": 20000,
+    "latitude": 28.1210345,
+    "longitude": 30.7406047
+  },
+  {
+    "id": 11492,
+    "name": "Suez Canal Stadium",
+    "city": "Ismailia",
+    "capacity": 10000,
+    "latitude": 30.5927344,
+    "longitude": 32.2925805
+  },
+  {
+    "id": 12567,
+    "name": "Al Assiouty Sport Stadium",
+    "city": "Beni Suef",
+    "capacity": 1000,
+    "latitude": 29.393803,
+    "longitude": 31.109934
+  },
+  {
+    "id": 11493,
+    "name": "National Bank of Egypt Stadium",
+    "city": "Cairo",
+    "capacity": 1000,
+    "latitude": 30.0690928,
+    "longitude": 31.3123256
+  },
+  {
+    "id": 11135,
+    "name": "Abou Qir Fertilizers Stadium",
+    "city": "Al Mandarah",
+    "capacity": 1500,
+    "latitude": 31.2714168,
+    "longitude": 30.0960803
+  },
+  {
+    "id": 11141,
+    "name": "Mit Okba Stadium",
+    "city": "Giza",
+    "capacity": 10000,
+    "latitude": 30.0690928,
+    "longitude": 31.3123256
+  },
+  {
+    "id": 11494,
+    "name": "al-Manṣūrah Stadium",
+    "city": "El Mansoura",
+    "capacity": 18000,
+    "latitude": 31.0328911,
+    "longitude": 31.3930755
+  },
+  {
+    "id": 21537,
+    "name": "Obour Club Stadium",
+    "city": "Al Obour",
+    "capacity": 1000,
+    "latitude": 30.2351768,
+    "longitude": 31.45719
+  },
+  {
+    "id": 12565,
+    "name": "Asyut University Stadium",
+    "city": "Assyut",
+    "capacity": 16000,
+    "latitude": 27.1894286,
+    "longitude": 31.176425
+  },
+  {
+    "id": 12566,
+    "name": "Dayrout Club Stadium",
+    "city": "Dairut",
+    "capacity": 1000,
+    "latitude": 27.555272,
+    "longitude": 30.8134613
+  },
+  {
+    "id": 12576,
+    "name": "Al-Sekka Al-Hadid Stadium",
+    "city": "Cairo",
+    "capacity": 2500,
+    "latitude": 30.0577744,
+    "longitude": 31.3033396
+  },
+  {
+    "id": 488,
+    "name": "New Suez Stadium",
+    "city": "Suez",
+    "capacity": 27000,
+    "latitude": 29.95776039999999,
+    "longitude": 32.5412893
+  },
+  {
+    "id": 12569,
+    "name": "Al Merreikh Stadium",
+    "city": "Port Said",
+    "capacity": 5000,
+    "latitude": 31.27165033509856,
+    "longitude": 32.29159380796706
+  },
+  {
+    "id": 20790,
+    "name": "Baladeyet El Mahalla SC Stadium",
+    "city": "El-Mahalla El-Kubra",
+    "capacity": 15000,
+    "latitude": 30.9606388,
+    "longitude": 31.1725115
+  },
+  {
+    "id": 12571,
+    "name": "Ezzedin Yacoub Stadium",
+    "city": "Alexandria",
+    "capacity": 15000,
+    "latitude": 31.196926,
+    "longitude": 29.9127553
+  },
+  {
+    "id": 12573,
+    "name": "Alexandria Sporting Club Stadium",
+    "city": "Alexandria",
+    "capacity": 1000,
+    "latitude": 31.196926,
+    "longitude": 29.9127553
+  },
+  {
+    "id": 20791,
+    "name": "Gomhoreyat Shebin Club Stadium",
+    "city": "Shibin el Kom",
+    "capacity": 1000,
+    "latitude": 30.568723,
+    "longitude": 31.0109442
+  },
+  {
+    "id": 19651,
+    "name": "Proxy Club Stadium",
+    "city": "Abu El Matamir",
+    "capacity": 1500,
+    "latitude": 30.911762,
+    "longitude": 30.1718502
+  },
+  {
+    "id": 36591137039,
+    "name": "Al-Minya University Stadium",
+    "city": "Minya",
+    "capacity": null,
+    "latitude": 28.1210345,
+    "longitude": 30.7406047
+  },
+  {
+    "id": 629411472201,
+    "name": "El Marg Sports Stadium",
+    "city": "Cairo",
+    "capacity": null,
+    "latitude": 30.1488072,
+    "longitude": 31.3412935
+  },
+  {
+    "id": 812646260064,
+    "name": "El Shams Stadium",
+    "city": "Cairo",
+    "capacity": 10000,
+    "latitude": 30.1169223,
+    "longitude": 31.3436025
+  },
+  {
+    "id": 988308919838,
+    "name": "Fayoum Stadium",
+    "city": "Fayoum",
+    "capacity": 20000,
+    "latitude": 29.31788419999999,
+    "longitude": 30.8401698
+  },
+  {
+    "id": 665444610441,
+    "name": "Madinat Nasr Club Stadium",
+    "city": "Cairo",
+    "capacity": null,
+    "latitude": 30.0589267,
+    "longitude": 31.3101936
+  },
+  {
+    "id": 182640660950,
+    "name": "Al Salam Stadium",
+    "city": "Cairo",
+    "capacity": 30000,
+    "latitude": 30.1744025,
+    "longitude": 31.4351125
+  },
+  {
+    "id": 825072656875,
+    "name": "Al-Salam Stadium",
+    "city": "Cairo",
+    "capacity": 30000,
+    "latitude": 30.1744025,
+    "longitude": 31.4351125
+  },
+  {
+    "id": 894931345430,
+    "name": "Seid El Mahalla Club Ground",
+    "city": "El Mahalla El Kubra",
+    "capacity": null,
+    "latitude": 30.9606388,
+    "longitude": 31.1725115
+  },
+  {
+    "id": 2687,
+    "name": "Aswan Stadium",
+    "city": "Aswan",
+    "capacity": 11000,
+    "latitude": 24.0660767,
+    "longitude": 32.8844615
+  },
+  {
+    "id": 267986497136,
+    "name": "Ismailia Stadium",
+    "city": "Ismailia",
+    "capacity": 18525,
+    "latitude": 30.6014609,
+    "longitude": 32.274085
+  }
+]
