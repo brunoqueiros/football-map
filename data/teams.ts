@@ -39,3 +39,4 @@ export { default as congoDR } from './congo-dr-teams.json';
 export { default as costaRica } from './costa-rica-teams.json';
 export { default as croatia } from './croatia-teams.json';
 export { default as cuba } from './cuba-teams.json';
+export { default as cyprus } from './cyprus-teams.json';

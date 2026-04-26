@@ -1,0 +1,298 @@
+[
+  {
+    "id": 19616,
+    "name": "Alphamega Stadium",
+    "city": "Kolossi",
+    "capacity": 10700,
+    "latitude": 34.6934509,
+    "longitude": 32.9391987
+  },
+  {
+    "id": 430,
+    "name": "AEK Arena - George Karapatakis",
+    "city": "Larnaca",
+    "capacity": 8000,
+    "latitude": 34.9261912,
+    "longitude": 33.5977035
+  },
+  {
+    "id": 432,
+    "name": "Neo GSP",
+    "city": "Levkosía",
+    "capacity": 22859,
+    "latitude": 35.1145246,
+    "longitude": 33.3628952
+  },
+  {
+    "id": 431,
+    "name": "Stadio Antonis Papadopoulos",
+    "city": "Larnaca",
+    "capacity": 10230,
+    "latitude": 34.9373532,
+    "longitude": 33.6208051
+  },
+  {
+    "id": 2214,
+    "name": "Stadio Tasos Markou",
+    "city": "Paralímni",
+    "capacity": 5800,
+    "latitude": 35.0309247,
+    "longitude": 33.987528
+  },
+  {
+    "id": 20190,
+    "name": "Stadio Vitex Ammochostos Epistrofi",
+    "city": "Larnaca",
+    "capacity": 5500,
+    "latitude": 34.9298251,
+    "longitude": 33.6132055
+  },
+  {
+    "id": 7134,
+    "name": "Stadio Stelios Kyriakides",
+    "city": "Paphos",
+    "capacity": 9394,
+    "latitude": 34.7691759,
+    "longitude": 32.4401057
+  },
+  {
+    "id": 2222,
+    "name": "Stadio Dasaki Achnas",
+    "city": "Dasaki Achnas",
+    "capacity": 5422,
+    "latitude": 35.034081,
+    "longitude": 33.7646924
+  },
+  {
+    "id": 2223,
+    "name": "Pyla Community Stadium",
+    "city": "Pyla",
+    "capacity": 3000,
+    "latitude": 35.0101751,
+    "longitude": 33.6929696
+  },
+  {
+    "id": 2215,
+    "name": "Dimotiko Stadio Aradippou",
+    "city": "Aradippou",
+    "capacity": 2000,
+    "latitude": 34.9491778,
+    "longitude": 33.5878067
+  },
+  {
+    "id": 2213,
+    "name": "Makareio Stadio",
+    "city": "Lefkosía",
+    "capacity": 16000,
+    "latitude": 35.1459286,
+    "longitude": 33.3143348
+  },
+  {
+    "id": 20303,
+    "name": "Stadio Peristerona",
+    "city": "Peristerona",
+    "capacity": 4000,
+    "latitude": 35.1293896,
+    "longitude": 33.0838895
+  },
+  {
+    "id": 19790,
+    "name": "Koinotiko Stadio Parekklisias",
+    "city": "Parekklisia",
+    "capacity": 3000,
+    "latitude": 34.736081,
+    "longitude": 33.1606904
+  },
+  {
+    "id": 2217,
+    "name": "Koinotiko Stadio Chlorakas",
+    "city": "Chloraka",
+    "capacity": 3500,
+    "latitude": 34.7932485,
+    "longitude": 32.4118623
+  },
+  {
+    "id": 2218,
+    "name": "Gipedo Anagennisi Deryneias",
+    "city": "Deryneia",
+    "capacity": 5800,
+    "latitude": 35.0537002,
+    "longitude": 33.9568947
+  },
+  {
+    "id": 2219,
+    "name": "Dimotiko Stadio Ayia Napa",
+    "city": "Agia Napa",
+    "capacity": 2000,
+    "latitude": 34.9935789,
+    "longitude": 34.0066187
+  },
+  {
+    "id": 2224,
+    "name": "Koinotiko Stadio Pera Choriou",
+    "city": "Nisou",
+    "capacity": 1500,
+    "latitude": 35.0185696,
+    "longitude": 33.3959651
+  },
+  {
+    "id": 2226,
+    "name": "Gipedo Othellos Athienou",
+    "city": "Athienou",
+    "capacity": 2000,
+    "latitude": 35.0616741,
+    "longitude": 33.5328545
+  },
+  {
+    "id": 2227,
+    "name": "Gipedo PAEEK Keryneia Epistrofi",
+    "city": "Strovolos",
+    "capacity": 2000,
+    "latitude": 35.1327036,
+    "longitude": 33.3179276
+  },
+  {
+    "id": 19078,
+    "name": "Gipedo Stelios Chari",
+    "city": "Ypsonas",
+    "capacity": 1000,
+    "latitude": 34.6811951,
+    "longitude": 32.9536889
+  },
+  {
+    "id": 2234,
+    "name": "Gipedo Dimitris Chamatsos",
+    "city": "Dali",
+    "capacity": 2000,
+    "latitude": 35.0233109,
+    "longitude": 33.4225101
+  },
+  {
+    "id": 2238,
+    "name": "Dimotiko Stadio Pegias",
+    "city": "Peyia",
+    "capacity": 3828,
+    "latitude": 34.8746937,
+    "longitude": 32.3821235
+  },
+  {
+    "id": 2225,
+    "name": "Dimotiko Stadio Sotiras",
+    "city": "Sotira",
+    "capacity": 2500,
+    "latitude": 35.0238934,
+    "longitude": 33.9363241
+  },
+  {
+    "id": 20149,
+    "name": "Koinotiko Stadio Kitiou",
+    "city": "Kiti",
+    "capacity": 1000,
+    "latitude": 34.8504629,
+    "longitude": 33.5753235
+  },
+  {
+    "id": 2221,
+    "name": "Stadio Lakatamias",
+    "city": "Lakatamia",
+    "capacity": 3500,
+    "latitude": 35.1246478,
+    "longitude": 33.3082271
+  },
+  {
+    "id": 2228,
+    "name": "Koinotiko Gipedo Akrotriou",
+    "city": "Limassol",
+    "capacity": 1000,
+    "latitude": 34.5957894,
+    "longitude": 32.9578875
+  },
+  {
+    "id": 2233,
+    "name": "Dimotiko Stadio Latsia",
+    "city": "Latsia",
+    "capacity": 1200,
+    "latitude": 35.1135464,
+    "longitude": 33.3905822
+  },
+  {
+    "id": 2230,
+    "name": "Koinotiko Stadio Erimis",
+    "city": "Erimi",
+    "capacity": 1500,
+    "latitude": 34.6778204,
+    "longitude": 32.9217548
+  },
+  {
+    "id": 2236,
+    "name": "Psevdas Arena",
+    "city": "Psevdas",
+    "capacity": 1000,
+    "latitude": 34.9443151,
+    "longitude": 33.4669709
+  },
+  {
+    "id": 2237,
+    "name": "Koinotiko Stadio Ormideias",
+    "city": "Ormidia",
+    "capacity": 2500,
+    "latitude": 34.8775417,
+    "longitude": 33.5898287
+  },
+  {
+    "id": 2220,
+    "name": "Koinotiko Stadio Pyla",
+    "city": "Pyla",
+    "capacity": 1000,
+    "latitude": 35.0101751,
+    "longitude": 33.6929696
+  },
+  {
+    "id": 21156,
+    "name": "Dimotiko Stadio Yeroskipou",
+    "city": "Yeroskipou",
+    "capacity": 2500,
+    "latitude": 34.7436894,
+    "longitude": 32.4403673
+  },
+  {
+    "id": 21157,
+    "name": "Dimotiko Stadio Kedros Agia Marina",
+    "city": "Kotsiatis",
+    "capacity": 1500,
+    "latitude": 35.011987741895325,
+    "longitude": 33.34804480925787
+  },
+  {
+    "id": 734652633212,
+    "name": "Polis Chrysochous Municipal Stadium",
+    "city": "Polis Chrysochous",
+    "capacity": 1300,
+    "latitude": 35.038079,
+    "longitude": 32.4324828
+  },
+  {
+    "id": 22575,
+    "name": "Dimotiko Stadio Germasoyias",
+    "city": "Germasoyia",
+    "capacity": 1000,
+    "latitude": 34.7190903,
+    "longitude": 33.0883661
+  },
+  {
+    "id": 892792294971,
+    "name": "Κοινοτικό Στάδιο Παλαιομετόχου",
+    "city": "Palaiometocho",
+    "capacity": null,
+    "latitude": 35.1140007,
+    "longitude": 33.18329260000001
+  },
+  {
+    "id": 22574,
+    "name": "Dimotiko Gimnastirio Agias Paraskevis",
+    "city": "Larnaka (Larnaca)",
+    "capacity": 1000,
+    "latitude": 34.9189816,
+    "longitude": 33.6007284
+  }
+]

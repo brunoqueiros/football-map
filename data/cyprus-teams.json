@@ -1,0 +1,462 @@
+[
+  {
+    "id": 602,
+    "name": "Apollon Limassol",
+    "code": "APO",
+    "country": "Cyprus",
+    "founded": 1954,
+    "national": false,
+    "logo": "https://media.api-sports.io/football/teams/602.png",
+    "venue_id": 19616
+  },
+  {
+    "id": 614,
+    "name": "AEK Larnaca",
+    "code": "LAR",
+    "country": "Cyprus",
+    "founded": 1994,
+    "national": false,
+    "logo": "https://media.api-sports.io/football/teams/614.png",
+    "venue_id": 430
+  },
+  {
+    "id": 2247,
+    "name": "Apoel Nicosia",
+    "code": "APO",
+    "country": "Cyprus",
+    "founded": 1926,
+    "national": false,
+    "logo": "https://media.api-sports.io/football/teams/2247.png",
+    "venue_id": 432
+  },
+  {
+    "id": 2269,
+    "name": "Anorthosis",
+    "code": "ANO",
+    "country": "Cyprus",
+    "founded": 1911,
+    "national": false,
+    "logo": "https://media.api-sports.io/football/teams/2269.png",
+    "venue_id": 431
+  },
+  {
+    "id": 3396,
+    "name": "AEL",
+    "code": "LIM",
+    "country": "Cyprus",
+    "founded": 1930,
+    "national": false,
+    "logo": "https://media.api-sports.io/football/teams/3396.png",
+    "venue_id": 19616
+  },
+  {
+    "id": 3399,
+    "name": "Enosis",
+    "code": "PAR",
+    "country": "Cyprus",
+    "founded": 1936,
+    "national": false,
+    "logo": "https://media.api-sports.io/football/teams/3399.png",
+    "venue_id": 2214
+  },
+  {
+    "id": 3401,
+    "name": "Nea Salamis",
+    "code": "SAL",
+    "country": "Cyprus",
+    "founded": 1948,
+    "national": false,
+    "logo": "https://media.api-sports.io/football/teams/3401.png",
+    "venue_id": 20190
+  },
+  {
+    "id": 3402,
+    "name": "Omonia Nicosia",
+    "code": "OMO",
+    "country": "Cyprus",
+    "founded": 1948,
+    "national": false,
+    "logo": "https://media.api-sports.io/football/teams/3402.png",
+    "venue_id": 432
+  },
+  {
+    "id": 3403,
+    "name": "Pafos",
+    "code": "PAP",
+    "country": "Cyprus",
+    "founded": 2014,
+    "national": false,
+    "logo": "https://media.api-sports.io/football/teams/3403.png",
+    "venue_id": 7134
+  },
+  {
+    "id": 3408,
+    "name": "Aris",
+    "code": "ARI",
+    "country": "Cyprus",
+    "founded": 1930,
+    "national": false,
+    "logo": "https://media.api-sports.io/football/teams/3408.png",
+    "venue_id": 19616
+  },
+  {
+    "id": 3412,
+    "name": "Ethnikos Achna",
+    "code": "ETH",
+    "country": "Cyprus",
+    "founded": 1968,
+    "national": false,
+    "logo": "https://media.api-sports.io/football/teams/3412.png",
+    "venue_id": 2222
+  },
+  {
+    "id": 3413,
+    "name": "Karmiotissa",
+    "code": "KAR",
+    "country": "Cyprus",
+    "founded": 1979,
+    "national": false,
+    "logo": "https://media.api-sports.io/football/teams/3413.png",
+    "venue_id": 2223
+  },
+  {
+    "id": 3416,
+    "name": "Omonia Aradippou",
+    "code": "OMO",
+    "country": "Cyprus",
+    "founded": 1929,
+    "national": false,
+    "logo": "https://media.api-sports.io/football/teams/3416.png",
+    "venue_id": 2215
+  },
+  {
+    "id": 14126,
+    "name": "Omonia 29is Maiou",
+    "code": null,
+    "country": "Cyprus",
+    "founded": 2018,
+    "national": false,
+    "logo": "https://media.api-sports.io/football/teams/14126.png",
+    "venue_id": 2213
+  },
+  {
+    "id": 3398,
+    "name": "Doxa",
+    "code": "DOX",
+    "country": "Cyprus",
+    "founded": 1954,
+    "national": false,
+    "logo": "https://media.api-sports.io/football/teams/3398.png",
+    "venue_id": 20303
+  },
+  {
+    "id": 3404,
+    "name": "AE Zakakiou",
+    "code": "ZAK",
+    "country": "Cyprus",
+    "founded": 1956,
+    "national": false,
+    "logo": "https://media.api-sports.io/football/teams/3404.png",
+    "venue_id": 19790
+  },
+  {
+    "id": 3405,
+    "name": "ASIL Lysi",
+    "code": null,
+    "country": "Cyprus",
+    "founded": 1932,
+    "national": false,
+    "logo": "https://media.api-sports.io/football/teams/3405.png",
+    "venue_id": 430
+  },
+  {
+    "id": 3406,
+    "name": "Akritas",
+    "code": null,
+    "country": "Cyprus",
+    "founded": 1971,
+    "national": false,
+    "logo": "https://media.api-sports.io/football/teams/3406.png",
+    "venue_id": 2217
+  },
+  {
+    "id": 3407,
+    "name": "Anagennisi Deryneia",
+    "code": "ANA",
+    "country": "Cyprus",
+    "founded": null,
+    "national": false,
+    "logo": "https://media.api-sports.io/football/teams/3407.png",
+    "venue_id": 2218
+  },
+  {
+    "id": 3409,
+    "name": "Ayia Napa",
+    "code": "AYI",
+    "country": "Cyprus",
+    "founded": 1990,
+    "national": false,
+    "logo": "https://media.api-sports.io/football/teams/3409.png",
+    "venue_id": 2219
+  },
+  {
+    "id": 3414,
+    "name": "MEAP Nisou",
+    "code": null,
+    "country": "Cyprus",
+    "founded": 1980,
+    "national": false,
+    "logo": "https://media.api-sports.io/football/teams/3414.png",
+    "venue_id": 2224
+  },
+  {
+    "id": 3415,
+    "name": "Olympiakos",
+    "code": "OLY",
+    "country": "Cyprus",
+    "founded": 1931,
+    "national": false,
+    "logo": "https://media.api-sports.io/football/teams/3415.png",
+    "venue_id": 2213
+  },
+  {
+    "id": 3418,
+    "name": "Othellos",
+    "code": "OTH",
+    "country": "Cyprus",
+    "founded": 1933,
+    "national": false,
+    "logo": "https://media.api-sports.io/football/teams/3418.png",
+    "venue_id": 2226
+  },
+  {
+    "id": 3419,
+    "name": "PAEEK",
+    "code": "PAE",
+    "country": "Cyprus",
+    "founded": 1953,
+    "national": false,
+    "logo": "https://media.api-sports.io/football/teams/3419.png",
+    "venue_id": 2227
+  },
+  {
+    "id": 3423,
+    "name": "Digenis Morphou",
+    "code": null,
+    "country": "Cyprus",
+    "founded": 1931,
+    "national": false,
+    "logo": "https://media.api-sports.io/football/teams/3423.png",
+    "venue_id": 2213
+  },
+  {
+    "id": 3424,
+    "name": "Krasava Ypsonas",
+    "code": null,
+    "country": "Cyprus",
+    "founded": null,
+    "national": false,
+    "logo": "https://media.api-sports.io/football/teams/3424.png",
+    "venue_id": 19078
+  },
+  {
+    "id": 3429,
+    "name": "Halkanoras",
+    "code": "HAL",
+    "country": "Cyprus",
+    "founded": 1948,
+    "national": false,
+    "logo": "https://media.api-sports.io/football/teams/3429.png",
+    "venue_id": 2234
+  },
+  {
+    "id": 3434,
+    "name": "Peyia",
+    "code": null,
+    "country": "Cyprus",
+    "founded": 2014,
+    "national": false,
+    "logo": "https://media.api-sports.io/football/teams/3434.png",
+    "venue_id": 2238
+  },
+  {
+    "id": 20024,
+    "name": "Ahironas / Onisilos",
+    "code": null,
+    "country": "Cyprus",
+    "founded": 2022,
+    "national": false,
+    "logo": "https://media.api-sports.io/football/teams/20024.png",
+    "venue_id": 2225
+  },
+  {
+    "id": 22127,
+    "name": "Spartakos Kitiou",
+    "code": null,
+    "country": "Cyprus",
+    "founded": 1958,
+    "national": false,
+    "logo": "https://media.api-sports.io/football/teams/22127.png",
+    "venue_id": 20149
+  },
+  {
+    "id": 3400,
+    "name": "Ermis",
+    "code": "ERM",
+    "country": "Cyprus",
+    "founded": 1958,
+    "national": false,
+    "logo": "https://media.api-sports.io/football/teams/3400.png",
+    "venue_id": 2215
+  },
+  {
+    "id": 3411,
+    "name": "EN THOI Lakatamia",
+    "code": null,
+    "country": "Cyprus",
+    "founded": null,
+    "national": false,
+    "logo": "https://media.api-sports.io/football/teams/3411.png",
+    "venue_id": 2221
+  },
+  {
+    "id": 3420,
+    "name": "APEA",
+    "code": null,
+    "country": "Cyprus",
+    "founded": null,
+    "national": false,
+    "logo": "https://media.api-sports.io/football/teams/3420.png",
+    "venue_id": 2228
+  },
+  {
+    "id": 3428,
+    "name": "Ethnikos Latsion",
+    "code": null,
+    "country": "Cyprus",
+    "founded": 1956,
+    "national": false,
+    "logo": "https://media.api-sports.io/football/teams/3428.png",
+    "venue_id": 2233
+  },
+  {
+    "id": 3430,
+    "name": "Kouris Erimi",
+    "code": null,
+    "country": "Cyprus",
+    "founded": null,
+    "national": false,
+    "logo": "https://media.api-sports.io/football/teams/3430.png",
+    "venue_id": 2230
+  },
+  {
+    "id": 3432,
+    "name": "Omonia Psevda",
+    "code": null,
+    "country": "Cyprus",
+    "founded": 1969,
+    "national": false,
+    "logo": "https://media.api-sports.io/football/teams/3432.png",
+    "venue_id": 2236
+  },
+  {
+    "id": 3433,
+    "name": "Ormideia",
+    "code": null,
+    "country": "Cyprus",
+    "founded": 2006,
+    "national": false,
+    "logo": "https://media.api-sports.io/football/teams/3433.png",
+    "venue_id": 2237
+  },
+  {
+    "id": 6405,
+    "name": "Iraklis Yerolakkou",
+    "code": null,
+    "country": "Cyprus",
+    "founded": null,
+    "national": false,
+    "logo": "https://media.api-sports.io/football/teams/6405.png",
+    "venue_id": 2227
+  },
+  {
+    "id": 20027,
+    "name": "AEP Polemidion",
+    "code": null,
+    "country": "Cyprus",
+    "founded": null,
+    "national": false,
+    "logo": "https://media.api-sports.io/football/teams/20027.png",
+    "venue_id": 2223
+  },
+  {
+    "id": 20028,
+    "name": "ASPIS",
+    "code": null,
+    "country": "Cyprus",
+    "founded": 1957,
+    "national": false,
+    "logo": "https://media.api-sports.io/football/teams/20028.png",
+    "venue_id": 2220
+  },
+  {
+    "id": 22125,
+    "name": "Geroskipou",
+    "code": null,
+    "country": "Cyprus",
+    "founded": 2013,
+    "national": false,
+    "logo": "https://media.api-sports.io/football/teams/22125.png",
+    "venue_id": 21156
+  },
+  {
+    "id": 22126,
+    "name": "Kedros Agia Marina",
+    "code": null,
+    "country": "Cyprus",
+    "founded": 1967,
+    "national": false,
+    "logo": "https://media.api-sports.io/football/teams/22126.png",
+    "venue_id": 21157
+  },
+  {
+    "id": 24714,
+    "name": "APOP Polis",
+    "code": null,
+    "country": "Cyprus",
+    "founded": null,
+    "national": false,
+    "logo": "https://media.api-sports.io/football/teams/24714.png",
+    "venue_id": 734652633212
+  },
+  {
+    "id": 24715,
+    "name": "Anorthosis Mouttagiakas",
+    "code": null,
+    "country": "Cyprus",
+    "founded": 1989,
+    "national": false,
+    "logo": "https://media.api-sports.io/football/teams/24715.png",
+    "venue_id": 22575
+  },
+  {
+    "id": 24716,
+    "name": "Doxa Palaiometochou",
+    "code": null,
+    "country": "Cyprus",
+    "founded": null,
+    "national": false,
+    "logo": "https://media.api-sports.io/football/teams/24716.png",
+    "venue_id": 892792294971
+  },
+  {
+    "id": 24717,
+    "name": "Leivadia",
+    "code": null,
+    "country": "Cyprus",
+    "founded": 2022,
+    "national": false,
+    "logo": "https://media.api-sports.io/football/teams/24717.png",
+    "venue_id": 22574
+  }
+]
