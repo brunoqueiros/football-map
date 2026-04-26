@@ -174,7 +174,7 @@ const Map = forwardRef<MapRef, MapProps>(({
           ['linear'],
           ['zoom'],
           2, 0.2,    // At zoom 2, radius is 3px
-          14, 10   // At zoom 14, radius is 15px
+          14, 15   // At zoom 14, radius is 15px
         ],
         'circle-color': '#fafafa',
         'circle-stroke-width': 1,

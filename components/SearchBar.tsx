@@ -1,5 +1,5 @@
 'use client'
-import { useState, useEffect, useRef } from "react";
+import { useState, useEffect, useRef, useMemo } from "react";
 import { Stadium } from "./Map";
 import { useFuzzySearchList } from '@nozbe/microfuzz/react';
 import Crest from "./Crest";
@@ -9,6 +9,9 @@ interface SearchBarProps {
   hideCard: () => void;
   teams: Stadium[];
   venues: any[];
+  allTeams: Stadium[];
+  selectedCountries: string[];
+  onCountriesChange: (countries: string[]) => void;
 }
 
 const COUNTRIES: Record<string, string> = {
@@ -97,12 +100,38 @@ const COUNTRIES: Record<string, string> = {
 
 export const flag = (country: string) => COUNTRIES[country.replaceAll(' ', '-').toLocaleLowerCase()];
 
-export default function SearchBar({ onSelectTeam, teams, hideCard, venues }: SearchBarProps) {
+export default function SearchBar({ onSelectTeam, teams, hideCard, venues, allTeams, selectedCountries, onCountriesChange }: SearchBarProps) {
   const [searchQuery, setSearchQuery] = useState("");
   const [isFocused, setIsFocused] = useState(false);
-  // const [highlightedIndex, setHighlightedIndex] = useState(0);
-  const [isMobile, setIsMobile] = useState(false);
+  const [isFilterOpen, setIsFilterOpen] = useState(false);
+  const [countrySearch, setCountrySearch] = useState("");
   const inputRef = useRef<HTMLInputElement>(null);
+  const wrapperRef = useRef<HTMLDivElement>(null);
+
+  const { allCountries, countriesCount } = useMemo(() => {
+    const countriesCount = allTeams.reduce<Record<string, number>>((acc, cur) => {
+      acc[cur.country] = (acc[cur.country] ?? 0) + 1;
+      return acc;
+    }, {});
+    const allCountries = Object.keys(countriesCount).sort();
+    return { allCountries, countriesCount };
+  }, [allTeams]);
+
+  const filteredCountries = useMemo(() => {
+    const q = countrySearch.trim().toLowerCase();
+    if (!q) return allCountries;
+    return allCountries.filter(c => c.toLowerCase().includes(q));
+  }, [allCountries, countrySearch]);
+
+  const allSelected = selectedCountries.length === allCountries.length;
+
+  const toggleCountry = (country: string) => {
+    onCountriesChange(
+      selectedCountries.includes(country)
+        ? selectedCountries.filter(c => c !== country)
+        : [...selectedCountries, country]
+    );
+  };
 
   const filteredTeams = useFuzzySearchList({
     list: teams,
@@ -111,124 +140,57 @@ export default function SearchBar({ onSelectTeam, teams, hideCard, venues }: Sea
     getText: (item) => [item.name],
     mapResultItem: ({ item, matches: [] }) => (item)
   }).sort((a, b) => {
-    const nameA = a.name.toUpperCase(); // ignore upper and lowercase
-    const nameB = b.name.toUpperCase(); // ignore upper and lowercase
-    if (nameA < nameB) {
-      return -1;
-    }
-    if (nameA > nameB) {
-      return 1;
-    }
-
-    // names must be equal
+    const nameA = a.name.toUpperCase();
+    const nameB = b.name.toUpperCase();
+    if (nameA < nameB) return -1;
+    if (nameA > nameB) return 1;
     return 0;
   }).slice(0, 10);
 
-  const showResults = isFocused && filteredTeams.length > 0;
-  const showNoResults = isFocused && searchQuery.trim() && filteredTeams.length === 0;
+  const showResults = isFocused && filteredTeams.length > 0 && !isFilterOpen;
+  const showNoResults = isFocused && searchQuery.trim() && filteredTeams.length === 0 && !isFilterOpen;
 
-  // // Reset highlighted index when filtered teams change
-  // useEffect(() => {
-  //   setHighlightedIndex(0);
-  // }, [filteredTeams.length, searchQuery]);
-
-  // Detect if we're on mobile
   useEffect(() => {
-    const checkMobile = () => {
-      setIsMobile(window.innerWidth < 768);
-    };
-
-    checkMobile();
-    // window.addEventListener('resize', checkMobile);
-    // return () => window.removeEventListener('resize', checkMobile);
-  }, []);
-
-  // Global keyboard shortcut for Cmd+K (desktop only)
-  useEffect(() => {
-    if (isMobile) return;
-
-    const handleGlobalKeyDown = (e: KeyboardEvent) => {
-      if ((e.metaKey || e.ctrlKey) && e.key === 'k') {
-        e.preventDefault();
-        inputRef.current?.focus();
+    if (!isFilterOpen) return;
+    const handleClickOutside = (e: MouseEvent) => {
+      if (wrapperRef.current && !wrapperRef.current.contains(e.target as Node)) {
+        setIsFilterOpen(false);
       }
     };
-
-    window.addEventListener('keydown', handleGlobalKeyDown);
-    return () => window.removeEventListener('keydown', handleGlobalKeyDown);
-  }, [isMobile]);
-
-  // const handleKeyDown = (e: React.KeyboardEvent<HTMLInputElement>) => {
-  //   // Disable keyboard navigation on mobile
-  //   if (isMobile) return;
-
-  //   // Handle Escape key
-  //   if (e.key === 'Escape') {
-  //     e.preventDefault();
-  //     setIsFocused(false);
-  //     inputRef.current?.blur();
-  //     return;
-  //   }
-
-  //   if (!showResults) return;
-
-  //   switch (e.key) {
-  //     case 'ArrowDown':
-  //       e.preventDefault();
-  //       setHighlightedIndex((prev) =>
-  //         prev < filteredTeams.length - 1 ? prev + 1 : 0
-  //       );
-  //       break;
-  //     case 'ArrowUp':
-  //       e.preventDefault();
-  //       setHighlightedIndex((prev) =>
-  //         prev > 0 ? prev - 1 : filteredTeams.length - 1
-  //       );
-  //       break;
-  //     case 'Enter':
-  //       e.preventDefault();
-  //       if (highlightedIndex >= 0 && highlightedIndex < filteredTeams.length) {
-  //         const selectedTeam = filteredTeams[highlightedIndex];
-  //         onSelectTeam(selectedTeam, venues.find(v => v.id === team.venue_id));
-  //         setSearchQuery("");
-  //         setIsFocused(false);
-  //       }
-  //       break;
-  //   }
-  // };
+    document.addEventListener('mousedown', handleClickOutside);
+    return () => document.removeEventListener('mousedown', handleClickOutside);
+  }, [isFilterOpen]);
 
   return (
     <div
-      className={`${isFocused ? 'fixed inset-0 backdrop-blur-xs z-45 animate-in fade-in duration-200' : ''}`}
-      onClick={hideCard}
+      className={`${isFocused && !isFilterOpen ? 'fixed inset-0 backdrop-blur-xs z-45 animate-in fade-in duration-200' : ''}`}
+      onClick={(e) => {
+        if (!wrapperRef.current?.contains(e.target as Node)) {
+          hideCard();
+        }
+      }}
     >
-      <div className='fixed top-4 left-1/2 -translate-x-1/2 z-50'>
+      <div ref={wrapperRef} className='fixed top-4 left-1/2 -translate-x-1/2 z-50'>
         <div className='relative lg:w-150 w-[90vw]'>
-          <div className={`flex items-center gap-3 px-4 rounded-xl bg-neutral-900 border shadow-xl transition-colors ${isFocused ? 'border-neutral-600' : 'border-neutral-800'}`}>
-            {/* Search Icon */}
+          {/* Search bar */}
+          <div className={`flex items-center gap-3 px-4 rounded-xl bg-neutral-900 border shadow-xl transition-colors ${isFocused || isFilterOpen ? 'border-neutral-600' : 'border-neutral-800'}`}>
             <svg
-              className="w-5 h-5 text-neutral-400"
+              className="w-5 h-5 text-neutral-400 shrink-0"
               fill="none"
               stroke="currentColor"
               viewBox="0 0 24 24"
             >
-              <path
-                strokeLinecap="round"
-                strokeLinejoin="round"
-                strokeWidth={2}
-                d="M21 21l-6-6m2-5a7 7 0 11-14 0 7 7 0 0114 0z"
-              />
+              <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M21 21l-6-6m2-5a7 7 0 11-14 0 7 7 0 0114 0z" />
             </svg>
 
-            {/* Input Field */}
             <input
               ref={inputRef}
               type="text"
               value={searchQuery}
               onChange={(e) => setSearchQuery(e.target.value)}
-              // onKeyDown={handleKeyDown}
               onFocus={() => {
                 setIsFocused(true);
+                setIsFilterOpen(false);
                 hideCard();
               }}
               onBlur={() => setTimeout(() => setIsFocused(false), 200)}
@@ -236,21 +198,6 @@ export default function SearchBar({ onSelectTeam, teams, hideCard, venues }: Sea
               className="flex-1 bg-transparent py-3 text-sm text-neutral-200 placeholder-neutral-500 outline-none"
             />
 
-            {/* Keyboard Shortcut Hints (Desktop only) */}
-            {!isMobile && !isFocused && !searchQuery && (
-              <div className="flex items-center gap-1 px-2 py-1 rounded bg-neutral-800/50 border border-neutral-700/50 opacity-70">
-                <span className="text-xs text-neutral-400">⌘</span>
-                <span className="text-xs text-neutral-400">K</span>
-              </div>
-            )}
-
-            {!isMobile && isFocused && (
-              <div className="flex items-center gap-1 px-2 py-1 rounded bg-neutral-800/50 border border-neutral-700/50 opacity-70">
-                <span className="text-xs text-neutral-400">ESC</span>
-              </div>
-            )}
-
-            {/* Clear Button */}
             {searchQuery && (
               <button
                 onClick={() => setSearchQuery("")}
@@ -261,17 +208,37 @@ export default function SearchBar({ onSelectTeam, teams, hideCard, venues }: Sea
                 </svg>
               </button>
             )}
+
+            {/* Separator + Filter button */}
+            <div className="flex items-center gap-2 pl-2 border-l border-neutral-700/60">
+              <button
+                onClick={() => {
+                  setIsFilterOpen(v => !v);
+                  setIsFocused(false);
+                }}
+                aria-label="Filter by country"
+                className={`relative flex items-center justify-center w-7 h-7 rounded-lg transition-colors ${isFilterOpen || !allSelected ? 'text-neutral-100' : 'text-neutral-400 hover:text-neutral-200'}`}
+              >
+                <svg className="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                  <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M3.6 9h16.8M3.6 15h16.8M12 3a15 15 0 010 18M12 3a15 15 0 000 18M12 3a9 9 0 100 18 9 9 0 000-18z" />
+                </svg>
+                {!allSelected && (
+                  <span className="absolute -top-1 -right-1 min-w-[16px] h-[16px] px-0.5 flex items-center justify-center rounded-full bg-green-500 text-[9px] font-semibold text-white">
+                    {selectedCountries.length}
+                  </span>
+                )}
+              </button>
+            </div>
           </div>
 
-          {/* Search Results Dropdown */}
+          {/* Search results dropdown */}
           {showResults && (
             <div className='absolute top-full mt-2 w-full'>
               <div className='flex flex-col gap-1 p-2 rounded-xl max-h-[70vh] bg-neutral-900/95 backdrop-blur-md border border-neutral-800 shadow-2xl overflow-y-auto scrollbar-hide'>
                 {filteredTeams.map((team, index) => (
                   <button
                     key={`${team.name}-${index}`}
-                    className={`flex items-center justify-between gap-3 px-4 py-3 rounded-lg transition-colors text-left bg-neutral-800/30 hover:bg-neutral-700/50 border-neutral-700/30 hover:border-neutral-600/50 border`}
-                    // onMouseEnter={() => !isMobile && setHighlightedIndex(index)}
+                    className="flex items-center justify-between gap-3 px-4 py-3 rounded-lg transition-colors text-left bg-neutral-800/30 hover:bg-neutral-700/50 border-neutral-700/30 hover:border-neutral-600/50 border"
                     onClick={() => {
                       // @ts-ignore
                       onSelectTeam(team, venues.find(v => v.id === team.venue_id));
@@ -299,7 +266,7 @@ export default function SearchBar({ onSelectTeam, teams, hideCard, venues }: Sea
             </div>
           )}
 
-          {/* No Results Message */}
+          {/* No results */}
           {showNoResults && (
             <div className='absolute top-full mt-2 w-full'>
               <div className='p-6 rounded-xl bg-neutral-900/95 backdrop-blur-md border border-neutral-800 shadow-2xl'>
@@ -309,11 +276,70 @@ export default function SearchBar({ onSelectTeam, teams, hideCard, venues }: Sea
                   </svg>
                   <div>
                     <p className="text-sm font-medium text-neutral-200 mb-1">No teams found</p>
-                    <p className="text-xs text-neutral-400">
-                      Can't find your team? Contact us to add it to the map!
-                    </p>
+                    <p className="text-xs text-neutral-400">Can't find your team? Contact us to add it to the map!</p>
                   </div>
                 </div>
+              </div>
+            </div>
+          )}
+
+          {/* Country filter panel */}
+          {isFilterOpen && (
+            <div className='absolute top-full mt-2 w-full flex flex-col rounded-xl bg-neutral-900/95 backdrop-blur-md border border-neutral-800 shadow-2xl overflow-hidden max-h-[70vh]'>
+              <div className="flex items-center justify-between px-4 pt-3 pb-2">
+                <span className="text-xs font-semibold tracking-widest text-neutral-500">COUNTRIES</span>
+                <button
+                  onClick={() => onCountriesChange(allSelected ? [] : allCountries)}
+                  className="text-xs font-medium text-neutral-400 hover:text-neutral-200 transition-colors"
+                >
+                  {allSelected ? 'Clear' : 'Select all'}
+                </button>
+              </div>
+
+              <div className="px-3 pb-2">
+                <div className="flex items-center gap-2 px-3 py-2 rounded-lg bg-neutral-800/60 border border-neutral-700/50">
+                  <svg className="w-4 h-4 text-neutral-500 shrink-0" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                    <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M21 21l-6-6m2-5a7 7 0 11-14 0 7 7 0 0114 0z" />
+                  </svg>
+                  <input
+                    type="text"
+                    value={countrySearch}
+                    onChange={(e) => setCountrySearch(e.target.value)}
+                    placeholder="Search countries..."
+                    className="flex-1 bg-transparent text-sm text-neutral-200 placeholder-neutral-500 outline-none"
+                  />
+                </div>
+              </div>
+
+              <div className='flex flex-col gap-1 px-2 pb-2 overflow-y-auto scrollbar-hide'>
+                {filteredCountries.length === 0 && (
+                  <div className="px-4 py-6 text-center text-sm text-neutral-500">No countries found</div>
+                )}
+                {filteredCountries.map(country => {
+                  const isSelected = selectedCountries.includes(country);
+                  return (
+                    <button
+                      key={`country-${country}`}
+                      onClick={() => toggleCountry(country)}
+                      className="flex items-center gap-3 px-3 py-2.5 rounded-lg hover:bg-neutral-800/60 transition-colors text-left"
+                    >
+                      <span className="text-2xl leading-none">{flag(country)}</span>
+                      <div className="flex-1 min-w-0">
+                        <div className="text-sm font-medium text-neutral-100 truncate">
+                          {country === 'Bosnia' ? 'Bosnia and Herzegovina' : country}
+                        </div>
+                        <div className="text-xs text-neutral-500">{countriesCount[country]} teams</div>
+                      </div>
+                      <div className={`w-5 h-5 rounded-[6px] border-2 flex items-center justify-center transition-colors ${isSelected ? 'bg-green-500 border-green-500' : 'bg-transparent border-neutral-600'}`}>
+                        {isSelected && (
+                          <svg className="w-3 h-3 text-white" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                            <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={3} d="M5 13l4 4L19 7" />
+                          </svg>
+                        )}
+                      </div>
+                    </button>
+                  );
+                })}
               </div>
             </div>
           )}

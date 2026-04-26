@@ -1,6 +1,5 @@
 'use client'
 import { useRef, useState, useMemo, useEffect } from "react";
-import CountriesFilter from "@/components/CountriesFilter";
 import SearchBar from "@/components/SearchBar";
 import Map, { Stadium, MapRef, FLY_DURATION } from "@/components/Map";
 import StadiumCard from "./StadiumCard";
@@ -88,11 +87,14 @@ export default function MapContainer({
           onClose={() => setSelectedStadium(null)}
         />
       )}
-      <SearchBar onSelectTeam={handleSelectTeam} teams={filteredTeams} hideCard={() => setSelectedStadium(null)} venues={venues} />
-      <CountriesFilter
-        teams={teams}
+      <SearchBar
+        onSelectTeam={handleSelectTeam}
+        teams={filteredTeams}
+        hideCard={() => setSelectedStadium(null)}
+        venues={venues}
+        allTeams={teams}
         selectedCountries={selectedCountries}
-        onChange={setSelectedCountries}
+        onCountriesChange={setSelectedCountries}
       />
     </div>
   );
