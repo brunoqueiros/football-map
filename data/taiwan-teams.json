@@ -1,82 +1,82 @@
 [
-  {
-    "id": 8028,
-    "name": "Hang Yuen",
-    "code": null,
-    "country": "Taiwan",
-    "founded": null,
-    "national": false,
-    "logo": "https://media.api-sports.io/football/teams/8028.png",
-    "venue_id": 5722
-  },
-  {
-    "id": 8048,
-    "name": "Tatung",
-    "code": "TAT",
-    "country": "Taiwan",
-    "founded": 1969,
-    "national": false,
-    "logo": "https://media.api-sports.io/football/teams/8048.png",
-    "venue_id": 5732
-  },
-  {
-    "id": 9427,
-    "name": "Taipower",
-    "code": "TAI",
-    "country": "Taiwan",
-    "founded": 1979,
-    "national": false,
-    "logo": "https://media.api-sports.io/football/teams/9427.png",
-    "venue_id": 3890
-  },
-  {
-    "id": 12540,
-    "name": "Ming Chuan University",
-    "code": null,
-    "country": "Taiwan",
-    "founded": null,
-    "national": false,
-    "logo": "https://media.api-sports.io/football/teams/12540.png",
-    "venue_id": 5732
-  },
-  {
-    "id": 12542,
-    "name": "Taichung Futuro",
-    "code": null,
-    "country": "Taiwan",
-    "founded": null,
-    "national": false,
-    "logo": "https://media.api-sports.io/football/teams/12542.png",
-    "venue_id": 7965
-  },
-  {
-    "id": 12543,
-    "name": "Tainan City",
-    "code": null,
-    "country": "Taiwan",
-    "founded": null,
-    "national": false,
-    "logo": "https://media.api-sports.io/football/teams/12543.png",
-    "venue_id": 7966
-  },
-  {
-    "id": 18841,
-    "name": "AC Taipei",
-    "code": null,
-    "country": "Taiwan",
-    "founded": null,
-    "national": false,
-    "logo": "https://media.api-sports.io/football/teams/18841.png",
-    "venue_id": 754878416588
-  },
-  {
-    "id": 23388,
-    "name": "Taipei Vikings",
-    "code": null,
-    "country": "Taiwan",
-    "founded": null,
-    "national": false,
-    "logo": "https://media.api-sports.io/football/teams/23388.png",
-    "venue_id": 269620084068
-  }
+    {
+        "id": 8028,
+        "name": "Hang Yuen",
+        "code": null,
+        "country": "Taiwan",
+        "founded": null,
+        "national": false,
+        "logo": "8028.png",
+        "venue_id": 5722
+    },
+    {
+        "id": 8048,
+        "name": "Tatung",
+        "code": "TAT",
+        "country": "Taiwan",
+        "founded": 1969,
+        "national": false,
+        "logo": "8048.png",
+        "venue_id": 5732
+    },
+    {
+        "id": 9427,
+        "name": "Taipower",
+        "code": "TAI",
+        "country": "Taiwan",
+        "founded": 1979,
+        "national": false,
+        "logo": "9427.png",
+        "venue_id": 3890
+    },
+    {
+        "id": 12540,
+        "name": "Ming Chuan University",
+        "code": null,
+        "country": "Taiwan",
+        "founded": null,
+        "national": false,
+        "logo": "12540.png",
+        "venue_id": 5732
+    },
+    {
+        "id": 12542,
+        "name": "Taichung Futuro",
+        "code": null,
+        "country": "Taiwan",
+        "founded": null,
+        "national": false,
+        "logo": "12542.png",
+        "venue_id": 7965
+    },
+    {
+        "id": 12543,
+        "name": "Tainan City",
+        "code": null,
+        "country": "Taiwan",
+        "founded": null,
+        "national": false,
+        "logo": "12543.png",
+        "venue_id": 7966
+    },
+    {
+        "id": 18841,
+        "name": "AC Taipei",
+        "code": null,
+        "country": "Taiwan",
+        "founded": null,
+        "national": false,
+        "logo": "18841.png",
+        "venue_id": 754878416588
+    },
+    {
+        "id": 23388,
+        "name": "Taipei Vikings",
+        "code": null,
+        "country": "Taiwan",
+        "founded": null,
+        "national": false,
+        "logo": "23388.png",
+        "venue_id": 269620084068
+    }
 ]

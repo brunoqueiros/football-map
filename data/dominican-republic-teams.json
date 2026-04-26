@@ -1,82 +1,82 @@
 [
-  {
-    "id": 8003,
-    "name": "Atlético Pantoja",
-    "code": null,
-    "country": "Dominican-Republic",
-    "founded": null,
-    "national": false,
-    "logo": "https://media.api-sports.io/football/teams/8003.png",
-    "venue_id": 976070579806
-  },
-  {
-    "id": 8004,
-    "name": "Cibao",
-    "code": null,
-    "country": "Dominican-Republic",
-    "founded": null,
-    "national": false,
-    "logo": "https://media.api-sports.io/football/teams/8004.png",
-    "venue_id": 126299372256
-  },
-  {
-    "id": 16138,
-    "name": "Atlántico",
-    "code": null,
-    "country": "Dominican-Republic",
-    "founded": null,
-    "national": false,
-    "logo": "https://media.api-sports.io/football/teams/16138.png",
-    "venue_id": 112875464654231
-  },
-  {
-    "id": 16139,
-    "name": "Delfines Del Este",
-    "code": null,
-    "country": "Dominican-Republic",
-    "founded": null,
-    "national": false,
-    "logo": "https://media.api-sports.io/football/teams/16139.png",
-    "venue_id": 949911894603
-  },
-  {
-    "id": 16141,
-    "name": "Universidad O&M",
-    "code": null,
-    "country": "Dominican-Republic",
-    "founded": null,
-    "national": false,
-    "logo": "https://media.api-sports.io/football/teams/16141.png",
-    "venue_id": 78136369332
-  },
-  {
-    "id": 16142,
-    "name": "Vega Real",
-    "code": null,
-    "country": "Dominican-Republic",
-    "founded": null,
-    "national": false,
-    "logo": "https://media.api-sports.io/football/teams/16142.png",
-    "venue_id": 495946385176
-  },
-  {
-    "id": 16617,
-    "name": "Moca",
-    "code": null,
-    "country": "Dominican-Republic",
-    "founded": null,
-    "national": false,
-    "logo": "https://media.api-sports.io/football/teams/16617.png",
-    "venue_id": 1231021468566
-  },
-  {
-    "id": 16618,
-    "name": "San Cristóbal",
-    "code": null,
-    "country": "Dominican-Republic",
-    "founded": null,
-    "national": false,
-    "logo": "https://media.api-sports.io/football/teams/16618.png",
-    "venue_id": 33648720245
-  }
+    {
+        "id": 8003,
+        "name": "Atlético Pantoja",
+        "code": null,
+        "country": "Dominican-Republic",
+        "founded": null,
+        "national": false,
+        "logo": "8003.png",
+        "venue_id": 976070579806
+    },
+    {
+        "id": 8004,
+        "name": "Cibao",
+        "code": null,
+        "country": "Dominican-Republic",
+        "founded": null,
+        "national": false,
+        "logo": "8004.png",
+        "venue_id": 126299372256
+    },
+    {
+        "id": 16138,
+        "name": "Atlántico",
+        "code": null,
+        "country": "Dominican-Republic",
+        "founded": null,
+        "national": false,
+        "logo": "16138.png",
+        "venue_id": 112875464654231
+    },
+    {
+        "id": 16139,
+        "name": "Delfines Del Este",
+        "code": null,
+        "country": "Dominican-Republic",
+        "founded": null,
+        "national": false,
+        "logo": "16139.png",
+        "venue_id": 949911894603
+    },
+    {
+        "id": 16141,
+        "name": "Universidad O&M",
+        "code": null,
+        "country": "Dominican-Republic",
+        "founded": null,
+        "national": false,
+        "logo": "16141.png",
+        "venue_id": 78136369332
+    },
+    {
+        "id": 16142,
+        "name": "Vega Real",
+        "code": null,
+        "country": "Dominican-Republic",
+        "founded": null,
+        "national": false,
+        "logo": "16142.png",
+        "venue_id": 495946385176
+    },
+    {
+        "id": 16617,
+        "name": "Moca",
+        "code": null,
+        "country": "Dominican-Republic",
+        "founded": null,
+        "national": false,
+        "logo": "16617.png",
+        "venue_id": 1231021468566
+    },
+    {
+        "id": 16618,
+        "name": "San Cristóbal",
+        "code": null,
+        "country": "Dominican-Republic",
+        "founded": null,
+        "national": false,
+        "logo": "16618.svg",
+        "venue_id": 33648720245
+    }
 ]

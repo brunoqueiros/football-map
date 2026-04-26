@@ -6,7 +6,7 @@
         "country": "Burkina-Faso",
         "founded": null,
         "national": false,
-        "logo": "https://media.api-sports.io/football/teams/6430.png",
+        "logo": "6430.png",
         "venue_id": 4740
     },
     {
@@ -16,7 +16,7 @@
         "country": "Burkina-Faso",
         "founded": null,
         "national": false,
-        "logo": "https://media.api-sports.io/football/teams/8072.png",
+        "logo": "8072.png",
         "venue_id": 306
     },
     {
@@ -26,7 +26,7 @@
         "country": "Burkina-Faso",
         "founded": 1955,
         "national": false,
-        "logo": "https://media.api-sports.io/football/teams/8086.png",
+        "logo": "8086.png",
         "venue_id": 306
     },
     {
@@ -36,7 +36,7 @@
         "country": "Burkina-Faso",
         "founded": 1990,
         "national": false,
-        "logo": "https://media.api-sports.io/football/teams/8111.png",
+        "logo": "8111.png",
         "venue_id": 306
     },
     {
@@ -46,7 +46,7 @@
         "country": "Burkina-Faso",
         "founded": null,
         "national": false,
-        "logo": "https://media.api-sports.io/football/teams/8561.png",
+        "logo": "8561.png",
         "venue_id": 306
     },
     {
@@ -56,7 +56,7 @@
         "country": "Burkina-Faso",
         "founded": null,
         "national": false,
-        "logo": "https://media.api-sports.io/football/teams/8562.png",
+        "logo": "8562.png",
         "venue_id": 6111
     },
     {
@@ -66,7 +66,7 @@
         "country": "Burkina-Faso",
         "founded": 1947,
         "national": false,
-        "logo": "https://media.api-sports.io/football/teams/8563.png",
+        "logo": "8563.png",
         "venue_id": 306
     },
     {
@@ -76,7 +76,7 @@
         "country": "Burkina-Faso",
         "founded": null,
         "national": false,
-        "logo": "https://media.api-sports.io/football/teams/8564.png",
+        "logo": "8564.png",
         "venue_id": 4740
     },
     {
@@ -86,7 +86,7 @@
         "country": "Burkina-Faso",
         "founded": null,
         "national": false,
-        "logo": "https://media.api-sports.io/football/teams/8566.png",
+        "logo": "8566.png",
         "venue_id": 306
     },
     {
@@ -96,7 +96,7 @@
         "country": "Burkina-Faso",
         "founded": 1949,
         "national": false,
-        "logo": "https://media.api-sports.io/football/teams/8568.png",
+        "logo": "8568.png",
         "venue_id": 4740
     },
     {
@@ -106,7 +106,7 @@
         "country": "Burkina-Faso",
         "founded": 1962,
         "national": false,
-        "logo": "https://media.api-sports.io/football/teams/8570.png",
+        "logo": "8570.png",
         "venue_id": 306
     },
     {
@@ -116,7 +116,7 @@
         "country": "Burkina-Faso",
         "founded": null,
         "national": false,
-        "logo": "https://media.api-sports.io/football/teams/13978.png",
+        "logo": "13978.png",
         "venue_id": 306
     },
     {
@@ -126,7 +126,7 @@
         "country": "Burkina-Faso",
         "founded": null,
         "national": false,
-        "logo": "https://media.api-sports.io/football/teams/17923.png",
+        "logo": "17923.png",
         "venue_id": 4740
     },
     {
@@ -136,7 +136,7 @@
         "country": "Burkina-Faso",
         "founded": null,
         "national": false,
-        "logo": "https://media.api-sports.io/football/teams/20029.png",
+        "logo": "20029.png",
         "venue_id": 306
     },
     {
@@ -146,7 +146,7 @@
         "country": "Burkina-Faso",
         "founded": null,
         "national": false,
-        "logo": "https://media.api-sports.io/football/teams/22017.png",
+        "logo": "22017.png",
         "venue_id": 21393
     },
     {
@@ -156,7 +156,7 @@
         "country": "Burkina-Faso",
         "founded": 1985,
         "national": false,
-        "logo": "https://media.api-sports.io/football/teams/25180.png",
+        "logo": "25180.png",
         "venue_id": 21393
     }
 ]

@@ -6,7 +6,7 @@
         "country": "Bangladesh",
         "founded": 1972,
         "national": false,
-        "logo": "https://media.api-sports.io/football/teams/5009.png",
+        "logo": "5009.png",
         "venue_id": 22277
     },
     {
@@ -16,7 +16,7 @@
         "country": "Bangladesh",
         "founded": 1972,
         "national": false,
-        "logo": "https://media.api-sports.io/football/teams/5010.png",
+        "logo": "5010.png",
         "venue_id": 3798
     },
     {
@@ -26,7 +26,7 @@
         "country": "Bangladesh",
         "founded": 2013,
         "national": false,
-        "logo": "https://media.api-sports.io/football/teams/5012.png",
+        "logo": "5012.png",
         "venue_id": 21483
     },
     {
@@ -36,7 +36,7 @@
         "country": "Bangladesh",
         "founded": 1949,
         "national": false,
-        "logo": "https://media.api-sports.io/football/teams/5013.png",
+        "logo": "5013.png",
         "venue_id": 21484
     },
     {
@@ -46,7 +46,7 @@
         "country": "Bangladesh",
         "founded": 1936,
         "national": false,
-        "logo": "https://media.api-sports.io/football/teams/5014.png",
+        "logo": "5014.png",
         "venue_id": 22277
     },
     {
@@ -56,7 +56,7 @@
         "country": "Bangladesh",
         "founded": 1933,
         "national": false,
-        "logo": "https://media.api-sports.io/football/teams/5017.png",
+        "logo": "5017.png",
         "venue_id": 21484
     },
     {
@@ -66,7 +66,7 @@
         "country": "Bangladesh",
         "founded": null,
         "national": false,
-        "logo": "https://media.api-sports.io/football/teams/10106.png",
+        "logo": "10106.png",
         "venue_id": 3799
     },
     {
@@ -76,7 +76,7 @@
         "country": "Bangladesh",
         "founded": 2020,
         "national": false,
-        "logo": "https://media.api-sports.io/football/teams/20780.png",
+        "logo": "20780.png",
         "venue_id": 21483
     },
     {
@@ -86,7 +86,7 @@
         "country": "Bangladesh",
         "founded": null,
         "national": false,
-        "logo": "https://media.api-sports.io/football/teams/25415.png",
+        "logo": "25415.png",
         "venue_id": 3798
     },
     {
@@ -96,7 +96,7 @@
         "country": "Bangladesh",
         "founded": null,
         "national": false,
-        "logo": "https://media.api-sports.io/football/teams/25416.png",
+        "logo": "25416.png",
         "venue_id": 22702
     },
     {
@@ -106,7 +106,7 @@
         "country": "Bangladesh",
         "founded": null,
         "national": false,
-        "logo": "https://media.api-sports.io/football/teams/5019.png",
+        "logo": "5019.png",
         "venue_id": 3798
     },
     {
@@ -116,7 +116,7 @@
         "country": "Bangladesh",
         "founded": null,
         "national": false,
-        "logo": "https://media.api-sports.io/football/teams/5020.png",
+        "logo": "5020.png",
         "venue_id": 19351
     }
 ]

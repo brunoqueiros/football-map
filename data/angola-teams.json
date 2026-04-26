@@ -6,7 +6,7 @@
         "country": "Angola",
         "founded": 1977,
         "national": false,
-        "logo": "https://media.api-sports.io/football/teams/4913.png",
+        "logo": "4913.png",
         "venue_id": 3712
     },
     {
@@ -16,7 +16,7 @@
         "country": "Angola",
         "founded": null,
         "national": false,
-        "logo": "https://media.api-sports.io/football/teams/4915.png",
+        "logo": "4915.png",
         "venue_id": 3714
     },
     {
@@ -26,7 +26,7 @@
         "country": "Angola",
         "founded": 1955,
         "national": false,
-        "logo": "https://media.api-sports.io/football/teams/4918.png",
+        "logo": "4918.png",
         "venue_id": 10511
     },
     {
@@ -36,7 +36,7 @@
         "country": "Angola",
         "founded": 1953,
         "national": false,
-        "logo": "https://media.api-sports.io/football/teams/4920.png",
+        "logo": "4920.png",
         "venue_id": 3718
     },
     {
@@ -46,7 +46,7 @@
         "country": "Angola",
         "founded": 1983,
         "national": false,
-        "logo": "https://media.api-sports.io/football/teams/4921.png",
+        "logo": "4921.png",
         "venue_id": 3719
     },
     {
@@ -56,7 +56,7 @@
         "country": "Angola",
         "founded": 1980,
         "national": false,
-        "logo": "https://media.api-sports.io/football/teams/4922.png",
+        "logo": "4922.png",
         "venue_id": 3712
     },
     {
@@ -66,7 +66,7 @@
         "country": "Angola",
         "founded": 1942,
         "national": false,
-        "logo": "https://media.api-sports.io/football/teams/4924.png",
+        "logo": "4924.png",
         "venue_id": 3721
     },
     {
@@ -76,7 +76,7 @@
         "country": "Angola",
         "founded": null,
         "national": false,
-        "logo": "https://media.api-sports.io/football/teams/4925.png",
+        "logo": "4925.png",
         "venue_id": 3722
     },
     {
@@ -86,7 +86,7 @@
         "country": "Angola",
         "founded": null,
         "national": false,
-        "logo": "https://media.api-sports.io/football/teams/4928.png",
+        "logo": "4928.png",
         "venue_id": 6656545646544
     },
     {
@@ -96,7 +96,7 @@
         "country": "Angola",
         "founded": 1994,
         "national": false,
-        "logo": "https://media.api-sports.io/football/teams/4929.png",
+        "logo": "4929.png",
         "venue_id": 3724
     },
     {
@@ -106,7 +106,7 @@
         "country": "Angola",
         "founded": null,
         "national": false,
-        "logo": "https://media.api-sports.io/football/teams/6383.png",
+        "logo": "6383.png",
         "venue_id": 7135
     },
     {
@@ -116,7 +116,7 @@
         "country": "Angola",
         "founded": 2020,
         "national": false,
-        "logo": "https://media.api-sports.io/football/teams/17987.png",
+        "logo": "17987.png",
         "venue_id": 3719
     },
     {
@@ -126,7 +126,7 @@
         "country": "Angola",
         "founded": null,
         "national": false,
-        "logo": "https://media.api-sports.io/football/teams/20246.png",
+        "logo": "20246.png",
         "venue_id": 11000312154
     },
     {
@@ -136,7 +136,7 @@
         "country": "Angola",
         "founded": 2001,
         "national": false,
-        "logo": "https://media.api-sports.io/football/teams/22359.png",
+        "logo": "22359.png",
         "venue_id": 12111101210
     },
     {
@@ -146,7 +146,7 @@
         "country": "Angola",
         "founded": null,
         "national": false,
-        "logo": "https://media.api-sports.io/football/teams/24908.png",
+        "logo": "24908.png",
         "venue_id": 6656545646544
     },
     {
@@ -156,7 +156,7 @@
         "country": "Angola",
         "founded": null,
         "national": false,
-        "logo": "https://media.api-sports.io/football/teams/24909.png",
+        "logo": "24909.png",
         "venue_id": 5646531232154
     }
 ]

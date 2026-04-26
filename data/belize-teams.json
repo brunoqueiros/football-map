@@ -6,7 +6,7 @@
         "country": "Belize",
         "founded": null,
         "national": false,
-        "logo": "https://media.api-sports.io/football/teams/5470.png",
+        "logo": "5470.png",
         "venue_id": 4116
     },
     {
@@ -16,7 +16,7 @@
         "country": "Belize",
         "founded": null,
         "national": false,
-        "logo": "https://media.api-sports.io/football/teams/5475.png",
+        "logo": "5475.png",
         "venue_id": 4119
     },
     {
@@ -26,7 +26,7 @@
         "country": "Belize",
         "founded": null,
         "national": false,
-        "logo": "https://media.api-sports.io/football/teams/5476.png",
+        "logo": "5476.png",
         "venue_id": 4120
     },
     {
@@ -36,7 +36,7 @@
         "country": "Belize",
         "founded": 2017,
         "national": false,
-        "logo": "https://media.api-sports.io/football/teams/5478.png",
+        "logo": "5478.png",
         "venue_id": 4121
     },
     {
@@ -46,7 +46,7 @@
         "country": "Belize",
         "founded": null,
         "national": false,
-        "logo": "https://media.api-sports.io/football/teams/19741.png",
+        "logo": "19741.png",
         "venue_id": 4153
     },
     {
@@ -56,7 +56,7 @@
         "country": "Belize",
         "founded": null,
         "national": false,
-        "logo": "https://media.api-sports.io/football/teams/19762.png",
+        "logo": "19762.png",
         "venue_id": 111888338790
     }
 ]

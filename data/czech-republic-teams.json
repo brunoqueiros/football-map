@@ -1,1902 +1,1902 @@
 [
-  {
-    "id": 3718,
-    "name": "Příbram",
-    "code": "PRI",
-    "country": "Czech-Republic",
-    "founded": 1948,
-    "national": false,
-    "logo": "https://media.api-sports.io/football/teams/3718.png",
-    "venue_id": 10574
-  },
-  {
-    "id": 7268,
-    "name": "Admira Praha",
-    "code": "ADM",
-    "country": "Czech-Republic",
-    "founded": 1907,
-    "national": false,
-    "logo": "https://media.api-sports.io/football/teams/7268.png",
-    "venue_id": 5268
-  },
-  {
-    "id": 7282,
-    "name": "Chomutov",
-    "code": "CHO",
-    "country": "Czech-Republic",
-    "founded": 1920,
-    "national": false,
-    "logo": "https://media.api-sports.io/football/teams/7282.png",
-    "venue_id": 5281
-  },
-  {
-    "id": 7304,
-    "name": "Jiskra Domažlice",
-    "code": "DOM",
-    "country": "Czech-Republic",
-    "founded": 1908,
-    "national": false,
-    "logo": "https://media.api-sports.io/football/teams/7304.png",
-    "venue_id": 5302
-  },
-  {
-    "id": 7315,
-    "name": "Loko Vltavín",
-    "code": "LOK",
-    "country": "Czech-Republic",
-    "founded": null,
-    "national": false,
-    "logo": "https://media.api-sports.io/football/teams/7315.png",
-    "venue_id": 5311
-  },
-  {
-    "id": 7319,
-    "name": "Motorlet Praha",
-    "code": "MOT",
-    "country": "Czech-Republic",
-    "founded": 1912,
-    "national": false,
-    "logo": "https://media.api-sports.io/football/teams/7319.png",
-    "venue_id": 18687
-  },
-  {
-    "id": 7330,
-    "name": "Petřín Plzeň",
-    "code": null,
-    "country": "Czech-Republic",
-    "founded": 1894,
-    "national": false,
-    "logo": "https://media.api-sports.io/football/teams/7330.png",
-    "venue_id": 5324
-  },
-  {
-    "id": 7334,
-    "name": "Písek",
-    "code": "PIS",
-    "country": "Czech-Republic",
-    "founded": null,
-    "national": false,
-    "logo": "https://media.api-sports.io/football/teams/7334.png",
-    "venue_id": 5328
-  },
-  {
-    "id": 7337,
-    "name": "Přeštice",
-    "code": null,
-    "country": "Czech-Republic",
-    "founded": null,
-    "national": false,
-    "logo": "https://media.api-sports.io/football/teams/7337.png",
-    "venue_id": 5331
-  },
-  {
-    "id": 7348,
-    "name": "Slovan Velvary",
-    "code": null,
-    "country": "Czech-Republic",
-    "founded": null,
-    "national": false,
-    "logo": "https://media.api-sports.io/football/teams/7348.png",
-    "venue_id": 5340
-  },
-  {
-    "id": 7350,
-    "name": "Sokol Hostouň",
-    "code": null,
-    "country": "Czech-Republic",
-    "founded": 1927,
-    "national": false,
-    "logo": "https://media.api-sports.io/football/teams/7350.png",
-    "venue_id": 5342
-  },
-  {
-    "id": 8620,
-    "name": "Viktoria Plzeň II",
-    "code": null,
-    "country": "Czech-Republic",
-    "founded": null,
-    "national": false,
-    "logo": "https://media.api-sports.io/football/teams/8620.png",
-    "venue_id": 6156
-  },
-  {
-    "id": 8629,
-    "name": "České Budějovice II",
-    "code": null,
-    "country": "Czech-Republic",
-    "founded": null,
-    "national": false,
-    "logo": "https://media.api-sports.io/football/teams/8629.png",
-    "venue_id": 5342
-  },
-  {
-    "id": 14005,
-    "name": "Povltava FA",
-    "code": null,
-    "country": "Czech-Republic",
-    "founded": 2020,
-    "national": false,
-    "logo": "https://media.api-sports.io/football/teams/14005.png",
-    "venue_id": 5373
-  },
-  {
-    "id": 14473,
-    "name": "Bohemians 1905 II",
-    "code": "BOH",
-    "country": "Czech-Republic",
-    "founded": null,
-    "national": false,
-    "logo": "https://media.api-sports.io/football/teams/14473.png",
-    "venue_id": 10671
-  },
-  {
-    "id": 15132,
-    "name": "Dukla Praha II",
-    "code": null,
-    "country": "Czech-Republic",
-    "founded": null,
-    "national": false,
-    "logo": "https://media.api-sports.io/football/teams/15132.png",
-    "venue_id": 19255
-  },
-  {
-    "id": 22094,
-    "name": "Táborsko II",
-    "code": null,
-    "country": "Czech-Republic",
-    "founded": null,
-    "national": false,
-    "logo": "https://media.api-sports.io/football/teams/22094.png",
-    "venue_id": 10849
-  },
-  {
-    "id": 3735,
-    "name": "Ústí nad Labem",
-    "code": "UST",
-    "country": "Czech-Republic",
-    "founded": 1927,
-    "national": false,
-    "logo": "https://media.api-sports.io/football/teams/3735.png",
-    "venue_id": 2516
-  },
-  {
-    "id": 7270,
-    "name": "Arsenal Česká Lípa",
-    "code": null,
-    "country": "Czech-Republic",
-    "founded": 1927,
-    "national": false,
-    "logo": "https://media.api-sports.io/football/teams/7270.png",
-    "venue_id": 5270
-  },
-  {
-    "id": 7271,
-    "name": "Baník Souš",
-    "code": "SOU",
-    "country": "Czech-Republic",
-    "founded": 1919,
-    "national": false,
-    "logo": "https://media.api-sports.io/football/teams/7271.png",
-    "venue_id": 5271
-  },
-  {
-    "id": 7274,
-    "name": "Benátky nad Jizerou",
-    "code": null,
-    "country": "Czech-Republic",
-    "founded": null,
-    "national": false,
-    "logo": "https://media.api-sports.io/football/teams/7274.png",
-    "venue_id": 11955
-  },
-  {
-    "id": 7281,
-    "name": "Chlumec nad Cidlinou",
-    "code": null,
-    "country": "Czech-Republic",
-    "founded": 2019,
-    "national": false,
-    "logo": "https://media.api-sports.io/football/teams/7281.png",
-    "venue_id": 5280
-  },
-  {
-    "id": 7307,
-    "name": "Kladno",
-    "code": "KLA",
-    "country": "Czech-Republic",
-    "founded": 1903,
-    "national": false,
-    "logo": "https://media.api-sports.io/football/teams/7307.png",
-    "venue_id": 5305
-  },
-  {
-    "id": 7309,
-    "name": "Kolín",
-    "code": "KOL",
-    "country": "Czech-Republic",
-    "founded": 1912,
-    "national": false,
-    "logo": "https://media.api-sports.io/football/teams/7309.png",
-    "venue_id": 5307
-  },
-  {
-    "id": 7349,
-    "name": "Sokol Brozany",
-    "code": "BRO",
-    "country": "Czech-Republic",
-    "founded": null,
-    "national": false,
-    "logo": "https://media.api-sports.io/football/teams/7349.png",
-    "venue_id": 5341
-  },
-  {
-    "id": 7356,
-    "name": "Sokol Zápy",
-    "code": "SOK",
-    "country": "Czech-Republic",
-    "founded": 1932,
-    "national": false,
-    "logo": "https://media.api-sports.io/football/teams/7356.png",
-    "venue_id": 5346
-  },
-  {
-    "id": 7358,
-    "name": "Sokol Živanice",
-    "code": "ZIV",
-    "country": "Czech-Republic",
-    "founded": null,
-    "national": false,
-    "logo": "https://media.api-sports.io/football/teams/7358.png",
-    "venue_id": 5347
-  },
-  {
-    "id": 7381,
-    "name": "Ústí nad Orlicí",
-    "code": "UST",
-    "country": "Czech-Republic",
-    "founded": 1904,
-    "national": false,
-    "logo": "https://media.api-sports.io/football/teams/7381.png",
-    "venue_id": 5369
-  },
-  {
-    "id": 12797,
-    "name": "Jablonec II",
-    "code": null,
-    "country": "Czech-Republic",
-    "founded": 1945,
-    "national": false,
-    "logo": "https://media.api-sports.io/football/teams/12797.png",
-    "venue_id": 8153
-  },
-  {
-    "id": 12816,
-    "name": "Mladá Boleslav II",
-    "code": null,
-    "country": "Czech-Republic",
-    "founded": null,
-    "national": false,
-    "logo": "https://media.api-sports.io/football/teams/12816.png",
-    "venue_id": 12724
-  },
-  {
-    "id": 12855,
-    "name": "Slovan Liberec II",
-    "code": null,
-    "country": "Czech-Republic",
-    "founded": null,
-    "national": false,
-    "logo": "https://media.api-sports.io/football/teams/12855.png",
-    "venue_id": 8201
-  },
-  {
-    "id": 12877,
-    "name": "Teplice II",
-    "code": null,
-    "country": "Czech-Republic",
-    "founded": null,
-    "national": false,
-    "logo": "https://media.api-sports.io/football/teams/12877.png",
-    "venue_id": 8218
-  },
-  {
-    "id": 14495,
-    "name": "Hradec Králové II",
-    "code": null,
-    "country": "Czech-Republic",
-    "founded": null,
-    "national": false,
-    "logo": "https://media.api-sports.io/football/teams/14495.png",
-    "venue_id": 10678
-  },
-  {
-    "id": 14747,
-    "name": "Pardubice II",
-    "code": "PAR",
-    "country": "Czech-Republic",
-    "founded": null,
-    "national": false,
-    "logo": "https://media.api-sports.io/football/teams/14747.png",
-    "venue_id": 2506
-  },
-  {
-    "id": 3727,
-    "name": "Třinec",
-    "code": "TRI",
-    "country": "Czech-Republic",
-    "founded": 1921,
-    "national": false,
-    "logo": "https://media.api-sports.io/football/teams/3727.png",
-    "venue_id": 10548
-  },
-  {
-    "id": 3734,
-    "name": "Znojmo",
-    "code": "ZNO",
-    "country": "Czech-Republic",
-    "founded": 1953,
-    "national": false,
-    "logo": "https://media.api-sports.io/football/teams/3734.png",
-    "venue_id": 2515
-  },
-  {
-    "id": 7276,
-    "name": "Blansko",
-    "code": "BLA",
-    "country": "Czech-Republic",
-    "founded": null,
-    "national": false,
-    "logo": "https://media.api-sports.io/football/teams/7276.png",
-    "venue_id": 5275
-  },
-  {
-    "id": 7288,
-    "name": "Frýdek-Místek",
-    "code": "FRY",
-    "country": "Czech-Republic",
-    "founded": 1921,
-    "national": false,
-    "logo": "https://media.api-sports.io/football/teams/7288.png",
-    "venue_id": 5287
-  },
-  {
-    "id": 7291,
-    "name": "Hanácká",
-    "code": "KRO",
-    "country": "Czech-Republic",
-    "founded": 1919,
-    "national": false,
-    "logo": "https://media.api-sports.io/football/teams/7291.png",
-    "venue_id": 19955
-  },
-  {
-    "id": 7296,
-    "name": "Hlučín",
-    "code": "HLU",
-    "country": "Czech-Republic",
-    "founded": 1923,
-    "national": false,
-    "logo": "https://media.api-sports.io/football/teams/7296.png",
-    "venue_id": 5295
-  },
-  {
-    "id": 7297,
-    "name": "Hodonín",
-    "code": null,
-    "country": "Czech-Republic",
-    "founded": 1994,
-    "national": false,
-    "logo": "https://media.api-sports.io/football/teams/7297.png",
-    "venue_id": 5296
-  },
-  {
-    "id": 7347,
-    "name": "Slovan Rosice",
-    "code": "SLO",
-    "country": "Czech-Republic",
-    "founded": null,
-    "national": false,
-    "logo": "https://media.api-sports.io/football/teams/7347.png",
-    "venue_id": 5339
-  },
-  {
-    "id": 7361,
-    "name": "Start Brno",
-    "code": null,
-    "country": "Czech-Republic",
-    "founded": 1957,
-    "national": false,
-    "logo": "https://media.api-sports.io/football/teams/7361.png",
-    "venue_id": 5350
-  },
-  {
-    "id": 7363,
-    "name": "Strání",
-    "code": null,
-    "country": "Czech-Republic",
-    "founded": null,
-    "national": false,
-    "logo": "https://media.api-sports.io/football/teams/7363.png",
-    "venue_id": 5352
-  },
-  {
-    "id": 7368,
-    "name": "Unie Hlubina",
-    "code": null,
-    "country": "Czech-Republic",
-    "founded": 1919,
-    "national": false,
-    "logo": "https://media.api-sports.io/football/teams/7368.png",
-    "venue_id": 18941
-  },
-  {
-    "id": 7369,
-    "name": "Uničov",
-    "code": "UNI",
-    "country": "Czech-Republic",
-    "founded": 1935,
-    "national": false,
-    "logo": "https://media.api-sports.io/football/teams/7369.png",
-    "venue_id": 5357
-  },
-  {
-    "id": 7374,
-    "name": "Viktoria Otrokovice",
-    "code": "OTR",
-    "country": "Czech-Republic",
-    "founded": 1928,
-    "national": false,
-    "logo": "https://media.api-sports.io/football/teams/7374.png",
-    "venue_id": 5362
-  },
-  {
-    "id": 8623,
-    "name": "Slovácko II",
-    "code": null,
-    "country": "Czech-Republic",
-    "founded": null,
-    "national": false,
-    "logo": "https://media.api-sports.io/football/teams/8623.png",
-    "venue_id": 6159
-  },
-  {
-    "id": 8624,
-    "name": "Uherský Brod",
-    "code": "UHE",
-    "country": "Czech-Republic",
-    "founded": null,
-    "national": false,
-    "logo": "https://media.api-sports.io/football/teams/8624.png",
-    "venue_id": 6160
-  },
-  {
-    "id": 8625,
-    "name": "Zlín II",
-    "code": null,
-    "country": "Czech-Republic",
-    "founded": null,
-    "national": false,
-    "logo": "https://media.api-sports.io/football/teams/8625.png",
-    "venue_id": 12094
-  },
-  {
-    "id": 8633,
-    "name": "Zbrojovka Brno II",
-    "code": null,
-    "country": "Czech-Republic",
-    "founded": null,
-    "national": false,
-    "logo": "https://media.api-sports.io/football/teams/8633.png",
-    "venue_id": 10700
-  },
-  {
-    "id": 15134,
-    "name": "Karviná II",
-    "code": "KAR",
-    "country": "Czech-Republic",
-    "founded": null,
-    "national": false,
-    "logo": "https://media.api-sports.io/football/teams/15134.png",
-    "venue_id": 10850
-  },
-  {
-    "id": 7269,
-    "name": "Aritma Praha",
-    "code": "ARI",
-    "country": "Czech-Republic",
-    "founded": 1908,
-    "national": false,
-    "logo": "https://media.api-sports.io/football/teams/7269.png",
-    "venue_id": 22034
-  },
-  {
-    "id": 7285,
-    "name": "Doubravka",
-    "code": "DOU",
-    "country": "Czech-Republic",
-    "founded": 1921,
-    "national": false,
-    "logo": "https://media.api-sports.io/football/teams/7285.png",
-    "venue_id": 5284
-  },
-  {
-    "id": 7299,
-    "name": "Hořovicko",
-    "code": "HOR",
-    "country": "Czech-Republic",
-    "founded": null,
-    "national": false,
-    "logo": "https://media.api-sports.io/football/teams/7299.png",
-    "venue_id": 18761
-  },
-  {
-    "id": 7303,
-    "name": "Jindřichův Hradec",
-    "code": "JIN",
-    "country": "Czech-Republic",
-    "founded": null,
-    "national": false,
-    "logo": "https://media.api-sports.io/football/teams/7303.png",
-    "venue_id": 6154
-  },
-  {
-    "id": 7310,
-    "name": "Komárov",
-    "code": null,
-    "country": "Czech-Republic",
-    "founded": null,
-    "national": false,
-    "logo": "https://media.api-sports.io/football/teams/7310.png",
-    "venue_id": 18940
-  },
-  {
-    "id": 7312,
-    "name": "Králův Dvůr",
-    "code": "KRA",
-    "country": "Czech-Republic",
-    "founded": 1949,
-    "national": false,
-    "logo": "https://media.api-sports.io/football/teams/7312.png",
-    "venue_id": 5309
-  },
-  {
-    "id": 7339,
-    "name": "Rokycany",
-    "code": "ROK",
-    "country": "Czech-Republic",
-    "founded": 1903,
-    "national": false,
-    "logo": "https://media.api-sports.io/football/teams/7339.png",
-    "venue_id": 5333
-  },
-  {
-    "id": 7360,
-    "name": "Spartak Soběslav",
-    "code": null,
-    "country": "Czech-Republic",
-    "founded": null,
-    "national": false,
-    "logo": "https://media.api-sports.io/football/teams/7360.png",
-    "venue_id": 5349
-  },
-  {
-    "id": 8617,
-    "name": "Příbram II",
-    "code": null,
-    "country": "Czech-Republic",
-    "founded": null,
-    "national": false,
-    "logo": "https://media.api-sports.io/football/teams/8617.png",
-    "venue_id": 22035
-  },
-  {
-    "id": 19432,
-    "name": "Slavoj Český Krumlov",
-    "code": null,
-    "country": "Czech-Republic",
-    "founded": null,
-    "national": false,
-    "logo": "https://media.api-sports.io/football/teams/19432.png",
-    "venue_id": 18771
-  },
-  {
-    "id": 19639,
-    "name": "Jiskra Domažlice II",
-    "code": null,
-    "country": "Czech-Republic",
-    "founded": null,
-    "national": false,
-    "logo": "https://media.api-sports.io/football/teams/19639.png",
-    "venue_id": 5302
-  },
-  {
-    "id": 21982,
-    "name": "Hluboka nad Vltavou",
-    "code": null,
-    "country": "Czech-Republic",
-    "founded": null,
-    "national": false,
-    "logo": "https://media.api-sports.io/football/teams/21982.png",
-    "venue_id": 21815
-  },
-  {
-    "id": 24195,
-    "name": "Milin",
-    "code": null,
-    "country": "Czech-Republic",
-    "founded": null,
-    "national": false,
-    "logo": "https://media.api-sports.io/football/teams/24195.png",
-    "venue_id": 21820
-  },
-  {
-    "id": 24196,
-    "name": "Slavia Vejprnice",
-    "code": null,
-    "country": "Czech-Republic",
-    "founded": null,
-    "national": false,
-    "logo": "https://media.api-sports.io/football/teams/24196.png",
-    "venue_id": 247515872806
-  },
-  {
-    "id": 24197,
-    "name": "TJ Přeštice",
-    "code": null,
-    "country": "Czech-Republic",
-    "founded": 1921,
-    "national": false,
-    "logo": "https://media.api-sports.io/football/teams/24197.png",
-    "venue_id": 5331
-  },
-  {
-    "id": 24224,
-    "name": "Petřín Plzeň II",
-    "code": null,
-    "country": "Czech-Republic",
-    "founded": null,
-    "national": false,
-    "logo": "https://media.api-sports.io/football/teams/24224.png",
-    "venue_id": 18766
-  },
-  {
-    "id": 3721,
-    "name": "Baník Sokolov",
-    "code": "SOK",
-    "country": "Czech-Republic",
-    "founded": 1948,
-    "national": false,
-    "logo": "https://media.api-sports.io/football/teams/3721.png",
-    "venue_id": 2503
-  },
-  {
-    "id": 7306,
-    "name": "Karlovy Vary",
-    "code": "KAR",
-    "country": "Czech-Republic",
-    "founded": 1928,
-    "national": false,
-    "logo": "https://media.api-sports.io/football/teams/7306.png",
-    "venue_id": 18640
-  },
-  {
-    "id": 7317,
-    "name": "Mariánské Lázně",
-    "code": null,
-    "country": "Czech-Republic",
-    "founded": 1945,
-    "national": false,
-    "logo": "https://media.api-sports.io/football/teams/7317.png",
-    "venue_id": 5313
-  },
-  {
-    "id": 7318,
-    "name": "Meteor Praha",
-    "code": "MET",
-    "country": "Czech-Republic",
-    "founded": null,
-    "national": false,
-    "logo": "https://media.api-sports.io/football/teams/7318.png",
-    "venue_id": 5314
-  },
-  {
-    "id": 7320,
-    "name": "Neratovice-Byškovice",
-    "code": null,
-    "country": "Czech-Republic",
-    "founded": 2006,
-    "national": false,
-    "logo": "https://media.api-sports.io/football/teams/7320.png",
-    "venue_id": 5316
-  },
-  {
-    "id": 7327,
-    "name": "Olympie Březová",
-    "code": null,
-    "country": "Czech-Republic",
-    "founded": null,
-    "national": false,
-    "logo": "https://media.api-sports.io/football/teams/7327.png",
-    "venue_id": 5321
-  },
-  {
-    "id": 7328,
-    "name": "Ostrov",
-    "code": null,
-    "country": "Czech-Republic",
-    "founded": null,
-    "national": false,
-    "logo": "https://media.api-sports.io/football/teams/7328.png",
-    "venue_id": 5322
-  },
-  {
-    "id": 7335,
-    "name": "Přední Kopanina",
-    "code": null,
-    "country": "Czech-Republic",
-    "founded": null,
-    "national": false,
-    "logo": "https://media.api-sports.io/football/teams/7335.png",
-    "venue_id": 5329
-  },
-  {
-    "id": 7342,
-    "name": "Slaný",
-    "code": null,
-    "country": "Czech-Republic",
-    "founded": null,
-    "national": false,
-    "logo": "https://media.api-sports.io/football/teams/7342.png",
-    "venue_id": 5335
-  },
-  {
-    "id": 7382,
-    "name": "Český Brod",
-    "code": "CES",
-    "country": "Czech-Republic",
-    "founded": 1898,
-    "national": false,
-    "logo": "https://media.api-sports.io/football/teams/7382.png",
-    "venue_id": 5370
-  },
-  {
-    "id": 7386,
-    "name": "Štětí",
-    "code": "STE",
-    "country": "Czech-Republic",
-    "founded": null,
-    "national": false,
-    "logo": "https://media.api-sports.io/football/teams/7386.png",
-    "venue_id": 5374
-  },
-  {
-    "id": 19425,
-    "name": "Hřebeč",
-    "code": null,
-    "country": "Czech-Republic",
-    "founded": null,
-    "national": false,
-    "logo": "https://media.api-sports.io/football/teams/19425.png",
-    "venue_id": 18768
-  },
-  {
-    "id": 19439,
-    "name": "Újezd Praha 4",
-    "code": null,
-    "country": "Czech-Republic",
-    "founded": null,
-    "national": false,
-    "logo": "https://media.api-sports.io/football/teams/19439.png",
-    "venue_id": 18945
-  },
-  {
-    "id": 19640,
-    "name": "Admira Praha II",
-    "code": null,
-    "country": "Czech-Republic",
-    "founded": null,
-    "national": false,
-    "logo": "https://media.api-sports.io/football/teams/19640.png",
-    "venue_id": 5268
-  },
-  {
-    "id": 21985,
-    "name": "Tempo Praha",
-    "code": null,
-    "country": "Czech-Republic",
-    "founded": 1928,
-    "national": false,
-    "logo": "https://media.api-sports.io/football/teams/21985.png",
-    "venue_id": 21816
-  },
-  {
-    "id": 24194,
-    "name": "Ústí nad Labem II",
-    "code": null,
-    "country": "Czech-Republic",
-    "founded": null,
-    "national": false,
-    "logo": "https://media.api-sports.io/football/teams/24194.png",
-    "venue_id": 14247731232
-  },
-  {
-    "id": 7273,
-    "name": "Benešov",
-    "code": "BEN",
-    "country": "Czech-Republic",
-    "founded": null,
-    "national": false,
-    "logo": "https://media.api-sports.io/football/teams/7273.png",
-    "venue_id": 5272
-  },
-  {
-    "id": 7278,
-    "name": "Brandýs nad Labem",
-    "code": null,
-    "country": "Czech-Republic",
-    "founded": 1901,
-    "national": false,
-    "logo": "https://media.api-sports.io/football/teams/7278.png",
-    "venue_id": 5277
-  },
-  {
-    "id": 7295,
-    "name": "Hlinsko",
-    "code": null,
-    "country": "Czech-Republic",
-    "founded": null,
-    "national": false,
-    "logo": "https://media.api-sports.io/football/teams/7295.png",
-    "venue_id": 5294
-  },
-  {
-    "id": 7336,
-    "name": "Přepeře",
-    "code": null,
-    "country": "Czech-Republic",
-    "founded": null,
-    "national": false,
-    "logo": "https://media.api-sports.io/football/teams/7336.png",
-    "venue_id": 5330
-  },
-  {
-    "id": 7367,
-    "name": "Trutnov",
-    "code": "TRU",
-    "country": "Czech-Republic",
-    "founded": 1921,
-    "national": false,
-    "logo": "https://media.api-sports.io/football/teams/7367.png",
-    "venue_id": 5356
-  },
-  {
-    "id": 7372,
-    "name": "Velké Hamry",
-    "code": null,
-    "country": "Czech-Republic",
-    "founded": null,
-    "national": false,
-    "logo": "https://media.api-sports.io/football/teams/7372.png",
-    "venue_id": 5360
-  },
-  {
-    "id": 7378,
-    "name": "Vysoké Mýto",
-    "code": "VYS",
-    "country": "Czech-Republic",
-    "founded": 1902,
-    "national": false,
-    "logo": "https://media.api-sports.io/football/teams/7378.png",
-    "venue_id": 5366
-  },
-  {
-    "id": 14004,
-    "name": "Kosmonosy",
-    "code": null,
-    "country": "Czech-Republic",
-    "founded": null,
-    "national": false,
-    "logo": "https://media.api-sports.io/football/teams/14004.png",
-    "venue_id": 10552
-  },
-  {
-    "id": 14657,
-    "name": "Dobrovice",
-    "code": "DOB",
-    "country": "Czech-Republic",
-    "founded": 1911,
-    "national": false,
-    "logo": "https://media.api-sports.io/football/teams/14657.png",
-    "venue_id": 10704
-  },
-  {
-    "id": 19422,
-    "name": "Cidlina Novy Bydzov",
-    "code": null,
-    "country": "Czech-Republic",
-    "founded": null,
-    "national": false,
-    "logo": "https://media.api-sports.io/football/teams/19422.png",
-    "venue_id": 18767
-  },
-  {
-    "id": 19437,
-    "name": "Turnov",
-    "code": null,
-    "country": "Czech-Republic",
-    "founded": null,
-    "national": false,
-    "logo": "https://media.api-sports.io/football/teams/19437.png",
-    "venue_id": 18773
-  },
-  {
-    "id": 19641,
-    "name": "Chrudim II",
-    "code": null,
-    "country": "Czech-Republic",
-    "founded": null,
-    "national": false,
-    "logo": "https://media.api-sports.io/football/teams/19641.png",
-    "venue_id": 2504
-  },
-  {
-    "id": 21648,
-    "name": "Slavia Hradec Králové",
-    "code": null,
-    "country": "Czech-Republic",
-    "founded": null,
-    "national": false,
-    "logo": "https://media.api-sports.io/football/teams/21648.png",
-    "venue_id": 20020
-  },
-  {
-    "id": 24191,
-    "name": "Horní Ředice",
-    "code": null,
-    "country": "Czech-Republic",
-    "founded": null,
-    "national": false,
-    "logo": "https://media.api-sports.io/football/teams/24191.png",
-    "venue_id": 21818
-  },
-  {
-    "id": 24192,
-    "name": "Slovan Hrádek nad Nisou",
-    "code": null,
-    "country": "Czech-Republic",
-    "founded": null,
-    "national": false,
-    "logo": "https://media.api-sports.io/football/teams/24192.png",
-    "venue_id": 22063
-  },
-  {
-    "id": 24193,
-    "name": "Spartak Police n/Metují",
-    "code": null,
-    "country": "Czech-Republic",
-    "founded": null,
-    "national": false,
-    "logo": "https://media.api-sports.io/football/teams/24193.png",
-    "venue_id": 21819
-  },
-  {
-    "id": 7292,
-    "name": "Havlíčkův Brod",
-    "code": null,
-    "country": "Czech-Republic",
-    "founded": 1911,
-    "national": false,
-    "logo": "https://media.api-sports.io/football/teams/7292.png",
-    "venue_id": 5291
-  },
-  {
-    "id": 7301,
-    "name": "Humpolec",
-    "code": null,
-    "country": "Czech-Republic",
-    "founded": null,
-    "national": false,
-    "logo": "https://media.api-sports.io/football/teams/7301.png",
-    "venue_id": 5299
-  },
-  {
-    "id": 7345,
-    "name": "Slavoj Polná",
-    "code": "POL",
-    "country": "Czech-Republic",
-    "founded": 1927,
-    "national": false,
-    "logo": "https://media.api-sports.io/football/teams/7345.png",
-    "venue_id": 5338
-  },
-  {
-    "id": 7351,
-    "name": "Sokol Lanžhot",
-    "code": null,
-    "country": "Czech-Republic",
-    "founded": null,
-    "national": false,
-    "logo": "https://media.api-sports.io/football/teams/7351.png",
-    "venue_id": 5343
-  },
-  {
-    "id": 7355,
-    "name": "Sokol Tasovice",
-    "code": "TAS",
-    "country": "Czech-Republic",
-    "founded": null,
-    "national": false,
-    "logo": "https://media.api-sports.io/football/teams/7355.png",
-    "venue_id": 5345
-  },
-  {
-    "id": 7371,
-    "name": "Velká Bíteš",
-    "code": null,
-    "country": "Czech-Republic",
-    "founded": 1932,
-    "national": false,
-    "logo": "https://media.api-sports.io/football/teams/7371.png",
-    "venue_id": 5359
-  },
-  {
-    "id": 7373,
-    "name": "Velké Meziříčí",
-    "code": "VEL",
-    "country": "Czech-Republic",
-    "founded": null,
-    "national": false,
-    "logo": "https://media.api-sports.io/football/teams/7373.png",
-    "venue_id": 5361
-  },
-  {
-    "id": 7376,
-    "name": "Vrchovina",
-    "code": "VRC",
-    "country": "Czech-Republic",
-    "founded": null,
-    "national": false,
-    "logo": "https://media.api-sports.io/football/teams/7376.png",
-    "venue_id": 5364
-  },
-  {
-    "id": 7388,
-    "name": "Ždírec nad Doubravou",
-    "code": null,
-    "country": "Czech-Republic",
-    "founded": null,
-    "national": false,
-    "logo": "https://media.api-sports.io/football/teams/7388.png",
-    "venue_id": 5376
-  },
-  {
-    "id": 7389,
-    "name": "Žďár nad Sázavou",
-    "code": "ZDA",
-    "country": "Czech-Republic",
-    "founded": 1995,
-    "national": false,
-    "logo": "https://media.api-sports.io/football/teams/7389.png",
-    "venue_id": 5377
-  },
-  {
-    "id": 8631,
-    "name": "Břeclav",
-    "code": "BRE",
-    "country": "Czech-Republic",
-    "founded": 1920,
-    "national": false,
-    "logo": "https://media.api-sports.io/football/teams/8631.png",
-    "venue_id": 6166
-  },
-  {
-    "id": 19424,
-    "name": "Dálnice Speřice",
-    "code": null,
-    "country": "Czech-Republic",
-    "founded": null,
-    "national": false,
-    "logo": "https://media.api-sports.io/football/teams/19424.png",
-    "venue_id": 18944
-  },
-  {
-    "id": 19436,
-    "name": "Tatran Bohunice",
-    "code": null,
-    "country": "Czech-Republic",
-    "founded": null,
-    "national": false,
-    "logo": "https://media.api-sports.io/football/teams/19436.png",
-    "venue_id": 18772
-  },
-  {
-    "id": 19689,
-    "name": "Kuřim",
-    "code": null,
-    "country": "Czech-Republic",
-    "founded": null,
-    "national": false,
-    "logo": "https://media.api-sports.io/football/teams/19689.png",
-    "venue_id": 22029
-  },
-  {
-    "id": 21650,
-    "name": "Líšeň II",
-    "code": null,
-    "country": "Czech-Republic",
-    "founded": null,
-    "national": false,
-    "logo": "https://media.api-sports.io/football/teams/21650.png",
-    "venue_id": 3252
-  },
-  {
-    "id": 24190,
-    "name": "FS Třebíč",
-    "code": null,
-    "country": "Czech-Republic",
-    "founded": null,
-    "national": false,
-    "logo": "https://media.api-sports.io/football/teams/24190.png",
-    "venue_id": 21817
-  },
-  {
-    "id": 7280,
-    "name": "Bzenec",
-    "code": null,
-    "country": "Czech-Republic",
-    "founded": 1928,
-    "national": false,
-    "logo": "https://media.api-sports.io/football/teams/7280.png",
-    "venue_id": 5279
-  },
-  {
-    "id": 7290,
-    "name": "HFK Olomouc",
-    "code": "OLO",
-    "country": "Czech-Republic",
-    "founded": 1932,
-    "national": false,
-    "logo": "https://media.api-sports.io/football/teams/7290.png",
-    "venue_id": 5289
-  },
-  {
-    "id": 7300,
-    "name": "Hranice",
-    "code": "HRA",
-    "country": "Czech-Republic",
-    "founded": null,
-    "national": false,
-    "logo": "https://media.api-sports.io/football/teams/7300.png",
-    "venue_id": 5298
-  },
-  {
-    "id": 7311,
-    "name": "Kozlovice",
-    "code": null,
-    "country": "Czech-Republic",
-    "founded": 1924,
-    "national": false,
-    "logo": "https://media.api-sports.io/football/teams/7311.png",
-    "venue_id": 5308
-  },
-  {
-    "id": 7322,
-    "name": "Nové Sady",
-    "code": null,
-    "country": "Czech-Republic",
-    "founded": 1922,
-    "national": false,
-    "logo": "https://media.api-sports.io/football/teams/7322.png",
-    "venue_id": 5317
-  },
-  {
-    "id": 7341,
-    "name": "Skaštice",
-    "code": null,
-    "country": "Czech-Republic",
-    "founded": null,
-    "national": false,
-    "logo": "https://media.api-sports.io/football/teams/7341.png",
-    "venue_id": 5334
-  },
-  {
-    "id": 7343,
-    "name": "Slavičín",
-    "code": "SLA",
-    "country": "Czech-Republic",
-    "founded": null,
-    "national": false,
-    "logo": "https://media.api-sports.io/football/teams/7343.png",
-    "venue_id": 5336
-  },
-  {
-    "id": 7366,
-    "name": "Tatran Všechovice",
-    "code": null,
-    "country": "Czech-Republic",
-    "founded": 1951,
-    "national": false,
-    "logo": "https://media.api-sports.io/football/teams/7366.png",
-    "venue_id": 5355
-  },
-  {
-    "id": 7370,
-    "name": "Valašské Meziříčí",
-    "code": "VAL",
-    "country": "Czech-Republic",
-    "founded": null,
-    "national": false,
-    "logo": "https://media.api-sports.io/football/teams/7370.png",
-    "venue_id": 5358
-  },
-  {
-    "id": 7377,
-    "name": "Vsetín",
-    "code": null,
-    "country": "Czech-Republic",
-    "founded": 1905,
-    "national": false,
-    "logo": "https://media.api-sports.io/football/teams/7377.png",
-    "venue_id": 5365
-  },
-  {
-    "id": 7387,
-    "name": "Šumperk",
-    "code": "SUM",
-    "country": "Czech-Republic",
-    "founded": null,
-    "national": false,
-    "logo": "https://media.api-sports.io/football/teams/7387.png",
-    "venue_id": 5375
-  },
-  {
-    "id": 16876,
-    "name": "Holešov",
-    "code": null,
-    "country": "Czech-Republic",
-    "founded": null,
-    "national": false,
-    "logo": "https://media.api-sports.io/football/teams/16876.png",
-    "venue_id": 11637
-  },
-  {
-    "id": 19420,
-    "name": "Baťov",
-    "code": null,
-    "country": "Czech-Republic",
-    "founded": 1930,
-    "national": false,
-    "logo": "https://media.api-sports.io/football/teams/19420.png",
-    "venue_id": 18942
-  },
-  {
-    "id": 19440,
-    "name": "Šternberk",
-    "code": null,
-    "country": "Czech-Republic",
-    "founded": null,
-    "national": false,
-    "logo": "https://media.api-sports.io/football/teams/19440.png",
-    "venue_id": 18946
-  },
-  {
-    "id": 21618,
-    "name": "Kostelec na Hané",
-    "code": null,
-    "country": "Czech-Republic",
-    "founded": null,
-    "national": false,
-    "logo": "https://media.api-sports.io/football/teams/21618.png",
-    "venue_id": 20018
-  },
-  {
-    "id": 24189,
-    "name": "Kvasice",
-    "code": null,
-    "country": "Czech-Republic",
-    "founded": 1931,
-    "national": false,
-    "logo": "https://media.api-sports.io/football/teams/24189.png",
-    "venue_id": 5363
-  },
-  {
-    "id": 3732,
-    "name": "Vítkovice",
-    "code": null,
-    "country": "Czech-Republic",
-    "founded": 1922,
-    "national": false,
-    "logo": "https://media.api-sports.io/football/teams/3732.png",
-    "venue_id": 19837
-  },
-  {
-    "id": 7275,
-    "name": "Beskyd Frenštát",
-    "code": null,
-    "country": "Czech-Republic",
-    "founded": null,
-    "national": false,
-    "logo": "https://media.api-sports.io/football/teams/7275.png",
-    "venue_id": 5274
-  },
-  {
-    "id": 7277,
-    "name": "Bospor Bohumín",
-    "code": null,
-    "country": "Czech-Republic",
-    "founded": null,
-    "national": false,
-    "logo": "https://media.api-sports.io/football/teams/7277.png",
-    "venue_id": 5276
-  },
-  {
-    "id": 7289,
-    "name": "Frýdlant",
-    "code": null,
-    "country": "Czech-Republic",
-    "founded": null,
-    "national": false,
-    "logo": "https://media.api-sports.io/football/teams/7289.png",
-    "venue_id": 5288
-  },
-  {
-    "id": 7293,
-    "name": "Havířov",
-    "code": "HAV",
-    "country": "Czech-Republic",
-    "founded": null,
-    "national": false,
-    "logo": "https://media.api-sports.io/football/teams/7293.png",
-    "venue_id": 5292
-  },
-  {
-    "id": 7305,
-    "name": "Jiskra Rýmařov",
-    "code": null,
-    "country": "Czech-Republic",
-    "founded": null,
-    "national": false,
-    "logo": "https://media.api-sports.io/football/teams/7305.png",
-    "venue_id": 5303
-  },
-  {
-    "id": 7323,
-    "name": "Nový Jičín",
-    "code": "NOV",
-    "country": "Czech-Republic",
-    "founded": null,
-    "national": false,
-    "logo": "https://media.api-sports.io/football/teams/7323.png",
-    "venue_id": 5318
-  },
-  {
-    "id": 7332,
-    "name": "Polanka nad Odrou",
-    "code": null,
-    "country": "Czech-Republic",
-    "founded": null,
-    "national": false,
-    "logo": "https://media.api-sports.io/football/teams/7332.png",
-    "venue_id": 5326
-  },
-  {
-    "id": 15135,
-    "name": "Opava II",
-    "code": "OPA",
-    "country": "Czech-Republic",
-    "founded": null,
-    "national": false,
-    "logo": "https://media.api-sports.io/football/teams/15135.png",
-    "venue_id": 10851
-  },
-  {
-    "id": 16875,
-    "name": "Bílovec",
-    "code": null,
-    "country": "Czech-Republic",
-    "founded": null,
-    "national": false,
-    "logo": "https://media.api-sports.io/football/teams/16875.png",
-    "venue_id": 18764
-  },
-  {
-    "id": 16877,
-    "name": "Vratimov",
-    "code": null,
-    "country": "Czech-Republic",
-    "founded": null,
-    "national": false,
-    "logo": "https://media.api-sports.io/football/teams/16877.png",
-    "venue_id": 12500
-  },
-  {
-    "id": 19421,
-    "name": "Břidličná",
-    "code": null,
-    "country": "Czech-Republic",
-    "founded": null,
-    "national": false,
-    "logo": "https://media.api-sports.io/football/teams/19421.png",
-    "venue_id": 18943
-  },
-  {
-    "id": 19428,
-    "name": "Krnov",
-    "code": null,
-    "country": "Czech-Republic",
-    "founded": null,
-    "national": false,
-    "logo": "https://media.api-sports.io/football/teams/19428.png",
-    "venue_id": 20849
-  },
-  {
-    "id": 21619,
-    "name": "Petřvald na Moravě",
-    "code": null,
-    "country": "Czech-Republic",
-    "founded": null,
-    "national": false,
-    "logo": "https://media.api-sports.io/football/teams/21619.png",
-    "venue_id": 21814
-  },
-  {
-    "id": 21652,
-    "name": "Řepiště",
-    "code": null,
-    "country": "Czech-Republic",
-    "founded": null,
-    "national": false,
-    "logo": "https://media.api-sports.io/football/teams/21652.png",
-    "venue_id": 19839
-  },
-  {
-    "id": 24188,
-    "name": "Pustá Polom",
-    "code": null,
-    "country": "Czech-Republic",
-    "founded": null,
-    "national": false,
-    "logo": "https://media.api-sports.io/football/teams/24188.png",
-    "venue_id": 22032
-  },
-  {
-    "id": 560,
-    "name": "Slavia Praha",
-    "code": "SLA",
-    "country": "Czech-Republic",
-    "founded": 1892,
-    "national": false,
-    "logo": "https://media.api-sports.io/football/teams/560.png",
-    "venue_id": 18856
-  },
-  {
-    "id": 567,
-    "name": "Plzen",
-    "code": "PLZ",
-    "country": "Czech-Republic",
-    "founded": 1911,
-    "national": false,
-    "logo": "https://media.api-sports.io/football/teams/567.png",
-    "venue_id": 438
-  },
-  {
-    "id": 603,
-    "name": "Zlin",
-    "code": "ZLI",
-    "country": "Czech-Republic",
-    "founded": 1919,
-    "national": false,
-    "logo": "https://media.api-sports.io/football/teams/603.png",
-    "venue_id": 2492
-  },
-  {
-    "id": 628,
-    "name": "Sparta Praha",
-    "code": "SPA",
-    "country": "Czech-Republic",
-    "founded": 1893,
-    "national": false,
-    "logo": "https://media.api-sports.io/football/teams/628.png",
-    "venue_id": 19513
-  },
-  {
-    "id": 640,
-    "name": "Mlada Boleslav",
-    "code": "MLA",
-    "country": "Czech-Republic",
-    "founded": 1902,
-    "national": false,
-    "logo": "https://media.api-sports.io/football/teams/640.png",
-    "venue_id": 2494
-  },
-  {
-    "id": 782,
-    "name": "Slovan Liberec",
-    "code": "LIB",
-    "country": "Czech-Republic",
-    "founded": 1921,
-    "national": false,
-    "logo": "https://media.api-sports.io/football/teams/782.png",
-    "venue_id": 2493
-  },
-  {
-    "id": 1122,
-    "name": "FK Jablonec",
-    "code": "JAB",
-    "country": "Czech-Republic",
-    "founded": 1945,
-    "national": false,
-    "logo": "https://media.api-sports.io/football/teams/1122.png",
-    "venue_id": 434
-  },
-  {
-    "id": 2250,
-    "name": "Sigma Olomouc",
-    "code": "SIG",
-    "country": "Czech-Republic",
-    "founded": 1919,
-    "national": false,
-    "logo": "https://media.api-sports.io/football/teams/2250.png",
-    "venue_id": 435
-  },
-  {
-    "id": 3713,
-    "name": "Baník Ostrava",
-    "code": "OST",
-    "country": "Czech-Republic",
-    "founded": 1922,
-    "national": false,
-    "logo": "https://media.api-sports.io/football/teams/3713.png",
-    "venue_id": 2495
-  },
-  {
-    "id": 3714,
-    "name": "Bohemians 1905",
-    "code": "BOH",
-    "country": "Czech-Republic",
-    "founded": 1905,
-    "national": false,
-    "logo": "https://media.api-sports.io/football/teams/3714.png",
-    "venue_id": 2496
-  },
-  {
-    "id": 3715,
-    "name": "Dukla Praha",
-    "code": "DUK",
-    "country": "Czech-Republic",
-    "founded": 1948,
-    "national": false,
-    "logo": "https://media.api-sports.io/football/teams/3715.png",
-    "venue_id": 2497
-  },
-  {
-    "id": 3716,
-    "name": "Karviná",
-    "code": "KAR",
-    "country": "Czech-Republic",
-    "founded": 2003,
-    "national": false,
-    "logo": "https://media.api-sports.io/football/teams/3716.png",
-    "venue_id": 2498
-  },
-  {
-    "id": 3717,
-    "name": "Opava",
-    "code": "OPA",
-    "country": "Czech-Republic",
-    "founded": 1907,
-    "national": false,
-    "logo": "https://media.api-sports.io/football/teams/3717.png",
-    "venue_id": 2499
-  },
-  {
-    "id": 3719,
-    "name": "Slovácko",
-    "code": "SLO",
-    "country": "Czech-Republic",
-    "founded": 1927,
-    "national": false,
-    "logo": "https://media.api-sports.io/football/teams/3719.png",
-    "venue_id": 2501
-  },
-  {
-    "id": 3720,
-    "name": "Teplice",
-    "code": "TEP",
-    "country": "Czech-Republic",
-    "founded": 1945,
-    "national": false,
-    "logo": "https://media.api-sports.io/football/teams/3720.png",
-    "venue_id": 10575
-  },
-  {
-    "id": 3722,
-    "name": "Chrudim",
-    "code": "CHR",
-    "country": "Czech-Republic",
-    "founded": 1899,
-    "national": false,
-    "logo": "https://media.api-sports.io/football/teams/3722.png",
-    "venue_id": 2504
-  },
-  {
-    "id": 3723,
-    "name": "Hradec Králové",
-    "code": "HRA",
-    "country": "Czech-Republic",
-    "founded": 1905,
-    "national": false,
-    "logo": "https://media.api-sports.io/football/teams/3723.png",
-    "venue_id": 20749
-  },
-  {
-    "id": 3724,
-    "name": "Pardubice",
-    "code": null,
-    "country": "Czech-Republic",
-    "founded": null,
-    "national": false,
-    "logo": "https://media.api-sports.io/football/teams/3724.png",
-    "venue_id": 20750
-  },
-  {
-    "id": 3725,
-    "name": "Prostějov",
-    "code": "HAN",
-    "country": "Czech-Republic",
-    "founded": 1904,
-    "national": false,
-    "logo": "https://media.api-sports.io/football/teams/3725.png",
-    "venue_id": 5289
-  },
-  {
-    "id": 3726,
-    "name": "Táborsko",
-    "code": "MAS",
-    "country": "Czech-Republic",
-    "founded": 1926,
-    "national": false,
-    "logo": "https://media.api-sports.io/football/teams/3726.png",
-    "venue_id": 2508
-  },
-  {
-    "id": 3728,
-    "name": "Varnsdorf",
-    "code": "VAR",
-    "country": "Czech-Republic",
-    "founded": 1938,
-    "national": false,
-    "logo": "https://media.api-sports.io/football/teams/3728.png",
-    "venue_id": 2510
-  },
-  {
-    "id": 3729,
-    "name": "Viktoria Žižkov",
-    "code": "ZIZ",
-    "country": "Czech-Republic",
-    "founded": 1903,
-    "national": false,
-    "logo": "https://media.api-sports.io/football/teams/3729.png",
-    "venue_id": 2511
-  },
-  {
-    "id": 3730,
-    "name": "Vlašim",
-    "code": "VLA",
-    "country": "Czech-Republic",
-    "founded": 1969,
-    "national": false,
-    "logo": "https://media.api-sports.io/football/teams/3730.png",
-    "venue_id": 2512
-  },
-  {
-    "id": 3731,
-    "name": "Vysočina Jihlava",
-    "code": "JIH",
-    "country": "Czech-Republic",
-    "founded": 1948,
-    "national": false,
-    "logo": "https://media.api-sports.io/football/teams/3731.png",
-    "venue_id": 2513
-  },
-  {
-    "id": 3733,
-    "name": "Zbrojovka Brno",
-    "code": "BRN",
-    "country": "Czech-Republic",
-    "founded": 1913,
-    "national": false,
-    "logo": "https://media.api-sports.io/football/teams/3733.png",
-    "venue_id": 2514
-  },
-  {
-    "id": 3736,
-    "name": "České Budějovice",
-    "code": "CES",
-    "country": "Czech-Republic",
-    "founded": 1905,
-    "national": false,
-    "logo": "https://media.api-sports.io/football/teams/3736.png",
-    "venue_id": 2517
-  },
-  {
-    "id": 4257,
-    "name": "Artis",
-    "code": "LIS",
-    "country": "Czech-Republic",
-    "founded": null,
-    "national": false,
-    "logo": "https://media.api-sports.io/football/teams/4257.png",
-    "venue_id": 3252
-  },
-  {
-    "id": 7379,
-    "name": "Vyškov",
-    "code": null,
-    "country": "Czech-Republic",
-    "founded": null,
-    "national": false,
-    "logo": "https://media.api-sports.io/football/teams/7379.png",
-    "venue_id": 11958
-  },
-  {
-    "id": 19431,
-    "name": "Rousínov",
-    "code": null,
-    "country": "Czech-Republic",
-    "founded": null,
-    "national": false,
-    "logo": "https://media.api-sports.io/football/teams/19431.png",
-    "venue_id": 260521190851
-  },
-  {
-    "id": 21483,
-    "name": "Kolovec",
-    "code": null,
-    "country": "Czech-Republic",
-    "founded": 0,
-    "national": false,
-    "logo": "https://media.api-sports.io/football/teams/21483.png",
-    "venue_id": 198646122669
-  },
-  {
-    "id": 21620,
-    "name": "Sokol Čechovice",
-    "code": null,
-    "country": "Czech-Republic",
-    "founded": null,
-    "national": false,
-    "logo": "https://media.api-sports.io/football/teams/21620.png",
-    "venue_id": 882252355571
-  },
-  {
-    "id": 21983,
-    "name": "MILO Olomouc",
-    "code": null,
-    "country": "Czech-Republic",
-    "founded": null,
-    "national": false,
-    "logo": "https://media.api-sports.io/football/teams/21983.png",
-    "venue_id": 374201682976
-  },
-  {
-    "id": 24199,
-    "name": "Pěnčín",
-    "code": null,
-    "country": "Czech-Republic",
-    "founded": null,
-    "national": false,
-    "logo": "https://media.api-sports.io/football/teams/24199.png",
-    "venue_id": 21821
-  },
-  {
-    "id": 24200,
-    "name": "Rapid Psáry",
-    "code": null,
-    "country": "Czech-Republic",
-    "founded": null,
-    "national": false,
-    "logo": "https://media.api-sports.io/football/teams/24200.png",
-    "venue_id": 22064
-  },
-  {
-    "id": 24201,
-    "name": "Slavoj Žatec",
-    "code": null,
-    "country": "Czech-Republic",
-    "founded": null,
-    "national": false,
-    "logo": "https://media.api-sports.io/football/teams/24201.png",
-    "venue_id": 970651314209
-  },
-  {
-    "id": 24202,
-    "name": "Sokol Železnice",
-    "code": null,
-    "country": "Czech-Republic",
-    "founded": null,
-    "national": false,
-    "logo": "https://media.api-sports.io/football/teams/24202.png",
-    "venue_id": 992358919637
-  },
-  {
-    "id": 24203,
-    "name": "Tichá",
-    "code": null,
-    "country": "Bulgaria",
-    "founded": null,
-    "national": false,
-    "logo": "https://media.api-sports.io/football/teams/24203.png",
-    "venue_id": 286
-  },
-  {
-    "id": 24204,
-    "name": "Česká Třebová",
-    "code": null,
-    "country": "Czech-Republic",
-    "founded": null,
-    "national": false,
-    "logo": "https://media.api-sports.io/football/teams/24204.png",
-    "venue_id": 21822
-  },
-  {
-    "id": 8618,
-    "name": "Slavia Praha II",
-    "code": null,
-    "country": "Czech-Republic",
-    "founded": null,
-    "national": false,
-    "logo": "https://media.api-sports.io/football/teams/8618.png",
-    "venue_id": 6154
-  },
-  {
-    "id": 8619,
-    "name": "Sparta Praha II",
-    "code": "SPA",
-    "country": "Czech-Republic",
-    "founded": 1893,
-    "national": false,
-    "logo": "https://media.api-sports.io/football/teams/8619.png",
-    "venue_id": 2511
-  },
-  {
-    "id": 8621,
-    "name": "Baník Ostrava II",
-    "code": null,
-    "country": "Czech-Republic",
-    "founded": null,
-    "national": false,
-    "logo": "https://media.api-sports.io/football/teams/8621.png",
-    "venue_id": 18760
-  },
-  {
-    "id": 8622,
-    "name": "Sigma Olomouc II",
-    "code": null,
-    "country": "Czech-Republic",
-    "founded": null,
-    "national": false,
-    "logo": "https://media.api-sports.io/football/teams/8622.png",
-    "venue_id": 435
-  }
+    {
+        "id": 3718,
+        "name": "Příbram",
+        "code": "PRI",
+        "country": "Czech-Republic",
+        "founded": 1948,
+        "national": false,
+        "logo": "3718.png",
+        "venue_id": 10574
+    },
+    {
+        "id": 7268,
+        "name": "Admira Praha",
+        "code": "ADM",
+        "country": "Czech-Republic",
+        "founded": 1907,
+        "national": false,
+        "logo": "7268.png",
+        "venue_id": 5268
+    },
+    {
+        "id": 7282,
+        "name": "Chomutov",
+        "code": "CHO",
+        "country": "Czech-Republic",
+        "founded": 1920,
+        "national": false,
+        "logo": "7282.png",
+        "venue_id": 5281
+    },
+    {
+        "id": 7304,
+        "name": "Jiskra Domažlice",
+        "code": "DOM",
+        "country": "Czech-Republic",
+        "founded": 1908,
+        "national": false,
+        "logo": "7304.png",
+        "venue_id": 5302
+    },
+    {
+        "id": 7315,
+        "name": "Loko Vltavín",
+        "code": "LOK",
+        "country": "Czech-Republic",
+        "founded": null,
+        "national": false,
+        "logo": "7315.png",
+        "venue_id": 5311
+    },
+    {
+        "id": 7319,
+        "name": "Motorlet Praha",
+        "code": "MOT",
+        "country": "Czech-Republic",
+        "founded": 1912,
+        "national": false,
+        "logo": "7319.png",
+        "venue_id": 18687
+    },
+    {
+        "id": 7330,
+        "name": "Petřín Plzeň",
+        "code": null,
+        "country": "Czech-Republic",
+        "founded": 1894,
+        "national": false,
+        "logo": "7330.png",
+        "venue_id": 5324
+    },
+    {
+        "id": 7334,
+        "name": "Písek",
+        "code": "PIS",
+        "country": "Czech-Republic",
+        "founded": null,
+        "national": false,
+        "logo": "7334.png",
+        "venue_id": 5328
+    },
+    {
+        "id": 7337,
+        "name": "Přeštice",
+        "code": null,
+        "country": "Czech-Republic",
+        "founded": null,
+        "national": false,
+        "logo": "7337.png",
+        "venue_id": 5331
+    },
+    {
+        "id": 7348,
+        "name": "Slovan Velvary",
+        "code": null,
+        "country": "Czech-Republic",
+        "founded": null,
+        "national": false,
+        "logo": "7348.png",
+        "venue_id": 5340
+    },
+    {
+        "id": 7350,
+        "name": "Sokol Hostouň",
+        "code": null,
+        "country": "Czech-Republic",
+        "founded": 1927,
+        "national": false,
+        "logo": "7350.png",
+        "venue_id": 5342
+    },
+    {
+        "id": 8620,
+        "name": "Viktoria Plzeň II",
+        "code": null,
+        "country": "Czech-Republic",
+        "founded": null,
+        "national": false,
+        "logo": "8620.png",
+        "venue_id": 6156
+    },
+    {
+        "id": 8629,
+        "name": "České Budějovice II",
+        "code": null,
+        "country": "Czech-Republic",
+        "founded": null,
+        "national": false,
+        "logo": "8629.png",
+        "venue_id": 5342
+    },
+    {
+        "id": 14005,
+        "name": "Povltava FA",
+        "code": null,
+        "country": "Czech-Republic",
+        "founded": 2020,
+        "national": false,
+        "logo": "14005.png",
+        "venue_id": 5373
+    },
+    {
+        "id": 14473,
+        "name": "Bohemians 1905 II",
+        "code": "BOH",
+        "country": "Czech-Republic",
+        "founded": null,
+        "national": false,
+        "logo": "14473.png",
+        "venue_id": 10671
+    },
+    {
+        "id": 15132,
+        "name": "Dukla Praha II",
+        "code": null,
+        "country": "Czech-Republic",
+        "founded": null,
+        "national": false,
+        "logo": "15132.png",
+        "venue_id": 19255
+    },
+    {
+        "id": 22094,
+        "name": "Táborsko II",
+        "code": null,
+        "country": "Czech-Republic",
+        "founded": null,
+        "national": false,
+        "logo": "22094.png",
+        "venue_id": 10849
+    },
+    {
+        "id": 3735,
+        "name": "Ústí nad Labem",
+        "code": "UST",
+        "country": "Czech-Republic",
+        "founded": 1927,
+        "national": false,
+        "logo": "3735.png",
+        "venue_id": 2516
+    },
+    {
+        "id": 7270,
+        "name": "Arsenal Česká Lípa",
+        "code": null,
+        "country": "Czech-Republic",
+        "founded": 1927,
+        "national": false,
+        "logo": "7270.png",
+        "venue_id": 5270
+    },
+    {
+        "id": 7271,
+        "name": "Baník Souš",
+        "code": "SOU",
+        "country": "Czech-Republic",
+        "founded": 1919,
+        "national": false,
+        "logo": "7271.png",
+        "venue_id": 5271
+    },
+    {
+        "id": 7274,
+        "name": "Benátky nad Jizerou",
+        "code": null,
+        "country": "Czech-Republic",
+        "founded": null,
+        "national": false,
+        "logo": "7274.png",
+        "venue_id": 11955
+    },
+    {
+        "id": 7281,
+        "name": "Chlumec nad Cidlinou",
+        "code": null,
+        "country": "Czech-Republic",
+        "founded": 2019,
+        "national": false,
+        "logo": "7281.png",
+        "venue_id": 5280
+    },
+    {
+        "id": 7307,
+        "name": "Kladno",
+        "code": "KLA",
+        "country": "Czech-Republic",
+        "founded": 1903,
+        "national": false,
+        "logo": "7307.png",
+        "venue_id": 5305
+    },
+    {
+        "id": 7309,
+        "name": "Kolín",
+        "code": "KOL",
+        "country": "Czech-Republic",
+        "founded": 1912,
+        "national": false,
+        "logo": "7309.png",
+        "venue_id": 5307
+    },
+    {
+        "id": 7349,
+        "name": "Sokol Brozany",
+        "code": "BRO",
+        "country": "Czech-Republic",
+        "founded": null,
+        "national": false,
+        "logo": "7349.png",
+        "venue_id": 5341
+    },
+    {
+        "id": 7356,
+        "name": "Sokol Zápy",
+        "code": "SOK",
+        "country": "Czech-Republic",
+        "founded": 1932,
+        "national": false,
+        "logo": "7356.png",
+        "venue_id": 5346
+    },
+    {
+        "id": 7358,
+        "name": "Sokol Živanice",
+        "code": "ZIV",
+        "country": "Czech-Republic",
+        "founded": null,
+        "national": false,
+        "logo": "7358.png",
+        "venue_id": 5347
+    },
+    {
+        "id": 7381,
+        "name": "Ústí nad Orlicí",
+        "code": "UST",
+        "country": "Czech-Republic",
+        "founded": 1904,
+        "national": false,
+        "logo": "7381.png",
+        "venue_id": 5369
+    },
+    {
+        "id": 12797,
+        "name": "Jablonec II",
+        "code": null,
+        "country": "Czech-Republic",
+        "founded": 1945,
+        "national": false,
+        "logo": "12797.png",
+        "venue_id": 8153
+    },
+    {
+        "id": 12816,
+        "name": "Mladá Boleslav II",
+        "code": null,
+        "country": "Czech-Republic",
+        "founded": null,
+        "national": false,
+        "logo": "12816.png",
+        "venue_id": 12724
+    },
+    {
+        "id": 12855,
+        "name": "Slovan Liberec II",
+        "code": null,
+        "country": "Czech-Republic",
+        "founded": null,
+        "national": false,
+        "logo": "12855.png",
+        "venue_id": 8201
+    },
+    {
+        "id": 12877,
+        "name": "Teplice II",
+        "code": null,
+        "country": "Czech-Republic",
+        "founded": null,
+        "national": false,
+        "logo": "12877.png",
+        "venue_id": 8218
+    },
+    {
+        "id": 14495,
+        "name": "Hradec Králové II",
+        "code": null,
+        "country": "Czech-Republic",
+        "founded": null,
+        "national": false,
+        "logo": "14495.png",
+        "venue_id": 10678
+    },
+    {
+        "id": 14747,
+        "name": "Pardubice II",
+        "code": "PAR",
+        "country": "Czech-Republic",
+        "founded": null,
+        "national": false,
+        "logo": "14747.png",
+        "venue_id": 2506
+    },
+    {
+        "id": 3727,
+        "name": "Třinec",
+        "code": "TRI",
+        "country": "Czech-Republic",
+        "founded": 1921,
+        "national": false,
+        "logo": "3727.png",
+        "venue_id": 10548
+    },
+    {
+        "id": 3734,
+        "name": "Znojmo",
+        "code": "ZNO",
+        "country": "Czech-Republic",
+        "founded": 1953,
+        "national": false,
+        "logo": "3734.png",
+        "venue_id": 2515
+    },
+    {
+        "id": 7276,
+        "name": "Blansko",
+        "code": "BLA",
+        "country": "Czech-Republic",
+        "founded": null,
+        "national": false,
+        "logo": "7276.png",
+        "venue_id": 5275
+    },
+    {
+        "id": 7288,
+        "name": "Frýdek-Místek",
+        "code": "FRY",
+        "country": "Czech-Republic",
+        "founded": 1921,
+        "national": false,
+        "logo": "7288.png",
+        "venue_id": 5287
+    },
+    {
+        "id": 7291,
+        "name": "Hanácká",
+        "code": "KRO",
+        "country": "Czech-Republic",
+        "founded": 1919,
+        "national": false,
+        "logo": "7291.png",
+        "venue_id": 19955
+    },
+    {
+        "id": 7296,
+        "name": "Hlučín",
+        "code": "HLU",
+        "country": "Czech-Republic",
+        "founded": 1923,
+        "national": false,
+        "logo": "7296.png",
+        "venue_id": 5295
+    },
+    {
+        "id": 7297,
+        "name": "Hodonín",
+        "code": null,
+        "country": "Czech-Republic",
+        "founded": 1994,
+        "national": false,
+        "logo": "7297.png",
+        "venue_id": 5296
+    },
+    {
+        "id": 7347,
+        "name": "Slovan Rosice",
+        "code": "SLO",
+        "country": "Czech-Republic",
+        "founded": null,
+        "national": false,
+        "logo": "7347.png",
+        "venue_id": 5339
+    },
+    {
+        "id": 7361,
+        "name": "Start Brno",
+        "code": null,
+        "country": "Czech-Republic",
+        "founded": 1957,
+        "national": false,
+        "logo": "7361.png",
+        "venue_id": 5350
+    },
+    {
+        "id": 7363,
+        "name": "Strání",
+        "code": null,
+        "country": "Czech-Republic",
+        "founded": null,
+        "national": false,
+        "logo": "7363.png",
+        "venue_id": 5352
+    },
+    {
+        "id": 7368,
+        "name": "Unie Hlubina",
+        "code": null,
+        "country": "Czech-Republic",
+        "founded": 1919,
+        "national": false,
+        "logo": "7368.png",
+        "venue_id": 18941
+    },
+    {
+        "id": 7369,
+        "name": "Uničov",
+        "code": "UNI",
+        "country": "Czech-Republic",
+        "founded": 1935,
+        "national": false,
+        "logo": "7369.png",
+        "venue_id": 5357
+    },
+    {
+        "id": 7374,
+        "name": "Viktoria Otrokovice",
+        "code": "OTR",
+        "country": "Czech-Republic",
+        "founded": 1928,
+        "national": false,
+        "logo": "7374.svg",
+        "venue_id": 5362
+    },
+    {
+        "id": 8623,
+        "name": "Slovácko II",
+        "code": null,
+        "country": "Czech-Republic",
+        "founded": null,
+        "national": false,
+        "logo": "8623.png",
+        "venue_id": 6159
+    },
+    {
+        "id": 8624,
+        "name": "Uherský Brod",
+        "code": "UHE",
+        "country": "Czech-Republic",
+        "founded": null,
+        "national": false,
+        "logo": "8624.svg",
+        "venue_id": 6160
+    },
+    {
+        "id": 8625,
+        "name": "Zlín II",
+        "code": null,
+        "country": "Czech-Republic",
+        "founded": null,
+        "national": false,
+        "logo": "8625.png",
+        "venue_id": 12094
+    },
+    {
+        "id": 8633,
+        "name": "Zbrojovka Brno II",
+        "code": null,
+        "country": "Czech-Republic",
+        "founded": null,
+        "national": false,
+        "logo": "8633.png",
+        "venue_id": 10700
+    },
+    {
+        "id": 15134,
+        "name": "Karviná II",
+        "code": "KAR",
+        "country": "Czech-Republic",
+        "founded": null,
+        "national": false,
+        "logo": "15134.png",
+        "venue_id": 10850
+    },
+    {
+        "id": 7269,
+        "name": "Aritma Praha",
+        "code": "ARI",
+        "country": "Czech-Republic",
+        "founded": 1908,
+        "national": false,
+        "logo": "7269.png",
+        "venue_id": 22034
+    },
+    {
+        "id": 7285,
+        "name": "Doubravka",
+        "code": "DOU",
+        "country": "Czech-Republic",
+        "founded": 1921,
+        "national": false,
+        "logo": "7285.png",
+        "venue_id": 5284
+    },
+    {
+        "id": 7299,
+        "name": "Hořovicko",
+        "code": "HOR",
+        "country": "Czech-Republic",
+        "founded": null,
+        "national": false,
+        "logo": "7299.png",
+        "venue_id": 18761
+    },
+    {
+        "id": 7303,
+        "name": "Jindřichův Hradec",
+        "code": "JIN",
+        "country": "Czech-Republic",
+        "founded": null,
+        "national": false,
+        "logo": "7303.png",
+        "venue_id": 6154
+    },
+    {
+        "id": 7310,
+        "name": "Komárov",
+        "code": null,
+        "country": "Czech-Republic",
+        "founded": null,
+        "national": false,
+        "logo": "7310.png",
+        "venue_id": 18940
+    },
+    {
+        "id": 7312,
+        "name": "Králův Dvůr",
+        "code": "KRA",
+        "country": "Czech-Republic",
+        "founded": 1949,
+        "national": false,
+        "logo": "7312.png",
+        "venue_id": 5309
+    },
+    {
+        "id": 7339,
+        "name": "Rokycany",
+        "code": "ROK",
+        "country": "Czech-Republic",
+        "founded": 1903,
+        "national": false,
+        "logo": "7339.png",
+        "venue_id": 5333
+    },
+    {
+        "id": 7360,
+        "name": "Spartak Soběslav",
+        "code": null,
+        "country": "Czech-Republic",
+        "founded": null,
+        "national": false,
+        "logo": "7360.png",
+        "venue_id": 5349
+    },
+    {
+        "id": 8617,
+        "name": "Příbram II",
+        "code": null,
+        "country": "Czech-Republic",
+        "founded": null,
+        "national": false,
+        "logo": "8617.png",
+        "venue_id": 22035
+    },
+    {
+        "id": 19432,
+        "name": "Slavoj Český Krumlov",
+        "code": null,
+        "country": "Czech-Republic",
+        "founded": null,
+        "national": false,
+        "logo": "19432.png",
+        "venue_id": 18771
+    },
+    {
+        "id": 19639,
+        "name": "Jiskra Domažlice II",
+        "code": null,
+        "country": "Czech-Republic",
+        "founded": null,
+        "national": false,
+        "logo": "19639.png",
+        "venue_id": 5302
+    },
+    {
+        "id": 21982,
+        "name": "Hluboka nad Vltavou",
+        "code": null,
+        "country": "Czech-Republic",
+        "founded": null,
+        "national": false,
+        "logo": "21982.png",
+        "venue_id": 21815
+    },
+    {
+        "id": 24195,
+        "name": "Milin",
+        "code": null,
+        "country": "Czech-Republic",
+        "founded": null,
+        "national": false,
+        "logo": "24195.png",
+        "venue_id": 21820
+    },
+    {
+        "id": 24196,
+        "name": "Slavia Vejprnice",
+        "code": null,
+        "country": "Czech-Republic",
+        "founded": null,
+        "national": false,
+        "logo": "24196.png",
+        "venue_id": 247515872806
+    },
+    {
+        "id": 24197,
+        "name": "TJ Přeštice",
+        "code": null,
+        "country": "Czech-Republic",
+        "founded": 1921,
+        "national": false,
+        "logo": "24197.png",
+        "venue_id": 5331
+    },
+    {
+        "id": 24224,
+        "name": "Petřín Plzeň II",
+        "code": null,
+        "country": "Czech-Republic",
+        "founded": null,
+        "national": false,
+        "logo": "24224.png",
+        "venue_id": 18766
+    },
+    {
+        "id": 3721,
+        "name": "Baník Sokolov",
+        "code": "SOK",
+        "country": "Czech-Republic",
+        "founded": 1948,
+        "national": false,
+        "logo": "3721.png",
+        "venue_id": 2503
+    },
+    {
+        "id": 7306,
+        "name": "Karlovy Vary",
+        "code": "KAR",
+        "country": "Czech-Republic",
+        "founded": 1928,
+        "national": false,
+        "logo": "7306.png",
+        "venue_id": 18640
+    },
+    {
+        "id": 7317,
+        "name": "Mariánské Lázně",
+        "code": null,
+        "country": "Czech-Republic",
+        "founded": 1945,
+        "national": false,
+        "logo": "7317.png",
+        "venue_id": 5313
+    },
+    {
+        "id": 7318,
+        "name": "Meteor Praha",
+        "code": "MET",
+        "country": "Czech-Republic",
+        "founded": null,
+        "national": false,
+        "logo": "7318.png",
+        "venue_id": 5314
+    },
+    {
+        "id": 7320,
+        "name": "Neratovice-Byškovice",
+        "code": null,
+        "country": "Czech-Republic",
+        "founded": 2006,
+        "national": false,
+        "logo": "7320.png",
+        "venue_id": 5316
+    },
+    {
+        "id": 7327,
+        "name": "Olympie Březová",
+        "code": null,
+        "country": "Czech-Republic",
+        "founded": null,
+        "national": false,
+        "logo": "7327.png",
+        "venue_id": 5321
+    },
+    {
+        "id": 7328,
+        "name": "Ostrov",
+        "code": null,
+        "country": "Czech-Republic",
+        "founded": null,
+        "national": false,
+        "logo": "7328.png",
+        "venue_id": 5322
+    },
+    {
+        "id": 7335,
+        "name": "Přední Kopanina",
+        "code": null,
+        "country": "Czech-Republic",
+        "founded": null,
+        "national": false,
+        "logo": "7335.png",
+        "venue_id": 5329
+    },
+    {
+        "id": 7342,
+        "name": "Slaný",
+        "code": null,
+        "country": "Czech-Republic",
+        "founded": null,
+        "national": false,
+        "logo": "7342.png",
+        "venue_id": 5335
+    },
+    {
+        "id": 7382,
+        "name": "Český Brod",
+        "code": "CES",
+        "country": "Czech-Republic",
+        "founded": 1898,
+        "national": false,
+        "logo": "7382.png",
+        "venue_id": 5370
+    },
+    {
+        "id": 7386,
+        "name": "Štětí",
+        "code": "STE",
+        "country": "Czech-Republic",
+        "founded": null,
+        "national": false,
+        "logo": "7386.png",
+        "venue_id": 5374
+    },
+    {
+        "id": 19425,
+        "name": "Hřebeč",
+        "code": null,
+        "country": "Czech-Republic",
+        "founded": null,
+        "national": false,
+        "logo": "19425.png",
+        "venue_id": 18768
+    },
+    {
+        "id": 19439,
+        "name": "Újezd Praha 4",
+        "code": null,
+        "country": "Czech-Republic",
+        "founded": null,
+        "national": false,
+        "logo": "19439.png",
+        "venue_id": 18945
+    },
+    {
+        "id": 19640,
+        "name": "Admira Praha II",
+        "code": null,
+        "country": "Czech-Republic",
+        "founded": null,
+        "national": false,
+        "logo": "19640.png",
+        "venue_id": 5268
+    },
+    {
+        "id": 21985,
+        "name": "Tempo Praha",
+        "code": null,
+        "country": "Czech-Republic",
+        "founded": 1928,
+        "national": false,
+        "logo": "21985.png",
+        "venue_id": 21816
+    },
+    {
+        "id": 24194,
+        "name": "Ústí nad Labem II",
+        "code": null,
+        "country": "Czech-Republic",
+        "founded": null,
+        "national": false,
+        "logo": "24194.png",
+        "venue_id": 14247731232
+    },
+    {
+        "id": 7273,
+        "name": "Benešov",
+        "code": "BEN",
+        "country": "Czech-Republic",
+        "founded": null,
+        "national": false,
+        "logo": "7273.png",
+        "venue_id": 5272
+    },
+    {
+        "id": 7278,
+        "name": "Brandýs nad Labem",
+        "code": null,
+        "country": "Czech-Republic",
+        "founded": 1901,
+        "national": false,
+        "logo": "7278.png",
+        "venue_id": 5277
+    },
+    {
+        "id": 7295,
+        "name": "Hlinsko",
+        "code": null,
+        "country": "Czech-Republic",
+        "founded": null,
+        "national": false,
+        "logo": "7295.png",
+        "venue_id": 5294
+    },
+    {
+        "id": 7336,
+        "name": "Přepeře",
+        "code": null,
+        "country": "Czech-Republic",
+        "founded": null,
+        "national": false,
+        "logo": "7336.png",
+        "venue_id": 5330
+    },
+    {
+        "id": 7367,
+        "name": "Trutnov",
+        "code": "TRU",
+        "country": "Czech-Republic",
+        "founded": 1921,
+        "national": false,
+        "logo": "7367.png",
+        "venue_id": 5356
+    },
+    {
+        "id": 7372,
+        "name": "Velké Hamry",
+        "code": null,
+        "country": "Czech-Republic",
+        "founded": null,
+        "national": false,
+        "logo": "7372.png",
+        "venue_id": 5360
+    },
+    {
+        "id": 7378,
+        "name": "Vysoké Mýto",
+        "code": "VYS",
+        "country": "Czech-Republic",
+        "founded": 1902,
+        "national": false,
+        "logo": "7378.png",
+        "venue_id": 5366
+    },
+    {
+        "id": 14004,
+        "name": "Kosmonosy",
+        "code": null,
+        "country": "Czech-Republic",
+        "founded": null,
+        "national": false,
+        "logo": "14004.png",
+        "venue_id": 10552
+    },
+    {
+        "id": 14657,
+        "name": "Dobrovice",
+        "code": "DOB",
+        "country": "Czech-Republic",
+        "founded": 1911,
+        "national": false,
+        "logo": "14657.png",
+        "venue_id": 10704
+    },
+    {
+        "id": 19422,
+        "name": "Cidlina Novy Bydzov",
+        "code": null,
+        "country": "Czech-Republic",
+        "founded": null,
+        "national": false,
+        "logo": "19422.png",
+        "venue_id": 18767
+    },
+    {
+        "id": 19437,
+        "name": "Turnov",
+        "code": null,
+        "country": "Czech-Republic",
+        "founded": null,
+        "national": false,
+        "logo": "19437.png",
+        "venue_id": 18773
+    },
+    {
+        "id": 19641,
+        "name": "Chrudim II",
+        "code": null,
+        "country": "Czech-Republic",
+        "founded": null,
+        "national": false,
+        "logo": "19641.png",
+        "venue_id": 2504
+    },
+    {
+        "id": 21648,
+        "name": "Slavia Hradec Králové",
+        "code": null,
+        "country": "Czech-Republic",
+        "founded": null,
+        "national": false,
+        "logo": "21648.png",
+        "venue_id": 20020
+    },
+    {
+        "id": 24191,
+        "name": "Horní Ředice",
+        "code": null,
+        "country": "Czech-Republic",
+        "founded": null,
+        "national": false,
+        "logo": "24191.svg",
+        "venue_id": 21818
+    },
+    {
+        "id": 24192,
+        "name": "Slovan Hrádek nad Nisou",
+        "code": null,
+        "country": "Czech-Republic",
+        "founded": null,
+        "national": false,
+        "logo": "24192.png",
+        "venue_id": 22063
+    },
+    {
+        "id": 24193,
+        "name": "Spartak Police n/Metují",
+        "code": null,
+        "country": "Czech-Republic",
+        "founded": null,
+        "national": false,
+        "logo": "24193.png",
+        "venue_id": 21819
+    },
+    {
+        "id": 7292,
+        "name": "Havlíčkův Brod",
+        "code": null,
+        "country": "Czech-Republic",
+        "founded": 1911,
+        "national": false,
+        "logo": "7292.png",
+        "venue_id": 5291
+    },
+    {
+        "id": 7301,
+        "name": "Humpolec",
+        "code": null,
+        "country": "Czech-Republic",
+        "founded": null,
+        "national": false,
+        "logo": "7301.png",
+        "venue_id": 5299
+    },
+    {
+        "id": 7345,
+        "name": "Slavoj Polná",
+        "code": "POL",
+        "country": "Czech-Republic",
+        "founded": 1927,
+        "national": false,
+        "logo": "7345.png",
+        "venue_id": 5338
+    },
+    {
+        "id": 7351,
+        "name": "Sokol Lanžhot",
+        "code": null,
+        "country": "Czech-Republic",
+        "founded": null,
+        "national": false,
+        "logo": "7351.png",
+        "venue_id": 5343
+    },
+    {
+        "id": 7355,
+        "name": "Sokol Tasovice",
+        "code": "TAS",
+        "country": "Czech-Republic",
+        "founded": null,
+        "national": false,
+        "logo": "7355.png",
+        "venue_id": 5345
+    },
+    {
+        "id": 7371,
+        "name": "Velká Bíteš",
+        "code": null,
+        "country": "Czech-Republic",
+        "founded": 1932,
+        "national": false,
+        "logo": "7371.png",
+        "venue_id": 5359
+    },
+    {
+        "id": 7373,
+        "name": "Velké Meziříčí",
+        "code": "VEL",
+        "country": "Czech-Republic",
+        "founded": null,
+        "national": false,
+        "logo": "7373.svg",
+        "venue_id": 5361
+    },
+    {
+        "id": 7376,
+        "name": "Vrchovina",
+        "code": "VRC",
+        "country": "Czech-Republic",
+        "founded": null,
+        "national": false,
+        "logo": "7376.png",
+        "venue_id": 5364
+    },
+    {
+        "id": 7388,
+        "name": "Ždírec nad Doubravou",
+        "code": null,
+        "country": "Czech-Republic",
+        "founded": null,
+        "national": false,
+        "logo": "7388.png",
+        "venue_id": 5376
+    },
+    {
+        "id": 7389,
+        "name": "Žďár nad Sázavou",
+        "code": "ZDA",
+        "country": "Czech-Republic",
+        "founded": 1995,
+        "national": false,
+        "logo": "7389.png",
+        "venue_id": 5377
+    },
+    {
+        "id": 8631,
+        "name": "Břeclav",
+        "code": "BRE",
+        "country": "Czech-Republic",
+        "founded": 1920,
+        "national": false,
+        "logo": "8631.png",
+        "venue_id": 6166
+    },
+    {
+        "id": 19424,
+        "name": "Dálnice Speřice",
+        "code": null,
+        "country": "Czech-Republic",
+        "founded": null,
+        "national": false,
+        "logo": "19424.png",
+        "venue_id": 18944
+    },
+    {
+        "id": 19436,
+        "name": "Tatran Bohunice",
+        "code": null,
+        "country": "Czech-Republic",
+        "founded": null,
+        "national": false,
+        "logo": "19436.png",
+        "venue_id": 18772
+    },
+    {
+        "id": 19689,
+        "name": "Kuřim",
+        "code": null,
+        "country": "Czech-Republic",
+        "founded": null,
+        "national": false,
+        "logo": "19689.png",
+        "venue_id": 22029
+    },
+    {
+        "id": 21650,
+        "name": "Líšeň II",
+        "code": null,
+        "country": "Czech-Republic",
+        "founded": null,
+        "national": false,
+        "logo": "21650.png",
+        "venue_id": 3252
+    },
+    {
+        "id": 24190,
+        "name": "FS Třebíč",
+        "code": null,
+        "country": "Czech-Republic",
+        "founded": null,
+        "national": false,
+        "logo": "24190.png",
+        "venue_id": 21817
+    },
+    {
+        "id": 7280,
+        "name": "Bzenec",
+        "code": null,
+        "country": "Czech-Republic",
+        "founded": 1928,
+        "national": false,
+        "logo": "7280.png",
+        "venue_id": 5279
+    },
+    {
+        "id": 7290,
+        "name": "HFK Olomouc",
+        "code": "OLO",
+        "country": "Czech-Republic",
+        "founded": 1932,
+        "national": false,
+        "logo": "7290.png",
+        "venue_id": 5289
+    },
+    {
+        "id": 7300,
+        "name": "Hranice",
+        "code": "HRA",
+        "country": "Czech-Republic",
+        "founded": null,
+        "national": false,
+        "logo": "7300.png",
+        "venue_id": 5298
+    },
+    {
+        "id": 7311,
+        "name": "Kozlovice",
+        "code": null,
+        "country": "Czech-Republic",
+        "founded": 1924,
+        "national": false,
+        "logo": "7311.png",
+        "venue_id": 5308
+    },
+    {
+        "id": 7322,
+        "name": "Nové Sady",
+        "code": null,
+        "country": "Czech-Republic",
+        "founded": 1922,
+        "national": false,
+        "logo": "7322.png",
+        "venue_id": 5317
+    },
+    {
+        "id": 7341,
+        "name": "Skaštice",
+        "code": null,
+        "country": "Czech-Republic",
+        "founded": null,
+        "national": false,
+        "logo": "7341.png",
+        "venue_id": 5334
+    },
+    {
+        "id": 7343,
+        "name": "Slavičín",
+        "code": "SLA",
+        "country": "Czech-Republic",
+        "founded": null,
+        "national": false,
+        "logo": "7343.png",
+        "venue_id": 5336
+    },
+    {
+        "id": 7366,
+        "name": "Tatran Všechovice",
+        "code": null,
+        "country": "Czech-Republic",
+        "founded": 1951,
+        "national": false,
+        "logo": "7366.png",
+        "venue_id": 5355
+    },
+    {
+        "id": 7370,
+        "name": "Valašské Meziříčí",
+        "code": "VAL",
+        "country": "Czech-Republic",
+        "founded": null,
+        "national": false,
+        "logo": "7370.png",
+        "venue_id": 5358
+    },
+    {
+        "id": 7377,
+        "name": "Vsetín",
+        "code": null,
+        "country": "Czech-Republic",
+        "founded": 1905,
+        "national": false,
+        "logo": "7377.png",
+        "venue_id": 5365
+    },
+    {
+        "id": 7387,
+        "name": "Šumperk",
+        "code": "SUM",
+        "country": "Czech-Republic",
+        "founded": null,
+        "national": false,
+        "logo": "7387.png",
+        "venue_id": 5375
+    },
+    {
+        "id": 16876,
+        "name": "Holešov",
+        "code": null,
+        "country": "Czech-Republic",
+        "founded": null,
+        "national": false,
+        "logo": "16876.png",
+        "venue_id": 11637
+    },
+    {
+        "id": 19420,
+        "name": "Baťov",
+        "code": null,
+        "country": "Czech-Republic",
+        "founded": 1930,
+        "national": false,
+        "logo": "19420.png",
+        "venue_id": 18942
+    },
+    {
+        "id": 19440,
+        "name": "Šternberk",
+        "code": null,
+        "country": "Czech-Republic",
+        "founded": null,
+        "national": false,
+        "logo": "19440.png",
+        "venue_id": 18946
+    },
+    {
+        "id": 21618,
+        "name": "Kostelec na Hané",
+        "code": null,
+        "country": "Czech-Republic",
+        "founded": null,
+        "national": false,
+        "logo": "21618.png",
+        "venue_id": 20018
+    },
+    {
+        "id": 24189,
+        "name": "Kvasice",
+        "code": null,
+        "country": "Czech-Republic",
+        "founded": 1931,
+        "national": false,
+        "logo": "24189.svg",
+        "venue_id": 5363
+    },
+    {
+        "id": 3732,
+        "name": "Vítkovice",
+        "code": null,
+        "country": "Czech-Republic",
+        "founded": 1922,
+        "national": false,
+        "logo": "3732.png",
+        "venue_id": 19837
+    },
+    {
+        "id": 7275,
+        "name": "Beskyd Frenštát",
+        "code": null,
+        "country": "Czech-Republic",
+        "founded": null,
+        "national": false,
+        "logo": "7275.png",
+        "venue_id": 5274
+    },
+    {
+        "id": 7277,
+        "name": "Bospor Bohumín",
+        "code": null,
+        "country": "Czech-Republic",
+        "founded": null,
+        "national": false,
+        "logo": "7277.png",
+        "venue_id": 5276
+    },
+    {
+        "id": 7289,
+        "name": "Frýdlant",
+        "code": null,
+        "country": "Czech-Republic",
+        "founded": null,
+        "national": false,
+        "logo": "7289.png",
+        "venue_id": 5288
+    },
+    {
+        "id": 7293,
+        "name": "Havířov",
+        "code": "HAV",
+        "country": "Czech-Republic",
+        "founded": null,
+        "national": false,
+        "logo": "7293.png",
+        "venue_id": 5292
+    },
+    {
+        "id": 7305,
+        "name": "Jiskra Rýmařov",
+        "code": null,
+        "country": "Czech-Republic",
+        "founded": null,
+        "national": false,
+        "logo": "7305.png",
+        "venue_id": 5303
+    },
+    {
+        "id": 7323,
+        "name": "Nový Jičín",
+        "code": "NOV",
+        "country": "Czech-Republic",
+        "founded": null,
+        "national": false,
+        "logo": "7323.png",
+        "venue_id": 5318
+    },
+    {
+        "id": 7332,
+        "name": "Polanka nad Odrou",
+        "code": null,
+        "country": "Czech-Republic",
+        "founded": null,
+        "national": false,
+        "logo": "7332.png",
+        "venue_id": 5326
+    },
+    {
+        "id": 15135,
+        "name": "Opava II",
+        "code": "OPA",
+        "country": "Czech-Republic",
+        "founded": null,
+        "national": false,
+        "logo": "15135.png",
+        "venue_id": 10851
+    },
+    {
+        "id": 16875,
+        "name": "Bílovec",
+        "code": null,
+        "country": "Czech-Republic",
+        "founded": null,
+        "national": false,
+        "logo": "16875.png",
+        "venue_id": 18764
+    },
+    {
+        "id": 16877,
+        "name": "Vratimov",
+        "code": null,
+        "country": "Czech-Republic",
+        "founded": null,
+        "national": false,
+        "logo": "16877.png",
+        "venue_id": 12500
+    },
+    {
+        "id": 19421,
+        "name": "Břidličná",
+        "code": null,
+        "country": "Czech-Republic",
+        "founded": null,
+        "national": false,
+        "logo": "19421.png",
+        "venue_id": 18943
+    },
+    {
+        "id": 19428,
+        "name": "Krnov",
+        "code": null,
+        "country": "Czech-Republic",
+        "founded": null,
+        "national": false,
+        "logo": "19428.png",
+        "venue_id": 20849
+    },
+    {
+        "id": 21619,
+        "name": "Petřvald na Moravě",
+        "code": null,
+        "country": "Czech-Republic",
+        "founded": null,
+        "national": false,
+        "logo": "21619.png",
+        "venue_id": 21814
+    },
+    {
+        "id": 21652,
+        "name": "Řepiště",
+        "code": null,
+        "country": "Czech-Republic",
+        "founded": null,
+        "national": false,
+        "logo": "21652.png",
+        "venue_id": 19839
+    },
+    {
+        "id": 24188,
+        "name": "Pustá Polom",
+        "code": null,
+        "country": "Czech-Republic",
+        "founded": null,
+        "national": false,
+        "logo": "24188.png",
+        "venue_id": 22032
+    },
+    {
+        "id": 560,
+        "name": "Slavia Praha",
+        "code": "SLA",
+        "country": "Czech-Republic",
+        "founded": 1892,
+        "national": false,
+        "logo": "560.png",
+        "venue_id": 18856
+    },
+    {
+        "id": 567,
+        "name": "Plzen",
+        "code": "PLZ",
+        "country": "Czech-Republic",
+        "founded": 1911,
+        "national": false,
+        "logo": "567.png",
+        "venue_id": 438
+    },
+    {
+        "id": 603,
+        "name": "Zlin",
+        "code": "ZLI",
+        "country": "Czech-Republic",
+        "founded": 1919,
+        "national": false,
+        "logo": "603.png",
+        "venue_id": 2492
+    },
+    {
+        "id": 628,
+        "name": "Sparta Praha",
+        "code": "SPA",
+        "country": "Czech-Republic",
+        "founded": 1893,
+        "national": false,
+        "logo": "628.png",
+        "venue_id": 19513
+    },
+    {
+        "id": 640,
+        "name": "Mlada Boleslav",
+        "code": "MLA",
+        "country": "Czech-Republic",
+        "founded": 1902,
+        "national": false,
+        "logo": "640.png",
+        "venue_id": 2494
+    },
+    {
+        "id": 782,
+        "name": "Slovan Liberec",
+        "code": "LIB",
+        "country": "Czech-Republic",
+        "founded": 1921,
+        "national": false,
+        "logo": "782.png",
+        "venue_id": 2493
+    },
+    {
+        "id": 1122,
+        "name": "FK Jablonec",
+        "code": "JAB",
+        "country": "Czech-Republic",
+        "founded": 1945,
+        "national": false,
+        "logo": "1122.png",
+        "venue_id": 434
+    },
+    {
+        "id": 2250,
+        "name": "Sigma Olomouc",
+        "code": "SIG",
+        "country": "Czech-Republic",
+        "founded": 1919,
+        "national": false,
+        "logo": "2250.png",
+        "venue_id": 435
+    },
+    {
+        "id": 3713,
+        "name": "Baník Ostrava",
+        "code": "OST",
+        "country": "Czech-Republic",
+        "founded": 1922,
+        "national": false,
+        "logo": "3713.png",
+        "venue_id": 2495
+    },
+    {
+        "id": 3714,
+        "name": "Bohemians 1905",
+        "code": "BOH",
+        "country": "Czech-Republic",
+        "founded": 1905,
+        "national": false,
+        "logo": "3714.png",
+        "venue_id": 2496
+    },
+    {
+        "id": 3715,
+        "name": "Dukla Praha",
+        "code": "DUK",
+        "country": "Czech-Republic",
+        "founded": 1948,
+        "national": false,
+        "logo": "3715.png",
+        "venue_id": 2497
+    },
+    {
+        "id": 3716,
+        "name": "Karviná",
+        "code": "KAR",
+        "country": "Czech-Republic",
+        "founded": 2003,
+        "national": false,
+        "logo": "3716.png",
+        "venue_id": 2498
+    },
+    {
+        "id": 3717,
+        "name": "Opava",
+        "code": "OPA",
+        "country": "Czech-Republic",
+        "founded": 1907,
+        "national": false,
+        "logo": "3717.png",
+        "venue_id": 2499
+    },
+    {
+        "id": 3719,
+        "name": "Slovácko",
+        "code": "SLO",
+        "country": "Czech-Republic",
+        "founded": 1927,
+        "national": false,
+        "logo": "3719.png",
+        "venue_id": 2501
+    },
+    {
+        "id": 3720,
+        "name": "Teplice",
+        "code": "TEP",
+        "country": "Czech-Republic",
+        "founded": 1945,
+        "national": false,
+        "logo": "3720.png",
+        "venue_id": 10575
+    },
+    {
+        "id": 3722,
+        "name": "Chrudim",
+        "code": "CHR",
+        "country": "Czech-Republic",
+        "founded": 1899,
+        "national": false,
+        "logo": "3722.png",
+        "venue_id": 2504
+    },
+    {
+        "id": 3723,
+        "name": "Hradec Králové",
+        "code": "HRA",
+        "country": "Czech-Republic",
+        "founded": 1905,
+        "national": false,
+        "logo": "3723.png",
+        "venue_id": 20749
+    },
+    {
+        "id": 3724,
+        "name": "Pardubice",
+        "code": null,
+        "country": "Czech-Republic",
+        "founded": null,
+        "national": false,
+        "logo": "3724.png",
+        "venue_id": 20750
+    },
+    {
+        "id": 3725,
+        "name": "Prostějov",
+        "code": "HAN",
+        "country": "Czech-Republic",
+        "founded": 1904,
+        "national": false,
+        "logo": "3725.png",
+        "venue_id": 5289
+    },
+    {
+        "id": 3726,
+        "name": "Táborsko",
+        "code": "MAS",
+        "country": "Czech-Republic",
+        "founded": 1926,
+        "national": false,
+        "logo": "3726.png",
+        "venue_id": 2508
+    },
+    {
+        "id": 3728,
+        "name": "Varnsdorf",
+        "code": "VAR",
+        "country": "Czech-Republic",
+        "founded": 1938,
+        "national": false,
+        "logo": "3728.png",
+        "venue_id": 2510
+    },
+    {
+        "id": 3729,
+        "name": "Viktoria Žižkov",
+        "code": "ZIZ",
+        "country": "Czech-Republic",
+        "founded": 1903,
+        "national": false,
+        "logo": "3729.png",
+        "venue_id": 2511
+    },
+    {
+        "id": 3730,
+        "name": "Vlašim",
+        "code": "VLA",
+        "country": "Czech-Republic",
+        "founded": 1969,
+        "national": false,
+        "logo": "3730.png",
+        "venue_id": 2512
+    },
+    {
+        "id": 3731,
+        "name": "Vysočina Jihlava",
+        "code": "JIH",
+        "country": "Czech-Republic",
+        "founded": 1948,
+        "national": false,
+        "logo": "3731.png",
+        "venue_id": 2513
+    },
+    {
+        "id": 3733,
+        "name": "Zbrojovka Brno",
+        "code": "BRN",
+        "country": "Czech-Republic",
+        "founded": 1913,
+        "national": false,
+        "logo": "3733.png",
+        "venue_id": 2514
+    },
+    {
+        "id": 3736,
+        "name": "České Budějovice",
+        "code": "CES",
+        "country": "Czech-Republic",
+        "founded": 1905,
+        "national": false,
+        "logo": "3736.png",
+        "venue_id": 2517
+    },
+    {
+        "id": 4257,
+        "name": "Artis",
+        "code": "LIS",
+        "country": "Czech-Republic",
+        "founded": null,
+        "national": false,
+        "logo": "4257.png",
+        "venue_id": 3252
+    },
+    {
+        "id": 7379,
+        "name": "Vyškov",
+        "code": null,
+        "country": "Czech-Republic",
+        "founded": null,
+        "national": false,
+        "logo": "7379.png",
+        "venue_id": 11958
+    },
+    {
+        "id": 19431,
+        "name": "Rousínov",
+        "code": null,
+        "country": "Czech-Republic",
+        "founded": null,
+        "national": false,
+        "logo": "19431.png",
+        "venue_id": 260521190851
+    },
+    {
+        "id": 21483,
+        "name": "Kolovec",
+        "code": null,
+        "country": "Czech-Republic",
+        "founded": 0,
+        "national": false,
+        "logo": "21483.svg",
+        "venue_id": 198646122669
+    },
+    {
+        "id": 21620,
+        "name": "Sokol Čechovice",
+        "code": null,
+        "country": "Czech-Republic",
+        "founded": null,
+        "national": false,
+        "logo": "21620.png",
+        "venue_id": 882252355571
+    },
+    {
+        "id": 21983,
+        "name": "MILO Olomouc",
+        "code": null,
+        "country": "Czech-Republic",
+        "founded": null,
+        "national": false,
+        "logo": "21983.png",
+        "venue_id": 374201682976
+    },
+    {
+        "id": 24199,
+        "name": "Pěnčín",
+        "code": null,
+        "country": "Czech-Republic",
+        "founded": null,
+        "national": false,
+        "logo": "24199.png",
+        "venue_id": 21821
+    },
+    {
+        "id": 24200,
+        "name": "Rapid Psáry",
+        "code": null,
+        "country": "Czech-Republic",
+        "founded": null,
+        "national": false,
+        "logo": "24200.svg",
+        "venue_id": 22064
+    },
+    {
+        "id": 24201,
+        "name": "Slavoj Žatec",
+        "code": null,
+        "country": "Czech-Republic",
+        "founded": null,
+        "national": false,
+        "logo": "24201.png",
+        "venue_id": 970651314209
+    },
+    {
+        "id": 24202,
+        "name": "Sokol Železnice",
+        "code": null,
+        "country": "Czech-Republic",
+        "founded": null,
+        "national": false,
+        "logo": "24202.png",
+        "venue_id": 992358919637
+    },
+    {
+        "id": 24203,
+        "name": "Tichá",
+        "code": null,
+        "country": "Bulgaria",
+        "founded": null,
+        "national": false,
+        "logo": "24203.svg",
+        "venue_id": 286
+    },
+    {
+        "id": 24204,
+        "name": "Česká Třebová",
+        "code": null,
+        "country": "Czech-Republic",
+        "founded": null,
+        "national": false,
+        "logo": "24204.png",
+        "venue_id": 21822
+    },
+    {
+        "id": 8618,
+        "name": "Slavia Praha II",
+        "code": null,
+        "country": "Czech-Republic",
+        "founded": null,
+        "national": false,
+        "logo": "8618.png",
+        "venue_id": 6154
+    },
+    {
+        "id": 8619,
+        "name": "Sparta Praha II",
+        "code": "SPA",
+        "country": "Czech-Republic",
+        "founded": 1893,
+        "national": false,
+        "logo": "8619.png",
+        "venue_id": 2511
+    },
+    {
+        "id": 8621,
+        "name": "Baník Ostrava II",
+        "code": null,
+        "country": "Czech-Republic",
+        "founded": null,
+        "national": false,
+        "logo": "8621.png",
+        "venue_id": 18760
+    },
+    {
+        "id": 8622,
+        "name": "Sigma Olomouc II",
+        "code": null,
+        "country": "Czech-Republic",
+        "founded": null,
+        "national": false,
+        "logo": "8622.png",
+        "venue_id": 435
+    }
 ]

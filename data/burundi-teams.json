@@ -6,7 +6,7 @@
         "country": "Burundi",
         "founded": null,
         "national": false,
-        "logo": "https://media.api-sports.io/football/teams/4447.png",
+        "logo": "4447.png",
         "venue_id": 3379
     },
     {
@@ -16,7 +16,7 @@
         "country": "Burundi",
         "founded": null,
         "national": false,
-        "logo": "https://media.api-sports.io/football/teams/8070.png",
+        "logo": "8070.png",
         "venue_id": 307
     },
     {
@@ -26,7 +26,7 @@
         "country": "Burundi",
         "founded": null,
         "national": false,
-        "logo": "https://media.api-sports.io/football/teams/8092.png",
+        "logo": "8092.png",
         "venue_id": 5751
     },
     {
@@ -36,7 +36,7 @@
         "country": "Burundi",
         "founded": 2005,
         "national": false,
-        "logo": "https://media.api-sports.io/football/teams/8104.png",
+        "logo": "8104.png",
         "venue_id": 5756
     },
     {
@@ -46,7 +46,7 @@
         "country": "Burundi",
         "founded": null,
         "national": false,
-        "logo": "https://media.api-sports.io/football/teams/12177.png",
+        "logo": "12177.png",
         "venue_id": 10544
     },
     {
@@ -56,7 +56,7 @@
         "country": "Burundi",
         "founded": null,
         "national": false,
-        "logo": "https://media.api-sports.io/football/teams/12178.png",
+        "logo": "12178.png",
         "venue_id": 307
     },
     {
@@ -66,7 +66,7 @@
         "country": "Burundi",
         "founded": null,
         "national": false,
-        "logo": "https://media.api-sports.io/football/teams/12179.png",
+        "logo": "12179.png",
         "venue_id": 7766
     },
     {
@@ -76,7 +76,7 @@
         "country": "Burundi",
         "founded": null,
         "national": false,
-        "logo": "https://media.api-sports.io/football/teams/12180.png",
+        "logo": "12180.png",
         "venue_id": 307
     },
     {
@@ -86,7 +86,7 @@
         "country": "Burundi",
         "founded": null,
         "national": false,
-        "logo": "https://media.api-sports.io/football/teams/12181.png",
+        "logo": "12181.png",
         "venue_id": 5751
     },
     {
@@ -96,7 +96,7 @@
         "country": "Burundi",
         "founded": null,
         "national": false,
-        "logo": "https://media.api-sports.io/football/teams/12183.png",
+        "logo": "12183.png",
         "venue_id": 3379
     },
     {
@@ -106,7 +106,7 @@
         "country": "Burundi",
         "founded": null,
         "national": false,
-        "logo": "https://media.api-sports.io/football/teams/12184.png",
+        "logo": "12184.png",
         "venue_id": 7766
     },
     {
@@ -116,7 +116,7 @@
         "country": "Burundi",
         "founded": null,
         "national": false,
-        "logo": "https://media.api-sports.io/football/teams/12185.png",
+        "logo": "12185.png",
         "venue_id": 5756
     },
     {
@@ -126,7 +126,7 @@
         "country": "Burundi",
         "founded": null,
         "national": false,
-        "logo": "https://media.api-sports.io/football/teams/12186.png",
+        "logo": "12186.png",
         "venue_id": 307
     },
     {
@@ -136,7 +136,7 @@
         "country": "Burundi",
         "founded": null,
         "national": false,
-        "logo": "https://media.api-sports.io/football/teams/21991.png",
+        "logo": "21991.png",
         "venue_id": 19011215265
     },
     {
@@ -146,7 +146,7 @@
         "country": "Burundi",
         "founded": null,
         "national": false,
-        "logo": "https://media.api-sports.io/football/teams/24754.png",
+        "logo": "24754.svg",
         "venue_id": 170936117148
     },
     {
@@ -156,7 +156,7 @@
         "country": "Burundi",
         "founded": null,
         "national": false,
-        "logo": "https://media.api-sports.io/football/teams/24755.png",
+        "logo": "24755.png",
         "venue_id": 10544
     }
 ]

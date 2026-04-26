@@ -1,312 +1,312 @@
 [
-  {
-    "id": 815,
-    "name": "CS Herediano",
-    "code": "HER",
-    "country": "Costa-Rica",
-    "founded": 1921,
-    "national": false,
-    "logo": "https://media.api-sports.io/football/teams/815.png",
-    "venue_id": 402
-  },
-  {
-    "id": 816,
-    "name": "Deportivo Saprissa",
-    "code": "SAP",
-    "country": "Costa-Rica",
-    "founded": 1935,
-    "national": false,
-    "logo": "https://media.api-sports.io/football/teams/816.png",
-    "venue_id": 399
-  },
-  {
-    "id": 819,
-    "name": "Perez Zeledon",
-    "code": "ZEL",
-    "country": "Costa-Rica",
-    "founded": 1962,
-    "national": false,
-    "logo": "https://media.api-sports.io/football/teams/819.png",
-    "venue_id": 22254
-  },
-  {
-    "id": 820,
-    "name": "CS Cartagines",
-    "code": "CAR",
-    "country": "Costa-Rica",
-    "founded": 1906,
-    "national": false,
-    "logo": "https://media.api-sports.io/football/teams/820.png",
-    "venue_id": 398
-  },
-  {
-    "id": 821,
-    "name": "Guadalupe FC",
-    "code": "BEL",
-    "country": "Costa-Rica",
-    "founded": null,
-    "national": false,
-    "logo": "https://media.api-sports.io/football/teams/821.png",
-    "venue_id": 402
-  },
-  {
-    "id": 822,
-    "name": "LD Alajuelense",
-    "code": "ALA",
-    "country": "Costa-Rica",
-    "founded": 1919,
-    "national": false,
-    "logo": "https://media.api-sports.io/football/teams/822.png",
-    "venue_id": 393
-  },
-  {
-    "id": 823,
-    "name": "San Carlos",
-    "code": null,
-    "country": "Costa-Rica",
-    "founded": 1965,
-    "national": false,
-    "logo": "https://media.api-sports.io/football/teams/823.png",
-    "venue_id": 406
-  },
-  {
-    "id": 824,
-    "name": "Santos DE Guapiles",
-    "code": "SAN",
-    "country": "Costa-Rica",
-    "founded": 1961,
-    "national": false,
-    "logo": "https://media.api-sports.io/football/teams/824.png",
-    "venue_id": 407
-  },
-  {
-    "id": 826,
-    "name": "Municipal Liberia",
-    "code": null,
-    "country": "Costa-Rica",
-    "founded": 1977,
-    "national": false,
-    "logo": "https://media.api-sports.io/football/teams/826.png",
-    "venue_id": 1730
-  },
-  {
-    "id": 2043,
-    "name": "ADR Jicaral",
-    "code": null,
-    "country": "Costa-Rica",
-    "founded": null,
-    "national": false,
-    "logo": "https://media.api-sports.io/football/teams/2043.png",
-    "venue_id": 1799
-  },
-  {
-    "id": 2044,
-    "name": "AD Guanacasteca",
-    "code": null,
-    "country": "Costa-Rica",
-    "founded": 2005,
-    "national": false,
-    "logo": "https://media.api-sports.io/football/teams/2044.png",
-    "venue_id": 401
-  },
-  {
-    "id": 2045,
-    "name": "Puntarenas FC",
-    "code": "PUN",
-    "country": "Costa-Rica",
-    "founded": 2004,
-    "national": false,
-    "logo": "https://media.api-sports.io/football/teams/2045.png",
-    "venue_id": 405
-  },
-  {
-    "id": 2047,
-    "name": "Sporting San Jose",
-    "code": null,
-    "country": "Costa-Rica",
-    "founded": null,
-    "national": false,
-    "logo": "https://media.api-sports.io/football/teams/2047.png",
-    "venue_id": 1884
-  },
-  {
-    "id": 2055,
-    "name": "AD Cofutpa",
-    "code": null,
-    "country": "Costa-Rica",
-    "founded": 2012,
-    "national": false,
-    "logo": "https://media.api-sports.io/football/teams/2055.png",
-    "venue_id": 1851
-  },
-  {
-    "id": 2056,
-    "name": "Aserri FC",
-    "code": null,
-    "country": "Costa-Rica",
-    "founded": null,
-    "national": false,
-    "logo": "https://media.api-sports.io/football/teams/2056.png",
-    "venue_id": 136654790144
-  },
-  {
-    "id": 2057,
-    "name": "Santa Ana",
-    "code": null,
-    "country": "Costa-Rica",
-    "founded": null,
-    "national": false,
-    "logo": "https://media.api-sports.io/football/teams/2057.png",
-    "venue_id": 1916
-  },
-  {
-    "id": 4310,
-    "name": "Águila",
-    "code": "AGU",
-    "country": "Costa-Rica",
-    "founded": 1956,
-    "national": false,
-    "logo": "https://media.api-sports.io/football/teams/4310.png",
-    "venue_id": 3294
-  },
-  {
-    "id": 17377,
-    "name": "Escorpiones Belén",
-    "code": null,
-    "country": "Costa-Rica",
-    "founded": 2021,
-    "national": false,
-    "logo": "https://media.api-sports.io/football/teams/17377.png",
-    "venue_id": 22255
-  },
-  {
-    "id": 19737,
-    "name": "AD Sarchí",
-    "code": null,
-    "country": "Costa-Rica",
-    "founded": 2021,
-    "national": false,
-    "logo": "https://media.api-sports.io/football/teams/19737.png",
-    "venue_id": 707804688341
-  },
-  {
-    "id": 19738,
-    "name": "Quepos Cambute",
-    "code": null,
-    "country": "Costa-Rica",
-    "founded": 1996,
-    "national": false,
-    "logo": "https://media.api-sports.io/football/teams/19738.png",
-    "venue_id": 22256
-  },
-  {
-    "id": 20804,
-    "name": "Limón Black Star",
-    "code": null,
-    "country": "Costa-Rica",
-    "founded": 2022,
-    "national": false,
-    "logo": "https://media.api-sports.io/football/teams/20804.png",
-    "venue_id": 927463985998
-  },
-  {
-    "id": 24391,
-    "name": "Inter San Carlos",
-    "code": null,
-    "country": "Costa-Rica",
-    "founded": null,
-    "national": false,
-    "logo": "https://media.api-sports.io/football/teams/24391.png",
-    "venue_id": 22257
-  },
-  {
-    "id": 814,
-    "name": "AD Carmelita",
-    "code": "CAR",
-    "country": "Costa-Rica",
-    "founded": 1948,
-    "national": false,
-    "logo": "https://media.api-sports.io/football/teams/814.png",
-    "venue_id": 396
-  },
-  {
-    "id": 818,
-    "name": "Municipal Grecia",
-    "code": null,
-    "country": "Costa-Rica",
-    "founded": 1945,
-    "national": false,
-    "logo": "https://media.api-sports.io/football/teams/818.png",
-    "venue_id": 2675
-  },
-  {
-    "id": 2052,
-    "name": "Cariari Pococi",
-    "code": null,
-    "country": "Costa-Rica",
-    "founded": null,
-    "national": false,
-    "logo": "https://media.api-sports.io/football/teams/2052.png",
-    "venue_id": 21311
-  },
-  {
-    "id": 2054,
-    "name": "Futbol Consultants Moravia",
-    "code": null,
-    "country": "Costa-Rica",
-    "founded": 2010,
-    "national": false,
-    "logo": "https://media.api-sports.io/football/teams/2054.png",
-    "venue_id": 409
-  },
-  {
-    "id": 2058,
-    "name": "CS Uruguay",
-    "code": "CSU",
-    "country": "Costa-Rica",
-    "founded": 1936,
-    "national": false,
-    "logo": "https://media.api-sports.io/football/teams/2058.png",
-    "venue_id": 410
-  },
-  {
-    "id": 2059,
-    "name": "Turrialba Fc",
-    "code": null,
-    "country": "Costa-Rica",
-    "founded": 1940,
-    "national": false,
-    "logo": "https://media.api-sports.io/football/teams/2059.png",
-    "venue_id": 408
-  },
-  {
-    "id": 22015,
-    "name": "Antioquia",
-    "code": null,
-    "country": "Costa-Rica",
-    "founded": 2020,
-    "national": false,
-    "logo": "https://media.api-sports.io/football/teams/22015.png",
-    "venue_id": 401
-  },
-  {
-    "id": 24390,
-    "name": "Deportivo Upala",
-    "code": null,
-    "country": "Costa-Rica",
-    "founded": null,
-    "national": false,
-    "logo": "https://media.api-sports.io/football/teams/24390.png",
-    "venue_id": 668464229676
-  },
-  {
-    "id": 25120,
-    "name": "San Carlos FC",
-    "code": null,
-    "country": "Costa-Rica",
-    "founded": 2024,
-    "national": false,
-    "logo": "https://media.api-sports.io/football/teams/25120.png",
-    "venue_id": 57413532992
-  }
+    {
+        "id": 815,
+        "name": "CS Herediano",
+        "code": "HER",
+        "country": "Costa-Rica",
+        "founded": 1921,
+        "national": false,
+        "logo": "815.png",
+        "venue_id": 402
+    },
+    {
+        "id": 816,
+        "name": "Deportivo Saprissa",
+        "code": "SAP",
+        "country": "Costa-Rica",
+        "founded": 1935,
+        "national": false,
+        "logo": "816.png",
+        "venue_id": 399
+    },
+    {
+        "id": 819,
+        "name": "Perez Zeledon",
+        "code": "ZEL",
+        "country": "Costa-Rica",
+        "founded": 1962,
+        "national": false,
+        "logo": "819.png",
+        "venue_id": 22254
+    },
+    {
+        "id": 820,
+        "name": "CS Cartagines",
+        "code": "CAR",
+        "country": "Costa-Rica",
+        "founded": 1906,
+        "national": false,
+        "logo": "820.png",
+        "venue_id": 398
+    },
+    {
+        "id": 821,
+        "name": "Guadalupe FC",
+        "code": "BEL",
+        "country": "Costa-Rica",
+        "founded": null,
+        "national": false,
+        "logo": "821.png",
+        "venue_id": 402
+    },
+    {
+        "id": 822,
+        "name": "LD Alajuelense",
+        "code": "ALA",
+        "country": "Costa-Rica",
+        "founded": 1919,
+        "national": false,
+        "logo": "822.png",
+        "venue_id": 393
+    },
+    {
+        "id": 823,
+        "name": "San Carlos",
+        "code": null,
+        "country": "Costa-Rica",
+        "founded": 1965,
+        "national": false,
+        "logo": "823.png",
+        "venue_id": 406
+    },
+    {
+        "id": 824,
+        "name": "Santos DE Guapiles",
+        "code": "SAN",
+        "country": "Costa-Rica",
+        "founded": 1961,
+        "national": false,
+        "logo": "824.png",
+        "venue_id": 407
+    },
+    {
+        "id": 826,
+        "name": "Municipal Liberia",
+        "code": null,
+        "country": "Costa-Rica",
+        "founded": 1977,
+        "national": false,
+        "logo": "826.png",
+        "venue_id": 1730
+    },
+    {
+        "id": 2043,
+        "name": "ADR Jicaral",
+        "code": null,
+        "country": "Costa-Rica",
+        "founded": null,
+        "national": false,
+        "logo": "2043.png",
+        "venue_id": 1799
+    },
+    {
+        "id": 2044,
+        "name": "AD Guanacasteca",
+        "code": null,
+        "country": "Costa-Rica",
+        "founded": 2005,
+        "national": false,
+        "logo": "2044.png",
+        "venue_id": 401
+    },
+    {
+        "id": 2045,
+        "name": "Puntarenas FC",
+        "code": "PUN",
+        "country": "Costa-Rica",
+        "founded": 2004,
+        "national": false,
+        "logo": "2045.png",
+        "venue_id": 405
+    },
+    {
+        "id": 2047,
+        "name": "Sporting San Jose",
+        "code": null,
+        "country": "Costa-Rica",
+        "founded": null,
+        "national": false,
+        "logo": "2047.png",
+        "venue_id": 1884
+    },
+    {
+        "id": 2055,
+        "name": "AD Cofutpa",
+        "code": null,
+        "country": "Costa-Rica",
+        "founded": 2012,
+        "national": false,
+        "logo": "2055.png",
+        "venue_id": 1851
+    },
+    {
+        "id": 2056,
+        "name": "Aserri FC",
+        "code": null,
+        "country": "Costa-Rica",
+        "founded": null,
+        "national": false,
+        "logo": "2056.png",
+        "venue_id": 136654790144
+    },
+    {
+        "id": 2057,
+        "name": "Santa Ana",
+        "code": null,
+        "country": "Costa-Rica",
+        "founded": null,
+        "national": false,
+        "logo": "2057.png",
+        "venue_id": 1916
+    },
+    {
+        "id": 4310,
+        "name": "Águila",
+        "code": "AGU",
+        "country": "Costa-Rica",
+        "founded": 1956,
+        "national": false,
+        "logo": "4310.png",
+        "venue_id": 3294
+    },
+    {
+        "id": 17377,
+        "name": "Escorpiones Belén",
+        "code": null,
+        "country": "Costa-Rica",
+        "founded": 2021,
+        "national": false,
+        "logo": "17377.png",
+        "venue_id": 22255
+    },
+    {
+        "id": 19737,
+        "name": "AD Sarchí",
+        "code": null,
+        "country": "Costa-Rica",
+        "founded": 2021,
+        "national": false,
+        "logo": "19737.png",
+        "venue_id": 707804688341
+    },
+    {
+        "id": 19738,
+        "name": "Quepos Cambute",
+        "code": null,
+        "country": "Costa-Rica",
+        "founded": 1996,
+        "national": false,
+        "logo": "19738.png",
+        "venue_id": 22256
+    },
+    {
+        "id": 20804,
+        "name": "Limón Black Star",
+        "code": null,
+        "country": "Costa-Rica",
+        "founded": 2022,
+        "national": false,
+        "logo": "20804.png",
+        "venue_id": 927463985998
+    },
+    {
+        "id": 24391,
+        "name": "Inter San Carlos",
+        "code": null,
+        "country": "Costa-Rica",
+        "founded": null,
+        "national": false,
+        "logo": "24391.png",
+        "venue_id": 22257
+    },
+    {
+        "id": 814,
+        "name": "AD Carmelita",
+        "code": "CAR",
+        "country": "Costa-Rica",
+        "founded": 1948,
+        "national": false,
+        "logo": "814.png",
+        "venue_id": 396
+    },
+    {
+        "id": 818,
+        "name": "Municipal Grecia",
+        "code": null,
+        "country": "Costa-Rica",
+        "founded": 1945,
+        "national": false,
+        "logo": "818.png",
+        "venue_id": 2675
+    },
+    {
+        "id": 2052,
+        "name": "Cariari Pococi",
+        "code": null,
+        "country": "Costa-Rica",
+        "founded": null,
+        "national": false,
+        "logo": "2052.png",
+        "venue_id": 21311
+    },
+    {
+        "id": 2054,
+        "name": "Futbol Consultants Moravia",
+        "code": null,
+        "country": "Costa-Rica",
+        "founded": 2010,
+        "national": false,
+        "logo": "2054.png",
+        "venue_id": 409
+    },
+    {
+        "id": 2058,
+        "name": "CS Uruguay",
+        "code": "CSU",
+        "country": "Costa-Rica",
+        "founded": 1936,
+        "national": false,
+        "logo": "2058.png",
+        "venue_id": 410
+    },
+    {
+        "id": 2059,
+        "name": "Turrialba Fc",
+        "code": null,
+        "country": "Costa-Rica",
+        "founded": 1940,
+        "national": false,
+        "logo": "2059.png",
+        "venue_id": 408
+    },
+    {
+        "id": 22015,
+        "name": "Antioquia",
+        "code": null,
+        "country": "Costa-Rica",
+        "founded": 2020,
+        "national": false,
+        "logo": "22015.png",
+        "venue_id": 401
+    },
+    {
+        "id": 24390,
+        "name": "Deportivo Upala",
+        "code": null,
+        "country": "Costa-Rica",
+        "founded": null,
+        "national": false,
+        "logo": "24390.svg",
+        "venue_id": 668464229676
+    },
+    {
+        "id": 25120,
+        "name": "San Carlos FC",
+        "code": null,
+        "country": "Costa-Rica",
+        "founded": 2024,
+        "national": false,
+        "logo": "25120.png",
+        "venue_id": 57413532992
+    }
 ]

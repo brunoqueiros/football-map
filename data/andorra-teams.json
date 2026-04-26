@@ -6,7 +6,7 @@
         "country": "Andorra",
         "founded": 1986,
         "national": false,
-        "logo": "https://media.api-sports.io/football/teams/591.png",
+        "logo": "591.png",
         "venue_id": 30
     },
     {
@@ -16,7 +16,7 @@
         "country": "Andorra",
         "founded": 1995,
         "national": false,
-        "logo": "https://media.api-sports.io/football/teams/703.png",
+        "logo": "703.png",
         "venue_id": 30
     },
     {
@@ -26,7 +26,7 @@
         "country": "Andorra",
         "founded": null,
         "national": false,
-        "logo": "https://media.api-sports.io/football/teams/3342.png",
+        "logo": "3342.png",
         "venue_id": 30
     },
     {
@@ -36,7 +36,7 @@
         "country": "Andorra",
         "founded": null,
         "national": false,
-        "logo": "https://media.api-sports.io/football/teams/3344.png",
+        "logo": "3344.png",
         "venue_id": 30
     },
     {
@@ -46,7 +46,7 @@
         "country": "Andorra",
         "founded": null,
         "national": false,
-        "logo": "https://media.api-sports.io/football/teams/3345.png",
+        "logo": "3345.png",
         "venue_id": 2178
     },
     {
@@ -56,7 +56,7 @@
         "country": "Andorra",
         "founded": 2005,
         "national": false,
-        "logo": "https://media.api-sports.io/football/teams/3351.png",
+        "logo": "3351.png",
         "venue_id": 2178
     },
     {
@@ -66,7 +66,7 @@
         "country": "Andorra",
         "founded": null,
         "national": false,
-        "logo": "https://media.api-sports.io/football/teams/3352.png",
+        "logo": "3352.png",
         "venue_id": 30
     },
     {
@@ -76,7 +76,7 @@
         "country": "Andorra",
         "founded": null,
         "national": false,
-        "logo": "https://media.api-sports.io/football/teams/3353.png",
+        "logo": "3353.png",
         "venue_id": 2178
     },
     {
@@ -86,7 +86,7 @@
         "country": "Andorra",
         "founded": null,
         "national": true,
-        "logo": "https://media.api-sports.io/football/teams/19195.png",
+        "logo": "19195.png",
         "venue_id": 9879765464321
     },
     {
@@ -96,7 +96,7 @@
         "country": "Andorra",
         "founded": null,
         "national": false,
-        "logo": "https://media.api-sports.io/football/teams/19196.png",
+        "logo": "19196.png",
         "venue_id": 111323214564
     },
     {
@@ -106,7 +106,7 @@
         "country": "Andorra",
         "founded": null,
         "national": false,
-        "logo": "https://media.api-sports.io/football/teams/24515.png",
+        "logo": "24515.png",
         "venue_id": 66656656598
     },
     {
@@ -116,7 +116,7 @@
         "country": "Andorra",
         "founded": 2014,
         "national": false,
-        "logo": "https://media.api-sports.io/football/teams/3346.png",
+        "logo": "3346.png",
         "venue_id": 2178
     },
     {
@@ -126,7 +126,7 @@
         "country": "Andorra",
         "founded": null,
         "national": false,
-        "logo": "https://media.api-sports.io/football/teams/3355.png",
+        "logo": "3355.png",
         "venue_id": 2178
     },
     {
@@ -136,7 +136,7 @@
         "country": "Andorra",
         "founded": null,
         "national": false,
-        "logo": "https://media.api-sports.io/football/teams/3876.png",
+        "logo": "3876.png",
         "venue_id": 2178
     }
 ]

@@ -1,162 +1,162 @@
 [
-  {
-    "id": 10972,
-    "name": "Santiago de Cuba",
-    "code": null,
-    "country": "Cuba",
-    "founded": null,
-    "national": false,
-    "logo": "https://media.api-sports.io/football/teams/10972.png",
-    "venue_id": 7374
-  },
-  {
-    "id": 18703,
-    "name": "Artemisa",
-    "code": null,
-    "country": "Cuba",
-    "founded": null,
-    "national": false,
-    "logo": "https://media.api-sports.io/football/teams/18703.png",
-    "venue_id": 18504
-  },
-  {
-    "id": 18704,
-    "name": "Camagüey",
-    "code": null,
-    "country": "Cuba",
-    "founded": null,
-    "national": false,
-    "logo": "https://media.api-sports.io/football/teams/18704.png",
-    "venue_id": 18505
-  },
-  {
-    "id": 18705,
-    "name": "Ciego de Ávila",
-    "code": null,
-    "country": "Cuba",
-    "founded": null,
-    "national": false,
-    "logo": "https://media.api-sports.io/football/teams/18705.png",
-    "venue_id": 18506
-  },
-  {
-    "id": 18706,
-    "name": "Cienfuegos",
-    "code": null,
-    "country": "Cuba",
-    "founded": null,
-    "national": false,
-    "logo": "https://media.api-sports.io/football/teams/18706.png",
-    "venue_id": 18507
-  },
-  {
-    "id": 18707,
-    "name": "Granma",
-    "code": null,
-    "country": "Cuba",
-    "founded": null,
-    "national": false,
-    "logo": "https://media.api-sports.io/football/teams/18707.png",
-    "venue_id": 18508
-  },
-  {
-    "id": 18708,
-    "name": "Guantánamo",
-    "code": null,
-    "country": "Cuba",
-    "founded": null,
-    "national": false,
-    "logo": "https://media.api-sports.io/football/teams/18708.png",
-    "venue_id": 18509
-  },
-  {
-    "id": 18709,
-    "name": "Holguín",
-    "code": null,
-    "country": "Cuba",
-    "founded": null,
-    "national": false,
-    "logo": "https://media.api-sports.io/football/teams/18709.png",
-    "venue_id": 18510
-  },
-  {
-    "id": 18710,
-    "name": "Isla Juventud",
-    "code": null,
-    "country": "Cuba",
-    "founded": null,
-    "national": false,
-    "logo": "https://media.api-sports.io/football/teams/18710.png",
-    "venue_id": 18511
-  },
-  {
-    "id": 18711,
-    "name": "La Habana",
-    "code": null,
-    "country": "Cuba",
-    "founded": null,
-    "national": false,
-    "logo": "https://media.api-sports.io/football/teams/18711.png",
-    "venue_id": 18512
-  },
-  {
-    "id": 18712,
-    "name": "Las Tunas",
-    "code": null,
-    "country": "Cuba",
-    "founded": 1978,
-    "national": false,
-    "logo": "https://media.api-sports.io/football/teams/18712.png",
-    "venue_id": 18513
-  },
-  {
-    "id": 18713,
-    "name": "Matanzas",
-    "code": null,
-    "country": "Cuba",
-    "founded": null,
-    "national": false,
-    "logo": "https://media.api-sports.io/football/teams/18713.png",
-    "venue_id": 18514
-  },
-  {
-    "id": 18714,
-    "name": "Mayabeque",
-    "code": null,
-    "country": "Cuba",
-    "founded": null,
-    "national": false,
-    "logo": "https://media.api-sports.io/football/teams/18714.png",
-    "venue_id": 181985511023
-  },
-  {
-    "id": 18715,
-    "name": "Pinar del Río",
-    "code": null,
-    "country": "Cuba",
-    "founded": null,
-    "national": false,
-    "logo": "https://media.api-sports.io/football/teams/18715.png",
-    "venue_id": 18515
-  },
-  {
-    "id": 18716,
-    "name": "Sancti Spiritus",
-    "code": null,
-    "country": "Cuba",
-    "founded": null,
-    "national": false,
-    "logo": "https://media.api-sports.io/football/teams/18716.png",
-    "venue_id": 18516
-  },
-  {
-    "id": 18717,
-    "name": "Villa Clara",
-    "code": null,
-    "country": "Cuba",
-    "founded": null,
-    "national": false,
-    "logo": "https://media.api-sports.io/football/teams/18717.png",
-    "venue_id": 18517
-  }
+    {
+        "id": 10972,
+        "name": "Santiago de Cuba",
+        "code": null,
+        "country": "Cuba",
+        "founded": null,
+        "national": false,
+        "logo": "10972.png",
+        "venue_id": 7374
+    },
+    {
+        "id": 18703,
+        "name": "Artemisa",
+        "code": null,
+        "country": "Cuba",
+        "founded": null,
+        "national": false,
+        "logo": "18703.png",
+        "venue_id": 18504
+    },
+    {
+        "id": 18704,
+        "name": "Camagüey",
+        "code": null,
+        "country": "Cuba",
+        "founded": null,
+        "national": false,
+        "logo": "18704.png",
+        "venue_id": 18505
+    },
+    {
+        "id": 18705,
+        "name": "Ciego de Ávila",
+        "code": null,
+        "country": "Cuba",
+        "founded": null,
+        "national": false,
+        "logo": "18705.png",
+        "venue_id": 18506
+    },
+    {
+        "id": 18706,
+        "name": "Cienfuegos",
+        "code": null,
+        "country": "Cuba",
+        "founded": null,
+        "national": false,
+        "logo": "18706.png",
+        "venue_id": 18507
+    },
+    {
+        "id": 18707,
+        "name": "Granma",
+        "code": null,
+        "country": "Cuba",
+        "founded": null,
+        "national": false,
+        "logo": "18707.png",
+        "venue_id": 18508
+    },
+    {
+        "id": 18708,
+        "name": "Guantánamo",
+        "code": null,
+        "country": "Cuba",
+        "founded": null,
+        "national": false,
+        "logo": "18708.png",
+        "venue_id": 18509
+    },
+    {
+        "id": 18709,
+        "name": "Holguín",
+        "code": null,
+        "country": "Cuba",
+        "founded": null,
+        "national": false,
+        "logo": "18709.png",
+        "venue_id": 18510
+    },
+    {
+        "id": 18710,
+        "name": "Isla Juventud",
+        "code": null,
+        "country": "Cuba",
+        "founded": null,
+        "national": false,
+        "logo": "18710.png",
+        "venue_id": 18511
+    },
+    {
+        "id": 18711,
+        "name": "La Habana",
+        "code": null,
+        "country": "Cuba",
+        "founded": null,
+        "national": false,
+        "logo": "18711.png",
+        "venue_id": 18512
+    },
+    {
+        "id": 18712,
+        "name": "Las Tunas",
+        "code": null,
+        "country": "Cuba",
+        "founded": 1978,
+        "national": false,
+        "logo": "18712.png",
+        "venue_id": 18513
+    },
+    {
+        "id": 18713,
+        "name": "Matanzas",
+        "code": null,
+        "country": "Cuba",
+        "founded": null,
+        "national": false,
+        "logo": "18713.png",
+        "venue_id": 18514
+    },
+    {
+        "id": 18714,
+        "name": "Mayabeque",
+        "code": null,
+        "country": "Cuba",
+        "founded": null,
+        "national": false,
+        "logo": "18714.png",
+        "venue_id": 181985511023
+    },
+    {
+        "id": 18715,
+        "name": "Pinar del Río",
+        "code": null,
+        "country": "Cuba",
+        "founded": null,
+        "national": false,
+        "logo": "18715.png",
+        "venue_id": 18515
+    },
+    {
+        "id": 18716,
+        "name": "Sancti Spiritus",
+        "code": null,
+        "country": "Cuba",
+        "founded": null,
+        "national": false,
+        "logo": "18716.png",
+        "venue_id": 18516
+    },
+    {
+        "id": 18717,
+        "name": "Villa Clara",
+        "code": null,
+        "country": "Cuba",
+        "founded": null,
+        "national": false,
+        "logo": "18717.png",
+        "venue_id": 18517
+    }
 ]

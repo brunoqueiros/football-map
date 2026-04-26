@@ -138,7 +138,8 @@ const StadiumCard: React.FC<StadiumCardProps> = ({ stadium, allTeams = [], onTea
                 `}
               >
                 <div className="w-5 h-5 flex items-center justify-center">
-                  <Crest src={team.id!} name={team.name} />
+                  {/* @ts-ignore */}
+                  <Crest src={team.logo} name={team.name} />
                 </div>
                 {/* <span className={`text-sm font-medium ${team.id === stadium.id ? 'text-white' : 'text-white/60'}`}>
                   {team.name}
@@ -151,7 +152,7 @@ const StadiumCard: React.FC<StadiumCardProps> = ({ stadium, allTeams = [], onTea
         <div className="px-5 py-2 bg-white/4 border-b border-white/4 flex items-center gap-3.5">
           <div className="shrink-0 w-13.5 h-13.5 flex items-center justify-center p-1.5">
             {/* @ts-ignore */}
-            <Crest key={selectedTeam.id} src={selectedTeam.id!} name={selectedTeam.name} />
+            <Crest key={selectedTeam.id} src={selectedTeam.logo} name={selectedTeam.name} />
           </div>
           <h2 className="flex-1 min-w-0 text-[17px] font-semibold text-white leading-tight tracking-tight">
             {/* @ts-ignore */}
@@ -244,7 +245,7 @@ const StadiumCard: React.FC<StadiumCardProps> = ({ stadium, allTeams = [], onTea
               <div className="flex flex-col items-center flex-1 min-w-0">
                 <div className="flex items-center justify-center mb-2 p-2">
                   {/* @ts-ignore */}
-                  <Crest key={fixtures[0].teams.home.id} src={fixtures[0].teams.home.id} name={fixtures[0].teams.home.name} />
+                  <Crest key={fixtures[0].teams.home.id} src={`${fixtures[0].teams.home.id}.svg`} name={fixtures[0].teams.home.name} />
                 </div>
                 <span className="text-xs font-medium text-white/90 text-center truncate w-full">
                   {/* @ts-ignore */}
@@ -266,7 +267,7 @@ const StadiumCard: React.FC<StadiumCardProps> = ({ stadium, allTeams = [], onTea
                   {/* @ts-ignore */}
                   {fixtures[0].teams.away.id ? (
                     // @ts-ignore
-                    <Crest key={fixtures[0].teams.away.id} src={fixtures[0].teams.away.id} name={fixtures[0].teams.away.name} />
+                    <Crest key={fixtures[0].teams.away.id} src={`${fixtures[0].teams.away.id}.svg`} name={fixtures[0].teams.away.name} />
                   ) : (
                     <span className="text-xl text-white/30">?</span>
                   )}

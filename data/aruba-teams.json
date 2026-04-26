@@ -6,7 +6,7 @@
         "country": "Aruba",
         "founded": 1970,
         "national": true,
-        "logo": "https://api-sports.io",
+        "logo": "8232.png",
         "venue_id": 4928173645
     },
     {
@@ -16,7 +16,7 @@
         "country": "Aruba",
         "founded": 1958,
         "national": false,
-        "logo": "https://api-sports.io",
+        "logo": "8234.png",
         "venue_id": 1039485726
     },
     {
@@ -26,7 +26,7 @@
         "country": "Aruba",
         "founded": 1947,
         "national": false,
-        "logo": "https://api-sports.io",
+        "logo": "8237.png",
         "venue_id": 8827364519
     },
     {
@@ -36,7 +36,7 @@
         "country": "Aruba",
         "founded": 1948,
         "national": false,
-        "logo": "https://api-sports.io",
+        "logo": "8238.png",
         "venue_id": 3394857210
     },
     {
@@ -46,7 +46,7 @@
         "country": "Aruba",
         "founded": 1927,
         "national": false,
-        "logo": "https://api-sports.io",
+        "logo": "8239.png",
         "venue_id": 5564738291
     },
     {
@@ -56,7 +56,7 @@
         "country": "Aruba",
         "founded": 1934,
         "national": false,
-        "logo": "https://api-sports.io",
+        "logo": "8240.png",
         "venue_id": 8827364519
     },
     {
@@ -66,7 +66,7 @@
         "country": "Aruba",
         "founded": 1953,
         "national": false,
-        "logo": "https://api-sports.io",
+        "logo": "8242.png",
         "venue_id": 8827364519
     },
     {
@@ -76,7 +76,7 @@
         "country": "Aruba",
         "founded": 1948,
         "national": false,
-        "logo": "https://api-sports.io",
+        "logo": "11176.png",
         "venue_id": 8827364519
     },
     {
@@ -86,7 +86,7 @@
         "country": "Aruba",
         "founded": null,
         "national": false,
-        "logo": "https://api-sports.io",
+        "logo": "18449.png",
         "venue_id": 4928173645
     },
     {
@@ -96,7 +96,7 @@
         "country": "Aruba",
         "founded": null,
         "national": false,
-        "logo": "https://api-sports.io",
+        "logo": "25131.png",
         "venue_id": 5564738291
     }
 ]

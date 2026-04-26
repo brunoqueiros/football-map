@@ -280,7 +280,8 @@ export default function SearchBar({ onSelectTeam, teams, hideCard, venues }: Sea
                     }}
                   >
                     <div className="flex gap-3 flex-1 min-w-0">
-                      <Crest src={team.id!} name={team.name} />
+                      {/* @ts-ignore */}
+                      <Crest src={team.logo} name={team.name} />
                       <div>
                         <span className="text-sm font-medium text-neutral-200 truncate">{team.name}</span>
                         <div className="flex items-center gap-1.5 text-xs text-neutral-400">

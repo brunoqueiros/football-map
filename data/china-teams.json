@@ -1,812 +1,812 @@
 [
-  {
-    "id": 830,
-    "name": "Beijing Guoan",
-    "code": "BEI",
-    "country": "China",
-    "founded": 1992,
-    "national": false,
-    "logo": "https://media.api-sports.io/football/teams/830.png",
-    "venue_id": 348
-  },
-  {
-    "id": 832,
-    "name": "Guangzhou Evergrande FC",
-    "code": "GUA",
-    "country": "China",
-    "founded": 1954,
-    "national": false,
-    "logo": "https://media.api-sports.io/football/teams/832.png",
-    "venue_id": 353
-  },
-  {
-    "id": 833,
-    "name": "Shanghai Shenhua",
-    "code": "SHA",
-    "country": "China",
-    "founded": 1993,
-    "national": false,
-    "logo": "https://media.api-sports.io/football/teams/833.png",
-    "venue_id": 19701
-  },
-  {
-    "id": 834,
-    "name": "Changchun Yatai",
-    "code": "CHA",
-    "country": "China",
-    "founded": 1996,
-    "national": false,
-    "logo": "https://media.api-sports.io/football/teams/834.png",
-    "venue_id": 350
-  },
-  {
-    "id": 836,
-    "name": "SHANGHAI SIPG",
-    "code": "SHA",
-    "country": "China",
-    "founded": 2005,
-    "national": false,
-    "logo": "https://media.api-sports.io/football/teams/836.png",
-    "venue_id": 360
-  },
-  {
-    "id": 837,
-    "name": "Tianjin Teda",
-    "code": "TIA",
-    "country": "China",
-    "founded": 1957,
-    "national": false,
-    "logo": "https://media.api-sports.io/football/teams/837.png",
-    "venue_id": 363
-  },
-  {
-    "id": 840,
-    "name": "Henan Jianye",
-    "code": "HEN",
-    "country": "China",
-    "founded": 1994,
-    "national": false,
-    "logo": "https://media.api-sports.io/football/teams/840.png",
-    "venue_id": 355
-  },
-  {
-    "id": 844,
-    "name": "Shandong Luneng",
-    "code": "SHA",
-    "country": "China",
-    "founded": 1988,
-    "national": false,
-    "logo": "https://media.api-sports.io/football/teams/844.png",
-    "venue_id": 359
-  },
-  {
-    "id": 848,
-    "name": "Hangzhou Greentown",
-    "code": "HAN",
-    "country": "China",
-    "founded": 1998,
-    "national": false,
-    "logo": "https://media.api-sports.io/football/teams/848.png",
-    "venue_id": 20729
-  },
-  {
-    "id": 849,
-    "name": "Shijiazhuang Y. J.",
-    "code": null,
-    "country": "China",
-    "founded": 2001,
-    "national": false,
-    "logo": "https://media.api-sports.io/football/teams/849.png",
-    "venue_id": 1868
-  },
-  {
-    "id": 1431,
-    "name": "Qingdao Jonoon",
-    "code": "QIN",
-    "country": "China",
-    "founded": 1990,
-    "national": false,
-    "logo": "https://media.api-sports.io/football/teams/1431.png",
-    "venue_id": 20427
-  },
-  {
-    "id": 1438,
-    "name": "Hunan Billows FC",
-    "code": "HUN",
-    "country": "China",
-    "founded": 2006,
-    "national": false,
-    "logo": "https://media.api-sports.io/football/teams/1438.png",
-    "venue_id": 19659
-  },
-  {
-    "id": 1439,
-    "name": "Meizhou Kejia",
-    "code": "MEI",
-    "country": "China",
-    "founded": 2013,
-    "national": false,
-    "logo": "https://media.api-sports.io/football/teams/1439.png",
-    "venue_id": 19329
-  },
-  {
-    "id": 1445,
-    "name": "Heilongjiang Lava Spring",
-    "code": null,
-    "country": "China",
-    "founded": null,
-    "national": false,
-    "logo": "https://media.api-sports.io/football/teams/1445.png",
-    "venue_id": 1873
-  },
-  {
-    "id": 2626,
-    "name": "Nantong Zhiyun",
-    "code": null,
-    "country": "China",
-    "founded": 2014,
-    "national": false,
-    "logo": "https://media.api-sports.io/football/teams/2626.png",
-    "venue_id": 1874
-  },
-  {
-    "id": 5647,
-    "name": "BIT",
-    "code": "BEI",
-    "country": "China",
-    "founded": 2000,
-    "national": false,
-    "logo": "https://media.api-sports.io/football/teams/5647.png",
-    "venue_id": 4227
-  },
-  {
-    "id": 5648,
-    "name": "Chengdu Better City",
-    "code": null,
-    "country": "China",
-    "founded": null,
-    "national": false,
-    "logo": "https://media.api-sports.io/football/teams/5648.png",
-    "venue_id": 20429
-  },
-  {
-    "id": 5652,
-    "name": "Dalian Huayi",
-    "code": null,
-    "country": "China",
-    "founded": null,
-    "national": false,
-    "logo": "https://media.api-sports.io/football/teams/5652.png",
-    "venue_id": 19670
-  },
-  {
-    "id": 5657,
-    "name": "Guangxi Baoyun",
-    "code": null,
-    "country": "China",
-    "founded": 2016,
-    "national": false,
-    "logo": "https://media.api-sports.io/football/teams/5657.png",
-    "venue_id": 193752698873
-  },
-  {
-    "id": 5658,
-    "name": "Hangzhou Wuyue Qiantang",
-    "code": null,
-    "country": "China",
-    "founded": null,
-    "national": false,
-    "logo": "https://media.api-sports.io/football/teams/5658.png",
-    "venue_id": 121796388110
-  },
-  {
-    "id": 5660,
-    "name": "Hubei Chufeng Heli",
-    "code": null,
-    "country": "China",
-    "founded": 2016,
-    "national": false,
-    "logo": "https://media.api-sports.io/football/teams/5660.png",
-    "venue_id": 21698
-  },
-  {
-    "id": 5662,
-    "name": "Inner Mongolia Caoshang.",
-    "code": null,
-    "country": "China",
-    "founded": 2015,
-    "national": false,
-    "logo": "https://media.api-sports.io/football/teams/5662.png",
-    "venue_id": 739522512508
-  },
-  {
-    "id": 5665,
-    "name": "Jiangxi Liansheng",
-    "code": "JIA",
-    "country": "China",
-    "founded": 2002,
-    "national": false,
-    "logo": "https://media.api-sports.io/football/teams/5665.png",
-    "venue_id": 21667
-  },
-  {
-    "id": 5677,
-    "name": "Qingdao Elite United",
-    "code": null,
-    "country": "China",
-    "founded": null,
-    "national": false,
-    "logo": "https://media.api-sports.io/football/teams/5677.png",
-    "venue_id": 620217787716
-  },
-  {
-    "id": 5678,
-    "name": "Qingdao Kunpeng",
-    "code": "QIN",
-    "country": "China",
-    "founded": null,
-    "national": false,
-    "logo": "https://media.api-sports.io/football/teams/5678.png",
-    "venue_id": 6964281741
-  },
-  {
-    "id": 5679,
-    "name": "Qingdao Red Lions",
-    "code": null,
-    "country": "China",
-    "founded": 2016,
-    "national": false,
-    "logo": "https://media.api-sports.io/football/teams/5679.png",
-    "venue_id": 2674
-  },
-  {
-    "id": 5682,
-    "name": "Shanghai Jiading",
-    "code": null,
-    "country": "China",
-    "founded": null,
-    "national": false,
-    "logo": "https://media.api-sports.io/football/teams/5682.png",
-    "venue_id": 19330
-  },
-  {
-    "id": 5684,
-    "name": "Shenyang Urban",
-    "code": null,
-    "country": "China",
-    "founded": null,
-    "national": false,
-    "logo": "https://media.api-sports.io/football/teams/5684.png",
-    "venue_id": 19329
-  },
-  {
-    "id": 5686,
-    "name": "Sichuan Jiuniu",
-    "code": null,
-    "country": "China",
-    "founded": 2006,
-    "national": false,
-    "logo": "https://media.api-sports.io/football/teams/5686.png",
-    "venue_id": 19331
-  },
-  {
-    "id": 5688,
-    "name": "Suzhou Dongwu",
-    "code": null,
-    "country": "China",
-    "founded": null,
-    "national": false,
-    "logo": "https://media.api-sports.io/football/teams/5688.png",
-    "venue_id": 11559
-  },
-  {
-    "id": 5695,
-    "name": "Wuhan Three Towns",
-    "code": null,
-    "country": "China",
-    "founded": 2013,
-    "national": false,
-    "logo": "https://media.api-sports.io/football/teams/5695.png",
-    "venue_id": 11560
-  },
-  {
-    "id": 5697,
-    "name": "Xi'an Hi-Tech Zone",
-    "code": null,
-    "country": "China",
-    "founded": null,
-    "national": false,
-    "logo": "https://media.api-sports.io/football/teams/5697.png",
-    "venue_id": 737263317445
-  },
-  {
-    "id": 16619,
-    "name": "Nanjing City",
-    "code": null,
-    "country": "China",
-    "founded": 2014,
-    "national": false,
-    "logo": "https://media.api-sports.io/football/teams/16619.png",
-    "venue_id": 868163635195
-  },
-  {
-    "id": 17263,
-    "name": "Dongguan United",
-    "code": null,
-    "country": "China",
-    "founded": null,
-    "national": false,
-    "logo": "https://media.api-sports.io/football/teams/17263.png",
-    "venue_id": 156462650875
-  },
-  {
-    "id": 17264,
-    "name": "Hebei Kungfu",
-    "code": null,
-    "country": "China",
-    "founded": 2020,
-    "national": false,
-    "logo": "https://media.api-sports.io/football/teams/17264.png",
-    "venue_id": 128459343181
-  },
-  {
-    "id": 17265,
-    "name": "Qingdao Youth Island",
-    "code": null,
-    "country": "China",
-    "founded": 2007,
-    "national": false,
-    "logo": "https://media.api-sports.io/football/teams/17265.png",
-    "venue_id": 98175201914
-  },
-  {
-    "id": 17266,
-    "name": "Quanzhou Yassin",
-    "code": null,
-    "country": "China",
-    "founded": null,
-    "national": false,
-    "logo": "https://media.api-sports.io/football/teams/17266.png",
-    "venue_id": 19661
-  },
-  {
-    "id": 17269,
-    "name": "Wuxi Wugou",
-    "code": null,
-    "country": "China",
-    "founded": null,
-    "national": false,
-    "logo": "https://media.api-sports.io/football/teams/17269.png",
-    "venue_id": 21668
-  },
-  {
-    "id": 17271,
-    "name": "Yanbian Longding",
-    "code": null,
-    "country": "China",
-    "founded": 2017,
-    "national": false,
-    "logo": "https://media.api-sports.io/football/teams/17271.png",
-    "venue_id": 850119446478
-  },
-  {
-    "id": 17272,
-    "name": "Yichun Grand Tiger",
-    "code": null,
-    "country": "China",
-    "founded": null,
-    "national": false,
-    "logo": "https://media.api-sports.io/football/teams/17272.png",
-    "venue_id": 21699
-  },
-  {
-    "id": 19317,
-    "name": "Hainan Star",
-    "code": null,
-    "country": "China",
-    "founded": 2017,
-    "national": false,
-    "logo": "https://media.api-sports.io/football/teams/19317.png",
-    "venue_id": 21700
-  },
-  {
-    "id": 19319,
-    "name": "Nantong Haimen Codion",
-    "code": null,
-    "country": "China",
-    "founded": null,
-    "national": false,
-    "logo": "https://media.api-sports.io/football/teams/19319.png",
-    "venue_id": 19664
-  },
-  {
-    "id": 19320,
-    "name": "Shangyu Pterosaur",
-    "code": null,
-    "country": "China",
-    "founded": 2017,
-    "national": false,
-    "logo": "https://media.api-sports.io/football/teams/19320.png",
-    "venue_id": 21684
-  },
-  {
-    "id": 19321,
-    "name": "Tai'an Tiankuang",
-    "code": null,
-    "country": "China",
-    "founded": null,
-    "national": false,
-    "logo": "https://media.api-sports.io/football/teams/19321.png",
-    "venue_id": 19666
-  },
-  {
-    "id": 20674,
-    "name": "Xi'an Ronghai",
-    "code": null,
-    "country": "China",
-    "founded": 2021,
-    "national": false,
-    "logo": "https://media.api-sports.io/football/teams/20674.png",
-    "venue_id": 21685
-  },
-  {
-    "id": 21262,
-    "name": "Chongqing Tongliang Long",
-    "code": null,
-    "country": "China",
-    "founded": null,
-    "national": false,
-    "logo": "https://media.api-sports.io/football/teams/21262.png",
-    "venue_id": 19669
-  },
-  {
-    "id": 21263,
-    "name": "Dalian Zhixing",
-    "code": null,
-    "country": "China",
-    "founded": 2021,
-    "national": false,
-    "logo": "https://media.api-sports.io/football/teams/21263.png",
-    "venue_id": 19670
-  },
-  {
-    "id": 21264,
-    "name": "Guangxi Lanhang",
-    "code": null,
-    "country": "China",
-    "founded": 2020,
-    "national": false,
-    "logo": "https://media.api-sports.io/football/teams/21264.png",
-    "venue_id": 193752698873
-  },
-  {
-    "id": 21265,
-    "name": "Yunnan Yukun",
-    "code": null,
-    "country": "China",
-    "founded": 2021,
-    "national": false,
-    "logo": "https://media.api-sports.io/football/teams/21265.png",
-    "venue_id": 19672
-  },
-  {
-    "id": 21322,
-    "name": "Changle Jingangtui",
-    "code": null,
-    "country": "China",
-    "founded": null,
-    "national": false,
-    "logo": "https://media.api-sports.io/football/teams/21322.png",
-    "venue_id": 86479132001
-  },
-  {
-    "id": 21325,
-    "name": "Ningxia Renfangzhong",
-    "code": null,
-    "country": "China",
-    "founded": null,
-    "national": false,
-    "logo": "https://media.api-sports.io/football/teams/21325.png",
-    "venue_id": 937314283340
-  },
-  {
-    "id": 21327,
-    "name": "Qujing Yibu",
-    "code": null,
-    "country": "China",
-    "founded": null,
-    "national": false,
-    "logo": "https://media.api-sports.io/football/teams/21327.png",
-    "venue_id": 118824782232
-  },
-  {
-    "id": 21328,
-    "name": "Rizhao Yuqi",
-    "code": null,
-    "country": "China",
-    "founded": 2014,
-    "national": false,
-    "logo": "https://media.api-sports.io/football/teams/21328.png",
-    "venue_id": 21687
-  },
-  {
-    "id": 21331,
-    "name": "Shanxi Longchengren",
-    "code": null,
-    "country": "China",
-    "founded": null,
-    "national": false,
-    "logo": "https://media.api-sports.io/football/teams/21331.png",
-    "venue_id": 881731162936
-  },
-  {
-    "id": 21333,
-    "name": "Wuhan Xiaoma Guohe",
-    "code": null,
-    "country": "China",
-    "founded": null,
-    "national": false,
-    "logo": "https://media.api-sports.io/football/teams/21333.png",
-    "venue_id": 874874770896
-  },
-  {
-    "id": 23132,
-    "name": "Changchun Xidu",
-    "code": null,
-    "country": "China",
-    "founded": 2021,
-    "national": false,
-    "logo": "https://media.api-sports.io/football/teams/23132.png",
-    "venue_id": 21688
-  },
-  {
-    "id": 23133,
-    "name": "Changning Flying Lions",
-    "code": null,
-    "country": "China",
-    "founded": null,
-    "national": false,
-    "logo": "https://media.api-sports.io/football/teams/23133.png",
-    "venue_id": 661069451862
-  },
-  {
-    "id": 23134,
-    "name": "Chunlei",
-    "code": null,
-    "country": "China",
-    "founded": null,
-    "national": false,
-    "logo": "https://media.api-sports.io/football/teams/23134.png",
-    "venue_id": 38423284823
-  },
-  {
-    "id": 23135,
-    "name": "Fujian Quanzhou Qinggong",
-    "code": null,
-    "country": "China",
-    "founded": null,
-    "national": false,
-    "logo": "https://media.api-sports.io/football/teams/23135.png",
-    "venue_id": 529000156633
-  },
-  {
-    "id": 23136,
-    "name": "Gannan 92 United",
-    "code": null,
-    "country": "China",
-    "founded": null,
-    "national": false,
-    "logo": "https://media.api-sports.io/football/teams/23136.png",
-    "venue_id": 414739345069
-  },
-  {
-    "id": 23137,
-    "name": "Guangdong Shudihong",
-    "code": null,
-    "country": "China",
-    "founded": null,
-    "national": false,
-    "logo": "https://media.api-sports.io/football/teams/23137.png",
-    "venue_id": 769566401667
-  },
-  {
-    "id": 23138,
-    "name": "Guangxi Bushan",
-    "code": null,
-    "country": "China",
-    "founded": null,
-    "national": false,
-    "logo": "https://media.api-sports.io/football/teams/23138.png",
-    "venue_id": 188613870961
-  },
-  {
-    "id": 23139,
-    "name": "Haishan",
-    "code": null,
-    "country": "China",
-    "founded": null,
-    "national": false,
-    "logo": "https://media.api-sports.io/football/teams/23139.png",
-    "venue_id": 991554278764
-  },
-  {
-    "id": 23140,
-    "name": "Jiangsu Nan Dongsheng",
-    "code": null,
-    "country": "China",
-    "founded": null,
-    "national": false,
-    "logo": "https://media.api-sports.io/football/teams/23140.png",
-    "venue_id": 919193210231
-  },
-  {
-    "id": 23141,
-    "name": "Lanzhou Hailu",
-    "code": null,
-    "country": "China",
-    "founded": null,
-    "national": false,
-    "logo": "https://media.api-sports.io/football/teams/23141.png",
-    "venue_id": 415809176377
-  },
-  {
-    "id": 23142,
-    "name": "Lujian Tiancheng",
-    "code": null,
-    "country": "China",
-    "founded": null,
-    "national": false,
-    "logo": "https://media.api-sports.io/football/teams/23142.png",
-    "venue_id": 664479490672
-  },
-  {
-    "id": 23143,
-    "name": "Nanning Juding",
-    "code": null,
-    "country": "China",
-    "founded": null,
-    "national": false,
-    "logo": "https://media.api-sports.io/football/teams/23143.png",
-    "venue_id": 193752698873
-  },
-  {
-    "id": 23144,
-    "name": "Ningo Shoufa",
-    "code": null,
-    "country": "China",
-    "founded": null,
-    "national": false,
-    "logo": "https://media.api-sports.io/football/teams/23144.png",
-    "venue_id": 734567833154
-  },
-  {
-    "id": 23145,
-    "name": "Ningxia Pingluo",
-    "code": null,
-    "country": "China",
-    "founded": null,
-    "national": false,
-    "logo": "https://media.api-sports.io/football/teams/23145.png",
-    "venue_id": 914239111071
-  },
-  {
-    "id": 23146,
-    "name": "Qianxinan Xu Fengtang",
-    "code": null,
-    "country": "China",
-    "founded": null,
-    "national": false,
-    "logo": "https://media.api-sports.io/football/teams/23146.png",
-    "venue_id": 911051369227
-  },
-  {
-    "id": 23147,
-    "name": "Shanghai Segenda",
-    "code": null,
-    "country": "China",
-    "founded": null,
-    "national": false,
-    "logo": "https://media.api-sports.io/football/teams/23147.png",
-    "venue_id": 288601252130
-  },
-  {
-    "id": 23148,
-    "name": "Shanghai Tongji",
-    "code": null,
-    "country": "China",
-    "founded": null,
-    "national": false,
-    "logo": "https://media.api-sports.io/football/teams/23148.png",
-    "venue_id": 235822150444
-  },
-  {
-    "id": 23149,
-    "name": "Shanxi Xiangyu",
-    "code": null,
-    "country": "China",
-    "founded": null,
-    "national": false,
-    "logo": "https://media.api-sports.io/football/teams/23149.png",
-    "venue_id": 947869578967
-  },
-  {
-    "id": 23150,
-    "name": "Shenzhen Jixiang",
-    "code": null,
-    "country": "China",
-    "founded": null,
-    "national": false,
-    "logo": "https://media.api-sports.io/football/teams/23150.png",
-    "venue_id": 34177466590
-  },
-  {
-    "id": 23265,
-    "name": "Shenzhen Juniors",
-    "code": null,
-    "country": "China",
-    "founded": null,
-    "national": false,
-    "logo": "https://media.api-sports.io/football/teams/23265.png",
-    "venue_id": 688605075054
-  },
-  {
-    "id": 23268,
-    "name": "Guangxi Hengchen",
-    "code": null,
-    "country": "China",
-    "founded": 2021,
-    "national": false,
-    "logo": "https://media.api-sports.io/football/teams/23268.png",
-    "venue_id": 21689
-  },
-  {
-    "id": 23269,
-    "name": "Guangzhou E-Power",
-    "code": null,
-    "country": "China",
-    "founded": null,
-    "national": false,
-    "logo": "https://media.api-sports.io/football/teams/23269.png",
-    "venue_id": 169123683815
-  },
-  {
-    "id": 23270,
-    "name": "Langfang Glory City",
-    "code": null,
-    "country": "China",
-    "founded": 2022,
-    "national": false,
-    "logo": "https://media.api-sports.io/football/teams/23270.png",
-    "venue_id": 21690
-  },
-  {
-    "id": 23286,
-    "name": "Shaanxi Union",
-    "code": null,
-    "country": "China",
-    "founded": null,
-    "national": false,
-    "logo": "https://media.api-sports.io/football/teams/23286.png",
-    "venue_id": 665128440499
-  },
-  {
-    "id": 23288,
-    "name": "Shandong Taishan II",
-    "code": null,
-    "country": "China",
-    "founded": 1988,
-    "national": false,
-    "logo": "https://media.api-sports.io/football/teams/23288.png",
-    "venue_id": 21691
-  },
-  {
-    "id": 23289,
-    "name": "Shanghai Port II",
-    "code": null,
-    "country": "China",
-    "founded": 2005,
-    "national": false,
-    "logo": "https://media.api-sports.io/football/teams/23289.png",
-    "venue_id": 21692
-  }
+    {
+        "id": 830,
+        "name": "Beijing Guoan",
+        "code": "BEI",
+        "country": "China",
+        "founded": 1992,
+        "national": false,
+        "logo": "830.png",
+        "venue_id": 348
+    },
+    {
+        "id": 832,
+        "name": "Guangzhou Evergrande FC",
+        "code": "GUA",
+        "country": "China",
+        "founded": 1954,
+        "national": false,
+        "logo": "832.png",
+        "venue_id": 353
+    },
+    {
+        "id": 833,
+        "name": "Shanghai Shenhua",
+        "code": "SHA",
+        "country": "China",
+        "founded": 1993,
+        "national": false,
+        "logo": "833.png",
+        "venue_id": 19701
+    },
+    {
+        "id": 834,
+        "name": "Changchun Yatai",
+        "code": "CHA",
+        "country": "China",
+        "founded": 1996,
+        "national": false,
+        "logo": "834.png",
+        "venue_id": 350
+    },
+    {
+        "id": 836,
+        "name": "SHANGHAI SIPG",
+        "code": "SHA",
+        "country": "China",
+        "founded": 2005,
+        "national": false,
+        "logo": "836.png",
+        "venue_id": 360
+    },
+    {
+        "id": 837,
+        "name": "Tianjin Teda",
+        "code": "TIA",
+        "country": "China",
+        "founded": 1957,
+        "national": false,
+        "logo": "837.png",
+        "venue_id": 363
+    },
+    {
+        "id": 840,
+        "name": "Henan Jianye",
+        "code": "HEN",
+        "country": "China",
+        "founded": 1994,
+        "national": false,
+        "logo": "840.png",
+        "venue_id": 355
+    },
+    {
+        "id": 844,
+        "name": "Shandong Luneng",
+        "code": "SHA",
+        "country": "China",
+        "founded": 1988,
+        "national": false,
+        "logo": "844.png",
+        "venue_id": 359
+    },
+    {
+        "id": 848,
+        "name": "Hangzhou Greentown",
+        "code": "HAN",
+        "country": "China",
+        "founded": 1998,
+        "national": false,
+        "logo": "848.png",
+        "venue_id": 20729
+    },
+    {
+        "id": 849,
+        "name": "Shijiazhuang Y. J.",
+        "code": null,
+        "country": "China",
+        "founded": 2001,
+        "national": false,
+        "logo": "849.png",
+        "venue_id": 1868
+    },
+    {
+        "id": 1431,
+        "name": "Qingdao Jonoon",
+        "code": "QIN",
+        "country": "China",
+        "founded": 1990,
+        "national": false,
+        "logo": "1431.png",
+        "venue_id": 20427
+    },
+    {
+        "id": 1438,
+        "name": "Hunan Billows FC",
+        "code": "HUN",
+        "country": "China",
+        "founded": 2006,
+        "national": false,
+        "logo": "1438.png",
+        "venue_id": 19659
+    },
+    {
+        "id": 1439,
+        "name": "Meizhou Kejia",
+        "code": "MEI",
+        "country": "China",
+        "founded": 2013,
+        "national": false,
+        "logo": "1439.png",
+        "venue_id": 19329
+    },
+    {
+        "id": 1445,
+        "name": "Heilongjiang Lava Spring",
+        "code": null,
+        "country": "China",
+        "founded": null,
+        "national": false,
+        "logo": "1445.png",
+        "venue_id": 1873
+    },
+    {
+        "id": 2626,
+        "name": "Nantong Zhiyun",
+        "code": null,
+        "country": "China",
+        "founded": 2014,
+        "national": false,
+        "logo": "2626.png",
+        "venue_id": 1874
+    },
+    {
+        "id": 5647,
+        "name": "BIT",
+        "code": "BEI",
+        "country": "China",
+        "founded": 2000,
+        "national": false,
+        "logo": "5647.png",
+        "venue_id": 4227
+    },
+    {
+        "id": 5648,
+        "name": "Chengdu Better City",
+        "code": null,
+        "country": "China",
+        "founded": null,
+        "national": false,
+        "logo": "5648.png",
+        "venue_id": 20429
+    },
+    {
+        "id": 5652,
+        "name": "Dalian Huayi",
+        "code": null,
+        "country": "China",
+        "founded": null,
+        "national": false,
+        "logo": "5652.png",
+        "venue_id": 19670
+    },
+    {
+        "id": 5657,
+        "name": "Guangxi Baoyun",
+        "code": null,
+        "country": "China",
+        "founded": 2016,
+        "national": false,
+        "logo": "5657.png",
+        "venue_id": 193752698873
+    },
+    {
+        "id": 5658,
+        "name": "Hangzhou Wuyue Qiantang",
+        "code": null,
+        "country": "China",
+        "founded": null,
+        "national": false,
+        "logo": "5658.svg",
+        "venue_id": 121796388110
+    },
+    {
+        "id": 5660,
+        "name": "Hubei Chufeng Heli",
+        "code": null,
+        "country": "China",
+        "founded": 2016,
+        "national": false,
+        "logo": "5660.png",
+        "venue_id": 21698
+    },
+    {
+        "id": 5662,
+        "name": "Inner Mongolia Caoshang.",
+        "code": null,
+        "country": "China",
+        "founded": 2015,
+        "national": false,
+        "logo": "5662.png",
+        "venue_id": 739522512508
+    },
+    {
+        "id": 5665,
+        "name": "Jiangxi Liansheng",
+        "code": "JIA",
+        "country": "China",
+        "founded": 2002,
+        "national": false,
+        "logo": "5665.png",
+        "venue_id": 21667
+    },
+    {
+        "id": 5677,
+        "name": "Qingdao Elite United",
+        "code": null,
+        "country": "China",
+        "founded": null,
+        "national": false,
+        "logo": "5677.png",
+        "venue_id": 620217787716
+    },
+    {
+        "id": 5678,
+        "name": "Qingdao Kunpeng",
+        "code": "QIN",
+        "country": "China",
+        "founded": null,
+        "national": false,
+        "logo": "5678.svg",
+        "venue_id": 6964281741
+    },
+    {
+        "id": 5679,
+        "name": "Qingdao Red Lions",
+        "code": null,
+        "country": "China",
+        "founded": 2016,
+        "national": false,
+        "logo": "5679.png",
+        "venue_id": 2674
+    },
+    {
+        "id": 5682,
+        "name": "Shanghai Jiading",
+        "code": null,
+        "country": "China",
+        "founded": null,
+        "national": false,
+        "logo": "5682.png",
+        "venue_id": 19330
+    },
+    {
+        "id": 5684,
+        "name": "Shenyang Urban",
+        "code": null,
+        "country": "China",
+        "founded": null,
+        "national": false,
+        "logo": "5684.png",
+        "venue_id": 19329
+    },
+    {
+        "id": 5686,
+        "name": "Sichuan Jiuniu",
+        "code": null,
+        "country": "China",
+        "founded": 2006,
+        "national": false,
+        "logo": "5686.png",
+        "venue_id": 19331
+    },
+    {
+        "id": 5688,
+        "name": "Suzhou Dongwu",
+        "code": null,
+        "country": "China",
+        "founded": null,
+        "national": false,
+        "logo": "5688.png",
+        "venue_id": 11559
+    },
+    {
+        "id": 5695,
+        "name": "Wuhan Three Towns",
+        "code": null,
+        "country": "China",
+        "founded": 2013,
+        "national": false,
+        "logo": "5695.png",
+        "venue_id": 11560
+    },
+    {
+        "id": 5697,
+        "name": "Xi'an Hi-Tech Zone",
+        "code": null,
+        "country": "China",
+        "founded": null,
+        "national": false,
+        "logo": "5697.svg",
+        "venue_id": 737263317445
+    },
+    {
+        "id": 16619,
+        "name": "Nanjing City",
+        "code": null,
+        "country": "China",
+        "founded": 2014,
+        "national": false,
+        "logo": "16619.png",
+        "venue_id": 868163635195
+    },
+    {
+        "id": 17263,
+        "name": "Dongguan United",
+        "code": null,
+        "country": "China",
+        "founded": null,
+        "national": false,
+        "logo": "17263.png",
+        "venue_id": 156462650875
+    },
+    {
+        "id": 17264,
+        "name": "Hebei Kungfu",
+        "code": null,
+        "country": "China",
+        "founded": 2020,
+        "national": false,
+        "logo": "17264.png",
+        "venue_id": 128459343181
+    },
+    {
+        "id": 17265,
+        "name": "Qingdao Youth Island",
+        "code": null,
+        "country": "China",
+        "founded": 2007,
+        "national": false,
+        "logo": "17265.png",
+        "venue_id": 98175201914
+    },
+    {
+        "id": 17266,
+        "name": "Quanzhou Yassin",
+        "code": null,
+        "country": "China",
+        "founded": null,
+        "national": false,
+        "logo": "17266.png",
+        "venue_id": 19661
+    },
+    {
+        "id": 17269,
+        "name": "Wuxi Wugou",
+        "code": null,
+        "country": "China",
+        "founded": null,
+        "national": false,
+        "logo": "17269.png",
+        "venue_id": 21668
+    },
+    {
+        "id": 17271,
+        "name": "Yanbian Longding",
+        "code": null,
+        "country": "China",
+        "founded": 2017,
+        "national": false,
+        "logo": "17271.png",
+        "venue_id": 850119446478
+    },
+    {
+        "id": 17272,
+        "name": "Yichun Grand Tiger",
+        "code": null,
+        "country": "China",
+        "founded": null,
+        "national": false,
+        "logo": "17272.png",
+        "venue_id": 21699
+    },
+    {
+        "id": 19317,
+        "name": "Hainan Star",
+        "code": null,
+        "country": "China",
+        "founded": 2017,
+        "national": false,
+        "logo": "19317.png",
+        "venue_id": 21700
+    },
+    {
+        "id": 19319,
+        "name": "Nantong Haimen Codion",
+        "code": null,
+        "country": "China",
+        "founded": null,
+        "national": false,
+        "logo": "19319.png",
+        "venue_id": 19664
+    },
+    {
+        "id": 19320,
+        "name": "Shangyu Pterosaur",
+        "code": null,
+        "country": "China",
+        "founded": 2017,
+        "national": false,
+        "logo": "19320.png",
+        "venue_id": 21684
+    },
+    {
+        "id": 19321,
+        "name": "Tai'an Tiankuang",
+        "code": null,
+        "country": "China",
+        "founded": null,
+        "national": false,
+        "logo": "19321.png",
+        "venue_id": 19666
+    },
+    {
+        "id": 20674,
+        "name": "Xi'an Ronghai",
+        "code": null,
+        "country": "China",
+        "founded": 2021,
+        "national": false,
+        "logo": "20674.png",
+        "venue_id": 21685
+    },
+    {
+        "id": 21262,
+        "name": "Chongqing Tongliang Long",
+        "code": null,
+        "country": "China",
+        "founded": null,
+        "national": false,
+        "logo": "21262.png",
+        "venue_id": 19669
+    },
+    {
+        "id": 21263,
+        "name": "Dalian Zhixing",
+        "code": null,
+        "country": "China",
+        "founded": 2021,
+        "national": false,
+        "logo": "21263.png",
+        "venue_id": 19670
+    },
+    {
+        "id": 21264,
+        "name": "Guangxi Lanhang",
+        "code": null,
+        "country": "China",
+        "founded": 2020,
+        "national": false,
+        "logo": "21264.png",
+        "venue_id": 193752698873
+    },
+    {
+        "id": 21265,
+        "name": "Yunnan Yukun",
+        "code": null,
+        "country": "China",
+        "founded": 2021,
+        "national": false,
+        "logo": "21265.png",
+        "venue_id": 19672
+    },
+    {
+        "id": 21322,
+        "name": "Changle Jingangtui",
+        "code": null,
+        "country": "China",
+        "founded": null,
+        "national": false,
+        "logo": "21322.svg",
+        "venue_id": 86479132001
+    },
+    {
+        "id": 21325,
+        "name": "Ningxia Renfangzhong",
+        "code": null,
+        "country": "China",
+        "founded": null,
+        "national": false,
+        "logo": "21325.svg",
+        "venue_id": 937314283340
+    },
+    {
+        "id": 21327,
+        "name": "Qujing Yibu",
+        "code": null,
+        "country": "China",
+        "founded": null,
+        "national": false,
+        "logo": "21327.svg",
+        "venue_id": 118824782232
+    },
+    {
+        "id": 21328,
+        "name": "Rizhao Yuqi",
+        "code": null,
+        "country": "China",
+        "founded": 2014,
+        "national": false,
+        "logo": "21328.png",
+        "venue_id": 21687
+    },
+    {
+        "id": 21331,
+        "name": "Shanxi Longchengren",
+        "code": null,
+        "country": "China",
+        "founded": null,
+        "national": false,
+        "logo": "21331.svg",
+        "venue_id": 881731162936
+    },
+    {
+        "id": 21333,
+        "name": "Wuhan Xiaoma Guohe",
+        "code": null,
+        "country": "China",
+        "founded": null,
+        "national": false,
+        "logo": "21333.svg",
+        "venue_id": 874874770896
+    },
+    {
+        "id": 23132,
+        "name": "Changchun Xidu",
+        "code": null,
+        "country": "China",
+        "founded": 2021,
+        "national": false,
+        "logo": "23132.svg",
+        "venue_id": 21688
+    },
+    {
+        "id": 23133,
+        "name": "Changning Flying Lions",
+        "code": null,
+        "country": "China",
+        "founded": null,
+        "national": false,
+        "logo": "23133.svg",
+        "venue_id": 661069451862
+    },
+    {
+        "id": 23134,
+        "name": "Chunlei",
+        "code": null,
+        "country": "China",
+        "founded": null,
+        "national": false,
+        "logo": "23134.svg",
+        "venue_id": 38423284823
+    },
+    {
+        "id": 23135,
+        "name": "Fujian Quanzhou Qinggong",
+        "code": null,
+        "country": "China",
+        "founded": null,
+        "national": false,
+        "logo": "23135.svg",
+        "venue_id": 529000156633
+    },
+    {
+        "id": 23136,
+        "name": "Gannan 92 United",
+        "code": null,
+        "country": "China",
+        "founded": null,
+        "national": false,
+        "logo": "23136.svg",
+        "venue_id": 414739345069
+    },
+    {
+        "id": 23137,
+        "name": "Guangdong Shudihong",
+        "code": null,
+        "country": "China",
+        "founded": null,
+        "national": false,
+        "logo": "23137.svg",
+        "venue_id": 769566401667
+    },
+    {
+        "id": 23138,
+        "name": "Guangxi Bushan",
+        "code": null,
+        "country": "China",
+        "founded": null,
+        "national": false,
+        "logo": "23138.svg",
+        "venue_id": 188613870961
+    },
+    {
+        "id": 23139,
+        "name": "Haishan",
+        "code": null,
+        "country": "China",
+        "founded": null,
+        "national": false,
+        "logo": "23139.svg",
+        "venue_id": 991554278764
+    },
+    {
+        "id": 23140,
+        "name": "Jiangsu Nan Dongsheng",
+        "code": null,
+        "country": "China",
+        "founded": null,
+        "national": false,
+        "logo": "23140.svg",
+        "venue_id": 919193210231
+    },
+    {
+        "id": 23141,
+        "name": "Lanzhou Hailu",
+        "code": null,
+        "country": "China",
+        "founded": null,
+        "national": false,
+        "logo": "23141.svg",
+        "venue_id": 415809176377
+    },
+    {
+        "id": 23142,
+        "name": "Lujian Tiancheng",
+        "code": null,
+        "country": "China",
+        "founded": null,
+        "national": false,
+        "logo": "23142.svg",
+        "venue_id": 664479490672
+    },
+    {
+        "id": 23143,
+        "name": "Nanning Juding",
+        "code": null,
+        "country": "China",
+        "founded": null,
+        "national": false,
+        "logo": "23143.svg",
+        "venue_id": 193752698873
+    },
+    {
+        "id": 23144,
+        "name": "Ningo Shoufa",
+        "code": null,
+        "country": "China",
+        "founded": null,
+        "national": false,
+        "logo": "23144.svg",
+        "venue_id": 734567833154
+    },
+    {
+        "id": 23145,
+        "name": "Ningxia Pingluo",
+        "code": null,
+        "country": "China",
+        "founded": null,
+        "national": false,
+        "logo": "23145.svg",
+        "venue_id": 914239111071
+    },
+    {
+        "id": 23146,
+        "name": "Qianxinan Xu Fengtang",
+        "code": null,
+        "country": "China",
+        "founded": null,
+        "national": false,
+        "logo": "23146.svg",
+        "venue_id": 911051369227
+    },
+    {
+        "id": 23147,
+        "name": "Shanghai Segenda",
+        "code": null,
+        "country": "China",
+        "founded": null,
+        "national": false,
+        "logo": "23147.svg",
+        "venue_id": 288601252130
+    },
+    {
+        "id": 23148,
+        "name": "Shanghai Tongji",
+        "code": null,
+        "country": "China",
+        "founded": null,
+        "national": false,
+        "logo": "23148.svg",
+        "venue_id": 235822150444
+    },
+    {
+        "id": 23149,
+        "name": "Shanxi Xiangyu",
+        "code": null,
+        "country": "China",
+        "founded": null,
+        "national": false,
+        "logo": "23149.svg",
+        "venue_id": 947869578967
+    },
+    {
+        "id": 23150,
+        "name": "Shenzhen Jixiang",
+        "code": null,
+        "country": "China",
+        "founded": null,
+        "national": false,
+        "logo": "23150.svg",
+        "venue_id": 34177466590
+    },
+    {
+        "id": 23265,
+        "name": "Shenzhen Juniors",
+        "code": null,
+        "country": "China",
+        "founded": null,
+        "national": false,
+        "logo": "23265.png",
+        "venue_id": 688605075054
+    },
+    {
+        "id": 23268,
+        "name": "Guangxi Hengchen",
+        "code": null,
+        "country": "China",
+        "founded": 2021,
+        "national": false,
+        "logo": "23268.png",
+        "venue_id": 21689
+    },
+    {
+        "id": 23269,
+        "name": "Guangzhou E-Power",
+        "code": null,
+        "country": "China",
+        "founded": null,
+        "national": false,
+        "logo": "23269.png",
+        "venue_id": 169123683815
+    },
+    {
+        "id": 23270,
+        "name": "Langfang Glory City",
+        "code": null,
+        "country": "China",
+        "founded": 2022,
+        "national": false,
+        "logo": "23270.png",
+        "venue_id": 21690
+    },
+    {
+        "id": 23286,
+        "name": "Shaanxi Union",
+        "code": null,
+        "country": "China",
+        "founded": null,
+        "national": false,
+        "logo": "23286.png",
+        "venue_id": 665128440499
+    },
+    {
+        "id": 23288,
+        "name": "Shandong Taishan II",
+        "code": null,
+        "country": "China",
+        "founded": 1988,
+        "national": false,
+        "logo": "23288.png",
+        "venue_id": 21691
+    },
+    {
+        "id": 23289,
+        "name": "Shanghai Port II",
+        "code": null,
+        "country": "China",
+        "founded": 2005,
+        "national": false,
+        "logo": "23289.png",
+        "venue_id": 21692
+    }
 ]

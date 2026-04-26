@@ -6,7 +6,7 @@
         "country": "Brazil",
         "founded": 1947,
         "national": false,
-        "logo": "https://media.api-sports.io/football/teams/153.png",
+        "logo": "153.svg",
         "venue_id": 246
     },
     {
@@ -16,7 +16,7 @@
         "country": "Benin",
         "founded": null,
         "national": false,
-        "logo": "https://media.api-sports.io/football/teams/5411.png",
+        "logo": "5411.png",
         "venue_id": 4079
     },
     {
@@ -26,7 +26,7 @@
         "country": "Benin",
         "founded": null,
         "national": false,
-        "logo": "https://media.api-sports.io/football/teams/5451.png",
+        "logo": "5451.png",
         "venue_id": 4113
     },
     {
@@ -36,7 +36,7 @@
         "country": "Benin",
         "founded": null,
         "national": false,
-        "logo": "https://media.api-sports.io/football/teams/5453.png",
+        "logo": "5453.png",
         "venue_id": 19315
     },
     {
@@ -46,7 +46,7 @@
         "country": "Benin",
         "founded": null,
         "national": false,
-        "logo": "https://media.api-sports.io/football/teams/5454.png",
+        "logo": "5454.png",
         "venue_id": 20367
     },
     {
@@ -56,7 +56,7 @@
         "country": "Benin",
         "founded": null,
         "national": false,
-        "logo": "https://media.api-sports.io/football/teams/5455.png",
+        "logo": "5455.png",
         "venue_id": 11491
     },
     {
@@ -66,7 +66,7 @@
         "country": "Benin",
         "founded": null,
         "national": false,
-        "logo": "https://media.api-sports.io/football/teams/5456.png",
+        "logo": "5456.png",
         "venue_id": 20368
     },
     {
@@ -76,7 +76,7 @@
         "country": "Benin",
         "founded": null,
         "national": false,
-        "logo": "https://media.api-sports.io/football/teams/5457.png",
+        "logo": "5457.png",
         "venue_id": 4105
     },
     {
@@ -86,7 +86,7 @@
         "country": "Benin",
         "founded": null,
         "national": false,
-        "logo": "https://media.api-sports.io/football/teams/5458.png",
+        "logo": "5458.png",
         "venue_id": 4106
     },
     {
@@ -96,7 +96,7 @@
         "country": "Benin",
         "founded": null,
         "national": false,
-        "logo": "https://media.api-sports.io/football/teams/5459.png",
+        "logo": "5459.png",
         "venue_id": 4107
     },
     {
@@ -106,7 +106,7 @@
         "country": "Benin",
         "founded": null,
         "national": false,
-        "logo": "https://media.api-sports.io/football/teams/5460.png",
+        "logo": "5460.png",
         "venue_id": 4108
     },
     {
@@ -116,7 +116,7 @@
         "country": "Benin",
         "founded": null,
         "national": false,
-        "logo": "https://media.api-sports.io/football/teams/5464.png",
+        "logo": "5464.png",
         "venue_id": 4111
     },
     {
@@ -126,7 +126,7 @@
         "country": "Benin",
         "founded": null,
         "national": false,
-        "logo": "https://media.api-sports.io/football/teams/5465.png",
+        "logo": "5465.png",
         "venue_id": 20369
     },
     {
@@ -136,7 +136,7 @@
         "country": "Benin",
         "founded": null,
         "national": false,
-        "logo": "https://media.api-sports.io/football/teams/5467.png",
+        "logo": "5467.svg",
         "venue_id": 4114
     },
     {
@@ -146,7 +146,7 @@
         "country": "Benin",
         "founded": null,
         "national": false,
-        "logo": "https://media.api-sports.io/football/teams/5468.png",
+        "logo": "5468.png",
         "venue_id": 11491
     },
     {
@@ -156,7 +156,7 @@
         "country": "Benin",
         "founded": null,
         "national": false,
-        "logo": "https://media.api-sports.io/football/teams/5584.png",
+        "logo": "5584.png",
         "venue_id": 4114
     },
     {
@@ -166,7 +166,7 @@
         "country": "Benin",
         "founded": null,
         "national": false,
-        "logo": "https://media.api-sports.io/football/teams/7765.png",
+        "logo": "7765.png",
         "venue_id": 4105
     },
     {
@@ -176,7 +176,7 @@
         "country": "Benin",
         "founded": null,
         "national": false,
-        "logo": "https://media.api-sports.io/football/teams/7766.png",
+        "logo": "7766.png",
         "venue_id": 21292
     },
     {
@@ -186,7 +186,7 @@
         "country": "Benin",
         "founded": null,
         "national": false,
-        "logo": "https://media.api-sports.io/football/teams/16418.png",
+        "logo": "16418.png",
         "venue_id": 4113
     },
     {
@@ -196,7 +196,7 @@
         "country": "Benin",
         "founded": null,
         "national": false,
-        "logo": "https://media.api-sports.io/football/teams/16419.png",
+        "logo": "16419.png",
         "venue_id": 19315
     },
     {
@@ -206,7 +206,7 @@
         "country": "Benin",
         "founded": null,
         "national": false,
-        "logo": "https://media.api-sports.io/football/teams/16420.png",
+        "logo": "16420.png",
         "venue_id": 19319
     },
     {
@@ -216,7 +216,7 @@
         "country": "Benin",
         "founded": null,
         "national": false,
-        "logo": "https://media.api-sports.io/football/teams/16421.png",
+        "logo": "16421.png",
         "venue_id": 20371
     },
     {
@@ -226,7 +226,7 @@
         "country": "Benin",
         "founded": null,
         "national": false,
-        "logo": "https://media.api-sports.io/football/teams/16422.png",
+        "logo": "16422.png",
         "venue_id": 20372
     },
     {
@@ -236,7 +236,7 @@
         "country": "Benin",
         "founded": null,
         "national": false,
-        "logo": "https://media.api-sports.io/football/teams/16424.png",
+        "logo": "16424.png",
         "venue_id": 19317
     },
     {
@@ -246,7 +246,7 @@
         "country": "Benin",
         "founded": null,
         "national": false,
-        "logo": "https://media.api-sports.io/football/teams/16425.png",
+        "logo": "16425.png",
         "venue_id": 20373
     },
     {
@@ -256,7 +256,7 @@
         "country": "Benin",
         "founded": null,
         "national": false,
-        "logo": "https://media.api-sports.io/football/teams/16427.png",
+        "logo": "16427.png",
         "venue_id": 19320
     },
     {
@@ -266,7 +266,7 @@
         "country": "Benin",
         "founded": null,
         "national": false,
-        "logo": "https://media.api-sports.io/football/teams/16429.png",
+        "logo": "16429.svg",
         "venue_id": 19321
     },
     {
@@ -276,7 +276,7 @@
         "country": "Benin",
         "founded": null,
         "national": false,
-        "logo": "https://media.api-sports.io/football/teams/18113.png",
+        "logo": "18113.png",
         "venue_id": 20037
     },
     {
@@ -286,7 +286,7 @@
         "country": "Benin",
         "founded": 2021,
         "national": false,
-        "logo": "https://media.api-sports.io/football/teams/18114.png",
+        "logo": "18114.png",
         "venue_id": 20030
     },
     {
@@ -296,7 +296,7 @@
         "country": "Benin",
         "founded": null,
         "national": false,
-        "logo": "https://media.api-sports.io/football/teams/18115.png",
+        "logo": "18115.png",
         "venue_id": 4114
     },
     {
@@ -306,7 +306,7 @@
         "country": "Benin",
         "founded": null,
         "national": false,
-        "logo": "https://media.api-sports.io/football/teams/20668.png",
+        "logo": "20668.png",
         "venue_id": 20374
     },
     {
@@ -316,7 +316,7 @@
         "country": "Benin",
         "founded": 2021,
         "national": false,
-        "logo": "https://media.api-sports.io/football/teams/20669.png",
+        "logo": "20669.png",
         "venue_id": 20375
     },
     {
@@ -326,7 +326,7 @@
         "country": "Benin",
         "founded": null,
         "national": false,
-        "logo": "https://media.api-sports.io/football/teams/20670.png",
+        "logo": "20670.png",
         "venue_id": 20037
     },
     {
@@ -336,7 +336,7 @@
         "country": "Benin",
         "founded": null,
         "national": false,
-        "logo": "https://media.api-sports.io/football/teams/22597.png",
+        "logo": "22597.png",
         "venue_id": 21293
     },
     {
@@ -346,7 +346,7 @@
         "country": "Benin",
         "founded": null,
         "national": false,
-        "logo": "https://media.api-sports.io/football/teams/25025.png",
+        "logo": "25025.png",
         "venue_id": 215976685871
     }
 ]

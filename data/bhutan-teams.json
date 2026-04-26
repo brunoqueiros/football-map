@@ -6,7 +6,7 @@
         "country": "Bhutan",
         "founded": null,
         "national": true,
-        "logo": "https://media.api-sports.io/football/teams/5433.png",
+        "logo": "5433.png",
         "venue_id": 913756327059
     },
     {
@@ -16,7 +16,7 @@
         "country": "Bhutan",
         "founded": 2016,
         "national": false,
-        "logo": "https://media.api-sports.io/football/teams/5590.png",
+        "logo": "5590.png",
         "venue_id": 21632
     },
     {
@@ -26,7 +26,7 @@
         "country": "Bhutan",
         "founded": 2011,
         "national": false,
-        "logo": "https://media.api-sports.io/football/teams/5592.png",
+        "logo": "5592.png",
         "venue_id": 21632
     },
     {
@@ -36,7 +36,7 @@
         "country": "Bhutan",
         "founded": 2000,
         "national": false,
-        "logo": "https://media.api-sports.io/football/teams/5593.png",
+        "logo": "5593.svg",
         "venue_id": 21632
     },
     {
@@ -46,7 +46,7 @@
         "country": "Bhutan",
         "founded": null,
         "national": false,
-        "logo": "https://media.api-sports.io/football/teams/9426.png",
+        "logo": "9426.png",
         "venue_id": 20179
     },
     {
@@ -56,7 +56,7 @@
         "country": "Bhutan",
         "founded": null,
         "national": false,
-        "logo": "https://media.api-sports.io/football/teams/19005.png",
+        "logo": "19005.png",
         "venue_id": 20180
     },
     {
@@ -66,7 +66,7 @@
         "country": "Bhutan",
         "founded": null,
         "national": false,
-        "logo": "https://media.api-sports.io/football/teams/21275.png",
+        "logo": "21275.png",
         "venue_id": 20707
     },
     {
@@ -76,7 +76,7 @@
         "country": "Bhutan",
         "founded": null,
         "national": false,
-        "logo": "https://media.api-sports.io/football/teams/21277.png",
+        "logo": "21277.png",
         "venue_id": 192686122724
     },
     {
@@ -86,7 +86,7 @@
         "country": "Bhutan",
         "founded": null,
         "national": false,
-        "logo": "https://media.api-sports.io/football/teams/23606.png",
+        "logo": "23606.png",
         "venue_id": 450911895166
     },
     {
@@ -96,7 +96,7 @@
         "country": "Bhutan",
         "founded": null,
         "national": false,
-        "logo": "https://media.api-sports.io/football/teams/23607.png",
+        "logo": "23607.png",
         "venue_id": 504804070725
     }
 ]

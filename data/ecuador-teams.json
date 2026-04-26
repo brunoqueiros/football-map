@@ -1,512 +1,512 @@
 [
-  {
-    "id": 1148,
-    "name": "Emelec",
-    "code": "EME",
-    "country": "Ecuador",
-    "founded": 1929,
-    "national": false,
-    "logo": "https://media.api-sports.io/football/teams/1148.png",
-    "venue_id": 18579
-  },
-  {
-    "id": 1149,
-    "name": "Delfin SC",
-    "code": null,
-    "country": "Ecuador",
-    "founded": 1989,
-    "national": false,
-    "logo": "https://media.api-sports.io/football/teams/1149.png",
-    "venue_id": 467
-  },
-  {
-    "id": 1150,
-    "name": "El Nacional",
-    "code": "NAC",
-    "country": "Ecuador",
-    "founded": 1964,
-    "national": false,
-    "logo": "https://media.api-sports.io/football/teams/1150.png",
-    "venue_id": 465
-  },
-  {
-    "id": 1151,
-    "name": "Tecnico Universitario",
-    "code": null,
-    "country": "Ecuador",
-    "founded": 1971,
-    "national": false,
-    "logo": "https://media.api-sports.io/football/teams/1151.png",
-    "venue_id": 474
-  },
-  {
-    "id": 1152,
-    "name": "Barcelona SC",
-    "code": "BAR",
-    "country": "Ecuador",
-    "founded": 1925,
-    "national": false,
-    "logo": "https://media.api-sports.io/football/teams/1152.png",
-    "venue_id": 466
-  },
-  {
-    "id": 1153,
-    "name": "Independiente del Valle",
-    "code": "IND",
-    "country": "Ecuador",
-    "founded": 1958,
-    "national": false,
-    "logo": "https://media.api-sports.io/football/teams/1153.png",
-    "venue_id": 18580
-  },
-  {
-    "id": 1154,
-    "name": "Deportivo Cuenca",
-    "code": "CUE",
-    "country": "Ecuador",
-    "founded": 1971,
-    "national": false,
-    "logo": "https://media.api-sports.io/football/teams/1154.png",
-    "venue_id": 468
-  },
-  {
-    "id": 1155,
-    "name": "Macara",
-    "code": "MAC",
-    "country": "Ecuador",
-    "founded": 1939,
-    "national": false,
-    "logo": "https://media.api-sports.io/football/teams/1155.png",
-    "venue_id": 474
-  },
-  {
-    "id": 1156,
-    "name": "Aucas",
-    "code": null,
-    "country": "Ecuador",
-    "founded": 1945,
-    "national": false,
-    "logo": "https://media.api-sports.io/football/teams/1156.png",
-    "venue_id": 19380
-  },
-  {
-    "id": 1157,
-    "name": "Universidad Catolica",
-    "code": null,
-    "country": "Ecuador",
-    "founded": 1963,
-    "national": false,
-    "logo": "https://media.api-sports.io/football/teams/1157.png",
-    "venue_id": 465
-  },
-  {
-    "id": 1158,
-    "name": "LDU de Quito",
-    "code": "QUI",
-    "country": "Ecuador",
-    "founded": 1930,
-    "national": false,
-    "logo": "https://media.api-sports.io/football/teams/1158.png",
-    "venue_id": 471
-  },
-  {
-    "id": 1159,
-    "name": "Guayaquil City FC",
-    "code": null,
-    "country": "Ecuador",
-    "founded": 2007,
-    "national": false,
-    "logo": "https://media.api-sports.io/football/teams/1159.png",
-    "venue_id": 1702
-  },
-  {
-    "id": 1162,
-    "name": "Mushuc Runa SC",
-    "code": "MUS",
-    "country": "Ecuador",
-    "founded": 2003,
-    "national": false,
-    "logo": "https://media.api-sports.io/football/teams/1162.png",
-    "venue_id": 19450
-  },
-  {
-    "id": 1980,
-    "name": "Manta FC",
-    "code": "MAN",
-    "country": "Ecuador",
-    "founded": 1998,
-    "national": false,
-    "logo": "https://media.api-sports.io/football/teams/1980.png",
-    "venue_id": 467
-  },
-  {
-    "id": 1983,
-    "name": "Imbabura",
-    "code": null,
-    "country": "Ecuador",
-    "founded": 1993,
-    "national": false,
-    "logo": "https://media.api-sports.io/football/teams/1983.png",
-    "venue_id": 2683
-  },
-  {
-    "id": 1985,
-    "name": "CD Olmedo",
-    "code": "OLM",
-    "country": "Ecuador",
-    "founded": 1919,
-    "national": false,
-    "logo": "https://media.api-sports.io/football/teams/1985.png",
-    "venue_id": 475
-  },
-  {
-    "id": 1986,
-    "name": "Gualaceo SC",
-    "code": null,
-    "country": "Ecuador",
-    "founded": 2000,
-    "national": false,
-    "logo": "https://media.api-sports.io/football/teams/1986.png",
-    "venue_id": 21645
-  },
-  {
-    "id": 1988,
-    "name": "LDU Portoviejo",
-    "code": null,
-    "country": "Ecuador",
-    "founded": 1969,
-    "national": false,
-    "logo": "https://media.api-sports.io/football/teams/1988.png",
-    "venue_id": 473
-  },
-  {
-    "id": 1992,
-    "name": "Orense SC",
-    "code": null,
-    "country": "Ecuador",
-    "founded": null,
-    "national": false,
-    "logo": "https://media.api-sports.io/football/teams/1992.png",
-    "venue_id": 1837
-  },
-  {
-    "id": 2238,
-    "name": "Ind. Juniors",
-    "code": null,
-    "country": "Ecuador",
-    "founded": 2007,
-    "national": false,
-    "logo": "https://media.api-sports.io/football/teams/2238.png",
-    "venue_id": 8538
-  },
-  {
-    "id": 10111,
-    "name": "9 de Octubre",
-    "code": null,
-    "country": "Ecuador",
-    "founded": 1926,
-    "national": false,
-    "logo": "https://media.api-sports.io/football/teams/10111.png",
-    "venue_id": 21647
-  },
-  {
-    "id": 16476,
-    "name": "Cumbayá",
-    "code": null,
-    "country": "Ecuador",
-    "founded": 2013,
-    "national": false,
-    "logo": "https://media.api-sports.io/football/teams/16476.png",
-    "venue_id": 465
-  },
-  {
-    "id": 18762,
-    "name": "Libertad",
-    "code": null,
-    "country": "Ecuador",
-    "founded": 2017,
-    "national": false,
-    "logo": "https://media.api-sports.io/football/teams/18762.png",
-    "venue_id": 472
-  },
-  {
-    "id": 19034,
-    "name": "Leones del Norte",
-    "code": null,
-    "country": "Ecuador",
-    "founded": 2017,
-    "national": false,
-    "logo": "https://media.api-sports.io/football/teams/19034.png",
-    "venue_id": 2683
-  },
-  {
-    "id": 19038,
-    "name": "Quito",
-    "code": null,
-    "country": "Ecuador",
-    "founded": null,
-    "national": false,
-    "logo": "https://media.api-sports.io/football/teams/19038.png",
-    "venue_id": 778448949095
-  },
-  {
-    "id": 19039,
-    "name": "Río Aguarico",
-    "code": null,
-    "country": "Ecuador",
-    "founded": null,
-    "national": false,
-    "logo": "https://media.api-sports.io/football/teams/19039.png",
-    "venue_id": 577633471278
-  },
-  {
-    "id": 19414,
-    "name": "Santo Domingo",
-    "code": null,
-    "country": "Ecuador",
-    "founded": null,
-    "national": false,
-    "logo": "https://media.api-sports.io/football/teams/19414.png",
-    "venue_id": 423399365504
-  },
-  {
-    "id": 21103,
-    "name": "Cuniburo",
-    "code": null,
-    "country": "Ecuador",
-    "founded": null,
-    "national": false,
-    "logo": "https://media.api-sports.io/football/teams/21103.png",
-    "venue_id": 767109070367
-  },
-  {
-    "id": 23310,
-    "name": "San Antonio",
-    "code": null,
-    "country": "Ecuador",
-    "founded": 2012,
-    "national": false,
-    "logo": "https://media.api-sports.io/football/teams/23310.png",
-    "venue_id": 2683
-  },
-  {
-    "id": 24063,
-    "name": "Baños Ciudad de Fuego",
-    "code": null,
-    "country": "Ecuador",
-    "founded": 2016,
-    "national": false,
-    "logo": "https://media.api-sports.io/football/teams/24063.png",
-    "venue_id": 222127909769
-  },
-  {
-    "id": 24064,
-    "name": "Deportivo Coca",
-    "code": null,
-    "country": "Ecuador",
-    "founded": 1999,
-    "national": false,
-    "logo": "https://media.api-sports.io/football/teams/24064.png",
-    "venue_id": 21779
-  },
-  {
-    "id": 24065,
-    "name": "Ecuagenera",
-    "code": null,
-    "country": "Ecuador",
-    "founded": null,
-    "national": false,
-    "logo": "https://media.api-sports.io/football/teams/24065.png",
-    "venue_id": 124508566670
-  },
-  {
-    "id": 24067,
-    "name": "La Cantera de Pastaza",
-    "code": null,
-    "country": "Ecuador",
-    "founded": null,
-    "national": false,
-    "logo": "https://media.api-sports.io/football/teams/24067.png",
-    "venue_id": 647929568568
-  },
-  {
-    "id": 24069,
-    "name": "Mineros",
-    "code": null,
-    "country": "Ecuador",
-    "founded": 2008,
-    "national": false,
-    "logo": "https://media.api-sports.io/football/teams/24069.png",
-    "venue_id": 21780
-  },
-  {
-    "id": 25736,
-    "name": "22 de Julio",
-    "code": null,
-    "country": "Ecuador",
-    "founded": 2020,
-    "national": false,
-    "logo": "https://media.api-sports.io/football/teams/25736.png",
-    "venue_id": 21649
-  },
-  {
-    "id": 25737,
-    "name": "Atlético Vinotinto",
-    "code": null,
-    "country": "Ecuador",
-    "founded": 2022,
-    "national": false,
-    "logo": "https://media.api-sports.io/football/teams/25737.png",
-    "venue_id": 465
-  },
-  {
-    "id": 26031,
-    "name": "Deportivo Cuenca Juniors",
-    "code": null,
-    "country": "Ecuador",
-    "founded": null,
-    "national": false,
-    "logo": "https://media.api-sports.io/football/teams/26031.png",
-    "venue_id": 217591475497
-  },
-  {
-    "id": 26032,
-    "name": "Deportivo Ibarra",
-    "code": null,
-    "country": "Ecuador",
-    "founded": null,
-    "national": false,
-    "logo": "https://media.api-sports.io/football/teams/26032.png",
-    "venue_id": 227713862043
-  },
-  {
-    "id": 26033,
-    "name": "Deportivo Panamericana",
-    "code": null,
-    "country": "Ecuador",
-    "founded": null,
-    "national": false,
-    "logo": "https://media.api-sports.io/football/teams/26033.png",
-    "venue_id": 267011662397
-  },
-  {
-    "id": 26034,
-    "name": "Deportivo San Camilo",
-    "code": null,
-    "country": "Ecuador",
-    "founded": null,
-    "national": false,
-    "logo": "https://media.api-sports.io/football/teams/26034.png",
-    "venue_id": 599027948954
-  },
-  {
-    "id": 26035,
-    "name": "Huaquillas",
-    "code": null,
-    "country": "Ecuador",
-    "founded": null,
-    "national": false,
-    "logo": "https://media.api-sports.io/football/teams/26035.png",
-    "venue_id": 493334374680
-  },
-  {
-    "id": 26036,
-    "name": "La Troncal FC",
-    "code": null,
-    "country": "Ecuador",
-    "founded": null,
-    "national": false,
-    "logo": "https://media.api-sports.io/football/teams/26036.png",
-    "venue_id": 126744532919
-  },
-  {
-    "id": 26037,
-    "name": "Liga de Macas",
-    "code": null,
-    "country": "Ecuador",
-    "founded": null,
-    "national": false,
-    "logo": "https://media.api-sports.io/football/teams/26037.png",
-    "venue_id": 274449464312
-  },
-  {
-    "id": 26038,
-    "name": "Luz Valdivia",
-    "code": null,
-    "country": "Ecuador",
-    "founded": null,
-    "national": false,
-    "logo": "https://media.api-sports.io/football/teams/26038.png",
-    "venue_id": 732728582499
-  },
-  {
-    "id": 26039,
-    "name": "Miguel Iturralde",
-    "code": null,
-    "country": "Ecuador",
-    "founded": null,
-    "national": false,
-    "logo": "https://media.api-sports.io/football/teams/26039.png",
-    "venue_id": 698411342205
-  },
-  {
-    "id": 26040,
-    "name": "Montúfar",
-    "code": null,
-    "country": "Ecuador",
-    "founded": null,
-    "national": false,
-    "logo": "https://media.api-sports.io/football/teams/26040.png",
-    "venue_id": 864223491259
-  },
-  {
-    "id": 26041,
-    "name": "Patria",
-    "code": null,
-    "country": "Ecuador",
-    "founded": null,
-    "national": false,
-    "logo": "https://media.api-sports.io/football/teams/26041.png",
-    "venue_id": 812414450801
-  },
-  {
-    "id": 26042,
-    "name": "Sembrando Buenos",
-    "code": null,
-    "country": "Ecuador",
-    "founded": null,
-    "national": false,
-    "logo": "https://media.api-sports.io/football/teams/26042.png",
-    "venue_id": 423399365504
-  },
-  {
-    "id": 26043,
-    "name": "Sportivo Loja",
-    "code": null,
-    "country": "Ecuador",
-    "founded": null,
-    "national": false,
-    "logo": "https://media.api-sports.io/football/teams/26043.png",
-    "venue_id": 62387615441
-  },
-  {
-    "id": 10112,
-    "name": "Chacaritas",
-    "code": null,
-    "country": "Ecuador",
-    "founded": 1961,
-    "national": false,
-    "logo": "https://media.api-sports.io/football/teams/10112.png",
-    "venue_id": 21648
-  },
-  {
-    "id": 19042,
-    "name": "Vargas Torres",
-    "code": null,
-    "country": "Ecuador",
-    "founded": null,
-    "national": false,
-    "logo": "https://media.api-sports.io/football/teams/19042.png",
-    "venue_id": 21649
-  }
+    {
+        "id": 1148,
+        "name": "Emelec",
+        "code": "EME",
+        "country": "Ecuador",
+        "founded": 1929,
+        "national": false,
+        "logo": "1148.png",
+        "venue_id": 18579
+    },
+    {
+        "id": 1149,
+        "name": "Delfin SC",
+        "code": null,
+        "country": "Ecuador",
+        "founded": 1989,
+        "national": false,
+        "logo": "1149.png",
+        "venue_id": 467
+    },
+    {
+        "id": 1150,
+        "name": "El Nacional",
+        "code": "NAC",
+        "country": "Ecuador",
+        "founded": 1964,
+        "national": false,
+        "logo": "1150.png",
+        "venue_id": 465
+    },
+    {
+        "id": 1151,
+        "name": "Tecnico Universitario",
+        "code": null,
+        "country": "Ecuador",
+        "founded": 1971,
+        "national": false,
+        "logo": "1151.png",
+        "venue_id": 474
+    },
+    {
+        "id": 1152,
+        "name": "Barcelona SC",
+        "code": "BAR",
+        "country": "Ecuador",
+        "founded": 1925,
+        "national": false,
+        "logo": "1152.png",
+        "venue_id": 466
+    },
+    {
+        "id": 1153,
+        "name": "Independiente del Valle",
+        "code": "IND",
+        "country": "Ecuador",
+        "founded": 1958,
+        "national": false,
+        "logo": "1153.png",
+        "venue_id": 18580
+    },
+    {
+        "id": 1154,
+        "name": "Deportivo Cuenca",
+        "code": "CUE",
+        "country": "Ecuador",
+        "founded": 1971,
+        "national": false,
+        "logo": "1154.png",
+        "venue_id": 468
+    },
+    {
+        "id": 1155,
+        "name": "Macara",
+        "code": "MAC",
+        "country": "Ecuador",
+        "founded": 1939,
+        "national": false,
+        "logo": "1155.png",
+        "venue_id": 474
+    },
+    {
+        "id": 1156,
+        "name": "Aucas",
+        "code": null,
+        "country": "Ecuador",
+        "founded": 1945,
+        "national": false,
+        "logo": "1156.png",
+        "venue_id": 19380
+    },
+    {
+        "id": 1157,
+        "name": "Universidad Catolica",
+        "code": null,
+        "country": "Ecuador",
+        "founded": 1963,
+        "national": false,
+        "logo": "1157.png",
+        "venue_id": 465
+    },
+    {
+        "id": 1158,
+        "name": "LDU de Quito",
+        "code": "QUI",
+        "country": "Ecuador",
+        "founded": 1930,
+        "national": false,
+        "logo": "1158.png",
+        "venue_id": 471
+    },
+    {
+        "id": 1159,
+        "name": "Guayaquil City FC",
+        "code": null,
+        "country": "Ecuador",
+        "founded": 2007,
+        "national": false,
+        "logo": "1159.png",
+        "venue_id": 1702
+    },
+    {
+        "id": 1162,
+        "name": "Mushuc Runa SC",
+        "code": "MUS",
+        "country": "Ecuador",
+        "founded": 2003,
+        "national": false,
+        "logo": "1162.png",
+        "venue_id": 19450
+    },
+    {
+        "id": 1980,
+        "name": "Manta FC",
+        "code": "MAN",
+        "country": "Ecuador",
+        "founded": 1998,
+        "national": false,
+        "logo": "1980.png",
+        "venue_id": 467
+    },
+    {
+        "id": 1983,
+        "name": "Imbabura",
+        "code": null,
+        "country": "Ecuador",
+        "founded": 1993,
+        "national": false,
+        "logo": "1983.png",
+        "venue_id": 2683
+    },
+    {
+        "id": 1985,
+        "name": "CD Olmedo",
+        "code": "OLM",
+        "country": "Ecuador",
+        "founded": 1919,
+        "national": false,
+        "logo": "1985.png",
+        "venue_id": 475
+    },
+    {
+        "id": 1986,
+        "name": "Gualaceo SC",
+        "code": null,
+        "country": "Ecuador",
+        "founded": 2000,
+        "national": false,
+        "logo": "1986.png",
+        "venue_id": 21645
+    },
+    {
+        "id": 1988,
+        "name": "LDU Portoviejo",
+        "code": null,
+        "country": "Ecuador",
+        "founded": 1969,
+        "national": false,
+        "logo": "1988.png",
+        "venue_id": 473
+    },
+    {
+        "id": 1992,
+        "name": "Orense SC",
+        "code": null,
+        "country": "Ecuador",
+        "founded": null,
+        "national": false,
+        "logo": "1992.png",
+        "venue_id": 1837
+    },
+    {
+        "id": 2238,
+        "name": "Ind. Juniors",
+        "code": null,
+        "country": "Ecuador",
+        "founded": 2007,
+        "national": false,
+        "logo": "2238.png",
+        "venue_id": 8538
+    },
+    {
+        "id": 10111,
+        "name": "9 de Octubre",
+        "code": null,
+        "country": "Ecuador",
+        "founded": 1926,
+        "national": false,
+        "logo": "10111.png",
+        "venue_id": 21647
+    },
+    {
+        "id": 16476,
+        "name": "Cumbayá",
+        "code": null,
+        "country": "Ecuador",
+        "founded": 2013,
+        "national": false,
+        "logo": "16476.png",
+        "venue_id": 465
+    },
+    {
+        "id": 18762,
+        "name": "Libertad",
+        "code": null,
+        "country": "Ecuador",
+        "founded": 2017,
+        "national": false,
+        "logo": "18762.png",
+        "venue_id": 472
+    },
+    {
+        "id": 19034,
+        "name": "Leones del Norte",
+        "code": null,
+        "country": "Ecuador",
+        "founded": 2017,
+        "national": false,
+        "logo": "19034.png",
+        "venue_id": 2683
+    },
+    {
+        "id": 19038,
+        "name": "Quito",
+        "code": null,
+        "country": "Ecuador",
+        "founded": null,
+        "national": false,
+        "logo": "19038.svg",
+        "venue_id": 778448949095
+    },
+    {
+        "id": 19039,
+        "name": "Río Aguarico",
+        "code": null,
+        "country": "Ecuador",
+        "founded": null,
+        "national": false,
+        "logo": "19039.svg",
+        "venue_id": 577633471278
+    },
+    {
+        "id": 19414,
+        "name": "Santo Domingo",
+        "code": null,
+        "country": "Ecuador",
+        "founded": null,
+        "national": false,
+        "logo": "19414.svg",
+        "venue_id": 423399365504
+    },
+    {
+        "id": 21103,
+        "name": "Cuniburo",
+        "code": null,
+        "country": "Ecuador",
+        "founded": null,
+        "national": false,
+        "logo": "21103.png",
+        "venue_id": 767109070367
+    },
+    {
+        "id": 23310,
+        "name": "San Antonio",
+        "code": null,
+        "country": "Ecuador",
+        "founded": 2012,
+        "national": false,
+        "logo": "23310.png",
+        "venue_id": 2683
+    },
+    {
+        "id": 24063,
+        "name": "Baños Ciudad de Fuego",
+        "code": null,
+        "country": "Ecuador",
+        "founded": 2016,
+        "national": false,
+        "logo": "24063.png",
+        "venue_id": 222127909769
+    },
+    {
+        "id": 24064,
+        "name": "Deportivo Coca",
+        "code": null,
+        "country": "Ecuador",
+        "founded": 1999,
+        "national": false,
+        "logo": "24064.png",
+        "venue_id": 21779
+    },
+    {
+        "id": 24065,
+        "name": "Ecuagenera",
+        "code": null,
+        "country": "Ecuador",
+        "founded": null,
+        "national": false,
+        "logo": "24065.svg",
+        "venue_id": 124508566670
+    },
+    {
+        "id": 24067,
+        "name": "La Cantera de Pastaza",
+        "code": null,
+        "country": "Ecuador",
+        "founded": null,
+        "national": false,
+        "logo": "24067.png",
+        "venue_id": 647929568568
+    },
+    {
+        "id": 24069,
+        "name": "Mineros",
+        "code": null,
+        "country": "Ecuador",
+        "founded": 2008,
+        "national": false,
+        "logo": "24069.png",
+        "venue_id": 21780
+    },
+    {
+        "id": 25736,
+        "name": "22 de Julio",
+        "code": null,
+        "country": "Ecuador",
+        "founded": 2020,
+        "national": false,
+        "logo": "25736.png",
+        "venue_id": 21649
+    },
+    {
+        "id": 25737,
+        "name": "Atlético Vinotinto",
+        "code": null,
+        "country": "Ecuador",
+        "founded": 2022,
+        "national": false,
+        "logo": "25737.svg",
+        "venue_id": 465
+    },
+    {
+        "id": 26031,
+        "name": "Deportivo Cuenca Juniors",
+        "code": null,
+        "country": "Ecuador",
+        "founded": null,
+        "national": false,
+        "logo": "26031.png",
+        "venue_id": 217591475497
+    },
+    {
+        "id": 26032,
+        "name": "Deportivo Ibarra",
+        "code": null,
+        "country": "Ecuador",
+        "founded": null,
+        "national": false,
+        "logo": "26032.png",
+        "venue_id": 227713862043
+    },
+    {
+        "id": 26033,
+        "name": "Deportivo Panamericana",
+        "code": null,
+        "country": "Ecuador",
+        "founded": null,
+        "national": false,
+        "logo": "26033.png",
+        "venue_id": 267011662397
+    },
+    {
+        "id": 26034,
+        "name": "Deportivo San Camilo",
+        "code": null,
+        "country": "Ecuador",
+        "founded": null,
+        "national": false,
+        "logo": "26034.png",
+        "venue_id": 599027948954
+    },
+    {
+        "id": 26035,
+        "name": "Huaquillas",
+        "code": null,
+        "country": "Ecuador",
+        "founded": null,
+        "national": false,
+        "logo": "26035.png",
+        "venue_id": 493334374680
+    },
+    {
+        "id": 26036,
+        "name": "La Troncal FC",
+        "code": null,
+        "country": "Ecuador",
+        "founded": null,
+        "national": false,
+        "logo": "26036.png",
+        "venue_id": 126744532919
+    },
+    {
+        "id": 26037,
+        "name": "Liga de Macas",
+        "code": null,
+        "country": "Ecuador",
+        "founded": null,
+        "national": false,
+        "logo": "26037.svg",
+        "venue_id": 274449464312
+    },
+    {
+        "id": 26038,
+        "name": "Luz Valdivia",
+        "code": null,
+        "country": "Ecuador",
+        "founded": null,
+        "national": false,
+        "logo": "26038.png",
+        "venue_id": 732728582499
+    },
+    {
+        "id": 26039,
+        "name": "Miguel Iturralde",
+        "code": null,
+        "country": "Ecuador",
+        "founded": null,
+        "national": false,
+        "logo": "26039.svg",
+        "venue_id": 698411342205
+    },
+    {
+        "id": 26040,
+        "name": "Montúfar",
+        "code": null,
+        "country": "Ecuador",
+        "founded": null,
+        "national": false,
+        "logo": "26040.png",
+        "venue_id": 864223491259
+    },
+    {
+        "id": 26041,
+        "name": "Patria",
+        "code": null,
+        "country": "Ecuador",
+        "founded": null,
+        "national": false,
+        "logo": "26041.png",
+        "venue_id": 812414450801
+    },
+    {
+        "id": 26042,
+        "name": "Sembrando Buenos",
+        "code": null,
+        "country": "Ecuador",
+        "founded": null,
+        "national": false,
+        "logo": "26042.svg",
+        "venue_id": 423399365504
+    },
+    {
+        "id": 26043,
+        "name": "Sportivo Loja",
+        "code": null,
+        "country": "Ecuador",
+        "founded": null,
+        "national": false,
+        "logo": "26043.png",
+        "venue_id": 62387615441
+    },
+    {
+        "id": 10112,
+        "name": "Chacaritas",
+        "code": null,
+        "country": "Ecuador",
+        "founded": 1961,
+        "national": false,
+        "logo": "10112.png",
+        "venue_id": 21648
+    },
+    {
+        "id": 19042,
+        "name": "Vargas Torres",
+        "code": null,
+        "country": "Ecuador",
+        "founded": null,
+        "national": false,
+        "logo": "19042.png",
+        "venue_id": 21649
+    }
 ]

@@ -1,252 +1,252 @@
 [
-  {
-    "id": 6435,
-    "name": "TP Mazembe",
-    "code": "MAZ",
-    "country": "Congo-DR",
-    "founded": 1939,
-    "national": false,
-    "logo": "https://media.api-sports.io/football/teams/6435.png",
-    "venue_id": 4742
-  },
-  {
-    "id": 6437,
-    "name": "Vita Club",
-    "code": "VIT",
-    "country": "Congo-DR",
-    "founded": 1935,
-    "national": false,
-    "logo": "https://media.api-sports.io/football/teams/6437.png",
-    "venue_id": 4743
-  },
-  {
-    "id": 8064,
-    "name": "Maniema Union",
-    "code": null,
-    "country": "Congo-DR",
-    "founded": null,
-    "national": false,
-    "logo": "https://media.api-sports.io/football/teams/8064.png",
-    "venue_id": 10536
-  },
-  {
-    "id": 8067,
-    "name": "Motema Pembe",
-    "code": "MOT",
-    "country": "Congo-DR",
-    "founded": 1936,
-    "national": false,
-    "logo": "https://media.api-sports.io/football/teams/8067.png",
-    "venue_id": 391
-  },
-  {
-    "id": 8112,
-    "name": "Sanga Balende",
-    "code": "SAB",
-    "country": "Congo-DR",
-    "founded": null,
-    "national": false,
-    "logo": "https://media.api-sports.io/football/teams/8112.png",
-    "venue_id": 5759
-  },
-  {
-    "id": 8571,
-    "name": "Don Bosco",
-    "code": null,
-    "country": "Congo-DR",
-    "founded": null,
-    "national": false,
-    "logo": "https://media.api-sports.io/football/teams/8571.png",
-    "venue_id": 6113
-  },
-  {
-    "id": 8572,
-    "name": "Simba",
-    "code": null,
-    "country": "Congo-DR",
-    "founded": null,
-    "national": false,
-    "logo": "https://media.api-sports.io/football/teams/8572.png",
-    "venue_id": 6114
-  },
-  {
-    "id": 8573,
-    "name": "Bukavu Dawa",
-    "code": null,
-    "country": "Congo-DR",
-    "founded": null,
-    "national": false,
-    "logo": "https://media.api-sports.io/football/teams/8573.png",
-    "venue_id": 19815
-  },
-  {
-    "id": 8574,
-    "name": "Dauphins Noirs",
-    "code": "DAU",
-    "country": "Congo-DR",
-    "founded": null,
-    "national": false,
-    "logo": "https://media.api-sports.io/football/teams/8574.png",
-    "venue_id": 6115
-  },
-  {
-    "id": 8575,
-    "name": "Groupe Bazano",
-    "code": null,
-    "country": "Congo-DR",
-    "founded": null,
-    "national": false,
-    "logo": "https://media.api-sports.io/football/teams/8575.png",
-    "venue_id": 19813
-  },
-  {
-    "id": 8576,
-    "name": "Lubumbashi Sport",
-    "code": "LUB",
-    "country": "Congo-DR",
-    "founded": 1926,
-    "national": false,
-    "logo": "https://media.api-sports.io/football/teams/8576.png",
-    "venue_id": 6113
-  },
-  {
-    "id": 8578,
-    "name": "Saint Eloi Lupopo",
-    "code": "ELO",
-    "country": "Congo-DR",
-    "founded": 1939,
-    "national": false,
-    "logo": "https://media.api-sports.io/football/teams/8578.png",
-    "venue_id": 6113
-  },
-  {
-    "id": 10007,
-    "name": "Rangers",
-    "code": null,
-    "country": "Congo-DR",
-    "founded": null,
-    "national": false,
-    "logo": "https://media.api-sports.io/football/teams/10007.png",
-    "venue_id": 746206099496
-  },
-  {
-    "id": 10085,
-    "name": "Renaissance",
-    "code": null,
-    "country": "Congo-DR",
-    "founded": null,
-    "national": false,
-    "logo": "https://media.api-sports.io/football/teams/10085.png",
-    "venue_id": 637230096502
-  },
-  {
-    "id": 15285,
-    "name": "Blessing",
-    "code": null,
-    "country": "Congo-DR",
-    "founded": 2006,
-    "national": false,
-    "logo": "https://media.api-sports.io/football/teams/15285.png",
-    "venue_id": 19814
-  },
-  {
-    "id": 15286,
-    "name": "JSK",
-    "code": null,
-    "country": "Congo-DR",
-    "founded": null,
-    "national": false,
-    "logo": "https://media.api-sports.io/football/teams/15286.png",
-    "venue_id": 4743
-  },
-  {
-    "id": 17764,
-    "name": "Etoile de Kivu",
-    "code": null,
-    "country": "Congo-DR",
-    "founded": null,
-    "national": false,
-    "logo": "https://media.api-sports.io/football/teams/17764.png",
-    "venue_id": 19815
-  },
-  {
-    "id": 17765,
-    "name": "Kuya Sport",
-    "code": null,
-    "country": "Congo-DR",
-    "founded": null,
-    "national": false,
-    "logo": "https://media.api-sports.io/football/teams/17765.png",
-    "venue_id": 933947275577
-  },
-  {
-    "id": 17766,
-    "name": "Panda B5",
-    "code": null,
-    "country": "Congo-DR",
-    "founded": 1952,
-    "national": false,
-    "logo": "https://media.api-sports.io/football/teams/17766.png",
-    "venue_id": 19816
-  },
-  {
-    "id": 17767,
-    "name": "Tshinkunku",
-    "code": "TSH",
-    "country": "Congo-DR",
-    "founded": null,
-    "national": false,
-    "logo": "https://media.api-sports.io/football/teams/17767.png",
-    "venue_id": 12395
-  },
-  {
-    "id": 20468,
-    "name": "Céleste",
-    "code": null,
-    "country": "Congo-DR",
-    "founded": null,
-    "national": false,
-    "logo": "https://media.api-sports.io/football/teams/20468.png",
-    "venue_id": 391
-  },
-  {
-    "id": 21622,
-    "name": "Tanganyika",
-    "code": null,
-    "country": "Congo-DR",
-    "founded": null,
-    "national": false,
-    "logo": "https://media.api-sports.io/football/teams/21622.png",
-    "venue_id": 10536
-  },
-  {
-    "id": 24105,
-    "name": "Anges Verts",
-    "code": null,
-    "country": "Congo-DR",
-    "founded": null,
-    "national": false,
-    "logo": "https://media.api-sports.io/football/teams/24105.png",
-    "venue_id": 670983968730
-  },
-  {
-    "id": 24107,
-    "name": "Malole",
-    "code": null,
-    "country": "Congo-DR",
-    "founded": null,
-    "national": false,
-    "logo": "https://media.api-sports.io/football/teams/24107.png",
-    "venue_id": 12395
-  },
-  {
-    "id": 24108,
-    "name": "New Jack",
-    "code": null,
-    "country": "Congo-DR",
-    "founded": null,
-    "national": false,
-    "logo": "https://media.api-sports.io/football/teams/24108.png",
-    "venue_id": 391
-  }
+    {
+        "id": 6435,
+        "name": "TP Mazembe",
+        "code": "MAZ",
+        "country": "Congo-DR",
+        "founded": 1939,
+        "national": false,
+        "logo": "6435.png",
+        "venue_id": 4742
+    },
+    {
+        "id": 6437,
+        "name": "Vita Club",
+        "code": "VIT",
+        "country": "Congo-DR",
+        "founded": 1935,
+        "national": false,
+        "logo": "6437.png",
+        "venue_id": 4743
+    },
+    {
+        "id": 8064,
+        "name": "Maniema Union",
+        "code": null,
+        "country": "Congo-DR",
+        "founded": null,
+        "national": false,
+        "logo": "8064.png",
+        "venue_id": 10536
+    },
+    {
+        "id": 8067,
+        "name": "Motema Pembe",
+        "code": "MOT",
+        "country": "Congo-DR",
+        "founded": 1936,
+        "national": false,
+        "logo": "8067.png",
+        "venue_id": 391
+    },
+    {
+        "id": 8112,
+        "name": "Sanga Balende",
+        "code": "SAB",
+        "country": "Congo-DR",
+        "founded": null,
+        "national": false,
+        "logo": "8112.png",
+        "venue_id": 5759
+    },
+    {
+        "id": 8571,
+        "name": "Don Bosco",
+        "code": null,
+        "country": "Congo-DR",
+        "founded": null,
+        "national": false,
+        "logo": "8571.png",
+        "venue_id": 6113
+    },
+    {
+        "id": 8572,
+        "name": "Simba",
+        "code": null,
+        "country": "Congo-DR",
+        "founded": null,
+        "national": false,
+        "logo": "8572.png",
+        "venue_id": 6114
+    },
+    {
+        "id": 8573,
+        "name": "Bukavu Dawa",
+        "code": null,
+        "country": "Congo-DR",
+        "founded": null,
+        "national": false,
+        "logo": "8573.svg",
+        "venue_id": 19815
+    },
+    {
+        "id": 8574,
+        "name": "Dauphins Noirs",
+        "code": "DAU",
+        "country": "Congo-DR",
+        "founded": null,
+        "national": false,
+        "logo": "8574.png",
+        "venue_id": 6115
+    },
+    {
+        "id": 8575,
+        "name": "Groupe Bazano",
+        "code": null,
+        "country": "Congo-DR",
+        "founded": null,
+        "national": false,
+        "logo": "8575.png",
+        "venue_id": 19813
+    },
+    {
+        "id": 8576,
+        "name": "Lubumbashi Sport",
+        "code": "LUB",
+        "country": "Congo-DR",
+        "founded": 1926,
+        "national": false,
+        "logo": "8576.png",
+        "venue_id": 6113
+    },
+    {
+        "id": 8578,
+        "name": "Saint Eloi Lupopo",
+        "code": "ELO",
+        "country": "Congo-DR",
+        "founded": 1939,
+        "national": false,
+        "logo": "8578.png",
+        "venue_id": 6113
+    },
+    {
+        "id": 10007,
+        "name": "Rangers",
+        "code": null,
+        "country": "Congo-DR",
+        "founded": null,
+        "national": false,
+        "logo": "10007.png",
+        "venue_id": 746206099496
+    },
+    {
+        "id": 10085,
+        "name": "Renaissance",
+        "code": null,
+        "country": "Congo-DR",
+        "founded": null,
+        "national": false,
+        "logo": "10085.png",
+        "venue_id": 637230096502
+    },
+    {
+        "id": 15285,
+        "name": "Blessing",
+        "code": null,
+        "country": "Congo-DR",
+        "founded": 2006,
+        "national": false,
+        "logo": "15285.png",
+        "venue_id": 19814
+    },
+    {
+        "id": 15286,
+        "name": "JSK",
+        "code": null,
+        "country": "Congo-DR",
+        "founded": null,
+        "national": false,
+        "logo": "15286.png",
+        "venue_id": 4743
+    },
+    {
+        "id": 17764,
+        "name": "Etoile de Kivu",
+        "code": null,
+        "country": "Congo-DR",
+        "founded": null,
+        "national": false,
+        "logo": "17764.png",
+        "venue_id": 19815
+    },
+    {
+        "id": 17765,
+        "name": "Kuya Sport",
+        "code": null,
+        "country": "Congo-DR",
+        "founded": null,
+        "national": false,
+        "logo": "17765.png",
+        "venue_id": 933947275577
+    },
+    {
+        "id": 17766,
+        "name": "Panda B5",
+        "code": null,
+        "country": "Congo-DR",
+        "founded": 1952,
+        "national": false,
+        "logo": "17766.png",
+        "venue_id": 19816
+    },
+    {
+        "id": 17767,
+        "name": "Tshinkunku",
+        "code": "TSH",
+        "country": "Congo-DR",
+        "founded": null,
+        "national": false,
+        "logo": "17767.png",
+        "venue_id": 12395
+    },
+    {
+        "id": 20468,
+        "name": "Céleste",
+        "code": null,
+        "country": "Congo-DR",
+        "founded": null,
+        "national": false,
+        "logo": "20468.png",
+        "venue_id": 391
+    },
+    {
+        "id": 21622,
+        "name": "Tanganyika",
+        "code": null,
+        "country": "Congo-DR",
+        "founded": null,
+        "national": false,
+        "logo": "21622.svg",
+        "venue_id": 10536
+    },
+    {
+        "id": 24105,
+        "name": "Anges Verts",
+        "code": null,
+        "country": "Congo-DR",
+        "founded": null,
+        "national": false,
+        "logo": "24105.svg",
+        "venue_id": 670983968730
+    },
+    {
+        "id": 24107,
+        "name": "Malole",
+        "code": null,
+        "country": "Congo-DR",
+        "founded": null,
+        "national": false,
+        "logo": "24107.svg",
+        "venue_id": 12395
+    },
+    {
+        "id": 24108,
+        "name": "New Jack",
+        "code": null,
+        "country": "Congo-DR",
+        "founded": null,
+        "national": false,
+        "logo": "24108.svg",
+        "venue_id": 391
+    }
 ]
