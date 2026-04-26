@@ -12,16 +12,8 @@
         "name": "Stade du 4 Août",
         "city": "Ouagadougou",
         "capacity": 60000,
-        "latitude": 12.3687021,
-        "longitude": -1.5534607
-    },
-    {
-        "id": 5758,
-        "name": "Stade du 4 Août",
-        "city": "Ouagadougou",
-        "capacity": 38000,
-        "latitude": 12.3687021,
-        "longitude": -1.5534607
+        "latitude": 12.368890724472758,
+        "longitude": -1.5530959217526532
     },
     {
         "id": 6111,
@@ -30,14 +22,6 @@
         "capacity": 5000,
         "latitude": 12.2526704,
         "longitude": -2.3677093
-    },
-    {
-        "id": 6112,
-        "name": "Stade du 4 Août",
-        "city": "Ouagadougou",
-        "capacity": 35000,
-        "latitude": 12.3687021,
-        "longitude": -1.5534607
     },
     {
         "id": 21393,

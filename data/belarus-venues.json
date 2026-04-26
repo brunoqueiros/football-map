@@ -28,8 +28,8 @@
         "name": "Stadyen Start",
         "city": "Lida",
         "capacity": 3000,
-        "latitude": 51.9083753,
-        "longitude": 4.5069361
+        "latitude": 53.893014338068,
+        "longitude": 25.29036696184149
     },
     {
         "id": 2207,
@@ -348,8 +348,8 @@
         "name": "Stadyen DASK Brestski",
         "city": "Brest",
         "capacity": 10169,
-        "latitude": 48.4028861,
-        "longitude": -4.461456699999999
+        "latitude": 52.08966290860763,
+        "longitude": 23.682975047386474
     },
     {
         "id": 10497,

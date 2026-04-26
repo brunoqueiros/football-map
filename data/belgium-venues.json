@@ -780,8 +780,8 @@
         "name": "Stade des Vert et Blanc",
         "city": "Meux",
         "capacity": 500,
-        "latitude": 45.460517,
-        "longitude": 4.389434
+        "latitude": 50.55325953850971,
+        "longitude": 4.795736639384984
     },
     {
         "id": 4365,
@@ -889,11 +889,11 @@
     },
     {
         "id": 12165,
-        "name": "Kruisveld Terrein 1",
+        "name": "Stadion P. Claes",
         "city": "Halle",
         "capacity": 1000,
-        "latitude": 52.193931,
-        "longitude": 5.124976999999999
+        "latitude": 50.725833872501376,
+        "longitude": 4.2547306110724366
     },
     {
         "id": 4384,
@@ -1289,11 +1289,11 @@
     },
     {
         "id": 22101,
-        "name": "Stade R. Dienne Terrain 2",
-        "city": "Haine-St-Pierre",
+        "name": "Stade Raymond Dienne",
+        "city": "La Louvière",
         "capacity": 1000,
-        "latitude": 50.3686547,
-        "longitude": 3.1081508
+        "latitude": 50.459795563983256,
+        "longitude": 4.212285939896486
     },
     {
         "id": 4598,
@@ -1396,8 +1396,8 @@
         "name": "Complexe des Sablières",
         "city": "Châtelet",
         "capacity": 1500,
-        "latitude": 46.67887169999999,
-        "longitude": 0.4055948
+        "latitude": 50.39776110258512,
+        "longitude": 4.531702864495931
     },
     {
         "id": 6011,
@@ -1684,8 +1684,8 @@
         "name": "Stade Principal",
         "city": "Courcelles",
         "capacity": 1000,
-        "latitude": 47.4991733,
-        "longitude": 6.776286499999999
+        "latitude": 50.46442403249672,
+        "longitude": 4.3366365147677355
     },
     {
         "id": 19015,
@@ -2020,8 +2020,8 @@
         "name": "Stade René Kiemeer",
         "city": "Saintes",
         "capacity": 500,
-        "latitude": 45.7370526,
-        "longitude": -0.620925
+        "latitude": 50.68399322911366,
+        "longitude": 4.200177745983474
     },
     {
         "id": 20835,

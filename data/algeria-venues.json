@@ -372,8 +372,8 @@
         "name": "Stade Municipal",
         "city": "Nezla",
         "capacity": null,
-        "latitude": 39.4746556,
-        "longitude": -0.3585902
+        "latitude": 33.08433945267711,
+        "longitude": 6.064761444916065
     },
     {
         "id": 100016,
@@ -446,14 +446,6 @@
         "capacity": null,
         "latitude": 34.837315,
         "longitude": 0.1511079
-    },
-    {
-        "id": 100026,
-        "name": "Stade Municipal",
-        "city": "Hai Jebel",
-        "capacity": null,
-        "latitude": 11.578911,
-        "longitude": 43.1487048
     },
     {
         "id": 100027,

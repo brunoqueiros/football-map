@@ -3730,16 +3730,6 @@
         "venue_id": 3983
     },
     {
-        "id": 8379,
-        "name": "San Miguel",
-        "code": "MIG",
-        "country": "Argentina",
-        "founded": 1922,
-        "national": false,
-        "logo": "https://media.api-sports.io/football/teams/8379.png",
-        "venue_id": 5963
-    },
-    {
         "id": 9415,
         "name": "Tamaraceite",
         "code": null,

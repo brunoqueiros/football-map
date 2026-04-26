@@ -180,16 +180,6 @@
         "venue_id": 21292
     },
     {
-        "id": 8086,
-        "name": "Etoile Filante",
-        "code": null,
-        "country": "Benin",
-        "founded": 1955,
-        "national": false,
-        "logo": "https://media.api-sports.io/football/teams/8086.png",
-        "venue_id": 306
-    },
-    {
         "id": 16418,
         "name": "AS Cotonou",
         "code": null,

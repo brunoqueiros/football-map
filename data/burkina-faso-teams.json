@@ -37,7 +37,7 @@
         "founded": 1990,
         "national": false,
         "logo": "https://media.api-sports.io/football/teams/8111.png",
-        "venue_id": 5758
+        "venue_id": 306
     },
     {
         "id": 8561,
@@ -67,7 +67,7 @@
         "founded": 1947,
         "national": false,
         "logo": "https://media.api-sports.io/football/teams/8563.png",
-        "venue_id": 5758
+        "venue_id": 306
     },
     {
         "id": 8564,
@@ -87,7 +87,7 @@
         "founded": null,
         "national": false,
         "logo": "https://media.api-sports.io/football/teams/8566.png",
-        "venue_id": 6112
+        "venue_id": 306
     },
     {
         "id": 8568,
@@ -107,7 +107,7 @@
         "founded": 1962,
         "national": false,
         "logo": "https://media.api-sports.io/football/teams/8570.png",
-        "venue_id": 5758
+        "venue_id": 306
     },
     {
         "id": 13978,
@@ -117,7 +117,7 @@
         "founded": null,
         "national": false,
         "logo": "https://media.api-sports.io/football/teams/13978.png",
-        "venue_id": 5758
+        "venue_id": 306
     },
     {
         "id": 17923,
@@ -137,7 +137,7 @@
         "founded": null,
         "national": false,
         "logo": "https://media.api-sports.io/football/teams/20029.png",
-        "venue_id": 5758
+        "venue_id": 306
     },
     {
         "id": 22017,

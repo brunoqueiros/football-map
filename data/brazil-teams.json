@@ -2357,7 +2357,7 @@
         "founded": null,
         "national": false,
         "logo": "https://media.api-sports.io/football/teams/23641.png",
-        "venue_id": 1
+        "venue_id": 5679
     },
     {
         "id": 23665,
@@ -6117,7 +6117,7 @@
         "founded": null,
         "national": false,
         "logo": "https://media.api-sports.io/football/teams/24819.png",
-        "venue_id": 99990110
+        "venue_id": 21211
     },
     {
         "id": 1206,
