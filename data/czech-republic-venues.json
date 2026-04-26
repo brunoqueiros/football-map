@@ -1,0 +1,1442 @@
+[
+  {
+    "id": 10574,
+    "name": "Stadion Na Litavce",
+    "city": "Příbram",
+    "capacity": 9100,
+    "latitude": 49.6770377,
+    "longitude": 13.9761993
+  },
+  {
+    "id": 5268,
+    "name": "Stadion Na Pecích",
+    "city": "Praha",
+    "capacity": 4000,
+    "latitude": 50.12956819999999,
+    "longitude": 14.4541508
+  },
+  {
+    "id": 5281,
+    "name": "Letní stadion na Zadních Vinohradech",
+    "city": "Chomutov",
+    "capacity": 4800,
+    "latitude": 50.4675229,
+    "longitude": 13.4300398
+  },
+  {
+    "id": 5302,
+    "name": "Stadion Střelnice",
+    "city": "Domažlice",
+    "capacity": 3500,
+    "latitude": 49.4374553,
+    "longitude": 12.919478
+  },
+  {
+    "id": 5311,
+    "name": "Stadion na Plynárně",
+    "city": "Praha",
+    "capacity": 3000,
+    "latitude": 50.1056616,
+    "longitude": 14.4453333
+  },
+  {
+    "id": 18687,
+    "name": "Stadion SK Motorlet",
+    "city": "Praha",
+    "capacity": 5000,
+    "latitude": 50.0582195,
+    "longitude": 14.3907052
+  },
+  {
+    "id": 5324,
+    "name": "Stadion TJ Dynamo ZČE Plzeň",
+    "city": "Plzeň",
+    "capacity": 3000,
+    "latitude": 49.7500024,
+    "longitude": 13.3852493
+  },
+  {
+    "id": 5328,
+    "name": "Městský sportovní areál",
+    "city": "Písek",
+    "capacity": 5000,
+    "latitude": 49.3085245,
+    "longitude": 14.1359845
+  },
+  {
+    "id": 5331,
+    "name": "Stadion Přeštice",
+    "city": "Přeštice",
+    "capacity": 3000,
+    "latitude": 49.5813528,
+    "longitude": 13.3264073
+  },
+  {
+    "id": 5340,
+    "name": "Stadion TJ Slovan Velvary",
+    "city": "Velvary",
+    "capacity": 2700,
+    "latitude": 50.28159789999999,
+    "longitude": 14.2303193
+  },
+  {
+    "id": 5342,
+    "name": "Stadion Vojtěcha Zeithamla",
+    "city": "Hostouň",
+    "capacity": 1500,
+    "latitude": 50.1103968,
+    "longitude": 14.20071
+  },
+  {
+    "id": 6156,
+    "name": "Stadion Luční ulice",
+    "city": "Plzeň",
+    "capacity": 6000,
+    "latitude": 49.7553673,
+    "longitude": 13.3902556
+  },
+  {
+    "id": 5373,
+    "name": "Stadion Štěchovice",
+    "city": "Štěchovice",
+    "capacity": 1500,
+    "latitude": 49.8516414,
+    "longitude": 14.4124434
+  },
+  {
+    "id": 10671,
+    "name": "Stadion FC Čechie Uhříněves",
+    "city": "Praha",
+    "capacity": 1000,
+    "latitude": 50.040673,
+    "longitude": 14.601203
+  },
+  {
+    "id": 19255,
+    "name": "Sportovní centrum Radotín",
+    "city": "Praha",
+    "capacity": 4000,
+    "latitude": 49.97926880000001,
+    "longitude": 14.3558739
+  },
+  {
+    "id": 10849,
+    "name": "Stadion Svépomoc",
+    "city": "Tábor",
+    "capacity": 4000,
+    "latitude": 49.406591,
+    "longitude": 14.6803814
+  },
+  {
+    "id": 2516,
+    "name": "Městský stadion",
+    "city": "Ústí nad Labem",
+    "capacity": 4000,
+    "latitude": 50.6757622,
+    "longitude": 14.0164002
+  },
+  {
+    "id": 5270,
+    "name": "Městský stadion u Ploučnice",
+    "city": "Česká Lípa",
+    "capacity": 5000,
+    "latitude": 50.6834522,
+    "longitude": 14.530208
+  },
+  {
+    "id": 5271,
+    "name": "Stadion Zdeňka Fibicha",
+    "city": "Most",
+    "capacity": 2500,
+    "latitude": 50.4968829,
+    "longitude": 13.6310283
+  },
+  {
+    "id": 11955,
+    "name": "Městský stadion",
+    "city": "Benátky nad Jizerou",
+    "capacity": 4000,
+    "latitude": 50.2892726,
+    "longitude": 14.8188789
+  },
+  {
+    "id": 5280,
+    "name": "Městský fotbalový stadion",
+    "city": "Chlumec nad Cidlinou",
+    "capacity": 3893,
+    "latitude": 50.1527609,
+    "longitude": 15.468543
+  },
+  {
+    "id": 5305,
+    "name": "Stadion Františka Kloze",
+    "city": "Kladno",
+    "capacity": 4000,
+    "latitude": 50.1380583,
+    "longitude": 14.0906059
+  },
+  {
+    "id": 5307,
+    "name": "Mestský stadion",
+    "city": "Kolín V",
+    "capacity": 2800,
+    "latitude": 50.0323572,
+    "longitude": 15.1994128
+  },
+  {
+    "id": 5341,
+    "name": "Stadion Sokol Brozany",
+    "city": "Brozany nad Ohří",
+    "capacity": 2000,
+    "latitude": 50.4519849,
+    "longitude": 14.1478775
+  },
+  {
+    "id": 5346,
+    "name": "Stadion TJ Sokol Zápy",
+    "city": "Brandýs nad Labem",
+    "capacity": 1150,
+    "latitude": 50.1640782,
+    "longitude": 14.6852751
+  },
+  {
+    "id": 5347,
+    "name": "Stadion SK Náchod v Bělovsi",
+    "city": "Živanice",
+    "capacity": 3400,
+    "latitude": 50.4190994,
+    "longitude": 16.1800607
+  },
+  {
+    "id": 5369,
+    "name": "Stadion TJ Jiskra Ústí nad Orlicí",
+    "city": "Ústí nad Orlicí",
+    "capacity": 3000,
+    "latitude": 49.9786458,
+    "longitude": 16.3887543
+  },
+  {
+    "id": 8153,
+    "name": "Stadion Jiskra Mšeno",
+    "city": "Jablonec nad Nisou",
+    "capacity": 2000,
+    "latitude": 50.7402923,
+    "longitude": 15.1764626
+  },
+  {
+    "id": 12724,
+    "name": "Plocha č.2 Mladá Boleslav",
+    "city": "Mladá Boleslav",
+    "capacity": 5000,
+    "latitude": 50.4179329,
+    "longitude": 14.9108351
+  },
+  {
+    "id": 8201,
+    "name": "Městský stadion",
+    "city": "Liberec",
+    "capacity": 7000,
+    "latitude": 50.75308380000001,
+    "longitude": 15.0470997
+  },
+  {
+    "id": 8218,
+    "name": "Hřiště 1. FC Dubí",
+    "city": "Dubí",
+    "capacity": 1000,
+    "latitude": 50.659167,
+    "longitude": 13.7939468
+  },
+  {
+    "id": 10678,
+    "name": "Areál  TJ Slavia Hradec Králové",
+    "city": "Hradec Králové",
+    "capacity": 1000,
+    "latitude": 50.2106843,
+    "longitude": 15.8436822
+  },
+  {
+    "id": 2506,
+    "name": "Stadion K Vinici",
+    "city": "Pardubice",
+    "capacity": 3000,
+    "latitude": 50.02965529999999,
+    "longitude": 15.7818332
+  },
+  {
+    "id": 10548,
+    "name": "Stadion Rudolfa Labaje",
+    "city": "Třinec",
+    "capacity": 4200,
+    "latitude": 49.6693001,
+    "longitude": 18.6676424
+  },
+  {
+    "id": 2515,
+    "name": "Městský stadion Horním parku",
+    "city": "Znojmo",
+    "capacity": 8000,
+    "latitude": 48.8583113,
+    "longitude": 16.0520191
+  },
+  {
+    "id": 5275,
+    "name": "Stadion na Údolní",
+    "city": "Blansko",
+    "capacity": 3500,
+    "latitude": 49.3554371,
+    "longitude": 16.6567479
+  },
+  {
+    "id": 5287,
+    "name": "Stadion Stovky",
+    "city": "Frýdek-Místek",
+    "capacity": 12400,
+    "latitude": 49.6954139,
+    "longitude": 18.3430744
+  },
+  {
+    "id": 19955,
+    "name": "Stadion Jožky Silného",
+    "city": "Kroměříž",
+    "capacity": 4197,
+    "latitude": 49.2899658,
+    "longitude": 17.4031861
+  },
+  {
+    "id": 5295,
+    "name": "Městský fotbalový stadion Hlučín",
+    "city": "Hlučín",
+    "capacity": 2380,
+    "latitude": 49.8993929,
+    "longitude": 18.1954528
+  },
+  {
+    "id": 5296,
+    "name": "Stadion u Červených domků",
+    "city": "Hodonín",
+    "capacity": 5000,
+    "latitude": 48.86172060000001,
+    "longitude": 17.1066738
+  },
+  {
+    "id": 5339,
+    "name": "Hřiště FC Slovan",
+    "city": "Rosice",
+    "capacity": 1500,
+    "latitude": 49.1588128,
+    "longitude": 16.3417525
+  },
+  {
+    "id": 5350,
+    "name": "Hřiště Loosova",
+    "city": "Brno",
+    "capacity": 1500,
+    "latitude": 49.23134,
+    "longitude": 16.6219289
+  },
+  {
+    "id": 5352,
+    "name": "Stadion na Zelničkách",
+    "city": "Strání",
+    "capacity": 1000,
+    "latitude": 48.9031582,
+    "longitude": 17.7107317
+  },
+  {
+    "id": 18941,
+    "name": "Stadion TJ Unie Hlubina",
+    "city": "Ostrava",
+    "capacity": 2000,
+    "latitude": 49.823957,
+    "longitude": 18.2738847
+  },
+  {
+    "id": 5357,
+    "name": "Stadion SK Uničov",
+    "city": "Uničov",
+    "capacity": 4000,
+    "latitude": 49.77500149999999,
+    "longitude": 17.1152322
+  },
+  {
+    "id": 5362,
+    "name": "Stadion FC Viktoria Otrokovice",
+    "city": "Otrokovice",
+    "capacity": 2000,
+    "latitude": 49.19990929999999,
+    "longitude": 17.5468887
+  },
+  {
+    "id": 6159,
+    "name": "Stadion Na Bělince",
+    "city": "Kunovice",
+    "capacity": 3500,
+    "latitude": 49.0442191,
+    "longitude": 17.4649951
+  },
+  {
+    "id": 6160,
+    "name": "Orelský stadion",
+    "city": "Uherský Brod",
+    "capacity": 1300,
+    "latitude": 49.0175054,
+    "longitude": 17.6485399
+  },
+  {
+    "id": 12094,
+    "name": "Areál Vlastislava Marečka",
+    "city": "Zlín",
+    "capacity": 1500,
+    "latitude": 49.2398999,
+    "longitude": 17.6901243
+  },
+  {
+    "id": 10700,
+    "name": "Stadion pod Pekařkou",
+    "city": "Brno",
+    "capacity": 2500,
+    "latitude": 49.2271866,
+    "longitude": 16.5865472
+  },
+  {
+    "id": 10850,
+    "name": "Stadion Kovona",
+    "city": "Karviná",
+    "capacity": 2500,
+    "latitude": 49.8679794,
+    "longitude": 18.5425948
+  },
+  {
+    "id": 22034,
+    "name": "Areál Aritmy",
+    "city": "Praha",
+    "capacity": 2000,
+    "latitude": 50.09843129999999,
+    "longitude": 14.3408494
+  },
+  {
+    "id": 5284,
+    "name": "Sportovni areal v Chrastecke ulice",
+    "city": "Plzeň",
+    "capacity": 1500,
+    "latitude": 49.78164570000001,
+    "longitude": 13.3884562
+  },
+  {
+    "id": 18761,
+    "name": "Hořovice UMT",
+    "city": "Hořovice",
+    "capacity": 1000,
+    "latitude": 49.8409267,
+    "longitude": 13.9053764
+  },
+  {
+    "id": 6154,
+    "name": "Stadion Na Chvalech",
+    "city": "Praha",
+    "capacity": 3400,
+    "latitude": 50.1102122,
+    "longitude": 14.5992029
+  },
+  {
+    "id": 18940,
+    "name": "Hřiště FK Komárov",
+    "city": "Komárov",
+    "capacity": 1000,
+    "latitude": 49.8091129,
+    "longitude": 13.8563132
+  },
+  {
+    "id": 5309,
+    "name": "Městský Stadion Králův Dvůr",
+    "city": "Králuv Dvůr",
+    "capacity": 3500,
+    "latitude": 49.9441385,
+    "longitude": 14.0269336
+  },
+  {
+    "id": 5333,
+    "name": "Stadion pod Husovými sady",
+    "city": "Rokycany",
+    "capacity": 3000,
+    "latitude": 49.7464508,
+    "longitude": 13.5952841
+  },
+  {
+    "id": 5349,
+    "name": "Fotbalové hřiště TJ Spartak Soběslav",
+    "city": "Soběslav",
+    "capacity": 560,
+    "latitude": 49.2560916,
+    "longitude": 14.7180821
+  },
+  {
+    "id": 22035,
+    "name": "Hřiště 2 Na Litavce",
+    "city": "Příbram",
+    "capacity": 2000,
+    "latitude": 49.6757929,
+    "longitude": 13.9740186
+  },
+  {
+    "id": 18771,
+    "name": "Stadion FK Slavoj Český Krumlov",
+    "city": "Český Krumlov",
+    "capacity": 3000,
+    "latitude": 48.8170625,
+    "longitude": 14.3110381
+  },
+  {
+    "id": 21815,
+    "name": "Zimní Stadion Hluboká",
+    "city": "Hluboká nad Vltavou",
+    "capacity": 1500,
+    "latitude": 49.0470263,
+    "longitude": 14.4450041
+  },
+  {
+    "id": 21820,
+    "name": "TJ Ligmet",
+    "city": "Milín",
+    "capacity": 1000,
+    "latitude": 49.6311794,
+    "longitude": 14.0372354
+  },
+  {
+    "id": 247515872806,
+    "name": "Hřiště Slavia Vejprnice",
+    "city": "Vejprnice",
+    "capacity": null,
+    "latitude": 49.7266771,
+    "longitude": 13.2811499
+  },
+  {
+    "id": 18766,
+    "name": "Velodrome Plzeň hřiště 3",
+    "city": "Plzeň",
+    "capacity": 1000,
+    "latitude": 49.78164570000001,
+    "longitude": 13.3884562
+  },
+  {
+    "id": 2503,
+    "name": "Stadion FK Baník Sokolov",
+    "city": "Sokolov",
+    "capacity": 5000,
+    "latitude": 50.1709733,
+    "longitude": 12.6566299
+  },
+  {
+    "id": 18640,
+    "name": "Drahovice UMT",
+    "city": "Karlovy Vary",
+    "capacity": 500,
+    "latitude": 50.2307052,
+    "longitude": 12.8847104
+  },
+  {
+    "id": 5313,
+    "name": "Stadion FC Viktoria",
+    "city": "Mariánské Lázně",
+    "capacity": 3000,
+    "latitude": 49.961471,
+    "longitude": 12.7048642
+  },
+  {
+    "id": 5314,
+    "name": "Sportovní Areál Libeň",
+    "city": "Praha",
+    "capacity": 3000,
+    "latitude": 50.1093497,
+    "longitude": 14.4685282
+  },
+  {
+    "id": 5316,
+    "name": "Stadion Neratovice",
+    "city": "Neratovice",
+    "capacity": 6291,
+    "latitude": 50.25889,
+    "longitude": 14.5202757
+  },
+  {
+    "id": 5321,
+    "name": "Stadion TJ Olympie Březová",
+    "city": "Březová",
+    "capacity": 3000,
+    "latitude": 50.1481208,
+    "longitude": 12.6493597
+  },
+  {
+    "id": 5322,
+    "name": "Stadion FK Ostrov",
+    "city": "Ostrov",
+    "capacity": 2000,
+    "latitude": 50.3131142,
+    "longitude": 12.9547202
+  },
+  {
+    "id": 5329,
+    "name": "Hřiště FC Přední Kopanina",
+    "city": "Praha",
+    "capacity": 1000,
+    "latitude": 50.1155149,
+    "longitude": 14.2954554
+  },
+  {
+    "id": 5335,
+    "name": "Stadion FK Slaný",
+    "city": "Slaný",
+    "capacity": 1000,
+    "latitude": 50.2268739,
+    "longitude": 14.0684751
+  },
+  {
+    "id": 5370,
+    "name": "Stadion Na Kutilce",
+    "city": "Český Brod",
+    "capacity": 4200,
+    "latitude": 50.0655522,
+    "longitude": 14.855322
+  },
+  {
+    "id": 5374,
+    "name": "Městský Stadion",
+    "city": "Štětí",
+    "capacity": 5000,
+    "latitude": 50.4473138,
+    "longitude": 14.3773935
+  },
+  {
+    "id": 18768,
+    "name": "Stadion SK Hřebeč",
+    "city": "Hřebeč",
+    "capacity": 1000,
+    "latitude": 50.1330082,
+    "longitude": 14.1639031
+  },
+  {
+    "id": 18945,
+    "name": "Újezd Praha 4 UMT",
+    "city": "Praha-Újezd",
+    "capacity": 1000,
+    "latitude": 50.0103324,
+    "longitude": 14.5447927
+  },
+  {
+    "id": 21816,
+    "name": "Areál FC Tempo Praha",
+    "city": "Praha",
+    "capacity": 1000,
+    "latitude": 50.0196852,
+    "longitude": 14.4328731
+  },
+  {
+    "id": 14247731232,
+    "name": "Městský stadion",
+    "city": "Ústí nad Labem",
+    "capacity": 4000,
+    "latitude": 50.6757622,
+    "longitude": 14.0164002
+  },
+  {
+    "id": 5272,
+    "name": "Stadion u Konopiště",
+    "city": "Benešov",
+    "capacity": 8000,
+    "latitude": 49.7766537,
+    "longitude": 14.6779952
+  },
+  {
+    "id": 5277,
+    "name": "Na Spořilově",
+    "city": "Brandýs nad Labem-Stará Boleslav",
+    "capacity": 4000,
+    "latitude": 50.1918882,
+    "longitude": 14.6521084
+  },
+  {
+    "id": 5294,
+    "name": "Mestský stadion",
+    "city": "Hlinsko",
+    "capacity": 1000,
+    "latitude": 49.7598569,
+    "longitude": 15.9083628
+  },
+  {
+    "id": 5330,
+    "name": "Hřiště FK Přepeře",
+    "city": "Přepeře",
+    "capacity": 1000,
+    "latitude": 50.586906,
+    "longitude": 15.1119595
+  },
+  {
+    "id": 5356,
+    "name": "Stadion FK Trutnov",
+    "city": "Trutnov",
+    "capacity": 800,
+    "latitude": 50.5637888,
+    "longitude": 15.9264247
+  },
+  {
+    "id": 5360,
+    "name": "Hřiště TJ Velké Hamry",
+    "city": "Velké Hamry",
+    "capacity": 1500,
+    "latitude": 50.7171067,
+    "longitude": 15.3176651
+  },
+  {
+    "id": 5366,
+    "name": "Stadion Vysoké Mýto",
+    "city": "Vysoké Mýto",
+    "capacity": 1500,
+    "latitude": 49.9572994,
+    "longitude": 16.1592824
+  },
+  {
+    "id": 10552,
+    "name": "Fotbalový stadion Kosmonosy",
+    "city": "Kosmonosy",
+    "capacity": 1000,
+    "latitude": 50.44766910000001,
+    "longitude": 14.9302208
+  },
+  {
+    "id": 10704,
+    "name": "Městský stadion FK Dobrovice",
+    "city": "Dobrovice",
+    "capacity": 1500,
+    "latitude": 50.3595915,
+    "longitude": 14.9591349
+  },
+  {
+    "id": 18767,
+    "name": "Městský stadion",
+    "city": "Nový Bydžov",
+    "capacity": 2500,
+    "latitude": 50.2410848,
+    "longitude": 15.4977835
+  },
+  {
+    "id": 18773,
+    "name": "Městský stadion Turnov",
+    "city": "Turnov",
+    "capacity": 4000,
+    "latitude": 50.5823955,
+    "longitude": 15.1513892
+  },
+  {
+    "id": 2504,
+    "name": "Stadion Za Vodojemem",
+    "city": "Chrudim",
+    "capacity": 2350,
+    "latitude": 49.9470088,
+    "longitude": 15.8034779
+  },
+  {
+    "id": 20020,
+    "name": "Stadion TJ Slavia",
+    "city": "Hradec Králové",
+    "capacity": 1000,
+    "latitude": 50.2106843,
+    "longitude": 15.8436822
+  },
+  {
+    "id": 21818,
+    "name": "Fotbalový stadion FK Horní Ředice",
+    "city": "Horní Ředice",
+    "capacity": 1000,
+    "latitude": 50.0794978,
+    "longitude": 15.9459889
+  },
+  {
+    "id": 22063,
+    "name": "Tráva Hrádek",
+    "city": "Hrádek nad Nisou-Donín",
+    "capacity": 1000,
+    "latitude": 50.8456656,
+    "longitude": 14.8489334
+  },
+  {
+    "id": 21819,
+    "name": "Hřiště Spartak Police",
+    "city": "Police nad Metují-Velká Ledhuje",
+    "capacity": 2000,
+    "latitude": 50.54067089999999,
+    "longitude": 16.2322133
+  },
+  {
+    "id": 5291,
+    "name": "Stadion Na Losích",
+    "city": "Havlíčkův Brod",
+    "capacity": 2700,
+    "latitude": 49.6049832,
+    "longitude": 15.5721997
+  },
+  {
+    "id": 5299,
+    "name": "Stadion A.F.C. Humpolec",
+    "city": "Humpolec",
+    "capacity": 1500,
+    "latitude": 49.53539130000001,
+    "longitude": 15.3612447
+  },
+  {
+    "id": 5338,
+    "name": "Stadion Slavoj Polná",
+    "city": "Polná",
+    "capacity": 3450,
+    "latitude": 49.4905391,
+    "longitude": 15.7187269
+  },
+  {
+    "id": 5343,
+    "name": "Na Šlajsi",
+    "city": "Lanžhot",
+    "capacity": 1000,
+    "latitude": 48.722178,
+    "longitude": 16.9726622
+  },
+  {
+    "id": 5345,
+    "name": "Stadion TJ Sokol Tasovice",
+    "city": "Tasovice pod Hodonice",
+    "capacity": 1500,
+    "latitude": 48.83710079999999,
+    "longitude": 16.1498958
+  },
+  {
+    "id": 5359,
+    "name": "Fotbalový Stadión Velká Bíteš",
+    "city": "Velká Bíteš",
+    "capacity": 1500,
+    "latitude": 49.2957999,
+    "longitude": 16.2231588
+  },
+  {
+    "id": 5361,
+    "name": "Stadión U Tržiště",
+    "city": "Velké Meziříčí",
+    "capacity": 2500,
+    "latitude": 49.3584051,
+    "longitude": 16.0142397
+  },
+  {
+    "id": 5364,
+    "name": "Stadion Nové Město na Moravě",
+    "city": "Nové Město na Moravě",
+    "capacity": 3000,
+    "latitude": 49.5782068,
+    "longitude": 16.0529362
+  },
+  {
+    "id": 5376,
+    "name": "Stadion SK Tatran",
+    "city": "Ždírec nad Doubravou",
+    "capacity": 1500,
+    "latitude": 49.6927301,
+    "longitude": 15.814999
+  },
+  {
+    "id": 5377,
+    "name": "Stadion Bouchalky",
+    "city": "Žďár nad Sázavou",
+    "capacity": 6000,
+    "latitude": 49.5698574,
+    "longitude": 15.9409368
+  },
+  {
+    "id": 6166,
+    "name": "Stadion Lesní ulice",
+    "city": "Břeclav",
+    "capacity": 7230,
+    "latitude": 48.7527884,
+    "longitude": 16.8741212
+  },
+  {
+    "id": 18944,
+    "name": "Hřiště TJ Speřice",
+    "city": "Jiřice",
+    "capacity": 1000,
+    "latitude": 49.5708722,
+    "longitude": 15.2846119
+  },
+  {
+    "id": 18772,
+    "name": "Stadion Tatran Brno Bohunice",
+    "city": "Brno",
+    "capacity": 1000,
+    "latitude": 49.1707806,
+    "longitude": 16.5759978
+  },
+  {
+    "id": 22029,
+    "name": "Městský stadion Kuřim",
+    "city": "Kuřim",
+    "capacity": 2000,
+    "latitude": 49.3105106,
+    "longitude": 16.53151
+  },
+  {
+    "id": 3252,
+    "name": "Stadion SK Líšeň",
+    "city": "Brno",
+    "capacity": 2070,
+    "latitude": 49.2024593,
+    "longitude": 16.6951926
+  },
+  {
+    "id": 21817,
+    "name": "Hrište Fotbalová škola Třebíč",
+    "city": "Třebíč",
+    "capacity": 1000,
+    "latitude": 49.2075538,
+    "longitude": 15.8515043
+  },
+  {
+    "id": 5279,
+    "name": "Fotbalový Stadión Bzenec",
+    "city": "Bzenec",
+    "capacity": 1500,
+    "latitude": 48.9769403,
+    "longitude": 17.2600896
+  },
+  {
+    "id": 5289,
+    "name": "Stadion 1. HFK Olomouc",
+    "city": "Olomouc",
+    "capacity": 2900,
+    "latitude": 49.5751888,
+    "longitude": 17.3003715
+  },
+  {
+    "id": 5298,
+    "name": "Stadion SK Hranice",
+    "city": "Hranice",
+    "capacity": 6000,
+    "latitude": 49.543654,
+    "longitude": 17.7262671
+  },
+  {
+    "id": 5308,
+    "name": "Areal Sportu Kozlovice",
+    "city": "Kozlovice",
+    "capacity": 2000,
+    "latitude": 49.4661848,
+    "longitude": 17.4888878
+  },
+  {
+    "id": 5317,
+    "name": "Stadion FK Nové Sady",
+    "city": "Olomouc",
+    "capacity": 1000,
+    "latitude": 49.57271480000001,
+    "longitude": 17.2569309
+  },
+  {
+    "id": 5334,
+    "name": "Hřiště Skaštice",
+    "city": "Skaštice",
+    "capacity": 1000,
+    "latitude": 49.3335953,
+    "longitude": 17.4190723
+  },
+  {
+    "id": 5336,
+    "name": "Stadion FC TVD Slavičín",
+    "city": "Slavičín",
+    "capacity": 3000,
+    "latitude": 49.0901992,
+    "longitude": 17.8777508
+  },
+  {
+    "id": 5355,
+    "name": "Hřiště Všechovice",
+    "city": "Všechovice",
+    "capacity": 1000,
+    "latitude": 49.4586329,
+    "longitude": 17.7651434
+  },
+  {
+    "id": 5358,
+    "name": "Stadion Valašské Meziřičí",
+    "city": "Valašské Meziříčí",
+    "capacity": 5000,
+    "latitude": 49.4700955,
+    "longitude": 17.9894711
+  },
+  {
+    "id": 5365,
+    "name": "Stadion Tyršova ulice",
+    "city": "Vsetín",
+    "capacity": 1000,
+    "latitude": 49.3376275,
+    "longitude": 17.9984885
+  },
+  {
+    "id": 5375,
+    "name": "Městský Stadion",
+    "city": "Šumperk",
+    "capacity": 4000,
+    "latitude": 49.9558009,
+    "longitude": 16.9795877
+  },
+  {
+    "id": 11637,
+    "name": "Stadion Střelnice",
+    "city": "Holešov",
+    "capacity": 2500,
+    "latitude": 49.3372317,
+    "longitude": 17.5847124
+  },
+  {
+    "id": 18942,
+    "name": "Sportovní Areál Baťov",
+    "city": "Otrokovice",
+    "capacity": 1000,
+    "latitude": 49.2153631,
+    "longitude": 17.5076267
+  },
+  {
+    "id": 18946,
+    "name": "Stadion Šternberk",
+    "city": "Šternberk",
+    "capacity": 2000,
+    "latitude": 49.7194523,
+    "longitude": 17.2943262
+  },
+  {
+    "id": 20018,
+    "name": "Sportovní areál SK Kostelec na Hané",
+    "city": "Kostelec na Hané",
+    "capacity": 1000,
+    "latitude": 49.5079921,
+    "longitude": 17.0612358
+  },
+  {
+    "id": 5363,
+    "name": "Městský Stadion Přerov",
+    "city": "Přerov",
+    "capacity": 3000,
+    "latitude": 49.4599989,
+    "longitude": 17.4450938
+  },
+  {
+    "id": 19837,
+    "name": "Areál SC Vista",
+    "city": "Ostrava",
+    "capacity": 1000,
+    "latitude": 49.7943279,
+    "longitude": 18.2460215
+  },
+  {
+    "id": 5274,
+    "name": "Stadion Na Nivách",
+    "city": "Frenštát pod Radhoštěm",
+    "capacity": 1000,
+    "latitude": 49.5527135,
+    "longitude": 18.208313
+  },
+  {
+    "id": 5276,
+    "name": "Stadion Bohumín",
+    "city": "Bohumín",
+    "capacity": 1500,
+    "latitude": 49.9083915,
+    "longitude": 18.3653199
+  },
+  {
+    "id": 5288,
+    "name": "Stadion 1. BFK Frýdlant",
+    "city": "Frýdlant nad Ostravicí",
+    "capacity": 2600,
+    "latitude": 49.5852601,
+    "longitude": 18.3643868
+  },
+  {
+    "id": 5292,
+    "name": "Stadion Dukla",
+    "city": "Havířov",
+    "capacity": 10400,
+    "latitude": 49.8101058,
+    "longitude": 18.4420688
+  },
+  {
+    "id": 5303,
+    "name": "Hřiště TJ Jiskra Rýmařov",
+    "city": "Rýmařov",
+    "capacity": 1000,
+    "latitude": 49.9312946,
+    "longitude": 17.2831937
+  },
+  {
+    "id": 5318,
+    "name": "Stadion TJ Nový Jičín",
+    "city": "Nový Jičín",
+    "capacity": 2000,
+    "latitude": 49.5914047,
+    "longitude": 18.0021474
+  },
+  {
+    "id": 5326,
+    "name": "Hřiště Polanka nad Odrou",
+    "city": "Ostrava",
+    "capacity": 1500,
+    "latitude": 49.803127,
+    "longitude": 18.1616052
+  },
+  {
+    "id": 10851,
+    "name": "Fotbalové hřiště Velké Hoštice",
+    "city": "Velké Hoštice",
+    "capacity": 1000,
+    "latitude": 49.9273733,
+    "longitude": 17.9776624
+  },
+  {
+    "id": 18764,
+    "name": "Fotbalove Hriste Bílovec",
+    "city": "Bílovec",
+    "capacity": 1500,
+    "latitude": 49.76015690000001,
+    "longitude": 18.0240536
+  },
+  {
+    "id": 12500,
+    "name": "Stadion Vratimov",
+    "city": "Vratimov",
+    "capacity": 1000,
+    "latitude": 49.771044,
+    "longitude": 18.3165294
+  },
+  {
+    "id": 18943,
+    "name": "Fotbalové Hřiště Břidličná",
+    "city": "Břidličná",
+    "capacity": 1000,
+    "latitude": 49.913993,
+    "longitude": 17.364419
+  },
+  {
+    "id": 20849,
+    "name": "Klaus Union Arena",
+    "city": "Krnov",
+    "capacity": 2500,
+    "latitude": 50.08634250000001,
+    "longitude": 17.6819646
+  },
+  {
+    "id": 21814,
+    "name": "Fotbalove hřiště Petřvald na Moravě",
+    "city": "Petřvald na Moravě",
+    "capacity": 1000,
+    "latitude": 49.8228249,
+    "longitude": 18.3798569
+  },
+  {
+    "id": 19839,
+    "name": "Řepiště trava",
+    "city": "Řepiště",
+    "capacity": 1000,
+    "latitude": 49.73540449999999,
+    "longitude": 18.3173771
+  },
+  {
+    "id": 22032,
+    "name": "Stadión Pustá Polom",
+    "city": "Pustá Polom",
+    "capacity": 1500,
+    "latitude": 49.8512537,
+    "longitude": 18.0081009
+  },
+  {
+    "id": 18856,
+    "name": "Fortuna Arena",
+    "city": "Praha",
+    "capacity": 21000,
+    "latitude": 50.0675461,
+    "longitude": 14.4709092
+  },
+  {
+    "id": 438,
+    "name": "Doosan Aréna",
+    "city": "Plzeň",
+    "capacity": 11700,
+    "latitude": 49.7500024,
+    "longitude": 13.3852493
+  },
+  {
+    "id": 2492,
+    "name": "Stadion Letná",
+    "city": "Zlín",
+    "capacity": 6375,
+    "latitude": 49.2312369,
+    "longitude": 17.6693992
+  },
+  {
+    "id": 19513,
+    "name": "epet ARENA",
+    "city": "Praha",
+    "capacity": 20854,
+    "latitude": 50.0998287,
+    "longitude": 14.4159235
+  },
+  {
+    "id": 2494,
+    "name": "Lokotrans Aréna",
+    "city": "Mladá Boleslav",
+    "capacity": 5500,
+    "latitude": 50.4271352,
+    "longitude": 14.9170394
+  },
+  {
+    "id": 2493,
+    "name": "Stadion u Nisy",
+    "city": "Liberec",
+    "capacity": 9900,
+    "latitude": 50.7761991,
+    "longitude": 15.050024
+  },
+  {
+    "id": 434,
+    "name": "Stadion Střelnice",
+    "city": "Jablonec nad Nisou",
+    "capacity": 6280,
+    "latitude": 50.7142471,
+    "longitude": 15.1621803
+  },
+  {
+    "id": 435,
+    "name": "Andrův stadion",
+    "city": "Olomouc",
+    "capacity": 12566,
+    "latitude": 49.60014169999999,
+    "longitude": 17.2482271
+  },
+  {
+    "id": 2495,
+    "name": "Městský stadion - Vítkovice Aréna",
+    "city": "Ostrava",
+    "capacity": 15275,
+    "latitude": 49.8043165,
+    "longitude": 18.2559648
+  },
+  {
+    "id": 2496,
+    "name": "Stadion Ďolíček",
+    "city": "Praha",
+    "capacity": 7500,
+    "latitude": 50.0670626,
+    "longitude": 14.4542988
+  },
+  {
+    "id": 2497,
+    "name": "Stadion Juliska",
+    "city": "Praha",
+    "capacity": 8150,
+    "latitude": 50.11168139999999,
+    "longitude": 14.3875397
+  },
+  {
+    "id": 2498,
+    "name": "Městský Stadión",
+    "city": "Karviná",
+    "capacity": 4838,
+    "latitude": 49.8453601,
+    "longitude": 18.561166
+  },
+  {
+    "id": 2499,
+    "name": "Stadion v Městských sadech",
+    "city": "Opava",
+    "capacity": 7758,
+    "latitude": 49.94909579999999,
+    "longitude": 17.8893912
+  },
+  {
+    "id": 2501,
+    "name": "Městský fotbalový stadion Miroslava Valenty",
+    "city": "Uherské Hradiště",
+    "capacity": 8121,
+    "latitude": 49.06561629999999,
+    "longitude": 17.4712872
+  },
+  {
+    "id": 10575,
+    "name": "AGC Aréna Na Stínadlech",
+    "city": "Teplice",
+    "capacity": 18221,
+    "latitude": 50.6400228,
+    "longitude": 13.8178319
+  },
+  {
+    "id": 20749,
+    "name": "Malšovická Aréna",
+    "city": "Hradec Králové",
+    "capacity": 9300,
+    "latitude": 50.2064955,
+    "longitude": 15.8454873
+  },
+  {
+    "id": 20750,
+    "name": "CFIG Arena",
+    "city": "Pardubice",
+    "capacity": 4625,
+    "latitude": 50.0410115,
+    "longitude": 15.7711647
+  },
+  {
+    "id": 2508,
+    "name": "Stadion Kvapilova",
+    "city": "Tábor",
+    "capacity": 2000,
+    "latitude": 49.4199369,
+    "longitude": 14.6636293
+  },
+  {
+    "id": 2510,
+    "name": "Stadion v Kotlině",
+    "city": "Varnsdorf",
+    "capacity": 3000,
+    "latitude": 50.91490539999999,
+    "longitude": 14.618933
+  },
+  {
+    "id": 2511,
+    "name": "eFotbal aréna",
+    "city": "Praha",
+    "capacity": 5600,
+    "latitude": 50.0839147,
+    "longitude": 14.4445941
+  },
+  {
+    "id": 2512,
+    "name": "Stadion Kollárova ulice",
+    "city": "Vlašim",
+    "capacity": 6000,
+    "latitude": 49.7026269,
+    "longitude": 14.8919438
+  },
+  {
+    "id": 2513,
+    "name": "Stadion v Jiráskově ulici",
+    "city": "Jihlava",
+    "capacity": 4500,
+    "latitude": 49.4022398,
+    "longitude": 15.5731949
+  },
+  {
+    "id": 2514,
+    "name": "Městský fotbalový stadion Srbská",
+    "city": "Brno",
+    "capacity": 12550,
+    "latitude": 49.2271866,
+    "longitude": 16.5865472
+  },
+  {
+    "id": 2517,
+    "name": "Fotbalový stadion Střelecký ostrov",
+    "city": "Ceské Budejovice",
+    "capacity": 6746,
+    "latitude": 48.966949,
+    "longitude": 14.4675619
+  },
+  {
+    "id": 11958,
+    "name": "Sportovní areál Drnovice",
+    "city": "Drnovice",
+    "capacity": 6616,
+    "latitude": 49.2756379,
+    "longitude": 16.9537577
+  },
+  {
+    "id": 260521190851,
+    "name": "Sportovní areál Slavoj",
+    "city": "Rousínov",
+    "capacity": null,
+    "latitude": 49.2072845,
+    "longitude": 16.877708
+  },
+  {
+    "id": 198646122669,
+    "name": "Fotbalové hřiště TJ Kolovec",
+    "city": "Klenčí pod Čerchovem",
+    "capacity": null,
+    "latitude": 49.4884426,
+    "longitude": 13.1134613
+  },
+  {
+    "id": 882252355571,
+    "name": "Fotbalový stadion Čechovice",
+    "city": "Prostějov",
+    "capacity": null,
+    "latitude": 49.4664344,
+    "longitude": 17.0739536
+  },
+  {
+    "id": 374201682976,
+    "name": "Sportovní areál TJ MILO Olomouc",
+    "city": "Olomouc",
+    "capacity": null,
+    "latitude": 49.6003318,
+    "longitude": 17.249766
+  },
+  {
+    "id": 21821,
+    "name": "Tráva Zásada",
+    "city": "Zásada",
+    "capacity": 1000,
+    "latitude": 50.6976844,
+    "longitude": 15.2699399
+  },
+  {
+    "id": 22064,
+    "name": "Hrište Psáry",
+    "city": "Psáry",
+    "capacity": 1000,
+    "latitude": 49.9361636,
+    "longitude": 14.5118917
+  },
+  {
+    "id": 970651314209,
+    "name": "Městský stadion Žatec",
+    "city": "Žatec",
+    "capacity": 1500,
+    "latitude": 50.32306,
+    "longitude": 13.5455872
+  },
+  {
+    "id": 992358919637,
+    "name": "Sportovní areál",
+    "city": "Železnice",
+    "capacity": null,
+    "latitude": 50.47463,
+    "longitude": 15.3863112
+  },
+  {
+    "id": 286,
+    "name": "Stadion Ticha",
+    "city": "Dolni Chiflik",
+    "capacity": 1000,
+    "latitude": 43.2157421,
+    "longitude": 27.9312899
+  },
+  {
+    "id": 21822,
+    "name": "Fotbalový stadion Pod Jelenicí",
+    "city": "Česká Třebová",
+    "capacity": 2000,
+    "latitude": 49.9098735,
+    "longitude": 16.4349525
+  },
+  {
+    "id": 18760,
+    "name": "Bazaly",
+    "city": "Slezská Ostrava",
+    "capacity": 17372,
+    "latitude": 49.8433526,
+    "longitude": 18.3007393
+  }
+]
