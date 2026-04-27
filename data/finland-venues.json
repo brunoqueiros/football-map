@@ -1,0 +1,2458 @@
+[
+  {
+    "id": 2697,
+    "name": "Kauniaisten Keskuskenttä",
+    "city": "Grankulla",
+    "capacity": 3500,
+    "latitude": 60.2160088,
+    "longitude": 24.708471
+  },
+  {
+    "id": 626,
+    "name": "Kymenlaakson Sähkö Stadion",
+    "city": "Myllykoski",
+    "capacity": 4167,
+    "latitude": 60.77273239999999,
+    "longitude": 26.7904471
+  },
+  {
+    "id": 847685578532,
+    "name": "Töölön Pallokenttä",
+    "city": "Helsinki",
+    "capacity": 1000,
+    "latitude": 60.18835439999999,
+    "longitude": 24.9223746
+  },
+  {
+    "id": 6354,
+    "name": "Klaukkala nurmi",
+    "city": "Nurmijärvi",
+    "capacity": 1000,
+    "latitude": 60.3811963,
+    "longitude": 24.7382524
+  },
+  {
+    "id": 6355,
+    "name": "Kimpisen Urheilupuisto",
+    "city": "Lappeenranta",
+    "capacity": 4900,
+    "latitude": 61.0623033,
+    "longitude": 28.1976292
+  },
+  {
+    "id": 6356,
+    "name": "Kisapuiston tekonurmi",
+    "city": "Lahti",
+    "capacity": 1000,
+    "latitude": 60.98739879999999,
+    "longitude": 25.6508061
+  },
+  {
+    "id": 8444,
+    "name": "Talin jalkapallohalli",
+    "city": "Helsinki",
+    "capacity": 1000,
+    "latitude": 60.2146701,
+    "longitude": 24.8681515
+  },
+  {
+    "id": 18529,
+    "name": "Porvoon Keskuskenttä",
+    "city": "Porvoo",
+    "capacity": 500,
+    "latitude": 60.3938035,
+    "longitude": 25.6729166
+  },
+  {
+    "id": 7304,
+    "name": "Pukinmäki liikuntapuisto",
+    "city": "Helsinki",
+    "capacity": 2000,
+    "latitude": 60.24921380000001,
+    "longitude": 24.9917132
+  },
+  {
+    "id": 21661,
+    "name": "Järvenpää TN",
+    "city": "Järvenpää",
+    "capacity": 1947,
+    "latitude": 60.494975,
+    "longitude": 25.0752782
+  },
+  {
+    "id": 616,
+    "name": "Tapiolan Urheilupuisto",
+    "city": "Esbo",
+    "capacity": 5500,
+    "latitude": 60.1777787,
+    "longitude": 24.7813867
+  },
+  {
+    "id": 20186,
+    "name": "Tammelan Stadion (old)",
+    "city": "Tampere",
+    "capacity": 5060,
+    "latitude": 61.500345,
+    "longitude": 23.7853852
+  },
+  {
+    "id": 2696,
+    "name": "Myyrmäen jalkapallostadion",
+    "city": "Vantaa",
+    "capacity": 4600,
+    "latitude": 60.26184559999999,
+    "longitude": 24.8384748
+  },
+  {
+    "id": 6362,
+    "name": "Lamminpää urheilukenttä",
+    "city": "Tampere",
+    "capacity": 1000,
+    "latitude": 61.52002290000001,
+    "longitude": 23.6225213
+  },
+  {
+    "id": 6364,
+    "name": "Äijänsuon Stadion",
+    "city": "Rauma",
+    "capacity": 2000,
+    "latitude": 61.1213754,
+    "longitude": 21.5038034
+  },
+  {
+    "id": 6366,
+    "name": "Pyynikin urheilukenttä",
+    "city": "Tampere",
+    "capacity": 5000,
+    "latitude": 61.4956697,
+    "longitude": 23.7431932
+  },
+  {
+    "id": 6376,
+    "name": "Kaurialan kenttä",
+    "city": "Tavastehus",
+    "capacity": 8036,
+    "latitude": 60.9936094,
+    "longitude": 24.4419763
+  },
+  {
+    "id": 8440,
+    "name": "Laaksolahden tekonurmi",
+    "city": "Esbo",
+    "capacity": 1000,
+    "latitude": 60.2464673,
+    "longitude": 24.7483777
+  },
+  {
+    "id": 19486,
+    "name": "Keski-Espoon Urheilupuisto",
+    "city": "Esbo",
+    "capacity": 3320,
+    "latitude": 60.209515,
+    "longitude": 24.6750711
+  },
+  {
+    "id": 18464,
+    "name": "Kupittaan Kentät",
+    "city": "Åbo",
+    "capacity": 1000,
+    "latitude": 60.4440907,
+    "longitude": 22.2978808
+  },
+  {
+    "id": 2699,
+    "name": "Oulu-lehti Areena",
+    "city": "Oulu",
+    "capacity": 4717,
+    "latitude": 65.0299513,
+    "longitude": 25.4938109
+  },
+  {
+    "id": 620,
+    "name": "Kokkolan Keskuskenttä",
+    "city": "Kokkola",
+    "capacity": 3000,
+    "latitude": 63.84209480000001,
+    "longitude": 23.1223137
+  },
+  {
+    "id": 6367,
+    "name": "Länsikenttä tekonurmi",
+    "city": "Jacobstad",
+    "capacity": 3000,
+    "latitude": 63.6733333,
+    "longitude": 22.6955556
+  },
+  {
+    "id": 6380,
+    "name": "Mosedal",
+    "city": "Närpes",
+    "capacity": 5000,
+    "latitude": 62.4758491,
+    "longitude": 21.3624535
+  },
+  {
+    "id": 6381,
+    "name": "Puuluoto Tekonurmi",
+    "city": "Tornio",
+    "capacity": 1000,
+    "latitude": 65.7949856,
+    "longitude": 24.2051164
+  },
+  {
+    "id": 21655,
+    "name": "Pateniemi 2 TN",
+    "city": "Oulu",
+    "capacity": 1000,
+    "latitude": 65.0834019,
+    "longitude": 25.4032322
+  },
+  {
+    "id": 19388,
+    "name": "Kuopion kuplahalli",
+    "city": "Kuopio",
+    "capacity": 1000,
+    "latitude": 62.84028259999999,
+    "longitude": 27.658595
+  },
+  {
+    "id": 6383,
+    "name": "Viitaniemi tekonurmi",
+    "city": "Jyväskylä",
+    "capacity": 1500,
+    "latitude": 62.24871949999999,
+    "longitude": 25.7338749
+  },
+  {
+    "id": 502693892744,
+    "name": "OmaSp Stadion",
+    "city": "Seinäjoki",
+    "capacity": 6000,
+    "latitude": 62.7787356,
+    "longitude": 22.8148283
+  },
+  {
+    "id": 615,
+    "name": "Bolt Arena",
+    "city": "Helsinki",
+    "capacity": 10770,
+    "latitude": 60.18772199999999,
+    "longitude": 24.9227328
+  },
+  {
+    "id": 969362668113,
+    "name": "Tammelan Stadion",
+    "city": "Tampere",
+    "capacity": 8000,
+    "latitude": 61.500345,
+    "longitude": 23.7853852
+  },
+  {
+    "id": 1939,
+    "name": "Harjun stadion",
+    "city": "Jyväskylä",
+    "capacity": 5576,
+    "latitude": 62.2448506,
+    "longitude": 25.7404957
+  },
+  {
+    "id": 19621,
+    "name": "Algeco Areena TN",
+    "city": "Helsinki",
+    "capacity": 1000,
+    "latitude": 60.23868400000001,
+    "longitude": 25.0008285
+  },
+  {
+    "id": 22295,
+    "name": "Wiklöf Holding Arena",
+    "city": "Maarianhamina (Mariehamn)",
+    "capacity": 5637,
+    "latitude": 60.10248869999999,
+    "longitude": 19.9349422
+  },
+  {
+    "id": 22298,
+    "name": "Tapiolan Urheilupuisto",
+    "city": "Espoo (Esbo)",
+    "capacity": 5500,
+    "latitude": 60.1777787,
+    "longitude": 24.7813867
+  },
+  {
+    "id": 12286,
+    "name": "Väre Areena",
+    "city": "Kuopio",
+    "capacity": 8543,
+    "latitude": 62.88351609999999,
+    "longitude": 27.67305
+  },
+  {
+    "id": 22296,
+    "name": "Briotech Arena",
+    "city": "Helsinki",
+    "capacity": 1000,
+    "latitude": 60.2467247,
+    "longitude": 24.9221923
+  },
+  {
+    "id": 8455,
+    "name": "Tuusulan Urheilukeskus Stadion",
+    "city": "Tuusula",
+    "capacity": 3000,
+    "latitude": 60.39154749999999,
+    "longitude": 25.0341734
+  },
+  {
+    "id": 624,
+    "name": "Wiklöf Holding Arena",
+    "city": "Mariehamn",
+    "capacity": 5637,
+    "latitude": 60.10248869999999,
+    "longitude": 19.9349422
+  },
+  {
+    "id": 19205,
+    "name": "Lemonsoft Stadion",
+    "city": "Vaasa",
+    "capacity": 6000,
+    "latitude": 63.085286,
+    "longitude": 21.628166
+  },
+  {
+    "id": 629,
+    "name": "OmaSP Stadion",
+    "city": "Seinäjoki",
+    "capacity": 6000,
+    "latitude": 62.7787356,
+    "longitude": 22.8148283
+  },
+  {
+    "id": 10606,
+    "name": "Ratinan Stadion",
+    "city": "Tammerfors",
+    "capacity": 16820,
+    "latitude": 61.49268350000001,
+    "longitude": 23.7641405
+  },
+  {
+    "id": 618,
+    "name": "Veritas Stadion",
+    "city": "Åbo",
+    "capacity": 9372,
+    "latitude": 60.4427501,
+    "longitude": 22.2918193
+  },
+  {
+    "id": 623,
+    "name": "Lahden Stadion",
+    "city": "Lahti",
+    "capacity": 14465,
+    "latitude": 60.982944,
+    "longitude": 25.6342776
+  },
+  {
+    "id": 627,
+    "name": "Raatin stadion",
+    "city": "Oulu",
+    "capacity": 6996,
+    "latitude": 65.0199117,
+    "longitude": 25.4643921
+  },
+  {
+    "id": 20731,
+    "name": "Ekenäs Sparbank Arena TN",
+    "city": "Raseborg",
+    "capacity": 2500,
+    "latitude": 59.9734954,
+    "longitude": 23.4430861
+  },
+  {
+    "id": 614,
+    "name": "Tehtaan kenttä",
+    "city": "Valkeakoski",
+    "capacity": 5000,
+    "latitude": 61.2678253,
+    "longitude": 24.0214557
+  },
+  {
+    "id": 2698,
+    "name": "Mustapekka Areena",
+    "city": "Helsinki",
+    "capacity": 2500,
+    "latitude": 60.2346938,
+    "longitude": 24.9625191
+  },
+  {
+    "id": 628,
+    "name": "Rovaniemen Keskuskenttä",
+    "city": "Rovaniemi",
+    "capacity": 4768,
+    "latitude": 66.4998959,
+    "longitude": 25.7217447
+  },
+  {
+    "id": 625,
+    "name": "Porin Stadion",
+    "city": "Pori",
+    "capacity": 12000,
+    "latitude": 61.4767187,
+    "longitude": 21.7745624
+  },
+  {
+    "id": 619,
+    "name": "Jakobstads Centralplan (Pietarsaaren Keskuskenttä)",
+    "city": "Jacobstad",
+    "capacity": 4600,
+    "latitude": 63.6733333,
+    "longitude": 22.6955556
+  },
+  {
+    "id": 8432,
+    "name": "Arto Tolsa Areena",
+    "city": "Kotka",
+    "capacity": 4780,
+    "latitude": 60.457695,
+    "longitude": 26.9389495
+  },
+  {
+    "id": 20758,
+    "name": "Gentofte Sportspark Vest",
+    "city": "Gentofte",
+    "capacity": 1000,
+    "latitude": 55.757248,
+    "longitude": 12.5258645
+  },
+  {
+    "id": 6350,
+    "name": "Mehtimäki tekonurmi",
+    "city": "Joensuu",
+    "capacity": 1000,
+    "latitude": 62.60196519999999,
+    "longitude": 29.7367169
+  },
+  {
+    "id": 6351,
+    "name": "Järvenpään keskuskenttä",
+    "city": "Järvenpää",
+    "capacity": 1227,
+    "latitude": 60.46550449999999,
+    "longitude": 25.0949968
+  },
+  {
+    "id": 6353,
+    "name": "Mikkelin Urheilupuisto",
+    "city": "Mikkeli",
+    "capacity": 7000,
+    "latitude": 61.6870582,
+    "longitude": 27.2666211
+  },
+  {
+    "id": 6359,
+    "name": "Espoonlahden tekonurmi 2",
+    "city": "Espoo",
+    "capacity": 1200,
+    "latitude": 60.1455079,
+    "longitude": 24.6611634
+  },
+  {
+    "id": 6360,
+    "name": "Leppävaaran Stadion",
+    "city": "Esbo",
+    "capacity": 2800,
+    "latitude": 60.2258302,
+    "longitude": 24.7993498
+  },
+  {
+    "id": 18643,
+    "name": "R.V. Group Areena Nurmi",
+    "city": "Kaarina",
+    "capacity": 3000,
+    "latitude": 60.4136405,
+    "longitude": 22.3573469
+  },
+  {
+    "id": 12695,
+    "name": "Kumpulanlaakson tekonurmi",
+    "city": "Helsinki",
+    "capacity": 1000,
+    "latitude": 60.19968290000001,
+    "longitude": 24.9537183
+  },
+  {
+    "id": 6365,
+    "name": "Salon Urheilupuisto Stadion",
+    "city": "Salo",
+    "capacity": 2500,
+    "latitude": 60.3809111,
+    "longitude": 23.1410131
+  },
+  {
+    "id": 1756,
+    "name": "Kajaanin liikuntapuisto",
+    "city": "Kajaani",
+    "capacity": 1200,
+    "latitude": 64.2203687,
+    "longitude": 27.7275208
+  },
+  {
+    "id": 6368,
+    "name": "Sankariniemen kenttä",
+    "city": "Iisalmi",
+    "capacity": 2500,
+    "latitude": 63.5573018,
+    "longitude": 27.2053767
+  },
+  {
+    "id": 6370,
+    "name": "Vaajakosken urheilukenttä",
+    "city": "Vaajakoski",
+    "capacity": 3000,
+    "latitude": 62.2496096,
+    "longitude": 25.8703748
+  },
+  {
+    "id": 19485,
+    "name": "Saari Areena TN",
+    "city": "Helsinki",
+    "capacity": 1000,
+    "latitude": 60.1755066,
+    "longitude": 25.0555059
+  },
+  {
+    "id": 6372,
+    "name": "Kalevan Urheilupuisto nurmi",
+    "city": "Kerava",
+    "capacity": 500,
+    "latitude": 60.4108658,
+    "longitude": 25.0936445
+  },
+  {
+    "id": 6373,
+    "name": "Joutsenon keskuskenttä",
+    "city": "Joutseno",
+    "capacity": 1000,
+    "latitude": 61.11341520000001,
+    "longitude": 28.506324
+  },
+  {
+    "id": 6375,
+    "name": "Väinämöisen kenttä",
+    "city": "Helsinki",
+    "capacity": 1000,
+    "latitude": 60.1720595,
+    "longitude": 24.9175056
+  },
+  {
+    "id": 6377,
+    "name": "Matinkylän urheilupuisto",
+    "city": "Esbo",
+    "capacity": 500,
+    "latitude": 60.15938739999999,
+    "longitude": 24.7511244
+  },
+  {
+    "id": 6378,
+    "name": "Kuoppanummi Nurmi",
+    "city": "Vihti",
+    "capacity": 1500,
+    "latitude": 60.3379186,
+    "longitude": 24.3233921
+  },
+  {
+    "id": 7192,
+    "name": "Tikkurila urheilupuisto nurmi",
+    "city": "Vantaa",
+    "capacity": 1000,
+    "latitude": 60.2998457,
+    "longitude": 25.0241239
+  },
+  {
+    "id": 7305,
+    "name": "Pajbackan kenttä",
+    "city": "Parainen",
+    "capacity": 1362,
+    "latitude": 60.3009449,
+    "longitude": 22.2881892
+  },
+  {
+    "id": 18456,
+    "name": "Toejoki nurmi",
+    "city": "Pori",
+    "capacity": 1000,
+    "latitude": 61.5048144,
+    "longitude": 21.8076505
+  },
+  {
+    "id": 406586092852,
+    "name": "Brahen kenttä",
+    "city": "Helsinki",
+    "capacity": 1000,
+    "latitude": 60.1876022,
+    "longitude": 24.9495596
+  },
+  {
+    "id": 544634003872,
+    "name": "Ojamon tekonurmi",
+    "city": "Lohja",
+    "capacity": null,
+    "latitude": 60.2334393,
+    "longitude": 24.0261233
+  },
+  {
+    "id": 18457,
+    "name": "Tervakoski",
+    "city": "Janakkala",
+    "capacity": 1000,
+    "latitude": 60.8144972,
+    "longitude": 24.6258451
+  },
+  {
+    "id": 21604,
+    "name": "Töölö PK 3 TN",
+    "city": "Helsinki",
+    "capacity": 1000,
+    "latitude": 60.18845750000001,
+    "longitude": 24.9238308
+  },
+  {
+    "id": 8435,
+    "name": "Länsituuli TN",
+    "city": "Haukipudas",
+    "capacity": 1000,
+    "latitude": 65.17736289999999,
+    "longitude": 25.3333816
+  },
+  {
+    "id": 8436,
+    "name": "Hyvinkää UP Nurmi",
+    "city": "Hyvinkää",
+    "capacity": 4000,
+    "latitude": 60.64002670000001,
+    "longitude": 24.830829
+  },
+  {
+    "id": 8437,
+    "name": "Liinalammi Nurmi",
+    "city": "Janakkala",
+    "capacity": 1000,
+    "latitude": 60.9216299,
+    "longitude": 24.6272859
+  },
+  {
+    "id": 984459318873,
+    "name": "Bolt Arena",
+    "city": "Helsinki",
+    "capacity": 10770,
+    "latitude": 60.18772199999999,
+    "longitude": 24.9227328
+  },
+  {
+    "id": 541620081075,
+    "name": "Pohjan Stadion",
+    "city": "Tornio",
+    "capacity": 1500,
+    "latitude": 65.8523368,
+    "longitude": 24.1438889
+  },
+  {
+    "id": 8439,
+    "name": "Ala-Malmi nurmi",
+    "city": "Helsinki",
+    "capacity": 1000,
+    "latitude": 60.2472558,
+    "longitude": 25.0208769
+  },
+  {
+    "id": 183716470618,
+    "name": "Seinäjoen keskuskenttä",
+    "city": "Seinäjoki",
+    "capacity": 2500,
+    "latitude": 62.7828554,
+    "longitude": 22.850142
+  },
+  {
+    "id": 18458,
+    "name": "Käpylän urheilupuisto nurmi 2",
+    "city": "Helsinki",
+    "capacity": 1000,
+    "latitude": 60.20538320000001,
+    "longitude": 24.9409785
+  },
+  {
+    "id": 8468,
+    "name": "Kontulan Urheilupuisto",
+    "city": "Helsinki",
+    "capacity": 1000,
+    "latitude": 60.2343461,
+    "longitude": 25.0929096
+  },
+  {
+    "id": 8445,
+    "name": "Havukosken Tekonurmi",
+    "city": "Vantaa",
+    "capacity": 1000,
+    "latitude": 60.3159081,
+    "longitude": 25.0654095
+  },
+  {
+    "id": 684823968312,
+    "name": "Kuusankosken Keskuskenttä",
+    "city": "Kuusankoski",
+    "capacity": 2000,
+    "latitude": 60.91527929999999,
+    "longitude": 26.6068268
+  },
+  {
+    "id": 8446,
+    "name": "Harjun urheilukenttä",
+    "city": "Lohja",
+    "capacity": 3000,
+    "latitude": 60.2457274,
+    "longitude": 24.0648538
+  },
+  {
+    "id": 8447,
+    "name": "Riihimäki Pallokenttä Nurmi",
+    "city": "Riihimäki",
+    "capacity": 1000,
+    "latitude": 60.73083810000001,
+    "longitude": 24.7662644
+  },
+  {
+    "id": 101826690652,
+    "name": "Heinäpään Urheilukeskus",
+    "city": "Oulu",
+    "capacity": null,
+    "latitude": 64.9998626,
+    "longitude": 25.4538135
+  },
+  {
+    "id": 8450,
+    "name": "Paloheinän tekonurmi",
+    "city": "Helsinki",
+    "capacity": 1000,
+    "latitude": 60.2467247,
+    "longitude": 24.9221923
+  },
+  {
+    "id": 255645336340,
+    "name": "Nappulatekonurmi (Vuosaaren liikuntapuisto)",
+    "city": "Vuosaari",
+    "capacity": null,
+    "latitude": 60.2108209,
+    "longitude": 25.1564012
+  },
+  {
+    "id": 8453,
+    "name": "Ykspihlajan kenttä",
+    "city": "Kokkola",
+    "capacity": 200,
+    "latitude": 63.8408884,
+    "longitude": 23.0578893
+  },
+  {
+    "id": 680110319579,
+    "name": "Nekalan urheilukenttä",
+    "city": "Tampere",
+    "capacity": null,
+    "latitude": 61.4770541,
+    "longitude": 23.7840094
+  },
+  {
+    "id": 483078852690,
+    "name": "Pirkkolan Tekonurmi 1",
+    "city": "Helsinki",
+    "capacity": null,
+    "latitude": 60.23381610000001,
+    "longitude": 24.91458
+  },
+  {
+    "id": 646069827408,
+    "name": "Hakkarin urheilukenttä",
+    "city": "Lempäälä",
+    "capacity": 1500,
+    "latitude": 61.3410422,
+    "longitude": 23.7489121
+  },
+  {
+    "id": 18479,
+    "name": "Masku Taponketo nurmi",
+    "city": "Masku",
+    "capacity": 1500,
+    "latitude": 60.57030450000001,
+    "longitude": 22.1118876
+  },
+  {
+    "id": 89895320728,
+    "name": "Suurmetsän kenttä",
+    "city": "Helsinki",
+    "capacity": null,
+    "latitude": 60.2445573,
+    "longitude": 25.0838544
+  },
+  {
+    "id": 8463,
+    "name": "Nikkilän keskusurheilukenttä",
+    "city": "Sipoo",
+    "capacity": 2000,
+    "latitude": 60.36789049999999,
+    "longitude": 25.2678446
+  },
+  {
+    "id": 18459,
+    "name": "Naantali Kuparivuori",
+    "city": "Naantali",
+    "capacity": 1500,
+    "latitude": 60.4636334,
+    "longitude": 22.017891
+  },
+  {
+    "id": 8465,
+    "name": "Saharan tekonurmi",
+    "city": "Valkeakoski",
+    "capacity": 1000,
+    "latitude": 61.27139279999999,
+    "longitude": 24.0275268
+  },
+  {
+    "id": 8467,
+    "name": "Björkboda nurmi",
+    "city": "Kemiönsaari",
+    "capacity": 1500,
+    "latitude": 60.0876342,
+    "longitude": 22.5620099
+  },
+  {
+    "id": 20551,
+    "name": "Laajasalon kenttä",
+    "city": "Helsinki",
+    "capacity": 1500,
+    "latitude": 60.17456170000001,
+    "longitude": 25.0561277
+  },
+  {
+    "id": 206867080592,
+    "name": "Pirkkolan nurmikenttä",
+    "city": "Helsinki",
+    "capacity": null,
+    "latitude": 60.23381610000001,
+    "longitude": 24.91458
+  },
+  {
+    "id": 8471,
+    "name": "Nokian keskuskenttä",
+    "city": "Nokia",
+    "capacity": 550,
+    "latitude": 61.48398650000001,
+    "longitude": 23.5237928
+  },
+  {
+    "id": 866280313246,
+    "name": "Brahenkenttä",
+    "city": "Helsinki",
+    "capacity": 200,
+    "latitude": 60.1876022,
+    "longitude": 24.9495596
+  },
+  {
+    "id": 8472,
+    "name": "Kyrönniemi UK N",
+    "city": "Savonlinna",
+    "capacity": 1000,
+    "latitude": 61.86006169999999,
+    "longitude": 28.9120204
+  },
+  {
+    "id": 21605,
+    "name": "Vihtavuori Tekonurmi",
+    "city": "Laukaa",
+    "capacity": 1000,
+    "latitude": 62.3687553,
+    "longitude": 25.8960042
+  },
+  {
+    "id": 18460,
+    "name": "Mosan Wembley TN",
+    "city": "Helsinki",
+    "capacity": 1500,
+    "latitude": 60.2684409,
+    "longitude": 25.0310958
+  },
+  {
+    "id": 19487,
+    "name": "Selekta Areena",
+    "city": "Helsinki",
+    "capacity": 1000,
+    "latitude": 60.2336075,
+    "longitude": 24.8759244
+  },
+  {
+    "id": 8476,
+    "name": "Kristiinankenttä",
+    "city": "Kristinestad",
+    "capacity": 2000,
+    "latitude": 62.2739353,
+    "longitude": 21.3797701
+  },
+  {
+    "id": 8477,
+    "name": "Lapuan keskuskenttä",
+    "city": "Lapua",
+    "capacity": 3400,
+    "latitude": 62.9659042,
+    "longitude": 23.0121725
+  },
+  {
+    "id": 12202,
+    "name": "Jenkins Park",
+    "city": "Millbrook",
+    "capacity": 1000,
+    "latitude": 50.3504876,
+    "longitude": -4.2105526
+  },
+  {
+    "id": 10673,
+    "name": "Euran Wembley",
+    "city": "Eura",
+    "capacity": 2500,
+    "latitude": 61.1214144,
+    "longitude": 22.1464917
+  },
+  {
+    "id": 21662,
+    "name": "High Pine Lane Nurmi",
+    "city": "Lehmo",
+    "capacity": 1000,
+    "latitude": 62.6462835,
+    "longitude": 29.817435
+  },
+  {
+    "id": 292341454013,
+    "name": "Kupittaan Urheilupuisto",
+    "city": "Turku",
+    "capacity": null,
+    "latitude": 60.4440907,
+    "longitude": 22.2978808
+  },
+  {
+    "id": 712790623280,
+    "name": "Alavus Areena",
+    "city": "Alavus",
+    "capacity": null,
+    "latitude": 62.593398,
+    "longitude": 23.6237364
+  },
+  {
+    "id": 651303505861,
+    "name": "Monninkylän nurmikenttä",
+    "city": "Askola",
+    "capacity": null,
+    "latitude": 60.49792479999999,
+    "longitude": 25.5392608
+  },
+  {
+    "id": 102765454600,
+    "name": "Tikkurilan urheilupuisto",
+    "city": "Vantaa",
+    "capacity": null,
+    "latitude": 60.2998457,
+    "longitude": 25.0241239
+  },
+  {
+    "id": 346946778200,
+    "name": "Eurajoen Urheilukenttä",
+    "city": "Eurajoki",
+    "capacity": null,
+    "latitude": 61.21409380000001,
+    "longitude": 21.758326
+  },
+  {
+    "id": 249740639705,
+    "name": "Eurajoen urheilukenttä",
+    "city": "Eurajoki",
+    "capacity": null,
+    "latitude": 61.21409380000001,
+    "longitude": 21.758326
+  },
+  {
+    "id": 957345355933,
+    "name": "Kangasalan keskusurheilukenttä",
+    "city": "Kangasala",
+    "capacity": null,
+    "latitude": 61.4815171,
+    "longitude": 24.015513
+  },
+  {
+    "id": 858590327161,
+    "name": "Rovaniemen Keskuskenttä",
+    "city": "Rovaniemi",
+    "capacity": 2800,
+    "latitude": 66.4998959,
+    "longitude": 25.7217447
+  },
+  {
+    "id": 21656,
+    "name": "Kauppi 3 tekonurmi",
+    "city": "Tampere",
+    "capacity": 1500,
+    "latitude": 61.5087919,
+    "longitude": 23.8116121
+  },
+  {
+    "id": 479279931867,
+    "name": "Mustapekka Areena",
+    "city": "Helsinki",
+    "capacity": 1182,
+    "latitude": 60.2346938,
+    "longitude": 24.9625191
+  },
+  {
+    "id": 195064316232,
+    "name": "Urpolan tekonurmi",
+    "city": "Mikkeli",
+    "capacity": null,
+    "latitude": 61.677579,
+    "longitude": 27.2588857
+  },
+  {
+    "id": 18462,
+    "name": "Hamina UK N",
+    "city": "Hamina",
+    "capacity": 1000,
+    "latitude": 60.16701070000001,
+    "longitude": 24.9421286
+  },
+  {
+    "id": 16627105826,
+    "name": "Tehtaan kenttä",
+    "city": "Valkeakoski",
+    "capacity": 3516,
+    "latitude": 61.2678253,
+    "longitude": 24.0214557
+  },
+  {
+    "id": 274056938634,
+    "name": "Tehtaan kenttä",
+    "city": "Valkeakoski",
+    "capacity": 3516,
+    "latitude": 61.2678253,
+    "longitude": 24.0214557
+  },
+  {
+    "id": 20552,
+    "name": "Kaitaa Tekonurmi",
+    "city": "Espoo",
+    "capacity": 1000,
+    "latitude": 60.15000320000001,
+    "longitude": 24.6986553
+  },
+  {
+    "id": 398535096656,
+    "name": "Ilmajoen urheilukenttä",
+    "city": "Ilmajoki",
+    "capacity": null,
+    "latitude": 62.7288009,
+    "longitude": 22.5683982
+  },
+  {
+    "id": 18463,
+    "name": "Karhumäki Nurmi",
+    "city": "Imatra",
+    "capacity": 1000,
+    "latitude": 61.1987925,
+    "longitude": 28.7572893
+  },
+  {
+    "id": 817308061470,
+    "name": "Kaupin urheilupuisto",
+    "city": "Tampere",
+    "capacity": null,
+    "latitude": 61.51047149999999,
+    "longitude": 23.8081184
+  },
+  {
+    "id": 821834271760,
+    "name": "Kaupin urheilupuisto",
+    "city": "Tampere",
+    "capacity": null,
+    "latitude": 61.51047149999999,
+    "longitude": 23.8081184
+  },
+  {
+    "id": 8442,
+    "name": "Urheilupuiston Yläkenttä",
+    "city": "Åbo",
+    "capacity": 2675,
+    "latitude": 60.4430468,
+    "longitude": 22.2660124
+  },
+  {
+    "id": 938003831308,
+    "name": "Järvenpään Keskusurheilukenttä",
+    "city": "Järvenpää",
+    "capacity": 1500,
+    "latitude": 60.46550449999999,
+    "longitude": 25.0949968
+  },
+  {
+    "id": 535944417842,
+    "name": "Arto Tolsa Areena",
+    "city": "Kotka",
+    "capacity": 4780,
+    "latitude": 60.457695,
+    "longitude": 26.9389495
+  },
+  {
+    "id": 441405517581,
+    "name": "Santahaka",
+    "city": "Kokkola",
+    "capacity": null,
+    "latitude": 63.8399509,
+    "longitude": 23.0936317
+  },
+  {
+    "id": 391853346026,
+    "name": "Kajaanin Liikuntapuisto",
+    "city": "Kajaani",
+    "capacity": 1000,
+    "latitude": 64.2203687,
+    "longitude": 27.7275208
+  },
+  {
+    "id": 410872386235,
+    "name": "Kaarinan Keskuskenttä",
+    "city": "Kaarina",
+    "capacity": 300,
+    "latitude": 60.41041879999999,
+    "longitude": 22.3581095
+  },
+  {
+    "id": 1938,
+    "name": "Sauvosaaren Takakenttä N",
+    "city": "Kemi",
+    "capacity": 5000,
+    "latitude": 65.7296475,
+    "longitude": 24.5623427
+  },
+  {
+    "id": 282195603508,
+    "name": "Laaksolahden kenttä",
+    "city": "Espoo",
+    "capacity": null,
+    "latitude": 60.2464673,
+    "longitude": 24.7483777
+  },
+  {
+    "id": 21606,
+    "name": "Keuruun Keskusurheilukenttä",
+    "city": "Keuruu",
+    "capacity": 1000,
+    "latitude": 62.26298139999999,
+    "longitude": 24.7043856
+  },
+  {
+    "id": 189241719531,
+    "name": "Brahenkenttä",
+    "city": "Helsinki",
+    "capacity": 1000,
+    "latitude": 60.1876022,
+    "longitude": 24.9495596
+  },
+  {
+    "id": 601807156653,
+    "name": "Kilon tekonurmi",
+    "city": "Espoo",
+    "capacity": null,
+    "latitude": 60.20919929999999,
+    "longitude": 24.7768923
+  },
+  {
+    "id": 18465,
+    "name": "Kirkkonummen urheilupuisto",
+    "city": "Kirkkonummi",
+    "capacity": 1000,
+    "latitude": 60.1268766,
+    "longitude": 24.4441938
+  },
+  {
+    "id": 749593600387,
+    "name": "Kirkkonummen Keskusurheilupuisto",
+    "city": "Kirkkonummi",
+    "capacity": null,
+    "latitude": 60.1268766,
+    "longitude": 24.4441938
+  },
+  {
+    "id": 20553,
+    "name": "Kotajärvi Nurmi",
+    "city": "Lemi",
+    "capacity": 1000,
+    "latitude": 61.07981239999999,
+    "longitude": 27.911956
+  },
+  {
+    "id": 827374099937,
+    "name": "Koivukylän urheilupuisto",
+    "city": "Vantaa",
+    "capacity": null,
+    "latitude": 60.3159081,
+    "longitude": 25.0654095
+  },
+  {
+    "id": 38522512090,
+    "name": "Konneveden Urheilukenttä",
+    "city": "Konnevesi",
+    "capacity": null,
+    "latitude": 62.6270613,
+    "longitude": 26.2846244
+  },
+  {
+    "id": 847005883704,
+    "name": "Kontulan liikuntapuisto",
+    "city": "Helsinki",
+    "capacity": null,
+    "latitude": 60.2343461,
+    "longitude": 25.0929096
+  },
+  {
+    "id": 19488,
+    "name": "Töölö PK 1 Tekonurmi",
+    "city": "Helsinki",
+    "capacity": 1000,
+    "latitude": 60.1855611,
+    "longitude": 24.9251253
+  },
+  {
+    "id": 8456,
+    "name": "Lauritsalan tekonurmi",
+    "city": "Lappeenranta",
+    "capacity": 1000,
+    "latitude": 61.0746361,
+    "longitude": 28.2691273
+  },
+  {
+    "id": 785482522915,
+    "name": "Länsi-Porin urheilukenttä",
+    "city": "Pori",
+    "capacity": null,
+    "latitude": 61.4874504,
+    "longitude": 21.726237
+  },
+  {
+    "id": 381254071695,
+    "name": "Lavian Urheilukenttä",
+    "city": "Lavia",
+    "capacity": null,
+    "latitude": 61.59810279999999,
+    "longitude": 22.5814774
+  },
+  {
+    "id": 808257130047,
+    "name": "Lieto Keskuskenttä",
+    "city": "Lieto",
+    "capacity": null,
+    "latitude": 60.5000096,
+    "longitude": 22.4526416
+  },
+  {
+    "id": 18466,
+    "name": "Lempäälä Hakkari UK",
+    "city": "Lempäälä",
+    "capacity": 1500,
+    "latitude": 61.3378459,
+    "longitude": 23.7590564
+  },
+  {
+    "id": 621,
+    "name": "Arto Tolsa Areena",
+    "city": "Kotka",
+    "capacity": 4780,
+    "latitude": 60.457695,
+    "longitude": 26.9389495
+  },
+  {
+    "id": 33733095567,
+    "name": "Myllypuron liikuntapuisto",
+    "city": "Helsinki",
+    "capacity": null,
+    "latitude": 60.21652169999999,
+    "longitude": 25.0793037
+  },
+  {
+    "id": 135535699099,
+    "name": "Nastolan urheilukenttä",
+    "city": "Nastola",
+    "capacity": null,
+    "latitude": 60.9428062,
+    "longitude": 25.9693112
+  },
+  {
+    "id": 8458,
+    "name": "Joensuun Keskuskenttä",
+    "city": "Joensuu",
+    "capacity": 2000,
+    "latitude": 62.6010134,
+    "longitude": 29.745127
+  },
+  {
+    "id": 54272826936,
+    "name": "Nikinmäen kenttä",
+    "city": "Vantaa",
+    "capacity": null,
+    "latitude": 60.34145349999999,
+    "longitude": 25.1244745
+  },
+  {
+    "id": 20554,
+    "name": "Koivusaaren tekonurmi",
+    "city": "Järvenpää",
+    "capacity": 1000,
+    "latitude": 60.494975,
+    "longitude": 25.0752782
+  },
+  {
+    "id": 580589526585,
+    "name": "Espoonlahden urheilupuisto",
+    "city": "Espoo",
+    "capacity": null,
+    "latitude": 60.1463818,
+    "longitude": 24.6639345
+  },
+  {
+    "id": 889696279058,
+    "name": "Castrén kenttä",
+    "city": "Oulu",
+    "capacity": null,
+    "latitude": 65.0299513,
+    "longitude": 25.4938109
+  },
+  {
+    "id": 745273100051,
+    "name": "Lauritsalan kenttä",
+    "city": "Lappeenranta",
+    "capacity": 500,
+    "latitude": 61.07455549999999,
+    "longitude": 28.266425
+  },
+  {
+    "id": 859245673533,
+    "name": "Myyrmäen jalkapallostadion",
+    "city": "Vantaa",
+    "capacity": 4500,
+    "latitude": 60.26184559999999,
+    "longitude": 24.8384748
+  },
+  {
+    "id": 913082116296,
+    "name": "POHU Areena",
+    "city": "Helsinki",
+    "capacity": null,
+    "latitude": 60.2336075,
+    "longitude": 24.8759244
+  },
+  {
+    "id": 329463487730,
+    "name": "Pohjois-Haagan tekonurmi",
+    "city": "Helsinki",
+    "capacity": null,
+    "latitude": 60.2221464,
+    "longitude": 24.8982999
+  },
+  {
+    "id": 122710455415,
+    "name": "Paloheinä tekonurmi",
+    "city": "Helsinki",
+    "capacity": null,
+    "latitude": 60.2467247,
+    "longitude": 24.9221923
+  },
+  {
+    "id": 21607,
+    "name": "POP-Areena",
+    "city": "Kaarina",
+    "capacity": 1000,
+    "latitude": 60.4212522,
+    "longitude": 22.4691394
+  },
+  {
+    "id": 18467,
+    "name": "Porin Stadion",
+    "city": "Pori",
+    "capacity": 12000,
+    "latitude": 61.4767187,
+    "longitude": 21.7745624
+  },
+  {
+    "id": 289847726050,
+    "name": "Karhulan keskuskenttä",
+    "city": "Kotka",
+    "capacity": 1000,
+    "latitude": 60.51748319999999,
+    "longitude": 26.9245073
+  },
+  {
+    "id": 310878292551,
+    "name": "Brahenkenttä",
+    "city": "Helsinki",
+    "capacity": 1200,
+    "latitude": 60.1876022,
+    "longitude": 24.9495596
+  },
+  {
+    "id": 18468,
+    "name": "Puistolan liikuntapuisto",
+    "city": "Helsinki",
+    "capacity": 2500,
+    "latitude": 60.273177,
+    "longitude": 25.0190517
+  },
+  {
+    "id": 464514113572,
+    "name": "Pateniemen Urheilukeskus",
+    "city": "Oulu",
+    "capacity": null,
+    "latitude": 65.0834019,
+    "longitude": 25.4032322
+  },
+  {
+    "id": 323143272687,
+    "name": "Rovaniemen keskuskenttä",
+    "city": "Rovaniemi",
+    "capacity": 2800,
+    "latitude": 66.4998959,
+    "longitude": 25.7217447
+  },
+  {
+    "id": 650807403773,
+    "name": "Uusmäen ulkokuntosali",
+    "city": "Espoo",
+    "capacity": 500,
+    "latitude": 60.23828619999999,
+    "longitude": 24.821863
+  },
+  {
+    "id": 18469,
+    "name": "Saarenkylä 1",
+    "city": "Rovaniemi",
+    "capacity": 2000,
+    "latitude": 66.51788429999999,
+    "longitude": 25.7833393
+  },
+  {
+    "id": 272555656579,
+    "name": "Järvenpään keskuskenttä",
+    "city": "Järvenpää",
+    "capacity": 1000,
+    "latitude": 60.46550449999999,
+    "longitude": 25.0949968
+  },
+  {
+    "id": 18470,
+    "name": "Sundom Arena",
+    "city": "Sundom",
+    "capacity": 3000,
+    "latitude": 63.0374567,
+    "longitude": 21.5510855
+  },
+  {
+    "id": 18471,
+    "name": "Pieksämäki Keskuskenttä",
+    "city": "Pieksämäki",
+    "capacity": 1000,
+    "latitude": 62.2966607,
+    "longitude": 27.1457171
+  },
+  {
+    "id": 114313658246,
+    "name": "Matinkylän tekonurmi",
+    "city": "Espoo",
+    "capacity": null,
+    "latitude": 60.15781819999999,
+    "longitude": 24.752312
+  },
+  {
+    "id": 21608,
+    "name": "Jouppilanvuoren tekonurmi",
+    "city": "Seinäjoki",
+    "capacity": 2500,
+    "latitude": 62.7791334,
+    "longitude": 22.8107159
+  },
+  {
+    "id": 921225891043,
+    "name": "Viitaniemen urheilukenttä",
+    "city": "Jyväskylä",
+    "capacity": null,
+    "latitude": 62.2487338,
+    "longitude": 25.7336075
+  },
+  {
+    "id": 966239480119,
+    "name": "Kallion Kenttä",
+    "city": "Helsinki",
+    "capacity": 1000,
+    "latitude": 60.1876022,
+    "longitude": 24.9495596
+  },
+  {
+    "id": 465114755995,
+    "name": "Kallion tekonurmi",
+    "city": "Helsinki",
+    "capacity": null,
+    "latitude": 60.1876017,
+    "longitude": 24.9495616
+  },
+  {
+    "id": 564572806076,
+    "name": "Pohjan Stadion",
+    "city": "Tornio",
+    "capacity": 1000,
+    "latitude": 65.8523368,
+    "longitude": 24.1438889
+  },
+  {
+    "id": 938590378554,
+    "name": "Lippumäen ylipainehalli",
+    "city": "Kuopio",
+    "capacity": null,
+    "latitude": 62.84028259999999,
+    "longitude": 27.658595
+  },
+  {
+    "id": 18472,
+    "name": "Raunistula KHT",
+    "city": "Åbo",
+    "capacity": 1000,
+    "latitude": 60.4640613,
+    "longitude": 22.2656181
+  },
+  {
+    "id": 864469437229,
+    "name": "Castrenin kenttä",
+    "city": "Oulu",
+    "capacity": 1000,
+    "latitude": 65.0299513,
+    "longitude": 25.4938109
+  },
+  {
+    "id": 534718346346,
+    "name": "Marjamaan kenttä",
+    "city": "Turku",
+    "capacity": null,
+    "latitude": 60.4394722,
+    "longitude": 22.2699852
+  },
+  {
+    "id": 482953646986,
+    "name": "Myyrmäen jalkapallostadion",
+    "city": "Vantaa",
+    "capacity": 4500,
+    "latitude": 60.26184559999999,
+    "longitude": 24.8384748
+  },
+  {
+    "id": 18473,
+    "name": "Puotilan tekonurmi",
+    "city": "Helsinki",
+    "capacity": 1500,
+    "latitude": 60.21473200000001,
+    "longitude": 25.097364
+  },
+  {
+    "id": 667013712700,
+    "name": "Valkealan Urheilukenttä",
+    "city": "Kouvola",
+    "capacity": null,
+    "latitude": 60.93953330000001,
+    "longitude": 26.8061702
+  },
+  {
+    "id": 634589486394,
+    "name": "Vihtavuoren Urheilukenttä",
+    "city": "Laukaa",
+    "capacity": null,
+    "latitude": 62.3687553,
+    "longitude": 25.8960042
+  },
+  {
+    "id": 139968239941,
+    "name": "Heinäpään jalkapallohalli",
+    "city": "Oulu",
+    "capacity": null,
+    "latitude": 64.9987939,
+    "longitude": 25.4542553
+  },
+  {
+    "id": 565136959026,
+    "name": "Myyrmäen jalkapallostadion",
+    "city": "Vantaa",
+    "capacity": 4600,
+    "latitude": 60.26184559999999,
+    "longitude": 24.8384748
+  },
+  {
+    "id": 21609,
+    "name": "Paloaukea Tekonurmi",
+    "city": "Liperi",
+    "capacity": 1000,
+    "latitude": 62.6269007,
+    "longitude": 29.5492211
+  },
+  {
+    "id": 21610,
+    "name": "Soppeenharjun tekonurmi",
+    "city": "Ylöjärvi",
+    "capacity": 1000,
+    "latitude": 61.5390098,
+    "longitude": 23.5989151
+  },
+  {
+    "id": 752899208715,
+    "name": "Urheilupuiston yläkenttä",
+    "city": "Turku",
+    "capacity": null,
+    "latitude": 60.4430468,
+    "longitude": 22.2660124
+  },
+  {
+    "id": 656196742856,
+    "name": "Espoonlahden urheilupuisto",
+    "city": "Espoo",
+    "capacity": 1000,
+    "latitude": 60.1463818,
+    "longitude": 24.6639345
+  },
+  {
+    "id": 737264635229,
+    "name": "Haukiputaan Keskusurheilukenttä",
+    "city": "Oulu",
+    "capacity": null,
+    "latitude": 65.1771771,
+    "longitude": 25.3725617
+  },
+  {
+    "id": 371947726983,
+    "name": "Espoonlahden urheilupuisto",
+    "city": "Espoo",
+    "capacity": null,
+    "latitude": 60.1463818,
+    "longitude": 24.6639345
+  },
+  {
+    "id": 18478,
+    "name": "Heinolan UP Nurmi",
+    "city": "Heinola",
+    "capacity": 1000,
+    "latitude": 61.2094355,
+    "longitude": 26.0478985
+  },
+  {
+    "id": 18480,
+    "name": "Sportpark Noord",
+    "city": "Groesbeek",
+    "capacity": 2200,
+    "latitude": 51.78904259999999,
+    "longitude": 5.913183900000001
+  },
+  {
+    "id": 564653332330,
+    "name": "Myyrmäen jalkapallostadion",
+    "city": "Vantaa",
+    "capacity": 4600,
+    "latitude": 60.26184559999999,
+    "longitude": 24.8384748
+  },
+  {
+    "id": 6357,
+    "name": "Kouvolan keskusurheilukenttä",
+    "city": "Kouvola",
+    "capacity": 8000,
+    "latitude": 60.8718976,
+    "longitude": 26.7131755
+  },
+  {
+    "id": 98574040103,
+    "name": "Pukinmäen liikuntapuisto",
+    "city": "Helsinki",
+    "capacity": null,
+    "latitude": 60.24921380000001,
+    "longitude": 24.9917132
+  },
+  {
+    "id": 362513622116,
+    "name": "Brahenkenttä",
+    "city": "Helsinki",
+    "capacity": 100,
+    "latitude": 60.1876022,
+    "longitude": 24.9495596
+  },
+  {
+    "id": 141903171932,
+    "name": "Veritas Stadion",
+    "city": "Turku",
+    "capacity": 9372,
+    "latitude": 60.4427501,
+    "longitude": 22.2918193
+  },
+  {
+    "id": 108960444241,
+    "name": "Pyynikin urheilukenttä",
+    "city": "Tampere",
+    "capacity": 3500,
+    "latitude": 61.4956697,
+    "longitude": 23.7431932
+  },
+  {
+    "id": 18662,
+    "name": "Comets Park",
+    "city": "Jyväskylä",
+    "capacity": 1000,
+    "latitude": 62.23292350000001,
+    "longitude": 25.6720011
+  },
+  {
+    "id": 589566705619,
+    "name": "Puistolan liikuntapuisto",
+    "city": "Helsinki",
+    "capacity": null,
+    "latitude": 60.273177,
+    "longitude": 25.0190517
+  },
+  {
+    "id": 21611,
+    "name": "Sarkkiranta TN",
+    "city": "Kempele",
+    "capacity": 1000,
+    "latitude": 64.9201376,
+    "longitude": 25.4677766
+  },
+  {
+    "id": 317813353344,
+    "name": "Porvoon pallokenttä",
+    "city": "Porvoo",
+    "capacity": null,
+    "latitude": 60.39200700000001,
+    "longitude": 25.6735119
+  },
+  {
+    "id": 859701261575,
+    "name": "Kaitaan koulu tekonurmi",
+    "city": "Espoo",
+    "capacity": null,
+    "latitude": 60.15000320000001,
+    "longitude": 24.6986553
+  },
+  {
+    "id": 494457183854,
+    "name": "Mokulla konstgräsplan",
+    "city": "Lahti",
+    "capacity": null,
+    "latitude": 61.0133955,
+    "longitude": 25.6622654
+  },
+  {
+    "id": 236569758834,
+    "name": "Kannelmäen tekonurmi",
+    "city": "Helsinki",
+    "capacity": null,
+    "latitude": 60.24355129999999,
+    "longitude": 24.8763363
+  },
+  {
+    "id": 616978521218,
+    "name": "Brahen kenttä",
+    "city": "Helsinki",
+    "capacity": 1000,
+    "latitude": 60.1876022,
+    "longitude": 24.9495596
+  },
+  {
+    "id": 120265661087,
+    "name": "Heteniityn kenttä",
+    "city": "Helsinki",
+    "capacity": null,
+    "latitude": 60.2168326,
+    "longitude": 25.1386339
+  },
+  {
+    "id": 749308684151,
+    "name": "Savonlinnan Keskuskenttä",
+    "city": "Savonlinna",
+    "capacity": 3000,
+    "latitude": 61.8618941,
+    "longitude": 28.9101477
+  },
+  {
+    "id": 201724390106,
+    "name": "Järvenpään keskuskenttä",
+    "city": "Järvenpää",
+    "capacity": 1000,
+    "latitude": 60.46550449999999,
+    "longitude": 25.0949968
+  },
+  {
+    "id": 630798092727,
+    "name": "Kontulan tekonurmi",
+    "city": "Helsinki",
+    "capacity": null,
+    "latitude": 60.2343461,
+    "longitude": 25.0929096
+  },
+  {
+    "id": 276767431968,
+    "name": "Kaarinan Keskuskenttä",
+    "city": "Kaarina",
+    "capacity": null,
+    "latitude": 60.41041879999999,
+    "longitude": 22.3581095
+  },
+  {
+    "id": 398146280521,
+    "name": "Kuusankosken Urheilupuisto",
+    "city": "Kouvola",
+    "capacity": 2000,
+    "latitude": 60.91527929999999,
+    "longitude": 26.6068268
+  },
+  {
+    "id": 21612,
+    "name": "Littoisten urheilukenttä",
+    "city": "Littoinen",
+    "capacity": 1000,
+    "latitude": 60.4476353,
+    "longitude": 22.4037255
+  },
+  {
+    "id": 49771050647,
+    "name": "Susivoudin Areena",
+    "city": "Rovaniemi",
+    "capacity": 300,
+    "latitude": 66.4857693,
+    "longitude": 25.7252739
+  },
+  {
+    "id": 427959553378,
+    "name": "Harjun urheilukenttä",
+    "city": "Lohja",
+    "capacity": 1500,
+    "latitude": 60.2457274,
+    "longitude": 24.0648538
+  },
+  {
+    "id": 21613,
+    "name": "Hänninkenttä tekonurmi",
+    "city": "Mikkeli",
+    "capacity": 1000,
+    "latitude": 61.6850025,
+    "longitude": 27.2677572
+  },
+  {
+    "id": 670868529967,
+    "name": "Taponniemen urheilukeskus",
+    "city": "Masku",
+    "capacity": null,
+    "latitude": 60.56935559999999,
+    "longitude": 22.111104
+  },
+  {
+    "id": 742159931751,
+    "name": "Hanninkenttä",
+    "city": "Mikkeli",
+    "capacity": null,
+    "latitude": 61.6850025,
+    "longitude": 27.2677572
+  },
+  {
+    "id": 252935972341,
+    "name": "Klaukkalan tekonurmi",
+    "city": "Klaukkala",
+    "capacity": null,
+    "latitude": 60.3811963,
+    "longitude": 24.7382524
+  },
+  {
+    "id": 829541960236,
+    "name": "Nokian Keskuskenttä",
+    "city": "Nokia",
+    "capacity": null,
+    "latitude": 61.48398650000001,
+    "longitude": 23.5237928
+  },
+  {
+    "id": 762034548267,
+    "name": "Hiidenkirnujen urheilupuisto",
+    "city": "Vihti",
+    "capacity": null,
+    "latitude": 60.34032989999999,
+    "longitude": 24.3139771
+  },
+  {
+    "id": 387382342343,
+    "name": "Myyrmäen jalkapallostadion",
+    "city": "Vantaa",
+    "capacity": 4600,
+    "latitude": 60.26184559999999,
+    "longitude": 24.8384748
+  },
+  {
+    "id": 43730379205,
+    "name": "Pohjois-Haagan tekonurmi",
+    "city": "Helsinki",
+    "capacity": null,
+    "latitude": 60.2221464,
+    "longitude": 24.8982999
+  },
+  {
+    "id": 19603,
+    "name": "Ponkila TN",
+    "city": "Muhos",
+    "capacity": 1000,
+    "latitude": 64.82000959999999,
+    "longitude": 26.0168325
+  },
+  {
+    "id": 487558868747,
+    "name": "Savonlinnan Keskuskenttä",
+    "city": "Savonlinna",
+    "capacity": 1000,
+    "latitude": 61.8618941,
+    "longitude": 28.9101477
+  },
+  {
+    "id": 415617245262,
+    "name": "Kilon Tekonurmi",
+    "city": "Espoo",
+    "capacity": null,
+    "latitude": 60.20919929999999,
+    "longitude": 24.7768923
+  },
+  {
+    "id": 18481,
+    "name": "Kaukajärvi Kenttä",
+    "city": "Tampere",
+    "capacity": 1000,
+    "latitude": 61.4687767,
+    "longitude": 23.876595
+  },
+  {
+    "id": 650089864547,
+    "name": "Pyynikin urheilukenttä",
+    "city": "Tampere",
+    "capacity": 6800,
+    "latitude": 61.4956697,
+    "longitude": 23.7431932
+  },
+  {
+    "id": 20555,
+    "name": "Tanhulan TN",
+    "city": "Toivala",
+    "capacity": 1000,
+    "latitude": 62.98912900000001,
+    "longitude": 27.7216104
+  },
+  {
+    "id": 387343722874,
+    "name": "Tuusulan urheilukeskus",
+    "city": "Tuusula",
+    "capacity": null,
+    "latitude": 60.39154749999999,
+    "longitude": 25.0341734
+  },
+  {
+    "id": 242799144287,
+    "name": "Käpylän urheilupuisto",
+    "city": "Helsinki",
+    "capacity": null,
+    "latitude": 60.20538320000001,
+    "longitude": 24.9409785
+  },
+  {
+    "id": 150328561153,
+    "name": "Heinäpään tekonurmi",
+    "city": "Oulu",
+    "capacity": null,
+    "latitude": 64.9987939,
+    "longitude": 25.4542553
+  },
+  {
+    "id": 765672917970,
+    "name": "Otaniemen urheilukenttä",
+    "city": "Espoo",
+    "capacity": null,
+    "latitude": 60.18504890000001,
+    "longitude": 24.8366214
+  },
+  {
+    "id": 13526886056,
+    "name": "Laajasalon urheilupuisto",
+    "city": "Helsinki",
+    "capacity": null,
+    "latitude": 60.17456170000001,
+    "longitude": 25.0561277
+  },
+  {
+    "id": 908801111961,
+    "name": "Castrenin kenttä",
+    "city": "Oulu",
+    "capacity": null,
+    "latitude": 65.0299513,
+    "longitude": 25.4938109
+  },
+  {
+    "id": 64606670005,
+    "name": "Lauttasaaren Urheilukenttä",
+    "city": "Helsinki",
+    "capacity": null,
+    "latitude": 60.163269,
+    "longitude": 24.8652381
+  },
+  {
+    "id": 322780889137,
+    "name": "Kaurialan kenttä",
+    "city": "Hämeenlinna",
+    "capacity": 500,
+    "latitude": 60.9936094,
+    "longitude": 24.4419763
+  },
+  {
+    "id": 549595042321,
+    "name": "Malmin urheilukenttä",
+    "city": "Helsinki",
+    "capacity": 1000,
+    "latitude": 60.2472558,
+    "longitude": 25.0208769
+  },
+  {
+    "id": 403630980703,
+    "name": "Elisabetin kenttä",
+    "city": "Vaasa",
+    "capacity": null,
+    "latitude": 63.0829549,
+    "longitude": 21.6398075
+  },
+  {
+    "id": 98329889074,
+    "name": "Ekenäs Centrumplan",
+    "city": "Ekenäs",
+    "capacity": 2500,
+    "latitude": 59.9734954,
+    "longitude": 23.4430861
+  },
+  {
+    "id": 726031037397,
+    "name": "Espoonlahden urheilupuisto",
+    "city": "Espoo",
+    "capacity": 1000,
+    "latitude": 60.1463818,
+    "longitude": 24.6639345
+  },
+  {
+    "id": 192667855448,
+    "name": "Porvoon keskuskenttä",
+    "city": "Porvoo",
+    "capacity": 1000,
+    "latitude": 60.3938035,
+    "longitude": 25.6729166
+  },
+  {
+    "id": 27211868031,
+    "name": "Jätkäsaaren tekonurmi",
+    "city": "Helsinki",
+    "capacity": 500,
+    "latitude": 60.1548797,
+    "longitude": 24.9182595
+  },
+  {
+    "id": 894422909503,
+    "name": "Oulunkylän tekonurmi",
+    "city": "Helsinki",
+    "capacity": null,
+    "latitude": 60.23445659999999,
+    "longitude": 24.9604383
+  },
+  {
+    "id": 236167100623,
+    "name": "Bolt Arena",
+    "city": "Helsinki",
+    "capacity": 10770,
+    "latitude": 60.18772199999999,
+    "longitude": 24.9227328
+  },
+  {
+    "id": 67711997355,
+    "name": "Pullerin kenttä",
+    "city": "Hämeenlinna",
+    "capacity": null,
+    "latitude": 61.0029181,
+    "longitude": 24.430518
+  },
+  {
+    "id": 956580653587,
+    "name": "Haapaveden urheilukenttä",
+    "city": "Haapavesi",
+    "capacity": null,
+    "latitude": 64.1404044,
+    "longitude": 25.3727914
+  },
+  {
+    "id": 111016470868,
+    "name": "Pirkkolan jalkapallostadion",
+    "city": "Helsinki",
+    "capacity": 500,
+    "latitude": 60.23381610000001,
+    "longitude": 24.91458
+  },
+  {
+    "id": 226987604208,
+    "name": "Hamina keskuskenttä",
+    "city": "Hamina",
+    "capacity": null,
+    "latitude": 60.5732933,
+    "longitude": 27.1949812
+  },
+  {
+    "id": 967953349069,
+    "name": "Haukiputaan keskuskenttä",
+    "city": "Oulu",
+    "capacity": null,
+    "latitude": 65.1771771,
+    "longitude": 25.3725617
+  },
+  {
+    "id": 864564702760,
+    "name": "Urheilupuisto",
+    "city": "Heinola",
+    "capacity": null,
+    "latitude": 61.20577189999999,
+    "longitude": 26.0476305
+  },
+  {
+    "id": 516613195941,
+    "name": "Heinäpään urheilukeskus",
+    "city": "Oulu",
+    "capacity": null,
+    "latitude": 64.9998626,
+    "longitude": 25.4538135
+  },
+  {
+    "id": 8469,
+    "name": "Äänekosken Keskuskenttä nurmi",
+    "city": "Äänekoski",
+    "capacity": 1500,
+    "latitude": 62.6152707,
+    "longitude": 25.7152137
+  },
+  {
+    "id": 467096634034,
+    "name": "Pyynikin urheilukenttä",
+    "city": "Tampere",
+    "capacity": 3000,
+    "latitude": 61.4956697,
+    "longitude": 23.7431932
+  },
+  {
+    "id": 523305835436,
+    "name": "Urheilupuiston yläkenttä",
+    "city": "Turku",
+    "capacity": null,
+    "latitude": 60.4430468,
+    "longitude": 22.2660124
+  },
+  {
+    "id": 805895472910,
+    "name": "Joutsenon urheilukenttä",
+    "city": "Joutseno",
+    "capacity": null,
+    "latitude": 61.11341520000001,
+    "longitude": 28.506324
+  },
+  {
+    "id": 590811246652,
+    "name": "Porvoon keskuskenttä",
+    "city": "Porvoo",
+    "capacity": null,
+    "latitude": 60.3938035,
+    "longitude": 25.6729166
+  },
+  {
+    "id": 20556,
+    "name": "Kaskisten kuntoportaat",
+    "city": "Kaskinen",
+    "capacity": 1000,
+    "latitude": 62.39385385902933,
+    "longitude": 21.22897583751335
+  },
+  {
+    "id": 676839833993,
+    "name": "Äijänsuon stadion",
+    "city": "Rauma",
+    "capacity": 2000,
+    "latitude": 61.1213754,
+    "longitude": 21.5038034
+  },
+  {
+    "id": 574276064687,
+    "name": "Metsämaan kentät",
+    "city": "Pori",
+    "capacity": null,
+    "latitude": 61.4608065,
+    "longitude": 21.7705012
+  },
+  {
+    "id": 514281237064,
+    "name": "Espoonlahden urheilupuisto",
+    "city": "Espoo",
+    "capacity": null,
+    "latitude": 60.1463818,
+    "longitude": 24.6639345
+  },
+  {
+    "id": 342895793648,
+    "name": "Palokan tekonurmi",
+    "city": "Jyväskylä",
+    "capacity": null,
+    "latitude": 62.2889625,
+    "longitude": 25.7321153
+  },
+  {
+    "id": 749518491005,
+    "name": "Viitaniemen tekonurmi",
+    "city": "Jyväskylä",
+    "capacity": null,
+    "latitude": 62.24871949999999,
+    "longitude": 25.7338749
+  },
+  {
+    "id": 512732033989,
+    "name": "Kisapuiston jalkapallostadion",
+    "city": "Lahti",
+    "capacity": 4000,
+    "latitude": 60.98650740000001,
+    "longitude": 25.6504466
+  },
+  {
+    "id": 593358694321,
+    "name": "Joutsenon keskuskenttä",
+    "city": "Lappeenranta",
+    "capacity": null,
+    "latitude": 61.11341520000001,
+    "longitude": 28.506324
+  },
+  {
+    "id": 731228757325,
+    "name": "Max Westerberg Areena",
+    "city": "Helsinki",
+    "capacity": 2000,
+    "latitude": 60.20538320000001,
+    "longitude": 24.9409785
+  },
+  {
+    "id": 22687228768,
+    "name": "Kimpisen tekonurmi",
+    "city": "Lappeenranta",
+    "capacity": null,
+    "latitude": 61.06277170000001,
+    "longitude": 28.1986219
+  },
+  {
+    "id": 733822067162,
+    "name": "Mukkulan tekonurmi",
+    "city": "Lahti",
+    "capacity": null,
+    "latitude": 61.0133955,
+    "longitude": 25.6622654
+  },
+  {
+    "id": 840018982070,
+    "name": "Laihia Keskuskenttä",
+    "city": "Laihia",
+    "capacity": null,
+    "latitude": 62.97153609999999,
+    "longitude": 22.0117919
+  },
+  {
+    "id": 292528151653,
+    "name": "Leppävaaran stadion",
+    "city": "Espoo",
+    "capacity": 4000,
+    "latitude": 60.2258302,
+    "longitude": 24.7993498
+  },
+  {
+    "id": 98904089229,
+    "name": "Leppävaaran stadion",
+    "city": "Espoo",
+    "capacity": 3000,
+    "latitude": 60.2258302,
+    "longitude": 24.7993498
+  },
+  {
+    "id": 857221798372,
+    "name": "Luvian urheilukenttä",
+    "city": "Luvia",
+    "capacity": null,
+    "latitude": 61.363314,
+    "longitude": 21.6260082
+  },
+  {
+    "id": 125690263220,
+    "name": "Tikkurilan urheilutalo",
+    "city": "Vantaa",
+    "capacity": null,
+    "latitude": 60.2986983,
+    "longitude": 25.0291412
+  },
+  {
+    "id": 71961484189,
+    "name": "Muuramen Keskusurheilukenttä",
+    "city": "Muurame",
+    "capacity": null,
+    "latitude": 62.11771669999999,
+    "longitude": 25.6610164
+  },
+  {
+    "id": 820956970731,
+    "name": "Nurmijärven jalkapallostadion",
+    "city": "Klaukkala",
+    "capacity": null,
+    "latitude": 60.38261789999999,
+    "longitude": 24.7387478
+  },
+  {
+    "id": 820693697341,
+    "name": "Littoisten tekonurmi",
+    "city": "Littoinen",
+    "capacity": null,
+    "latitude": 60.4476353,
+    "longitude": 22.4037255
+  },
+  {
+    "id": 484521018098,
+    "name": "Castrénin kenttä",
+    "city": "Oulu",
+    "capacity": 1000,
+    "latitude": 65.0299513,
+    "longitude": 25.4938109
+  },
+  {
+    "id": 488796534497,
+    "name": "Haagan tekonurmi",
+    "city": "Helsinki",
+    "capacity": null,
+    "latitude": 60.2155691,
+    "longitude": 24.8932607
+  },
+  {
+    "id": 887206799022,
+    "name": "Pohjois-Haagan urheilukenttä",
+    "city": "Helsinki",
+    "capacity": null,
+    "latitude": 60.2155691,
+    "longitude": 24.8932607
+  },
+  {
+    "id": 476398123657,
+    "name": "Aktia Areena",
+    "city": "Parainen",
+    "capacity": 1000,
+    "latitude": 60.30055729999999,
+    "longitude": 22.2905614
+  },
+  {
+    "id": 490871632156,
+    "name": "Pitäjänmäen urheilukenttä",
+    "city": "Helsinki",
+    "capacity": null,
+    "latitude": 60.2255856,
+    "longitude": 24.8615415
+  },
+  {
+    "id": 896641960542,
+    "name": "Raision Keskuskenttä",
+    "city": "Raisio",
+    "capacity": null,
+    "latitude": 60.49026099999999,
+    "longitude": 22.1603064
+  },
+  {
+    "id": 865917628453,
+    "name": "LähiTapiola Areena",
+    "city": "Jyväskylä",
+    "capacity": null,
+    "latitude": 62.2376556,
+    "longitude": 25.7221776
+  },
+  {
+    "id": 271819695983,
+    "name": "TaPa-kenttä",
+    "city": "Tampere",
+    "capacity": null,
+    "latitude": 61.5275512,
+    "longitude": 23.6979199
+  },
+  {
+    "id": 535762868951,
+    "name": "Arabianrannan tekonurmi",
+    "city": "Helsinki",
+    "capacity": null,
+    "latitude": 60.2050543,
+    "longitude": 24.9757436
+  },
+  {
+    "id": 492344237866,
+    "name": "Kerttulan urheilukenttä",
+    "city": "Raisio",
+    "capacity": 1000,
+    "latitude": 60.49178010000001,
+    "longitude": 22.1582621
+  },
+  {
+    "id": 98387679588,
+    "name": "Heteniityn kenttä",
+    "city": "Helsinki",
+    "capacity": 1000,
+    "latitude": 60.2168326,
+    "longitude": 25.1386339
+  },
+  {
+    "id": 135482030561,
+    "name": "Urheilupuiston yläkenttä",
+    "city": "Turku",
+    "capacity": null,
+    "latitude": 60.4430468,
+    "longitude": 22.2660124
+  },
+  {
+    "id": 261740963907,
+    "name": "Pukinmäen Liikuntapuisto",
+    "city": "Helsinki",
+    "capacity": null,
+    "latitude": 60.24921380000001,
+    "longitude": 24.9917132
+  },
+  {
+    "id": 20611,
+    "name": "Oravais Centralplan",
+    "city": "Oravais",
+    "capacity": 1000,
+    "latitude": 63.28468400000001,
+    "longitude": 22.3768593
+  },
+  {
+    "id": 81123372836,
+    "name": "Siilinjärven Keskuskenttä",
+    "city": "Siilinjärvi",
+    "capacity": null,
+    "latitude": 62.98912900000001,
+    "longitude": 27.7216104
+  },
+  {
+    "id": 21614,
+    "name": "Österby Nurmi",
+    "city": "Raasepori",
+    "capacity": 1000,
+    "latitude": 60.12055029999999,
+    "longitude": 23.7199937
+  }
+]

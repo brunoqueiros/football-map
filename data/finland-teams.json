@@ -1,0 +1,3832 @@
+[
+    {
+        "id": 2079,
+        "name": "GrIFK",
+        "code": "GRI",
+        "country": "Finland",
+        "founded": 1925,
+        "national": false,
+        "logo": "2079.png",
+        "venue_id": 2697
+    },
+    {
+        "id": 2243,
+        "name": "MyPa",
+        "code": "MYP",
+        "country": "Finland",
+        "founded": 1947,
+        "national": false,
+        "logo": "2243.png",
+        "venue_id": 626
+    },
+    {
+        "id": 9174,
+        "name": "Kiffen",
+        "code": "KIF",
+        "country": "Finland",
+        "founded": 1908,
+        "national": false,
+        "logo": "9174.png",
+        "venue_id": 847685578532
+    },
+    {
+        "id": 9177,
+        "name": "NJS",
+        "code": "NJS",
+        "country": "Finland",
+        "founded": null,
+        "national": false,
+        "logo": "9177.png",
+        "venue_id": 6354
+    },
+    {
+        "id": 9178,
+        "name": "PEPO",
+        "code": null,
+        "country": "Finland",
+        "founded": 1958,
+        "national": false,
+        "logo": "9178.png",
+        "venue_id": 6355
+    },
+    {
+        "id": 9179,
+        "name": "Reipas",
+        "code": null,
+        "country": "Finland",
+        "founded": null,
+        "national": false,
+        "logo": "9179.png",
+        "venue_id": 6356
+    },
+    {
+        "id": 13508,
+        "name": "PPJ",
+        "code": null,
+        "country": "Finland",
+        "founded": null,
+        "national": false,
+        "logo": "13508.png",
+        "venue_id": 8444
+    },
+    {
+        "id": 13516,
+        "name": "Futura",
+        "code": "FUT",
+        "country": "Finland",
+        "founded": null,
+        "national": false,
+        "logo": "13516.png",
+        "venue_id": 18529
+    },
+    {
+        "id": 18485,
+        "name": "Atlantis II",
+        "code": null,
+        "country": "Finland",
+        "founded": null,
+        "national": false,
+        "logo": "18485.png",
+        "venue_id": 7304
+    },
+    {
+        "id": 18522,
+        "name": "JäPS II",
+        "code": null,
+        "country": "Finland",
+        "founded": null,
+        "national": false,
+        "logo": "18522.png",
+        "venue_id": 21661
+    },
+    {
+        "id": 1169,
+        "name": "Honka",
+        "code": "HON",
+        "country": "Finland",
+        "founded": 1957,
+        "national": false,
+        "logo": "1169.png",
+        "venue_id": 616
+    },
+    {
+        "id": 2244,
+        "name": "TPV",
+        "code": "TPV",
+        "country": "Finland",
+        "founded": 1930,
+        "national": false,
+        "logo": "2244.png",
+        "venue_id": 20186
+    },
+    {
+        "id": 6075,
+        "name": "VJS",
+        "code": null,
+        "country": "Finland",
+        "founded": null,
+        "national": false,
+        "logo": "6075.png",
+        "venue_id": 2696
+    },
+    {
+        "id": 9185,
+        "name": "Ilves II",
+        "code": null,
+        "country": "Finland",
+        "founded": null,
+        "national": false,
+        "logo": "9185.png",
+        "venue_id": 6362
+    },
+    {
+        "id": 9188,
+        "name": "P-Iirot",
+        "code": "PAL",
+        "country": "Finland",
+        "founded": 1930,
+        "national": false,
+        "logo": "9188.png",
+        "venue_id": 6364
+    },
+    {
+        "id": 9190,
+        "name": "Tampere United",
+        "code": null,
+        "country": "Finland",
+        "founded": 1998,
+        "national": false,
+        "logo": "9190.png",
+        "venue_id": 6366
+    },
+    {
+        "id": 9209,
+        "name": "HJS Akatemia",
+        "code": null,
+        "country": "Finland",
+        "founded": 2015,
+        "national": false,
+        "logo": "9209.png",
+        "venue_id": 6376
+    },
+    {
+        "id": 13491,
+        "name": "SexyPöxyt",
+        "code": null,
+        "country": "Finland",
+        "founded": null,
+        "national": false,
+        "logo": "13491.png",
+        "venue_id": 8440
+    },
+    {
+        "id": 13552,
+        "name": "EBK",
+        "code": null,
+        "country": "Finland",
+        "founded": 1940,
+        "national": false,
+        "logo": "13552.png",
+        "venue_id": 19486
+    },
+    {
+        "id": 13575,
+        "name": "I-Kissat",
+        "code": "ILV",
+        "country": "Finland",
+        "founded": 1932,
+        "national": false,
+        "logo": "13575.png",
+        "venue_id": 6362
+    },
+    {
+        "id": 18518,
+        "name": "Inter Turku II",
+        "code": null,
+        "country": "Finland",
+        "founded": null,
+        "national": false,
+        "logo": "18518.png",
+        "venue_id": 18464
+    },
+    {
+        "id": 2083,
+        "name": "OPS Oulu",
+        "code": "OPS",
+        "country": "Finland",
+        "founded": 1925,
+        "national": false,
+        "logo": "2083.png",
+        "venue_id": 2699
+    },
+    {
+        "id": 6073,
+        "name": "JS Hercules",
+        "code": null,
+        "country": "Finland",
+        "founded": 1998,
+        "national": false,
+        "logo": "6073.png",
+        "venue_id": 2699
+    },
+    {
+        "id": 9191,
+        "name": "GBK",
+        "code": "KOK",
+        "country": "Finland",
+        "founded": null,
+        "national": false,
+        "logo": "9191.png",
+        "venue_id": 620
+    },
+    {
+        "id": 9192,
+        "name": "JBK",
+        "code": "JBK",
+        "country": "Finland",
+        "founded": 1944,
+        "national": false,
+        "logo": "9192.png",
+        "venue_id": 6367
+    },
+    {
+        "id": 9213,
+        "name": "Kraft",
+        "code": "NAR",
+        "country": "Finland",
+        "founded": 1996,
+        "national": false,
+        "logo": "9213.png",
+        "venue_id": 6380
+    },
+    {
+        "id": 9214,
+        "name": "TP-47",
+        "code": "TP",
+        "country": "Finland",
+        "founded": null,
+        "national": false,
+        "logo": "9214.png",
+        "venue_id": 6381
+    },
+    {
+        "id": 9215,
+        "name": "OTP",
+        "code": null,
+        "country": "Finland",
+        "founded": 1946,
+        "national": false,
+        "logo": "9215.png",
+        "venue_id": 21655
+    },
+    {
+        "id": 13474,
+        "name": "Kuopion Elo",
+        "code": null,
+        "country": "Finland",
+        "founded": 1919,
+        "national": false,
+        "logo": "13474.png",
+        "venue_id": 19388
+    },
+    {
+        "id": 13563,
+        "name": "JPS",
+        "code": null,
+        "country": "Finland",
+        "founded": 1962,
+        "national": false,
+        "logo": "13563.png",
+        "venue_id": 6383
+    },
+    {
+        "id": 18609,
+        "name": "SJK-juniorit",
+        "code": null,
+        "country": "Finland",
+        "founded": null,
+        "national": false,
+        "logo": "18609.png",
+        "venue_id": 502693892744
+    },
+    {
+        "id": 10920,
+        "name": "PK-35 Vantaa W",
+        "code": null,
+        "country": "Finland",
+        "founded": 1935,
+        "national": false,
+        "logo": "10920.png",
+        "venue_id": 2696
+    },
+    {
+        "id": 13990,
+        "name": "HJK W",
+        "code": null,
+        "country": "Finland",
+        "founded": 1971,
+        "national": false,
+        "logo": "13990.png",
+        "venue_id": 615
+    },
+    {
+        "id": 13991,
+        "name": "Ilves W",
+        "code": null,
+        "country": "Finland",
+        "founded": 1931,
+        "national": false,
+        "logo": "13991.png",
+        "venue_id": 969362668113
+    },
+    {
+        "id": 13992,
+        "name": "JyPK W",
+        "code": null,
+        "country": "Finland",
+        "founded": null,
+        "national": false,
+        "logo": "13992.png",
+        "venue_id": 1939
+    },
+    {
+        "id": 13993,
+        "name": "PK-35 Helsinki W",
+        "code": null,
+        "country": "Finland",
+        "founded": null,
+        "national": false,
+        "logo": "13993.png",
+        "venue_id": 19621
+    },
+    {
+        "id": 13995,
+        "name": "Åland United W",
+        "code": null,
+        "country": "Finland",
+        "founded": 2004,
+        "national": false,
+        "logo": "13995.png",
+        "venue_id": 22295
+    },
+    {
+        "id": 13996,
+        "name": "Honka W",
+        "code": null,
+        "country": "Finland",
+        "founded": 1975,
+        "national": false,
+        "logo": "13996.png",
+        "venue_id": 22298
+    },
+    {
+        "id": 13997,
+        "name": "KuPS W",
+        "code": null,
+        "country": "Finland",
+        "founded": null,
+        "national": false,
+        "logo": "13997.png",
+        "venue_id": 12286
+    },
+    {
+        "id": 16383,
+        "name": "HPS W",
+        "code": null,
+        "country": "Finland",
+        "founded": null,
+        "national": false,
+        "logo": "16383.png",
+        "venue_id": 22296
+    },
+    {
+        "id": 22942,
+        "name": "PKKU W",
+        "code": null,
+        "country": "Finland",
+        "founded": null,
+        "national": false,
+        "logo": "22942.png",
+        "venue_id": 8455
+    },
+    {
+        "id": 587,
+        "name": "Mariehamn",
+        "code": "MAR",
+        "country": "Finland",
+        "founded": 1935,
+        "national": false,
+        "logo": "587.png",
+        "venue_id": 624
+    },
+    {
+        "id": 649,
+        "name": "HJK Helsinki",
+        "code": "HJK",
+        "country": "Finland",
+        "founded": 1907,
+        "national": false,
+        "logo": "649.png",
+        "venue_id": 615
+    },
+    {
+        "id": 650,
+        "name": "VPS",
+        "code": "VAA",
+        "country": "Finland",
+        "founded": 1924,
+        "national": false,
+        "logo": "650.png",
+        "venue_id": 19205
+    },
+    {
+        "id": 689,
+        "name": "SJK",
+        "code": "SJK",
+        "country": "Finland",
+        "founded": null,
+        "national": false,
+        "logo": "689.png",
+        "venue_id": 629
+    },
+    {
+        "id": 1163,
+        "name": "Ilves",
+        "code": "ILV",
+        "country": "Finland",
+        "founded": null,
+        "national": false,
+        "logo": "1163.png",
+        "venue_id": 10606
+    },
+    {
+        "id": 1164,
+        "name": "Inter Turku",
+        "code": "INT",
+        "country": "Finland",
+        "founded": 1990,
+        "national": false,
+        "logo": "1164.png",
+        "venue_id": 618
+    },
+    {
+        "id": 1165,
+        "name": "KuPS",
+        "code": "KUP",
+        "country": "Finland",
+        "founded": 1923,
+        "national": false,
+        "logo": "1165.png",
+        "venue_id": 12286
+    },
+    {
+        "id": 1166,
+        "name": "Lahti",
+        "code": "LAH",
+        "country": "Finland",
+        "founded": 1996,
+        "national": false,
+        "logo": "1166.png",
+        "venue_id": 623
+    },
+    {
+        "id": 2077,
+        "name": "AC Oulu",
+        "code": "OUL",
+        "country": "Finland",
+        "founded": 2002,
+        "national": false,
+        "logo": "2077.png",
+        "venue_id": 627
+    },
+    {
+        "id": 2078,
+        "name": "EIF",
+        "code": "EKE",
+        "country": "Finland",
+        "founded": 1905,
+        "national": false,
+        "logo": "2078.png",
+        "venue_id": 20731
+    },
+    {
+        "id": 2080,
+        "name": "Haka",
+        "code": "HAK",
+        "country": "Finland",
+        "founded": 1934,
+        "national": false,
+        "logo": "2080.png",
+        "venue_id": 614
+    },
+    {
+        "id": 2082,
+        "name": "Gnistan",
+        "code": "GNI",
+        "country": "Finland",
+        "founded": null,
+        "national": false,
+        "logo": "2082.png",
+        "venue_id": 2698
+    },
+    {
+        "id": 1167,
+        "name": "Rops",
+        "code": "ROV",
+        "country": "Finland",
+        "founded": 1950,
+        "national": false,
+        "logo": "1167.png",
+        "venue_id": 628
+    },
+    {
+        "id": 1168,
+        "name": "Turku PS",
+        "code": "TPS",
+        "country": "Finland",
+        "founded": 1922,
+        "national": false,
+        "logo": "1168.png",
+        "venue_id": 618
+    },
+    {
+        "id": 1171,
+        "name": "JJK",
+        "code": "JJK",
+        "country": "Finland",
+        "founded": 1923,
+        "national": false,
+        "logo": "1171.png",
+        "venue_id": 1939
+    },
+    {
+        "id": 2074,
+        "name": "FC jazz",
+        "code": "JAZ",
+        "country": "Finland",
+        "founded": 1934,
+        "national": false,
+        "logo": "2074.png",
+        "venue_id": 625
+    },
+    {
+        "id": 2075,
+        "name": "FF Jaro",
+        "code": "JAR",
+        "country": "Finland",
+        "founded": 1965,
+        "national": false,
+        "logo": "2075.png",
+        "venue_id": 619
+    },
+    {
+        "id": 2076,
+        "name": "Kooteepee",
+        "code": "KTP",
+        "country": "Finland",
+        "founded": 1927,
+        "national": false,
+        "logo": "2076.png",
+        "venue_id": 8432
+    },
+    {
+        "id": 2245,
+        "name": "Musa",
+        "code": null,
+        "country": "Finland",
+        "founded": 1960,
+        "national": false,
+        "logo": "2245.png",
+        "venue_id": 625
+    },
+    {
+        "id": 6021,
+        "name": "HIK",
+        "code": null,
+        "country": "Denmark",
+        "founded": 1900,
+        "national": false,
+        "logo": "6021.png",
+        "venue_id": 20758
+    },
+    {
+        "id": 6074,
+        "name": "Kiisto",
+        "code": null,
+        "country": "Finland",
+        "founded": null,
+        "national": false,
+        "logo": "6074.png",
+        "venue_id": 19205
+    },
+    {
+        "id": 9172,
+        "name": "JIPPO",
+        "code": "JIP",
+        "country": "Finland",
+        "founded": 2001,
+        "national": false,
+        "logo": "9172.png",
+        "venue_id": 6350
+    },
+    {
+        "id": 9173,
+        "name": "JäPS",
+        "code": "JAP",
+        "country": "Finland",
+        "founded": 1947,
+        "national": false,
+        "logo": "9173.png",
+        "venue_id": 6351
+    },
+    {
+        "id": 9175,
+        "name": "MP",
+        "code": null,
+        "country": "Finland",
+        "founded": 1929,
+        "national": false,
+        "logo": "9175.png",
+        "venue_id": 6353
+    },
+    {
+        "id": 9176,
+        "name": "MiPK",
+        "code": null,
+        "country": "Finland",
+        "founded": null,
+        "national": false,
+        "logo": "9176.png",
+        "venue_id": 6353
+    },
+    {
+        "id": 9182,
+        "name": "EPS",
+        "code": null,
+        "country": "Finland",
+        "founded": 1970,
+        "national": false,
+        "logo": "9182.png",
+        "venue_id": 6359
+    },
+    {
+        "id": 9183,
+        "name": "FC Espoo",
+        "code": null,
+        "country": "Finland",
+        "founded": 1989,
+        "national": false,
+        "logo": "9183.png",
+        "venue_id": 6360
+    },
+    {
+        "id": 9186,
+        "name": "KaaPo",
+        "code": null,
+        "country": "Finland",
+        "founded": null,
+        "national": false,
+        "logo": "9186.png",
+        "venue_id": 18643
+    },
+    {
+        "id": 9187,
+        "name": "KäPa",
+        "code": "KAP",
+        "country": "Finland",
+        "founded": 1956,
+        "national": false,
+        "logo": "9187.png",
+        "venue_id": 12695
+    },
+    {
+        "id": 9189,
+        "name": "SalPa",
+        "code": "SAL",
+        "country": "Finland",
+        "founded": 1956,
+        "national": false,
+        "logo": "9189.png",
+        "venue_id": 6365
+    },
+    {
+        "id": 9193,
+        "name": "KajHa",
+        "code": null,
+        "country": "Finland",
+        "founded": 1953,
+        "national": false,
+        "logo": "9193.png",
+        "venue_id": 1756
+    },
+    {
+        "id": 9195,
+        "name": "OLS",
+        "code": "OUL",
+        "country": "Finland",
+        "founded": 1880,
+        "national": false,
+        "logo": "9195.png",
+        "venue_id": 2699
+    },
+    {
+        "id": 9196,
+        "name": "PK-37",
+        "code": "PK",
+        "country": "Finland",
+        "founded": null,
+        "national": false,
+        "logo": "9196.png",
+        "venue_id": 6368
+    },
+    {
+        "id": 9198,
+        "name": "SJK Akatemia",
+        "code": null,
+        "country": "Finland",
+        "founded": 2012,
+        "national": false,
+        "logo": "9198.png",
+        "venue_id": 629
+    },
+    {
+        "id": 9199,
+        "name": "VIFK",
+        "code": "VIF",
+        "country": "Finland",
+        "founded": null,
+        "national": false,
+        "logo": "9199.png",
+        "venue_id": 19205
+    },
+    {
+        "id": 9201,
+        "name": "Vaajakoski",
+        "code": null,
+        "country": "Finland",
+        "founded": 1993,
+        "national": false,
+        "logo": "9201.png",
+        "venue_id": 6370
+    },
+    {
+        "id": 9202,
+        "name": "LPS",
+        "code": "LPS",
+        "country": "Finland",
+        "founded": 1978,
+        "national": false,
+        "logo": "9202.png",
+        "venue_id": 19485
+    },
+    {
+        "id": 9203,
+        "name": "PKKU",
+        "code": "KES",
+        "country": "Finland",
+        "founded": 2005,
+        "national": false,
+        "logo": "9203.png",
+        "venue_id": 6372
+    },
+    {
+        "id": 9204,
+        "name": "Kultsu",
+        "code": "KUL",
+        "country": "Finland",
+        "founded": 1941,
+        "national": false,
+        "logo": "9204.png",
+        "venue_id": 6373
+    },
+    {
+        "id": 9205,
+        "name": "Lahti Akatemia",
+        "code": "LAH",
+        "country": "Finland",
+        "founded": 2010,
+        "national": false,
+        "logo": "9205.png",
+        "venue_id": 6356
+    },
+    {
+        "id": 9208,
+        "name": "HIFK 2",
+        "code": null,
+        "country": "Finland",
+        "founded": null,
+        "national": false,
+        "logo": "9208.png",
+        "venue_id": 6375
+    },
+    {
+        "id": 9210,
+        "name": "EsPa",
+        "code": "ESP",
+        "country": "Finland",
+        "founded": 1988,
+        "national": false,
+        "logo": "9210.png",
+        "venue_id": 6377
+    },
+    {
+        "id": 9211,
+        "name": "NuPS",
+        "code": null,
+        "country": "Finland",
+        "founded": null,
+        "national": false,
+        "logo": "9211.png",
+        "venue_id": 6378
+    },
+    {
+        "id": 10199,
+        "name": "KPV-j",
+        "code": null,
+        "country": "Finland",
+        "founded": 1930,
+        "national": false,
+        "logo": "10199.png",
+        "venue_id": 620
+    },
+    {
+        "id": 10324,
+        "name": "TiPS",
+        "code": null,
+        "country": "Finland",
+        "founded": 1958,
+        "national": false,
+        "logo": "10324.png",
+        "venue_id": 7192
+    },
+    {
+        "id": 10667,
+        "name": "Atlantis",
+        "code": "ATL",
+        "country": "Finland",
+        "founded": null,
+        "national": false,
+        "logo": "10667.png",
+        "venue_id": 7304
+    },
+    {
+        "id": 10668,
+        "name": "PIF",
+        "code": null,
+        "country": "Finland",
+        "founded": null,
+        "national": false,
+        "logo": "10668.png",
+        "venue_id": 7305
+    },
+    {
+        "id": 10669,
+        "name": "PK-35",
+        "code": null,
+        "country": "Finland",
+        "founded": 1935,
+        "national": false,
+        "logo": "10669.png",
+        "venue_id": 19621
+    },
+    {
+        "id": 12879,
+        "name": "ToVe",
+        "code": null,
+        "country": "Finland",
+        "founded": null,
+        "national": false,
+        "logo": "12879.png",
+        "venue_id": 18456
+    },
+    {
+        "id": 13472,
+        "name": "Finnkurd",
+        "code": null,
+        "country": "Finland",
+        "founded": null,
+        "national": false,
+        "logo": "13472.png",
+        "venue_id": 847685578532
+    },
+    {
+        "id": 13473,
+        "name": "HIFK 3",
+        "code": null,
+        "country": "Finland",
+        "founded": null,
+        "national": false,
+        "logo": "13473.png",
+        "venue_id": 406586092852
+    },
+    {
+        "id": 13476,
+        "name": "LePa",
+        "code": null,
+        "country": "Finland",
+        "founded": null,
+        "national": false,
+        "logo": "13476.png",
+        "venue_id": 544634003872
+    },
+    {
+        "id": 13477,
+        "name": "Tervakosken Pato",
+        "code": null,
+        "country": "Finland",
+        "founded": 1902,
+        "national": false,
+        "logo": "13477.svg",
+        "venue_id": 18457
+    },
+    {
+        "id": 13478,
+        "name": "Töölön Taisto",
+        "code": null,
+        "country": "Finland",
+        "founded": null,
+        "national": false,
+        "logo": "13478.png",
+        "venue_id": 21604
+    },
+    {
+        "id": 13480,
+        "name": "HauPa",
+        "code": null,
+        "country": "Finland",
+        "founded": 1993,
+        "national": false,
+        "logo": "13480.png",
+        "venue_id": 8435
+    },
+    {
+        "id": 13481,
+        "name": "HyPS",
+        "code": null,
+        "country": "Finland",
+        "founded": null,
+        "national": false,
+        "logo": "13481.png",
+        "venue_id": 8436
+    },
+    {
+        "id": 13482,
+        "name": "JanPa",
+        "code": null,
+        "country": "Finland",
+        "founded": null,
+        "national": false,
+        "logo": "13482.svg",
+        "venue_id": 8437
+    },
+    {
+        "id": 13483,
+        "name": "Jokerit",
+        "code": null,
+        "country": "Finland",
+        "founded": null,
+        "national": false,
+        "logo": "13483.png",
+        "venue_id": 984459318873
+    },
+    {
+        "id": 13486,
+        "name": "KuuLa",
+        "code": null,
+        "country": "Finland",
+        "founded": null,
+        "national": false,
+        "logo": "13486.svg",
+        "venue_id": 541620081075
+    },
+    {
+        "id": 13488,
+        "name": "Ponnistajat",
+        "code": null,
+        "country": "Finland",
+        "founded": null,
+        "national": false,
+        "logo": "13488.png",
+        "venue_id": 8439
+    },
+    {
+        "id": 13489,
+        "name": "SJK-j Apollo",
+        "code": null,
+        "country": "Finland",
+        "founded": null,
+        "national": false,
+        "logo": "13489.png",
+        "venue_id": 183716470618
+    },
+    {
+        "id": 13493,
+        "name": "ToTe",
+        "code": null,
+        "country": "Finland",
+        "founded": 1932,
+        "national": false,
+        "logo": "13493.png",
+        "venue_id": 18458
+    },
+    {
+        "id": 13495,
+        "name": "Wolves",
+        "code": null,
+        "country": "Finland",
+        "founded": 2012,
+        "national": false,
+        "logo": "13495.svg",
+        "venue_id": 7305
+    },
+    {
+        "id": 13496,
+        "name": "Gnistan / Ogeli",
+        "code": "GNI",
+        "country": "Finland",
+        "founded": null,
+        "national": false,
+        "logo": "13496.png",
+        "venue_id": 2698
+    },
+    {
+        "id": 13498,
+        "name": "Härmä",
+        "code": "HAR",
+        "country": "Finland",
+        "founded": 1967,
+        "national": false,
+        "logo": "13498.png",
+        "venue_id": 6376
+    },
+    {
+        "id": 13501,
+        "name": "Kontu",
+        "code": null,
+        "country": "Finland",
+        "founded": 1967,
+        "national": false,
+        "logo": "13501.png",
+        "venue_id": 8468
+    },
+    {
+        "id": 13502,
+        "name": "Korso United",
+        "code": null,
+        "country": "Finland",
+        "founded": 2011,
+        "national": false,
+        "logo": "13502.svg",
+        "venue_id": 8445
+    },
+    {
+        "id": 13503,
+        "name": "Kumu",
+        "code": null,
+        "country": "Finland",
+        "founded": null,
+        "national": false,
+        "logo": "13503.svg",
+        "venue_id": 684823968312
+    },
+    {
+        "id": 13504,
+        "name": "LoPa",
+        "code": null,
+        "country": "Finland",
+        "founded": null,
+        "national": false,
+        "logo": "13504.png",
+        "venue_id": 8446
+    },
+    {
+        "id": 13505,
+        "name": "MPS/Atletico Malmi",
+        "code": null,
+        "country": "Finland",
+        "founded": 1993,
+        "national": false,
+        "logo": "13505.png",
+        "venue_id": 7304
+    },
+    {
+        "id": 13510,
+        "name": "RiPS",
+        "code": null,
+        "country": "Finland",
+        "founded": null,
+        "national": false,
+        "logo": "13510.png",
+        "venue_id": 8447
+    },
+    {
+        "id": 13512,
+        "name": "Tervarit-j JuPa",
+        "code": null,
+        "country": "Finland",
+        "founded": null,
+        "national": false,
+        "logo": "13512.svg",
+        "venue_id": 101826690652
+    },
+    {
+        "id": 13513,
+        "name": "Töölön Vesa",
+        "code": null,
+        "country": "Finland",
+        "founded": null,
+        "national": false,
+        "logo": "13513.svg",
+        "venue_id": 847685578532
+    },
+    {
+        "id": 13517,
+        "name": "HPS",
+        "code": null,
+        "country": "Finland",
+        "founded": 1917,
+        "national": false,
+        "logo": "13517.png",
+        "venue_id": 8450
+    },
+    {
+        "id": 13518,
+        "name": "Hieho",
+        "code": null,
+        "country": "Finland",
+        "founded": null,
+        "national": false,
+        "logo": "13518.svg",
+        "venue_id": 255645336340
+    },
+    {
+        "id": 13521,
+        "name": "KPS",
+        "code": null,
+        "country": "Finland",
+        "founded": 1962,
+        "national": false,
+        "logo": "13521.png",
+        "venue_id": 8453
+    },
+    {
+        "id": 13524,
+        "name": "Nekalan Pallo",
+        "code": null,
+        "country": "Finland",
+        "founded": null,
+        "national": false,
+        "logo": "13524.svg",
+        "venue_id": 680110319579
+    },
+    {
+        "id": 13528,
+        "name": "SaPa",
+        "code": null,
+        "country": "Finland",
+        "founded": 1970,
+        "national": false,
+        "logo": "13528.svg",
+        "venue_id": 21604
+    },
+    {
+        "id": 13532,
+        "name": "TuPS",
+        "code": null,
+        "country": "Finland",
+        "founded": null,
+        "national": false,
+        "logo": "13532.png",
+        "venue_id": 8455
+    },
+    {
+        "id": 13537,
+        "name": "HPS II",
+        "code": null,
+        "country": "Finland",
+        "founded": null,
+        "national": false,
+        "logo": "13537.png",
+        "venue_id": 483078852690
+    },
+    {
+        "id": 13539,
+        "name": "LeKi-Futis",
+        "code": "LEK",
+        "country": "Finland",
+        "founded": null,
+        "national": false,
+        "logo": "13539.svg",
+        "venue_id": 646069827408
+    },
+    {
+        "id": 13540,
+        "name": "MaPS",
+        "code": "MAP",
+        "country": "Finland",
+        "founded": 1988,
+        "national": false,
+        "logo": "13540.png",
+        "venue_id": 18479
+    },
+    {
+        "id": 13543,
+        "name": "RoPo",
+        "code": null,
+        "country": "Finland",
+        "founded": null,
+        "national": false,
+        "logo": "13543.png",
+        "venue_id": 628
+    },
+    {
+        "id": 13544,
+        "name": "SUMU/SOB",
+        "code": null,
+        "country": "Finland",
+        "founded": null,
+        "national": false,
+        "logo": "13544.svg",
+        "venue_id": 89895320728
+    },
+    {
+        "id": 13545,
+        "name": "SibboV",
+        "code": null,
+        "country": "Finland",
+        "founded": null,
+        "national": false,
+        "logo": "13545.svg",
+        "venue_id": 8463
+    },
+    {
+        "id": 13547,
+        "name": "VG-62",
+        "code": null,
+        "country": "Finland",
+        "founded": null,
+        "national": false,
+        "logo": "13547.png",
+        "venue_id": 18459
+    },
+    {
+        "id": 13548,
+        "name": "VaKP",
+        "code": null,
+        "country": "Finland",
+        "founded": null,
+        "national": false,
+        "logo": "13548.png",
+        "venue_id": 8465
+    },
+    {
+        "id": 13551,
+        "name": "Boda",
+        "code": null,
+        "country": "Finland",
+        "founded": null,
+        "national": false,
+        "logo": "13551.svg",
+        "venue_id": 8467
+    },
+    {
+        "id": 13553,
+        "name": "HerTo",
+        "code": null,
+        "country": "Finland",
+        "founded": 1921,
+        "national": false,
+        "logo": "13553.png",
+        "venue_id": 20551
+    },
+    {
+        "id": 13559,
+        "name": "PaPe",
+        "code": null,
+        "country": "Finland",
+        "founded": null,
+        "national": false,
+        "logo": "13559.svg",
+        "venue_id": 206867080592
+    },
+    {
+        "id": 13566,
+        "name": "NoPS",
+        "code": null,
+        "country": "Finland",
+        "founded": null,
+        "national": false,
+        "logo": "13566.png",
+        "venue_id": 8471
+    },
+    {
+        "id": 13568,
+        "name": "Ponnistus",
+        "code": null,
+        "country": "Finland",
+        "founded": null,
+        "national": false,
+        "logo": "13568.png",
+        "venue_id": 866280313246
+    },
+    {
+        "id": 13569,
+        "name": "STPS",
+        "code": null,
+        "country": "Finland",
+        "founded": null,
+        "national": false,
+        "logo": "13569.png",
+        "venue_id": 8472
+    },
+    {
+        "id": 13572,
+        "name": "ViPa",
+        "code": null,
+        "country": "Finland",
+        "founded": 1934,
+        "national": false,
+        "logo": "13572.png",
+        "venue_id": 21605
+    },
+    {
+        "id": 13573,
+        "name": "MPS",
+        "code": null,
+        "country": "Finland",
+        "founded": null,
+        "national": false,
+        "logo": "13573.png",
+        "venue_id": 18460
+    },
+    {
+        "id": 13574,
+        "name": "POHU",
+        "code": "POH",
+        "country": "Finland",
+        "founded": 1957,
+        "national": false,
+        "logo": "13574.svg",
+        "venue_id": 19487
+    },
+    {
+        "id": 13577,
+        "name": "Sporting Kristina",
+        "code": "SPO",
+        "country": "Finland",
+        "founded": 1994,
+        "national": false,
+        "logo": "13577.png",
+        "venue_id": 8476
+    },
+    {
+        "id": 13579,
+        "name": "Virkiä",
+        "code": null,
+        "country": "Finland",
+        "founded": 1907,
+        "national": false,
+        "logo": "13579.svg",
+        "venue_id": 8477
+    },
+    {
+        "id": 14416,
+        "name": "Millbrook",
+        "code": null,
+        "country": "England",
+        "founded": 1888,
+        "national": false,
+        "logo": "14416.png",
+        "venue_id": 12202
+    },
+    {
+        "id": 14484,
+        "name": "EuPa",
+        "code": null,
+        "country": "Finland",
+        "founded": null,
+        "national": false,
+        "logo": "14484.svg",
+        "venue_id": 10673
+    },
+    {
+        "id": 17061,
+        "name": "LehPa",
+        "code": null,
+        "country": "Finland",
+        "founded": null,
+        "national": false,
+        "logo": "17061.png",
+        "venue_id": 21662
+    },
+    {
+        "id": 18480,
+        "name": "AFC Campus",
+        "code": null,
+        "country": "Finland",
+        "founded": null,
+        "national": false,
+        "logo": "18480.svg",
+        "venue_id": 292341454013
+    },
+    {
+        "id": 18482,
+        "name": "APV",
+        "code": null,
+        "country": "Finland",
+        "founded": null,
+        "national": false,
+        "logo": "18482.svg",
+        "venue_id": 712790623280
+    },
+    {
+        "id": 18484,
+        "name": "AskU",
+        "code": null,
+        "country": "Finland",
+        "founded": null,
+        "national": false,
+        "logo": "18484.svg",
+        "venue_id": 651303505861
+    },
+    {
+        "id": 18488,
+        "name": "Chicken Wings",
+        "code": null,
+        "country": "Finland",
+        "founded": null,
+        "national": false,
+        "logo": "18488.svg",
+        "venue_id": 102765454600
+    },
+    {
+        "id": 18489,
+        "name": "Colo-Colo",
+        "code": null,
+        "country": "Finland",
+        "founded": null,
+        "national": false,
+        "logo": "18489.svg",
+        "venue_id": 847685578532
+    },
+    {
+        "id": 18492,
+        "name": "EPS II",
+        "code": null,
+        "country": "Finland",
+        "founded": null,
+        "national": false,
+        "logo": "18492.png",
+        "venue_id": 6359
+    },
+    {
+        "id": 18493,
+        "name": "Eurajoki",
+        "code": null,
+        "country": "Finland",
+        "founded": null,
+        "national": false,
+        "logo": "18493.svg",
+        "venue_id": 346946778200
+    },
+    {
+        "id": 18494,
+        "name": "Eurajoki II",
+        "code": null,
+        "country": "Finland",
+        "founded": null,
+        "national": false,
+        "logo": "18494.svg",
+        "venue_id": 249740639705
+    },
+    {
+        "id": 18495,
+        "name": "FC Kangasala",
+        "code": null,
+        "country": "Finland",
+        "founded": null,
+        "national": false,
+        "logo": "18495.svg",
+        "venue_id": 957345355933
+    },
+    {
+        "id": 18496,
+        "name": "FC RP",
+        "code": null,
+        "country": "Finland",
+        "founded": null,
+        "national": false,
+        "logo": "18496.png",
+        "venue_id": 858590327161
+    },
+    {
+        "id": 18498,
+        "name": "Fish United",
+        "code": null,
+        "country": "Finland",
+        "founded": null,
+        "national": false,
+        "logo": "18498.png",
+        "venue_id": 21656
+    },
+    {
+        "id": 18500,
+        "name": "Gnistan O35",
+        "code": null,
+        "country": "Finland",
+        "founded": null,
+        "national": false,
+        "logo": "18500.png",
+        "venue_id": 479279931867
+    },
+    {
+        "id": 18501,
+        "name": "GrIFK U23",
+        "code": null,
+        "country": "Finland",
+        "founded": null,
+        "national": false,
+        "logo": "18501.png",
+        "venue_id": 2697
+    },
+    {
+        "id": 18502,
+        "name": "HAlku",
+        "code": null,
+        "country": "Finland",
+        "founded": null,
+        "national": false,
+        "logo": "18502.png",
+        "venue_id": 195064316232
+    },
+    {
+        "id": 18503,
+        "name": "HaPK Edustus",
+        "code": null,
+        "country": "Finland",
+        "founded": null,
+        "national": false,
+        "logo": "18503.svg",
+        "venue_id": 18462
+    },
+    {
+        "id": 18505,
+        "name": "Haka Juniorit",
+        "code": null,
+        "country": "Finland",
+        "founded": null,
+        "national": false,
+        "logo": "18505.png",
+        "venue_id": 16627105826
+    },
+    {
+        "id": 18506,
+        "name": "Haka-j / Musta",
+        "code": null,
+        "country": "Finland",
+        "founded": null,
+        "national": false,
+        "logo": "18506.png",
+        "venue_id": 274056938634
+    },
+    {
+        "id": 18508,
+        "name": "Helmi Jätkä",
+        "code": null,
+        "country": "Finland",
+        "founded": null,
+        "national": false,
+        "logo": "18508.svg",
+        "venue_id": 847685578532
+    },
+    {
+        "id": 18511,
+        "name": "HooGee",
+        "code": null,
+        "country": "Finland",
+        "founded": null,
+        "national": false,
+        "logo": "18511.png",
+        "venue_id": 20552
+    },
+    {
+        "id": 18513,
+        "name": "IK Ilmajoki",
+        "code": null,
+        "country": "Finland",
+        "founded": null,
+        "national": false,
+        "logo": "18513.svg",
+        "venue_id": 398535096656
+    },
+    {
+        "id": 18514,
+        "name": "IPS Edustus",
+        "code": null,
+        "country": "Finland",
+        "founded": null,
+        "national": false,
+        "logo": "18514.png",
+        "venue_id": 18463
+    },
+    {
+        "id": 18515,
+        "name": "Ilves III",
+        "code": null,
+        "country": "Finland",
+        "founded": null,
+        "national": false,
+        "logo": "18515.png",
+        "venue_id": 817308061470
+    },
+    {
+        "id": 18516,
+        "name": "Ilves IV",
+        "code": null,
+        "country": "Finland",
+        "founded": null,
+        "national": false,
+        "logo": "18516.png",
+        "venue_id": 821834271760
+    },
+    {
+        "id": 18521,
+        "name": "JyTy Turku",
+        "code": null,
+        "country": "Finland",
+        "founded": null,
+        "national": false,
+        "logo": "18521.svg",
+        "venue_id": 8442
+    },
+    {
+        "id": 18523,
+        "name": "JäPS III",
+        "code": null,
+        "country": "Finland",
+        "founded": null,
+        "national": false,
+        "logo": "18523.png",
+        "venue_id": 938003831308
+    },
+    {
+        "id": 18524,
+        "name": "Jäntevä Kotka",
+        "code": null,
+        "country": "Finland",
+        "founded": null,
+        "national": false,
+        "logo": "18524.png",
+        "venue_id": 535944417842
+    },
+    {
+        "id": 18529,
+        "name": "KOMU",
+        "code": null,
+        "country": "Finland",
+        "founded": null,
+        "national": false,
+        "logo": "18529.svg",
+        "venue_id": 441405517581
+    },
+    {
+        "id": 18531,
+        "name": "KaPa Kajaani",
+        "code": null,
+        "country": "Finland",
+        "founded": null,
+        "national": false,
+        "logo": "18531.png",
+        "venue_id": 391853346026
+    },
+    {
+        "id": 18534,
+        "name": "KarPo",
+        "code": null,
+        "country": "Finland",
+        "founded": null,
+        "national": false,
+        "logo": "18534.svg",
+        "venue_id": 410872386235
+    },
+    {
+        "id": 18535,
+        "name": "KePS",
+        "code": null,
+        "country": "Finland",
+        "founded": null,
+        "national": false,
+        "logo": "18535.svg",
+        "venue_id": 1938
+    },
+    {
+        "id": 18536,
+        "name": "KelA",
+        "code": null,
+        "country": "Finland",
+        "founded": null,
+        "national": false,
+        "logo": "18536.svg",
+        "venue_id": 282195603508
+    },
+    {
+        "id": 18538,
+        "name": "KeuPa",
+        "code": null,
+        "country": "Finland",
+        "founded": null,
+        "national": false,
+        "logo": "18538.png",
+        "venue_id": 21606
+    },
+    {
+        "id": 18540,
+        "name": "Kiffen 08 III",
+        "code": null,
+        "country": "Finland",
+        "founded": null,
+        "national": false,
+        "logo": "18540.png",
+        "venue_id": 189241719531
+    },
+    {
+        "id": 18541,
+        "name": "Kilo IF",
+        "code": null,
+        "country": "Finland",
+        "founded": null,
+        "national": false,
+        "logo": "18541.svg",
+        "venue_id": 601807156653
+    },
+    {
+        "id": 18542,
+        "name": "Kirkkonummi",
+        "code": null,
+        "country": "Finland",
+        "founded": null,
+        "national": false,
+        "logo": "18542.png",
+        "venue_id": 18465
+    },
+    {
+        "id": 18543,
+        "name": "Kirkkonummi III",
+        "code": null,
+        "country": "Finland",
+        "founded": null,
+        "national": false,
+        "logo": "18543.png",
+        "venue_id": 749593600387
+    },
+    {
+        "id": 18544,
+        "name": "KoPa",
+        "code": null,
+        "country": "Finland",
+        "founded": null,
+        "national": false,
+        "logo": "18544.svg",
+        "venue_id": 20553
+    },
+    {
+        "id": 18545,
+        "name": "KoiPS",
+        "code": null,
+        "country": "Finland",
+        "founded": null,
+        "national": false,
+        "logo": "18545.png",
+        "venue_id": 8445
+    },
+    {
+        "id": 18546,
+        "name": "KoiPS / Dynamo",
+        "code": null,
+        "country": "Finland",
+        "founded": null,
+        "national": false,
+        "logo": "18546.png",
+        "venue_id": 827374099937
+    },
+    {
+        "id": 18548,
+        "name": "KonnU",
+        "code": null,
+        "country": "Finland",
+        "founded": null,
+        "national": false,
+        "logo": "18548.svg",
+        "venue_id": 38522512090
+    },
+    {
+        "id": 18549,
+        "name": "Kontu / TDJ",
+        "code": null,
+        "country": "Finland",
+        "founded": null,
+        "national": false,
+        "logo": "18549.png",
+        "venue_id": 847005883704
+    },
+    {
+        "id": 18551,
+        "name": "Kurvin Vauhti",
+        "code": null,
+        "country": "Finland",
+        "founded": null,
+        "national": false,
+        "logo": "18551.svg",
+        "venue_id": 19488
+    },
+    {
+        "id": 18556,
+        "name": "LAUTP",
+        "code": null,
+        "country": "Finland",
+        "founded": null,
+        "national": false,
+        "logo": "18556.png",
+        "venue_id": 8456
+    },
+    {
+        "id": 18557,
+        "name": "LJS",
+        "code": null,
+        "country": "Finland",
+        "founded": null,
+        "national": false,
+        "logo": "18557.svg",
+        "venue_id": 8440
+    },
+    {
+        "id": 18558,
+        "name": "LLuja",
+        "code": null,
+        "country": "Finland",
+        "founded": null,
+        "national": false,
+        "logo": "18558.svg",
+        "venue_id": 785482522915
+    },
+    {
+        "id": 18563,
+        "name": "LaVe / KPR",
+        "code": null,
+        "country": "Finland",
+        "founded": null,
+        "national": false,
+        "logo": "18563.svg",
+        "venue_id": 381254071695
+    },
+    {
+        "id": 18566,
+        "name": "Lieto",
+        "code": null,
+        "country": "Finland",
+        "founded": null,
+        "national": false,
+        "logo": "18566.svg",
+        "venue_id": 808257130047
+    },
+    {
+        "id": 18567,
+        "name": "Loiske",
+        "code": null,
+        "country": "Finland",
+        "founded": null,
+        "national": false,
+        "logo": "18567.svg",
+        "venue_id": 18466
+    },
+    {
+        "id": 18568,
+        "name": "Loviisa",
+        "code": null,
+        "country": "Finland",
+        "founded": null,
+        "national": false,
+        "logo": "18568.svg",
+        "venue_id": 621
+    },
+    {
+        "id": 18570,
+        "name": "MLHF",
+        "code": null,
+        "country": "Finland",
+        "founded": null,
+        "national": false,
+        "logo": "18570.svg",
+        "venue_id": 33733095567
+    },
+    {
+        "id": 18573,
+        "name": "Nastolan Nopsa",
+        "code": null,
+        "country": "Finland",
+        "founded": null,
+        "national": false,
+        "logo": "18573.svg",
+        "venue_id": 135535699099
+    },
+    {
+        "id": 18574,
+        "name": "NiemU",
+        "code": null,
+        "country": "Finland",
+        "founded": null,
+        "national": false,
+        "logo": "18574.svg",
+        "venue_id": 8458
+    },
+    {
+        "id": 18575,
+        "name": "Nikinmäki United",
+        "code": null,
+        "country": "Finland",
+        "founded": null,
+        "national": false,
+        "logo": "18575.svg",
+        "venue_id": 54272826936
+    },
+    {
+        "id": 18576,
+        "name": "NouLa",
+        "code": null,
+        "country": "Finland",
+        "founded": null,
+        "national": false,
+        "logo": "18576.svg",
+        "venue_id": 20554
+    },
+    {
+        "id": 18577,
+        "name": "Olarin Kiksi",
+        "code": null,
+        "country": "Finland",
+        "founded": null,
+        "national": false,
+        "logo": "18577.svg",
+        "venue_id": 580589526585
+    },
+    {
+        "id": 18578,
+        "name": "OuJK",
+        "code": null,
+        "country": "Finland",
+        "founded": null,
+        "national": false,
+        "logo": "18578.svg",
+        "venue_id": 889696279058
+    },
+    {
+        "id": 18579,
+        "name": "PEP",
+        "code": null,
+        "country": "Finland",
+        "founded": null,
+        "national": false,
+        "logo": "18579.svg",
+        "venue_id": 745273100051
+    },
+    {
+        "id": 18580,
+        "name": "PETO",
+        "code": null,
+        "country": "Finland",
+        "founded": null,
+        "national": false,
+        "logo": "18580.svg",
+        "venue_id": 236569758834
+    },
+    {
+        "id": 18581,
+        "name": "PK-35 Vantaa II",
+        "code": null,
+        "country": "Finland",
+        "founded": null,
+        "national": false,
+        "logo": "18581.png",
+        "venue_id": 859245673533
+    },
+    {
+        "id": 18582,
+        "name": "POHU / JäPa",
+        "code": null,
+        "country": "Finland",
+        "founded": null,
+        "national": false,
+        "logo": "18582.svg",
+        "venue_id": 913082116296
+    },
+    {
+        "id": 18583,
+        "name": "POHU / Simpsons",
+        "code": null,
+        "country": "Finland",
+        "founded": null,
+        "national": false,
+        "logo": "18583.svg",
+        "venue_id": 329463487730
+    },
+    {
+        "id": 18586,
+        "name": "PPS / Old Stars",
+        "code": null,
+        "country": "Finland",
+        "founded": null,
+        "national": false,
+        "logo": "18586.png",
+        "venue_id": 847685578532
+    },
+    {
+        "id": 18587,
+        "name": "Pakila",
+        "code": null,
+        "country": "Finland",
+        "founded": null,
+        "national": false,
+        "logo": "18587.svg",
+        "venue_id": 122710455415
+    },
+    {
+        "id": 18590,
+        "name": "PiPS",
+        "code": null,
+        "country": "Finland",
+        "founded": null,
+        "national": false,
+        "logo": "18590.svg",
+        "venue_id": 21607
+    },
+    {
+        "id": 18592,
+        "name": "PoPa",
+        "code": null,
+        "country": "Finland",
+        "founded": 1925,
+        "national": false,
+        "logo": "18592.png",
+        "venue_id": 18467
+    },
+    {
+        "id": 18593,
+        "name": "PoPo",
+        "code": null,
+        "country": "Finland",
+        "founded": null,
+        "national": false,
+        "logo": "18593.svg",
+        "venue_id": 289847726050
+    },
+    {
+        "id": 18594,
+        "name": "Ponnistus II",
+        "code": null,
+        "country": "Finland",
+        "founded": null,
+        "national": false,
+        "logo": "18594.png",
+        "venue_id": 310878292551
+    },
+    {
+        "id": 18596,
+        "name": "PuiU Helsinki",
+        "code": null,
+        "country": "Finland",
+        "founded": null,
+        "national": false,
+        "logo": "18596.png",
+        "venue_id": 18468
+    },
+    {
+        "id": 18597,
+        "name": "Puleward City",
+        "code": null,
+        "country": "Finland",
+        "founded": null,
+        "national": false,
+        "logo": "18597.svg",
+        "venue_id": 464514113572
+    },
+    {
+        "id": 18598,
+        "name": "Qppis",
+        "code": null,
+        "country": "Finland",
+        "founded": null,
+        "national": false,
+        "logo": "18598.svg",
+        "venue_id": 292341454013
+    },
+    {
+        "id": 18599,
+        "name": "RPS Lions",
+        "code": null,
+        "country": "Finland",
+        "founded": null,
+        "national": false,
+        "logo": "18599.svg",
+        "venue_id": 323143272687
+    },
+    {
+        "id": 18601,
+        "name": "Rastaala",
+        "code": null,
+        "country": "Finland",
+        "founded": null,
+        "national": false,
+        "logo": "18601.svg",
+        "venue_id": 650807403773
+    },
+    {
+        "id": 18603,
+        "name": "Roi United",
+        "code": null,
+        "country": "Finland",
+        "founded": null,
+        "national": false,
+        "logo": "18603.png",
+        "venue_id": 18469
+    },
+    {
+        "id": 18606,
+        "name": "SAPA II",
+        "code": null,
+        "country": "Finland",
+        "founded": null,
+        "national": false,
+        "logo": "18606.svg",
+        "venue_id": 33733095567
+    },
+    {
+        "id": 18607,
+        "name": "SCJ",
+        "code": null,
+        "country": "Finland",
+        "founded": null,
+        "national": false,
+        "logo": "18607.svg",
+        "venue_id": 272555656579
+    },
+    {
+        "id": 18608,
+        "name": "SIF",
+        "code": null,
+        "country": "Finland",
+        "founded": null,
+        "national": false,
+        "logo": "18608.png",
+        "venue_id": 18470
+    },
+    {
+        "id": 18610,
+        "name": "SaPa Pieksämäki",
+        "code": null,
+        "country": "Finland",
+        "founded": null,
+        "national": false,
+        "logo": "18610.svg",
+        "venue_id": 18471
+    },
+    {
+        "id": 18611,
+        "name": "Sexypöxyt O35",
+        "code": null,
+        "country": "Finland",
+        "founded": null,
+        "national": false,
+        "logo": "18611.png",
+        "venue_id": 114313658246
+    },
+    {
+        "id": 18612,
+        "name": "Sisu",
+        "code": null,
+        "country": "Finland",
+        "founded": 1936,
+        "national": false,
+        "logo": "18612.svg",
+        "venue_id": 21608
+    },
+    {
+        "id": 18613,
+        "name": "Soho Jyväskylä",
+        "code": null,
+        "country": "Finland",
+        "founded": null,
+        "national": false,
+        "logo": "18613.svg",
+        "venue_id": 921225891043
+    },
+    {
+        "id": 18614,
+        "name": "Soho SS",
+        "code": null,
+        "country": "Finland",
+        "founded": null,
+        "national": false,
+        "logo": "18614.svg",
+        "venue_id": 966239480119
+    },
+    {
+        "id": 18615,
+        "name": "StaSi",
+        "code": null,
+        "country": "Finland",
+        "founded": null,
+        "national": false,
+        "logo": "18615.svg",
+        "venue_id": 465114755995
+    },
+    {
+        "id": 18616,
+        "name": "Sääripotku",
+        "code": null,
+        "country": "Finland",
+        "founded": null,
+        "national": false,
+        "logo": "18616.svg",
+        "venue_id": 8453
+    },
+    {
+        "id": 18617,
+        "name": "TP 49",
+        "code": null,
+        "country": "Finland",
+        "founded": null,
+        "national": false,
+        "logo": "18617.svg",
+        "venue_id": 564572806076
+    },
+    {
+        "id": 18619,
+        "name": "Tampere United II",
+        "code": null,
+        "country": "Finland",
+        "founded": null,
+        "national": false,
+        "logo": "18619.png",
+        "venue_id": 6366
+    },
+    {
+        "id": 18620,
+        "name": "Tarzan",
+        "code": null,
+        "country": "Finland",
+        "founded": null,
+        "national": false,
+        "logo": "18620.svg",
+        "venue_id": 938590378554
+    },
+    {
+        "id": 18621,
+        "name": "ToTe / Keparoi",
+        "code": null,
+        "country": "Finland",
+        "founded": null,
+        "national": false,
+        "logo": "18621.svg",
+        "venue_id": 102765454600
+    },
+    {
+        "id": 18622,
+        "name": "ToTe / Legends",
+        "code": null,
+        "country": "Finland",
+        "founded": null,
+        "national": false,
+        "logo": "18622.svg",
+        "venue_id": 847685578532
+    },
+    {
+        "id": 18623,
+        "name": "Torre Calcio",
+        "code": null,
+        "country": "Finland",
+        "founded": null,
+        "national": false,
+        "logo": "18623.svg",
+        "venue_id": 292341454013
+    },
+    {
+        "id": 18625,
+        "name": "TuNL",
+        "code": null,
+        "country": "Finland",
+        "founded": null,
+        "national": false,
+        "logo": "18625.svg",
+        "venue_id": 292341454013
+    },
+    {
+        "id": 18626,
+        "name": "TuPV",
+        "code": null,
+        "country": "Finland",
+        "founded": null,
+        "national": false,
+        "logo": "18626.svg",
+        "venue_id": 102765454600
+    },
+    {
+        "id": 18629,
+        "name": "TuWe",
+        "code": null,
+        "country": "Finland",
+        "founded": null,
+        "national": false,
+        "logo": "18629.png",
+        "venue_id": 18472
+    },
+    {
+        "id": 18630,
+        "name": "Tuisku",
+        "code": null,
+        "country": "Finland",
+        "founded": null,
+        "national": false,
+        "logo": "18630.svg",
+        "venue_id": 864469437229
+    },
+    {
+        "id": 18631,
+        "name": "TyPS",
+        "code": null,
+        "country": "Finland",
+        "founded": null,
+        "national": false,
+        "logo": "18631.svg",
+        "venue_id": 534718346346
+    },
+    {
+        "id": 18633,
+        "name": "VJS II",
+        "code": null,
+        "country": "Finland",
+        "founded": null,
+        "national": false,
+        "logo": "18633.png",
+        "venue_id": 482953646986
+    },
+    {
+        "id": 18636,
+        "name": "Valtti",
+        "code": null,
+        "country": "Finland",
+        "founded": 1946,
+        "national": false,
+        "logo": "18636.png",
+        "venue_id": 18473
+    },
+    {
+        "id": 18637,
+        "name": "Vapsi",
+        "code": null,
+        "country": "Finland",
+        "founded": null,
+        "national": false,
+        "logo": "18637.svg",
+        "venue_id": 667013712700
+    },
+    {
+        "id": 18640,
+        "name": "ViiPV",
+        "code": null,
+        "country": "Finland",
+        "founded": null,
+        "national": false,
+        "logo": "18640.svg",
+        "venue_id": 634589486394
+    },
+    {
+        "id": 18641,
+        "name": "Villan Pojat",
+        "code": null,
+        "country": "Finland",
+        "founded": null,
+        "national": false,
+        "logo": "18641.svg",
+        "venue_id": 139968239941
+    },
+    {
+        "id": 18642,
+        "name": "Villisiat",
+        "code": null,
+        "country": "Finland",
+        "founded": null,
+        "national": false,
+        "logo": "18642.svg",
+        "venue_id": 6375
+    },
+    {
+        "id": 18644,
+        "name": "Wild",
+        "code": null,
+        "country": "Finland",
+        "founded": null,
+        "national": false,
+        "logo": "18644.svg",
+        "venue_id": 565136959026
+    },
+    {
+        "id": 18647,
+        "name": "Yllätys",
+        "code": null,
+        "country": "Finland",
+        "founded": null,
+        "national": false,
+        "logo": "18647.svg",
+        "venue_id": 21609
+    },
+    {
+        "id": 18648,
+        "name": "Ylöjärvi United",
+        "code": null,
+        "country": "Finland",
+        "founded": null,
+        "national": false,
+        "logo": "18648.svg",
+        "venue_id": 21610
+    },
+    {
+        "id": 18649,
+        "name": "ÅCF",
+        "code": null,
+        "country": "Finland",
+        "founded": null,
+        "national": false,
+        "logo": "18649.svg",
+        "venue_id": 752899208715
+    },
+    {
+        "id": 18650,
+        "name": "EsPa / Renat",
+        "code": null,
+        "country": "Finland",
+        "founded": null,
+        "national": false,
+        "logo": "18650.svg",
+        "venue_id": 656196742856
+    },
+    {
+        "id": 18663,
+        "name": "HAlku II",
+        "code": null,
+        "country": "Finland",
+        "founded": null,
+        "national": false,
+        "logo": "18663.svg",
+        "venue_id": 737264635229
+    },
+    {
+        "id": 18666,
+        "name": "Kasiysi",
+        "code": null,
+        "country": "Finland",
+        "founded": null,
+        "national": false,
+        "logo": "18666.svg",
+        "venue_id": 371947726983
+    },
+    {
+        "id": 18667,
+        "name": "Union Plaani",
+        "code": null,
+        "country": "Finland",
+        "founded": 2013,
+        "national": false,
+        "logo": "18667.png",
+        "venue_id": 18478
+    },
+    {
+        "id": 18668,
+        "name": "ACE",
+        "code": null,
+        "country": "Finland",
+        "founded": null,
+        "national": false,
+        "logo": "18668.png",
+        "venue_id": 21656
+    },
+    {
+        "id": 18669,
+        "name": "Germania",
+        "code": null,
+        "country": "Netherlands",
+        "founded": 0,
+        "national": false,
+        "logo": "18669.png",
+        "venue_id": 18480
+    },
+    {
+        "id": 18670,
+        "name": "PP-70",
+        "code": null,
+        "country": "Finland",
+        "founded": null,
+        "national": false,
+        "logo": "18670.png",
+        "venue_id": 564653332330
+    },
+    {
+        "id": 18718,
+        "name": "KJP",
+        "code": null,
+        "country": "Finland",
+        "founded": null,
+        "national": false,
+        "logo": "18718.png",
+        "venue_id": 6357
+    },
+    {
+        "id": 18719,
+        "name": "MPS / Atletico Akatemia",
+        "code": null,
+        "country": "Finland",
+        "founded": null,
+        "national": false,
+        "logo": "18719.svg",
+        "venue_id": 98574040103
+    },
+    {
+        "id": 18720,
+        "name": "Ponnistus / Peruskallio",
+        "code": null,
+        "country": "Finland",
+        "founded": null,
+        "national": false,
+        "logo": "18720.png",
+        "venue_id": 362513622116
+    },
+    {
+        "id": 18721,
+        "name": "TPS O35",
+        "code": null,
+        "country": "Finland",
+        "founded": null,
+        "national": false,
+        "logo": "18721.svg",
+        "venue_id": 141903171932
+    },
+    {
+        "id": 18722,
+        "name": "TaPa",
+        "code": null,
+        "country": "Finland",
+        "founded": null,
+        "national": false,
+        "logo": "18722.svg",
+        "venue_id": 108960444241
+    },
+    {
+        "id": 18760,
+        "name": "FC Komeetat",
+        "code": null,
+        "country": "Finland",
+        "founded": null,
+        "national": false,
+        "logo": "18760.png",
+        "venue_id": 18662
+    },
+    {
+        "id": 20896,
+        "name": "Afro Foot Club",
+        "code": null,
+        "country": "Finland",
+        "founded": null,
+        "national": false,
+        "logo": "20896.svg",
+        "venue_id": 589566705619
+    },
+    {
+        "id": 20897,
+        "name": "Ajax Sarkkiranta",
+        "code": null,
+        "country": "Finland",
+        "founded": null,
+        "national": false,
+        "logo": "20897.svg",
+        "venue_id": 21611
+    },
+    {
+        "id": 20898,
+        "name": "Akilles",
+        "code": null,
+        "country": "Finland",
+        "founded": null,
+        "national": false,
+        "logo": "20898.svg",
+        "venue_id": 317813353344
+    },
+    {
+        "id": 20902,
+        "name": "Darra",
+        "code": null,
+        "country": "Finland",
+        "founded": null,
+        "national": false,
+        "logo": "20902.svg",
+        "venue_id": 859701261575
+    },
+    {
+        "id": 20904,
+        "name": "Espoon Tikka",
+        "code": null,
+        "country": "Finland",
+        "founded": 1969,
+        "national": false,
+        "logo": "20904.png",
+        "venue_id": 6359
+    },
+    {
+        "id": 20905,
+        "name": "Flamingo United",
+        "code": null,
+        "country": "Finland",
+        "founded": null,
+        "national": false,
+        "logo": "20905.svg",
+        "venue_id": 494457183854
+    },
+    {
+        "id": 20906,
+        "name": "HJK / Kantsu",
+        "code": null,
+        "country": "Finland",
+        "founded": null,
+        "national": false,
+        "logo": "20906.png",
+        "venue_id": 236569758834
+    },
+    {
+        "id": 20909,
+        "name": "I-HK II",
+        "code": null,
+        "country": "Finland",
+        "founded": null,
+        "national": false,
+        "logo": "20909.svg",
+        "venue_id": 616978521218
+    },
+    {
+        "id": 20910,
+        "name": "Inter Vuosaari",
+        "code": null,
+        "country": "Finland",
+        "founded": null,
+        "national": false,
+        "logo": "20910.svg",
+        "venue_id": 120265661087
+    },
+    {
+        "id": 20912,
+        "name": "Juniori STPS",
+        "code": null,
+        "country": "Finland",
+        "founded": null,
+        "national": false,
+        "logo": "20912.svg",
+        "venue_id": 749308684151
+    },
+    {
+        "id": 20913,
+        "name": "JäPS / United",
+        "code": null,
+        "country": "Finland",
+        "founded": null,
+        "national": false,
+        "logo": "20913.png",
+        "venue_id": 201724390106
+    },
+    {
+        "id": 20915,
+        "name": "KTU",
+        "code": null,
+        "country": "Finland",
+        "founded": null,
+        "national": false,
+        "logo": "20915.svg",
+        "venue_id": 630798092727
+    },
+    {
+        "id": 20916,
+        "name": "KaPy",
+        "code": null,
+        "country": "Finland",
+        "founded": null,
+        "national": false,
+        "logo": "20916.svg",
+        "venue_id": 276767431968
+    },
+    {
+        "id": 20918,
+        "name": "KuuLa II",
+        "code": null,
+        "country": "Finland",
+        "founded": null,
+        "national": false,
+        "logo": "20918.svg",
+        "venue_id": 398146280521
+    },
+    {
+        "id": 20919,
+        "name": "Kypärämäki Rangers",
+        "code": null,
+        "country": "Finland",
+        "founded": null,
+        "national": false,
+        "logo": "20919.png",
+        "venue_id": 6383
+    },
+    {
+        "id": 20920,
+        "name": "LTU",
+        "code": null,
+        "country": "Finland",
+        "founded": 1932,
+        "national": false,
+        "logo": "20920.svg",
+        "venue_id": 21612
+    },
+    {
+        "id": 20921,
+        "name": "Lasten",
+        "code": null,
+        "country": "Finland",
+        "founded": null,
+        "national": false,
+        "logo": "20921.svg",
+        "venue_id": 21656
+    },
+    {
+        "id": 20922,
+        "name": "Liry",
+        "code": null,
+        "country": "Finland",
+        "founded": null,
+        "national": false,
+        "logo": "20922.svg",
+        "venue_id": 49771050647
+    },
+    {
+        "id": 20923,
+        "name": "LoPS",
+        "code": null,
+        "country": "Finland",
+        "founded": null,
+        "national": false,
+        "logo": "20923.svg",
+        "venue_id": 427959553378
+    },
+    {
+        "id": 20925,
+        "name": "LuoVu",
+        "code": null,
+        "country": "Finland",
+        "founded": null,
+        "national": false,
+        "logo": "20925.svg",
+        "venue_id": 292341454013
+    },
+    {
+        "id": 20926,
+        "name": "Lähiö",
+        "code": null,
+        "country": "Finland",
+        "founded": null,
+        "national": false,
+        "logo": "20926.svg",
+        "venue_id": 8444
+    },
+    {
+        "id": 20927,
+        "name": "MP II",
+        "code": null,
+        "country": "Finland",
+        "founded": null,
+        "national": false,
+        "logo": "20927.png",
+        "venue_id": 21613
+    },
+    {
+        "id": 20928,
+        "name": "MaPS II",
+        "code": null,
+        "country": "Finland",
+        "founded": null,
+        "national": false,
+        "logo": "20928.png",
+        "venue_id": 670868529967
+    },
+    {
+        "id": 20929,
+        "name": "Marski",
+        "code": null,
+        "country": "Finland",
+        "founded": null,
+        "national": false,
+        "logo": "20929.svg",
+        "venue_id": 742159931751
+    },
+    {
+        "id": 20931,
+        "name": "NJS III",
+        "code": null,
+        "country": "Finland",
+        "founded": null,
+        "national": false,
+        "logo": "20931.png",
+        "venue_id": 252935972341
+    },
+    {
+        "id": 20932,
+        "name": "NoPS II",
+        "code": null,
+        "country": "Finland",
+        "founded": null,
+        "national": false,
+        "logo": "20932.png",
+        "venue_id": 829541960236
+    },
+    {
+        "id": 20933,
+        "name": "NuPS II",
+        "code": null,
+        "country": "Finland",
+        "founded": null,
+        "national": false,
+        "logo": "20933.png",
+        "venue_id": 762034548267
+    },
+    {
+        "id": 20934,
+        "name": "PK-35 / Äijät",
+        "code": null,
+        "country": "Finland",
+        "founded": null,
+        "national": false,
+        "logo": "20934.png",
+        "venue_id": 387382342343
+    },
+    {
+        "id": 20935,
+        "name": "POHU / Hurjin",
+        "code": null,
+        "country": "Finland",
+        "founded": null,
+        "national": false,
+        "logo": "20935.svg",
+        "venue_id": 43730379205
+    },
+    {
+        "id": 20936,
+        "name": "Pehmeet ja Märät",
+        "code": null,
+        "country": "Finland",
+        "founded": null,
+        "national": false,
+        "logo": "20936.svg",
+        "venue_id": 847685578532
+    },
+    {
+        "id": 20937,
+        "name": "PonPa",
+        "code": null,
+        "country": "Finland",
+        "founded": null,
+        "national": false,
+        "logo": "20937.png",
+        "venue_id": 19603
+    },
+    {
+        "id": 20940,
+        "name": "SJK-j",
+        "code": null,
+        "country": "Finland",
+        "founded": null,
+        "national": false,
+        "logo": "20940.png",
+        "venue_id": 629
+    },
+    {
+        "id": 20941,
+        "name": "SalPa II",
+        "code": null,
+        "country": "Finland",
+        "founded": null,
+        "national": false,
+        "logo": "20941.png",
+        "venue_id": 6365
+    },
+    {
+        "id": 20942,
+        "name": "Samba",
+        "code": null,
+        "country": "Finland",
+        "founded": null,
+        "national": false,
+        "logo": "20942.svg",
+        "venue_id": 487558868747
+    },
+    {
+        "id": 20944,
+        "name": "Sexypöxyt II",
+        "code": null,
+        "country": "Finland",
+        "founded": null,
+        "national": false,
+        "logo": "20944.png",
+        "venue_id": 415617245262
+    },
+    {
+        "id": 20945,
+        "name": "Spital",
+        "code": null,
+        "country": "Finland",
+        "founded": null,
+        "national": false,
+        "logo": "20945.svg",
+        "venue_id": 6375
+    },
+    {
+        "id": 20947,
+        "name": "TPV II",
+        "code": null,
+        "country": "Finland",
+        "founded": null,
+        "national": false,
+        "logo": "20947.png",
+        "venue_id": 18481
+    },
+    {
+        "id": 20948,
+        "name": "Tampere United III",
+        "code": null,
+        "country": "Finland",
+        "founded": null,
+        "national": false,
+        "logo": "20948.png",
+        "venue_id": 650089864547
+    },
+    {
+        "id": 20949,
+        "name": "TiPS III",
+        "code": null,
+        "country": "Finland",
+        "founded": null,
+        "national": false,
+        "logo": "20949.png",
+        "venue_id": 102765454600
+    },
+    {
+        "id": 20950,
+        "name": "ToBK",
+        "code": null,
+        "country": "Finland",
+        "founded": null,
+        "national": false,
+        "logo": "20950.svg",
+        "venue_id": 102765454600
+    },
+    {
+        "id": 20951,
+        "name": "ToTe / Taiskin Tykit",
+        "code": null,
+        "country": "Finland",
+        "founded": null,
+        "national": false,
+        "logo": "20951.svg",
+        "venue_id": 847685578532
+    },
+    {
+        "id": 20953,
+        "name": "ToU",
+        "code": null,
+        "country": "Finland",
+        "founded": 1945,
+        "national": false,
+        "logo": "20953.png",
+        "venue_id": 20555
+    },
+    {
+        "id": 20954,
+        "name": "Torre Calcio II",
+        "code": null,
+        "country": "Finland",
+        "founded": null,
+        "national": false,
+        "logo": "20954.svg",
+        "venue_id": 752899208715
+    },
+    {
+        "id": 20955,
+        "name": "TuPS O35",
+        "code": null,
+        "country": "Finland",
+        "founded": null,
+        "national": false,
+        "logo": "20955.svg",
+        "venue_id": 387343722874
+    },
+    {
+        "id": 20957,
+        "name": "Valtti II",
+        "code": null,
+        "country": "Finland",
+        "founded": null,
+        "national": false,
+        "logo": "20957.png",
+        "venue_id": 102765454600
+    },
+    {
+        "id": 20958,
+        "name": "Vietfin",
+        "code": null,
+        "country": "Finland",
+        "founded": null,
+        "national": false,
+        "logo": "20958.svg",
+        "venue_id": 242799144287
+    },
+    {
+        "id": 21049,
+        "name": "ACE II",
+        "code": null,
+        "country": "Finland",
+        "founded": null,
+        "national": false,
+        "logo": "21049.png",
+        "venue_id": 150328561153
+    },
+    {
+        "id": 21106,
+        "name": "Polin Pallo",
+        "code": null,
+        "country": "Finland",
+        "founded": null,
+        "national": false,
+        "logo": "21106.svg",
+        "venue_id": 765672917970
+    },
+    {
+        "id": 21108,
+        "name": "Dons",
+        "code": null,
+        "country": "Finland",
+        "founded": null,
+        "national": false,
+        "logo": "21108.svg",
+        "venue_id": 33733095567
+    },
+    {
+        "id": 21109,
+        "name": "LPS / 7",
+        "code": null,
+        "country": "Finland",
+        "founded": null,
+        "national": false,
+        "logo": "21109.png",
+        "venue_id": 13526886056
+    },
+    {
+        "id": 21182,
+        "name": "OuPa",
+        "code": null,
+        "country": "Finland",
+        "founded": null,
+        "national": false,
+        "logo": "21182.svg",
+        "venue_id": 908801111961
+    },
+    {
+        "id": 21183,
+        "name": "PPJ / Lauttasaari",
+        "code": null,
+        "country": "Finland",
+        "founded": null,
+        "national": false,
+        "logo": "21183.png",
+        "venue_id": 64606670005
+    },
+    {
+        "id": 21185,
+        "name": "Tavastia",
+        "code": null,
+        "country": "Finland",
+        "founded": null,
+        "national": false,
+        "logo": "21185.svg",
+        "venue_id": 322780889137
+    },
+    {
+        "id": 22962,
+        "name": "Andalus",
+        "code": null,
+        "country": "Finland",
+        "founded": null,
+        "national": false,
+        "logo": "22962.svg",
+        "venue_id": 847685578532
+    },
+    {
+        "id": 22963,
+        "name": "Atlantis / PM",
+        "code": null,
+        "country": "Finland",
+        "founded": null,
+        "national": false,
+        "logo": "22963.png",
+        "venue_id": 549595042321
+    },
+    {
+        "id": 22964,
+        "name": "BK-48 II",
+        "code": null,
+        "country": "Finland",
+        "founded": null,
+        "national": false,
+        "logo": "22964.svg",
+        "venue_id": 403630980703
+    },
+    {
+        "id": 22965,
+        "name": "Dons II",
+        "code": null,
+        "country": "Finland",
+        "founded": null,
+        "national": false,
+        "logo": "22965.svg",
+        "venue_id": 98329889074
+    },
+    {
+        "id": 22966,
+        "name": "EsPa / United",
+        "code": null,
+        "country": "Finland",
+        "founded": null,
+        "national": false,
+        "logo": "22966.svg",
+        "venue_id": 726031037397
+    },
+    {
+        "id": 22967,
+        "name": "Etu-Töölön Urhot",
+        "code": null,
+        "country": "Finland",
+        "founded": null,
+        "national": false,
+        "logo": "22967.svg",
+        "venue_id": 847685578532
+    },
+    {
+        "id": 22968,
+        "name": "FCFJ",
+        "code": null,
+        "country": "Finland",
+        "founded": null,
+        "national": false,
+        "logo": "22968.svg",
+        "venue_id": 192667855448
+    },
+    {
+        "id": 22969,
+        "name": "Fortuna",
+        "code": null,
+        "country": "Finland",
+        "founded": null,
+        "national": false,
+        "logo": "22969.png",
+        "venue_id": 255645336340
+    },
+    {
+        "id": 22970,
+        "name": "Gilla",
+        "code": null,
+        "country": "Finland",
+        "founded": null,
+        "national": false,
+        "logo": "22970.png",
+        "venue_id": 27211868031
+    },
+    {
+        "id": 22971,
+        "name": "Gnistan / 3",
+        "code": null,
+        "country": "Finland",
+        "founded": null,
+        "national": false,
+        "logo": "22971.png",
+        "venue_id": 894422909503
+    },
+    {
+        "id": 22972,
+        "name": "HJK / Töölön Ihme",
+        "code": null,
+        "country": "Finland",
+        "founded": null,
+        "national": false,
+        "logo": "22972.png",
+        "venue_id": 236167100623
+    },
+    {
+        "id": 22973,
+        "name": "HJS / sininen",
+        "code": null,
+        "country": "Finland",
+        "founded": null,
+        "national": false,
+        "logo": "22973.png",
+        "venue_id": 67711997355
+    },
+    {
+        "id": 22974,
+        "name": "HP-47",
+        "code": null,
+        "country": "Finland",
+        "founded": null,
+        "national": false,
+        "logo": "22974.svg",
+        "venue_id": 956580653587
+    },
+    {
+        "id": 22975,
+        "name": "HPS / Jägers",
+        "code": null,
+        "country": "Finland",
+        "founded": null,
+        "national": false,
+        "logo": "22975.png",
+        "venue_id": 111016470868
+    },
+    {
+        "id": 22976,
+        "name": "HaPK Edustus II",
+        "code": null,
+        "country": "Finland",
+        "founded": null,
+        "national": false,
+        "logo": "22976.svg",
+        "venue_id": 226987604208
+    },
+    {
+        "id": 22977,
+        "name": "HauPa II",
+        "code": null,
+        "country": "Finland",
+        "founded": null,
+        "national": false,
+        "logo": "22977.png",
+        "venue_id": 967953349069
+    },
+    {
+        "id": 22978,
+        "name": "HePu",
+        "code": null,
+        "country": "Finland",
+        "founded": null,
+        "national": false,
+        "logo": "22978.svg",
+        "venue_id": 864564702760
+    },
+    {
+        "id": 22979,
+        "name": "Heinäpään Hanhet 24",
+        "code": null,
+        "country": "Finland",
+        "founded": null,
+        "national": false,
+        "logo": "22979.svg",
+        "venue_id": 516613195941
+    },
+    {
+        "id": 22980,
+        "name": "Huima / Urho",
+        "code": null,
+        "country": "Finland",
+        "founded": 2021,
+        "national": false,
+        "logo": "22980.svg",
+        "venue_id": 8469
+    },
+    {
+        "id": 22981,
+        "name": "Ilves-Kissat juniorit",
+        "code": null,
+        "country": "Finland",
+        "founded": null,
+        "national": false,
+        "logo": "22981.png",
+        "venue_id": 467096634034
+    },
+    {
+        "id": 22982,
+        "name": "Inter Turku III",
+        "code": null,
+        "country": "Finland",
+        "founded": null,
+        "national": false,
+        "logo": "22982.png",
+        "venue_id": 523305835436
+    },
+    {
+        "id": 22983,
+        "name": "JiiKoo",
+        "code": null,
+        "country": "Finland",
+        "founded": null,
+        "national": false,
+        "logo": "22983.svg",
+        "venue_id": 805895472910
+    },
+    {
+        "id": 22984,
+        "name": "Juvantus",
+        "code": null,
+        "country": "Finland",
+        "founded": null,
+        "national": false,
+        "logo": "22984.svg",
+        "venue_id": 465114755995
+    },
+    {
+        "id": 22985,
+        "name": "Jäntevä / Ukot",
+        "code": null,
+        "country": "Finland",
+        "founded": null,
+        "national": false,
+        "logo": "22985.svg",
+        "venue_id": 590811246652
+    },
+    {
+        "id": 22986,
+        "name": "KaIK",
+        "code": null,
+        "country": "Finland",
+        "founded": null,
+        "national": false,
+        "logo": "22986.png",
+        "venue_id": 20556
+    },
+    {
+        "id": 22987,
+        "name": "Karhu",
+        "code": null,
+        "country": "Finland",
+        "founded": null,
+        "national": false,
+        "logo": "22987.png",
+        "venue_id": 676839833993
+    },
+    {
+        "id": 22988,
+        "name": "Karhu-Futis",
+        "code": null,
+        "country": "Finland",
+        "founded": null,
+        "national": false,
+        "logo": "22988.svg",
+        "venue_id": 574276064687
+    },
+    {
+        "id": 22989,
+        "name": "KeiKa",
+        "code": null,
+        "country": "Finland",
+        "founded": null,
+        "national": false,
+        "logo": "22989.svg",
+        "venue_id": 514281237064
+    },
+    {
+        "id": 22990,
+        "name": "KoPo",
+        "code": null,
+        "country": "Finland",
+        "founded": null,
+        "national": false,
+        "logo": "22990.svg",
+        "venue_id": 847685578532
+    },
+    {
+        "id": 22991,
+        "name": "Komeetat / 3",
+        "code": null,
+        "country": "Finland",
+        "founded": null,
+        "national": false,
+        "logo": "22991.png",
+        "venue_id": 342895793648
+    },
+    {
+        "id": 22992,
+        "name": "Komeetat / Piuku",
+        "code": null,
+        "country": "Finland",
+        "founded": null,
+        "national": false,
+        "logo": "22992.svg",
+        "venue_id": 749518491005
+    },
+    {
+        "id": 22993,
+        "name": "Kullervo / Mosaic",
+        "code": null,
+        "country": "Finland",
+        "founded": null,
+        "national": false,
+        "logo": "22993.svg",
+        "venue_id": 847685578532
+    },
+    {
+        "id": 22994,
+        "name": "Kuusysi II",
+        "code": null,
+        "country": "Finland",
+        "founded": null,
+        "national": false,
+        "logo": "22994.svg",
+        "venue_id": 512732033989
+    },
+    {
+        "id": 22995,
+        "name": "KyPa",
+        "code": null,
+        "country": "Finland",
+        "founded": null,
+        "national": false,
+        "logo": "22995.svg",
+        "venue_id": 593358694321
+    },
+    {
+        "id": 22996,
+        "name": "KäPa / 2",
+        "code": null,
+        "country": "Finland",
+        "founded": null,
+        "national": false,
+        "logo": "22996.png",
+        "venue_id": 731228757325
+    },
+    {
+        "id": 22997,
+        "name": "LAUTP / 2",
+        "code": null,
+        "country": "Finland",
+        "founded": null,
+        "national": false,
+        "logo": "22997.png",
+        "venue_id": 22687228768
+    },
+    {
+        "id": 22998,
+        "name": "Lahti II",
+        "code": null,
+        "country": "Finland",
+        "founded": null,
+        "national": false,
+        "logo": "22998.png",
+        "venue_id": 733822067162
+    },
+    {
+        "id": 22999,
+        "name": "Laihia United",
+        "code": null,
+        "country": "Finland",
+        "founded": null,
+        "national": false,
+        "logo": "22999.svg",
+        "venue_id": 840018982070
+    },
+    {
+        "id": 23000,
+        "name": "LePa / Bangers",
+        "code": null,
+        "country": "Finland",
+        "founded": null,
+        "national": false,
+        "logo": "23000.png",
+        "venue_id": 292528151653
+    },
+    {
+        "id": 23001,
+        "name": "LePa O40",
+        "code": null,
+        "country": "Finland",
+        "founded": null,
+        "national": false,
+        "logo": "23001.png",
+        "venue_id": 98904089229
+    },
+    {
+        "id": 23002,
+        "name": "LuVe",
+        "code": null,
+        "country": "Finland",
+        "founded": null,
+        "national": false,
+        "logo": "23002.svg",
+        "venue_id": 857221798372
+    },
+    {
+        "id": 23003,
+        "name": "MK-United",
+        "code": null,
+        "country": "Finland",
+        "founded": null,
+        "national": false,
+        "logo": "23003.svg",
+        "venue_id": 125690263220
+    },
+    {
+        "id": 23004,
+        "name": "Mango",
+        "code": null,
+        "country": "Finland",
+        "founded": null,
+        "national": false,
+        "logo": "23004.svg",
+        "venue_id": 33733095567
+    },
+    {
+        "id": 23005,
+        "name": "MuurY",
+        "code": null,
+        "country": "Finland",
+        "founded": null,
+        "national": false,
+        "logo": "23005.svg",
+        "venue_id": 71961484189
+    },
+    {
+        "id": 23006,
+        "name": "NJS II",
+        "code": null,
+        "country": "Finland",
+        "founded": null,
+        "national": false,
+        "logo": "23006.png",
+        "venue_id": 820956970731
+    },
+    {
+        "id": 23007,
+        "name": "Nousu",
+        "code": null,
+        "country": "Finland",
+        "founded": null,
+        "national": false,
+        "logo": "23007.svg",
+        "venue_id": 820693697341
+    },
+    {
+        "id": 23008,
+        "name": "OT-77",
+        "code": null,
+        "country": "Finland",
+        "founded": null,
+        "national": false,
+        "logo": "23008.svg",
+        "venue_id": 484521018098
+    },
+    {
+        "id": 23009,
+        "name": "POHU / Gettopojat",
+        "code": null,
+        "country": "Finland",
+        "founded": null,
+        "national": false,
+        "logo": "23009.svg",
+        "venue_id": 488796534497
+    },
+    {
+        "id": 23010,
+        "name": "POHU / KY United",
+        "code": null,
+        "country": "Finland",
+        "founded": null,
+        "national": false,
+        "logo": "23010.svg",
+        "venue_id": 887206799022
+    },
+    {
+        "id": 23011,
+        "name": "PaRi",
+        "code": null,
+        "country": "Finland",
+        "founded": null,
+        "national": false,
+        "logo": "23011.svg",
+        "venue_id": 476398123657
+    },
+    {
+        "id": 23012,
+        "name": "Pessoas Boas",
+        "code": null,
+        "country": "Finland",
+        "founded": null,
+        "national": false,
+        "logo": "23012.svg",
+        "venue_id": 465114755995
+    },
+    {
+        "id": 23013,
+        "name": "PiTa",
+        "code": null,
+        "country": "Finland",
+        "founded": null,
+        "national": false,
+        "logo": "23013.svg",
+        "venue_id": 490871632156
+    },
+    {
+        "id": 23014,
+        "name": "Raiku",
+        "code": null,
+        "country": "Finland",
+        "founded": null,
+        "national": false,
+        "logo": "23014.svg",
+        "venue_id": 896641960542
+    },
+    {
+        "id": 23015,
+        "name": "SUMU",
+        "code": null,
+        "country": "Finland",
+        "founded": null,
+        "national": false,
+        "logo": "23015.svg",
+        "venue_id": 102765454600
+    },
+    {
+        "id": 23016,
+        "name": "San Siro",
+        "code": null,
+        "country": "Finland",
+        "founded": null,
+        "national": false,
+        "logo": "23016.svg",
+        "venue_id": 866280313246
+    },
+    {
+        "id": 23017,
+        "name": "Snåbit",
+        "code": null,
+        "country": "Finland",
+        "founded": null,
+        "national": false,
+        "logo": "23017.svg",
+        "venue_id": 865917628453
+    },
+    {
+        "id": 23018,
+        "name": "StaPa De Royale",
+        "code": null,
+        "country": "Finland",
+        "founded": null,
+        "national": false,
+        "logo": "23018.svg",
+        "venue_id": 465114755995
+    },
+    {
+        "id": 23019,
+        "name": "TaPa / 2",
+        "code": null,
+        "country": "Finland",
+        "founded": null,
+        "national": false,
+        "logo": "23019.svg",
+        "venue_id": 271819695983
+    },
+    {
+        "id": 23020,
+        "name": "TiPS / 2",
+        "code": null,
+        "country": "Finland",
+        "founded": null,
+        "national": false,
+        "logo": "23020.png",
+        "venue_id": 102765454600
+    },
+    {
+        "id": 23021,
+        "name": "ToTe / Arabia",
+        "code": null,
+        "country": "Finland",
+        "founded": null,
+        "national": false,
+        "logo": "23021.svg",
+        "venue_id": 535762868951
+    },
+    {
+        "id": 23022,
+        "name": "Universtas O35",
+        "code": null,
+        "country": "Finland",
+        "founded": null,
+        "national": false,
+        "logo": "23022.svg",
+        "venue_id": 847685578532
+    },
+    {
+        "id": 23023,
+        "name": "Velenpojat",
+        "code": null,
+        "country": "Finland",
+        "founded": null,
+        "national": false,
+        "logo": "23023.svg",
+        "venue_id": 492344237866
+    },
+    {
+        "id": 23024,
+        "name": "ViPa / 2",
+        "code": null,
+        "country": "Finland",
+        "founded": null,
+        "national": false,
+        "logo": "23024.png",
+        "venue_id": 102765454600
+    },
+    {
+        "id": 23025,
+        "name": "Vuosaari",
+        "code": null,
+        "country": "Finland",
+        "founded": null,
+        "national": false,
+        "logo": "23025.svg",
+        "venue_id": 98387679588
+    },
+    {
+        "id": 23026,
+        "name": "ÅIFK / 2",
+        "code": null,
+        "country": "Finland",
+        "founded": null,
+        "national": false,
+        "logo": "23026.png",
+        "venue_id": 135482030561
+    },
+    {
+        "id": 23129,
+        "name": "Bosna",
+        "code": null,
+        "country": "Finland",
+        "founded": null,
+        "national": false,
+        "logo": "23129.svg",
+        "venue_id": 261740963907
+    },
+    {
+        "id": 23130,
+        "name": "Norrvalla",
+        "code": null,
+        "country": "Finland",
+        "founded": null,
+        "national": false,
+        "logo": "23130.svg",
+        "venue_id": 20611
+    },
+    {
+        "id": 23131,
+        "name": "SiU",
+        "code": null,
+        "country": "Finland",
+        "founded": null,
+        "national": false,
+        "logo": "23131.svg",
+        "venue_id": 81123372836
+    },
+    {
+        "id": 23204,
+        "name": "EIF Akademi",
+        "code": null,
+        "country": "Finland",
+        "founded": null,
+        "national": false,
+        "logo": "23204.png",
+        "venue_id": 21614
+    },
+    {
+        "id": 2085,
+        "name": "Klubi-04",
+        "code": null,
+        "country": "Finland",
+        "founded": 2004,
+        "national": false,
+        "logo": "2085.png",
+        "venue_id": 615
+    },
+    {
+        "id": 18758,
+        "name": "KuPS Akatemia",
+        "code": null,
+        "country": "Finland",
+        "founded": null,
+        "national": false,
+        "logo": "18758.png",
+        "venue_id": 12286
+    }
+]
