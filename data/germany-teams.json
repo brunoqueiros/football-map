@@ -1,0 +1,3712 @@
+[
+    {
+        "id": 158,
+        "name": "Fortuna Düsseldorf",
+        "code": "DUS",
+        "country": "Germany",
+        "founded": 1895,
+        "national": false,
+        "logo": "158.png",
+        "venue_id": 20735
+    },
+    {
+        "id": 159,
+        "name": "Hertha BSC",
+        "code": "HER",
+        "country": "Germany",
+        "founded": 1892,
+        "national": false,
+        "logo": "159.png",
+        "venue_id": 694
+    },
+    {
+        "id": 166,
+        "name": "Hannover 96",
+        "code": "HAN",
+        "country": "Germany",
+        "founded": 1896,
+        "national": false,
+        "logo": "166.png",
+        "venue_id": 18858
+    },
+    {
+        "id": 171,
+        "name": "1. FC Nürnberg",
+        "code": "NUR",
+        "country": "Germany",
+        "founded": 1900,
+        "national": false,
+        "logo": "171.png",
+        "venue_id": 713
+    },
+    {
+        "id": 174,
+        "name": "FC Schalke 04",
+        "code": "SCH",
+        "country": "Germany",
+        "founded": 1904,
+        "national": false,
+        "logo": "174.png",
+        "venue_id": 20738
+    },
+    {
+        "id": 175,
+        "name": "Hamburger SV",
+        "code": "HAM",
+        "country": "Germany",
+        "founded": 1887,
+        "national": false,
+        "logo": "175.png",
+        "venue_id": 720
+    },
+    {
+        "id": 177,
+        "name": "SSV Jahn Regensburg",
+        "code": "REG",
+        "country": "Germany",
+        "founded": 2000,
+        "national": false,
+        "logo": "177.png",
+        "venue_id": 10490
+    },
+    {
+        "id": 178,
+        "name": "SpVgg Greuther Fürth",
+        "code": "GRE",
+        "country": "Germany",
+        "founded": 1903,
+        "national": false,
+        "logo": "178.png",
+        "venue_id": 718
+    },
+    {
+        "id": 179,
+        "name": "1. FC Magdeburg",
+        "code": "MAG",
+        "country": "Germany",
+        "founded": 1965,
+        "national": false,
+        "logo": "179.png",
+        "venue_id": 733
+    },
+    {
+        "id": 181,
+        "name": "SV Darmstadt 98",
+        "code": "DAR",
+        "country": "Germany",
+        "founded": 1898,
+        "national": false,
+        "logo": "181.png",
+        "venue_id": 705
+    },
+    {
+        "id": 185,
+        "name": "SC Paderborn 07",
+        "code": "PAD",
+        "country": "Germany",
+        "founded": 1907,
+        "national": false,
+        "logo": "185.png",
+        "venue_id": 18622
+    },
+    {
+        "id": 192,
+        "name": "1. FC Köln",
+        "code": "KOL",
+        "country": "Germany",
+        "founded": 1948,
+        "national": false,
+        "logo": "192.png",
+        "venue_id": 20736
+    },
+    {
+        "id": 744,
+        "name": "Eintracht Braunschweig",
+        "code": "BRA",
+        "country": "Germany",
+        "founded": 1895,
+        "national": false,
+        "logo": "744.png",
+        "venue_id": 708
+    },
+    {
+        "id": 745,
+        "name": "1. FC Kaiserslautern",
+        "code": "KAI",
+        "country": "Germany",
+        "founded": 1900,
+        "national": false,
+        "logo": "745.png",
+        "venue_id": 728
+    },
+    {
+        "id": 785,
+        "name": "Karlsruher SC",
+        "code": "KAR",
+        "country": "Germany",
+        "founded": 1898,
+        "national": false,
+        "logo": "785.png",
+        "venue_id": 11900
+    },
+    {
+        "id": 1313,
+        "name": "Preußen Münster",
+        "code": "PRE",
+        "country": "Germany",
+        "founded": 1906,
+        "national": false,
+        "logo": "1313.png",
+        "venue_id": 737
+    },
+    {
+        "id": 1639,
+        "name": "FC Saarbrücken",
+        "code": "SAA",
+        "country": "Germany",
+        "founded": 1903,
+        "national": false,
+        "logo": "1639.png",
+        "venue_id": 11930
+    },
+    {
+        "id": 1652,
+        "name": "SSV Ulm 1846",
+        "code": "ULM",
+        "country": "Germany",
+        "founded": 1846,
+        "national": false,
+        "logo": "1652.png",
+        "venue_id": 747
+    },
+    {
+        "id": 1660,
+        "name": "SV Elversberg",
+        "code": "ELV",
+        "country": "Germany",
+        "founded": 1907,
+        "national": false,
+        "logo": "1660.png",
+        "venue_id": 710
+    },
+    {
+        "id": 183,
+        "name": "Dynamo Dresden",
+        "code": "DRE",
+        "country": "Germany",
+        "founded": 1953,
+        "national": false,
+        "logo": "183.png",
+        "venue_id": 707
+    },
+    {
+        "id": 184,
+        "name": "FC Ingolstadt 04",
+        "code": "ING",
+        "country": "Germany",
+        "founded": 2004,
+        "national": false,
+        "logo": "184.png",
+        "venue_id": 726
+    },
+    {
+        "id": 188,
+        "name": "Arminia Bielefeld",
+        "code": "ARM",
+        "country": "Germany",
+        "founded": 1905,
+        "national": false,
+        "logo": "188.png",
+        "venue_id": 697
+    },
+    {
+        "id": 189,
+        "name": "SV Sandhausen",
+        "code": "SAN",
+        "country": "Germany",
+        "founded": 1916,
+        "national": false,
+        "logo": "189.png",
+        "venue_id": 20108
+    },
+    {
+        "id": 190,
+        "name": "Erzgebirge Aue",
+        "code": "ERZ",
+        "country": "Germany",
+        "founded": 1945,
+        "national": false,
+        "logo": "190.png",
+        "venue_id": 712
+    },
+    {
+        "id": 786,
+        "name": "TSV 1860 München",
+        "code": "MUN",
+        "country": "Germany",
+        "founded": 1860,
+        "national": false,
+        "logo": "786.png",
+        "venue_id": 695
+    },
+    {
+        "id": 1314,
+        "name": "SpVgg Unterhaching",
+        "code": "UNT",
+        "country": "Germany",
+        "founded": 1925,
+        "national": false,
+        "logo": "1314.png",
+        "venue_id": 20415
+    },
+    {
+        "id": 1319,
+        "name": "SV Wehen",
+        "code": "WEH",
+        "country": "Germany",
+        "founded": 1926,
+        "national": false,
+        "logo": "1319.png",
+        "venue_id": 753
+    },
+    {
+        "id": 1320,
+        "name": "Energie Cottbus",
+        "code": "ENE",
+        "country": "Germany",
+        "founded": 1966,
+        "national": false,
+        "logo": "1320.png",
+        "venue_id": 20472
+    },
+    {
+        "id": 1321,
+        "name": "Hansa Rostock",
+        "code": "HAN",
+        "country": "Germany",
+        "founded": 1965,
+        "national": false,
+        "logo": "1321.png",
+        "venue_id": 722
+    },
+    {
+        "id": 1324,
+        "name": "VfL Osnabrück",
+        "code": "OSN",
+        "country": "Germany",
+        "founded": 1899,
+        "national": false,
+        "logo": "1324.png",
+        "venue_id": 735
+    },
+    {
+        "id": 1620,
+        "name": "FC Viktoria Köln",
+        "code": "KOL",
+        "country": "Germany",
+        "founded": 1904,
+        "national": false,
+        "logo": "1620.png",
+        "venue_id": 1727
+    },
+    {
+        "id": 1621,
+        "name": "Rot-Weiß Essen",
+        "code": "RWE",
+        "country": "Germany",
+        "founded": 1907,
+        "national": false,
+        "logo": "1621.png",
+        "venue_id": 19943
+    },
+    {
+        "id": 4259,
+        "name": "Alemannia Aachen",
+        "code": "ALE",
+        "country": "Germany",
+        "founded": 1900,
+        "national": false,
+        "logo": "4259.png",
+        "venue_id": 3254
+    },
+    {
+        "id": 4265,
+        "name": "Verl",
+        "code": "VER",
+        "country": "Germany",
+        "founded": 1924,
+        "national": false,
+        "logo": "4265.png",
+        "venue_id": 3260
+    },
+    {
+        "id": 4268,
+        "name": "Waldhof Mannheim",
+        "code": "MAN",
+        "country": "Germany",
+        "founded": 1907,
+        "national": false,
+        "logo": "4268.png",
+        "venue_id": 3263
+    },
+    {
+        "id": 9341,
+        "name": "Hannover 96 II",
+        "code": "HAN",
+        "country": "Germany",
+        "founded": 1896,
+        "national": false,
+        "logo": "9341.png",
+        "venue_id": 12696
+    },
+    {
+        "id": 9367,
+        "name": "Borussia Dortmund II",
+        "code": "DOR",
+        "country": "Germany",
+        "founded": 1909,
+        "national": false,
+        "logo": "9367.png",
+        "venue_id": 6472
+    },
+    {
+        "id": 12867,
+        "name": "Stuttgart II",
+        "code": "STU",
+        "country": "Germany",
+        "founded": 1893,
+        "national": false,
+        "logo": "12867.png",
+        "venue_id": 8210
+    },
+    {
+        "id": 157,
+        "name": "Bayern München",
+        "code": "BAY",
+        "country": "Germany",
+        "founded": 1900,
+        "national": false,
+        "logo": "157.png",
+        "venue_id": 20732
+    },
+    {
+        "id": 160,
+        "name": "SC Freiburg",
+        "code": "FRE",
+        "country": "Germany",
+        "founded": 1904,
+        "national": false,
+        "logo": "160.png",
+        "venue_id": 12717
+    },
+    {
+        "id": 161,
+        "name": "VfL Wolfsburg",
+        "code": "WOL",
+        "country": "Germany",
+        "founded": 1945,
+        "national": false,
+        "logo": "161.png",
+        "venue_id": 752
+    },
+    {
+        "id": 162,
+        "name": "Werder Bremen",
+        "code": "WER",
+        "country": "Germany",
+        "founded": 1899,
+        "national": false,
+        "logo": "162.png",
+        "venue_id": 755
+    },
+    {
+        "id": 163,
+        "name": "Borussia Mönchengladbach",
+        "code": "MOE",
+        "country": "Germany",
+        "founded": 1900,
+        "national": false,
+        "logo": "163.png",
+        "venue_id": 20471
+    },
+    {
+        "id": 164,
+        "name": "FSV Mainz 05",
+        "code": "MAI",
+        "country": "Germany",
+        "founded": 1905,
+        "national": false,
+        "logo": "164.png",
+        "venue_id": 11899
+    },
+    {
+        "id": 165,
+        "name": "Borussia Dortmund",
+        "code": "DOR",
+        "country": "Germany",
+        "founded": 1909,
+        "national": false,
+        "logo": "165.png",
+        "venue_id": 20733
+    },
+    {
+        "id": 167,
+        "name": "1899 Hoffenheim",
+        "code": "HOF",
+        "country": "Germany",
+        "founded": 1899,
+        "national": false,
+        "logo": "167.png",
+        "venue_id": 724
+    },
+    {
+        "id": 168,
+        "name": "Bayer Leverkusen",
+        "code": "BAY",
+        "country": "Germany",
+        "founded": 1904,
+        "national": false,
+        "logo": "168.png",
+        "venue_id": 699
+    },
+    {
+        "id": 169,
+        "name": "Eintracht Frankfurt",
+        "code": "EIN",
+        "country": "Germany",
+        "founded": 1899,
+        "national": false,
+        "logo": "169.png",
+        "venue_id": 20734
+    },
+    {
+        "id": 170,
+        "name": "FC Augsburg",
+        "code": "AUG",
+        "country": "Germany",
+        "founded": 1907,
+        "national": false,
+        "logo": "170.png",
+        "venue_id": 698
+    },
+    {
+        "id": 172,
+        "name": "VfB Stuttgart",
+        "code": "STU",
+        "country": "Germany",
+        "founded": 1893,
+        "national": false,
+        "logo": "172.png",
+        "venue_id": 20739
+    },
+    {
+        "id": 173,
+        "name": "RB Leipzig",
+        "code": "LEI",
+        "country": "Germany",
+        "founded": 2009,
+        "national": false,
+        "logo": "173.png",
+        "venue_id": 20737
+    },
+    {
+        "id": 176,
+        "name": "VfL Bochum",
+        "code": "BOC",
+        "country": "Germany",
+        "founded": 1848,
+        "national": false,
+        "logo": "176.png",
+        "venue_id": 751
+    },
+    {
+        "id": 180,
+        "name": "1. FC Heidenheim",
+        "code": "HEI",
+        "country": "Germany",
+        "founded": 1946,
+        "national": false,
+        "logo": "180.png",
+        "venue_id": 723
+    },
+    {
+        "id": 182,
+        "name": "Union Berlin",
+        "code": "UNI",
+        "country": "Germany",
+        "founded": 1966,
+        "national": false,
+        "logo": "182.png",
+        "venue_id": 748
+    },
+    {
+        "id": 186,
+        "name": "FC St. Pauli",
+        "code": "PAU",
+        "country": "Germany",
+        "founded": 1910,
+        "national": false,
+        "logo": "186.png",
+        "venue_id": 745
+    },
+    {
+        "id": 191,
+        "name": "Holstein Kiel",
+        "code": "HOL",
+        "country": "Germany",
+        "founded": 1900,
+        "national": false,
+        "logo": "191.png",
+        "venue_id": 725
+    },
+    {
+        "id": 784,
+        "name": "Würzburger Kickers",
+        "code": "WUR",
+        "country": "Germany",
+        "founded": 1907,
+        "national": false,
+        "logo": "784.png",
+        "venue_id": 19571
+    },
+    {
+        "id": 1316,
+        "name": "Hallescher FC",
+        "code": "HAL",
+        "country": "Germany",
+        "founded": 1966,
+        "national": false,
+        "logo": "1316.png",
+        "venue_id": 12457
+    },
+    {
+        "id": 1318,
+        "name": "SV Meppen",
+        "code": "MEP",
+        "country": "Germany",
+        "founded": 1912,
+        "national": false,
+        "logo": "1318.png",
+        "venue_id": 734
+    },
+    {
+        "id": 1323,
+        "name": "Sportfreunde Lotte",
+        "code": "LOT",
+        "country": "Germany",
+        "founded": 1929,
+        "national": false,
+        "logo": "1323.png",
+        "venue_id": 11901
+    },
+    {
+        "id": 1325,
+        "name": "FC Carl Zeiss Jena",
+        "code": "JEN",
+        "country": "Germany",
+        "founded": 1903,
+        "national": false,
+        "logo": "1325.png",
+        "venue_id": 704
+    },
+    {
+        "id": 1327,
+        "name": "VfR Aalen",
+        "code": "AAL",
+        "country": "Germany",
+        "founded": 1921,
+        "national": false,
+        "logo": "1327.png",
+        "venue_id": 20298
+    },
+    {
+        "id": 1619,
+        "name": "FC 08 Villingen",
+        "code": "VIL",
+        "country": "Germany",
+        "founded": 1908,
+        "national": false,
+        "logo": "1619.png",
+        "venue_id": 18782
+    },
+    {
+        "id": 1628,
+        "name": "Kickers Offenbach",
+        "code": "KIC",
+        "country": "Germany",
+        "founded": 1901,
+        "national": false,
+        "logo": "1628.png",
+        "venue_id": 2710
+    },
+    {
+        "id": 1630,
+        "name": "Bremer SV",
+        "code": "BRE",
+        "country": "Germany",
+        "founded": 1906,
+        "national": false,
+        "logo": "1630.png",
+        "venue_id": 2706
+    },
+    {
+        "id": 1648,
+        "name": "TuS Koblenz",
+        "code": "KOB",
+        "country": "Germany",
+        "founded": 1911,
+        "national": false,
+        "logo": "1648.png",
+        "venue_id": 1880
+    },
+    {
+        "id": 4266,
+        "name": "Viktoria Berlin",
+        "code": null,
+        "country": "Germany",
+        "founded": 2013,
+        "national": false,
+        "logo": "4266.png",
+        "venue_id": 3261
+    },
+    {
+        "id": 12742,
+        "name": "Borussia Hildesheim",
+        "code": "HIL",
+        "country": "Germany",
+        "founded": 1906,
+        "national": false,
+        "logo": "12742.png",
+        "venue_id": 8100
+    },
+    {
+        "id": 12831,
+        "name": "Phönix Lübeck",
+        "code": null,
+        "country": "Germany",
+        "founded": null,
+        "national": false,
+        "logo": "12831.png",
+        "venue_id": 8180
+    },
+    {
+        "id": 12878,
+        "name": "Teutonia Ottensen",
+        "code": null,
+        "country": "Germany",
+        "founded": null,
+        "national": false,
+        "logo": "12878.png",
+        "venue_id": 8219
+    },
+    {
+        "id": 14524,
+        "name": "Schott Mainz",
+        "code": null,
+        "country": "Germany",
+        "founded": 1953,
+        "national": false,
+        "logo": "14524.png",
+        "venue_id": 12702
+    },
+    {
+        "id": 16118,
+        "name": "Greifswalder FC",
+        "code": null,
+        "country": "Germany",
+        "founded": 2004,
+        "national": false,
+        "logo": "16118.png",
+        "venue_id": 12006
+    },
+    {
+        "id": 1317,
+        "name": "SG Sonnenhof Grossaspach",
+        "code": "SON",
+        "country": "Germany",
+        "founded": 1994,
+        "national": false,
+        "logo": "1317.png",
+        "venue_id": 10640
+    },
+    {
+        "id": 1624,
+        "name": "FV Ravensburg",
+        "code": "RAV",
+        "country": "Germany",
+        "founded": 1893,
+        "national": false,
+        "logo": "1624.png",
+        "venue_id": 2712
+    },
+    {
+        "id": 1638,
+        "name": "FC Nöttingen",
+        "code": "NOT",
+        "country": "Germany",
+        "founded": 1957,
+        "national": false,
+        "logo": "1638.png",
+        "venue_id": 2724
+    },
+    {
+        "id": 1659,
+        "name": "CFR Pforzheim",
+        "code": null,
+        "country": "Germany",
+        "founded": null,
+        "national": false,
+        "logo": "1659.png",
+        "venue_id": 18860
+    },
+    {
+        "id": 9360,
+        "name": "Balingen",
+        "code": "BAL",
+        "country": "Germany",
+        "founded": 1848,
+        "national": false,
+        "logo": "9360.png",
+        "venue_id": 6465
+    },
+    {
+        "id": 12822,
+        "name": "Oberachern",
+        "code": "OBE",
+        "country": "Germany",
+        "founded": 1928,
+        "national": false,
+        "logo": "12822.png",
+        "venue_id": 8173
+    },
+    {
+        "id": 12889,
+        "name": "VfR Mannheim",
+        "code": "VFR",
+        "country": "Germany",
+        "founded": 1896,
+        "national": false,
+        "logo": "12889.png",
+        "venue_id": 8230
+    },
+    {
+        "id": 13932,
+        "name": "Reutlingen",
+        "code": "REU",
+        "country": "Germany",
+        "founded": 1905,
+        "national": false,
+        "logo": "13932.png",
+        "venue_id": 8631
+    },
+    {
+        "id": 14829,
+        "name": "Zuzenhausen",
+        "code": null,
+        "country": "Germany",
+        "founded": null,
+        "national": false,
+        "logo": "14829.svg",
+        "venue_id": 18873
+    },
+    {
+        "id": 16113,
+        "name": "Backnang",
+        "code": null,
+        "country": "Germany",
+        "founded": 1919,
+        "national": false,
+        "logo": "16113.png",
+        "venue_id": 18704
+    },
+    {
+        "id": 16114,
+        "name": "Bissingen",
+        "code": null,
+        "country": "Germany",
+        "founded": null,
+        "national": false,
+        "logo": "16114.png",
+        "venue_id": 18705
+    },
+    {
+        "id": 17048,
+        "name": "Hollenbach",
+        "code": "HOL",
+        "country": "Germany",
+        "founded": null,
+        "national": false,
+        "logo": "17048.png",
+        "venue_id": 21883
+    },
+    {
+        "id": 19225,
+        "name": "Fellbach",
+        "code": null,
+        "country": "Germany",
+        "founded": null,
+        "national": false,
+        "logo": "19225.svg",
+        "venue_id": 18714
+    },
+    {
+        "id": 19248,
+        "name": "Leinfelden-Echterdingen",
+        "code": null,
+        "country": "Germany",
+        "founded": null,
+        "national": false,
+        "logo": "19248.svg",
+        "venue_id": 18889
+    },
+    {
+        "id": 19257,
+        "name": "Normannia Gmünd",
+        "code": null,
+        "country": "Germany",
+        "founded": null,
+        "national": false,
+        "logo": "19257.png",
+        "venue_id": 18732
+    },
+    {
+        "id": 19668,
+        "name": "Essingen",
+        "code": null,
+        "country": "Germany",
+        "founded": 1893,
+        "national": false,
+        "logo": "19668.png",
+        "venue_id": 21884
+    },
+    {
+        "id": 24429,
+        "name": "Villingen II",
+        "code": null,
+        "country": "Germany",
+        "founded": null,
+        "national": false,
+        "logo": "24429.png",
+        "venue_id": 974275872117
+    },
+    {
+        "id": 4262,
+        "name": "Eichstätt",
+        "code": "EIC",
+        "country": "Germany",
+        "founded": 1920,
+        "national": false,
+        "logo": "4262.png",
+        "venue_id": 3257
+    },
+    {
+        "id": 12727,
+        "name": "ATSV Erlangen",
+        "code": null,
+        "country": "Germany",
+        "founded": null,
+        "national": false,
+        "logo": "12727.png",
+        "venue_id": 8087
+    },
+    {
+        "id": 12728,
+        "name": "Abtswind",
+        "code": null,
+        "country": "Germany",
+        "founded": null,
+        "national": false,
+        "logo": "12728.png",
+        "venue_id": 8088
+    },
+    {
+        "id": 12737,
+        "name": "Bayern Hof",
+        "code": "BAY",
+        "country": "Germany",
+        "founded": 2005,
+        "national": false,
+        "logo": "12737.png",
+        "venue_id": 8096
+    },
+    {
+        "id": 12762,
+        "name": "Eltersdorf",
+        "code": "ELT",
+        "country": "Germany",
+        "founded": 1926,
+        "national": false,
+        "logo": "12762.png",
+        "venue_id": 8119
+    },
+    {
+        "id": 12792,
+        "name": "Ingolstadt II",
+        "code": "ING",
+        "country": "Germany",
+        "founded": 2004,
+        "national": false,
+        "logo": "12792.png",
+        "venue_id": 8148
+    },
+    {
+        "id": 12798,
+        "name": "Jahn Regensburg II",
+        "code": "REG",
+        "country": "Germany",
+        "founded": null,
+        "national": false,
+        "logo": "12798.png",
+        "venue_id": 8154
+    },
+    {
+        "id": 12898,
+        "name": "Würzburger FV",
+        "code": "WUR",
+        "country": "Germany",
+        "founded": 1981,
+        "national": false,
+        "logo": "12898.png",
+        "venue_id": 8238
+    },
+    {
+        "id": 14619,
+        "name": "Ammerthal",
+        "code": "AMM",
+        "country": "Germany",
+        "founded": null,
+        "national": false,
+        "logo": "14619.png",
+        "venue_id": 12729
+    },
+    {
+        "id": 17056,
+        "name": "Karlburg",
+        "code": null,
+        "country": "Germany",
+        "founded": null,
+        "national": false,
+        "logo": "17056.png",
+        "venue_id": 20195
+    },
+    {
+        "id": 19226,
+        "name": "Fortuna Regensburg",
+        "code": null,
+        "country": "Germany",
+        "founded": null,
+        "national": false,
+        "logo": "19226.png",
+        "venue_id": 18885
+    },
+    {
+        "id": 19228,
+        "name": "Gebenbach",
+        "code": null,
+        "country": "Germany",
+        "founded": 1960,
+        "national": false,
+        "logo": "19228.png",
+        "venue_id": 18715
+    },
+    {
+        "id": 19758,
+        "name": "ASV Neumarkt",
+        "code": null,
+        "country": "Germany",
+        "founded": 1860,
+        "national": false,
+        "logo": "19758.png",
+        "venue_id": 18910
+    },
+    {
+        "id": 19759,
+        "name": "Kornburg",
+        "code": null,
+        "country": "Germany",
+        "founded": 1932,
+        "national": false,
+        "logo": "19759.png",
+        "venue_id": 18911
+    },
+    {
+        "id": 19760,
+        "name": "Weiden",
+        "code": null,
+        "country": "Germany",
+        "founded": 1924,
+        "national": false,
+        "logo": "19760.png",
+        "venue_id": 18912
+    },
+    {
+        "id": 19761,
+        "name": "Cham",
+        "code": null,
+        "country": "Germany",
+        "founded": null,
+        "national": false,
+        "logo": "19761.png",
+        "venue_id": 18913
+    },
+    {
+        "id": 21526,
+        "name": "Neudrossenfeld",
+        "code": null,
+        "country": "Germany",
+        "founded": 1924,
+        "national": false,
+        "logo": "21526.png",
+        "venue_id": 19803
+    },
+    {
+        "id": 24432,
+        "name": "Eintracht Münchberg",
+        "code": null,
+        "country": "Germany",
+        "founded": null,
+        "national": false,
+        "logo": "24432.png",
+        "venue_id": 21788
+    },
+    {
+        "id": 9329,
+        "name": "Heimstetten",
+        "code": "HEI",
+        "country": "Germany",
+        "founded": 1967,
+        "national": false,
+        "logo": "9329.png",
+        "venue_id": 6437
+    },
+    {
+        "id": 9331,
+        "name": "Memmingen",
+        "code": "MEM",
+        "country": "Germany",
+        "founded": 1907,
+        "national": false,
+        "logo": "9331.png",
+        "venue_id": 6439
+    },
+    {
+        "id": 9333,
+        "name": "Rain / Lech",
+        "code": "RAI",
+        "country": "Germany",
+        "founded": 1896,
+        "national": false,
+        "logo": "9333.png",
+        "venue_id": 6441
+    },
+    {
+        "id": 9334,
+        "name": "Schalding-Heining",
+        "code": "SCH",
+        "country": "Germany",
+        "founded": 1946,
+        "national": false,
+        "logo": "9334.png",
+        "venue_id": 6442
+    },
+    {
+        "id": 12724,
+        "name": "1860 München II",
+        "code": "MUN",
+        "country": "Germany",
+        "founded": 1860,
+        "national": false,
+        "logo": "12724.png",
+        "venue_id": 18690
+    },
+    {
+        "id": 12751,
+        "name": "Deisenhofen",
+        "code": null,
+        "country": "Germany",
+        "founded": 1920,
+        "national": false,
+        "logo": "12751.png",
+        "venue_id": 8109
+    },
+    {
+        "id": 12796,
+        "name": "Ismaning",
+        "code": "ISM",
+        "country": "Germany",
+        "founded": 1921,
+        "national": false,
+        "logo": "12796.png",
+        "venue_id": 8152
+    },
+    {
+        "id": 12805,
+        "name": "Kirchanschöring",
+        "code": null,
+        "country": "Germany",
+        "founded": 1946,
+        "national": false,
+        "logo": "12805.png",
+        "venue_id": 8160
+    },
+    {
+        "id": 12807,
+        "name": "Kottern",
+        "code": null,
+        "country": "Germany",
+        "founded": 1874,
+        "national": false,
+        "logo": "12807.png",
+        "venue_id": 8162
+    },
+    {
+        "id": 12832,
+        "name": "Pipinsried",
+        "code": "PIP",
+        "country": "Germany",
+        "founded": 1967,
+        "national": false,
+        "logo": "12832.png",
+        "venue_id": 18646
+    },
+    {
+        "id": 12882,
+        "name": "Türkspor Augsburg",
+        "code": null,
+        "country": "Germany",
+        "founded": null,
+        "national": false,
+        "logo": "12882.png",
+        "venue_id": 8223
+    },
+    {
+        "id": 14512,
+        "name": "Nordlingen",
+        "code": null,
+        "country": "Germany",
+        "founded": null,
+        "national": false,
+        "logo": "14512.png",
+        "venue_id": 18648
+    },
+    {
+        "id": 14717,
+        "name": "Landsberg",
+        "code": null,
+        "country": "Germany",
+        "founded": 1882,
+        "national": false,
+        "logo": "14717.png",
+        "venue_id": 18653
+    },
+    {
+        "id": 19220,
+        "name": "Erlbach",
+        "code": null,
+        "country": "Germany",
+        "founded": null,
+        "national": false,
+        "logo": "19220.png",
+        "venue_id": 18713
+    },
+    {
+        "id": 19233,
+        "name": "Grünwald",
+        "code": null,
+        "country": "Poland",
+        "founded": null,
+        "national": false,
+        "logo": "19233.png",
+        "venue_id": 18719
+    },
+    {
+        "id": 20875,
+        "name": "Unterhaching II",
+        "code": null,
+        "country": "Germany",
+        "founded": null,
+        "national": false,
+        "logo": "20875.png",
+        "venue_id": 20415
+    },
+    {
+        "id": 21415,
+        "name": "Sonthofen",
+        "code": null,
+        "country": "Germany",
+        "founded": null,
+        "national": false,
+        "logo": "21415.png",
+        "venue_id": 21787
+    },
+    {
+        "id": 4263,
+        "name": "Oberneuland",
+        "code": null,
+        "country": "Germany",
+        "founded": 1948,
+        "national": false,
+        "logo": "4263.png",
+        "venue_id": 11937
+    },
+    {
+        "id": 12745,
+        "name": "Brinkumer SV",
+        "code": "BRI",
+        "country": "Germany",
+        "founded": 1924,
+        "national": false,
+        "logo": "12745.png",
+        "venue_id": 8103
+    },
+    {
+        "id": 12769,
+        "name": "Geestemünde",
+        "code": null,
+        "country": "Germany",
+        "founded": 2014,
+        "national": false,
+        "logo": "12769.png",
+        "venue_id": 8125
+    },
+    {
+        "id": 12783,
+        "name": "Hemelingen",
+        "code": null,
+        "country": "Germany",
+        "founded": null,
+        "national": false,
+        "logo": "12783.png",
+        "venue_id": 8139
+    },
+    {
+        "id": 13937,
+        "name": "Aumund-Vegesack",
+        "code": "AUM",
+        "country": "Germany",
+        "founded": 1892,
+        "national": false,
+        "logo": "13937.png",
+        "venue_id": 8635
+    },
+    {
+        "id": 14696,
+        "name": "Habenhauser FV",
+        "code": "HAB",
+        "country": "Germany",
+        "founded": 1952,
+        "national": false,
+        "logo": "14696.png",
+        "venue_id": 10717
+    },
+    {
+        "id": 16090,
+        "name": "BTS Neustadt",
+        "code": null,
+        "country": "Germany",
+        "founded": 1972,
+        "national": false,
+        "logo": "16090.png",
+        "venue_id": 18903
+    },
+    {
+        "id": 16091,
+        "name": "Blumenthaler SV",
+        "code": "BLU",
+        "country": "Germany",
+        "founded": null,
+        "national": false,
+        "logo": "16091.png",
+        "venue_id": 18904
+    },
+    {
+        "id": 16094,
+        "name": "OSC Bremerhaven",
+        "code": "BRE",
+        "country": "Germany",
+        "founded": 1972,
+        "national": false,
+        "logo": "16094.png",
+        "venue_id": 12499
+    },
+    {
+        "id": 16095,
+        "name": "Union Bremen",
+        "code": "UNI",
+        "country": "Germany",
+        "founded": 1860,
+        "national": false,
+        "logo": "16095.png",
+        "venue_id": 11999
+    },
+    {
+        "id": 16096,
+        "name": "Vatan Sport",
+        "code": "BRE",
+        "country": "Germany",
+        "founded": null,
+        "national": false,
+        "logo": "16096.png",
+        "venue_id": 18906
+    },
+    {
+        "id": 16097,
+        "name": "Werder Bremen III",
+        "code": "WER",
+        "country": "Germany",
+        "founded": null,
+        "national": false,
+        "logo": "16097.png",
+        "venue_id": 18907
+    },
+    {
+        "id": 19756,
+        "name": "Woltmershausen",
+        "code": null,
+        "country": "Germany",
+        "founded": 1890,
+        "national": false,
+        "logo": "19756.png",
+        "venue_id": 18908
+    },
+    {
+        "id": 21978,
+        "name": "TuRa Bremen",
+        "code": null,
+        "country": "Germany",
+        "founded": null,
+        "national": false,
+        "logo": "21978.png",
+        "venue_id": 18906
+    },
+    {
+        "id": 21979,
+        "name": "Vahr-Blockdiek",
+        "code": null,
+        "country": "Germany",
+        "founded": null,
+        "national": false,
+        "logo": "21979.png",
+        "venue_id": 20017
+    },
+    {
+        "id": 24523,
+        "name": "Eiche Horn",
+        "code": null,
+        "country": "Germany",
+        "founded": null,
+        "national": false,
+        "logo": "24523.svg",
+        "venue_id": 21017
+    },
+    {
+        "id": 1662,
+        "name": "Tus Dassendorf",
+        "code": "DAS",
+        "country": "Germany",
+        "founded": 1948,
+        "national": false,
+        "logo": "1662.png",
+        "venue_id": 1792
+    },
+    {
+        "id": 9338,
+        "name": "Altona 93",
+        "code": "ALT",
+        "country": "Germany",
+        "founded": 1893,
+        "national": false,
+        "logo": "9338.png",
+        "venue_id": 6445
+    },
+    {
+        "id": 12746,
+        "name": "Buchholz",
+        "code": "BUC",
+        "country": "Germany",
+        "founded": 1908,
+        "national": false,
+        "logo": "12746.png",
+        "venue_id": 8104
+    },
+    {
+        "id": 12821,
+        "name": "Niendorfer TSV",
+        "code": "NIE",
+        "country": "Germany",
+        "founded": null,
+        "national": false,
+        "logo": "12821.png",
+        "venue_id": 8172
+    },
+    {
+        "id": 12828,
+        "name": "Paloma",
+        "code": null,
+        "country": "Germany",
+        "founded": null,
+        "national": false,
+        "logo": "12828.png",
+        "venue_id": 8178
+    },
+    {
+        "id": 12890,
+        "name": "Victoria Hamburg",
+        "code": "VIC",
+        "country": "Germany",
+        "founded": 1895,
+        "national": false,
+        "logo": "12890.png",
+        "venue_id": 8231
+    },
+    {
+        "id": 13947,
+        "name": "Eimsbütteler TV",
+        "code": null,
+        "country": "Germany",
+        "founded": 1889,
+        "national": false,
+        "logo": "13947.png",
+        "venue_id": 8644
+    },
+    {
+        "id": 14796,
+        "name": "Süderelbe",
+        "code": null,
+        "country": "Germany",
+        "founded": 1949,
+        "national": false,
+        "logo": "14796.png",
+        "venue_id": 10752
+    },
+    {
+        "id": 16078,
+        "name": "HEBC",
+        "code": null,
+        "country": "Germany",
+        "founded": null,
+        "national": false,
+        "logo": "16078.png",
+        "venue_id": 18785
+    },
+    {
+        "id": 16079,
+        "name": "Hamburger SV III",
+        "code": null,
+        "country": "Germany",
+        "founded": null,
+        "national": false,
+        "logo": "16079.png",
+        "venue_id": 18786
+    },
+    {
+        "id": 16083,
+        "name": "Sasel",
+        "code": null,
+        "country": "Germany",
+        "founded": 1925,
+        "national": false,
+        "logo": "16083.png",
+        "venue_id": 12703
+    },
+    {
+        "id": 16085,
+        "name": "Concordia",
+        "code": null,
+        "country": "Germany",
+        "founded": 2013,
+        "national": false,
+        "logo": "16085.png",
+        "venue_id": 20001
+    },
+    {
+        "id": 17142,
+        "name": "Halstenbek-Rellingen",
+        "code": "HAL",
+        "country": "Germany",
+        "founded": 1910,
+        "national": false,
+        "logo": "17142.png",
+        "venue_id": 12055
+    },
+    {
+        "id": 19470,
+        "name": "Harksheide",
+        "code": null,
+        "country": "Germany",
+        "founded": null,
+        "national": false,
+        "logo": "19470.png",
+        "venue_id": 20002
+    },
+    {
+        "id": 19471,
+        "name": "Türkiye",
+        "code": null,
+        "country": "Germany",
+        "founded": 2000,
+        "national": false,
+        "logo": "19471.svg",
+        "venue_id": 21897
+    },
+    {
+        "id": 20851,
+        "name": "ETSV Hamburg",
+        "code": null,
+        "country": "Germany",
+        "founded": null,
+        "national": false,
+        "logo": "20851.png",
+        "venue_id": 19455
+    },
+    {
+        "id": 20895,
+        "name": "Vorwärts-Wacker 04",
+        "code": null,
+        "country": "Germany",
+        "founded": 1904,
+        "national": false,
+        "logo": "20895.png",
+        "venue_id": 19484
+    },
+    {
+        "id": 21948,
+        "name": "Alsterbrüder",
+        "code": null,
+        "country": "Germany",
+        "founded": 1948,
+        "national": false,
+        "logo": "21948.png",
+        "venue_id": 20486
+    },
+    {
+        "id": 4261,
+        "name": "Baunatal",
+        "code": "BAU",
+        "country": "Germany",
+        "founded": 1964,
+        "national": false,
+        "logo": "4261.png",
+        "venue_id": 3256
+    },
+    {
+        "id": 9361,
+        "name": "Bayern Alzenau",
+        "code": "ALZ",
+        "country": "Germany",
+        "founded": 1920,
+        "national": false,
+        "logo": "9361.png",
+        "venue_id": 6466
+    },
+    {
+        "id": 12755,
+        "name": "Eddersheim",
+        "code": null,
+        "country": "Germany",
+        "founded": 1931,
+        "national": false,
+        "logo": "12755.png",
+        "venue_id": 8113
+    },
+    {
+        "id": 12761,
+        "name": "Eintracht Stadtallendorf",
+        "code": "STA",
+        "country": "Germany",
+        "founded": 1920,
+        "national": false,
+        "logo": "12761.png",
+        "venue_id": 10643
+    },
+    {
+        "id": 12779,
+        "name": "Hanau 93",
+        "code": null,
+        "country": "Germany",
+        "founded": 1893,
+        "national": false,
+        "logo": "12779.png",
+        "venue_id": 8135
+    },
+    {
+        "id": 12894,
+        "name": "Waldgirmes",
+        "code": "WAL",
+        "country": "Germany",
+        "founded": 1929,
+        "national": false,
+        "logo": "12894.png",
+        "venue_id": 8234
+    },
+    {
+        "id": 14489,
+        "name": "Friedberg",
+        "code": null,
+        "country": "Germany",
+        "founded": null,
+        "national": false,
+        "logo": "14489.png",
+        "venue_id": 18870
+    },
+    {
+        "id": 14677,
+        "name": "Fernwald",
+        "code": "FER",
+        "country": "Germany",
+        "founded": 1926,
+        "national": false,
+        "logo": "14677.png",
+        "venue_id": 18872
+    },
+    {
+        "id": 14808,
+        "name": "Unter-Flockenbach",
+        "code": null,
+        "country": "Germany",
+        "founded": null,
+        "national": false,
+        "logo": "14808.png",
+        "venue_id": 12494
+    },
+    {
+        "id": 16100,
+        "name": "Hünfelder SV",
+        "code": "HUN",
+        "country": "Germany",
+        "founded": 1919,
+        "national": false,
+        "logo": "16100.png",
+        "venue_id": 11275
+    },
+    {
+        "id": 16102,
+        "name": "Rot-Weiß Walldorf",
+        "code": null,
+        "country": "Germany",
+        "founded": 1914,
+        "national": false,
+        "logo": "16102.png",
+        "venue_id": 11277
+    },
+    {
+        "id": 16103,
+        "name": "SV Steinbach",
+        "code": null,
+        "country": "Germany",
+        "founded": 1920,
+        "national": false,
+        "logo": "16103.png",
+        "venue_id": 18783
+    },
+    {
+        "id": 17323,
+        "name": "Vfb Marburg",
+        "code": null,
+        "country": "Germany",
+        "founded": 1905,
+        "national": false,
+        "logo": "17323.png",
+        "venue_id": 12297
+    },
+    {
+        "id": 19468,
+        "name": "TSV Steinbach II",
+        "code": null,
+        "country": "Germany",
+        "founded": null,
+        "national": false,
+        "logo": "19468.png",
+        "venue_id": 19429
+    },
+    {
+        "id": 19469,
+        "name": "Weidenhausen",
+        "code": null,
+        "country": "Germany",
+        "founded": null,
+        "national": false,
+        "logo": "19469.png",
+        "venue_id": 19999
+    },
+    {
+        "id": 21947,
+        "name": "1960 Hanau",
+        "code": null,
+        "country": "Germany",
+        "founded": 1960,
+        "national": false,
+        "logo": "21947.png",
+        "venue_id": 20000
+    },
+    {
+        "id": 22917,
+        "name": "Hornau",
+        "code": null,
+        "country": "Germany",
+        "founded": null,
+        "national": false,
+        "logo": "22917.png",
+        "venue_id": 20533
+    },
+    {
+        "id": 24517,
+        "name": "Darmstadt 98 II",
+        "code": null,
+        "country": "Germany",
+        "founded": null,
+        "national": false,
+        "logo": "24517.png",
+        "venue_id": 21894
+    },
+    {
+        "id": 24518,
+        "name": "Wolfhagen",
+        "code": null,
+        "country": "Germany",
+        "founded": null,
+        "national": false,
+        "logo": "24518.svg",
+        "venue_id": 669718964637
+    },
+    {
+        "id": 1637,
+        "name": "Bonner SC",
+        "code": "BON",
+        "country": "Germany",
+        "founded": 1965,
+        "national": false,
+        "logo": "1637.png",
+        "venue_id": 2700
+    },
+    {
+        "id": 9366,
+        "name": "Bergisch Gladbach",
+        "code": "BER",
+        "country": "Germany",
+        "founded": 1909,
+        "national": false,
+        "logo": "9366.png",
+        "venue_id": 6471
+    },
+    {
+        "id": 12768,
+        "name": "Frechen",
+        "code": null,
+        "country": "Germany",
+        "founded": null,
+        "national": false,
+        "logo": "12768.png",
+        "venue_id": 8124
+    },
+    {
+        "id": 12784,
+        "name": "Hennef 05",
+        "code": "HEN",
+        "country": "Germany",
+        "founded": null,
+        "national": false,
+        "logo": "12784.png",
+        "venue_id": 8140
+    },
+    {
+        "id": 12853,
+        "name": "Siegburger SV",
+        "code": null,
+        "country": "Germany",
+        "founded": 1904,
+        "national": false,
+        "logo": "12853.png",
+        "venue_id": 8200
+    },
+    {
+        "id": 14148,
+        "name": "Wegberg-Beeck",
+        "code": "WEG",
+        "country": "Germany",
+        "founded": 1920,
+        "national": false,
+        "logo": "14148.png",
+        "venue_id": 10573
+    },
+    {
+        "id": 14639,
+        "name": "Bonn-Endenich",
+        "code": null,
+        "country": "Germany",
+        "founded": null,
+        "national": false,
+        "logo": "14639.png",
+        "venue_id": 19245
+    },
+    {
+        "id": 14681,
+        "name": "Fortuna Köln II",
+        "code": null,
+        "country": "Germany",
+        "founded": null,
+        "national": false,
+        "logo": "14681.png",
+        "venue_id": 10713
+    },
+    {
+        "id": 14708,
+        "name": "Hürth",
+        "code": null,
+        "country": "Germany",
+        "founded": null,
+        "national": false,
+        "logo": "14708.png",
+        "venue_id": 10721
+    },
+    {
+        "id": 14748,
+        "name": "Pesch",
+        "code": null,
+        "country": "Germany",
+        "founded": 1956,
+        "national": false,
+        "logo": "14748.svg",
+        "venue_id": 10735
+    },
+    {
+        "id": 14751,
+        "name": "Porz",
+        "code": null,
+        "country": "Germany",
+        "founded": null,
+        "national": false,
+        "logo": "14751.png",
+        "venue_id": 19248
+    },
+    {
+        "id": 14770,
+        "name": "SSV Merten",
+        "code": "MER",
+        "country": "Germany",
+        "founded": null,
+        "national": false,
+        "logo": "14770.png",
+        "venue_id": 10742
+    },
+    {
+        "id": 14800,
+        "name": "TuS BW Königsdorf",
+        "code": null,
+        "country": "Germany",
+        "founded": 1900,
+        "national": false,
+        "logo": "14800.png",
+        "venue_id": 12618
+    },
+    {
+        "id": 14807,
+        "name": "Union Schafhausen",
+        "code": null,
+        "country": "Germany",
+        "founded": 1910,
+        "national": false,
+        "logo": "14807.png",
+        "venue_id": 19251
+    },
+    {
+        "id": 14813,
+        "name": "VfL Vichttal",
+        "code": null,
+        "country": "Germany",
+        "founded": null,
+        "national": false,
+        "logo": "14813.png",
+        "venue_id": 19252
+    },
+    {
+        "id": 24531,
+        "name": "Teutonia Weiden",
+        "code": null,
+        "country": "Germany",
+        "founded": null,
+        "national": false,
+        "logo": "24531.png",
+        "venue_id": 21021
+    },
+    {
+        "id": 9370,
+        "name": "Homberg",
+        "code": "HOM",
+        "country": "Germany",
+        "founded": 1889,
+        "national": false,
+        "logo": "9370.png",
+        "venue_id": 6475
+    },
+    {
+        "id": 12790,
+        "name": "Hilden",
+        "code": "HIL",
+        "country": "Germany",
+        "founded": 1903,
+        "national": false,
+        "logo": "12790.png",
+        "venue_id": 8146
+    },
+    {
+        "id": 12818,
+        "name": "Monheim",
+        "code": null,
+        "country": "Germany",
+        "founded": null,
+        "national": false,
+        "logo": "12818.png",
+        "venue_id": 8169
+    },
+    {
+        "id": 12844,
+        "name": "SF Baumberg",
+        "code": "BAU",
+        "country": "Germany",
+        "founded": null,
+        "national": false,
+        "logo": "12844.png",
+        "venue_id": 21879
+    },
+    {
+        "id": 12847,
+        "name": "SSVg Velbert",
+        "code": "VEL",
+        "country": "Germany",
+        "founded": 1902,
+        "national": false,
+        "logo": "12847.png",
+        "venue_id": 18621
+    },
+    {
+        "id": 12848,
+        "name": "Schonnebeck",
+        "code": null,
+        "country": "Germany",
+        "founded": null,
+        "national": false,
+        "logo": "12848.png",
+        "venue_id": 8195
+    },
+    {
+        "id": 12873,
+        "name": "TVD Velbert",
+        "code": null,
+        "country": "Germany",
+        "founded": null,
+        "national": false,
+        "logo": "12873.png",
+        "venue_id": 8214
+    },
+    {
+        "id": 14523,
+        "name": "SW Essen",
+        "code": "SWE",
+        "country": "Germany",
+        "founded": 1900,
+        "national": false,
+        "logo": "14523.png",
+        "venue_id": 10682
+    },
+    {
+        "id": 14553,
+        "name": "Meerbusch",
+        "code": null,
+        "country": "Germany",
+        "founded": 2015,
+        "national": false,
+        "logo": "14553.png",
+        "venue_id": 10690
+    },
+    {
+        "id": 14555,
+        "name": "Sonsbeck",
+        "code": "SON",
+        "country": "Germany",
+        "founded": 1919,
+        "national": false,
+        "logo": "14555.png",
+        "venue_id": 10691
+    },
+    {
+        "id": 14556,
+        "name": "Union Nettetal",
+        "code": null,
+        "country": "Germany",
+        "founded": null,
+        "national": false,
+        "logo": "14556.png",
+        "venue_id": 10692
+    },
+    {
+        "id": 14689,
+        "name": "Germania Ratingen",
+        "code": "RAT",
+        "country": "Germany",
+        "founded": null,
+        "national": false,
+        "logo": "14689.png",
+        "venue_id": 10714
+    },
+    {
+        "id": 14733,
+        "name": "Mülheimer",
+        "code": null,
+        "country": "Germany",
+        "founded": null,
+        "national": false,
+        "logo": "14733.png",
+        "venue_id": 12615
+    },
+    {
+        "id": 16105,
+        "name": "Kleve",
+        "code": null,
+        "country": "Germany",
+        "founded": 2000,
+        "national": false,
+        "logo": "16105.png",
+        "venue_id": 19474
+    },
+    {
+        "id": 16106,
+        "name": "SF Niederwenigern",
+        "code": null,
+        "country": "Germany",
+        "founded": 1924,
+        "national": false,
+        "logo": "16106.svg",
+        "venue_id": 12001
+    },
+    {
+        "id": 19466,
+        "name": "SC St. Tönis",
+        "code": null,
+        "country": "Germany",
+        "founded": 2022,
+        "national": false,
+        "logo": "19466.png",
+        "venue_id": 12291
+    },
+    {
+        "id": 19657,
+        "name": "Büderich",
+        "code": null,
+        "country": "Germany",
+        "founded": null,
+        "national": false,
+        "logo": "19657.png",
+        "venue_id": 21880
+    },
+    {
+        "id": 24426,
+        "name": "Biemenhorst",
+        "code": null,
+        "country": "Germany",
+        "founded": null,
+        "national": false,
+        "logo": "24426.png",
+        "venue_id": 21882
+    },
+    {
+        "id": 1632,
+        "name": "Germania Egestorf",
+        "code": "EGE",
+        "country": "Germany",
+        "founded": null,
+        "national": false,
+        "logo": "1632.png",
+        "venue_id": 2709
+    },
+    {
+        "id": 4260,
+        "name": "Atlas Delmenhorst",
+        "code": null,
+        "country": "Germany",
+        "founded": null,
+        "national": false,
+        "logo": "4260.png",
+        "venue_id": 3255
+    },
+    {
+        "id": 9339,
+        "name": "HSC Hannover",
+        "code": null,
+        "country": "Germany",
+        "founded": null,
+        "national": false,
+        "logo": "9339.png",
+        "venue_id": 10641
+    },
+    {
+        "id": 9345,
+        "name": "Schwarz-Weiß Rehden",
+        "code": "REH",
+        "country": "Germany",
+        "founded": 1954,
+        "national": false,
+        "logo": "9345.png",
+        "venue_id": 6452
+    },
+    {
+        "id": 12729,
+        "name": "Arminia Hannover",
+        "code": null,
+        "country": "Germany",
+        "founded": 1910,
+        "national": false,
+        "logo": "12729.png",
+        "venue_id": 8089
+    },
+    {
+        "id": 12758,
+        "name": "Eintracht Celle",
+        "code": null,
+        "country": "Germany",
+        "founded": 2005,
+        "national": false,
+        "logo": "12758.png",
+        "venue_id": 8116
+    },
+    {
+        "id": 12782,
+        "name": "Heeslinger SC",
+        "code": null,
+        "country": "Germany",
+        "founded": 2013,
+        "national": false,
+        "logo": "12782.png",
+        "venue_id": 8138
+    },
+    {
+        "id": 12811,
+        "name": "Lupo-Martini",
+        "code": "WOL",
+        "country": "Germany",
+        "founded": null,
+        "national": false,
+        "logo": "12811.png",
+        "venue_id": 8165
+    },
+    {
+        "id": 12888,
+        "name": "VfL Oldenburg",
+        "code": "VFL",
+        "country": "Germany",
+        "founded": null,
+        "national": false,
+        "logo": "12888.png",
+        "venue_id": 8229
+    },
+    {
+        "id": 13941,
+        "name": "Wilhelmshaven",
+        "code": "WIL",
+        "country": "Germany",
+        "founded": 1906,
+        "national": false,
+        "logo": "13941.png",
+        "venue_id": 8639
+    },
+    {
+        "id": 14635,
+        "name": "Bersenbrück",
+        "code": null,
+        "country": "Germany",
+        "founded": 1895,
+        "national": false,
+        "logo": "14635.png",
+        "venue_id": 10697
+    },
+    {
+        "id": 14787,
+        "name": "Spelle-Venhaus",
+        "code": null,
+        "country": "Germany",
+        "founded": 1946,
+        "national": false,
+        "logo": "14787.png",
+        "venue_id": 10747
+    },
+    {
+        "id": 19287,
+        "name": "Vorsfelde",
+        "code": null,
+        "country": "Germany",
+        "founded": null,
+        "national": false,
+        "logo": "19287.png",
+        "venue_id": 18742
+    },
+    {
+        "id": 19475,
+        "name": "Schöningen",
+        "code": null,
+        "country": "Germany",
+        "founded": null,
+        "national": false,
+        "logo": "19475.png",
+        "venue_id": 19716
+    },
+    {
+        "id": 19721,
+        "name": "Verden 04",
+        "code": null,
+        "country": "Germany",
+        "founded": 2004,
+        "national": false,
+        "logo": "19721.svg",
+        "venue_id": 19796
+    },
+    {
+        "id": 21951,
+        "name": "Meppen II",
+        "code": null,
+        "country": "Germany",
+        "founded": null,
+        "national": false,
+        "logo": "21951.png",
+        "venue_id": 21927
+    },
+    {
+        "id": 24467,
+        "name": "Eintracht Braunschw. II",
+        "code": null,
+        "country": "Germany",
+        "founded": null,
+        "national": false,
+        "logo": "24467.png",
+        "venue_id": 21009
+    },
+    {
+        "id": 1618,
+        "name": "BFC Preussen",
+        "code": null,
+        "country": "Germany",
+        "founded": null,
+        "national": false,
+        "logo": "1618.png",
+        "venue_id": 19383
+    },
+    {
+        "id": 9351,
+        "name": "BAK '07",
+        "code": null,
+        "country": "Germany",
+        "founded": 1907,
+        "national": false,
+        "logo": "9351.png",
+        "venue_id": 6456
+    },
+    {
+        "id": 9354,
+        "name": "Lichtenberg",
+        "code": "LIC",
+        "country": "Germany",
+        "founded": 1947,
+        "national": false,
+        "logo": "9354.png",
+        "venue_id": 6459
+    },
+    {
+        "id": 9356,
+        "name": "Optik Rathenow",
+        "code": "RAT",
+        "country": "Germany",
+        "founded": 1991,
+        "national": false,
+        "logo": "9356.png",
+        "venue_id": 6461
+    },
+    {
+        "id": 12759,
+        "name": "Eintracht Mahlsdorf",
+        "code": null,
+        "country": "Germany",
+        "founded": null,
+        "national": false,
+        "logo": "12759.png",
+        "venue_id": 12101
+    },
+    {
+        "id": 12820,
+        "name": "Neustrelitz",
+        "code": "NEU",
+        "country": "Germany",
+        "founded": null,
+        "national": false,
+        "logo": "12820.png",
+        "venue_id": 8171
+    },
+    {
+        "id": 12858,
+        "name": "Sparta Lichtenberg",
+        "code": null,
+        "country": "Germany",
+        "founded": 1911,
+        "national": false,
+        "logo": "12858.png",
+        "venue_id": 12471
+    },
+    {
+        "id": 12874,
+        "name": "Tasmania Berlin",
+        "code": null,
+        "country": "Germany",
+        "founded": 1973,
+        "national": false,
+        "logo": "12874.png",
+        "venue_id": 8215
+    },
+    {
+        "id": 12876,
+        "name": "Tennis Borussia",
+        "code": null,
+        "country": "Germany",
+        "founded": 1902,
+        "national": false,
+        "logo": "12876.png",
+        "venue_id": 8217
+    },
+    {
+        "id": 13946,
+        "name": "Anker Wismar",
+        "code": null,
+        "country": "Germany",
+        "founded": 1997,
+        "national": false,
+        "logo": "13946.png",
+        "venue_id": 8643
+    },
+    {
+        "id": 14694,
+        "name": "Grün-Weiß Ahrensfelde",
+        "code": null,
+        "country": "Germany",
+        "founded": null,
+        "national": false,
+        "logo": "14694.svg",
+        "venue_id": 455431234341
+    },
+    {
+        "id": 14722,
+        "name": "Makkabi",
+        "code": null,
+        "country": "Germany",
+        "founded": 1970,
+        "national": false,
+        "logo": "14722.png",
+        "venue_id": 18654
+    },
+    {
+        "id": 14762,
+        "name": "Rostocker FC",
+        "code": null,
+        "country": "Germany",
+        "founded": 1895,
+        "national": false,
+        "logo": "14762.png",
+        "venue_id": 10739
+    },
+    {
+        "id": 16119,
+        "name": "Hansa Rostock II",
+        "code": "HAN",
+        "country": "Germany",
+        "founded": 1965,
+        "national": false,
+        "logo": "16119.png",
+        "venue_id": 12007
+    },
+    {
+        "id": 16120,
+        "name": "Staaken",
+        "code": null,
+        "country": "Germany",
+        "founded": 1919,
+        "national": false,
+        "logo": "16120.png",
+        "venue_id": 12008
+    },
+    {
+        "id": 17317,
+        "name": "Croatia Berlin",
+        "code": null,
+        "country": "Croatia",
+        "founded": null,
+        "national": false,
+        "logo": "17317.svg",
+        "venue_id": 831069140877
+    },
+    {
+        "id": 18384,
+        "name": "Dynamo Schwerin",
+        "code": null,
+        "country": "Germany",
+        "founded": 2003,
+        "national": false,
+        "logo": "18384.png",
+        "venue_id": 18660
+    },
+    {
+        "id": 1643,
+        "name": "Germania Halberstadt",
+        "code": "HAL",
+        "country": "Germany",
+        "founded": 1900,
+        "national": false,
+        "logo": "1643.png",
+        "venue_id": 2703
+    },
+    {
+        "id": 9350,
+        "name": "Auerbach",
+        "code": "AUE",
+        "country": "Germany",
+        "founded": 1906,
+        "national": false,
+        "logo": "9350.png",
+        "venue_id": 6455
+    },
+    {
+        "id": 9352,
+        "name": "Bischofswerdaer FV",
+        "code": null,
+        "country": "Germany",
+        "founded": 1908,
+        "national": false,
+        "logo": "9352.png",
+        "venue_id": 21889
+    },
+    {
+        "id": 12747,
+        "name": "Budissa Bautzen",
+        "code": "BAU",
+        "country": "Germany",
+        "founded": null,
+        "national": false,
+        "logo": "12747.png",
+        "venue_id": 8105
+    },
+    {
+        "id": 12885,
+        "name": "Union Sandersdorf",
+        "code": "SAN",
+        "country": "Germany",
+        "founded": 1911,
+        "national": false,
+        "logo": "12885.png",
+        "venue_id": 8226
+    },
+    {
+        "id": 14548,
+        "name": "Einheit Rudolstadt",
+        "code": "RUD",
+        "country": "Germany",
+        "founded": 1996,
+        "national": false,
+        "logo": "14548.png",
+        "venue_id": 10686
+    },
+    {
+        "id": 14713,
+        "name": "Krieschow",
+        "code": null,
+        "country": "Germany",
+        "founded": null,
+        "national": false,
+        "logo": "14713.png",
+        "venue_id": 10723
+    },
+    {
+        "id": 14720,
+        "name": "Ludwigsfelde",
+        "code": null,
+        "country": "Germany",
+        "founded": 1947,
+        "national": false,
+        "logo": "14720.png",
+        "venue_id": 10725
+    },
+    {
+        "id": 14754,
+        "name": "RSV Eintracht",
+        "code": null,
+        "country": "Germany",
+        "founded": null,
+        "national": false,
+        "logo": "14754.png",
+        "venue_id": 10738
+    },
+    {
+        "id": 14812,
+        "name": "VfL Halle",
+        "code": null,
+        "country": "Germany",
+        "founded": 1896,
+        "national": false,
+        "logo": "14812.png",
+        "venue_id": 10753
+    },
+    {
+        "id": 16125,
+        "name": "Blau-Weiß Zorbau",
+        "code": null,
+        "country": "Germany",
+        "founded": null,
+        "national": false,
+        "logo": "16125.png",
+        "venue_id": 11281
+    },
+    {
+        "id": 16126,
+        "name": "FC Grimma",
+        "code": null,
+        "country": "Germany",
+        "founded": 2009,
+        "national": false,
+        "logo": "16126.png",
+        "venue_id": 11282
+    },
+    {
+        "id": 17035,
+        "name": "Einheit Wernigerode",
+        "code": null,
+        "country": "Germany",
+        "founded": null,
+        "national": false,
+        "logo": "17035.png",
+        "venue_id": 21891
+    },
+    {
+        "id": 17117,
+        "name": "Wismut Gera",
+        "code": null,
+        "country": "Germany",
+        "founded": 2007,
+        "national": false,
+        "logo": "17117.png",
+        "venue_id": 12625
+    },
+    {
+        "id": 18170,
+        "name": "SC Freital",
+        "code": null,
+        "country": "Germany",
+        "founded": null,
+        "national": false,
+        "logo": "18170.png",
+        "venue_id": 21892
+    },
+    {
+        "id": 21525,
+        "name": "Magdeburg II",
+        "code": null,
+        "country": "Germany",
+        "founded": null,
+        "national": false,
+        "logo": "21525.png",
+        "venue_id": 19802
+    },
+    {
+        "id": 9343,
+        "name": "Heider SV",
+        "code": "HEI",
+        "country": "Germany",
+        "founded": 1925,
+        "national": false,
+        "logo": "9343.png",
+        "venue_id": 6450
+    },
+    {
+        "id": 12800,
+        "name": "Kaiserslautern II",
+        "code": "KAI",
+        "country": "Germany",
+        "founded": 1900,
+        "national": false,
+        "logo": "12800.png",
+        "venue_id": 8156
+    },
+    {
+        "id": 12850,
+        "name": "Schwabmünchen",
+        "code": "SCH",
+        "country": "Germany",
+        "founded": null,
+        "national": false,
+        "logo": "12850.png",
+        "venue_id": 21786
+    },
+    {
+        "id": 17011,
+        "name": "Biebrich",
+        "code": null,
+        "country": "Germany",
+        "founded": 1902,
+        "national": false,
+        "logo": "17011.svg",
+        "venue_id": 12502
+    },
+    {
+        "id": 17032,
+        "name": "Dortelweil",
+        "code": null,
+        "country": "Germany",
+        "founded": null,
+        "national": false,
+        "logo": "17032.svg",
+        "venue_id": 19974
+    },
+    {
+        "id": 26065,
+        "name": "Frammersbach",
+        "code": null,
+        "country": "Germany",
+        "founded": null,
+        "national": false,
+        "logo": "26065.svg",
+        "venue_id": 21799
+    },
+    {
+        "id": 26066,
+        "name": "Luhe-Wildenau",
+        "code": null,
+        "country": "Germany",
+        "founded": 1926,
+        "national": false,
+        "logo": "26066.png",
+        "venue_id": 21800
+    },
+    {
+        "id": 26067,
+        "name": "Stadeln",
+        "code": null,
+        "country": "Germany",
+        "founded": null,
+        "national": false,
+        "logo": "26067.svg",
+        "venue_id": 21801
+    },
+    {
+        "id": 26068,
+        "name": "TuS Geretsried",
+        "code": null,
+        "country": "Germany",
+        "founded": null,
+        "national": false,
+        "logo": "26068.png",
+        "venue_id": 21789
+    },
+    {
+        "id": 26069,
+        "name": "Grünwald",
+        "code": null,
+        "country": "Germany",
+        "founded": null,
+        "national": false,
+        "logo": "26069.png",
+        "venue_id": 21790
+    },
+    {
+        "id": 26095,
+        "name": "Bad Soden-Salmünster",
+        "code": null,
+        "country": "Germany",
+        "founded": 1911,
+        "national": false,
+        "logo": "26095.png",
+        "venue_id": 19266
+    },
+    {
+        "id": 1641,
+        "name": "SV Morlautern",
+        "code": null,
+        "country": "Germany",
+        "founded": 1912,
+        "national": false,
+        "logo": "1641.svg",
+        "venue_id": 18682
+    },
+    {
+        "id": 1657,
+        "name": "TuS RW Koblenz",
+        "code": null,
+        "country": "Germany",
+        "founded": 1860,
+        "national": false,
+        "logo": "1657.png",
+        "venue_id": 1880
+    },
+    {
+        "id": 1663,
+        "name": "Wormatia Worms",
+        "code": "WOR",
+        "country": "Germany",
+        "founded": 1922,
+        "national": false,
+        "logo": "1663.png",
+        "venue_id": 756
+    },
+    {
+        "id": 9365,
+        "name": "Pirmasens",
+        "code": "PIR",
+        "country": "Germany",
+        "founded": 1903,
+        "national": false,
+        "logo": "9365.png",
+        "venue_id": 6470
+    },
+    {
+        "id": 12730,
+        "name": "Arminia Ludwigshafen",
+        "code": "ARM",
+        "country": "Germany",
+        "founded": 1903,
+        "national": false,
+        "logo": "12730.png",
+        "venue_id": 21887
+    },
+    {
+        "id": 12767,
+        "name": "FV Engers 07",
+        "code": null,
+        "country": "Germany",
+        "founded": null,
+        "national": false,
+        "logo": "12767.png",
+        "venue_id": 8123
+    },
+    {
+        "id": 12773,
+        "name": "Gonsenheim",
+        "code": "GON",
+        "country": "Germany",
+        "founded": 1919,
+        "national": false,
+        "logo": "12773.png",
+        "venue_id": 8129
+    },
+    {
+        "id": 14468,
+        "name": "Auersmacher",
+        "code": null,
+        "country": "Germany",
+        "founded": 1919,
+        "national": false,
+        "logo": "14468.png",
+        "venue_id": 10370
+    },
+    {
+        "id": 14655,
+        "name": "Diefflen",
+        "code": null,
+        "country": "Germany",
+        "founded": null,
+        "national": false,
+        "logo": "14655.png",
+        "venue_id": 10703
+    },
+    {
+        "id": 14724,
+        "name": "Mechtersheim",
+        "code": "MEC",
+        "country": "Germany",
+        "founded": 1914,
+        "national": false,
+        "logo": "14724.png",
+        "venue_id": 10727
+    },
+    {
+        "id": 16108,
+        "name": "Eisbachtal",
+        "code": null,
+        "country": "Germany",
+        "founded": 1919,
+        "national": false,
+        "logo": "16108.png",
+        "venue_id": 19970
+    },
+    {
+        "id": 16110,
+        "name": "Eppelborn",
+        "code": null,
+        "country": "Germany",
+        "founded": null,
+        "national": false,
+        "logo": "16110.png",
+        "venue_id": 20968
+    },
+    {
+        "id": 16112,
+        "name": "Karbach",
+        "code": null,
+        "country": "Germany",
+        "founded": 1920,
+        "national": false,
+        "logo": "16112.png",
+        "venue_id": 12292
+    },
+    {
+        "id": 24427,
+        "name": "SC Idar-Oberstein",
+        "code": null,
+        "country": "Germany",
+        "founded": 1971,
+        "national": false,
+        "logo": "24427.png",
+        "venue_id": 21888
+    },
+    {
+        "id": 24428,
+        "name": "Viktoria Herxheim",
+        "code": null,
+        "country": "Germany",
+        "founded": null,
+        "national": false,
+        "logo": "24428.png",
+        "venue_id": 419880472107
+    },
+    {
+        "id": 1646,
+        "name": "SV Eichede",
+        "code": "EIC",
+        "country": "Germany",
+        "founded": 1947,
+        "national": false,
+        "logo": "1646.png",
+        "venue_id": 2722
+    },
+    {
+        "id": 12872,
+        "name": "TSB Flensburg",
+        "code": null,
+        "country": "Germany",
+        "founded": 1865,
+        "national": false,
+        "logo": "12872.png",
+        "venue_id": 8213
+    },
+    {
+        "id": 13940,
+        "name": "VfR Neumünster",
+        "code": "NEU",
+        "country": "Germany",
+        "founded": 1910,
+        "national": false,
+        "logo": "13940.png",
+        "venue_id": 8638
+    },
+    {
+        "id": 14500,
+        "name": "Kilia Kiel",
+        "code": null,
+        "country": "Germany",
+        "founded": 1902,
+        "national": false,
+        "logo": "14500.png",
+        "venue_id": 10383
+    },
+    {
+        "id": 16067,
+        "name": "Dornbreite Lübeck",
+        "code": "DOR",
+        "country": "Germany",
+        "founded": 1958,
+        "national": false,
+        "logo": "16067.png",
+        "venue_id": 11258
+    },
+    {
+        "id": 16068,
+        "name": "Eckernförder SV",
+        "code": null,
+        "country": "Germany",
+        "founded": 1923,
+        "national": false,
+        "logo": "16068.png",
+        "venue_id": 11259
+    },
+    {
+        "id": 16069,
+        "name": "Eutiner SV",
+        "code": null,
+        "country": "Germany",
+        "founded": 1908,
+        "national": false,
+        "logo": "16069.png",
+        "venue_id": 11260
+    },
+    {
+        "id": 16072,
+        "name": "Lübeck II",
+        "code": null,
+        "country": "Germany",
+        "founded": 1919,
+        "national": false,
+        "logo": "16072.png",
+        "venue_id": 20776
+    },
+    {
+        "id": 16073,
+        "name": "Oldenburger SV",
+        "code": null,
+        "country": "Germany",
+        "founded": 1865,
+        "national": false,
+        "logo": "16073.png",
+        "venue_id": 11263
+    },
+    {
+        "id": 16075,
+        "name": "Preußen Reinfeld",
+        "code": null,
+        "country": "Germany",
+        "founded": 1909,
+        "national": false,
+        "logo": "16075.png",
+        "venue_id": 11265
+    },
+    {
+        "id": 16076,
+        "name": "Union Neumünster",
+        "code": null,
+        "country": "Germany",
+        "founded": null,
+        "national": false,
+        "logo": "16076.png",
+        "venue_id": 11266
+    },
+    {
+        "id": 21943,
+        "name": "Hohenwestedt",
+        "code": null,
+        "country": "Germany",
+        "founded": null,
+        "national": false,
+        "logo": "21943.png",
+        "venue_id": 20971
+    },
+    {
+        "id": 21946,
+        "name": "Nordmark Satrup",
+        "code": null,
+        "country": "Germany",
+        "founded": null,
+        "national": false,
+        "logo": "21946.png",
+        "venue_id": 20485
+    },
+    {
+        "id": 24433,
+        "name": "Eidertal Molfsee",
+        "code": null,
+        "country": "Germany",
+        "founded": null,
+        "national": false,
+        "logo": "24433.png",
+        "venue_id": 789402987949
+    },
+    {
+        "id": 24434,
+        "name": "Rotenhof",
+        "code": null,
+        "country": "Germany",
+        "founded": null,
+        "national": false,
+        "logo": "24434.png",
+        "venue_id": 20972
+    },
+    {
+        "id": 1629,
+        "name": "SG Wattenscheid 09",
+        "code": "WAT",
+        "country": "Germany",
+        "founded": 1909,
+        "national": false,
+        "logo": "1629.png",
+        "venue_id": 2718
+    },
+    {
+        "id": 9372,
+        "name": "Lippstadt 08",
+        "code": "LIP",
+        "country": "Germany",
+        "founded": 1908,
+        "national": false,
+        "logo": "9372.png",
+        "venue_id": 11974
+    },
+    {
+        "id": 12726,
+        "name": "ASC Dortmund",
+        "code": null,
+        "country": "Germany",
+        "founded": 1909,
+        "national": false,
+        "logo": "12726.png",
+        "venue_id": 8086
+    },
+    {
+        "id": 12839,
+        "name": "Rot Weiss Ahlen",
+        "code": "AHL",
+        "country": "Germany",
+        "founded": 1996,
+        "national": false,
+        "logo": "12839.png",
+        "venue_id": 8188
+    },
+    {
+        "id": 13935,
+        "name": "Sportfreunde Siegen",
+        "code": null,
+        "country": "Germany",
+        "founded": 1899,
+        "national": false,
+        "logo": "13935.png",
+        "venue_id": 8634
+    },
+    {
+        "id": 14476,
+        "name": "Concordia Wiemelhausen",
+        "code": null,
+        "country": "Germany",
+        "founded": 1997,
+        "national": false,
+        "logo": "14476.svg",
+        "venue_id": 12474
+    },
+    {
+        "id": 14650,
+        "name": "Bövinghausen",
+        "code": null,
+        "country": "Germany",
+        "founded": null,
+        "national": false,
+        "logo": "14650.png",
+        "venue_id": 12478
+    },
+    {
+        "id": 14663,
+        "name": "Eintracht Rheine",
+        "code": "RHE",
+        "country": "Germany",
+        "founded": 1994,
+        "national": false,
+        "logo": "14663.png",
+        "venue_id": 10705
+    },
+    {
+        "id": 14666,
+        "name": "Ennepetal",
+        "code": "ENN",
+        "country": "Germany",
+        "founded": null,
+        "national": false,
+        "logo": "14666.png",
+        "venue_id": 10707
+    },
+    {
+        "id": 14667,
+        "name": "Erkenschwick",
+        "code": "ERK",
+        "country": "Germany",
+        "founded": 1916,
+        "national": false,
+        "logo": "14667.png",
+        "venue_id": 10708
+    },
+    {
+        "id": 14679,
+        "name": "Finnentrop / Bamenohl",
+        "code": null,
+        "country": "Germany",
+        "founded": null,
+        "national": false,
+        "logo": "14679.png",
+        "venue_id": 10712
+    },
+    {
+        "id": 14693,
+        "name": "Gievenbeck",
+        "code": null,
+        "country": "Germany",
+        "founded": null,
+        "national": false,
+        "logo": "14693.png",
+        "venue_id": 20521
+    },
+    {
+        "id": 14753,
+        "name": "Preußen Münster II",
+        "code": null,
+        "country": "Germany",
+        "founded": null,
+        "national": false,
+        "logo": "14753.png",
+        "venue_id": 20565
+    },
+    {
+        "id": 14779,
+        "name": "Schermbeck",
+        "code": null,
+        "country": "Germany",
+        "founded": 1912,
+        "national": false,
+        "logo": "14779.png",
+        "venue_id": 10745
+    },
+    {
+        "id": 14814,
+        "name": "Victoria Clarholz",
+        "code": null,
+        "country": "Germany",
+        "founded": 2015,
+        "national": false,
+        "logo": "14814.png",
+        "venue_id": 10754
+    },
+    {
+        "id": 14826,
+        "name": "Westfalia Rhynern",
+        "code": "RHY",
+        "country": "Germany",
+        "founded": 1935,
+        "national": false,
+        "logo": "14826.png",
+        "venue_id": 21916
+    },
+    {
+        "id": 16088,
+        "name": "Vreden",
+        "code": null,
+        "country": "Germany",
+        "founded": 1921,
+        "national": false,
+        "logo": "16088.png",
+        "venue_id": 11998
+    },
+    {
+        "id": 24430,
+        "name": "Bochum II",
+        "code": null,
+        "country": "Germany",
+        "founded": 1938,
+        "national": false,
+        "logo": "24430.png",
+        "venue_id": 2718
+    },
+    {
+        "id": 24431,
+        "name": "Verl II",
+        "code": null,
+        "country": "Germany",
+        "founded": null,
+        "national": false,
+        "logo": "24431.png",
+        "venue_id": 21010
+    },
+    {
+        "id": 1315,
+        "name": "FSV Zwickau",
+        "code": "ZWI",
+        "country": "Germany",
+        "founded": 1912,
+        "national": false,
+        "logo": "1315.png",
+        "venue_id": 758
+    },
+    {
+        "id": 1328,
+        "name": "Chemnitzer FC",
+        "code": null,
+        "country": "Germany",
+        "founded": 1966,
+        "national": false,
+        "logo": "1328.png",
+        "venue_id": 2701
+    },
+    {
+        "id": 1329,
+        "name": "FC Rot-Weiß Erfurt",
+        "code": "ERF",
+        "country": "Germany",
+        "founded": 1895,
+        "national": false,
+        "logo": "1329.png",
+        "venue_id": 20305
+    },
+    {
+        "id": 1622,
+        "name": "SV Babelsberg 03",
+        "code": "BAB",
+        "country": "Germany",
+        "founded": 1903,
+        "national": false,
+        "logo": "1622.png",
+        "venue_id": 2713
+    },
+    {
+        "id": 1636,
+        "name": "BFC Dynamo",
+        "code": "DYN",
+        "country": "Germany",
+        "founded": 1966,
+        "national": false,
+        "logo": "1636.png",
+        "venue_id": 19927
+    },
+    {
+        "id": 1651,
+        "name": "BSG Chemie Leipzig",
+        "code": null,
+        "country": "Germany",
+        "founded": 1997,
+        "national": false,
+        "logo": "1651.png",
+        "venue_id": 1878
+    },
+    {
+        "id": 9349,
+        "name": "Altglienicke",
+        "code": "ALT",
+        "country": "Germany",
+        "founded": 1882,
+        "national": false,
+        "logo": "9349.png",
+        "venue_id": 701
+    },
+    {
+        "id": 9353,
+        "name": "Hertha BSC II",
+        "code": "HER",
+        "country": "Germany",
+        "founded": 1892,
+        "national": false,
+        "logo": "9353.png",
+        "venue_id": 11973
+    },
+    {
+        "id": 9355,
+        "name": "Lokomotive Leipzig",
+        "code": "LOK",
+        "country": "Germany",
+        "founded": 2003,
+        "national": false,
+        "logo": "9355.png",
+        "venue_id": 6460
+    },
+    {
+        "id": 9358,
+        "name": "ZFC Meuselwitz",
+        "code": "MEU",
+        "country": "Germany",
+        "founded": 1919,
+        "national": false,
+        "logo": "9358.png",
+        "venue_id": 6463
+    },
+    {
+        "id": 12756,
+        "name": "Eilenburg",
+        "code": null,
+        "country": "Germany",
+        "founded": null,
+        "national": false,
+        "logo": "12756.png",
+        "venue_id": 8114
+    },
+    {
+        "id": 12786,
+        "name": "Hertha Zehlendorf",
+        "code": null,
+        "country": "Germany",
+        "founded": 1903,
+        "national": false,
+        "logo": "12786.png",
+        "venue_id": 8142
+    },
+    {
+        "id": 12809,
+        "name": "Luckenwalde",
+        "code": "LUC",
+        "country": "Germany",
+        "founded": 1963,
+        "national": false,
+        "logo": "12809.png",
+        "venue_id": 8164
+    },
+    {
+        "id": 12833,
+        "name": "Plauen",
+        "code": "PLA",
+        "country": "Germany",
+        "founded": 1903,
+        "national": false,
+        "logo": "12833.png",
+        "venue_id": 21890
+    },
+    {
+        "id": 9342,
+        "name": "Havelse",
+        "code": "HAV",
+        "country": "Germany",
+        "founded": 1912,
+        "national": false,
+        "logo": "9342.png",
+        "venue_id": 6449
+    },
+    {
+        "id": 9336,
+        "name": "Viktoria Aschaffenburg",
+        "code": "ASC",
+        "country": "Germany",
+        "founded": 1901,
+        "national": false,
+        "logo": "9336.png",
+        "venue_id": 6443
+    },
+    {
+        "id": 12780,
+        "name": "Hankofen-Hailing",
+        "code": "HAN",
+        "country": "Germany",
+        "founded": null,
+        "national": false,
+        "logo": "12780.png",
+        "venue_id": 8136
+    },
+    {
+        "id": 1331,
+        "name": "FSV Mainz 05 II",
+        "code": "MAI",
+        "country": "Germany",
+        "founded": 1905,
+        "national": false,
+        "logo": "1331.png",
+        "venue_id": 2728
+    },
+    {
+        "id": 1332,
+        "name": "FSV Frankfurt",
+        "code": "FRA",
+        "country": "Germany",
+        "founded": 1899,
+        "national": false,
+        "logo": "1332.png",
+        "venue_id": 2708
+    },
+    {
+        "id": 1626,
+        "name": "FC Astoria Walldorf",
+        "code": "WAL",
+        "country": "Germany",
+        "founded": 1908,
+        "national": false,
+        "logo": "1626.png",
+        "venue_id": 2716
+    },
+    {
+        "id": 1627,
+        "name": "Eintracht Trier",
+        "code": "EIN",
+        "country": "Germany",
+        "founded": 1905,
+        "national": false,
+        "logo": "1627.png",
+        "venue_id": 2707
+    },
+    {
+        "id": 1634,
+        "name": "FC 08 Homburg",
+        "code": "HOM",
+        "country": "Germany",
+        "founded": 1908,
+        "national": false,
+        "logo": "1634.png",
+        "venue_id": 2715
+    },
+    {
+        "id": 1656,
+        "name": "TSV Steinbach",
+        "code": null,
+        "country": "Germany",
+        "founded": 1921,
+        "national": false,
+        "logo": "1656.png",
+        "venue_id": 1828
+    },
+    {
+        "id": 9359,
+        "name": "Bahlinger SC",
+        "code": "BAH",
+        "country": "Germany",
+        "founded": null,
+        "national": false,
+        "logo": "9359.png",
+        "venue_id": 6464
+    },
+    {
+        "id": 9362,
+        "name": "FC Gießen",
+        "code": null,
+        "country": "Germany",
+        "founded": 1927,
+        "national": false,
+        "logo": "9362.png",
+        "venue_id": 6467
+    },
+    {
+        "id": 9363,
+        "name": "Freiburg II",
+        "code": "FRE",
+        "country": "Germany",
+        "founded": 1904,
+        "national": false,
+        "logo": "9363.png",
+        "venue_id": 12274
+    },
+    {
+        "id": 9364,
+        "name": "Hoffenheim II",
+        "code": "HOF",
+        "country": "Germany",
+        "founded": null,
+        "national": false,
+        "logo": "9364.png",
+        "venue_id": 6469
+    },
+    {
+        "id": 12735,
+        "name": "Barockstadt Fulda-Lehn.",
+        "code": null,
+        "country": "Germany",
+        "founded": 1965,
+        "national": false,
+        "logo": "12735.png",
+        "venue_id": 8095
+    },
+    {
+        "id": 12777,
+        "name": "Göppinger SV",
+        "code": null,
+        "country": "Germany",
+        "founded": 1895,
+        "national": false,
+        "logo": "12777.png",
+        "venue_id": 8133
+    },
+    {
+        "id": 12788,
+        "name": "Hessen Kassel",
+        "code": "KAS",
+        "country": "Germany",
+        "founded": 1945,
+        "national": false,
+        "logo": "12788.png",
+        "venue_id": 8144
+    },
+    {
+        "id": 12846,
+        "name": "SGV Freiberg",
+        "code": "FRE",
+        "country": "Germany",
+        "founded": null,
+        "national": false,
+        "logo": "12846.png",
+        "venue_id": 8193
+    },
+    {
+        "id": 12868,
+        "name": "Stuttgarter Kickers",
+        "code": "STU",
+        "country": "Germany",
+        "founded": 1899,
+        "national": false,
+        "logo": "12868.png",
+        "venue_id": 8211
+    },
+    {
+        "id": 19217,
+        "name": "Eintracht Frankfurt II",
+        "code": null,
+        "country": "Germany",
+        "founded": 1899,
+        "national": false,
+        "logo": "19217.png",
+        "venue_id": 19427
+    },
+    {
+        "id": 187,
+        "name": "MSV Duisburg",
+        "code": "DUI",
+        "country": "Germany",
+        "founded": 1902,
+        "national": false,
+        "logo": "187.png",
+        "venue_id": 730
+    },
+    {
+        "id": 1322,
+        "name": "KFC Uerdingen 05",
+        "code": "UER",
+        "country": "Germany",
+        "founded": 1905,
+        "national": false,
+        "logo": "1322.png",
+        "venue_id": 18859
+    },
+    {
+        "id": 1326,
+        "name": "Fortuna Köln",
+        "code": "FOR",
+        "country": "Germany",
+        "founded": 1948,
+        "national": false,
+        "logo": "1326.png",
+        "venue_id": 715
+    },
+    {
+        "id": 1650,
+        "name": "SV Rodinghausen",
+        "code": "ROD",
+        "country": "Germany",
+        "founded": null,
+        "national": false,
+        "logo": "1650.svg",
+        "venue_id": 19573
+    },
+    {
+        "id": 1658,
+        "name": "Rot-weiss Oberhausen",
+        "code": "OBE",
+        "country": "Germany",
+        "founded": 1904,
+        "national": false,
+        "logo": "1658.png",
+        "venue_id": 739
+    },
+    {
+        "id": 9368,
+        "name": "Borussia M'gladbach II",
+        "code": "MOE",
+        "country": "Germany",
+        "founded": 1900,
+        "national": false,
+        "logo": "9368.png",
+        "venue_id": 6473
+    },
+    {
+        "id": 9369,
+        "name": "Fortuna Düsseldorf II",
+        "code": "DUS",
+        "country": "Germany",
+        "founded": 1895,
+        "national": false,
+        "logo": "9369.png",
+        "venue_id": 6474
+    },
+    {
+        "id": 9371,
+        "name": "Köln II",
+        "code": "KOL",
+        "country": "Germany",
+        "founded": 1948,
+        "national": false,
+        "logo": "9371.png",
+        "venue_id": 6476
+    },
+    {
+        "id": 9373,
+        "name": "Schalke 04 II",
+        "code": "SCH",
+        "country": "Germany",
+        "founded": 1904,
+        "national": false,
+        "logo": "9373.png",
+        "venue_id": 11975
+    },
+    {
+        "id": 9375,
+        "name": "Wuppertaler SV",
+        "code": "WUP",
+        "country": "Germany",
+        "founded": 1954,
+        "national": false,
+        "logo": "9375.png",
+        "venue_id": 6480
+    },
+    {
+        "id": 12754,
+        "name": "Düren Merzenich",
+        "code": null,
+        "country": "Germany",
+        "founded": null,
+        "national": false,
+        "logo": "12754.png",
+        "venue_id": 8112
+    },
+    {
+        "id": 12764,
+        "name": "FC Bocholt",
+        "code": null,
+        "country": "Germany",
+        "founded": null,
+        "national": false,
+        "logo": "12764.png",
+        "venue_id": 20138
+    },
+    {
+        "id": 12827,
+        "name": "Paderborn II",
+        "code": null,
+        "country": "Germany",
+        "founded": null,
+        "national": false,
+        "logo": "12827.png",
+        "venue_id": 8177
+    },
+    {
+        "id": 12897,
+        "name": "Wiedenbrück",
+        "code": "WIE",
+        "country": "Germany",
+        "founded": 2000,
+        "national": false,
+        "logo": "12897.png",
+        "venue_id": 8237
+    },
+    {
+        "id": 14485,
+        "name": "FC Gutersloh",
+        "code": "GUT",
+        "country": "Germany",
+        "founded": 1978,
+        "national": false,
+        "logo": "14485.png",
+        "venue_id": 10674
+    },
+    {
+        "id": 19465,
+        "name": "Eintracht Hohkeppel",
+        "code": null,
+        "country": "Germany",
+        "founded": 1966,
+        "national": false,
+        "logo": "19465.png",
+        "venue_id": 18781
+    },
+    {
+        "id": 20873,
+        "name": "Türkspor Dortmund",
+        "code": null,
+        "country": "Germany",
+        "founded": 2000,
+        "national": false,
+        "logo": "20873.png",
+        "venue_id": 19471
+    }
+]

@@ -56,3 +56,4 @@ export { default as finland } from './finland-teams.json';
 export { default as gabon } from './gabon-teams.json';
 export { default as gambia } from './gambia-teams.json';
 export { default as georgia } from './georgia-teams.json';
+export { default as germany } from './germany-teams.json';
