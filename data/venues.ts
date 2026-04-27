@@ -54,3 +54,4 @@ export { default as faroeIslands } from './faroe-islands-venues.json';
 export { default as fiji } from './fiji-venues.json';
 export { default as finland } from './finland-venues.json';
 export { default as gabon } from './gabon-venues.json';
+export { default as gambia } from './gambia-venues.json';

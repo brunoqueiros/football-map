@@ -1,0 +1,182 @@
+[
+    {
+        "id": 6413,
+        "name": "Brikama United",
+        "code": null,
+        "country": "Gambia",
+        "founded": null,
+        "national": false,
+        "logo": "6413.png",
+        "venue_id": 4728
+    },
+    {
+        "id": 8087,
+        "name": "Hawks",
+        "code": null,
+        "country": "Gambia",
+        "founded": null,
+        "national": false,
+        "logo": "8087.png",
+        "venue_id": 5747
+    },
+    {
+        "id": 10531,
+        "name": "Warriors",
+        "code": null,
+        "country": "Gambia",
+        "founded": 1995,
+        "national": false,
+        "logo": "10531.png",
+        "venue_id": 11065
+    },
+    {
+        "id": 16186,
+        "name": "Falcons",
+        "code": null,
+        "country": "Gambia",
+        "founded": 2000,
+        "national": false,
+        "logo": "16186.png",
+        "venue_id": 217001119237
+    },
+    {
+        "id": 16799,
+        "name": "Banjul",
+        "code": null,
+        "country": "Gambia",
+        "founded": null,
+        "national": false,
+        "logo": "16799.png",
+        "venue_id": 11065
+    },
+    {
+        "id": 16801,
+        "name": "Fortune",
+        "code": null,
+        "country": "Gambia",
+        "founded": 2003,
+        "national": false,
+        "logo": "16801.png",
+        "venue_id": 841027484622
+    },
+    {
+        "id": 16802,
+        "name": "Marimoo",
+        "code": null,
+        "country": "Gambia",
+        "founded": null,
+        "national": false,
+        "logo": "16802.png",
+        "venue_id": 704074557611
+    },
+    {
+        "id": 16804,
+        "name": "Real de Banjul",
+        "code": null,
+        "country": "Gambia",
+        "founded": 1966,
+        "national": false,
+        "logo": "16804.png",
+        "venue_id": 11065
+    },
+    {
+        "id": 16805,
+        "name": "Tallinding United",
+        "code": null,
+        "country": "Gambia",
+        "founded": null,
+        "national": false,
+        "logo": "16805.png",
+        "venue_id": 217001119237
+    },
+    {
+        "id": 18107,
+        "name": "Samger",
+        "code": null,
+        "country": "Gambia",
+        "founded": 2003,
+        "national": false,
+        "logo": "18107.png",
+        "venue_id": 5747
+    },
+    {
+        "id": 18108,
+        "name": "Steve Biko",
+        "code": null,
+        "country": "Gambia",
+        "founded": 1978,
+        "national": false,
+        "logo": "18108.png",
+        "venue_id": 5747
+    },
+    {
+        "id": 18109,
+        "name": "Team Rhino",
+        "code": null,
+        "country": "Gambia",
+        "founded": null,
+        "national": false,
+        "logo": "18109.png",
+        "venue_id": 220364600672
+    },
+    {
+        "id": 20811,
+        "name": "Greater Tomorrow",
+        "code": null,
+        "country": "Gambia",
+        "founded": 2008,
+        "national": false,
+        "logo": "20811.png",
+        "venue_id": 679983112797
+    },
+    {
+        "id": 22706,
+        "name": "BST Galaxy",
+        "code": null,
+        "country": "Gambia",
+        "founded": 2022,
+        "national": false,
+        "logo": "22706.svg",
+        "venue_id": 395896077784
+    },
+    {
+        "id": 22707,
+        "name": "Bombada",
+        "code": null,
+        "country": "Gambia",
+        "founded": null,
+        "national": false,
+        "logo": "22707.png",
+        "venue_id": 365419227817
+    },
+    {
+        "id": 22708,
+        "name": "TMT",
+        "code": null,
+        "country": "Gambia",
+        "founded": 2020,
+        "national": false,
+        "logo": "22708.png",
+        "venue_id": 153740974665
+    },
+    {
+        "id": 25419,
+        "name": "Dutch Lions",
+        "code": null,
+        "country": "Gambia",
+        "founded": null,
+        "national": false,
+        "logo": "25419.svg",
+        "venue_id": 395896077784
+    },
+    {
+        "id": 25420,
+        "name": "Hart Acedemy",
+        "code": null,
+        "country": "Gambia",
+        "founded": null,
+        "national": false,
+        "logo": "25420.svg",
+        "venue_id": 237387059905
+    }
+]

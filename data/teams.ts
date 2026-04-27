@@ -54,3 +54,4 @@ export { default as faroeIslands } from './faroe-islands-teams.json';
 export { default as fiji } from './fiji-teams.json';
 export { default as finland } from './finland-teams.json';
 export { default as gabon } from './gabon-teams.json';
+export { default as gambia } from './gambia-teams.json';

@@ -1,0 +1,98 @@
+[
+  {
+    "id": 4728,
+    "name": "Box Bar Mini Stadium",
+    "city": "Brikama",
+    "capacity": 2000,
+    "latitude": 13.2745259,
+    "longitude": -16.649274
+  },
+  {
+    "id": 5747,
+    "name": "Serrekunda East Mini-Stadium",
+    "city": "Serekunda",
+    "capacity": 5000,
+    "latitude": 13.4188524,
+    "longitude": -16.6751647
+  },
+  {
+    "id": 11065,
+    "name": "Banjul Mini-Stadium (KG5)",
+    "city": "Banjul",
+    "capacity": 3000,
+    "latitude": 13.4458842,
+    "longitude": -16.5758294
+  },
+  {
+    "id": 841027484622,
+    "name": "Independence Stadium",
+    "city": "Bakau",
+    "capacity": 30000,
+    "latitude": 13.4807902,
+    "longitude": -16.6728589
+  },
+  {
+    "id": 704074557611,
+    "name": "Independence Stadium",
+    "city": "Bakau",
+    "capacity": 30000,
+    "latitude": 13.4807902,
+    "longitude": -16.6728589
+  },
+  {
+    "id": 217001119237,
+    "name": "Serrekunda East Mini Stadium",
+    "city": "Tallinding",
+    "capacity": 1000,
+    "latitude": 13.4188524,
+    "longitude": -16.6751647
+  },
+  {
+    "id": 220364600672,
+    "name": "Independence Stadium",
+    "city": "Bakau",
+    "capacity": 30000,
+    "latitude": 13.4807902,
+    "longitude": -16.6728589
+  },
+  {
+    "id": 679983112797,
+    "name": "Serrekunda East Mini-Stadium",
+    "city": "Serrekunda",
+    "capacity": null,
+    "latitude": 13.4188524,
+    "longitude": -16.6751647
+  },
+  {
+    "id": 395896077784,
+    "name": "Ousman Saho Football Field",
+    "city": "Old Yundum",
+    "capacity": null,
+    "latitude": 13.361491,
+    "longitude": -16.6812366
+  },
+  {
+    "id": 365419227817,
+    "name": "Brikama Mini Stadium",
+    "city": "Brikama",
+    "capacity": null,
+    "latitude": 13.2745259,
+    "longitude": -16.649274
+  },
+  {
+    "id": 153740974665,
+    "name": "Independence Stadium",
+    "city": "Bakau",
+    "capacity": 30000,
+    "latitude": 13.4807902,
+    "longitude": -16.6728589
+  },
+  {
+    "id": 237387059905,
+    "name": "Soma Mini Stadium",
+    "city": "Soma",
+    "capacity": null,
+    "latitude": 13.448222194811922,
+    "longitude": -15.543282930492119
+  }
+]
