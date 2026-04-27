@@ -97,7 +97,7 @@ async function fetchAllTeams(leagueIds) {
       }
 
       // Add a small delay to avoid rate limiting
-      await new Promise(resolve => setTimeout(resolve, 500));
+      await new Promise(resolve => setTimeout(resolve, 5000));
     } catch (error) {
       console.error(`  ✗ Error fetching league ${leagueId}:`, error.message);
     }
