@@ -1,0 +1,402 @@
+[
+  {
+    "id": 3381,
+    "name": "Dawu Sports Stadium",
+    "city": "Accra",
+    "capacity": 10000,
+    "latitude": 5.9878946,
+    "longitude": -0.0833578
+  },
+  {
+    "id": 4727,
+    "name": "Baba Yara Stadium",
+    "city": "Kumasi",
+    "capacity": 45000,
+    "latitude": 6.6821626,
+    "longitude": -1.6051304
+  },
+  {
+    "id": 5744,
+    "name": "Agyeman Badu Stadium",
+    "city": "Dormaa Ahenkro",
+    "capacity": 5000,
+    "latitude": 7.265229799999999,
+    "longitude": -2.8656788
+  },
+  {
+    "id": 5755,
+    "name": "Bechem Park",
+    "city": "Bechem",
+    "capacity": 5000,
+    "latitude": 49.508534,
+    "longitude": 6.093801699999999
+  },
+  {
+    "id": 7794,
+    "name": "Golden City Park",
+    "city": "Berekum",
+    "capacity": 5000,
+    "latitude": 7.453794399999999,
+    "longitude": -2.5851345
+  },
+  {
+    "id": 22693,
+    "name": "Robert Mensah Sports Stadium",
+    "city": "Cape Coast",
+    "capacity": 15000,
+    "latitude": 5.1116486,
+    "longitude": -1.2579594
+  },
+  {
+    "id": 7796,
+    "name": "Ohene Ameyaw Park",
+    "city": "Techiman",
+    "capacity": 2000,
+    "latitude": 7.5817499,
+    "longitude": -1.9299426
+  },
+  {
+    "id": 7797,
+    "name": "Paa Kwesi Nduom Stadium",
+    "city": "Elmina",
+    "capacity": 25000,
+    "latitude": 5.097014499999999,
+    "longitude": -1.3819737
+  },
+  {
+    "id": 21410,
+    "name": "Accra Sports Stadium",
+    "city": "Accra",
+    "capacity": 35000,
+    "latitude": 5.5514554,
+    "longitude": -0.1919134
+  },
+  {
+    "id": 7798,
+    "name": "Karela United FC",
+    "city": "Nzema Anyinase",
+    "capacity": 5000,
+    "latitude": 5.035810199999999,
+    "longitude": -2.4615926
+  },
+  {
+    "id": 22694,
+    "name": "University Of Ghana Sports Stadium",
+    "city": "Accra",
+    "capacity": 5000,
+    "latitude": 5.6390154,
+    "longitude": -0.1800875
+  },
+  {
+    "id": 20198,
+    "name": "TNA Park",
+    "city": "Tarkwa",
+    "capacity": 5000,
+    "latitude": 5.3011478,
+    "longitude": -1.9924488
+  },
+  {
+    "id": 7802,
+    "name": "West Africa Football Academy Sports Complex",
+    "city": "Sogakope",
+    "capacity": 5000,
+    "latitude": 5.9987998,
+    "longitude": 0.5967369
+  },
+  {
+    "id": 5735,
+    "name": "Len Clay Stadium",
+    "city": "Obuasi",
+    "capacity": 30000,
+    "latitude": 6.2089132,
+    "longitude": -1.6777439
+  },
+  {
+    "id": 8595,
+    "name": "Kpando Stadium",
+    "city": "Kpando",
+    "capacity": 5000,
+    "latitude": 6.994384699999999,
+    "longitude": 0.2992484
+  },
+  {
+    "id": 19077,
+    "name": "Dun's Park",
+    "city": "Bibiani",
+    "capacity": 7000,
+    "latitude": 6.458468799999999,
+    "longitude": -2.3205302
+  },
+  {
+    "id": 19548,
+    "name": "Nana Professor Koromansa II Park",
+    "city": "Nsoatre",
+    "capacity": 3000,
+    "latitude": 7.393698799999999,
+    "longitude": -2.4372366
+  },
+  {
+    "id": 19549,
+    "name": "Nsenkyire Sports Arena",
+    "city": "Samreboi",
+    "capacity": 2000,
+    "latitude": 5.6148213,
+    "longitude": -2.5575292
+  },
+  {
+    "id": 19076,
+    "name": "Aliu Mahama Sports Stadium",
+    "city": "Tamale",
+    "capacity": 21017,
+    "latitude": 9.4103447,
+    "longitude": -0.8615282
+  },
+  {
+    "id": 20399,
+    "name": "Nana Kronmansah Park",
+    "city": "Nsuatre",
+    "capacity": 5000,
+    "latitude": 7.4043153,
+    "longitude": -2.4653598
+  },
+  {
+    "id": 21444,
+    "name": "Presby Park",
+    "city": "Debibi",
+    "capacity": 1000,
+    "latitude": 50.8643648,
+    "longitude": 4.717417699999999
+  },
+  {
+    "id": 22695,
+    "name": "Tuba Astro Turf",
+    "city": "Kokrobite",
+    "capacity": 1500,
+    "latitude": 5.5134703,
+    "longitude": -0.3918497
+  },
+  {
+    "id": 21445,
+    "name": "Koforidua Sports Stadium",
+    "city": "Koforidua",
+    "capacity": 5000,
+    "latitude": 6.0716744,
+    "longitude": -0.2520294
+  },
+  {
+    "id": 535505904757,
+    "name": "Tema Sports Stadium",
+    "city": "Tema",
+    "capacity": null,
+    "latitude": 5.6398242,
+    "longitude": -0.0042087
+  },
+  {
+    "id": 20400,
+    "name": "Dr. Kwame Kyei Sports Complex",
+    "city": "Abrankese",
+    "capacity": 20000,
+    "latitude": 6.5528458,
+    "longitude": -1.4856066
+  },
+  {
+    "id": 12555,
+    "name": "Eiyinasi Sports Complex",
+    "city": "Aiyinasi",
+    "capacity": 5000,
+    "latitude": 5.6589148,
+    "longitude": 0.0267939
+  },
+  {
+    "id": 21446,
+    "name": "Nkawkaw Sports Stadium",
+    "city": "Nkawkaw",
+    "capacity": 1000,
+    "latitude": 6.5567533,
+    "longitude": -0.7577370999999999
+  },
+  {
+    "id": 21447,
+    "name": "Mohammed Kamil Arena",
+    "city": "Krofu",
+    "capacity": 1000,
+    "latitude": 6.9395248,
+    "longitude": -1.6716458
+  },
+  {
+    "id": 957963943778,
+    "name": "Nana Agyemang Badu Park",
+    "city": "Nkawkaw",
+    "capacity": 5000,
+    "latitude": 7.265229799999999,
+    "longitude": -2.8656788
+  },
+  {
+    "id": 21448,
+    "name": "Gyandu Park",
+    "city": "Sekondi-Takoradi",
+    "capacity": 5000,
+    "latitude": 4.9370559,
+    "longitude": -1.7209167
+  },
+  {
+    "id": 21443,
+    "name": "Malik Jabir Sports Stadium",
+    "city": "Wa",
+    "capacity": 5000,
+    "latitude": 10.0777046,
+    "longitude": -2.5130401
+  },
+  {
+    "id": 21449,
+    "name": "Ho Sports Stadium",
+    "city": "Ho",
+    "capacity": 5000,
+    "latitude": 6.554523,
+    "longitude": 0.4884745
+  },
+  {
+    "id": 21450,
+    "name": "Nania Park",
+    "city": "Accra",
+    "capacity": 1000,
+    "latitude": 5.646095400000001,
+    "longitude": -0.1819864
+  },
+  {
+    "id": 21451,
+    "name": "Jinapor Stadium",
+    "city": "Jinapor",
+    "capacity": 1000,
+    "latitude": 8.7947627,
+    "longitude": -1.4716697
+  },
+  {
+    "id": 21452,
+    "name": "Swedru Stadium",
+    "city": "Agona Swedru",
+    "capacity": 3000,
+    "latitude": 5.5301465,
+    "longitude": -0.7042954
+  },
+  {
+    "id": 21453,
+    "name": "Nii Adjei Kraku II Sports Complex",
+    "city": "Tema",
+    "capacity": 1000,
+    "latitude": 5.6589148,
+    "longitude": 0.0267939
+  },
+  {
+    "id": 21454,
+    "name": "Wenchi Sports Stadium",
+    "city": "Wenchi",
+    "capacity": 2000,
+    "latitude": 7.741786899999999,
+    "longitude": -2.0908094
+  },
+  {
+    "id": 790305887938,
+    "name": "Kotei Astro Turf",
+    "city": "Kumasi",
+    "capacity": null,
+    "latitude": 6.6626774,
+    "longitude": -1.5604666
+  },
+  {
+    "id": 319655853731,
+    "name": "Stadium",
+    "city": "Ho",
+    "capacity": null,
+    "latitude": 49.6156091,
+    "longitude": 6.1096943
+  },
+  {
+    "id": 721567656401,
+    "name": "Baba Yara Sports Stadium",
+    "city": "Kumasi",
+    "capacity": 40528,
+    "latitude": 6.679805099999999,
+    "longitude": -1.6039047
+  },
+  {
+    "id": 541725354766,
+    "name": "Gyamfi Park",
+    "city": "Bekwai",
+    "capacity": null,
+    "latitude": 6.4554227,
+    "longitude": -1.5680483
+  },
+  {
+    "id": 969831616468,
+    "name": "Astro Football Pitch",
+    "city": "Accra",
+    "capacity": null,
+    "latitude": 5.614237699999999,
+    "longitude": -0.2033047
+  },
+  {
+    "id": 87200005296,
+    "name": "Nungua Town Park",
+    "city": "Nungua",
+    "capacity": null,
+    "latitude": 5.5945443,
+    "longitude": -0.0799526
+  },
+  {
+    "id": 21455,
+    "name": "Azulewanu",
+    "city": "Azulewanu",
+    "capacity": 2000,
+    "latitude": 49.4890687,
+    "longitude": 6.072354199999999
+  },
+  {
+    "id": 424895397329,
+    "name": "GAP Soccer Academy Pitch",
+    "city": "Accra",
+    "capacity": null,
+    "latitude": 5.5962738,
+    "longitude": -0.4957275
+  },
+  {
+    "id": 200190404,
+    "name": "McCoy College of Education",
+    "city": "Nadowli",
+    "capacity": null,
+    "latitude": 10.3753219,
+    "longitude": -2.6552392
+  },
+  {
+    "id": 962235944804,
+    "name": "RainMasters FC",
+    "city": "Kumasi",
+    "capacity": null,
+    "latitude": 6.6666004,
+    "longitude": -1.6162709
+  },
+  {
+    "id": 290461350023,
+    "name": "Anagye Sports Stadium",
+    "city": "Dormaa Ahenkro",
+    "capacity": null,
+    "latitude": 7.265229799999999,
+    "longitude": -2.8656788
+  },
+  {
+    "id": 748682661263,
+    "name": "Ohene Ameyaw Park",
+    "city": "Techiman",
+    "capacity": 5000,
+    "latitude": 7.5817499,
+    "longitude": -1.9299426
+  },
+  {
+    "id": 778885817608,
+    "name": "WA SORE NANTE SC",
+    "city": "Wa",
+    "capacity": null,
+    "latitude": 10.0686294,
+    "longitude": -2.4962183
+  }
+]

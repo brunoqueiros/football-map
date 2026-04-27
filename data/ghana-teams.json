@@ -1,0 +1,612 @@
+[
+    {
+        "id": 4450,
+        "name": "Dreams",
+        "code": null,
+        "country": "Ghana",
+        "founded": 2009,
+        "national": false,
+        "logo": "4450.png",
+        "venue_id": 3381
+    },
+    {
+        "id": 6411,
+        "name": "Asante Kotoko",
+        "code": "ASA",
+        "country": "Ghana",
+        "founded": 1935,
+        "national": false,
+        "logo": "6411.png",
+        "venue_id": 4727
+    },
+    {
+        "id": 8079,
+        "name": "Aduana Stars",
+        "code": "ADU",
+        "country": "Ghana",
+        "founded": 1985,
+        "national": false,
+        "logo": "8079.png",
+        "venue_id": 5744
+    },
+    {
+        "id": 8099,
+        "name": "Bechem United",
+        "code": "BEC",
+        "country": "Ghana",
+        "founded": 1966,
+        "national": false,
+        "logo": "8099.png",
+        "venue_id": 5755
+    },
+    {
+        "id": 12244,
+        "name": "Berekum Chelsea",
+        "code": "BEC",
+        "country": "Ghana",
+        "founded": 2000,
+        "national": false,
+        "logo": "12244.png",
+        "venue_id": 7794
+    },
+    {
+        "id": 12245,
+        "name": "Ebusua Dwarfs",
+        "code": "EBU",
+        "country": "Ghana",
+        "founded": null,
+        "national": false,
+        "logo": "12245.png",
+        "venue_id": 22693
+    },
+    {
+        "id": 12246,
+        "name": "Eleven Wonders",
+        "code": null,
+        "country": "Ghana",
+        "founded": null,
+        "national": false,
+        "logo": "12246.png",
+        "venue_id": 7796
+    },
+    {
+        "id": 12247,
+        "name": "Elmina Sharks",
+        "code": null,
+        "country": "Ghana",
+        "founded": null,
+        "national": false,
+        "logo": "12247.png",
+        "venue_id": 7797
+    },
+    {
+        "id": 12249,
+        "name": "Hearts of Oak",
+        "code": "HEA",
+        "country": "Ghana",
+        "founded": 1911,
+        "national": false,
+        "logo": "12249.png",
+        "venue_id": 21410
+    },
+    {
+        "id": 12251,
+        "name": "Karela",
+        "code": null,
+        "country": "Ghana",
+        "founded": 2013,
+        "national": false,
+        "logo": "12251.png",
+        "venue_id": 7798
+    },
+    {
+        "id": 12252,
+        "name": "King Faisal",
+        "code": "KIN",
+        "country": "Ghana",
+        "founded": null,
+        "national": false,
+        "logo": "12252.png",
+        "venue_id": 4727
+    },
+    {
+        "id": 12253,
+        "name": "Legon Cities",
+        "code": null,
+        "country": "Ghana",
+        "founded": 2006,
+        "national": false,
+        "logo": "12253.png",
+        "venue_id": 22694
+    },
+    {
+        "id": 12255,
+        "name": "Medeama",
+        "code": "MED",
+        "country": "Ghana",
+        "founded": 2002,
+        "national": false,
+        "logo": "12255.png",
+        "venue_id": 20198
+    },
+    {
+        "id": 12256,
+        "name": "WAFA",
+        "code": null,
+        "country": "Ghana",
+        "founded": null,
+        "national": false,
+        "logo": "12256.png",
+        "venue_id": 7802
+    },
+    {
+        "id": 13879,
+        "name": "New Edubiase",
+        "code": "EDU",
+        "country": "Ghana",
+        "founded": null,
+        "national": false,
+        "logo": "13879.png",
+        "venue_id": 5735
+    },
+    {
+        "id": 13882,
+        "name": "Heart of Lions",
+        "code": "HEA",
+        "country": "Ghana",
+        "founded": 2002,
+        "national": false,
+        "logo": "13882.png",
+        "venue_id": 8595
+    },
+    {
+        "id": 17992,
+        "name": "Accra Lions",
+        "code": null,
+        "country": "Ghana",
+        "founded": 2015,
+        "national": false,
+        "logo": "17992.png",
+        "venue_id": 21410
+    },
+    {
+        "id": 17993,
+        "name": "Bibiani Gold Stars",
+        "code": null,
+        "country": "Ghana",
+        "founded": null,
+        "national": false,
+        "logo": "17993.png",
+        "venue_id": 19077
+    },
+    {
+        "id": 20021,
+        "name": "Nsoatreman",
+        "code": null,
+        "country": "Ghana",
+        "founded": null,
+        "national": false,
+        "logo": "20021.png",
+        "venue_id": 19548
+    },
+    {
+        "id": 20022,
+        "name": "Samartex",
+        "code": null,
+        "country": "Ghana",
+        "founded": null,
+        "national": false,
+        "logo": "20022.png",
+        "venue_id": 19549
+    },
+    {
+        "id": 20023,
+        "name": "Tamale City",
+        "code": null,
+        "country": "Ghana",
+        "founded": null,
+        "national": false,
+        "logo": "20023.png",
+        "venue_id": 19076
+    },
+    {
+        "id": 21066,
+        "name": "Baffour Academy",
+        "code": null,
+        "country": "Ghana",
+        "founded": 2018,
+        "national": false,
+        "logo": "21066.svg",
+        "venue_id": 20399
+    },
+    {
+        "id": 21070,
+        "name": "Bofoakwe Tano",
+        "code": null,
+        "country": "Ghana",
+        "founded": null,
+        "national": false,
+        "logo": "21070.png",
+        "venue_id": 20399
+    },
+    {
+        "id": 21071,
+        "name": "Debibi United",
+        "code": null,
+        "country": "Ghana",
+        "founded": 2015,
+        "national": false,
+        "logo": "21071.png",
+        "venue_id": 21444
+    },
+    {
+        "id": 21072,
+        "name": "Dormaa Unity",
+        "code": null,
+        "country": "Ghana",
+        "founded": null,
+        "national": false,
+        "logo": "21072.svg",
+        "venue_id": 5744
+    },
+    {
+        "id": 21074,
+        "name": "Golden Kicks",
+        "code": null,
+        "country": "Ghana",
+        "founded": null,
+        "national": false,
+        "logo": "21074.svg",
+        "venue_id": 22695
+    },
+    {
+        "id": 21077,
+        "name": "Koforidua Semper Fi",
+        "code": null,
+        "country": "Ghana",
+        "founded": null,
+        "national": false,
+        "logo": "21077.svg",
+        "venue_id": 21445
+    },
+    {
+        "id": 21081,
+        "name": "Na God",
+        "code": null,
+        "country": "Ghana",
+        "founded": null,
+        "national": false,
+        "logo": "21081.png",
+        "venue_id": 535505904757
+    },
+    {
+        "id": 21082,
+        "name": "Nations",
+        "code": null,
+        "country": "Ghana",
+        "founded": 1996,
+        "national": false,
+        "logo": "21082.png",
+        "venue_id": 20400
+    },
+    {
+        "id": 21083,
+        "name": "Nzema Kotoko",
+        "code": null,
+        "country": "Ghana",
+        "founded": null,
+        "national": false,
+        "logo": "21083.png",
+        "venue_id": 12555
+    },
+    {
+        "id": 21084,
+        "name": "Okwahu United",
+        "code": null,
+        "country": "Ghana",
+        "founded": null,
+        "national": false,
+        "logo": "21084.svg",
+        "venue_id": 21446
+    },
+    {
+        "id": 21085,
+        "name": "PAC Academy",
+        "code": null,
+        "country": "Ghana",
+        "founded": null,
+        "national": false,
+        "logo": "21085.png",
+        "venue_id": 21447
+    },
+    {
+        "id": 21089,
+        "name": "Sefwi All Stars",
+        "code": null,
+        "country": "Ghana",
+        "founded": 2012,
+        "national": false,
+        "logo": "21089.png",
+        "venue_id": 957963943778
+    },
+    {
+        "id": 21090,
+        "name": "Skyy",
+        "code": null,
+        "country": "Ghana",
+        "founded": null,
+        "national": false,
+        "logo": "21090.png",
+        "venue_id": 21448
+    },
+    {
+        "id": 21098,
+        "name": "Wa Power",
+        "code": null,
+        "country": "Ghana",
+        "founded": 1998,
+        "national": false,
+        "logo": "21098.png",
+        "venue_id": 21443
+    },
+    {
+        "id": 22761,
+        "name": "Attram de Visser",
+        "code": null,
+        "country": "Ghana",
+        "founded": null,
+        "national": false,
+        "logo": "22761.png",
+        "venue_id": 22695
+    },
+    {
+        "id": 22763,
+        "name": "Basake Holy Stars",
+        "code": null,
+        "country": "Ghana",
+        "founded": 1998,
+        "national": false,
+        "logo": "22763.svg",
+        "venue_id": 7798
+    },
+    {
+        "id": 22768,
+        "name": "Home Stars",
+        "code": null,
+        "country": "Ghana",
+        "founded": 2000,
+        "national": false,
+        "logo": "22768.png",
+        "venue_id": 21449
+    },
+    {
+        "id": 22774,
+        "name": "Nania",
+        "code": null,
+        "country": "Ghana",
+        "founded": 1998,
+        "national": false,
+        "logo": "22774.png",
+        "venue_id": 21450
+    },
+    {
+        "id": 22775,
+        "name": "Northern City",
+        "code": null,
+        "country": "Ghana",
+        "founded": 2016,
+        "national": false,
+        "logo": "22775.png",
+        "venue_id": 21451
+    },
+    {
+        "id": 22777,
+        "name": "Soccer Intellectuals",
+        "code": null,
+        "country": "Ghana",
+        "founded": null,
+        "national": false,
+        "logo": "22777.png",
+        "venue_id": 21452
+    },
+    {
+        "id": 22780,
+        "name": "Techiman Liberty",
+        "code": null,
+        "country": "Ghana",
+        "founded": 2001,
+        "national": false,
+        "logo": "22780.png",
+        "venue_id": 7796
+    },
+    {
+        "id": 22782,
+        "name": "Vision",
+        "code": null,
+        "country": "Ghana",
+        "founded": null,
+        "national": false,
+        "logo": "22782.png",
+        "venue_id": 21453
+    },
+    {
+        "id": 22783,
+        "name": "Young Apostles",
+        "code": null,
+        "country": "Ghana",
+        "founded": null,
+        "national": false,
+        "logo": "22783.png",
+        "venue_id": 21454
+    },
+    {
+        "id": 25384,
+        "name": "Acceler8z",
+        "code": null,
+        "country": "Ghana",
+        "founded": null,
+        "national": false,
+        "logo": "25384.svg",
+        "venue_id": 790305887938
+    },
+    {
+        "id": 25386,
+        "name": "Agbozume Weavers",
+        "code": null,
+        "country": "Ghana",
+        "founded": null,
+        "national": false,
+        "logo": "25386.svg",
+        "venue_id": 319655853731
+    },
+    {
+        "id": 25387,
+        "name": "Asokwa Deportivo",
+        "code": null,
+        "country": "Ghana",
+        "founded": null,
+        "national": false,
+        "logo": "25387.png",
+        "venue_id": 721567656401
+    },
+    {
+        "id": 25388,
+        "name": "Bekwai Heroes",
+        "code": null,
+        "country": "Ghana",
+        "founded": null,
+        "national": false,
+        "logo": "25388.png",
+        "venue_id": 541725354766
+    },
+    {
+        "id": 25389,
+        "name": "Boresa",
+        "code": null,
+        "country": "Ghana",
+        "founded": null,
+        "national": false,
+        "logo": "25389.svg",
+        "venue_id": 969831616468
+    },
+    {
+        "id": 25390,
+        "name": "Danbort",
+        "code": null,
+        "country": "Ghana",
+        "founded": null,
+        "national": false,
+        "logo": "25390.svg",
+        "venue_id": 87200005296
+    },
+    {
+        "id": 25391,
+        "name": "Eleven Wise",
+        "code": null,
+        "country": "Ghana",
+        "founded": null,
+        "national": false,
+        "logo": "25391.png",
+        "venue_id": 21455
+    },
+    {
+        "id": 25392,
+        "name": "GAP Soccer Academy",
+        "code": null,
+        "country": "Ghana",
+        "founded": null,
+        "national": false,
+        "logo": "25392.svg",
+        "venue_id": 424895397329
+    },
+    {
+        "id": 25394,
+        "name": "Kotoku Shining Stars",
+        "code": null,
+        "country": "Ghana",
+        "founded": null,
+        "national": false,
+        "logo": "25394.svg",
+        "venue_id": 957963943778
+    },
+    {
+        "id": 25395,
+        "name": "Malima",
+        "code": null,
+        "country": "Ghana",
+        "founded": null,
+        "national": false,
+        "logo": "25395.svg",
+        "venue_id": 200190404
+    },
+    {
+        "id": 25396,
+        "name": "Nsuopun Fidelity",
+        "code": null,
+        "country": "Ghana",
+        "founded": null,
+        "national": false,
+        "logo": "25396.svg",
+        "venue_id": 19549
+    },
+    {
+        "id": 25397,
+        "name": "Rainmasters",
+        "code": null,
+        "country": "Ghana",
+        "founded": null,
+        "national": false,
+        "logo": "25397.svg",
+        "venue_id": 962235944804
+    },
+    {
+        "id": 25398,
+        "name": "Real 24 Hours",
+        "code": null,
+        "country": "Ghana",
+        "founded": null,
+        "national": false,
+        "logo": "25398.svg",
+        "venue_id": 290461350023
+    },
+    {
+        "id": 25399,
+        "name": "TF Exponential",
+        "code": null,
+        "country": "Ghana",
+        "founded": null,
+        "national": false,
+        "logo": "25399.svg",
+        "venue_id": 19076
+    },
+    {
+        "id": 25400,
+        "name": "Techiman Heroes",
+        "code": null,
+        "country": "Ghana",
+        "founded": null,
+        "national": false,
+        "logo": "25400.svg",
+        "venue_id": 748682661263
+    },
+    {
+        "id": 25401,
+        "name": "True Democracy",
+        "code": null,
+        "country": "Ghana",
+        "founded": 1984,
+        "national": false,
+        "logo": "25401.png",
+        "venue_id": 21453
+    },
+    {
+        "id": 25402,
+        "name": "Wa Sore Nante",
+        "code": null,
+        "country": "Ghana",
+        "founded": null,
+        "national": false,
+        "logo": "25402.svg",
+        "venue_id": 778885817608
+    }
+]

@@ -57,3 +57,4 @@ export { default as gabon } from './gabon-venues.json';
 export { default as gambia } from './gambia-venues.json';
 export { default as georgia } from './georgia-venues.json';
 export { default as germany } from './germany-venues.json';
+export { default as ghana } from './ghana-venues.json';

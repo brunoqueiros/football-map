@@ -91,6 +91,8 @@
 # 92   | Derde Divisie - Saturday
 # 90   | KNVB Beker
 91   | Eredivisie Women
+1004 | Derde Divisie - Relegation Round
+543 | Super Cup
 
 # Spain
 # 140  | La Liga
@@ -651,3 +653,782 @@
 # 86 | Regionalliga - SudWest
 # 87 | Regionalliga - West
 # 529 | Super Cup
+
+
+# Ghana
+# 966 | Cup
+# 1196 | Division One League
+# 570 | Premier League
+# 1144 | Super Cup
+
+
+# Gibraltar
+# 758 | Premier Division
+# 837 | Rock Cup
+# 1042 | Super Cup
+
+
+# Greece
+# 199 | Cup
+# 198 | Football League
+# 576 | Gamma Ethniki - Group 1
+# 694 | Gamma Ethniki - Group 10
+# 577 | Gamma Ethniki - Group 2
+# 578 | Gamma Ethniki - Group 3
+# 579 | Gamma Ethniki - Group 4
+# 580 | Gamma Ethniki - Group 5
+# 581 | Gamma Ethniki - Group 6
+# 582 | Gamma Ethniki - Group 7
+# 583 | Gamma Ethniki - Group 8
+# 693 | Gamma Ethniki - Group 9
+# 990 | Gamma Ethniki - Promotion Group
+# 1099 | Gamma Ethniki - Relegation Play-offs
+# 1210 | Super Cup
+# 197 | Super League 1
+# 494 | Super League 2
+
+
+# Grenada
+# 1080 | Premier Division
+
+
+# Guadeloupe
+# 377 | Division d'Honneur
+
+
+# Guatemala
+# 339 | Liga Nacional
+# 338 | Primera Division
+
+
+# Guinea
+# 378 | Ligue 1
+
+
+# Haiti
+# 379 | Ligue Haïtienne
+
+
+# Honduras
+# 234 | Liga Nacional
+
+
+# Hong-Kong
+# 544 | FA Cup
+# 1209 | Guangdong - Hong Kong Cup
+# 381 | HKFA 1st Division
+# 1051 | HKPL Cup
+# 1199 | League Cup
+# 380 | Premier League
+# 1160 | Sapling Cup
+# 716 | Senior Shield
+
+
+# Hungary
+# 273 | Magyar Kupa
+# 271 | NB I
+# 272 | NB II
+# 633 | NB III - Northeast
+# 635 | NB III - Northwest
+# 1111 | NB III - Promotion Play-offs
+# 1023 | NB III - Southeast
+# 634 | NB III - Southwest
+
+
+# Iceland
+# 165 | 1. Deild
+# 166 | 2. Deild
+# 167 | Cup
+# 168 | League Cup
+# 814 | Reykjavik Cup
+# 639 | Super Cup
+# 164 | Úrvalsdeild
+
+
+# India
+# 545 | AIFF Super Cup
+# 1020 | Calcutta Premier Division
+# 324 | I-League
+# 717 | I-League - 2nd Division
+# 1201 | IFA Shield
+# 323 | Indian Super League
+# 325 | Santosh Trophy
+
+
+# Indonesia
+# 274 | Liga 1
+# 275 | Liga 2
+# 924 | Piala Presiden
+
+
+# Iran
+# 291 | Azadegan League
+# 495 | Hazfi Cup
+# 290 | Persian Gulf Pro League
+# 905 | Super Cup
+
+
+# Iraq
+# 542 | Iraqi League
+
+
+# Ireland
+# 359 | FAI Cup
+# 546 | FAI President's Cup
+# 358 | First Division
+# 360 | League Cup
+# 357 | Premier Division
+
+
+# Israel
+# 496 | Liga Alef
+# 382 | Liga Leumit
+# 383 | Ligat Ha'al
+# 384 | State Cup
+# 659 | Super Cup
+# 385 | Toto Cup Ligat Al
+
+
+# Italy
+# 705 | Campionato Primavera - 1
+# 706 | Campionato Primavera - 2
+# 137 | Coppa Italia
+# 704 | Coppa Italia Primavera
+# 891 | Coppa Italia Serie C
+# 892 | Coppa Italia Serie D
+# 135 | Serie A
+# 136 | Serie B
+# 138 | Serie C
+# 942 | Serie C - Girone B
+# 943 | Serie C - Girone C
+# 976 | Serie C - Promotion - Play-offs
+# 975 | Serie C - Relegation - Play-offs
+# 974 | Serie C - Supercoppa Lega Finals
+# 999 | Serie D - Championship Round
+# 426 | Serie D - Girone A
+# 427 | Serie D - Girone B
+# 428 | Serie D - Girone C
+# 429 | Serie D - Girone D
+# 430 | Serie D - Girone E
+# 431 | Serie D - Girone F
+# 432 | Serie D - Girone G
+# 433 | Serie D - Girone H
+# 434 | Serie D - Girone I
+# 997 | Serie D - Promotion - Play-offs
+# 998 | Serie D - Relegation - Play-offs
+# 547 | Super Cup
+# 817 | Super Cup Primavera
+
+
+# Ivory-Coast
+# 386 | Ligue 1
+
+
+# Jamaica
+# 322 | Premier League
+
+
+# Japan
+# 102 | Emperor Cup
+# 101 | J-League Cup
+# 98 | J1 League
+# 99 | J2 League
+# 100 | J3 League
+# 497 | Japan Football League
+# 548 | Super Cup
+
+
+# Jordan
+# 863 | Cup
+# 387 | League
+# 816 | Shield Cup
+# 838 | Super Cup
+
+
+# Kazakhstan
+# 388 | 1. Division
+# 498 | Cup
+# 389 | Premier League
+# 818 | Super Cup
+
+
+# Kenya
+# 276 | FKF Premier League
+# 971 | Shield Cup
+# 1193 | Super Cup
+# 277 | Super League
+
+
+# Kosovo
+# 665 | Cup
+# 1195 | Liga E Pare
+# 819 | Super Cup
+# 664 | Superliga
+
+
+# Kuwait
+# 820 | Crown Prince Cup
+# 331 | Division 1
+# 720 | Emir Cup
+# 330 | Premier League
+# 719 | Super Cup
+
+
+# Kyrgyzstan
+# 569 | Premier League
+
+
+# Laos
+# 647 | Laos League
+
+
+# Latvia
+# 364 | 1. Liga
+# 658 | Cup
+# 1176 | Super Cup
+# 365 | Virsliga
+
+
+# Lebanon
+# 967 | Cup
+# 390 | Premier League
+
+
+# Lesotho
+# 962 | Premier League
+
+
+# Liberia
+# 760 | LFA First Division
+
+
+# Libya
+# 584 | Premier League
+
+
+# Liechtenstein
+# 761 | Cup
+
+
+# Lithuania
+# 361 | 1 Lyga
+# 362 | A Lyga
+# 661 | Cup
+# 839 | Super Cup
+
+
+# Luxembourg
+# 721 | Cup
+# 261 | National Division
+
+
+# Macao
+# 969 | Primeira Divisão
+
+
+# Macedonia
+# 756 | Cup
+# 371 | First League
+# 372 | Second League
+
+
+# Malawi
+# 391 | Super League
+
+
+# Malaysia
+# 500 | FA Cup
+# 499 | Malaysia Cup
+# 1170 | MFL Cup
+# 279 | Premier League
+# 278 | Super League
+
+
+# Maldives
+# 855 | Dhivehi Premier League
+
+
+# Mali
+# 598 | Première Division
+
+
+# Malta
+# 392 | Challenge League
+# 821 | FA Trophy
+# 393 | Premier League
+# 1050 | Super Cup
+
+
+# Mauritania
+# 762 | Premier League
+
+
+# Mauritius
+# 763 | Mauritian League
+
+
+# Mexico
+# 857 | Campeón de Campeones
+# 662 | Copa por México
+# 263 | Liga de Expansión MX
+# 262 | Liga MX
+# 722 | Liga Premier Serie A
+# 872 | Liga Premier Serie B
+
+
+# Moldova
+# 674 | Cupa
+# 395 | Liga 1
+# 394 | Super Liga
+
+
+# Mongolia
+# 764 | Premier League
+# 1131 | Super Cup
+
+
+# Montenegro
+# 723 | Cup
+# 355 | First League
+# 356 | Second League
+
+
+# Morocco
+# 201 | Botola 2
+# 200 | Botola Pro
+# 822 | Cup
+
+
+# Myanmar
+# 588 | National League
+
+
+# Nepal
+# 590 | A Division
+
+
+# New-Zealand
+# 1127 | Chatham Cup
+# 954 | National League - Central
+# 1056 | National League - Championship - Final
+# 955 | National League - National
+# 956 | National League - Northern
+# 957 | National League - Southern
+# 280 | Premiership
+
+
+# Nicaragua
+# 1187 | Copa Nicaragua
+# 396 | Primera Division
+
+
+# Nigeria
+# 399 | NPFL
+
+
+# Northern-Ireland
+# 407 | Championship
+# 1019 | Charity Shield
+# 757 | Irish Cup
+# 559 | League Cup
+# 561 | Premier Intermediate League
+# 408 | Premiership
+
+
+# Norway
+# 104 | 1. Division
+# 473 | 2. Division - Group 1
+# 474 | 2. Division - Group 2
+# 1054 | 2. Division - Play-offs
+# 774 | 3. Division - Girone 1
+# 775 | 3. Division - Girone 2
+# 776 | 3. Division - Girone 3
+# 777 | 3. Division - Girone 4
+# 778 | 3. Division - Girone 5
+# 779 | 3. Division - Girone 6
+# 103 | Eliteserien
+# 105 | NM Cupen
+# 1215 | Obos Supercup
+# 557 | Super Cup
+# 725 | Toppserien
+
+
+# Oman
+# 1197 | FA Cup
+# 406 | Professional League
+# 726 | Sultan Cup
+# 944 | Super Cup
+
+
+# Pakistan
+# 868 | Premier League
+
+
+# Palestine
+# 586 | West Bank Premier League
+
+
+# Panama
+# 304 | Liga Panameña de Fútbol
+
+
+# Paraguay
+# 501 | Copa Paraguay
+# 251 | Division Intermedia
+# 250 | Division Profesional - Apertura
+# 252 | Division Profesional - Clausura
+# 961 | Supercopa
+
+
+# Peru
+# 502 | Copa Bicentenario
+# 503 | Copa Perú
+# 281 | Primera División
+# 282 | Segunda División
+# 558 | Supercopa
+
+
+# Philippines
+# 867 | Copa Paulino Alcantara
+# 765 | PFL
+
+
+# Poland
+# 108 | Cup
+# 106 | Ekstraklasa
+# 107 | I Liga
+# 109 | II Liga - East
+# 780 | III Liga - Group 1
+# 781 | III Liga - Group 2
+# 782 | III Liga - Group 3
+# 783 | III Liga - Group 4
+# 727 | Super Cup
+
+
+# Portugal
+# 457 | Campeonato de Portugal Prio - Group A
+# 458 | Campeonato de Portugal Prio - Group B
+# 459 | Campeonato de Portugal Prio - Group C
+# 460 | Campeonato de Portugal Prio - Group D
+# 681 | Campeonato de Portugal Prio - Group E
+# 682 | Campeonato de Portugal Prio - Group F
+# 683 | Campeonato de Portugal Prio - Group G
+# 684 | Campeonato de Portugal Prio - Group H
+# 991 | Campeonato de Portugal Prio - Promotion Round
+# 865 | Liga 3
+# 94 | Primeira Liga
+# 95 | Segunda Liga
+# 550 | Super Cup
+# 97 | Taça da Liga
+# 96 | Taça de Portugal
+
+
+# Qatar
+# 824 | Emir Cup
+# 825 | Qatar Cup
+# 841 | QFA Cup
+# 677 | QSL Cup
+# 306 | Second Division
+# 305 | Stars League
+
+
+# Romania
+# 285 | Cupa României
+# 283 | Liga I
+# 284 | Liga II
+# 1009 | Liga III - Play-offs
+# 784 | Liga III - Serie 1
+# 793 | Liga III - Serie 10
+# 785 | Liga III - Serie 2
+# 786 | Liga III - Serie 3
+# 787 | Liga III - Serie 4
+# 788 | Liga III - Serie 5
+# 789 | Liga III - Serie 6
+# 790 | Liga III - Serie 7
+# 791 | Liga III - Serie 8
+# 792 | Liga III - Serie 9
+# 555 | Supercupa
+
+
+# Russia
+# 237 | Cup
+# 236 | First League
+# 235 | Premier League
+# 651 | Second League - Group 1
+# 652 | Second League - Group 2
+# 650 | Second League - Group 3
+# 653 | Second League - Group 4
+# 1025 | Second League A - Division A Gold
+# 1026 | Second League A - Fall Season Silver
+# 1121 | Second League A - Promotion Play-offs
+# 1061 | Second League A - Spring Season Gold
+# 1064 | Second League A - Spring Season Silver
+# 663 | Super Cup
+
+
+# Rwanda
+# 405 | National Soccer League
+
+
+# San-Marino
+# 404 | Campionato
+# 729 | Coppa Titano
+# 884 | Super Cup
+
+
+# Saudi-Arabia
+# 827 | Crown Prince Cup
+# 308 | Division 1
+# 309 | Division 2
+# 504 | King's Cup
+# 307 | Pro League
+# 826 | Super Cup
+
+
+# Scotland
+# 182 | Challenge Cup
+# 180 | Championship
+# 181 | FA Cup
+# 992 | Football League - Championship
+# 730 | Football League - Highland League
+# 731 | Football League - Lowland League
+# 185 | League Cup
+# 183 | League One
+# 184 | League Two
+# 179 | Premiership
+# 1078 | SWF Scottish Cup
+# 1074 | SWPL Cup
+
+
+# Senegal
+# 403 | Ligue 1
+
+
+# Serbia
+# 732 | Cup
+# 287 | Prva Liga
+# 572 | Srpska Liga - Belgrade
+# 574 | Srpska Liga - East
+# 573 | Srpska Liga - Vojvodina
+# 575 | Srpska Liga - West
+# 286 | Super Liga
+
+
+# Singapore
+# 959 | Cup
+# 505 | League Cup
+# 368 | Premier League
+
+
+# Slovakia
+# 506 | 2. liga
+# 643 | 3. liga - Bratislava
+# 646 | 3. liga - Center
+# 645 | 3. liga - East
+# 1185 | 3. liga - Play-offs
+# 644 | 3. liga - West
+# 680 | Cup
+# 332 | Super Liga
+# 373 | 1. SNL
+# 374 | 2. SNL
+# 794 | 3. SNL - East
+# 795 | 3. SNL - West
+# 375 | Cup
+
+
+# Somalia
+# 846 | Somali Premier League
+
+
+# South-Africa
+# 289 | 1st Division
+# 509 | 8 Cup
+# 507 | Cup
+# 734 | Diski Challenge
+# 935 | Diski Shield
+# 508 | League Cup
+# 288 | Premier Soccer League
+
+
+# South-Korea
+# 294 | FA Cup
+# 292 | K League 1
+# 293 | K League 2
+# 295 | K3 League
+
+
+# Sudan
+# 402 | Sudani Premier League
+
+
+# Suriname
+# 568 | Eerste Divisie
+
+
+# Sweden
+# 113 | Allsvenskan
+# 549 | Damallsvenskan
+# 592 | Division 2 - Norra Götaland
+# 593 | Division 2 - Norra Svealand
+# 594 | Division 2 - Norrland
+# 597 | Division 2 - Östra Götaland
+# 1053 | Division 2 - Play-offs
+# 595 | Division 2 - Södra Svealand
+# 596 | Division 2 - Västra Götaland
+# 736 | Elitettan
+# 563 | Ettan - Norra
+# 1055 | Ettan - Relegation Round
+# 564 | Ettan - Södra
+# 114 | Superettan
+# 115 | Svenska Cupen
+
+
+# Switzerland
+# 599 | 1. Liga Classic - Group 1
+# 600 | 1. Liga Classic - Group 2
+# 601 | 1. Liga Classic - Group 3
+# 1005 | 1. Liga Classic - Play-offs
+# 510 | 1. Liga Promotion
+# 796 | 2. Liga Interregional - Group 1
+# 797 | 2. Liga Interregional - Group 2
+# 798 | 2. Liga Interregional - Group 3
+# 799 | 2. Liga Interregional - Group 4
+# 800 | 2. Liga Interregional - Group 5
+# 801 | 2. Liga Interregional - Group 6
+# 208 | Challenge League
+# 1044 | Erste Liga Cup
+# 209 | Schweizer Cup
+# 207 | Super League
+
+
+# Syria
+# 425 | Premier League
+
+
+# Tajikistan
+# 571 | Vysshaya Liga
+
+
+# Tanzania
+# 567 | Ligi kuu Bara
+
+
+# Thailand
+# 298 | FA Cup
+# 898 | League Cup
+# 873 | Thai Champions Cup
+# 296 | Thai League 1
+# 297 | Thai League 2
+
+
+# Togo
+# 1084 | Championnat National
+
+
+# Togo
+# 591 | Pro League
+
+
+# Tunisia
+# 511 | Cup
+# 202 | Ligue 1
+# 828 | Ligue 2
+# 1194 | Super Cup
+
+
+# Turkey
+# 204 | 1. Lig
+# 205 | 2. Lig
+# 552 | 3. Lig - Group 1
+# 553 | 3. Lig - Group 2
+# 554 | 3. Lig - Group 3
+# 1027 | 3. Lig - Group 4
+# 1007 | 3. Lig - Play-offs
+# 551 | Super Cup
+# 203 | Süper Lig
+# 206 | Türkiye Kupası
+
+
+# Turkmenistan
+# 636 | Ýokary Liga
+
+
+# Uganda
+# 585 | Premier League
+
+
+# Ukraine
+# 335 | Cup
+# 336 | Druha Liga
+# 337 | Druha Liga - Group B
+# 334 | Persha Liga
+# 333 | Premier League
+# 678 | Super Cup
+
+
+# United-Arab-Emirates
+# 303 | Division 1
+# 302 | League Cup
+# 560 | Presidents Cup
+# 301 | Pro League
+# 896 | Super Cup
+
+
+# Uruguay
+# 1212 | Copa De La Liga Auf
+# 930 | Copa Uruguay
+# 268 | Primera División - Apertura
+# 270 | Primera División - Clausura
+# 269 | Segunda División
+# 842 | Super Copa
+
+
+# USA
+# 253 | Major League Soccer
+# 523 | NISA
+# 1118 | NPSL
+# 257 | US Open Cup
+# 255 | USL Championship
+# 489 | USL League One
+# 1095 | USL League One Cup
+# 256 | USL League Two
+
+
+# Uzbekistan
+# 802 | Cup
+# 1075 | Pro League A
+# 830 | Super Cup
+# 369 | Super League
+
+
+# Venezuela
+# 1113 | Copa Venezuela
+# 299 | Primera División
+# 300 | Segunda División
+# 1181 | Supercopa
+
+
+# Vietnam
+# 341 | Cup
+# 831 | Super Cup
+# 340 | V.League 1
+# 637 | V.League 2
+
+
+# Wales
+# 111 | FAW Championship
+# 738 | League Cup
+# 110 | Premier League
+# 112 | Welsh Cup
+
+
+# Yemen
+# 1079 | Yemeni League
+
+
+# Zambia
+# 400 | Super League
+
+
+# Zimbabwe
+# 401 | Premier Soccer League
