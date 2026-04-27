@@ -1,0 +1,5802 @@
+[
+  {
+    "id": 596,
+    "name": "Vicarage Road",
+    "city": "Watford",
+    "capacity": 22200,
+    "latitude": 51.6491008,
+    "longitude": -0.4057943
+  },
+  {
+    "id": 516,
+    "name": "Cardiff City Stadium",
+    "city": "Caerdydd",
+    "capacity": 33280,
+    "latitude": 51.4728372,
+    "longitude": -3.2030343
+  },
+  {
+    "id": 512,
+    "name": "Turf Moor",
+    "city": "Burnley",
+    "capacity": 22546,
+    "latitude": 53.7884496,
+    "longitude": -2.2306047
+  },
+  {
+    "id": 20106,
+    "name": "Ashton Gate Stadium",
+    "city": "Bristol",
+    "capacity": 27000,
+    "latitude": 51.44010489999999,
+    "longitude": -2.6203341
+  },
+  {
+    "id": 559,
+    "name": "The Den",
+    "city": "London",
+    "capacity": 20146,
+    "latitude": 51.4866716,
+    "longitude": -0.05102669999999999
+  },
+  {
+    "id": 574,
+    "name": "Deepdale",
+    "city": "Preston",
+    "capacity": 23408,
+    "latitude": 53.7722256,
+    "longitude": -2.6884317
+  },
+  {
+    "id": 597,
+    "name": "The Hawthorns",
+    "city": "West Bromwich",
+    "capacity": 28003,
+    "latitude": 52.50934789999999,
+    "longitude": -1.9638625
+  },
+  {
+    "id": 581,
+    "name": "Bramall Lane",
+    "city": "Sheffield",
+    "capacity": 32702,
+    "latitude": 53.3691915,
+    "longitude": -1.4718136
+  },
+  {
+    "id": 546,
+    "name": "Elland Road",
+    "city": "Leeds",
+    "capacity": 40204,
+    "latitude": 53.7778162,
+    "longitude": -1.5721446
+  },
+  {
+    "id": 12051,
+    "name": "The MKM Stadium",
+    "city": "Hull",
+    "capacity": 25504,
+    "latitude": 53.7459183,
+    "longitude": -0.3680605
+  },
+  {
+    "id": 500,
+    "name": "Ewood Park",
+    "city": "Blackburn",
+    "capacity": 31367,
+    "latitude": 53.7284087,
+    "longitude": -2.489236
+  },
+  {
+    "id": 527,
+    "name": "Pride Park Stadium",
+    "city": "Derby",
+    "capacity": 33597,
+    "latitude": 52.9148277,
+    "longitude": -1.4472151
+  },
+  {
+    "id": 558,
+    "name": "Riverside Stadium",
+    "city": "Middlesbrough",
+    "capacity": 34988,
+    "latitude": 54.5781651,
+    "longitude": -1.2168368
+  },
+  {
+    "id": 565,
+    "name": "Carrow Road",
+    "city": "Norwich",
+    "capacity": 27606,
+    "latitude": 52.62272549999999,
+    "longitude": 1.3117356
+  },
+  {
+    "id": 20414,
+    "name": "MATRADE Loftus Road",
+    "city": "London",
+    "capacity": 18360,
+    "latitude": 51.5092781,
+    "longitude": -0.2321093
+  },
+  {
+    "id": 582,
+    "name": "Hillsborough",
+    "city": "Sheffield",
+    "capacity": 39814,
+    "latitude": 53.4014756,
+    "longitude": -1.4984496
+  },
+  {
+    "id": 588,
+    "name": "bet365 Stadium",
+    "city": "Stoke-on-Trent",
+    "capacity": 30089,
+    "latitude": 52.9882849,
+    "longitude": -2.176096
+  },
+  {
+    "id": 12273,
+    "name": "Swansea.com Stadium",
+    "city": "Swansea",
+    "capacity": 21028,
+    "latitude": 51.6427499,
+    "longitude": -3.9345855
+  },
+  {
+    "id": 589,
+    "name": "Stadium of Light",
+    "city": "Sunderland",
+    "capacity": 49000,
+    "latitude": 54.9144279,
+    "longitude": -1.3881733
+  },
+  {
+    "id": 569,
+    "name": "The Kassam Stadium",
+    "city": "Oxford",
+    "capacity": 12500,
+    "latitude": 51.7164888,
+    "longitude": -1.2078611
+  },
+  {
+    "id": 11896,
+    "name": "The Coventry Building Society Arena",
+    "city": "Coventry",
+    "capacity": 32609,
+    "latitude": 52.4483481,
+    "longitude": -1.4966347
+  },
+  {
+    "id": 573,
+    "name": "Fratton Park",
+    "city": "Portsmouth",
+    "capacity": 20821,
+    "latitude": 50.7963372,
+    "longitude": -1.0637899
+  },
+  {
+    "id": 571,
+    "name": "Home Park",
+    "city": "Plymouth",
+    "capacity": 19500,
+    "latitude": 50.388095,
+    "longitude": -4.150882699999999
+  },
+  {
+    "id": 551,
+    "name": "Kenilworth Road",
+    "city": "Luton",
+    "capacity": 11500,
+    "latitude": 51.8842537,
+    "longitude": -0.4316345
+  },
+  {
+    "id": 556,
+    "name": "Old Trafford",
+    "city": "Manchester",
+    "capacity": 76212,
+    "latitude": 53.462094,
+    "longitude": -2.2766419
+  },
+  {
+    "id": 555,
+    "name": "Etihad Stadium",
+    "city": "Manchester",
+    "capacity": 55097,
+    "latitude": 53.4831634,
+    "longitude": -2.2003736
+  },
+  {
+    "id": 543,
+    "name": "John Smith's Stadium",
+    "city": "Huddersfield",
+    "capacity": 24554,
+    "latitude": 53.6542822,
+    "longitude": -1.7682517
+  },
+  {
+    "id": 12052,
+    "name": "Select Car Leasing Stadium",
+    "city": "Reading",
+    "capacity": 24200,
+    "latitude": 51.42239319999999,
+    "longitude": -0.9826326000000001
+  },
+  {
+    "id": 12596,
+    "name": "St Andrew's Stadium",
+    "city": "Birmingham",
+    "capacity": 30009,
+    "latitude": 52.4754292,
+    "longitude": -1.8683658
+  },
+  {
+    "id": 599,
+    "name": "DW Stadium",
+    "city": "Wigan",
+    "capacity": 25138,
+    "latitude": 53.5476804,
+    "longitude": -2.6541071
+  },
+  {
+    "id": 19923,
+    "name": "Toughsheet Community Stadium",
+    "city": "Bolton",
+    "capacity": 28723,
+    "latitude": 53.5805967,
+    "longitude": -2.535633
+  },
+  {
+    "id": 578,
+    "name": "AESSEAL New York Stadium",
+    "city": "Rotherham",
+    "capacity": 12021,
+    "latitude": 53.42686759999999,
+    "longitude": -1.3624572
+  },
+  {
+    "id": 497,
+    "name": "Oakwell",
+    "city": "Barnsley",
+    "capacity": 23009,
+    "latitude": 53.55226469999999,
+    "longitude": -1.467674
+  },
+  {
+    "id": 513,
+    "name": "Pirelli Stadium",
+    "city": "Burton-upon-Trent",
+    "capacity": 6912,
+    "latitude": 52.8215623,
+    "longitude": -1.627267
+  },
+  {
+    "id": 12456,
+    "name": "The Cherry Red Records Stadium",
+    "city": "London",
+    "capacity": 9300,
+    "latitude": 51.43153969999999,
+    "longitude": -0.1866871
+  },
+  {
+    "id": 510,
+    "name": "Memorial Stadium",
+    "city": "Bristol",
+    "capacity": 11916,
+    "latitude": 51.4866499,
+    "longitude": -2.5825832
+  },
+  {
+    "id": 518,
+    "name": "The Valley",
+    "city": "London",
+    "capacity": 27111,
+    "latitude": 51.4864612,
+    "longitude": 0.0365246
+  },
+  {
+    "id": 533,
+    "name": "Highbury Stadium",
+    "city": "Fleetwood",
+    "capacity": 5327,
+    "latitude": 53.9166517,
+    "longitude": -3.0248498
+  },
+  {
+    "id": 11881,
+    "name": "Sixfields Stadium",
+    "city": "Northampton",
+    "capacity": 7798,
+    "latitude": 52.2350074,
+    "longitude": -0.9335274
+  },
+  {
+    "id": 18620,
+    "name": "Poundland Bescot Stadium",
+    "city": "Walsall",
+    "capacity": 11300,
+    "latitude": 52.5667597,
+    "longitude": -1.9917064
+  },
+  {
+    "id": 19198,
+    "name": "University of Bradford Stadium",
+    "city": "Bradford",
+    "capacity": 25136,
+    "latitude": 53.8036574,
+    "longitude": -1.7596251
+  },
+  {
+    "id": 19924,
+    "name": "SMH Group Stadium",
+    "city": "Chesterfield",
+    "capacity": 10338,
+    "latitude": 53.2535714,
+    "longitude": -1.4257437
+  },
+  {
+    "id": 537,
+    "name": "Priestfield Stadium",
+    "city": "Gillingham",
+    "capacity": 11582,
+    "latitude": 51.3842741,
+    "longitude": 0.560808
+  },
+  {
+    "id": 560,
+    "name": "Stadium mk",
+    "city": "Milton Keynes",
+    "capacity": 30500,
+    "latitude": 52.00963549999999,
+    "longitude": -0.733502
+  },
+  {
+    "id": 570,
+    "name": "Weston Homes Stadium",
+    "city": "Peterborough",
+    "capacity": 15142,
+    "latitude": 52.56470239999999,
+    "longitude": -0.2405048
+  },
+  {
+    "id": 572,
+    "name": "Vale Park",
+    "city": "Stoke-on-Trent",
+    "capacity": 19052,
+    "latitude": 53.0500954,
+    "longitude": -2.1926194
+  },
+  {
+    "id": 19925,
+    "name": "The Croud Meadow",
+    "city": "Shrewsbury",
+    "capacity": 9875,
+    "latitude": 52.688654,
+    "longitude": -2.7493169
+  },
+  {
+    "id": 592,
+    "name": "The County Ground",
+    "city": "Swindon",
+    "capacity": 15728,
+    "latitude": 51.5645126,
+    "longitude": -1.77107
+  },
+  {
+    "id": 12676,
+    "name": "Eco-Power Stadium",
+    "city": "Doncaster",
+    "capacity": 15231,
+    "latitude": 53.5100564,
+    "longitude": -1.1147296
+  },
+  {
+    "id": 501,
+    "name": "Bloomfield Road",
+    "city": "Blackpool",
+    "capacity": 17625,
+    "latitude": 53.8043451,
+    "longitude": -3.0417385
+  },
+  {
+    "id": 602,
+    "name": "Adams Park",
+    "city": "High Wycombe",
+    "capacity": 10000,
+    "latitude": 51.6303361,
+    "longitude": -0.7997278
+  },
+  {
+    "id": 490,
+    "name": "Wham Stadium",
+    "city": "Accrington",
+    "capacity": 5397,
+    "latitude": 53.76537829999999,
+    "longitude": -2.3710333
+  },
+  {
+    "id": 522,
+    "name": "JobServe Community Stadium",
+    "city": "Colchester",
+    "capacity": 10083,
+    "latitude": 51.9233308,
+    "longitude": 0.897839
+  },
+  {
+    "id": 19200,
+    "name": "Broadfield Stadium",
+    "city": "Crawley",
+    "capacity": 6134,
+    "latitude": 51.09980700000001,
+    "longitude": -0.1948115
+  },
+  {
+    "id": 11876,
+    "name": "Mornflake Stadium",
+    "city": "Crewe",
+    "capacity": 10153,
+    "latitude": 53.0874554,
+    "longitude": -2.4356986
+  },
+  {
+    "id": 532,
+    "name": "St James Park",
+    "city": "Exeter",
+    "capacity": 8830,
+    "latitude": 50.7307407,
+    "longitude": -3.5210655
+  },
+  {
+    "id": 538,
+    "name": "Blundell Park",
+    "city": "Cleethorpes",
+    "capacity": 9546,
+    "latitude": 53.5702422,
+    "longitude": -0.0465243
+  },
+  {
+    "id": 563,
+    "name": "Rodney Parade",
+    "city": "Casnewydd",
+    "capacity": 11676,
+    "latitude": 51.5882553,
+    "longitude": -2.9880271
+  },
+  {
+    "id": 587,
+    "name": "The Lamex Stadium",
+    "city": "Stevenage",
+    "capacity": 7100,
+    "latitude": 51.8903118,
+    "longitude": -0.1929042
+  },
+  {
+    "id": 515,
+    "name": "Abbey Stadium",
+    "city": "Cambridge",
+    "capacity": 10847,
+    "latitude": 52.2121495,
+    "longitude": 0.1541811
+  },
+  {
+    "id": 517,
+    "name": "Brunton Park",
+    "city": "Carlisle",
+    "capacity": 18202,
+    "latitude": 54.8955195,
+    "longitude": -2.9135901
+  },
+  {
+    "id": 18617,
+    "name": "Completely-Suzuki Stadium",
+    "city": "Cheltenham",
+    "capacity": 7066,
+    "latitude": 51.9061398,
+    "longitude": -2.0602539
+  },
+  {
+    "id": 18618,
+    "name": "Brisbane Road",
+    "city": "London",
+    "capacity": 9271,
+    "latitude": 51.5603091,
+    "longitude": -0.0116343
+  },
+  {
+    "id": 557,
+    "name": "One Call Stadium",
+    "city": "Mansfield",
+    "capacity": 9186,
+    "latitude": 53.1381558,
+    "longitude": -1.2007334
+  },
+  {
+    "id": 11880,
+    "name": "Mazuma Stadium",
+    "city": "Morecambe",
+    "capacity": 6476,
+    "latitude": 54.0614825,
+    "longitude": -2.8672296
+  },
+  {
+    "id": 567,
+    "name": "Meadow Lane",
+    "city": "Nottingham",
+    "capacity": 19588,
+    "latitude": 52.94267499999999,
+    "longitude": -1.1371537
+  },
+  {
+    "id": 10610,
+    "name": "LNER Stadium",
+    "city": "Lincoln",
+    "capacity": 10780,
+    "latitude": 53.2181795,
+    "longitude": -0.5408125
+  },
+  {
+    "id": 594,
+    "name": "Prenton Park",
+    "city": "Birkenhead",
+    "capacity": 16567,
+    "latitude": 53.3738199,
+    "longitude": -3.032483
+  },
+  {
+    "id": 19197,
+    "name": "SO Legal Stadium",
+    "city": "Barrow-in-Furness",
+    "capacity": 6500,
+    "latitude": 54.12332379999999,
+    "longitude": -3.2350071
+  },
+  {
+    "id": 20413,
+    "name": "RELOC8 EM Community Stadium",
+    "city": "London",
+    "capacity": 5150,
+    "latitude": 51.4908011,
+    "longitude": -0.288834
+  },
+  {
+    "id": 19926,
+    "name": "STōK Cae Ras",
+    "city": "Wrecsam",
+    "capacity": 19118,
+    "latitude": 53.0519612,
+    "longitude": -3.0038042
+  },
+  {
+    "id": 11878,
+    "name": "EnviroVent Stadium",
+    "city": "Harrogate",
+    "capacity": 3800,
+    "latitude": 53.9917159,
+    "longitude": -1.5144671
+  },
+  {
+    "id": 579,
+    "name": "The Peninsula Stadium",
+    "city": "Salford",
+    "capacity": 5100,
+    "latitude": 53.51363449999999,
+    "longitude": -2.2767727
+  },
+  {
+    "id": 3535,
+    "name": "Edgeley Park",
+    "city": "Stockport",
+    "capacity": 10852,
+    "latitude": 53.3996585,
+    "longitude": -2.1662968
+  },
+  {
+    "id": 5201,
+    "name": "Colney Training Centre",
+    "city": "Colney",
+    "capacity": 1000,
+    "latitude": 52.61395599999999,
+    "longitude": 1.2080633
+  },
+  {
+    "id": 5202,
+    "name": "Bodymoor Heath Training Ground",
+    "city": "Bodymoor Heath",
+    "capacity": 1000,
+    "latitude": 52.5686209,
+    "longitude": -1.7206617
+  },
+  {
+    "id": 21181,
+    "name": "American Express Elite Football Performance Centre",
+    "city": "Lancing",
+    "capacity": 1000,
+    "latitude": 50.8322369,
+    "longitude": -0.31151
+  },
+  {
+    "id": 10607,
+    "name": "Kingsmeadow",
+    "city": "Kingston upon Thames",
+    "capacity": 5339,
+    "latitude": 51.40526699999999,
+    "longitude": -0.2818903
+  },
+  {
+    "id": 19705,
+    "name": "The BIG HELP Stadium",
+    "city": "Southport",
+    "capacity": 6008,
+    "latitude": 53.6385622,
+    "longitude": -2.979161
+  },
+  {
+    "id": 5205,
+    "name": "Motspur Park",
+    "city": "New Malden",
+    "capacity": 2000,
+    "latitude": 51.39635329999999,
+    "longitude": -0.23981
+  },
+  {
+    "id": 22342,
+    "name": "LCFC Training Ground",
+    "city": "Sileby",
+    "capacity": 500,
+    "latitude": 52.7444125,
+    "longitude": -1.0764764
+  },
+  {
+    "id": 5206,
+    "name": "Liverpool’s Academy Ground",
+    "city": "Knowsley",
+    "capacity": 1000,
+    "latitude": 53.4797624,
+    "longitude": -2.8696931
+  },
+  {
+    "id": 3543,
+    "name": "Ewen Fields",
+    "city": "Hyde",
+    "capacity": 4100,
+    "latitude": 53.4510632,
+    "longitude": -2.067324
+  },
+  {
+    "id": 124176072578,
+    "name": "Newcastle United Training Centre",
+    "city": "Newcastle upon Tyne",
+    "capacity": null,
+    "latitude": 55.00970710000001,
+    "longitude": -1.5597942
+  },
+  {
+    "id": 21182,
+    "name": "Lamex Stadium",
+    "city": "Stevenage",
+    "capacity": 7100,
+    "latitude": 51.8903118,
+    "longitude": -0.1929042
+  },
+  {
+    "id": 21183,
+    "name": "The Rush Green Stadium",
+    "city": "Romford",
+    "capacity": 4500,
+    "latitude": 51.5635003,
+    "longitude": 0.1632997
+  },
+  {
+    "id": 3544,
+    "name": "Aggborough Stadium",
+    "city": "Kidderminster",
+    "capacity": 6453,
+    "latitude": 52.3803844,
+    "longitude": -2.242656
+  },
+  {
+    "id": 12272,
+    "name": "VBS Community Stadium",
+    "city": "Sutton",
+    "capacity": 7032,
+    "latitude": 51.3677754,
+    "longitude": -0.2042941
+  },
+  {
+    "id": 3526,
+    "name": "The Impact Arena",
+    "city": "Alfreton",
+    "capacity": 3600,
+    "latitude": 53.09447369999999,
+    "longitude": -1.3801162
+  },
+  {
+    "id": 562,
+    "name": "St. James' Park",
+    "city": "Newcastle upon Tyne",
+    "capacity": 52758,
+    "latitude": 54.9755502,
+    "longitude": -1.6216284
+  },
+  {
+    "id": 504,
+    "name": "Vitality Stadium",
+    "city": "Bournemouth",
+    "capacity": 12000,
+    "latitude": 50.7348316,
+    "longitude": -1.8390783
+  },
+  {
+    "id": 535,
+    "name": "Craven Cottage",
+    "city": "London",
+    "capacity": 29589,
+    "latitude": 51.47490029999999,
+    "longitude": -0.2216078
+  },
+  {
+    "id": 600,
+    "name": "Molineux Stadium",
+    "city": "Wolverhampton",
+    "capacity": 34624,
+    "latitude": 52.5902362,
+    "longitude": -2.1304288
+  },
+  {
+    "id": 550,
+    "name": "Anfield",
+    "city": "Liverpool",
+    "capacity": 61276,
+    "latitude": 53.43084349999999,
+    "longitude": -2.9608174
+  },
+  {
+    "id": 585,
+    "name": "St. Mary's Stadium",
+    "city": "Southampton",
+    "capacity": 32689,
+    "latitude": 50.9058106,
+    "longitude": -1.3901028
+  },
+  {
+    "id": 494,
+    "name": "Emirates Stadium",
+    "city": "London",
+    "capacity": 60383,
+    "latitude": 51.5550821,
+    "longitude": -0.1083998
+  },
+  {
+    "id": 22033,
+    "name": "Hill Dickinson Stadium",
+    "city": "Liverpool",
+    "capacity": 52888,
+    "latitude": 53.4250167,
+    "longitude": -3.0027452
+  },
+  {
+    "id": 547,
+    "name": "King Power Stadium",
+    "city": "Leicester",
+    "capacity": 34310,
+    "latitude": 52.6203662,
+    "longitude": -1.1421895
+  },
+  {
+    "id": 593,
+    "name": "Tottenham Hotspur Stadium",
+    "city": "London",
+    "capacity": 62850,
+    "latitude": 51.6042536,
+    "longitude": -0.0662083
+  },
+  {
+    "id": 598,
+    "name": "London Stadium",
+    "city": "London",
+    "capacity": 64472,
+    "latitude": 51.5386745,
+    "longitude": -0.0164597
+  },
+  {
+    "id": 519,
+    "name": "Stamford Bridge",
+    "city": "London",
+    "capacity": 41841,
+    "latitude": 51.4817241,
+    "longitude": -0.1909471
+  },
+  {
+    "id": 508,
+    "name": "American Express Stadium",
+    "city": "Falmer",
+    "capacity": 31872,
+    "latitude": 50.8615724,
+    "longitude": -0.0836618
+  },
+  {
+    "id": 525,
+    "name": "Selhurst Park",
+    "city": "London",
+    "capacity": 26309,
+    "latitude": 51.39797429999999,
+    "longitude": -0.0860576
+  },
+  {
+    "id": 10503,
+    "name": "Gtech Community Stadium",
+    "city": "Brentford",
+    "capacity": 17250,
+    "latitude": 51.4908011,
+    "longitude": -0.288834
+  },
+  {
+    "id": 545,
+    "name": "Portman Road",
+    "city": "Ipswich",
+    "capacity": 30311,
+    "latitude": 52.0566504,
+    "longitude": 1.1459653
+  },
+  {
+    "id": 566,
+    "name": "The City Ground",
+    "city": "Nottingham",
+    "capacity": 30576,
+    "latitude": 52.9399466,
+    "longitude": -1.1328722
+  },
+  {
+    "id": 495,
+    "name": "Villa Park",
+    "city": "Birmingham",
+    "capacity": 42824,
+    "latitude": 52.5091117,
+    "longitude": -1.8847828
+  },
+  {
+    "id": 577,
+    "name": "Crown Oil Arena",
+    "city": "Rochdale",
+    "capacity": 10249,
+    "latitude": 53.6207939,
+    "longitude": -2.1799791
+  },
+  {
+    "id": 21312,
+    "name": "Attis Arena",
+    "city": "Scunthorpe",
+    "capacity": 9088,
+    "latitude": 53.5867871,
+    "longitude": -0.6961183
+  },
+  {
+    "id": 586,
+    "name": "Roots Hall",
+    "city": "Southend-on-Sea",
+    "capacity": 12392,
+    "latitude": 51.54885059999999,
+    "longitude": 0.7015519
+  },
+  {
+    "id": 514,
+    "name": "Gigg Lane",
+    "city": "Bury",
+    "capacity": 11840,
+    "latitude": 53.5826229,
+    "longitude": -2.2911809
+  },
+  {
+    "id": 568,
+    "name": "Boundary Park",
+    "city": "Oldham",
+    "capacity": 10638,
+    "latitude": 53.555147,
+    "longitude": -2.1284559
+  },
+  {
+    "id": 12677,
+    "name": "The Suit Direct Stadium",
+    "city": "Hartlepool",
+    "capacity": 7856,
+    "latitude": 54.6891062,
+    "longitude": -1.2126465
+  },
+  {
+    "id": 496,
+    "name": "The Hive Stadium",
+    "city": "London",
+    "capacity": 6418,
+    "latitude": 51.6026245,
+    "longitude": -0.2917519
+  },
+  {
+    "id": 603,
+    "name": "Huish Park Stadium",
+    "city": "Yeovil",
+    "capacity": 9665,
+    "latitude": 50.9502426,
+    "longitude": -2.6739626
+  },
+  {
+    "id": 19201,
+    "name": "The Bolt New Lawn",
+    "city": "Nailsworth",
+    "capacity": 5140,
+    "latitude": 51.69900310000001,
+    "longitude": -2.2378743
+  },
+  {
+    "id": 12213,
+    "name": "The Leasing.com Stadium",
+    "city": "Macclesfield",
+    "capacity": 6355,
+    "latitude": 53.2427587,
+    "longitude": -2.1264569
+  },
+  {
+    "id": 493,
+    "name": "Electrical Services Stadium",
+    "city": "Aldershot",
+    "capacity": 7100,
+    "latitude": 51.24839559999999,
+    "longitude": -0.7547423999999999
+  },
+  {
+    "id": 21313,
+    "name": "Deva Stadium",
+    "city": "Chester",
+    "capacity": 5376,
+    "latitude": 53.1892013,
+    "longitude": -2.9233474
+  },
+  {
+    "id": 526,
+    "name": "Chigwell Construction Stadium",
+    "city": "Dagenham",
+    "capacity": 6078,
+    "latitude": 51.54779990000001,
+    "longitude": 0.1599408
+  },
+  {
+    "id": 530,
+    "name": "Silverlake Stadium",
+    "city": "Eastleigh",
+    "capacity": 5250,
+    "latitude": 50.9525073,
+    "longitude": -1.3720481
+  },
+  {
+    "id": 536,
+    "name": "Gateshead International Stadium",
+    "city": "Gateshead",
+    "capacity": 11750,
+    "latitude": 54.9607799,
+    "longitude": -1.580933
+  },
+  {
+    "id": 2691,
+    "name": "Nethermoor Park",
+    "city": "Guiseley",
+    "capacity": 3000,
+    "latitude": 53.8764365,
+    "longitude": -1.7199134
+  },
+  {
+    "id": 554,
+    "name": "Gallagher Stadium",
+    "city": "Maidstone",
+    "capacity": 4200,
+    "latitude": 51.2800069,
+    "longitude": 0.5160918999999999
+  },
+  {
+    "id": 2692,
+    "name": "Plainmoor Ground",
+    "city": "Torquay",
+    "capacity": 6104,
+    "latitude": 50.4757167,
+    "longitude": -3.5241467
+  },
+  {
+    "id": 11929,
+    "name": "LNER Community Stadium",
+    "city": "York",
+    "capacity": 8500,
+    "latitude": 53.9850151,
+    "longitude": -1.0529726
+  },
+  {
+    "id": 529,
+    "name": "The Perrys Crabble Stadium",
+    "city": "Dover",
+    "capacity": 6500,
+    "latitude": 51.1378056,
+    "longitude": 1.2849303
+  },
+  {
+    "id": 503,
+    "name": "Meadow Park",
+    "city": "Borehamwood",
+    "capacity": 4502,
+    "latitude": 51.6621617,
+    "longitude": -0.2712835
+  },
+  {
+    "id": 11894,
+    "name": "Cressing Road Stadium",
+    "city": "Braintree",
+    "capacity": 4222,
+    "latitude": 51.8752729,
+    "longitude": 0.5723060999999999
+  },
+  {
+    "id": 19204,
+    "name": "ARMCO Arena",
+    "city": "Solihull",
+    "capacity": 5500,
+    "latitude": 52.438423,
+    "longitude": -1.7567734
+  },
+  {
+    "id": 2689,
+    "name": "The Laithwaite Community Stadium",
+    "city": "Woking",
+    "capacity": 6036,
+    "latitude": 51.3066478,
+    "longitude": -0.5586371
+  },
+  {
+    "id": 553,
+    "name": "York Road Stadium",
+    "city": "Maidenhead",
+    "capacity": 4000,
+    "latitude": 51.5202434,
+    "longitude": -0.7182373999999999
+  },
+  {
+    "id": 491,
+    "name": "Mill Farm Stadium",
+    "city": "Wesham",
+    "capacity": 6000,
+    "latitude": 53.7973851,
+    "longitude": -2.8895679
+  },
+  {
+    "id": 11897,
+    "name": "Kuflink Stadium",
+    "city": "Northfleet",
+    "capacity": 5011,
+    "latitude": 51.4495404,
+    "longitude": 0.3222851
+  },
+  {
+    "id": 539,
+    "name": "The Shay Stadium",
+    "city": "Halifax",
+    "capacity": 10061,
+    "latitude": 53.7161444,
+    "longitude": -1.8591407
+  },
+  {
+    "id": 542,
+    "name": "Westleigh Park",
+    "city": "Havant",
+    "capacity": 5250,
+    "latitude": 50.8666164,
+    "longitude": -0.9745005000000001
+  },
+  {
+    "id": 3527,
+    "name": "AGP Arena",
+    "city": "Billericay",
+    "capacity": 3500,
+    "latitude": 51.6212817,
+    "longitude": 0.4039037
+  },
+  {
+    "id": 21314,
+    "name": "Victory Park",
+    "city": "Chorley",
+    "capacity": 4100,
+    "latitude": 53.6460509,
+    "longitude": -2.6298713
+  },
+  {
+    "id": 3529,
+    "name": "Beveree Stadium",
+    "city": "Hampton",
+    "capacity": 3350,
+    "latitude": 51.4151418,
+    "longitude": -0.3631547
+  },
+  {
+    "id": 3530,
+    "name": "Coles Park",
+    "city": "London",
+    "capacity": 2710,
+    "latitude": 51.606113,
+    "longitude": -0.0936398
+  },
+  {
+    "id": 3531,
+    "name": "Top Field",
+    "city": "Hitchin",
+    "capacity": 4000,
+    "latitude": 51.95454179999999,
+    "longitude": -0.2841036
+  },
+  {
+    "id": 3532,
+    "name": "Imber Court",
+    "city": "East Molesey",
+    "capacity": 3000,
+    "latitude": 51.390752,
+    "longitude": -0.349984
+  },
+  {
+    "id": 19771,
+    "name": "RAW Charging Stadium",
+    "city": "Oxford",
+    "capacity": 6075,
+    "latitude": 51.7294,
+    "longitude": -1.2489
+  },
+  {
+    "id": 3534,
+    "name": "Arbour Park",
+    "city": "Slough",
+    "capacity": 2205,
+    "latitude": 51.5197686,
+    "longitude": -0.5883174
+  },
+  {
+    "id": 21315,
+    "name": "The Optima Stadium",
+    "city": "Weston-super-Mare",
+    "capacity": 3000,
+    "latitude": 51.3306712,
+    "longitude": -2.955171
+  },
+  {
+    "id": 3537,
+    "name": "New Bucks Head Ground",
+    "city": "Telford",
+    "capacity": 6300,
+    "latitude": 52.6973652,
+    "longitude": -2.5013859
+  },
+  {
+    "id": 11942,
+    "name": "Melbourne Stadium",
+    "city": "Chelmsford",
+    "capacity": 3500,
+    "latitude": 51.75320070000001,
+    "longitude": 0.451505
+  },
+  {
+    "id": 3539,
+    "name": "Princes Park",
+    "city": "Dartford",
+    "capacity": 4100,
+    "latitude": 51.4366667,
+    "longitude": 0.2305556
+  },
+  {
+    "id": 21316,
+    "name": "Kal Group Stadium",
+    "city": "Gainsborough",
+    "capacity": 4304,
+    "latitude": 53.4030052,
+    "longitude": -0.7754439999999999
+  },
+  {
+    "id": 3541,
+    "name": "Edgar Street Athletic Ground",
+    "city": "Hereford",
+    "capacity": 8843,
+    "latitude": 52.060657,
+    "longitude": -2.717748
+  },
+  {
+    "id": 21964,
+    "name": "First Call Community Stadium",
+    "city": "Maldon",
+    "capacity": 3000,
+    "latitude": 51.72077179999999,
+    "longitude": 0.6940215
+  },
+  {
+    "id": 21317,
+    "name": "Project Solar UK Stadium",
+    "city": "Hyde",
+    "capacity": 4100,
+    "latitude": 53.4507075,
+    "longitude": -2.0675259
+  },
+  {
+    "id": 3545,
+    "name": "Fetcham Grove",
+    "city": "Leatherhead",
+    "capacity": 3400,
+    "latitude": 51.2917177,
+    "longitude": -0.3330013
+  },
+  {
+    "id": 12605,
+    "name": "Optimum Pay Stadium",
+    "city": "Nantwich",
+    "capacity": 3500,
+    "latitude": 53.0721857,
+    "longitude": -2.5281092
+  },
+  {
+    "id": 21318,
+    "name": "Truro Sports Hub",
+    "city": "Truro",
+    "capacity": 3000,
+    "latitude": 50.2675687,
+    "longitude": -5.1235392
+  },
+  {
+    "id": 3549,
+    "name": "The J. Davidson Stadium",
+    "city": "Altrincham",
+    "capacity": 6085,
+    "latitude": 53.3833434,
+    "longitude": -2.3353201
+  },
+  {
+    "id": 11943,
+    "name": "St. James Park",
+    "city": "Brackley",
+    "capacity": 3500,
+    "latitude": 52.024497,
+    "longitude": -1.1544786
+  },
+  {
+    "id": 3551,
+    "name": "The Meadow",
+    "city": "Chesham",
+    "capacity": 5000,
+    "latitude": 51.6988095,
+    "longitude": -0.6140606
+  },
+  {
+    "id": 3552,
+    "name": "Tameside Stadium",
+    "city": "Ashton-under-Lyne",
+    "capacity": 4000,
+    "latitude": 53.4938495,
+    "longitude": -2.1159308
+  },
+  {
+    "id": 21319,
+    "name": "ReachTV Stadium",
+    "city": "Eastbourne",
+    "capacity": 5644,
+    "latitude": 50.8036296,
+    "longitude": 0.3202534
+  },
+  {
+    "id": 3554,
+    "name": "Earlsmead Stadium",
+    "city": "South Harrow",
+    "capacity": 3070,
+    "latitude": 51.55816249999999,
+    "longitude": -0.3713407
+  },
+  {
+    "id": 3555,
+    "name": "Moatside Stadium",
+    "city": "Merstham",
+    "capacity": 2000,
+    "latitude": 51.2589014,
+    "longitude": -0.1456091
+  },
+  {
+    "id": 3556,
+    "name": "The Brewery Field",
+    "city": "Spennymoor",
+    "capacity": 6000,
+    "latitude": 54.7042029,
+    "longitude": -1.5981969
+  },
+  {
+    "id": 3557,
+    "name": "Clarence Park",
+    "city": "St. Albans",
+    "capacity": 4500,
+    "latitude": 51.7535021,
+    "longitude": -0.324208
+  },
+  {
+    "id": 3558,
+    "name": "The Zeeco Stadium",
+    "city": "Stamford",
+    "capacity": 2000,
+    "latitude": 52.6659752,
+    "longitude": -0.4695055
+  },
+  {
+    "id": 3559,
+    "name": "War Memorial Athletic Ground",
+    "city": "Stourbridge",
+    "capacity": 3550,
+    "latitude": 52.46348140000001,
+    "longitude": -2.1499862
+  },
+  {
+    "id": 3560,
+    "name": "Cygnet Health Care Stadium",
+    "city": "Taunton",
+    "capacity": 3001,
+    "latitude": 51.0163615,
+    "longitude": -3.0856384
+  },
+  {
+    "id": 11676,
+    "name": "Allpay Park",
+    "city": "Hereford",
+    "capacity": 2000,
+    "latitude": 52.06401899999999,
+    "longitude": -2.7222779
+  },
+  {
+    "id": 3561,
+    "name": "The Enclosed Ground",
+    "city": "Brighton",
+    "capacity": 2000,
+    "latitude": 50.8209484,
+    "longitude": -0.0955533
+  },
+  {
+    "id": 10612,
+    "name": "MEL Group Stadium",
+    "city": "Sudbury",
+    "capacity": 2500,
+    "latitude": 52.0395666,
+    "longitude": 0.7160137
+  },
+  {
+    "id": 5210,
+    "name": "The Homelands",
+    "city": "Ashford",
+    "capacity": 3535,
+    "latitude": 51.1050429,
+    "longitude": 1.0107831
+  },
+  {
+    "id": 5211,
+    "name": "Parkside Stadium",
+    "city": "Aveley",
+    "capacity": 1500,
+    "latitude": 51.5032005,
+    "longitude": 0.2606058
+  },
+  {
+    "id": 5212,
+    "name": "Mayesbrook Park",
+    "city": "Dagenham",
+    "capacity": 2500,
+    "latitude": 51.5421626,
+    "longitude": 0.1102173
+  },
+  {
+    "id": 5213,
+    "name": "Mill Road",
+    "city": "Barnstaple",
+    "capacity": 5000,
+    "latitude": 51.0824146,
+    "longitude": -4.0655154
+  },
+  {
+    "id": 19793,
+    "name": "The Ho Ho Stadium",
+    "city": "Basildon",
+    "capacity": 4000,
+    "latitude": 51.58617899999999,
+    "longitude": 0.4779350999999999
+  },
+  {
+    "id": 5215,
+    "name": "Bedfont Sports Recreation Ground",
+    "city": "Bedfont",
+    "capacity": 3000,
+    "latitude": 51.4597433,
+    "longitude": -0.4267317
+  },
+  {
+    "id": 5216,
+    "name": "The Oval",
+    "city": "Bedworth",
+    "capacity": 3000,
+    "latitude": 52.47675479999999,
+    "longitude": -1.4731639
+  },
+  {
+    "id": 5217,
+    "name": "Broadwater",
+    "city": "Berkhamsted",
+    "capacity": 2500,
+    "latitude": 51.7627,
+    "longitude": -0.5654711
+  },
+  {
+    "id": 5218,
+    "name": "The Sports Ground",
+    "city": "Bideford",
+    "capacity": 2000,
+    "latitude": 51.0214004,
+    "longitude": -4.2085561
+  },
+  {
+    "id": 5219,
+    "name": "The Brentwood Centre Arena",
+    "city": "Brentwood",
+    "capacity": 1000,
+    "latitude": 51.63486469999999,
+    "longitude": 0.2997162
+  },
+  {
+    "id": 20344,
+    "name": "Home Call Carpets Community Stadium",
+    "city": "Burgess Hill",
+    "capacity": 2000,
+    "latitude": 50.9477728,
+    "longitude": -0.0942059
+  },
+  {
+    "id": 21965,
+    "name": "FWD-IP Community Stadium",
+    "city": "Sawston",
+    "capacity": 1459,
+    "latitude": 52.1329805,
+    "longitude": 0.1730884
+  },
+  {
+    "id": 5222,
+    "name": "High Road",
+    "city": "Chipstead",
+    "capacity": 2000,
+    "latitude": 51.2947185,
+    "longitude": -0.1698819
+  },
+  {
+    "id": 5223,
+    "name": "The Causeway",
+    "city": "Cinderford",
+    "capacity": 3500,
+    "latitude": 51.82731,
+    "longitude": -2.4936955
+  },
+  {
+    "id": 5224,
+    "name": "Steel Park",
+    "city": "Corby",
+    "capacity": 3893,
+    "latitude": 52.5074647,
+    "longitude": -0.7176737999999999
+  },
+  {
+    "id": 21320,
+    "name": "Christchurch Homes Loop Meadow",
+    "city": "Didcot",
+    "capacity": 3000,
+    "latitude": 51.6083621,
+    "longitude": -1.2491644
+  },
+  {
+    "id": 21966,
+    "name": "The Vistavis Community Stadium",
+    "city": "East Grinstead",
+    "capacity": 3000,
+    "latitude": 51.1315602,
+    "longitude": 0.0010892
+  },
+  {
+    "id": 5228,
+    "name": "The Stadium Cheshunt",
+    "city": "Cheshunt",
+    "capacity": 3000,
+    "latitude": 51.6941461,
+    "longitude": -0.0424128
+  },
+  {
+    "id": 5229,
+    "name": "AlderSmith Stadium",
+    "city": "Frome",
+    "capacity": 5000,
+    "latitude": 51.23463160000001,
+    "longitude": -2.3100807
+  },
+  {
+    "id": 20129,
+    "name": "The Asgard Engineering Stadium",
+    "city": "Glossop",
+    "capacity": 2374,
+    "latitude": 53.4455222,
+    "longitude": -1.9581996
+  },
+  {
+    "id": 5231,
+    "name": "Burroughs Park",
+    "city": "Great Wakering",
+    "capacity": 3500,
+    "latitude": 51.5603226,
+    "longitude": 0.7989198
+  },
+  {
+    "id": 5233,
+    "name": "The Pilot Field",
+    "city": "Hastings",
+    "capacity": 4050,
+    "latitude": 50.8744458,
+    "longitude": 0.5871727999999999
+  },
+  {
+    "id": 10613,
+    "name": "Winch's Field",
+    "city": "Herne Bay",
+    "capacity": 4000,
+    "latitude": 51.3650894,
+    "longitude": 1.1294109
+  },
+  {
+    "id": 5235,
+    "name": "Save On Tyres Stadium",
+    "city": "Highworth",
+    "capacity": 1000,
+    "latitude": 51.5716575,
+    "longitude": -1.806357
+  },
+  {
+    "id": 10614,
+    "name": "Glassworld Stadium",
+    "city": "Impington",
+    "capacity": 3750,
+    "latitude": 52.2421218,
+    "longitude": 0.1142516
+  },
+  {
+    "id": 5236,
+    "name": "Reachfields Stadium",
+    "city": "Hythe",
+    "capacity": 3000,
+    "latitude": 51.0687053,
+    "longitude": 1.0697974
+  },
+  {
+    "id": 5237,
+    "name": "New Manor Ground",
+    "city": "Ilkeston",
+    "capacity": 3500,
+    "latitude": 52.983926,
+    "longitude": -1.300201
+  },
+  {
+    "id": 20873,
+    "name": "The Westmoreland Flooring Stadium",
+    "city": "Kendal",
+    "capacity": 2400,
+    "latitude": 54.3323046,
+    "longitude": -2.7425366
+  },
+  {
+    "id": 5239,
+    "name": "The Plain Ham Ground",
+    "city": "Bath",
+    "capacity": 1000,
+    "latitude": 51.4025949,
+    "longitude": -2.3504887
+  },
+  {
+    "id": 21321,
+    "name": "F. Ball Community Stadium",
+    "city": "Leek",
+    "capacity": 3600,
+    "latitude": 53.10972779999999,
+    "longitude": -2.0397277
+  },
+  {
+    "id": 21967,
+    "name": "Oakfield Stadium",
+    "city": "Melksham",
+    "capacity": 1000,
+    "latitude": 51.3659928,
+    "longitude": -2.1149532
+  },
+  {
+    "id": 12460,
+    "name": "Red Industries Lyme Valley Stadium",
+    "city": "Newcastle-under-Lyme",
+    "capacity": 4000,
+    "latitude": 53.0003537,
+    "longitude": -2.2161309
+  },
+  {
+    "id": 21968,
+    "name": "Skyline Roofing Stadium",
+    "city": "London",
+    "capacity": 3075,
+    "latitude": 51.6010368,
+    "longitude": -0.4153431
+  },
+  {
+    "id": 10622,
+    "name": "Athletic Field",
+    "city": "Paulton",
+    "capacity": 2200,
+    "latitude": 51.3057971,
+    "longitude": -2.5049177
+  },
+  {
+    "id": 5246,
+    "name": "Phoenix Sports FC Ground",
+    "city": "Bexleyheath",
+    "capacity": 1000,
+    "latitude": 51.4585669,
+    "longitude": 0.1691606
+  },
+  {
+    "id": 5247,
+    "name": "Mill Lane",
+    "city": "Pickering",
+    "capacity": 2000,
+    "latitude": 54.2401047,
+    "longitude": -0.7804646
+  },
+  {
+    "id": 21969,
+    "name": "The Hunters Stadium",
+    "city": "Pontefract",
+    "capacity": 1429,
+    "latitude": 53.6953733,
+    "longitude": -1.3168496
+  },
+  {
+    "id": 12283,
+    "name": "The Bourne Stadium",
+    "city": "Sevenoaks",
+    "capacity": 1000,
+    "latitude": 51.2907501,
+    "longitude": 0.1997115
+  },
+  {
+    "id": 10623,
+    "name": "Woodstock Park",
+    "city": "Sittingbourne",
+    "capacity": 1200,
+    "latitude": 51.31406550000001,
+    "longitude": 0.7286362
+  },
+  {
+    "id": 5251,
+    "name": "King George's Field",
+    "city": "Reigate",
+    "capacity": 700,
+    "latitude": 51.2243715,
+    "longitude": -0.2154233
+  },
+  {
+    "id": 5252,
+    "name": "Bracken Moor",
+    "city": "Stocksbridge",
+    "capacity": 3500,
+    "latitude": 53.4770298,
+    "longitude": -1.5882215
+  },
+  {
+    "id": 5253,
+    "name": "Central Ground",
+    "city": "Sutton Coldfield",
+    "capacity": 2000,
+    "latitude": 52.5569791,
+    "longitude": -1.818816
+  },
+  {
+    "id": 5254,
+    "name": "Waterside Park",
+    "city": "Thatcham",
+    "capacity": 1500,
+    "latitude": 51.3911036,
+    "longitude": -1.2433286
+  },
+  {
+    "id": 5255,
+    "name": "Chadfields",
+    "city": "Tilbury",
+    "capacity": 4000,
+    "latitude": 51.47009800000001,
+    "longitude": 0.3639751
+  },
+  {
+    "id": 20130,
+    "name": "Tooting & Mitcham Community Sports Club",
+    "city": "Morden",
+    "capacity": 3500,
+    "latitude": 51.3935772,
+    "longitude": -0.1719788
+  },
+  {
+    "id": 5257,
+    "name": "Honeycroft",
+    "city": "London",
+    "capacity": 3770,
+    "latitude": 51.52595059999999,
+    "longitude": -0.2097085
+  },
+  {
+    "id": 5258,
+    "name": "The Oakwood",
+    "city": "Crayford",
+    "capacity": 1400,
+    "latitude": 51.45517299999999,
+    "longitude": 0.1717044
+  },
+  {
+    "id": 5259,
+    "name": "Capershotts",
+    "city": "Waltham Abbey",
+    "capacity": 3500,
+    "latitude": 51.6822617,
+    "longitude": 0.005338300000000001
+  },
+  {
+    "id": 5261,
+    "name": "Woking Park",
+    "city": "Woking",
+    "capacity": 1000,
+    "latitude": 51.3101893,
+    "longitude": -0.5553827
+  },
+  {
+    "id": 5263,
+    "name": "The Stan Robinson Stadium",
+    "city": "Willand",
+    "capacity": 1000,
+    "latitude": 50.8957182,
+    "longitude": -3.3765448
+  },
+  {
+    "id": 5264,
+    "name": "Simarco Stadium",
+    "city": "Witham",
+    "capacity": 2500,
+    "latitude": 51.80752769999999,
+    "longitude": 0.6476272
+  },
+  {
+    "id": 5265,
+    "name": "Borough Park",
+    "city": "Workington",
+    "capacity": 3101,
+    "latitude": 54.6486338,
+    "longitude": -3.5517843
+  },
+  {
+    "id": 19723,
+    "name": "Windsor Foodservice Stadium",
+    "city": "Worksop",
+    "capacity": 3200,
+    "latitude": 53.311258,
+    "longitude": -1.1305411
+  },
+  {
+    "id": 10624,
+    "name": "Leading Drove",
+    "city": "Yaxley",
+    "capacity": 1500,
+    "latitude": 52.50936979999999,
+    "longitude": -0.2578738
+  },
+  {
+    "id": 5477,
+    "name": "Creasey Park Community Football Centre",
+    "city": "Dunstable",
+    "capacity": 3200,
+    "latitude": 51.8924002,
+    "longitude": -0.5390965999999999
+  },
+  {
+    "id": 5478,
+    "name": "Hillgrounds Leisure",
+    "city": "Kempston",
+    "capacity": 2000,
+    "latitude": 52.1268233,
+    "longitude": -0.4898745
+  },
+  {
+    "id": 10625,
+    "name": "Snows Stadium",
+    "city": "Totton",
+    "capacity": 3500,
+    "latitude": 50.9342842,
+    "longitude": -1.5106872
+  },
+  {
+    "id": 5480,
+    "name": "The Robert Parker Stadium",
+    "city": "Stanwell",
+    "capacity": 2550,
+    "latitude": 51.45138120000001,
+    "longitude": -0.4619314
+  },
+  {
+    "id": 5481,
+    "name": "Sharpenhoe Road",
+    "city": "Barton-Le-Clay",
+    "capacity": 4000,
+    "latitude": 51.9503784,
+    "longitude": -0.44865
+  },
+  {
+    "id": 19956,
+    "name": "Charters Community Stadium",
+    "city": "Winchester",
+    "capacity": 4500,
+    "latitude": 51.0720925,
+    "longitude": -1.3092086
+  },
+  {
+    "id": 5483,
+    "name": "The New Eyrie",
+    "city": "Cardington",
+    "capacity": 4000,
+    "latitude": 52.1288735,
+    "longitude": -0.4129889
+  },
+  {
+    "id": 21322,
+    "name": "Raygar Stadium",
+    "city": "Belper",
+    "capacity": 2650,
+    "latitude": 53.0276542,
+    "longitude": -1.4866565
+  },
+  {
+    "id": 19957,
+    "name": "The SB Stadium",
+    "city": "Sandhurst",
+    "capacity": 1950,
+    "latitude": 51.3422239,
+    "longitude": -0.7934289999999999
+  },
+  {
+    "id": 5487,
+    "name": "The Yorkshire Payments Stadium",
+    "city": "Brighouse",
+    "capacity": 800,
+    "latitude": 53.7190075,
+    "longitude": -1.8018229
+  },
+  {
+    "id": 5488,
+    "name": "The Creek",
+    "city": "Bristol",
+    "capacity": 2000,
+    "latitude": 51.4819738,
+    "longitude": -2.6502592
+  },
+  {
+    "id": 18813,
+    "name": "Atalian Servest Stadium",
+    "city": "Bury St Edmunds",
+    "capacity": 3500,
+    "latitude": 52.24821859999999,
+    "longitude": 0.6890744
+  },
+  {
+    "id": 5490,
+    "name": "The Frost Hire Stadium",
+    "city": "Canvey Island",
+    "capacity": 4308,
+    "latitude": 51.5168463,
+    "longitude": 0.6156376
+  },
+  {
+    "id": 10615,
+    "name": "Bill Stokeld Stadium",
+    "city": "Nottingham",
+    "capacity": 600,
+    "latitude": 52.9710085,
+    "longitude": -1.0622972
+  },
+  {
+    "id": 5493,
+    "name": "The Scholars Ground",
+    "city": "Burntwood",
+    "capacity": 2000,
+    "latitude": 52.6705011,
+    "longitude": -1.9406971
+  },
+  {
+    "id": 5494,
+    "name": "Alwyns Lane Football Ground",
+    "city": "Chertsey",
+    "capacity": 2500,
+    "latitude": 51.3927917,
+    "longitude": -0.5073329
+  },
+  {
+    "id": 5495,
+    "name": "Oaklands Park",
+    "city": "Chichester",
+    "capacity": 2000,
+    "latitude": 50.8434,
+    "longitude": -0.776253
+  },
+  {
+    "id": 5496,
+    "name": "The Corinium Stadium",
+    "city": "Cirencester",
+    "capacity": 4500,
+    "latitude": 51.7115186,
+    "longitude": -1.9450157
+  },
+  {
+    "id": 21970,
+    "name": "DCBL Stadium",
+    "city": "Widnes",
+    "capacity": 13350,
+    "latitude": 53.3658083,
+    "longitude": -2.7384228
+  },
+  {
+    "id": 12045,
+    "name": "The myenergi Stadium",
+    "city": "Grimsby",
+    "capacity": 1000,
+    "latitude": 53.6020888,
+    "longitude": -0.1905936
+  },
+  {
+    "id": 21971,
+    "name": "The Loom Loft Stadium",
+    "city": "Clitheroe",
+    "capacity": 2000,
+    "latitude": 53.8404232,
+    "longitude": -2.3963257
+  },
+  {
+    "id": 5501,
+    "name": "Pack Meadow",
+    "city": "Coleshill",
+    "capacity": 2070,
+    "latitude": 52.4829489,
+    "longitude": -1.6996357
+  },
+  {
+    "id": 21323,
+    "name": "Haffners Stadium",
+    "city": "Colne",
+    "capacity": 1800,
+    "latitude": 53.86405629999999,
+    "longitude": -2.1771722
+  },
+  {
+    "id": 20432,
+    "name": "The Artic Stadium",
+    "city": "London",
+    "capacity": 1000,
+    "latitude": 51.4506312,
+    "longitude": 0.0346997
+  },
+  {
+    "id": 5504,
+    "name": "Communications Park",
+    "city": "Daventry",
+    "capacity": 5000,
+    "latitude": 52.256921,
+    "longitude": -1.1638276
+  },
+  {
+    "id": 5505,
+    "name": "Aldiss Park",
+    "city": "Dereham",
+    "capacity": 3000,
+    "latitude": 52.681782,
+    "longitude": 0.9724299999999999
+  },
+  {
+    "id": 5506,
+    "name": "UTS Stadium",
+    "city": "Gateshead",
+    "capacity": 2500,
+    "latitude": 54.9607799,
+    "longitude": -1.580933
+  },
+  {
+    "id": 5507,
+    "name": "The Spiers & Hartwell Jubilee Stadium",
+    "city": "Evesham",
+    "capacity": 2000,
+    "latitude": 52.0729353,
+    "longitude": -1.9548196
+  },
+  {
+    "id": 10626,
+    "name": "Salters Lane",
+    "city": "Faversham",
+    "capacity": 2000,
+    "latitude": 51.3014932,
+    "longitude": 0.8921629
+  },
+  {
+    "id": 20875,
+    "name": "AGL Arena",
+    "city": "Felixstowe",
+    "capacity": 2000,
+    "latitude": 51.97085269999999,
+    "longitude": 1.3549621
+  },
+  {
+    "id": 5510,
+    "name": "Westfield Lane Stadium",
+    "city": "South Elmsall",
+    "capacity": 2087,
+    "latitude": 53.5886414,
+    "longitude": -1.2926957
+  },
+  {
+    "id": 5511,
+    "name": "The Grove",
+    "city": "Halesowen",
+    "capacity": 5000,
+    "latitude": 52.44769789999999,
+    "longitude": -2.0518025
+  },
+  {
+    "id": 5512,
+    "name": "The Powerday Stadium",
+    "city": "London",
+    "capacity": 2000,
+    "latitude": 51.5326398,
+    "longitude": -0.3286033
+  },
+  {
+    "id": 5514,
+    "name": "Hanbury Park",
+    "city": "Haywards Heath",
+    "capacity": 5000,
+    "latitude": 50.9999645,
+    "longitude": -0.0874658
+  },
+  {
+    "id": 5515,
+    "name": "Hertingfordbury Park",
+    "city": "Hertford",
+    "capacity": 6500,
+    "latitude": 51.7913352,
+    "longitude": -0.08822289999999999
+  },
+  {
+    "id": 5516,
+    "name": "Lower Road",
+    "city": "Hullbridge",
+    "capacity": 1000,
+    "latitude": 51.61767949999999,
+    "longitude": 0.6431766999999999
+  },
+  {
+    "id": 5517,
+    "name": "Yarnton Road",
+    "city": "Kidlington",
+    "capacity": 1500,
+    "latitude": 51.8019374,
+    "longitude": -1.3216888
+  },
+  {
+    "id": 10617,
+    "name": "Autonet Insurance Stadium",
+    "city": "Kidsgrove",
+    "capacity": 2000,
+    "latitude": 53.08092689999999,
+    "longitude": -2.2513129
+  },
+  {
+    "id": 5519,
+    "name": "Sun Hat Villas & Resorts Stadium",
+    "city": "Lincoln",
+    "capacity": 2200,
+    "latitude": 53.2106453,
+    "longitude": -0.5853958
+  },
+  {
+    "id": 21972,
+    "name": "Drewitt-Barlow Stadium",
+    "city": "Maldon",
+    "capacity": 2000,
+    "latitude": 51.72077179999999,
+    "longitude": 0.6940215
+  },
+  {
+    "id": 5522,
+    "name": "Cossham Street Stadium",
+    "city": "Mangotsfield",
+    "capacity": 2500,
+    "latitude": 51.4824144,
+    "longitude": -2.4811298
+  },
+  {
+    "id": 5523,
+    "name": "The Marine Travel Arena",
+    "city": "Crosby",
+    "capacity": 2800,
+    "latitude": 53.4857574,
+    "longitude": -3.0324271
+  },
+  {
+    "id": 5524,
+    "name": "Alfred Davis Memorial Ground",
+    "city": "Marlow",
+    "capacity": 1500,
+    "latitude": 51.57747730000001,
+    "longitude": -0.7739731999999999
+  },
+  {
+    "id": 5525,
+    "name": "GER Stadium",
+    "city": "Marske-by-the-Sea",
+    "capacity": 2500,
+    "latitude": 54.5890874,
+    "longitude": -1.0165402
+  },
+  {
+    "id": 21973,
+    "name": "The John Jenkins Stadium",
+    "city": "Portsmouth",
+    "capacity": 2000,
+    "latitude": 50.8147847,
+    "longitude": -1.0599857
+  },
+  {
+    "id": 5527,
+    "name": "Seel Park",
+    "city": "Mossley",
+    "capacity": 4000,
+    "latitude": 53.5160626,
+    "longitude": -2.0469832
+  },
+  {
+    "id": 5528,
+    "name": "Eynsham Hall Park",
+    "city": "North Leigh",
+    "capacity": 426,
+    "latitude": 51.8081788,
+    "longitude": -1.4217807
+  },
+  {
+    "id": 10627,
+    "name": "Ingfield Stadium",
+    "city": "Ossett",
+    "capacity": 2000,
+    "latitude": 53.6808997,
+    "longitude": -1.5775413
+  },
+  {
+    "id": 21324,
+    "name": "The Auto Safety Centre Stadium",
+    "city": "Prescot",
+    "capacity": 3200,
+    "latitude": 53.4260982,
+    "longitude": -2.7948811
+  },
+  {
+    "id": 5531,
+    "name": "The Harry Williams Riverside Stadium",
+    "city": "Ramsbottom",
+    "capacity": 2000,
+    "latitude": 53.6447471,
+    "longitude": -2.3134173
+  },
+  {
+    "id": 11960,
+    "name": "WW Martin Community Stadium",
+    "city": "Ramsgate",
+    "capacity": 3000,
+    "latitude": 51.3393271,
+    "longitude": 1.4242221
+  },
+  {
+    "id": 20345,
+    "name": "Runcorn Linnets' APEC Taxi's Stadium",
+    "city": "Runcorn",
+    "capacity": 1600,
+    "latitude": 53.3314037,
+    "longitude": -2.7234902
+  },
+  {
+    "id": 21974,
+    "name": "Home of Football Stadium",
+    "city": "Dronfield",
+    "capacity": 2089,
+    "latitude": 53.30979499999999,
+    "longitude": -1.4784685
+  },
+  {
+    "id": 5535,
+    "name": "Mackoy Stadium",
+    "city": "Southampton",
+    "capacity": 1000,
+    "latitude": 50.8922131,
+    "longitude": -1.3396262
+  },
+  {
+    "id": 5536,
+    "name": "Thornhill Park",
+    "city": "Cambridge",
+    "capacity": 1500,
+    "latitude": 51.7327003,
+    "longitude": -2.3644033
+  },
+  {
+    "id": 5537,
+    "name": "Julius Martin Lane",
+    "city": "Soham",
+    "capacity": 2000,
+    "latitude": 52.3402058,
+    "longitude": 0.3309914
+  },
+  {
+    "id": 5538,
+    "name": "Sir Halley Stewart Field",
+    "city": "Spalding",
+    "capacity": 3500,
+    "latitude": 52.7899925,
+    "longitude": -0.1525973
+  },
+  {
+    "id": 10618,
+    "name": "Rowley Park Stadium",
+    "city": "St Neots",
+    "capacity": 2000,
+    "latitude": 52.2330178,
+    "longitude": -0.2449229
+  },
+  {
+    "id": 21975,
+    "name": "Young Guns Arena",
+    "city": "Tadcaster",
+    "capacity": 1500,
+    "latitude": 53.8828239,
+    "longitude": -1.2588856
+  },
+  {
+    "id": 5542,
+    "name": "ASM Stadium",
+    "city": "Thame",
+    "capacity": 2500,
+    "latitude": 51.7546846,
+    "longitude": -0.9746842
+  },
+  {
+    "id": 5543,
+    "name": "Jubilee Field",
+    "city": "Crawley",
+    "capacity": 1500,
+    "latitude": 51.1162311,
+    "longitude": -0.1661656
+  },
+  {
+    "id": 21976,
+    "name": "Pennybridge Lane",
+    "city": "Flixton",
+    "capacity": 2500,
+    "latitude": 53.4473113,
+    "longitude": -2.3733287
+  },
+  {
+    "id": 5545,
+    "name": "Wodson Park",
+    "city": "Ware",
+    "capacity": 3300,
+    "latitude": 51.82398569999999,
+    "longitude": -0.0332936
+  },
+  {
+    "id": 10629,
+    "name": "Herns Way",
+    "city": "Welwyn Garden City",
+    "capacity": 1000,
+    "latitude": 51.8058998,
+    "longitude": -0.1812819
+  },
+  {
+    "id": 5547,
+    "name": "The Belmont Ground",
+    "city": "Whitstable",
+    "capacity": 3000,
+    "latitude": 51.353108,
+    "longitude": 1.028738
+  },
+  {
+    "id": 5548,
+    "name": "Select Security Stadium",
+    "city": "Widnes",
+    "capacity": 13350,
+    "latitude": 53.3658083,
+    "longitude": -2.7384228
+  },
+  {
+    "id": 19845,
+    "name": "Fountain Fresh Park",
+    "city": "Wisbech",
+    "capacity": 1118,
+    "latitude": 52.6815462,
+    "longitude": 0.1748123
+  },
+  {
+    "id": 5552,
+    "name": "Hornchurch Stadium",
+    "city": "London",
+    "capacity": 3800,
+    "latitude": 51.55648739999999,
+    "longitude": 0.2386014
+  },
+  {
+    "id": 5553,
+    "name": "Hayden Road",
+    "city": "Rushden",
+    "capacity": 1500,
+    "latitude": 52.29108309999999,
+    "longitude": -0.5861406
+  },
+  {
+    "id": 5554,
+    "name": "Lye Meadow",
+    "city": "Alvechurch",
+    "capacity": 3000,
+    "latitude": 52.345371,
+    "longitude": -1.957759
+  },
+  {
+    "id": 5555,
+    "name": "Hurst Cross",
+    "city": "Ashton-under-Lyne",
+    "capacity": 4500,
+    "latitude": 53.5006651,
+    "longitude": -2.0783246
+  },
+  {
+    "id": 5556,
+    "name": "The Skuna Stadium",
+    "city": "Atherton",
+    "capacity": 2500,
+    "latitude": 53.523533,
+    "longitude": -2.4849651
+  },
+  {
+    "id": 5557,
+    "name": "Sir Tom Finney Stadium",
+    "city": "Preston",
+    "capacity": 2264,
+    "latitude": 53.7722256,
+    "longitude": -2.6884317
+  },
+  {
+    "id": 10659,
+    "name": "Banbury Plant Hire Community Stadium",
+    "city": "Banbury",
+    "capacity": 6500,
+    "latitude": 52.056981,
+    "longitude": -1.3259644
+  },
+  {
+    "id": 5559,
+    "name": "Kirkby Road",
+    "city": "Barwell",
+    "capacity": 2500,
+    "latitude": 52.58995179999999,
+    "longitude": -1.3327266
+  },
+  {
+    "id": 5560,
+    "name": "Greenwich Avenue",
+    "city": "Nottingham",
+    "capacity": 1000,
+    "latitude": 52.9864757,
+    "longitude": -1.1906531
+  },
+  {
+    "id": 5561,
+    "name": "Holloways Park",
+    "city": "Beaconsfield",
+    "capacity": 3500,
+    "latitude": 51.5935038,
+    "longitude": -0.6297632
+  },
+  {
+    "id": 5485,
+    "name": "The Carlsberg Stadium",
+    "city": "Biggleswade",
+    "capacity": 3000,
+    "latitude": 52.076858,
+    "longitude": -0.2678873
+  },
+  {
+    "id": 20882,
+    "name": "The RDA Stadium",
+    "city": "Bishop&apos;s Stortford",
+    "capacity": 4525,
+    "latitude": 51.8731269,
+    "longitude": 0.1924064
+  },
+  {
+    "id": 5563,
+    "name": "Gang Warily Community & Recreation Centre",
+    "city": "Blackfield",
+    "capacity": 1500,
+    "latitude": 50.8243097,
+    "longitude": -1.3721421
+  },
+  {
+    "id": 20433,
+    "name": "MKM Arena",
+    "city": "Bognor Regis",
+    "capacity": 4000,
+    "latitude": 50.793226,
+    "longitude": -0.6930465
+  },
+  {
+    "id": 5565,
+    "name": "North Road",
+    "city": "Brightlingsea",
+    "capacity": 1000,
+    "latitude": 51.8143502,
+    "longitude": 1.0254811
+  },
+  {
+    "id": 5566,
+    "name": "The Victoria Ground",
+    "city": "Bromsgrove",
+    "capacity": 4893,
+    "latitude": 52.33965920000001,
+    "longitude": -2.0564983
+  },
+  {
+    "id": 5567,
+    "name": "The Silverlands",
+    "city": "Buxton",
+    "capacity": 5200,
+    "latitude": 53.2570021,
+    "longitude": -1.9079465
+  },
+  {
+    "id": 5568,
+    "name": "War Memorial Sports Ground",
+    "city": "Carshalton",
+    "capacity": 5000,
+    "latitude": 51.3691599,
+    "longitude": -0.1711114
+  },
+  {
+    "id": 5570,
+    "name": "King George's Field",
+    "city": "London",
+    "capacity": 2700,
+    "latitude": 51.49676530000001,
+    "longitude": -0.0522296
+  },
+  {
+    "id": 21325,
+    "name": "Flamingo Park",
+    "city": "London",
+    "capacity": 1000,
+    "latitude": 51.4292893,
+    "longitude": 0.0815625
+  },
+  {
+    "id": 5571,
+    "name": "Clayson Stadium",
+    "city": "Dorchester",
+    "capacity": 5009,
+    "latitude": 50.7006074,
+    "longitude": -2.4463163
+  },
+  {
+    "id": 21326,
+    "name": "Dave Bryant Stadium",
+    "city": "London",
+    "capacity": 2000,
+    "latitude": 51.65866810000001,
+    "longitude": -0.06359390000000001
+  },
+  {
+    "id": 20311,
+    "name": "Saunders Transport Community Stadium",
+    "city": "Farnborough",
+    "capacity": 4267,
+    "latitude": 51.3098815,
+    "longitude": -0.7621009
+  },
+  {
+    "id": 5575,
+    "name": "The Fullicks Stadium",
+    "city": "Folkestone",
+    "capacity": 4000,
+    "latitude": 51.086553,
+    "longitude": 1.1594817
+  },
+  {
+    "id": 5576,
+    "name": "Privett Park",
+    "city": "Gosport",
+    "capacity": 4500,
+    "latitude": 50.7958045,
+    "longitude": -1.152678
+  },
+  {
+    "id": 5577,
+    "name": "South Kesteven Stadium",
+    "city": "Grantham",
+    "capacity": 7500,
+    "latitude": 52.905948,
+    "longitude": -0.666766
+  },
+  {
+    "id": 5578,
+    "name": "The Memorial Playing Fields",
+    "city": "Hartley Wintney",
+    "capacity": 2000,
+    "latitude": 51.3011436,
+    "longitude": -0.9061743999999999
+  },
+  {
+    "id": 5579,
+    "name": "The SKYex Community Stadium",
+    "city": "London",
+    "capacity": 2500,
+    "latitude": 51.508256,
+    "longitude": -0.3947870000000001
+  },
+  {
+    "id": 5580,
+    "name": "Keys Park",
+    "city": "Hednesford",
+    "capacity": 6500,
+    "latitude": 52.6999304,
+    "longitude": -1.9913424
+  },
+  {
+    "id": 5581,
+    "name": "Silver Jubilee Park",
+    "city": "London",
+    "capacity": 1990,
+    "latitude": 51.5804209,
+    "longitude": -0.2555807
+  },
+  {
+    "id": 5582,
+    "name": "The Camping World Community Stadium",
+    "city": "Horsham",
+    "capacity": 1980,
+    "latitude": 51.0465798,
+    "longitude": -0.3397325
+  },
+  {
+    "id": 5583,
+    "name": "The Orbital Fasteners Stadium",
+    "city": "Kings Langley",
+    "capacity": 1000,
+    "latitude": 51.7220477,
+    "longitude": -0.4514460999999999
+  },
+  {
+    "id": 19710,
+    "name": "Giant Axe Stadium",
+    "city": "Lancaster",
+    "capacity": 3513,
+    "latitude": 54.0510543,
+    "longitude": -2.810948
+  },
+  {
+    "id": 5585,
+    "name": "Victory Road",
+    "city": "Leiston",
+    "capacity": 2500,
+    "latitude": 52.2056281,
+    "longitude": 1.5731883
+  },
+  {
+    "id": 5586,
+    "name": "The Dripping Pan",
+    "city": "Lewes",
+    "capacity": 3000,
+    "latitude": 50.8691146,
+    "longitude": 0.0122701
+  },
+  {
+    "id": 5587,
+    "name": "Crown Meadow",
+    "city": "Lowestoft",
+    "capacity": 2250,
+    "latitude": 52.4799532,
+    "longitude": 1.7474004
+  },
+  {
+    "id": 5588,
+    "name": "Hartsdown Park",
+    "city": "Margate",
+    "capacity": 2100,
+    "latitude": 51.3826008,
+    "longitude": 1.3726285
+  },
+  {
+    "id": 5589,
+    "name": "The Proctor Cars Stadium",
+    "city": "Matlock",
+    "capacity": 2757,
+    "latitude": 53.1181755,
+    "longitude": -1.4539949
+  },
+  {
+    "id": 10651,
+    "name": "Penydarren Park",
+    "city": "Merthyr Tydfil",
+    "capacity": 5000,
+    "latitude": 51.7524015,
+    "longitude": -3.3761609
+  },
+  {
+    "id": 5591,
+    "name": "Don Amott Leisure Group Arena",
+    "city": "Derby",
+    "capacity": 1500,
+    "latitude": 52.8692206,
+    "longitude": -1.6224059
+  },
+  {
+    "id": 5592,
+    "name": "Craik Park",
+    "city": "Morpeth",
+    "capacity": 1637,
+    "latitude": 55.1556155,
+    "longitude": -1.7098148
+  },
+  {
+    "id": 21327,
+    "name": "Ecologic Stadium at Bloomfields",
+    "city": "Needham Market",
+    "capacity": 4000,
+    "latitude": 52.15054319999999,
+    "longitude": 1.0455646
+  },
+  {
+    "id": 5595,
+    "name": "Lincoln Road",
+    "city": "Peterborough",
+    "capacity": 1000,
+    "latitude": 52.5887655,
+    "longitude": -0.2485986
+  },
+  {
+    "id": 10652,
+    "name": "Tatnam Ground",
+    "city": "Poole",
+    "capacity": 2000,
+    "latitude": 50.7282419,
+    "longitude": -1.9841184
+  },
+  {
+    "id": 5597,
+    "name": "The Pakex Stadium",
+    "city": "Potters Bar",
+    "capacity": 2500,
+    "latitude": 51.6960875,
+    "longitude": -0.1789598
+  },
+  {
+    "id": 10661,
+    "name": "Neuven Stadium",
+    "city": "Radcliffe",
+    "capacity": 3100,
+    "latitude": 53.5672381,
+    "longitude": -2.3406105
+  },
+  {
+    "id": 5599,
+    "name": "The Valley Stadium",
+    "city": "Redditch",
+    "capacity": 5000,
+    "latitude": 52.307463,
+    "longitude": -1.9515474
+  },
+  {
+    "id": 10662,
+    "name": "Garden Walk",
+    "city": "Royston",
+    "capacity": 4000,
+    "latitude": 52.0527877,
+    "longitude": -0.0138941
+  },
+  {
+    "id": 5601,
+    "name": "Dales Lane",
+    "city": "Walsall",
+    "capacity": 1400,
+    "latitude": 52.6019571,
+    "longitude": -1.9514094
+  },
+  {
+    "id": 5602,
+    "name": "The Raymond McEnhill Stadium",
+    "city": "Salisbury",
+    "capacity": 5000,
+    "latitude": 51.1042372,
+    "longitude": -1.7857019
+  },
+  {
+    "id": 5603,
+    "name": "Flamingo Land Stadium",
+    "city": "Scarborough",
+    "capacity": 3392,
+    "latitude": 54.2694103,
+    "longitude": -0.4133672
+  },
+  {
+    "id": 19711,
+    "name": "1st Cloud Arena",
+    "city": "South Shields",
+    "capacity": 7000,
+    "latitude": 54.97403569999999,
+    "longitude": -1.469693
+  },
+  {
+    "id": 10663,
+    "name": "Westwood Road",
+    "city": "St Ives",
+    "capacity": 2000,
+    "latitude": 52.3286509,
+    "longitude": -0.08057249999999999
+  },
+  {
+    "id": 21977,
+    "name": "The Stan Robinson Stadium",
+    "city": "Stafford",
+    "capacity": 4150,
+    "latitude": 52.81928749999999,
+    "longitude": -2.116688
+  },
+  {
+    "id": 5607,
+    "name": "Bower Fold",
+    "city": "Stalybridge",
+    "capacity": 6500,
+    "latitude": 53.47519639999999,
+    "longitude": -2.0419021
+  },
+  {
+    "id": 5608,
+    "name": "The Arden Garages Stadium",
+    "city": "Stratford-upon-Avon",
+    "capacity": 2800,
+    "latitude": 52.19853089999999,
+    "longitude": -1.7241764
+  },
+  {
+    "id": 5609,
+    "name": "The Webbs Wood Stadium",
+    "city": "Swindon",
+    "capacity": 3000,
+    "latitude": 51.6051769,
+    "longitude": -1.730109
+  },
+  {
+    "id": 5610,
+    "name": "The Lamb Ground",
+    "city": "Tamworth",
+    "capacity": 4065,
+    "latitude": 52.6287684,
+    "longitude": -1.6890837
+  },
+  {
+    "id": 5611,
+    "name": "Ladysmead",
+    "city": "Tiverton",
+    "capacity": 3500,
+    "latitude": 50.9092254,
+    "longitude": -3.4893372
+  },
+  {
+    "id": 5612,
+    "name": "Broadhurst Park",
+    "city": "Manchester",
+    "capacity": 4400,
+    "latitude": 53.51659129999999,
+    "longitude": -2.1804694
+  },
+  {
+    "id": 21328,
+    "name": "Cal.Delivery Stadium",
+    "city": "Latchford",
+    "capacity": 3500,
+    "latitude": 53.377039,
+    "longitude": -2.5698701
+  },
+  {
+    "id": 21329,
+    "name": "Towbar Express Stadium at the Turnbull Ground",
+    "city": "Whitby",
+    "capacity": 3200,
+    "latitude": 54.490188,
+    "longitude": -0.6281702
+  },
+  {
+    "id": 10653,
+    "name": "The Cuthbury Stadium",
+    "city": "Wimborne Minster",
+    "capacity": 3250,
+    "latitude": 50.7952156,
+    "longitude": -1.9646567
+  },
+  {
+    "id": 5617,
+    "name": "The Maurice Rebak Stadium",
+    "city": "London",
+    "capacity": 1500,
+    "latitude": 51.607473,
+    "longitude": -0.1706995
+  },
+  {
+    "id": 21978,
+    "name": "U-Lock It Stadium",
+    "city": "Northwich",
+    "capacity": 4813,
+    "latitude": 53.2710535,
+    "longitude": -2.4884422
+  },
+  {
+    "id": 20346,
+    "name": "Sussex Transport Community Stadium",
+    "city": "Worthing",
+    "capacity": 4000,
+    "latitude": 50.8212152,
+    "longitude": -0.335894
+  },
+  {
+    "id": 10654,
+    "name": "The Jelf Stadium",
+    "city": "Yate",
+    "capacity": 6745,
+    "latitude": 51.549342,
+    "longitude": -2.4386819
+  },
+  {
+    "id": 12199,
+    "name": "Len Salmon Stadium",
+    "city": "Basildon",
+    "capacity": 2661,
+    "latitude": 51.5736313,
+    "longitude": 0.5187725
+  },
+  {
+    "id": 12133,
+    "name": "The Jakemans Community Stadium",
+    "city": "Boston",
+    "capacity": 5000,
+    "latitude": 52.9557656,
+    "longitude": -0.0289756
+  },
+  {
+    "id": 5770,
+    "name": "Hardenhuish Park",
+    "city": "Chippenham",
+    "capacity": 2815,
+    "latitude": 51.465442,
+    "longitude": -2.1294255
+  },
+  {
+    "id": 5772,
+    "name": "Champion Hill Stadium",
+    "city": "London",
+    "capacity": 3336,
+    "latitude": 51.461247,
+    "longitude": -0.08400479999999999
+  },
+  {
+    "id": 6181,
+    "name": "Croft Park",
+    "city": "Blyth",
+    "capacity": 4450,
+    "latitude": 55.1208368,
+    "longitude": -1.511342
+  },
+  {
+    "id": 6182,
+    "name": "Horsfall Stadium",
+    "city": "Bradford",
+    "capacity": 5000,
+    "latitude": 53.7588788,
+    "longitude": -1.7761853
+  },
+  {
+    "id": 11964,
+    "name": "New Meadow Park",
+    "city": "Gloucester",
+    "capacity": 4000,
+    "latitude": 51.860476,
+    "longitude": -2.2614743
+  },
+  {
+    "id": 6184,
+    "name": "Latimer Park",
+    "city": "Kettering",
+    "capacity": 1500,
+    "latitude": 52.3609995,
+    "longitude": -0.6957833999999999
+  },
+  {
+    "id": 6185,
+    "name": "The Walks",
+    "city": "King&apos;s Lynn",
+    "capacity": 5733,
+    "latitude": 52.7515996,
+    "longitude": 0.4065971
+  },
+  {
+    "id": 21330,
+    "name": "Your Co-op Community Stadium",
+    "city": "Royal Leamington Spa",
+    "capacity": 2300,
+    "latitude": 52.2442875,
+    "longitude": -1.5049563
+  },
+  {
+    "id": 6187,
+    "name": "Twerton Park Stadium",
+    "city": "Bath",
+    "capacity": 8840,
+    "latitude": 51.3788205,
+    "longitude": -2.3951602
+  },
+  {
+    "id": 11965,
+    "name": "The Aspect Arena",
+    "city": "Canvey Island",
+    "capacity": 3300,
+    "latitude": 51.5126138,
+    "longitude": 0.5755739999999999
+  },
+  {
+    "id": 6189,
+    "name": "Meadowbank Stadium",
+    "city": "Dorking",
+    "capacity": 3732,
+    "latitude": 51.2344052,
+    "longitude": -0.3333982
+  },
+  {
+    "id": 21331,
+    "name": "Focus Community Arena",
+    "city": "Hemel Hempstead",
+    "capacity": 3152,
+    "latitude": 51.7537752,
+    "longitude": -0.4442113
+  },
+  {
+    "id": 6191,
+    "name": "Bulpit Lane",
+    "city": "Hungerford",
+    "capacity": 2500,
+    "latitude": 51.4084791,
+    "longitude": -1.5156209
+  },
+  {
+    "id": 6192,
+    "name": "Longmead Stadium",
+    "city": "Tonbridge",
+    "capacity": 3000,
+    "latitude": 51.2115533,
+    "longitude": 0.2699658
+  },
+  {
+    "id": 6193,
+    "name": "Grosvenor Vale",
+    "city": "Ruislip",
+    "capacity": 3607,
+    "latitude": 51.5694094,
+    "longitude": -0.4166042
+  },
+  {
+    "id": 20434,
+    "name": "J Hearnden Skip Hire Community Stadium",
+    "city": "Welling",
+    "capacity": 5500,
+    "latitude": 51.4812111,
+    "longitude": 0.2105292
+  },
+  {
+    "id": 6195,
+    "name": "Bob Lucas Stadium",
+    "city": "Weymouth",
+    "capacity": 6600,
+    "latitude": 50.6198856,
+    "longitude": -2.4853152
+  },
+  {
+    "id": 6196,
+    "name": "Townfield Lane",
+    "city": "Northwich",
+    "capacity": 1000,
+    "latitude": 53.27507000000001,
+    "longitude": -2.549927
+  },
+  {
+    "id": 11680,
+    "name": "The Mayfield Stadium",
+    "city": "London",
+    "capacity": 1500,
+    "latitude": 51.393109,
+    "longitude": -0.127067
+  },
+  {
+    "id": 5497,
+    "name": "Berry Street Garage Stadium",
+    "city": "Bootle",
+    "capacity": 2500,
+    "latitude": 53.4713646,
+    "longitude": -2.9605908
+  },
+  {
+    "id": 6198,
+    "name": "Forest Town Stadium",
+    "city": "Mansfield",
+    "capacity": 500,
+    "latitude": 53.1522252,
+    "longitude": -1.1621365
+  },
+  {
+    "id": 18814,
+    "name": "The OnSite Group Stadium",
+    "city": "Portchester",
+    "capacity": 1000,
+    "latitude": 50.8438556,
+    "longitude": -1.1483167
+  },
+  {
+    "id": 11682,
+    "name": "Stoneham Lane Football Complex",
+    "city": "Eastleigh",
+    "capacity": 1000,
+    "latitude": 50.948595,
+    "longitude": -1.3742783
+  },
+  {
+    "id": 20876,
+    "name": "Prestige Midlands Arena",
+    "city": "Wolverhampton",
+    "capacity": 2000,
+    "latitude": 52.5882268,
+    "longitude": -2.1261111
+  },
+  {
+    "id": 21332,
+    "name": "The Abbey Stadium",
+    "city": "Gorton",
+    "capacity": 1000,
+    "latitude": 53.4548912,
+    "longitude": -2.1664481
+  },
+  {
+    "id": 11684,
+    "name": "Addlestone Moor",
+    "city": "Addlestone",
+    "capacity": 1000,
+    "latitude": 51.38149019999999,
+    "longitude": -0.4905174
+  },
+  {
+    "id": 20877,
+    "name": "DH PROPERTY SERVICES STADIUM",
+    "city": "Andover",
+    "capacity": 1000,
+    "latitude": 51.2319638,
+    "longitude": -1.5008461
+  },
+  {
+    "id": 11687,
+    "name": "Cropston Road",
+    "city": "Leicester",
+    "capacity": 2000,
+    "latitude": 52.6823729,
+    "longitude": -1.1783057
+  },
+  {
+    "id": 11688,
+    "name": "The Playing Fields",
+    "city": "Ardley",
+    "capacity": 1000,
+    "latitude": 51.94486819999999,
+    "longitude": -1.2111501
+  },
+  {
+    "id": 6200,
+    "name": "Armadillo Stadium",
+    "city": "Arlesey",
+    "capacity": 2920,
+    "latitude": 52.0011564,
+    "longitude": -0.2654882
+  },
+  {
+    "id": 11689,
+    "name": "Ascot Racecourse",
+    "city": "Ascot",
+    "capacity": 1150,
+    "latitude": 51.412167,
+    "longitude": -0.6794846999999999
+  },
+  {
+    "id": 18815,
+    "name": "The dwmedia Stadium",
+    "city": "Ashington",
+    "capacity": 2000,
+    "latitude": 55.127418,
+    "longitude": -1.5023563
+  },
+  {
+    "id": 20878,
+    "name": "Gam Civils Stadium",
+    "city": "Atherstone",
+    "capacity": 3500,
+    "latitude": 52.5787442,
+    "longitude": -1.5498005
+  },
+  {
+    "id": 6203,
+    "name": "Vestacare Stadium",
+    "city": "Oldham",
+    "capacity": 1500,
+    "latitude": 53.5193162,
+    "longitude": -2.1226197
+  },
+  {
+    "id": 11691,
+    "name": "The Greenfleets Stadium",
+    "city": "Aylesbury",
+    "capacity": 1300,
+    "latitude": 51.8304892,
+    "longitude": -0.8429213
+  },
+  {
+    "id": 11692,
+    "name": "Westfield Lane Stadium",
+    "city": "Wrecclesham",
+    "capacity": 1000,
+    "latitude": 51.1973022,
+    "longitude": -0.8227268999999999
+  },
+  {
+    "id": 11693,
+    "name": "PMC Stadium",
+    "city": "Portsmouth",
+    "capacity": 1000,
+    "latitude": 50.8239115,
+    "longitude": -1.0433849
+  },
+  {
+    "id": 6205,
+    "name": "Silentnight Stadium",
+    "city": "Barnoldswick",
+    "capacity": 1500,
+    "latitude": 53.92435150000001,
+    "longitude": -2.1896329
+  },
+  {
+    "id": 20879,
+    "name": "Easy Buy Stadium",
+    "city": "Barton-upon-Humber",
+    "capacity": 1500,
+    "latitude": 53.6900297,
+    "longitude": -0.4350437
+  },
+  {
+    "id": 21980,
+    "name": "The Veho Community Stadium",
+    "city": "Bashley",
+    "capacity": 4250,
+    "latitude": 50.7726848,
+    "longitude": -1.658332
+  },
+  {
+    "id": 18816,
+    "name": "Otham Sports Ground",
+    "city": "Otham",
+    "capacity": 1000,
+    "latitude": 51.2450533,
+    "longitude": 0.5715129999999999
+  },
+  {
+    "id": 6207,
+    "name": "Eden Park Avenue",
+    "city": "Beckenham",
+    "capacity": 4000,
+    "latitude": 51.39657680000001,
+    "longitude": -0.033405
+  },
+  {
+    "id": 18967,
+    "name": "Westwood Recreation Ground",
+    "city": "Salisbury",
+    "capacity": 2500,
+    "latitude": 51.0815668,
+    "longitude": -1.8335333
+  },
+  {
+    "id": 19848,
+    "name": "Priory Lane",
+    "city": "Eastbourne",
+    "capacity": 1000,
+    "latitude": 50.80557090000001,
+    "longitude": 0.3183885
+  },
+  {
+    "id": 20880,
+    "name": "Verdant Stadium",
+    "city": "Biggleswade",
+    "capacity": 2000,
+    "latitude": 52.0945426,
+    "longitude": -0.2663309
+  },
+  {
+    "id": 21981,
+    "name": "The Iconic Stadium",
+    "city": "Binfield",
+    "capacity": 1000,
+    "latitude": 51.4404157,
+    "longitude": -0.7766738999999999
+  },
+  {
+    "id": 7734,
+    "name": "Heritage Park",
+    "city": "Bishop Auckland",
+    "capacity": 2004,
+    "latitude": 54.6381655,
+    "longitude": -1.6936487
+  },
+  {
+    "id": 6208,
+    "name": "Kayte Lane",
+    "city": "Bishop&apos;s Cleeve",
+    "capacity": 1500,
+    "latitude": 51.9376659,
+    "longitude": -2.0570324
+  },
+  {
+    "id": 21982,
+    "name": "The Amber Arena and Community Stadium",
+    "city": "Sutton Coldfield",
+    "capacity": 2500,
+    "latitude": 52.5416095,
+    "longitude": -1.8418006
+  },
+  {
+    "id": 21983,
+    "name": "Barrett Steel Stadium",
+    "city": "Scunthorpe",
+    "capacity": 1000,
+    "latitude": 53.5726998,
+    "longitude": -0.621881
+  },
+  {
+    "id": 11703,
+    "name": "Victoria Park",
+    "city": "Bournemouth",
+    "capacity": 3000,
+    "latitude": 50.7465831,
+    "longitude": -1.8863508
+  },
+  {
+    "id": 11705,
+    "name": "Brantham Leisure Centre",
+    "city": "Brantham",
+    "capacity": 1200,
+    "latitude": 51.9586246,
+    "longitude": 1.059355
+  },
+  {
+    "id": 6209,
+    "name": "Fairfax Park",
+    "city": "Bridgwater",
+    "capacity": 2500,
+    "latitude": 51.1328979,
+    "longitude": -2.9855469
+  },
+  {
+    "id": 12168,
+    "name": "The Neil Hudgell Law Stadium",
+    "city": "Bridlington",
+    "capacity": 2740,
+    "latitude": 53.7396075,
+    "longitude": -0.3324117
+  },
+  {
+    "id": 11707,
+    "name": "Brimscombe & Thrupp FC Ground",
+    "city": "Stroud",
+    "capacity": 1000,
+    "latitude": 51.7219543,
+    "longitude": -2.1952955
+  },
+  {
+    "id": 11708,
+    "name": "Brislington Stadium",
+    "city": "Brislington",
+    "capacity": 3000,
+    "latitude": 51.42913430000001,
+    "longitude": -2.5258636
+  },
+  {
+    "id": 21984,
+    "name": "The BodyMould Mattresses Stadium",
+    "city": "Horsham",
+    "capacity": 1000,
+    "latitude": 51.1165811,
+    "longitude": -0.2888481
+  },
+  {
+    "id": 11710,
+    "name": "Rayners Lane",
+    "city": "London",
+    "capacity": 1000,
+    "latitude": 51.5762173,
+    "longitude": -0.3702536
+  },
+  {
+    "id": 11711,
+    "name": "Meadens Skoda Arena",
+    "city": "Brockenhurst",
+    "capacity": 2000,
+    "latitude": 50.8177213,
+    "longitude": -1.5766034
+  },
+  {
+    "id": 11712,
+    "name": "Homers Heath",
+    "city": "Newton Abbot",
+    "capacity": 1000,
+    "latitude": 50.5137017,
+    "longitude": -3.5957328
+  },
+  {
+    "id": 12169,
+    "name": "Birds Close",
+    "city": "Bugbrooke",
+    "capacity": 2000,
+    "latitude": 52.2057844,
+    "longitude": -1.0035968
+  },
+  {
+    "id": 19849,
+    "name": "The 1878 Stadium",
+    "city": "Burnham",
+    "capacity": 2500,
+    "latitude": 51.5380397,
+    "longitude": -0.6674173000000001
+  },
+  {
+    "id": 18817,
+    "name": "The Community Ground",
+    "city": "Burscough",
+    "capacity": 1500,
+    "latitude": 53.6056012,
+    "longitude": -2.8472791
+  },
+  {
+    "id": 11715,
+    "name": "Krooner Park",
+    "city": "Camberley",
+    "capacity": 2500,
+    "latitude": 51.3269832,
+    "longitude": -0.7556991
+  },
+  {
+    "id": 21985,
+    "name": "Anytime Couriers Stadium",
+    "city": "Bradford",
+    "capacity": 1000,
+    "latitude": 53.79011240000001,
+    "longitude": -1.8770356
+  },
+  {
+    "id": 6212,
+    "name": "Mossie Park",
+    "city": "Charnock Richard",
+    "capacity": 1500,
+    "latitude": 53.6325503,
+    "longitude": -2.6717507
+  },
+  {
+    "id": 18818,
+    "name": "Bauvill Stadium",
+    "city": "Chatham",
+    "capacity": 2000,
+    "latitude": 51.36844499999999,
+    "longitude": 0.5205719
+  },
+  {
+    "id": 11717,
+    "name": "Hurn Bridge Sports Ground",
+    "city": "Christchurch",
+    "capacity": 2000,
+    "latitude": 50.77292139999999,
+    "longitude": -1.8188603
+  },
+  {
+    "id": 11718,
+    "name": "The Rush Green Bowl",
+    "city": "Clacton-on-Sea",
+    "capacity": 1500,
+    "latitude": 51.7925188,
+    "longitude": 1.1258427
+  },
+  {
+    "id": 20347,
+    "name": "Everyone Active Stadium",
+    "city": "Clevedon",
+    "capacity": 3900,
+    "latitude": 51.4229018,
+    "longitude": -2.8361748
+  },
+  {
+    "id": 21986,
+    "name": "The Reg Madgwick Stadium",
+    "city": "Cobham",
+    "capacity": 2000,
+    "latitude": 51.328122,
+    "longitude": -0.4133642
+  },
+  {
+    "id": 11721,
+    "name": "Cockfosters Sport Ground",
+    "city": "London",
+    "capacity": 1000,
+    "latitude": 51.6532968,
+    "longitude": -0.1521995
+  },
+  {
+    "id": 11723,
+    "name": "The Recreation Ground",
+    "city": "Colney Heath",
+    "capacity": 1000,
+    "latitude": 51.7522622,
+    "longitude": -0.314088
+  },
+  {
+    "id": 19850,
+    "name": "The Cleric Stadium",
+    "city": "Congleton",
+    "capacity": 1450,
+    "latitude": 53.16230849999999,
+    "longitude": -2.2210637
+  },
+  {
+    "id": 11724,
+    "name": "Belle Vue Park",
+    "city": "Consett",
+    "capacity": 4000,
+    "latitude": 54.85742450000001,
+    "longitude": -1.8424704
+  },
+  {
+    "id": 11966,
+    "name": "Corinthian Sports Club",
+    "city": "Longfield",
+    "capacity": 1000,
+    "latitude": 51.3829542,
+    "longitude": 0.2951332
+  },
+  {
+    "id": 6216,
+    "name": "Sphinx Drive",
+    "city": "Coventry",
+    "capacity": 1000,
+    "latitude": 52.4027517,
+    "longitude": -1.4758082
+  },
+  {
+    "id": 11725,
+    "name": "Butts Park Arena",
+    "city": "Coventry",
+    "capacity": 3000,
+    "latitude": 52.4483481,
+    "longitude": -1.4966347
+  },
+  {
+    "id": 21333,
+    "name": "The Zilch Waste Stadium",
+    "city": "Cowes",
+    "capacity": 500,
+    "latitude": 50.7579883,
+    "longitude": -1.3087718
+  },
+  {
+    "id": 6217,
+    "name": "The Haven Sportsfield",
+    "city": "Crawley Down",
+    "capacity": 1500,
+    "latitude": 51.1266944,
+    "longitude": -0.0759445
+  },
+  {
+    "id": 11727,
+    "name": "The Brache",
+    "city": "Luton",
+    "capacity": 1000,
+    "latitude": 51.8734906,
+    "longitude": -0.402066
+  },
+  {
+    "id": 11728,
+    "name": "The Lawns",
+    "city": "Bristol",
+    "capacity": 1000,
+    "latitude": 51.5431391,
+    "longitude": -2.4124893
+  },
+  {
+    "id": 11729,
+    "name": "Crowborough Community Stadium",
+    "city": "Crowborough",
+    "capacity": 2000,
+    "latitude": 51.0427573,
+    "longitude": 0.1671499
+  },
+  {
+    "id": 11730,
+    "name": "The Charles Sports Ground",
+    "city": "Deal",
+    "capacity": 1000,
+    "latitude": 51.2167282,
+    "longitude": 1.3892627
+  },
+  {
+    "id": 11731,
+    "name": "Deeping Sports Club",
+    "city": "Market Deeping",
+    "capacity": 2000,
+    "latitude": 52.6883401,
+    "longitude": -0.3073905
+  },
+  {
+    "id": 11733,
+    "name": "Addison Road",
+    "city": "Banbury",
+    "capacity": 1000,
+    "latitude": 52.04797569999999,
+    "longitude": -1.3392759
+  },
+  {
+    "id": 6218,
+    "name": "The Saffrons Football Ground",
+    "city": "Eastbourne",
+    "capacity": 4500,
+    "latitude": 50.7660813,
+    "longitude": 0.2769717
+  },
+  {
+    "id": 11735,
+    "name": "The Oval",
+    "city": "Eastbourne",
+    "capacity": 4100,
+    "latitude": 50.77728519999999,
+    "longitude": 0.3056192
+  },
+  {
+    "id": 11736,
+    "name": "Mitton Group Stadium",
+    "city": "Wrose Bradford",
+    "capacity": 2225,
+    "latitude": 53.7555173,
+    "longitude": -1.7601888
+  },
+  {
+    "id": 6219,
+    "name": "The Runnymede Stadium",
+    "city": "Egham",
+    "capacity": 1565,
+    "latitude": 51.4271683,
+    "longitude": -0.5324633
+  },
+  {
+    "id": 11737,
+    "name": "The Unwin Ground",
+    "city": "Ely",
+    "capacity": 2000,
+    "latitude": 52.4107411,
+    "longitude": 0.2465943
+  },
+  {
+    "id": 21987,
+    "name": "Acclaim Handling Community Stadium",
+    "city": "Welling",
+    "capacity": 5500,
+    "latitude": 51.4608477,
+    "longitude": 0.1173666
+  },
+  {
+    "id": 11858,
+    "name": "Bayliss Avenue",
+    "city": "London",
+    "capacity": 6000,
+    "latitude": 51.506804,
+    "longitude": 0.1282586
+  },
+  {
+    "id": 11738,
+    "name": "King George V Ground",
+    "city": "Exmouth",
+    "capacity": 1000,
+    "latitude": 50.6274731,
+    "longitude": -3.4141671
+  },
+  {
+    "id": 11739,
+    "name": "The Alfred Hall Memorial Ground",
+    "city": "Eynesbury",
+    "capacity": 1000,
+    "latitude": 52.2175754,
+    "longitude": -0.2688898
+  },
+  {
+    "id": 21988,
+    "name": "The Acorn Property Stadium",
+    "city": "Fairford",
+    "capacity": 1500,
+    "latitude": 51.707452,
+    "longitude": -1.7676749
+  },
+  {
+    "id": 12170,
+    "name": "Clipbush Park",
+    "city": "Fakenham",
+    "capacity": 2000,
+    "latitude": 52.8401598,
+    "longitude": 0.869572
+  },
+  {
+    "id": 11741,
+    "name": "Cams Alders Stadium",
+    "city": "Fareham",
+    "capacity": 5500,
+    "latitude": 50.8456039,
+    "longitude": -1.1914745
+  },
+  {
+    "id": 12171,
+    "name": "The Memorial Ground Farnham",
+    "city": "Farnham",
+    "capacity": 1500,
+    "latitude": 51.2115237,
+    "longitude": -0.8062771
+  },
+  {
+    "id": 11742,
+    "name": "St Pauls’ Sports Ground",
+    "city": "London",
+    "capacity": 1000,
+    "latitude": 51.5061507,
+    "longitude": -0.0401731
+  },
+  {
+    "id": 11743,
+    "name": "Wilks Park",
+    "city": "Flackwell Heath",
+    "capacity": 1000,
+    "latitude": 51.6040147,
+    "longitude": -0.713177
+  },
+  {
+    "id": 21334,
+    "name": "Easy As HGV Stadium",
+    "city": "Fleet",
+    "capacity": 2000,
+    "latitude": 51.298466,
+    "longitude": -0.8231959
+  },
+  {
+    "id": 21335,
+    "name": "Bannister Prentice Community Stadium",
+    "city": "Garforth",
+    "capacity": 3000,
+    "latitude": 53.7992168,
+    "longitude": -1.3619685
+  },
+  {
+    "id": 11745,
+    "name": "Foxbury Avenue",
+    "city": "Chiselhurst",
+    "capacity": 1000,
+    "latitude": 51.4169993,
+    "longitude": 0.08163310000000001
+  },
+  {
+    "id": 11746,
+    "name": "Bearscroft Lane",
+    "city": "Godmanchester",
+    "capacity": 1050,
+    "latitude": 52.3101791,
+    "longitude": -0.1589109
+  },
+  {
+    "id": 6224,
+    "name": "Victoria Pleasure Grounds",
+    "city": "Goole",
+    "capacity": 3000,
+    "latitude": 53.70350260000001,
+    "longitude": -0.8810606
+  },
+  {
+    "id": 11747,
+    "name": "Emerald Park",
+    "city": "Gorleston-On-Sea",
+    "capacity": 3000,
+    "latitude": 52.5668783,
+    "longitude": 1.7086637
+  },
+  {
+    "id": 21336,
+    "name": "Wellesley Recreation Ground",
+    "city": "Great Yarmouth",
+    "capacity": 4000,
+    "latitude": 52.6126124,
+    "longitude": 1.7361909
+  },
+  {
+    "id": 6225,
+    "name": "The Moat Ground",
+    "city": "Church Gresley",
+    "capacity": 2400,
+    "latitude": 52.7621441,
+    "longitude": -1.563525
+  },
+  {
+    "id": 11748,
+    "name": "Bradley Community Stadium",
+    "city": "Grimsby",
+    "capacity": 1000,
+    "latitude": 53.5465082,
+    "longitude": -0.1231326
+  },
+  {
+    "id": 6226,
+    "name": "Guildford Spectrum Stadium",
+    "city": "Guildford",
+    "capacity": 1135,
+    "latitude": 51.2494169,
+    "longitude": -0.5622614
+  },
+  {
+    "id": 11749,
+    "name": "King George V Ground",
+    "city": "Guisborough",
+    "capacity": 3500,
+    "latitude": 54.5374873,
+    "longitude": -1.0662404
+  },
+  {
+    "id": 11750,
+    "name": "Millfield",
+    "city": "Hadleigh",
+    "capacity": 3000,
+    "latitude": 52.0394065,
+    "longitude": 0.9539143999999999
+  },
+  {
+    "id": 11751,
+    "name": "Hadley Sports Ground",
+    "city": "London",
+    "capacity": 1000,
+    "latitude": 52.4827199,
+    "longitude": -1.9644523
+  },
+  {
+    "id": 18968,
+    "name": "Sandygate Road",
+    "city": "Sheffield",
+    "capacity": 1000,
+    "latitude": 53.3771581,
+    "longitude": -1.5294377
+  },
+  {
+    "id": 20885,
+    "name": "Milbank Stadium",
+    "city": "Halstead",
+    "capacity": 1000,
+    "latitude": 51.9463978,
+    "longitude": 0.6327898
+  },
+  {
+    "id": 11753,
+    "name": "The Abbey",
+    "city": "Hamble-le-Rice",
+    "capacity": 1000,
+    "latitude": 50.8588849,
+    "longitude": -1.3201058
+  },
+  {
+    "id": 21990,
+    "name": "Express Worktops Stadium at Handsworth Junior Sporting Club",
+    "city": "Sheffield",
+    "capacity": 1000,
+    "latitude": 53.3839179,
+    "longitude": -1.3940389
+  },
+  {
+    "id": 11756,
+    "name": "Rectory Meadow",
+    "city": "Hanworth",
+    "capacity": 600,
+    "latitude": 51.43301169999999,
+    "longitude": -0.3964867
+  },
+  {
+    "id": 11757,
+    "name": "Bowden Park",
+    "city": "Market Harborough",
+    "capacity": 1000,
+    "latitude": 52.4864646,
+    "longitude": -0.9102674
+  },
+  {
+    "id": 11758,
+    "name": "Preston Park",
+    "city": "London",
+    "capacity": 1500,
+    "latitude": 51.5710078,
+    "longitude": -0.3027973
+  },
+  {
+    "id": 11759,
+    "name": "Rothamsted Park",
+    "city": "Harpenden",
+    "capacity": 1000,
+    "latitude": 51.8119549,
+    "longitude": -0.3605304
+  },
+  {
+    "id": 11760,
+    "name": "The Beacon Ground",
+    "city": "Hassocks",
+    "capacity": 1500,
+    "latitude": 50.9195188,
+    "longitude": -0.1505614
+  },
+  {
+    "id": 12172,
+    "name": "The Town Ground",
+    "city": "Heanor",
+    "capacity": 1000,
+    "latitude": 53.01096760000001,
+    "longitude": -1.3571921
+  },
+  {
+    "id": 11764,
+    "name": "The Energy Check Sports Ground",
+    "city": "Hebburn",
+    "capacity": 1500,
+    "latitude": 54.9671907,
+    "longitude": -1.5248669
+  },
+  {
+    "id": 11768,
+    "name": "Star Meadow Sports Club",
+    "city": "Gillingham",
+    "capacity": 1000,
+    "latitude": 51.371226,
+    "longitude": 0.5616795
+  },
+  {
+    "id": 11770,
+    "name": "The New Defence",
+    "city": "Horley",
+    "capacity": 2000,
+    "latitude": 51.1755545,
+    "longitude": -0.1812704
+  },
+  {
+    "id": 11771,
+    "name": "Five Heads Park",
+    "city": "Horndean",
+    "capacity": 1000,
+    "latitude": 50.9160783,
+    "longitude": -1.0047049
+  },
+  {
+    "id": 6229,
+    "name": "Gorings Mead",
+    "city": "Horsham",
+    "capacity": 1500,
+    "latitude": 51.05821340000001,
+    "longitude": -0.3217147
+  },
+  {
+    "id": 18689,
+    "name": "Hythe Garage Stadium",
+    "city": "Dibden",
+    "capacity": 1000,
+    "latitude": 50.8682242,
+    "longitude": -1.420761
+  },
+  {
+    "id": 6204,
+    "name": "Cricklefield Stadium",
+    "city": "Ilford",
+    "capacity": 3500,
+    "latitude": 51.5627368,
+    "longitude": 0.0910334
+  },
+  {
+    "id": 21992,
+    "name": "The Silver Street Stadium",
+    "city": "Salford",
+    "capacity": 500,
+    "latitude": 53.4574764,
+    "longitude": -2.4137816
+  },
+  {
+    "id": 11775,
+    "name": "Walmer Road",
+    "city": "Kirkley",
+    "capacity": 1500,
+    "latitude": 52.4581002,
+    "longitude": 1.7295271
+  },
+  {
+    "id": 11776,
+    "name": "Redding Way",
+    "city": "Knaphill",
+    "capacity": 1000,
+    "latitude": 51.3129657,
+    "longitude": -0.6213375999999999
+  },
+  {
+    "id": 21993,
+    "name": "The Hummel Stadium",
+    "city": "Knaresborough",
+    "capacity": 1000,
+    "latitude": 54.0042318,
+    "longitude": -1.4508918
+  },
+  {
+    "id": 11778,
+    "name": "Culver Road",
+    "city": "Lancing",
+    "capacity": 2000,
+    "latitude": 50.82908949999999,
+    "longitude": -0.3234222
+  },
+  {
+    "id": 11779,
+    "name": "Hamilton Park",
+    "city": "Leicester",
+    "capacity": 1000,
+    "latitude": 52.65969219999999,
+    "longitude": -1.0741783
+  },
+  {
+    "id": 12135,
+    "name": "The Greene King Stadium (De Montfort Park)",
+    "city": "Hinckley",
+    "capacity": 4329,
+    "latitude": 52.5587272,
+    "longitude": -1.3406313
+  },
+  {
+    "id": 21994,
+    "name": "Freed Veneers Community Stadium",
+    "city": "Leighton Buzzard",
+    "capacity": 2800,
+    "latitude": 51.9056238,
+    "longitude": -0.6634540999999999
+  },
+  {
+    "id": 19238,
+    "name": "The LORDS Builders Merchants Stadium",
+    "city": "Hemel Hempstead",
+    "capacity": 1500,
+    "latitude": 51.7576899,
+    "longitude": -0.4342126
+  },
+  {
+    "id": 18820,
+    "name": "Trade Tyre Community Stadium",
+    "city": "Lichfield",
+    "capacity": 1000,
+    "latitude": 52.6388128,
+    "longitude": -1.8502746
+  },
+  {
+    "id": 6232,
+    "name": "Litherland Sports Park",
+    "city": "Liverpool",
+    "capacity": 1000,
+    "latitude": 53.4780792,
+    "longitude": -2.9868498
+  },
+  {
+    "id": 19853,
+    "name": "Little Common Recreation Ground",
+    "city": "Bexhill",
+    "capacity": 1000,
+    "latitude": 50.84811939999999,
+    "longitude": 0.4394663
+  },
+  {
+    "id": 11967,
+    "name": "Clayborn Stadium",
+    "city": "Cleckheaton",
+    "capacity": 2200,
+    "latitude": 53.7171861,
+    "longitude": -1.7131678
+  },
+  {
+    "id": 11783,
+    "name": "Grange Park",
+    "city": "Long Eaton",
+    "capacity": 1500,
+    "latitude": 52.8966941,
+    "longitude": -1.2539731
+  },
+  {
+    "id": 11784,
+    "name": "Stoneylands",
+    "city": "Long Melford",
+    "capacity": 1000,
+    "latitude": 52.07570690000001,
+    "longitude": 0.7125024
+  },
+  {
+    "id": 11785,
+    "name": "Saw Mills End",
+    "city": "Gloucester",
+    "capacity": 500,
+    "latitude": 51.8642206,
+    "longitude": -2.2100046
+  },
+  {
+    "id": 21995,
+    "name": "Inglewhite Road",
+    "city": "Longridge",
+    "capacity": 1000,
+    "latitude": 53.84567149999999,
+    "longitude": -2.6442821
+  },
+  {
+    "id": 11786,
+    "name": "Martyn Grove",
+    "city": "Chatham",
+    "capacity": 2000,
+    "latitude": 51.3404137,
+    "longitude": 0.5478044
+  },
+  {
+    "id": 11120,
+    "name": "Loughborough University Football Stadium",
+    "city": "Loughborough",
+    "capacity": 2500,
+    "latitude": 52.7593423,
+    "longitude": -1.2423105
+  },
+  {
+    "id": 12137,
+    "name": "Anfield Sports Community Centre",
+    "city": "Liverpool",
+    "capacity": 1000,
+    "latitude": 53.4276407,
+    "longitude": -2.9448173
+  },
+  {
+    "id": 18821,
+    "name": "Loxwood Sports Association",
+    "city": "Loxwood",
+    "capacity": 1000,
+    "latitude": 51.06270139999999,
+    "longitude": -0.5183356
+  },
+  {
+    "id": 11788,
+    "name": "Dunley Way",
+    "city": "Lutterworth",
+    "capacity": 1000,
+    "latitude": 52.4642328,
+    "longitude": -1.2021608
+  },
+  {
+    "id": 11789,
+    "name": "Lydney Recreation Ground",
+    "city": "Lydney",
+    "capacity": 1000,
+    "latitude": 51.39014719999999,
+    "longitude": -0.7553852
+  },
+  {
+    "id": 11790,
+    "name": "The Sports Ground",
+    "city": "Lye",
+    "capacity": 1000,
+    "latitude": 52.45786810000001,
+    "longitude": -2.1206393
+  },
+  {
+    "id": 21338,
+    "name": "The Flying Monk Ground",
+    "city": "Malmesbury",
+    "capacity": 1000,
+    "latitude": 51.5898103,
+    "longitude": -2.1018497
+  },
+  {
+    "id": 12174,
+    "name": "HD Anywhere Stadium",
+    "city": "Malvern",
+    "capacity": 4000,
+    "latitude": 52.1164822,
+    "longitude": -2.3048046
+  },
+  {
+    "id": 12175,
+    "name": "GER Sports Ground",
+    "city": "March",
+    "capacity": 1000,
+    "latitude": 52.5543296,
+    "longitude": 0.0861186
+  },
+  {
+    "id": 12138,
+    "name": "Sign Right Park",
+    "city": "Melton Mowbray",
+    "capacity": 1000,
+    "latitude": 52.7553455,
+    "longitude": -0.8737013
+  },
+  {
+    "id": 6234,
+    "name": "Mildenhall Town Football Club Stadium",
+    "city": "Mildenhall",
+    "capacity": 2000,
+    "latitude": 52.342442,
+    "longitude": 0.5150389
+  },
+  {
+    "id": 12176,
+    "name": "Mulberry Park",
+    "city": "Mulbarton",
+    "capacity": 1000,
+    "latitude": 52.5618814,
+    "longitude": 1.2384383
+  },
+  {
+    "id": 11793,
+    "name": "Sam Smith's Park",
+    "city": "Newcastle upon Tyne",
+    "capacity": 2000,
+    "latitude": 54.9909969,
+    "longitude": -1.5594344
+  },
+  {
+    "id": 11794,
+    "name": "Trafalgar Ground",
+    "city": "Newhaven",
+    "capacity": 3000,
+    "latitude": 50.785868,
+    "longitude": 0.05019999999999999
+  },
+  {
+    "id": 11795,
+    "name": "Cricket Field Road",
+    "city": "Newmarket",
+    "capacity": 2750,
+    "latitude": 52.2396146,
+    "longitude": 0.4126457000000001
+  },
+  {
+    "id": 11796,
+    "name": "Willen Road",
+    "city": "Newport Pagnell",
+    "capacity": 500,
+    "latitude": 52.0750879,
+    "longitude": -0.7217772
+  },
+  {
+    "id": 20312,
+    "name": "Securicorp Stadium",
+    "city": "Newton Aycliffe",
+    "capacity": 1000,
+    "latitude": 54.6154413,
+    "longitude": -1.5585752
+  },
+  {
+    "id": 6236,
+    "name": "Berkeley Fields",
+    "city": "London",
+    "capacity": 2000,
+    "latitude": 51.54847040000001,
+    "longitude": -0.3389507
+  },
+  {
+    "id": 11798,
+    "name": "Daren Persson Stadium",
+    "city": "North Shields",
+    "capacity": 1000,
+    "latitude": 55.0052868,
+    "longitude": -1.4590599
+  },
+  {
+    "id": 12692,
+    "name": "The Calvert Stadium",
+    "city": "Northallerton",
+    "capacity": 1500,
+    "latitude": 54.3277464,
+    "longitude": -1.454001
+  },
+  {
+    "id": 11800,
+    "name": "Old Northamptonians Private Sports Ground",
+    "city": "Northampton",
+    "capacity": 1000,
+    "latitude": 52.2410958,
+    "longitude": -0.8649061
+  },
+  {
+    "id": 21339,
+    "name": "Riverside Pavilion",
+    "city": "Leicester",
+    "capacity": 1000,
+    "latitude": 52.6105281,
+    "longitude": -1.1504751
+  },
+  {
+    "id": 6238,
+    "name": "Ruby Civil Arena",
+    "city": "Padiham",
+    "capacity": 1688,
+    "latitude": 53.8020513,
+    "longitude": -2.3216638
+  },
+  {
+    "id": 11804,
+    "name": "Nyetimber Lane",
+    "city": "Pagham",
+    "capacity": 1500,
+    "latitude": 50.781033,
+    "longitude": -0.724498
+  },
+  {
+    "id": 18970,
+    "name": "Centenary Park",
+    "city": "Peacehaven",
+    "capacity": 1500,
+    "latitude": 50.7940749,
+    "longitude": 0.0118996
+  },
+  {
+    "id": 21996,
+    "name": "Parker Roofing Memorial Ground",
+    "city": "Barnsley",
+    "capacity": 1000,
+    "latitude": 53.5508652,
+    "longitude": -1.4912946
+  },
+  {
+    "id": 21997,
+    "name": "The Frenchfield Stadium",
+    "city": "Penrith",
+    "capacity": 1000,
+    "latitude": 54.6575833,
+    "longitude": -2.7242052
+  },
+  {
+    "id": 11968,
+    "name": "Manadon Sports Hub",
+    "city": "Plymouth",
+    "capacity": 1000,
+    "latitude": 50.4085739,
+    "longitude": -4.1454017
+  },
+  {
+    "id": 18822,
+    "name": "The Camp & Satherley Stadium",
+    "city": "Portland",
+    "capacity": 1000,
+    "latitude": 50.5508327,
+    "longitude": -2.4321468
+  },
+  {
+    "id": 11809,
+    "name": "The Hollow",
+    "city": "Potton",
+    "capacity": 1000,
+    "latitude": 52.12303989999999,
+    "longitude": -0.216654
+  },
+  {
+    "id": 11810,
+    "name": "Elite Venue",
+    "city": "Gravesend",
+    "capacity": 1000,
+    "latitude": 51.4171253,
+    "longitude": 0.3769971
+  },
+  {
+    "id": 11811,
+    "name": "Farley Way Stadium",
+    "city": "Quorn",
+    "capacity": 1400,
+    "latitude": 52.7488079,
+    "longitude": -1.1802363
+  },
+  {
+    "id": 11812,
+    "name": "Townsend Meadow",
+    "city": "Warwick",
+    "capacity": 2000,
+    "latitude": 52.27575,
+    "longitude": -1.6006743
+  },
+  {
+    "id": 11813,
+    "name": "Prince George's Fields",
+    "city": "London",
+    "capacity": 1500,
+    "latitude": 51.5141072,
+    "longitude": -0.1659885
+  },
+  {
+    "id": 11814,
+    "name": "Rivermoor Stadium",
+    "city": "Reading",
+    "capacity": 2162,
+    "latitude": 51.4652252,
+    "longitude": -1.0108844
+  },
+  {
+    "id": 6241,
+    "name": "Oakside Stadium",
+    "city": "Ilford",
+    "capacity": 3000,
+    "latitude": 51.5853326,
+    "longitude": 0.0893538
+  },
+  {
+    "id": 6242,
+    "name": "Kiln Brow",
+    "city": "Redhill",
+    "capacity": 1500,
+    "latitude": 51.2189005,
+    "longitude": -0.1699121
+  },
+  {
+    "id": 11815,
+    "name": "Oaklands Park Stadium",
+    "city": "Almondsbury",
+    "capacity": 1000,
+    "latitude": 51.5485937,
+    "longitude": -2.5709826
+  },
+  {
+    "id": 11818,
+    "name": "Gerrard Buxton Sports Ground",
+    "city": "Royal Wootton Bassett",
+    "capacity": 2000,
+    "latitude": 51.5549206,
+    "longitude": -1.8964856
+  },
+  {
+    "id": 6243,
+    "name": "Butlin Road",
+    "city": "Rugby",
+    "capacity": 6000,
+    "latitude": 52.3738265,
+    "longitude": -1.2390593
+  },
+  {
+    "id": 12177,
+    "name": "The Jockey Stadium",
+    "city": "Rusthall",
+    "capacity": 1000,
+    "latitude": 51.1397081,
+    "longitude": 0.2228832
+  },
+  {
+    "id": 21340,
+    "name": "The Hive Arena",
+    "city": "Warrington",
+    "capacity": 1000,
+    "latitude": 53.3884876,
+    "longitude": -2.5954664
+  },
+  {
+    "id": 11819,
+    "name": "Catons Lane",
+    "city": "Saffron Walden",
+    "capacity": 2000,
+    "latitude": 52.0275507,
+    "longitude": 0.2409518
+  },
+  {
+    "id": 12139,
+    "name": "Kimberley Stadium",
+    "city": "Saltash",
+    "capacity": 1000,
+    "latitude": 50.4098665,
+    "longitude": -4.2227915
+  },
+  {
+    "id": 11820,
+    "name": "Hill Park",
+    "city": "Brighton",
+    "capacity": 1000,
+    "latitude": 50.8457489,
+    "longitude": -0.2154199
+  },
+  {
+    "id": 18823,
+    "name": "Crofters End Stadium",
+    "city": "Sawbridgeworth",
+    "capacity": 1500,
+    "latitude": 51.818292,
+    "longitude": 0.1471329
+  },
+  {
+    "id": 21341,
+    "name": "The Alexandra Steakhouse Stadium",
+    "city": "Seaham",
+    "capacity": 500,
+    "latitude": 54.8856423,
+    "longitude": -1.3690888
+  },
+  {
+    "id": 11824,
+    "name": "Cockrams Ground",
+    "city": "Shaftesbury",
+    "capacity": 1000,
+    "latitude": 51.0058511,
+    "longitude": -2.1898902
+  },
+  {
+    "id": 18971,
+    "name": "Eastwood Leisure Centre",
+    "city": "Woking",
+    "capacity": 1000,
+    "latitude": 51.3358123,
+    "longitude": -0.5254942
+  },
+  {
+    "id": 12693,
+    "name": "The Total Power Stadium",
+    "city": "Sheerness",
+    "capacity": 1450,
+    "latitude": 51.3905274,
+    "longitude": 0.9351394
+  },
+  {
+    "id": 6246,
+    "name": "The Dovecote",
+    "city": "Shepshed",
+    "capacity": 2500,
+    "latitude": 52.7742613,
+    "longitude": -1.2887712
+  },
+  {
+    "id": 11826,
+    "name": "The Playing Fields",
+    "city": "Shepton Mallet",
+    "capacity": 2500,
+    "latitude": 51.1854726,
+    "longitude": -2.5602524
+  },
+  {
+    "id": 12178,
+    "name": "Debdale Park",
+    "city": "Mansfield Woodhouse",
+    "capacity": 1000,
+    "latitude": 53.1616671,
+    "longitude": -1.2037564
+  },
+  {
+    "id": 21998,
+    "name": "J Denham Metals Stadium",
+    "city": "Shildon",
+    "capacity": 4700,
+    "latitude": 54.6311238,
+    "longitude": -1.6754376
+  },
+  {
+    "id": 6247,
+    "name": "Middle Road",
+    "city": "Shoreham-by-Sea",
+    "capacity": 1500,
+    "latitude": 50.83576610000001,
+    "longitude": -0.2572168
+  },
+  {
+    "id": 11829,
+    "name": "The Asda Foundation Stadium",
+    "city": "Silsden",
+    "capacity": 2300,
+    "latitude": 53.9069045,
+    "longitude": -1.9433993
+  },
+  {
+    "id": 11830,
+    "name": "Eslaforde Park",
+    "city": "Sleaford",
+    "capacity": 1000,
+    "latitude": 53.0002632,
+    "longitude": -0.3905494
+  },
+  {
+    "id": 11832,
+    "name": "Spelthorne Sports Club",
+    "city": "Ashford",
+    "capacity": 1000,
+    "latitude": 51.4211661,
+    "longitude": -0.4363419
+  },
+  {
+    "id": 11833,
+    "name": "Mile End Stadium",
+    "city": "London",
+    "capacity": 2000,
+    "latitude": 51.5192054,
+    "longitude": -0.0321641
+  },
+  {
+    "id": 19239,
+    "name": "Guardian Warehousing Arena",
+    "city": "Willenhall",
+    "capacity": 3660,
+    "latitude": 52.59124320000001,
+    "longitude": -2.0625414
+  },
+  {
+    "id": 6250,
+    "name": "The Brian Addison Stadium",
+    "city": "Blackpool",
+    "capacity": 2000,
+    "latitude": 53.7787784,
+    "longitude": -3.0147926
+  },
+  {
+    "id": 21342,
+    "name": "Poltair Park",
+    "city": "St Austell",
+    "capacity": 6000,
+    "latitude": 50.339731,
+    "longitude": -4.7859896
+  },
+  {
+    "id": 11836,
+    "name": "Hargrave Park Stadium",
+    "city": "Stansted Mountfitchet",
+    "capacity": 2000,
+    "latitude": 51.90663139999999,
+    "longitude": 0.1952016
+  },
+  {
+    "id": 11837,
+    "name": "The Hawthorns",
+    "city": "Colchester",
+    "capacity": 567,
+    "latitude": 51.8690654,
+    "longitude": 0.5434974
+  },
+  {
+    "id": 11839,
+    "name": "Steyning Town Community Football Club",
+    "city": "Steyning",
+    "capacity": 1000,
+    "latitude": 50.8924446,
+    "longitude": -0.3280012
+  },
+  {
+    "id": 11840,
+    "name": "The Map Group UK Stadium",
+    "city": "Stockton-on-Tees",
+    "capacity": 1800,
+    "latitude": 54.57135410000001,
+    "longitude": -1.3421342
+  },
+  {
+    "id": 18865,
+    "name": "The JSJ Stadium",
+    "city": "Stotfold",
+    "capacity": 1000,
+    "latitude": 52.018514,
+    "longitude": -0.2381472
+  },
+  {
+    "id": 6251,
+    "name": "Walshes Meadow",
+    "city": "Stourport-on-Severn",
+    "capacity": 2000,
+    "latitude": 52.33567420000001,
+    "longitude": -2.2828233
+  },
+  {
+    "id": 12180,
+    "name": "Greens Meadow Ground",
+    "city": "Stowmarket",
+    "capacity": 1000,
+    "latitude": 52.198304,
+    "longitude": 0.9910000999999998
+  },
+  {
+    "id": 6252,
+    "name": "The Tannery Ground",
+    "city": "Street",
+    "capacity": 1000,
+    "latitude": 51.1161067,
+    "longitude": -2.7439706
+  },
+  {
+    "id": 21999,
+    "name": "Lower Road",
+    "city": "Hextable",
+    "capacity": 1000,
+    "latitude": 51.41284350000001,
+    "longitude": 0.1944229
+  },
+  {
+    "id": 11844,
+    "name": "Barlow's Park",
+    "city": "Tadley",
+    "capacity": 1000,
+    "latitude": 51.357971,
+    "longitude": -1.131222
+  },
+  {
+    "id": 22000,
+    "name": "Full Vision Stadium",
+    "city": "Takeley",
+    "capacity": 2000,
+    "latitude": 51.8724599,
+    "longitude": 0.2675341
+  },
+  {
+    "id": 11846,
+    "name": "Langsford Park",
+    "city": "Tavistock",
+    "capacity": 2000,
+    "latitude": 50.5386997,
+    "longitude": -4.1508331
+  },
+  {
+    "id": 22001,
+    "name": "Meridian Stadium at Dennyfield",
+    "city": "Thackley",
+    "capacity": 3000,
+    "latitude": 53.8468245,
+    "longitude": -1.7338735
+  },
+  {
+    "id": 11848,
+    "name": "Mundford Road",
+    "city": "Thetford",
+    "capacity": 1500,
+    "latitude": 52.4235851,
+    "longitude": 0.741973
+  },
+  {
+    "id": 12181,
+    "name": "Mundy Playing Fields",
+    "city": "Thornbury",
+    "capacity": 1000,
+    "latitude": 51.6069112,
+    "longitude": -2.5271569
+  },
+  {
+    "id": 6253,
+    "name": "The Beeches",
+    "city": "Tividale",
+    "capacity": 3000,
+    "latitude": 52.4744991,
+    "longitude": -2.0489647
+  },
+  {
+    "id": 20886,
+    "name": "The Michael Anthony Stadium",
+    "city": "Tring",
+    "capacity": 2000,
+    "latitude": 51.7967076,
+    "longitude": -0.6408127
+  },
+  {
+    "id": 11851,
+    "name": "Glevum Park",
+    "city": "Gloucester",
+    "capacity": 1000,
+    "latitude": 51.83945629999999,
+    "longitude": -2.2629065
+  },
+  {
+    "id": 11852,
+    "name": "Culverden Stadium",
+    "city": "Royal Tunbridge Wells",
+    "capacity": 3750,
+    "latitude": 51.1436032,
+    "longitude": 0.251193
+  },
+  {
+    "id": 19855,
+    "name": "HMS Temeraire Sports Ground",
+    "city": "Portsmouth",
+    "capacity": 1000,
+    "latitude": 50.7944527,
+    "longitude": -1.0986409
+  },
+  {
+    "id": 12183,
+    "name": "Withdean Stadium",
+    "city": "Brighton",
+    "capacity": 8850,
+    "latitude": 50.8527297,
+    "longitude": -0.1603724
+  },
+  {
+    "id": 12184,
+    "name": "The vanEupen Arena",
+    "city": "Ellesmere Port",
+    "capacity": 2500,
+    "latitude": 53.2660344,
+    "longitude": -2.8934542
+  },
+  {
+    "id": 11854,
+    "name": "Stag Meadow",
+    "city": "Windsor",
+    "capacity": 4500,
+    "latitude": 51.4691003,
+    "longitude": -0.6216643
+  },
+  {
+    "id": 11855,
+    "name": "Oak Park",
+    "city": "Walsall Wood",
+    "capacity": 1500,
+    "latitude": 52.6332592,
+    "longitude": -1.930342
+  },
+  {
+    "id": 11856,
+    "name": "Sumner Road",
+    "city": "Walsham-le-Willows",
+    "capacity": 1000,
+    "latitude": 52.3158345,
+    "longitude": 0.9279266999999999
+  },
+  {
+    "id": 11857,
+    "name": "Wadham Lodge Stadium",
+    "city": "London",
+    "capacity": 4000,
+    "latitude": 51.5973902,
+    "longitude": -0.0089975
+  },
+  {
+    "id": 6256,
+    "name": "Dog & Duck Ground",
+    "city": "Wellingborough",
+    "capacity": 2500,
+    "latitude": 52.29347869999999,
+    "longitude": -0.6831984999999999
+  },
+  {
+    "id": 11859,
+    "name": "Vale Farm Stadium",
+    "city": "London",
+    "capacity": 3348,
+    "latitude": 51.5571761,
+    "longitude": -0.3140477
+  },
+  {
+    "id": 22002,
+    "name": "The Northern Metal Recycling Stadium",
+    "city": "West Auckland",
+    "capacity": 6728,
+    "latitude": 54.6240046,
+    "longitude": -1.6562857
+  },
+  {
+    "id": 18866,
+    "name": "Step Places Stadium",
+    "city": "Manchester",
+    "capacity": 1000,
+    "latitude": 53.4332371,
+    "longitude": -2.2816281
+  },
+  {
+    "id": 11861,
+    "name": "Meadow Lane",
+    "city": "Westbury",
+    "capacity": 1000,
+    "latitude": 51.2646661,
+    "longitude": -2.186909
+  },
+  {
+    "id": 11862,
+    "name": "The Glebe Ground",
+    "city": "Whickham",
+    "capacity": 2000,
+    "latitude": 54.9434401,
+    "longitude": -1.6789189
+  },
+  {
+    "id": 11863,
+    "name": "KMJ Mortgages Stadium",
+    "city": "Whitchurch",
+    "capacity": 1000,
+    "latitude": 52.9715503,
+    "longitude": -2.6716364
+  },
+  {
+    "id": 11864,
+    "name": "Hillheads Park",
+    "city": "Whitley Bay",
+    "capacity": 4500,
+    "latitude": 55.0376572,
+    "longitude": -1.4533701
+  },
+  {
+    "id": 21343,
+    "name": "Elmfields Gate",
+    "city": "Winslow",
+    "capacity": 2000,
+    "latitude": 51.9441255,
+    "longitude": -0.8772301
+  },
+  {
+    "id": 19856,
+    "name": "MKM Stadium",
+    "city": "Winterton",
+    "capacity": 3000,
+    "latitude": 53.6560942,
+    "longitude": -0.5976924000000001
+  },
+  {
+    "id": 12185,
+    "name": "Brinsford Lane",
+    "city": "Wolverhampton",
+    "capacity": 1000,
+    "latitude": 52.6448799,
+    "longitude": -2.1212609
+  },
+  {
+    "id": 11866,
+    "name": "Notcutts Park",
+    "city": "Woodbridge",
+    "capacity": 1500,
+    "latitude": 52.090486,
+    "longitude": 1.3100409
+  },
+  {
+    "id": 22003,
+    "name": "Ashton Playing Fields",
+    "city": "Woodford Green",
+    "capacity": 1000,
+    "latitude": 51.6055422,
+    "longitude": 0.0503839
+  },
+  {
+    "id": 11867,
+    "name": "Claines Lane",
+    "city": "Worcester",
+    "capacity": 1000,
+    "latitude": 52.2270341,
+    "longitude": -2.216699
+  },
+  {
+    "id": 6259,
+    "name": "Trafford Park",
+    "city": "Wroxham",
+    "capacity": 2000,
+    "latitude": 52.70182670000001,
+    "longitude": 1.3968788
+  },
+  {
+    "id": 5771,
+    "name": "Blackwell Meadows",
+    "city": "Darlington",
+    "capacity": 3299,
+    "latitude": 54.50943359999999,
+    "longitude": -1.5641899
+  },
+  {
+    "id": 19846,
+    "name": "The Citadel",
+    "city": "Farsley",
+    "capacity": 3900,
+    "latitude": 53.80928129999999,
+    "longitude": -1.6654535
+  },
+  {
+    "id": 12140,
+    "name": "The Welfare Ground",
+    "city": "Emley",
+    "capacity": 2330,
+    "latitude": 53.61272899999999,
+    "longitude": -1.632206
+  },
+  {
+    "id": 21344,
+    "name": "Silkmore Lane Sports Ground",
+    "city": "Brocton",
+    "capacity": 1500,
+    "latitude": 52.7905114,
+    "longitude": -2.0985386
+  },
+  {
+    "id": 22004,
+    "name": "Emplas Commercial North Stadium",
+    "city": "Chadderton",
+    "capacity": 1500,
+    "latitude": 53.5325157,
+    "longitude": -2.1541684
+  },
+  {
+    "id": 12187,
+    "name": "Sir Tom Cowie Millfield Ground",
+    "city": "Crook",
+    "capacity": 1500,
+    "latitude": 54.7136873,
+    "longitude": -1.751047
+  },
+  {
+    "id": 22005,
+    "name": "Fruehauf Stadium",
+    "city": "Grantham",
+    "capacity": 1500,
+    "latitude": 52.905948,
+    "longitude": -0.666766
+  },
+  {
+    "id": 18974,
+    "name": "Grounsell Park",
+    "city": "Newcastle upon Tyne",
+    "capacity": 2000,
+    "latitude": 54.9989001,
+    "longitude": -1.5893495
+  },
+  {
+    "id": 22006,
+    "name": "Crown Skip Hire Stadium",
+    "city": "Barwell",
+    "capacity": 2500,
+    "latitude": 52.5267498,
+    "longitude": -1.4915367
+  },
+  {
+    "id": 12188,
+    "name": "Oakley Road",
+    "city": "London",
+    "capacity": 1000,
+    "latitude": 51.5429434,
+    "longitude": -0.0871277
+  },
+  {
+    "id": 12189,
+    "name": "Summerleaze Village Ground",
+    "city": "Maidenhead",
+    "capacity": 1000,
+    "latitude": 51.5392356,
+    "longitude": -0.7206391999999999
+  },
+  {
+    "id": 21346,
+    "name": "GBS Stadium",
+    "city": "Ipswich",
+    "capacity": 1000,
+    "latitude": 52.0544763,
+    "longitude": 1.2249756
+  },
+  {
+    "id": 12190,
+    "name": "The Sportsfield",
+    "city": "Littlehampton",
+    "capacity": 1500,
+    "latitude": 50.8089998,
+    "longitude": -0.530187
+  },
+  {
+    "id": 20888,
+    "name": "Potash Lane Ground",
+    "city": "Milton Heights",
+    "capacity": 1000,
+    "latitude": 51.6146296,
+    "longitude": -1.3042516
+  },
+  {
+    "id": 22008,
+    "name": "Parkgate Sports & Social Club",
+    "city": "Rotherham",
+    "capacity": 1000,
+    "latitude": 53.4590503,
+    "longitude": -1.3330653
+  },
+  {
+    "id": 20135,
+    "name": "The Southdowns Builders Stadium",
+    "city": "Petersfield",
+    "capacity": 3000,
+    "latitude": 51.00601839999999,
+    "longitude": -0.9475543999999999
+  },
+  {
+    "id": 12192,
+    "name": "Windsor Playing Fields",
+    "city": "Princes Risborough",
+    "capacity": 1500,
+    "latitude": 51.7040121,
+    "longitude": -0.8124777
+  },
+  {
+    "id": 20889,
+    "name": "The GMS Windows Arena",
+    "city": "Sherborne",
+    "capacity": 1150,
+    "latitude": 50.94007509999999,
+    "longitude": -2.5108837
+  },
+  {
+    "id": 21348,
+    "name": "Langwith Road Ground",
+    "city": "Shirebrook",
+    "capacity": 1000,
+    "latitude": 53.2063789,
+    "longitude": -1.207193
+  },
+  {
+    "id": 22009,
+    "name": "O'Riordan Bond Stadium",
+    "city": "Northampton",
+    "capacity": 1000,
+    "latitude": 52.1891945,
+    "longitude": -0.8877501
+  },
+  {
+    "id": 18976,
+    "name": "West Clewes",
+    "city": "Midsomer Norton",
+    "capacity": 2400,
+    "latitude": 51.2891467,
+    "longitude": -2.4803515
+  },
+  {
+    "id": 21350,
+    "name": "Wincanton Sports Ground",
+    "city": "Wincanton",
+    "capacity": 1000,
+    "latitude": 51.0481521,
+    "longitude": -2.4030421
+  },
+  {
+    "id": 20890,
+    "name": "The Exclusive Networks Stadium",
+    "city": "Alton",
+    "capacity": 1500,
+    "latitude": 51.1584231,
+    "longitude": -0.9645574
+  },
+  {
+    "id": 12195,
+    "name": "Southbank",
+    "city": "Corsham",
+    "capacity": 1200,
+    "latitude": 51.4307832,
+    "longitude": -2.1728817
+  },
+  {
+    "id": 21351,
+    "name": "The Brian Whitehead Sports Ground",
+    "city": "Downton",
+    "capacity": 2000,
+    "latitude": 50.9932727,
+    "longitude": -1.7604708
+  },
+  {
+    "id": 12196,
+    "name": "Marlborough Park",
+    "city": "Ilfracombe",
+    "capacity": 1000,
+    "latitude": 51.2057393,
+    "longitude": -4.125362
+  },
+  {
+    "id": 18977,
+    "name": "The Beehive",
+    "city": "Studley",
+    "capacity": 1500,
+    "latitude": 52.2824466,
+    "longitude": -1.8925967
+  },
+  {
+    "id": 18978,
+    "name": "The Mill",
+    "city": "Torpoint",
+    "capacity": 1500,
+    "latitude": 50.3733097,
+    "longitude": -4.207544
+  },
+  {
+    "id": 20354,
+    "name": "The Playing Field Wellington",
+    "city": "Wellington",
+    "capacity": 1500,
+    "latitude": 50.9785583,
+    "longitude": -3.2350282
+  },
+  {
+    "id": 21352,
+    "name": "The Ground Up Solutions Stadium",
+    "city": "Stockport",
+    "capacity": 2000,
+    "latitude": 53.5959634,
+    "longitude": -2.1340935
+  },
+  {
+    "id": 21353,
+    "name": "RM Stadium",
+    "city": "Hucknall",
+    "capacity": 1000,
+    "latitude": 53.0264396,
+    "longitude": -1.2157383
+  },
+  {
+    "id": 18979,
+    "name": "Rowley Lane",
+    "city": "London",
+    "capacity": 1500,
+    "latitude": 51.6573863,
+    "longitude": -0.2514972
+  },
+  {
+    "id": 20892,
+    "name": "Aitchison Playing Field",
+    "city": "Oldland Common",
+    "capacity": 1000,
+    "latitude": 51.4702492,
+    "longitude": -2.500489
+  },
+  {
+    "id": 20893,
+    "name": "Blazey Park",
+    "city": "St Blazey",
+    "capacity": 3500,
+    "latitude": 50.3600031,
+    "longitude": -4.7136568
+  },
+  {
+    "id": 18980,
+    "name": "Ironworks Road",
+    "city": "Tow Law",
+    "capacity": 3000,
+    "latitude": 54.7457178,
+    "longitude": -1.8197611
+  },
+  {
+    "id": 20894,
+    "name": "The Birtley Sports Complex",
+    "city": "Birtley",
+    "capacity": 380,
+    "latitude": 54.8871215,
+    "longitude": -1.5772388
+  },
+  {
+    "id": 22012,
+    "name": "Kalkut’s Community Stadium",
+    "city": "Doncaster",
+    "capacity": 1290,
+    "latitude": 53.5100564,
+    "longitude": -1.1147296
+  },
+  {
+    "id": 20895,
+    "name": "The Acoustafoam Stadium",
+    "city": "Shifnal",
+    "capacity": 1500,
+    "latitude": 52.6731185,
+    "longitude": -2.3613665
+  },
+  {
+    "id": 22013,
+    "name": "The Steves Taxis Stadium",
+    "city": "Canvey Island",
+    "capacity": 4308,
+    "latitude": 51.517083,
+    "longitude": 0.578411
+  },
+  {
+    "id": 12200,
+    "name": "Kellaway Park",
+    "city": "Helston",
+    "capacity": 1000,
+    "latitude": 50.101754,
+    "longitude": -5.264885899999999
+  },
+  {
+    "id": 12201,
+    "name": "Memorial Ground Little Oakley",
+    "city": "Little Oakley",
+    "capacity": 1000,
+    "latitude": 51.9216308,
+    "longitude": 1.2290185
+  },
+  {
+    "id": 22014,
+    "name": "Altrincham Road",
+    "city": "Manchester",
+    "capacity": 1000,
+    "latitude": 53.4008327,
+    "longitude": -2.2836807
+  },
+  {
+    "id": 11872,
+    "name": "The Coppice",
+    "city": "Solihull",
+    "capacity": 2000,
+    "latitude": 52.5189032,
+    "longitude": -1.8962482
+  },
+  {
+    "id": 21354,
+    "name": "Hillcrest Avenue",
+    "city": "Dudley",
+    "capacity": 2000,
+    "latitude": 52.4662845,
+    "longitude": -2.0899484
+  },
+  {
+    "id": 11719,
+    "name": "Terence MacMillan Stadium",
+    "city": "London",
+    "capacity": 2000,
+    "latitude": 51.51855639999999,
+    "longitude": 0.0344083
+  },
+  {
+    "id": 22015,
+    "name": "MoreSeaFood Ground",
+    "city": "Brixham",
+    "capacity": 1000,
+    "latitude": 50.3983283,
+    "longitude": -3.5133872
+  },
+  {
+    "id": 8594,
+    "name": "Coronation Park",
+    "city": "Eastwood",
+    "capacity": 2500,
+    "latitude": 53.01397189999999,
+    "longitude": -1.2985928
+  },
+  {
+    "id": 12206,
+    "name": "The Nest Lakenheath",
+    "city": "Lakenheath",
+    "capacity": 1000,
+    "latitude": 52.4179758,
+    "longitude": 0.5202924999999999
+  },
+  {
+    "id": 18826,
+    "name": "The Irish Centre",
+    "city": "Milton Keynes",
+    "capacity": 1500,
+    "latitude": 51.9949172,
+    "longitude": -0.7122613
+  },
+  {
+    "id": 22016,
+    "name": "Trungle Parc",
+    "city": "Paul",
+    "capacity": 1250,
+    "latitude": 50.0897182,
+    "longitude": -5.5481185
+  },
+  {
+    "id": 18981,
+    "name": "The Dransfield Stadium",
+    "city": "North Ferriby",
+    "capacity": 3000,
+    "latitude": 53.7177547,
+    "longitude": -0.5007988999999999
+  },
+  {
+    "id": 12143,
+    "name": "Adie Moran Park",
+    "city": "Prestwich",
+    "capacity": 1000,
+    "latitude": 53.5445456,
+    "longitude": -2.2730548
+  },
+  {
+    "id": 12209,
+    "name": "Green Lane",
+    "city": "Redcar",
+    "capacity": 1000,
+    "latitude": 54.59916399999999,
+    "longitude": -1.0418877
+  },
+  {
+    "id": 12210,
+    "name": "Vertigo Stadium",
+    "city": "Skegness",
+    "capacity": 1000,
+    "latitude": 53.14352599999999,
+    "longitude": 0.3217991
+  },
+  {
+    "id": 12211,
+    "name": "Oldfields Sports Ground",
+    "city": "Uttoxeter",
+    "capacity": 1000,
+    "latitude": 52.900886,
+    "longitude": -1.8727277
+  },
+  {
+    "id": 12212,
+    "name": "Ericstan Park",
+    "city": "Manchester",
+    "capacity": 1000,
+    "latitude": 53.3996442,
+    "longitude": -2.2966687
+  },
+  {
+    "id": 20897,
+    "name": "Skye Direct Stadium",
+    "city": "Golcar",
+    "capacity": 1000,
+    "latitude": 53.6408706,
+    "longitude": -1.8444884
+  },
+  {
+    "id": 19265,
+    "name": "Bartholomew Way",
+    "city": "Horsham",
+    "capacity": 1000,
+    "latitude": 51.0840915,
+    "longitude": -0.2994987
+  },
+  {
+    "id": 18983,
+    "name": "Myrak Park",
+    "city": "Buckhurst Hill",
+    "capacity": 1000,
+    "latitude": 51.6258609,
+    "longitude": 0.05601420000000001
+  },
+  {
+    "id": 22017,
+    "name": "Gillford Park Stadium",
+    "city": "Carlisle",
+    "capacity": 3000,
+    "latitude": 54.8768818,
+    "longitude": -2.9170469
+  },
+  {
+    "id": 18984,
+    "name": "The Paycare Ground",
+    "city": "Darlaston",
+    "capacity": 1000,
+    "latitude": 52.58084359999999,
+    "longitude": -2.0232584
+  },
+  {
+    "id": 22018,
+    "name": "Bickland Park",
+    "city": "Falmouth",
+    "capacity": 1000,
+    "latitude": 50.156339,
+    "longitude": -5.0998979
+  },
+  {
+    "id": 18986,
+    "name": "Old School Lane",
+    "city": "Hereford",
+    "capacity": 2000,
+    "latitude": 52.0716314,
+    "longitude": -2.7120715
+  },
+  {
+    "id": 18987,
+    "name": "The Middlesex Stadium",
+    "city": "Ruislip",
+    "capacity": 3587,
+    "latitude": 51.586986,
+    "longitude": -0.442773
+  },
+  {
+    "id": 18988,
+    "name": "The Stag Ground",
+    "city": "Nottingham",
+    "capacity": 1000,
+    "latitude": 52.9955836,
+    "longitude": -1.2500039
+  },
+  {
+    "id": 18989,
+    "name": "The Dell",
+    "city": "Salisbury",
+    "capacity": 1000,
+    "latitude": 51.0115344,
+    "longitude": -1.0393592
+  },
+  {
+    "id": 19859,
+    "name": "The Rotherfield",
+    "city": "Midhurst",
+    "capacity": 1000,
+    "latitude": 50.9948503,
+    "longitude": -0.7323322
+  },
+  {
+    "id": 18990,
+    "name": "Shefford Sports Club",
+    "city": "Shefford",
+    "capacity": 1000,
+    "latitude": 52.03175239999999,
+    "longitude": -0.3257237
+  },
+  {
+    "id": 22019,
+    "name": "DOADC Stadium",
+    "city": "Worcester",
+    "capacity": 1000,
+    "latitude": 52.223955,
+    "longitude": -2.212589
+  },
+  {
+    "id": 18992,
+    "name": "Weybourne Road",
+    "city": "Sheringham",
+    "capacity": 1000,
+    "latitude": 52.9366135,
+    "longitude": 1.1865356
+  },
+  {
+    "id": 22021,
+    "name": "The Element Ground",
+    "city": "Ashby-de-la-Zouch",
+    "capacity": 1000,
+    "latitude": 52.7384807,
+    "longitude": -1.4669869
+  },
+  {
+    "id": 20899,
+    "name": "Linwood Playing Fields",
+    "city": "Leicester",
+    "capacity": 1000,
+    "latitude": 52.627416,
+    "longitude": -1.3359396
+  },
+  {
+    "id": 22022,
+    "name": "Phoenix Park",
+    "city": "Middlesbrough",
+    "capacity": 1000,
+    "latitude": 54.5285991,
+    "longitude": -1.2428379
+  },
+  {
+    "id": 20901,
+    "name": "Memorial Field",
+    "city": "Downham Market",
+    "capacity": 1000,
+    "latitude": 52.6086153,
+    "longitude": 0.3841654
+  },
+  {
+    "id": 20902,
+    "name": "The Jack Carter Centre",
+    "city": "Ilford",
+    "capacity": 2000,
+    "latitude": 51.57298429999999,
+    "longitude": 0.0588327
+  },
+  {
+    "id": 20903,
+    "name": "The Recreation Ground",
+    "city": "Harleston",
+    "capacity": 1000,
+    "latitude": 52.40073349999999,
+    "longitude": 1.2952937
+  },
+  {
+    "id": 22023,
+    "name": "4ED Hartpury Stadium with Vodafone",
+    "city": "Gloucester",
+    "capacity": 1000,
+    "latitude": 51.908611,
+    "longitude": -2.3073189
+  },
+  {
+    "id": 20904,
+    "name": "Station Road",
+    "city": "King&apos;s Lynn",
+    "capacity": 1000,
+    "latitude": 52.7538711,
+    "longitude": 0.4031345
+  },
+  {
+    "id": 20905,
+    "name": "The Lindsey Field",
+    "city": "Lydd",
+    "capacity": 1000,
+    "latitude": 50.9438661,
+    "longitude": 0.9080872999999999
+  },
+  {
+    "id": 20906,
+    "name": "Fryth Way",
+    "city": "Nailsea",
+    "capacity": 1000,
+    "latitude": 51.4349894,
+    "longitude": -2.7731334
+  },
+  {
+    "id": 21356,
+    "name": "PSD Stadium",
+    "city": "Saint Helens",
+    "capacity": 1000,
+    "latitude": 53.4474676,
+    "longitude": -2.7261145
+  },
+  {
+    "id": 20908,
+    "name": "McMullen Park",
+    "city": "Cardington",
+    "capacity": 1500,
+    "latitude": 52.03528710000001,
+    "longitude": -0.3588451
+  },
+  {
+    "id": 22024,
+    "name": "Rugby Borough Sports Trust",
+    "city": "Rugby",
+    "capacity": 2000,
+    "latitude": 52.3539854,
+    "longitude": -1.2100937
+  },
+  {
+    "id": 20910,
+    "name": "Potyn's Sports Field",
+    "city": "Snodland",
+    "capacity": 1000,
+    "latitude": 51.3322368,
+    "longitude": 0.4320697
+  },
+  {
+    "id": 21357,
+    "name": "Life Leisure Stockport Sports Village",
+    "city": "Stockport",
+    "capacity": 2384,
+    "latitude": 53.4306974,
+    "longitude": -2.1033046
+  },
+  {
+    "id": 20911,
+    "name": "Wallingford Sports Park",
+    "city": "Wallingford",
+    "capacity": 1500,
+    "latitude": 51.59807199999999,
+    "longitude": -1.1427511
+  },
+  {
+    "id": 21358,
+    "name": "Spratley's Meadow",
+    "city": "Amersham",
+    "capacity": 1500,
+    "latitude": 51.67031129999999,
+    "longitude": -0.6246066
+  },
+  {
+    "id": 21359,
+    "name": "Norwood Recreation Ground",
+    "city": "Beverley",
+    "capacity": 1000,
+    "latitude": 53.8491047,
+    "longitude": -0.4297689
+  },
+  {
+    "id": 22025,
+    "name": "Gateway Park",
+    "city": "Blyth",
+    "capacity": 1000,
+    "latitude": 55.1055645,
+    "longitude": -1.5184011
+  },
+  {
+    "id": 21361,
+    "name": "Abbey Lawn",
+    "city": "Bourne",
+    "capacity": 1000,
+    "latitude": 52.76696339999999,
+    "longitude": -0.3731003
+  },
+  {
+    "id": 7762,
+    "name": "The Orchard",
+    "city": "London",
+    "capacity": 2100,
+    "latitude": 51.5136079,
+    "longitude": -0.1594167
+  },
+  {
+    "id": 21362,
+    "name": "Blackhouse Lane",
+    "city": "Great Cornard",
+    "capacity": 2000,
+    "latitude": 52.0200434,
+    "longitude": 0.7529383
+  },
+  {
+    "id": 21363,
+    "name": "Welfare Park",
+    "city": "Easington",
+    "capacity": 1000,
+    "latitude": 54.7847778,
+    "longitude": -1.3285623
+  },
+  {
+    "id": 22026,
+    "name": "The BJM Stadium",
+    "city": "Bournemouth",
+    "capacity": 1000,
+    "latitude": 50.7348316,
+    "longitude": -1.8390783
+  },
+  {
+    "id": 21365,
+    "name": "Erme Valley",
+    "city": "Ivybridge",
+    "capacity": 1000,
+    "latitude": 50.3961664,
+    "longitude": -3.8682
+  },
+  {
+    "id": 21366,
+    "name": "Larkfield & New Hythe Wanderers Ground",
+    "city": "Larkfield",
+    "capacity": 1000,
+    "latitude": 51.3065599,
+    "longitude": 0.440751
+  },
+  {
+    "id": 21367,
+    "name": "Test Park Sports Ground",
+    "city": "Southampton",
+    "capacity": 1000,
+    "latitude": 50.9302401,
+    "longitude": -1.46893
+  },
+  {
+    "id": 21368,
+    "name": "YMCA Newark and Sherwood Community and Activity Village",
+    "city": "Newark",
+    "capacity": 1000,
+    "latitude": 53.0623405,
+    "longitude": -0.8013108000000001
+  },
+  {
+    "id": 21369,
+    "name": "Scotswood Ground",
+    "city": "Newcastle",
+    "capacity": 1000,
+    "latitude": 54.97458659999999,
+    "longitude": -1.6948739
+  },
+  {
+    "id": 21370,
+    "name": "Community Stadium",
+    "city": "Pershore",
+    "capacity": 1000,
+    "latitude": 52.1127026,
+    "longitude": -2.0740897
+  },
+  {
+    "id": 21371,
+    "name": "Bristol Road",
+    "city": "Bristol",
+    "capacity": 2000,
+    "latitude": 51.5297389,
+    "longitude": -2.5032185
+  },
+  {
+    "id": 21372,
+    "name": "Jericho Lane Sports Hub",
+    "city": "Liverpool",
+    "capacity": 1000,
+    "latitude": 53.3664396,
+    "longitude": -2.9379099
+  },
+  {
+    "id": 22027,
+    "name": "The Inkberrow Recreation Ground",
+    "city": "Inkberrow",
+    "capacity": 1000,
+    "latitude": 52.2190418,
+    "longitude": -1.9793599
+  },
+  {
+    "id": 21374,
+    "name": "SMS Pro Soccer Park",
+    "city": "Saint Helens",
+    "capacity": 1000,
+    "latitude": 53.4602149,
+    "longitude": -2.7527806
+  },
+  {
+    "id": 21375,
+    "name": "Crabtree Park",
+    "city": "Wick",
+    "capacity": 1000,
+    "latitude": 50.8246684,
+    "longitude": -0.5396249
+  },
+  {
+    "id": 21376,
+    "name": "Wormley Playing Fields",
+    "city": "Wormley",
+    "capacity": 1000,
+    "latitude": 51.7334026,
+    "longitude": -0.0300451
+  },
+  {
+    "id": 5262,
+    "name": "Church Road",
+    "city": "Whyteleafe",
+    "capacity": 2000,
+    "latitude": 51.3050467,
+    "longitude": -0.0810861
+  },
+  {
+    "id": 12690,
+    "name": "Mortgages For You Stadium",
+    "city": "Boston",
+    "capacity": 6000,
+    "latitude": 52.9764182,
+    "longitude": -0.058958
+  },
+  {
+    "id": 21378,
+    "name": "Lowther Road",
+    "city": "Wokingham",
+    "capacity": 1000,
+    "latitude": 51.4224088,
+    "longitude": -0.8568785
+  },
+  {
+    "id": 5208,
+    "name": "Staplewood Training Ground",
+    "city": "Southampton",
+    "capacity": 3000,
+    "latitude": 50.8900708,
+    "longitude": -1.4642994
+  },
+  {
+    "id": 7736,
+    "name": "Eppleton Colliery Football Ground",
+    "city": "Hetton-le-Hole",
+    "capacity": 2000,
+    "latitude": 54.8215751,
+    "longitude": -1.455008
+  },
+  {
+    "id": 19011,
+    "name": "Lancashire FA County Ground",
+    "city": "Leyland",
+    "capacity": 4000,
+    "latitude": 53.6931662,
+    "longitude": -2.693711
+  },
+  {
+    "id": 5232,
+    "name": "Footes Lane Stadium",
+    "city": "St. Peter Port (Guernsey",
+    "capacity": 5000,
+    "latitude": 49.463745,
+    "longitude": -2.5624538
+  }
+]
