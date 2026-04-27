@@ -1,0 +1,102 @@
+[
+    {
+        "id": 23365,
+        "name": "Camerhogne",
+        "code": null,
+        "country": "Grenada",
+        "founded": 2013,
+        "national": false,
+        "logo": "23365.png",
+        "venue_id": 346021528393
+    },
+    {
+        "id": 23367,
+        "name": "Hard Rock",
+        "code": null,
+        "country": "Grenada",
+        "founded": null,
+        "national": false,
+        "logo": "23367.png",
+        "venue_id": 20656
+    },
+    {
+        "id": 23368,
+        "name": "Hurricanes",
+        "code": null,
+        "country": "Grenada",
+        "founded": 1957,
+        "national": false,
+        "logo": "23368.png",
+        "venue_id": 20657
+    },
+    {
+        "id": 23369,
+        "name": "Mt. Rich",
+        "code": null,
+        "country": "Grenada",
+        "founded": null,
+        "national": false,
+        "logo": "23369.png",
+        "venue_id": 20656
+    },
+    {
+        "id": 23370,
+        "name": "SAB Spartans",
+        "code": null,
+        "country": "Grenada",
+        "founded": 2015,
+        "national": false,
+        "logo": "23370.png",
+        "venue_id": 233692669766
+    },
+    {
+        "id": 23371,
+        "name": "St. John's",
+        "code": null,
+        "country": "Grenada",
+        "founded": null,
+        "national": false,
+        "logo": "23371.png",
+        "venue_id": 20658
+    },
+    {
+        "id": 23373,
+        "name": "Paradise",
+        "code": null,
+        "country": "Grenada",
+        "founded": 1998,
+        "national": false,
+        "logo": "23373.png",
+        "venue_id": 20659
+    },
+    {
+        "id": 23374,
+        "name": "Queens Park Rangers",
+        "code": null,
+        "country": "Grenada",
+        "founded": 1969,
+        "national": false,
+        "logo": "23374.png",
+        "venue_id": 4155
+    },
+    {
+        "id": 23554,
+        "name": "Fontenoy United",
+        "code": null,
+        "country": "Grenada",
+        "founded": null,
+        "national": false,
+        "logo": "23554.png",
+        "venue_id": 4155
+    },
+    {
+        "id": 23555,
+        "name": "Shamrock",
+        "code": null,
+        "country": "Grenada",
+        "founded": 2012,
+        "national": false,
+        "logo": "23555.png",
+        "venue_id": 429363968017
+    }
+]

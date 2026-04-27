@@ -1,0 +1,66 @@
+[
+  {
+    "id": 346021528393,
+    "name": "Grenada National Stadium",
+    "city": "St. George's",
+    "capacity": 8000,
+    "latitude": 12.0590096,
+    "longitude": -61.75221099999999
+  },
+  {
+    "id": 20656,
+    "name": "Fond Recreation Ground",
+    "city": "Sauteurs",
+    "capacity": 1000,
+    "latitude": 12.2245537,
+    "longitude": -61.64598230000001
+  },
+  {
+    "id": 20657,
+    "name": "Alston George Park",
+    "city": "Victoria",
+    "capacity": 1000,
+    "latitude": 12.19403738966427,
+    "longitude": -61.70608207326057
+  },
+  {
+    "id": 233692669766,
+    "name": "Victoria Park",
+    "city": "Grenville",
+    "capacity": null,
+    "latitude": 12.120409371373318,
+    "longitude": -61.62491981558872
+  },
+  {
+    "id": 20658,
+    "name": "Cuthbert Peters Park",
+    "city": "Gouyave",
+    "capacity": 1000,
+    "latitude": 12.1592232,
+    "longitude": -61.73107539999999
+  },
+  {
+    "id": 20659,
+    "name": "Progress Park",
+    "city": "St Andrew's",
+    "capacity": 1000,
+    "latitude": 12.1328218,
+    "longitude": -61.62025989999999
+  },
+  {
+    "id": 4155,
+    "name": "Cricket National Stadium",
+    "city": "St. George&apos;s",
+    "capacity": 20000,
+    "latitude": 12.0590096,
+    "longitude": -61.75221099999999
+  },
+  {
+    "id": 429363968017,
+    "name": "Kirani James Athletic Stadium",
+    "city": "St. George's",
+    "capacity": 8000,
+    "latitude": 12.0599914,
+    "longitude": -61.75356769999999
+  }
+]
