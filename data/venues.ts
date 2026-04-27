@@ -47,3 +47,4 @@ export { default as ecuador } from './ecuador-venues.json';
 export { default as egypt } from './egypt-venues.json';
 export { default as elSalvador } from './el-salvador-venues.json';
 export { default as england } from './england-venues.json';
+export { default as estonia } from './estonia-venues.json';

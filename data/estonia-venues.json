@@ -1,0 +1,434 @@
+[
+  {
+    "id": 606,
+    "name": "Hiiu staadion",
+    "city": "Tallinn",
+    "capacity": 2730,
+    "latitude": 59.3854826,
+    "longitude": 24.6595341
+  },
+  {
+    "id": 605,
+    "name": "A. Le Coq Arena",
+    "city": "Tallinn",
+    "capacity": 14405,
+    "latitude": 59.4213081,
+    "longitude": 24.7320719
+  },
+  {
+    "id": 607,
+    "name": "Kalevi Staadion",
+    "city": "Narva",
+    "capacity": 1000,
+    "latitude": 59.3818405,
+    "longitude": 28.1882081
+  },
+  {
+    "id": 2326,
+    "name": "Elva linnastaadion",
+    "city": "Elva",
+    "capacity": 1500,
+    "latitude": 58.2251914,
+    "longitude": 26.4050536
+  },
+  {
+    "id": 2328,
+    "name": "A. Le Coq Arena I muru",
+    "city": "Tallinn",
+    "capacity": 300,
+    "latitude": 59.4213081,
+    "longitude": 24.7320719
+  },
+  {
+    "id": 2331,
+    "name": "Kalevi Keskstaadioni kunstmuru",
+    "city": "Tallinn",
+    "capacity": 1360,
+    "latitude": 59.4242824,
+    "longitude": 24.7627736
+  },
+  {
+    "id": 2333,
+    "name": "Annelinna Gümnaasium staadion",
+    "city": "Tartu",
+    "capacity": 500,
+    "latitude": 58.3751219,
+    "longitude": 26.7735378
+  },
+  {
+    "id": 7100,
+    "name": "Pärnu Rannastaadion",
+    "city": "Pärnu",
+    "capacity": 2495,
+    "latitude": 58.37412510000001,
+    "longitude": 24.5029118
+  },
+  {
+    "id": 2334,
+    "name": "Kuressaare linnastaadion",
+    "city": "Kuressaare",
+    "capacity": 1600,
+    "latitude": 58.2421401,
+    "longitude": 22.4791437
+  },
+  {
+    "id": 2336,
+    "name": "Paide linnastaadion",
+    "city": "Paide",
+    "capacity": 1000,
+    "latitude": 58.8784709,
+    "longitude": 25.5406429
+  },
+  {
+    "id": 2338,
+    "name": "Tamme staadion",
+    "city": "Tartu",
+    "capacity": 2500,
+    "latitude": 58.3664525,
+    "longitude": 26.7137237
+  },
+  {
+    "id": 2339,
+    "name": "Viljandi linnastaadion",
+    "city": "Viljandi",
+    "capacity": 2506,
+    "latitude": 58.3610975,
+    "longitude": 25.606813
+  },
+  {
+    "id": 7091,
+    "name": "Männiku staadion",
+    "city": "Tallinn",
+    "capacity": 1000,
+    "latitude": 59.3830544,
+    "longitude": 24.7136332
+  },
+  {
+    "id": 2337,
+    "name": "Kadrioru staadion",
+    "city": "Tallinn",
+    "capacity": 4880,
+    "latitude": 59.4345024,
+    "longitude": 24.7833479
+  },
+  {
+    "id": 10271662486,
+    "name": "Phoenix Rising Stadium",
+    "city": "Phoenix",
+    "capacity": 10000,
+    "latitude": 33.445208,
+    "longitude": -112.0014961
+  },
+  {
+    "id": 10603,
+    "name": "Wismari staadion",
+    "city": "Tallinn",
+    "capacity": 500,
+    "latitude": 59.4314661,
+    "longitude": 24.732807
+  },
+  {
+    "id": 21830,
+    "name": "Tamme staadioni kunstmuru",
+    "city": "Tartu",
+    "capacity": 1000,
+    "latitude": 58.3664525,
+    "longitude": 26.7137237
+  },
+  {
+    "id": 8551,
+    "name": "Lasnamäe SPK kunstmuruväljak",
+    "city": "Tallinn",
+    "capacity": 666,
+    "latitude": 59.45765069999999,
+    "longitude": 24.8177819
+  },
+  {
+    "id": 10593,
+    "name": "Sportland Arena",
+    "city": "Tallinn",
+    "capacity": 1210,
+    "latitude": 59.420726,
+    "longitude": 24.734263
+  },
+  {
+    "id": 10598,
+    "name": "Nike Arena",
+    "city": "Tallinn",
+    "capacity": 1000,
+    "latitude": 59.4203555,
+    "longitude": 24.7354046
+  },
+  {
+    "id": 21831,
+    "name": "Kärdla linnastaadion",
+    "city": "Kärdla",
+    "capacity": 1500,
+    "latitude": 58.99612140000001,
+    "longitude": 22.750246
+  },
+  {
+    "id": 21832,
+    "name": "Paide jalgpallihall",
+    "city": "Paide",
+    "capacity": 500,
+    "latitude": 58.8775173,
+    "longitude": 25.5421143
+  },
+  {
+    "id": 21833,
+    "name": "Rapla Kunstmurustaadion",
+    "city": "Rapla",
+    "capacity": 1000,
+    "latitude": 59.0034033,
+    "longitude": 24.7862141
+  },
+  {
+    "id": 21834,
+    "name": "Kose Gümnaasiumi staadion",
+    "city": "Kose",
+    "capacity": 1000,
+    "latitude": 59.18464019999999,
+    "longitude": 25.1626792
+  },
+  {
+    "id": 9406,
+    "name": "Loo kunstmuruväljak",
+    "city": "Loo",
+    "capacity": 1000,
+    "latitude": 59.4359705,
+    "longitude": 24.9484353
+  },
+  {
+    "id": 9407,
+    "name": "Lootospark",
+    "city": "Põlva",
+    "capacity": 600,
+    "latitude": 58.05167460000001,
+    "longitude": 27.0487964
+  },
+  {
+    "id": 10596,
+    "name": "Haapsalu Staadion",
+    "city": "Haapsalu",
+    "capacity": 2000,
+    "latitude": 58.936361,
+    "longitude": 23.5400735
+  },
+  {
+    "id": 21835,
+    "name": "Maardu kunstmuruväljak",
+    "city": "Maardu",
+    "capacity": 1000,
+    "latitude": 59.4790417,
+    "longitude": 25.0229959
+  },
+  {
+    "id": 10599,
+    "name": "Pärnu kunstmuru",
+    "city": "Pärnu",
+    "capacity": 1000,
+    "latitude": 58.4043184,
+    "longitude": 24.4866966
+  },
+  {
+    "id": 21836,
+    "name": "Saku kunstmuruväljak",
+    "city": "Saku",
+    "capacity": 1000,
+    "latitude": 59.2967186,
+    "longitude": 24.6685522
+  },
+  {
+    "id": 253031760243,
+    "name": "Lilleküla Football Complex",
+    "city": "Tallinn",
+    "capacity": null,
+    "latitude": 59.4213081,
+    "longitude": 24.7320719
+  },
+  {
+    "id": 2929,
+    "name": "Lasnamäe Kergejõustikuhalli kunstmuruväljak",
+    "city": "Tallinn",
+    "capacity": 1000,
+    "latitude": 59.43613059999999,
+    "longitude": 24.8390669
+  },
+  {
+    "id": 774350729985,
+    "name": "Vastseliina Staadion",
+    "city": "Vastseliina",
+    "capacity": null,
+    "latitude": 57.7333697,
+    "longitude": 27.2891427
+  },
+  {
+    "id": 10605,
+    "name": "Viimsi Staadion",
+    "city": "Haabneeme",
+    "capacity": 2000,
+    "latitude": 59.5096739,
+    "longitude": 24.8349804
+  },
+  {
+    "id": 11599,
+    "name": "Tabasalu Staadion",
+    "city": "Tabasalu",
+    "capacity": 1000,
+    "latitude": 59.4285812,
+    "longitude": 24.5342246
+  },
+  {
+    "id": 21837,
+    "name": "Aruküla staadion",
+    "city": "Aruküla",
+    "capacity": 1000,
+    "latitude": 59.3633604,
+    "longitude": 25.0766378
+  },
+  {
+    "id": 21838,
+    "name": "Kotka staadion",
+    "city": "Tallinn",
+    "capacity": 1000,
+    "latitude": 59.4087075,
+    "longitude": 24.7209955
+  },
+  {
+    "id": 18575,
+    "name": "Laagri kunstmuru",
+    "city": "Tallinn",
+    "capacity": 1000,
+    "latitude": 59.35024780000001,
+    "longitude": 24.6162648
+  },
+  {
+    "id": 183534745614,
+    "name": "Maarjamäe staadion",
+    "city": "Tallinn",
+    "capacity": 100,
+    "latitude": 59.45745679999999,
+    "longitude": 24.815739
+  },
+  {
+    "id": 226616715858,
+    "name": "Sillamäe Kalevi staadion",
+    "city": "Sillamäe",
+    "capacity": 800,
+    "latitude": 59.395027,
+    "longitude": 27.7726673
+  },
+  {
+    "id": 2329,
+    "name": "Spordikeskuse staadion",
+    "city": "Kohtla-Järve",
+    "capacity": 780,
+    "latitude": 59.39766410000001,
+    "longitude": 27.2588631
+  },
+  {
+    "id": 10601,
+    "name": "Sõle Gümnaasiumi Staadion",
+    "city": "Tallinn",
+    "capacity": 500,
+    "latitude": 59.4427477,
+    "longitude": 24.7065591
+  },
+  {
+    "id": 21840,
+    "name": "Keila kunstmuru",
+    "city": "Keila",
+    "capacity": 1000,
+    "latitude": 59.30732930000001,
+    "longitude": 24.4046014
+  },
+  {
+    "id": 923064828986,
+    "name": "Tartu Tamme staadion",
+    "city": "Tartu",
+    "capacity": 1638,
+    "latitude": 58.3664525,
+    "longitude": 26.7137237
+  },
+  {
+    "id": 21841,
+    "name": "Märjamaa Gümnaasiumi Staadion",
+    "city": "Märjamaa",
+    "capacity": 1000,
+    "latitude": 58.9061501,
+    "longitude": 24.4248551
+  },
+  {
+    "id": 21842,
+    "name": "Kehra Kunstmurustaadion",
+    "city": "Kehra",
+    "capacity": 1000,
+    "latitude": 59.3306713,
+    "longitude": 25.3405301
+  },
+  {
+    "id": 205441950990,
+    "name": "Wismari staadion",
+    "city": "Tallinn",
+    "capacity": 150,
+    "latitude": 59.4314661,
+    "longitude": 24.732807
+  },
+  {
+    "id": 21843,
+    "name": "Raja Jalgpallihall",
+    "city": "Tallinn",
+    "capacity": 1000,
+    "latitude": 59.393793,
+    "longitude": 24.6644575
+  },
+  {
+    "id": 588632990616,
+    "name": "Tartu Annelinna staadion",
+    "city": "Tartu",
+    "capacity": 500,
+    "latitude": 58.3751219,
+    "longitude": 26.7735378
+  },
+  {
+    "id": 2327,
+    "name": "Maarjamäe Staadion",
+    "city": "Tallinn",
+    "capacity": 2000,
+    "latitude": 59.45745679999999,
+    "longitude": 24.815739
+  },
+  {
+    "id": 2332,
+    "name": "Tartu Sepa tänava staadion",
+    "city": "Tartu",
+    "capacity": 1000,
+    "latitude": 58.3490936,
+    "longitude": 26.7253925
+  },
+  {
+    "id": 21456,
+    "name": "Kuressaare kunstmuru",
+    "city": "Kuressaare",
+    "capacity": 1000,
+    "latitude": 58.25112170000001,
+    "longitude": 22.499378
+  },
+  {
+    "id": 190454384835,
+    "name": "Jõhvi linnastaadion",
+    "city": "Jõhvi",
+    "capacity": 1080,
+    "latitude": 59.3560604,
+    "longitude": 27.4195732
+  },
+  {
+    "id": 389264205205,
+    "name": "Pärnu Rannastaadion",
+    "city": "Pärnu",
+    "capacity": 1501,
+    "latitude": 58.37412510000001,
+    "longitude": 24.5029118
+  }
+]
