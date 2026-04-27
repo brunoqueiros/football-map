@@ -28,8 +28,8 @@
     "name": "Bechem Park",
     "city": "Bechem",
     "capacity": 5000,
-    "latitude": 49.508534,
-    "longitude": 6.093801699999999
+    "latitude": 7.089269413264268,
+    "longitude": -2.031029847345735
   },
   {
     "id": 7794,
@@ -164,8 +164,8 @@
     "name": "Presby Park",
     "city": "Debibi",
     "capacity": 1000,
-    "latitude": 50.8643648,
-    "longitude": 4.717417699999999
+    "latitude": 5.728771199326673,
+    "longitude": -0.19488160210622027
   },
   {
     "id": 22695,
@@ -308,8 +308,8 @@
     "name": "Stadium",
     "city": "Ho",
     "capacity": null,
-    "latitude": 49.6156091,
-    "longitude": 6.1096943
+    "latitude": 6.601861539852595,
+    "longitude": 0.46645241140393245
   },
   {
     "id": 721567656401,
@@ -348,8 +348,8 @@
     "name": "Azulewanu",
     "city": "Azulewanu",
     "capacity": 2000,
-    "latitude": 49.4890687,
-    "longitude": 6.072354199999999
+    "latitude": 4.954950327547747,
+    "longitude": -2.391213212901613
   },
   {
     "id": 424895397329,

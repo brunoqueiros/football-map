@@ -1,0 +1,122 @@
+[
+    {
+        "id": 667,
+        "name": "Lincoln Red Imps FC",
+        "code": "LIN",
+        "country": "Gibraltar",
+        "founded": null,
+        "national": false,
+        "logo": "667.png",
+        "venue_id": 760
+    },
+    {
+        "id": 698,
+        "name": "St Joseph S Fc",
+        "code": null,
+        "country": "Gibraltar",
+        "founded": null,
+        "national": false,
+        "logo": "698.png",
+        "venue_id": 760
+    },
+    {
+        "id": 10125,
+        "name": "Europa",
+        "code": null,
+        "country": "Gibraltar",
+        "founded": null,
+        "national": false,
+        "logo": "10125.png",
+        "venue_id": 760
+    },
+    {
+        "id": 16130,
+        "name": "College 1975",
+        "code": null,
+        "country": "Gibraltar",
+        "founded": null,
+        "national": false,
+        "logo": "16130.png",
+        "venue_id": 760
+    },
+    {
+        "id": 16131,
+        "name": "Europa Point",
+        "code": null,
+        "country": "Gibraltar",
+        "founded": 2014,
+        "national": false,
+        "logo": "16131.png",
+        "venue_id": 760
+    },
+    {
+        "id": 16132,
+        "name": "Glacis United",
+        "code": null,
+        "country": "Gibraltar",
+        "founded": null,
+        "national": false,
+        "logo": "16132.png",
+        "venue_id": 760
+    },
+    {
+        "id": 16133,
+        "name": "Lions Gibraltar",
+        "code": null,
+        "country": "Gibraltar",
+        "founded": null,
+        "national": false,
+        "logo": "16133.png",
+        "venue_id": 760
+    },
+    {
+        "id": 16134,
+        "name": "Lynx",
+        "code": null,
+        "country": "Gibraltar",
+        "founded": null,
+        "national": false,
+        "logo": "16134.png",
+        "venue_id": 760
+    },
+    {
+        "id": 16135,
+        "name": "Magpies",
+        "code": null,
+        "country": "Gibraltar",
+        "founded": null,
+        "national": false,
+        "logo": "16135.png",
+        "venue_id": 760
+    },
+    {
+        "id": 16136,
+        "name": "Manchester 62",
+        "code": null,
+        "country": "Gibraltar",
+        "founded": 1962,
+        "national": false,
+        "logo": "16136.png",
+        "venue_id": 760
+    },
+    {
+        "id": 16137,
+        "name": "Mons Calpe",
+        "code": null,
+        "country": "Gibraltar",
+        "founded": null,
+        "national": false,
+        "logo": "16137.png",
+        "venue_id": 760
+    },
+    {
+        "id": 16790,
+        "name": "Hound Dogs",
+        "code": null,
+        "country": "Gibraltar",
+        "founded": null,
+        "national": false,
+        "logo": "16790.png",
+        "venue_id": 760
+    }
+]
