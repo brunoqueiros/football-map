@@ -1,0 +1,82 @@
+[
+  {
+    "id": 3353,
+    "name": "Govind Park",
+    "city": "Ba",
+    "capacity": 13500,
+    "latitude": -17.5350415,
+    "longitude": 177.6695174
+  },
+  {
+    "id": 3354,
+    "name": "Subrail Park",
+    "city": "Labasa",
+    "capacity": 10000,
+    "latitude": -16.4273857,
+    "longitude": 179.3746306
+  },
+  {
+    "id": 3355,
+    "name": "Churchill Park",
+    "city": "Lautoka",
+    "capacity": 18000,
+    "latitude": -17.6066172,
+    "longitude": 177.4520516
+  },
+  {
+    "id": 3356,
+    "name": "Prince Charles Park",
+    "city": "Nadi",
+    "capacity": 18000,
+    "latitude": -17.8022888,
+    "longitude": 177.4201492
+  },
+  {
+    "id": 3357,
+    "name": "ANZ Stadium",
+    "city": "Suva",
+    "capacity": 10000,
+    "latitude": -18.1496236,
+    "longitude": 178.4491705
+  },
+  {
+    "id": 3358,
+    "name": "Vodafone Ratu Cakobau Park",
+    "city": "Nausori",
+    "capacity": 8000,
+    "latitude": -18.0311807,
+    "longitude": 178.5353967
+  },
+  {
+    "id": 19498,
+    "name": "HFC Bank Stadium",
+    "city": "Suva",
+    "capacity": 10000,
+    "latitude": -18.1496236,
+    "longitude": 178.4491705
+  },
+  {
+    "id": 3361,
+    "name": "Lawaqa Park",
+    "city": "Sigatoka",
+    "capacity": 11500,
+    "latitude": -18.1426804,
+    "longitude": 177.5021735
+  },
+  {
+    "id": 7105,
+    "name": "Thompson Park",
+    "city": "Navua",
+    "capacity": 1000,
+    "latitude": -18.2240443,
+    "longitude": 178.1680142
+  },
+  {
+    "id": 813347692780,
+    "name": "Ratu Cakobau Park",
+    "city": "Nausori",
+    "capacity": 8000,
+    "latitude": -18.0311807,
+    "longitude": 178.5353967
+  }
+]

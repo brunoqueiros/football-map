@@ -51,3 +51,4 @@ export { default as estonia } from './estonia-teams.json';
 export { default as eswatini } from './eswatini-teams.json';
 export { default as ethiopia } from './ethiopia-teams.json';
 export { default as faroeIslands } from './faroe-islands-teams.json';
+export { default as fiji } from './fiji-teams.json';

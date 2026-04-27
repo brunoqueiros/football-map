@@ -1,0 +1,102 @@
+[
+    {
+        "id": 4382,
+        "name": "Ba",
+        "code": "BA",
+        "country": "Fiji",
+        "founded": 1935,
+        "national": false,
+        "logo": "4382.png",
+        "venue_id": 3353
+    },
+    {
+        "id": 4383,
+        "name": "Labasa",
+        "code": null,
+        "country": "Fiji",
+        "founded": 1942,
+        "national": false,
+        "logo": "4383.png",
+        "venue_id": 3354
+    },
+    {
+        "id": 4384,
+        "name": "Lautoka",
+        "code": null,
+        "country": "Fiji",
+        "founded": 1934,
+        "national": false,
+        "logo": "4384.png",
+        "venue_id": 3355
+    },
+    {
+        "id": 4385,
+        "name": "Nadi",
+        "code": "NAD",
+        "country": "Fiji",
+        "founded": 1938,
+        "national": false,
+        "logo": "4385.png",
+        "venue_id": 3356
+    },
+    {
+        "id": 4386,
+        "name": "Nasinu",
+        "code": null,
+        "country": "Fiji",
+        "founded": 1976,
+        "national": false,
+        "logo": "4386.png",
+        "venue_id": 3357
+    },
+    {
+        "id": 4387,
+        "name": "Rewa",
+        "code": null,
+        "country": "Fiji",
+        "founded": 1928,
+        "national": false,
+        "logo": "4387.png",
+        "venue_id": 3358
+    },
+    {
+        "id": 4388,
+        "name": "Suva",
+        "code": null,
+        "country": "Fiji",
+        "founded": 1928,
+        "national": false,
+        "logo": "4388.png",
+        "venue_id": 19498
+    },
+    {
+        "id": 4392,
+        "name": "Nadroga",
+        "code": null,
+        "country": "Fiji",
+        "founded": 1938,
+        "national": false,
+        "logo": "4392.png",
+        "venue_id": 3361
+    },
+    {
+        "id": 10078,
+        "name": "Navua",
+        "code": null,
+        "country": "Fiji",
+        "founded": 1943,
+        "national": false,
+        "logo": "10078.png",
+        "venue_id": 7105
+    },
+    {
+        "id": 13469,
+        "name": "Tailevu Naitasiri",
+        "code": null,
+        "country": "Fiji",
+        "founded": null,
+        "national": false,
+        "logo": "13469.png",
+        "venue_id": 813347692780
+    }
+]
