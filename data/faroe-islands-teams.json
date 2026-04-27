@@ -1,0 +1,202 @@
+[
+    {
+        "id": 4176,
+        "name": "B71",
+        "code": null,
+        "country": "Faroe-Islands",
+        "founded": 1970,
+        "national": false,
+        "logo": "4176.png",
+        "venue_id": 3190
+    },
+    {
+        "id": 4179,
+        "name": "HB II",
+        "code": null,
+        "country": "Faroe-Islands",
+        "founded": 1904,
+        "national": false,
+        "logo": "4179.png",
+        "venue_id": 609
+    },
+    {
+        "id": 4180,
+        "name": "KÍ II",
+        "code": null,
+        "country": "Faroe-Islands",
+        "founded": 1905,
+        "national": false,
+        "logo": "4180.png",
+        "venue_id": 21585
+    },
+    {
+        "id": 4181,
+        "name": "NSÍ II",
+        "code": null,
+        "country": "Faroe-Islands",
+        "founded": 1957,
+        "national": false,
+        "logo": "4181.png",
+        "venue_id": 611
+    },
+    {
+        "id": 4182,
+        "name": "Suduroy",
+        "code": null,
+        "country": "Faroe-Islands",
+        "founded": 1905,
+        "national": false,
+        "logo": "4182.png",
+        "venue_id": 3193
+    },
+    {
+        "id": 4183,
+        "name": "Víkingur II",
+        "code": null,
+        "country": "Faroe-Islands",
+        "founded": 2008,
+        "national": false,
+        "logo": "4183.png",
+        "venue_id": 612
+    },
+    {
+        "id": 4184,
+        "name": "AB",
+        "code": null,
+        "country": "Faroe-Islands",
+        "founded": 1973,
+        "national": false,
+        "logo": "4184.png",
+        "venue_id": 3189
+    },
+    {
+        "id": 4185,
+        "name": "B36 II",
+        "code": null,
+        "country": "Faroe-Islands",
+        "founded": 1936,
+        "national": false,
+        "logo": "4185.png",
+        "venue_id": 609
+    },
+    {
+        "id": 4192,
+        "name": "TB",
+        "code": null,
+        "country": "Faroe-Islands",
+        "founded": 1892,
+        "national": false,
+        "logo": "4192.png",
+        "venue_id": 3198
+    },
+    {
+        "id": 10076,
+        "name": "Hoyvík",
+        "code": null,
+        "country": "Faroe-Islands",
+        "founded": 1975,
+        "national": false,
+        "logo": "10076.png",
+        "venue_id": 7104
+    },
+    {
+        "id": 580,
+        "name": "Vikingur Gota",
+        "code": null,
+        "country": "Faroe-Islands",
+        "founded": 2008,
+        "national": false,
+        "logo": "580.png",
+        "venue_id": 612
+    },
+    {
+        "id": 678,
+        "name": "B36 Torshavn",
+        "code": null,
+        "country": "Faroe-Islands",
+        "founded": 1936,
+        "national": false,
+        "logo": "678.png",
+        "venue_id": 609
+    },
+    {
+        "id": 682,
+        "name": "NSI Runavik",
+        "code": null,
+        "country": "Faroe-Islands",
+        "founded": 1957,
+        "national": false,
+        "logo": "682.png",
+        "venue_id": 611
+    },
+    {
+        "id": 701,
+        "name": "KI Klaksvik",
+        "code": null,
+        "country": "Faroe-Islands",
+        "founded": 1905,
+        "national": false,
+        "logo": "701.png",
+        "venue_id": 610
+    },
+    {
+        "id": 4133,
+        "name": "HB Torshavn",
+        "code": null,
+        "country": "Faroe-Islands",
+        "founded": 1904,
+        "national": false,
+        "logo": "4133.png",
+        "venue_id": 609
+    },
+    {
+        "id": 4174,
+        "name": "07 Vestur",
+        "code": null,
+        "country": "Faroe-Islands",
+        "founded": 2004,
+        "national": false,
+        "logo": "4174.png",
+        "venue_id": 3188
+    },
+    {
+        "id": 4177,
+        "name": "EB / Streymur",
+        "code": null,
+        "country": "Faroe-Islands",
+        "founded": 1993,
+        "national": false,
+        "logo": "4177.png",
+        "venue_id": 3191
+    },
+    {
+        "id": 4186,
+        "name": "B68",
+        "code": null,
+        "country": "Faroe-Islands",
+        "founded": 1962,
+        "national": false,
+        "logo": "4186.png",
+        "venue_id": 3194
+    },
+    {
+        "id": 4187,
+        "name": "ÍF II",
+        "code": null,
+        "country": "Faroe-Islands",
+        "founded": null,
+        "national": false,
+        "logo": "4187.png",
+        "venue_id": 3195
+    },
+    {
+        "id": 4191,
+        "name": "Skála",
+        "code": null,
+        "country": "Faroe-Islands",
+        "founded": 1905,
+        "national": false,
+        "logo": "4191.png",
+        "venue_id": 3196
+    }
+]

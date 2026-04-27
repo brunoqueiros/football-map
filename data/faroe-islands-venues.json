@@ -1,0 +1,122 @@
+[
+  {
+    "id": 3190,
+    "name": "inni í Dal",
+    "city": "Sandur",
+    "capacity": 350,
+    "latitude": 61.86065840000001,
+    "longitude": -6.8294951
+  },
+  {
+    "id": 609,
+    "name": "Gundadalur",
+    "city": "Tórshavn",
+    "capacity": 5000,
+    "latitude": 62.0195051,
+    "longitude": -6.7786709
+  },
+  {
+    "id": 21585,
+    "name": "Við Djúpumýrar",
+    "city": "Klaksvík",
+    "capacity": 4000,
+    "latitude": 62.2246913,
+    "longitude": -6.5802967
+  },
+  {
+    "id": 611,
+    "name": "við Løkin",
+    "city": "Runavík",
+    "capacity": 2000,
+    "latitude": 62.10582290000001,
+    "longitude": -6.723076300000001
+  },
+  {
+    "id": 3193,
+    "name": "Vesturi á Eiðinum",
+    "city": "Vágur",
+    "capacity": 3000,
+    "latitude": 61.4656201,
+    "longitude": -6.839388199999999
+  },
+  {
+    "id": 612,
+    "name": "Sarpugerði",
+    "city": "Norðragøta",
+    "capacity": 1600,
+    "latitude": 62.1995079,
+    "longitude": -6.7455573
+  },
+  {
+    "id": 3189,
+    "name": "Skansi Arena",
+    "city": "Argir",
+    "capacity": 2000,
+    "latitude": 61.99513409999999,
+    "longitude": -6.8027643
+  },
+  {
+    "id": 3198,
+    "name": "Við Stórá Stadium",
+    "city": "Trongisvágur",
+    "capacity": 1000,
+    "latitude": 61.5624681,
+    "longitude": -6.8518759
+  },
+  {
+    "id": 7104,
+    "name": "Gundadalur Niðari Vøllur",
+    "city": "Tórshavn",
+    "capacity": 500,
+    "latitude": 62.0185253,
+    "longitude": -6.7798953
+  },
+  {
+    "id": 610,
+    "name": "Injector Arena",
+    "city": "Klaksvík",
+    "capacity": 4000,
+    "latitude": 62.2246913,
+    "longitude": -6.5802967
+  },
+  {
+    "id": 3188,
+    "name": "á Dungasandi",
+    "city": "Sørvágur",
+    "capacity": 500,
+    "latitude": 62.1995079,
+    "longitude": -6.7455573
+  },
+  {
+    "id": 3191,
+    "name": "Við Margáir",
+    "city": "Streymnes",
+    "capacity": 2000,
+    "latitude": 62.19408489999999,
+    "longitude": -7.043277199999999
+  },
+  {
+    "id": 3194,
+    "name": "Svangaskarð (graslíkisvøllur)",
+    "city": "Toftir",
+    "capacity": 1450,
+    "latitude": 62.1009452,
+    "longitude": -6.7368482
+  },
+  {
+    "id": 3195,
+    "name": "á Fløtugerði",
+    "city": "Fuglafjørður",
+    "capacity": 3000,
+    "latitude": 62.24491889999999,
+    "longitude": -6.8167025
+  },
+  {
+    "id": 3196,
+    "name": "Undir Mýruhjalla",
+    "city": "Skáli",
+    "capacity": 1500,
+    "latitude": 62.1598345,
+    "longitude": -6.788506399999999
+  }
+]

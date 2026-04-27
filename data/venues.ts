@@ -50,3 +50,4 @@ export { default as england } from './england-venues.json';
 export { default as estonia } from './estonia-venues.json';
 export { default as eswatini } from './eswatini-venues.json';
 export { default as ethiopia } from './ethiopia-venues.json';
+export { default as faroeIslands } from './faroe-islands-venues.json';
