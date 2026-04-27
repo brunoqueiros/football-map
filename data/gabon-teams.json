@@ -1,0 +1,132 @@
+[
+    {
+        "id": 6415,
+        "name": "Cercle Mbéri",
+        "code": null,
+        "country": "Gabon",
+        "founded": null,
+        "national": false,
+        "logo": "6415.png",
+        "venue_id": 4729
+    },
+    {
+        "id": 8069,
+        "name": "Pélican",
+        "code": null,
+        "country": "Gabon",
+        "founded": null,
+        "national": false,
+        "logo": "8069.png",
+        "venue_id": 5741
+    },
+    {
+        "id": 8089,
+        "name": "Mangasport",
+        "code": null,
+        "country": "Gabon",
+        "founded": 1962,
+        "national": false,
+        "logo": "8089.png",
+        "venue_id": 5749
+    },
+    {
+        "id": 8090,
+        "name": "Mounana",
+        "code": null,
+        "country": "Gabon",
+        "founded": 2006,
+        "national": false,
+        "logo": "8090.png",
+        "venue_id": 5750
+    },
+    {
+        "id": 15564,
+        "name": "Bouenguidi",
+        "code": null,
+        "country": "Gabon",
+        "founded": null,
+        "national": false,
+        "logo": "15564.png",
+        "venue_id": 177429954045
+    },
+    {
+        "id": 19865,
+        "name": "Stade Mandji",
+        "code": null,
+        "country": "Gabon",
+        "founded": 1962,
+        "national": false,
+        "logo": "19865.png",
+        "venue_id": 19006
+    },
+    {
+        "id": 21187,
+        "name": "Bitam",
+        "code": null,
+        "country": "Gabon",
+        "founded": null,
+        "national": false,
+        "logo": "21187.png",
+        "venue_id": 19606
+    },
+    {
+        "id": 21188,
+        "name": "CS Bendje",
+        "code": null,
+        "country": "Gabon",
+        "founded": null,
+        "national": false,
+        "logo": "21188.png",
+        "venue_id": 818480362648
+    },
+    {
+        "id": 21189,
+        "name": "Dikaki",
+        "code": null,
+        "country": "Gabon",
+        "founded": null,
+        "national": false,
+        "logo": "21189.png",
+        "venue_id": 19607
+    },
+    {
+        "id": 21190,
+        "name": "FC 105",
+        "code": null,
+        "country": "Gabon",
+        "founded": null,
+        "national": false,
+        "logo": "21190.png",
+        "venue_id": 4729
+    },
+    {
+        "id": 21191,
+        "name": "Lozo",
+        "code": null,
+        "country": "Gabon",
+        "founded": 1980,
+        "national": false,
+        "logo": "21191.png",
+        "venue_id": 5749
+    },
+    {
+        "id": 21193,
+        "name": "US Oyem",
+        "code": null,
+        "country": "Gabon",
+        "founded": null,
+        "national": false,
+        "logo": "21193.png",
+        "venue_id": 19609
+    },
+    {
+        "id": 21194,
+        "name": "Vautour Club",
+        "code": null,
+        "country": "Gabon",
+        "founded": null,
+        "national": false,
+        "logo": "21194.png",
+        "venue_id": 438536146300
+    }
+]

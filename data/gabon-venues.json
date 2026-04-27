@@ -1,0 +1,90 @@
+[
+  {
+    "id": 4729,
+    "name": "Stade Idriss Ngari",
+    "city": "Owendo",
+    "capacity": 5000,
+    "latitude": 0.391749,
+    "longitude": 9.452237
+  },
+  {
+    "id": 5741,
+    "name": "Stade Jean Koumou",
+    "city": "Lambaréné",
+    "capacity": 390,
+    "latitude": -1.5591109,
+    "longitude": 13.2272147
+  },
+  {
+    "id": 5749,
+    "name": "Stade Henri Sylvoz",
+    "city": "Moanda",
+    "capacity": 9500,
+    "latitude": -1.5591109,
+    "longitude": 13.2272147
+  },
+  {
+    "id": 5750,
+    "name": "Stade de Nzeng Ayong",
+    "city": "Libreville",
+    "capacity": 464,
+    "latitude": 0.424456,
+    "longitude": 9.4790437
+  },
+  {
+    "id": 177429954045,
+    "name": "Stade TATA MIGOLET",
+    "city": "Bongoville",
+    "capacity": null,
+    "latitude": -1.1452895,
+    "longitude": 12.4702593
+  },
+  {
+    "id": 19006,
+    "name": "Stade Pierre Claver Divounguy",
+    "city": "Port-Gentil",
+    "capacity": 3932,
+    "latitude": -0.72549,
+    "longitude": 8.7831067
+  },
+  {
+    "id": 19606,
+    "name": "Stade Gaston Péril",
+    "city": "Bitam",
+    "capacity": 2115,
+    "latitude": 2.0786404,
+    "longitude": 11.5009056
+  },
+  {
+    "id": 818480362648,
+    "name": "Stade Pierre Claver Divungui",
+    "city": "Port-Gentil",
+    "capacity": 4000,
+    "latitude": -0.72549,
+    "longitude": 8.7831067
+  },
+  {
+    "id": 19607,
+    "name": "Stade Henri Mbombet",
+    "city": "Mouila",
+    "capacity": 2000,
+    "latitude": -1.8495838,
+    "longitude": 11.0517921
+  },
+  {
+    "id": 19609,
+    "name": "Stade d'Akouakam",
+    "city": "Oyem",
+    "capacity": 452,
+    "latitude": 1.6154954,
+    "longitude": 11.5830741
+  },
+  {
+    "id": 438536146300,
+    "name": "Stade Jean-Nkoumou",
+    "city": "Libreville",
+    "capacity": 2500,
+    "latitude": 0.391749,
+    "longitude": 9.452237
+  }
+]
