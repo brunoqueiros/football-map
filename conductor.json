@@ -1,6 +1,6 @@
 {
     "scripts": {
-        "setup": "cp $CONDUCTOR_ROOT_PATH/.env.local .env.local && cp -r $CONDUCTOR_ROOT_PATH/.vercel . && npm install",
+        "setup": "cp $CONDUCTOR_ROOT_PATH/.env.local .env.local && npm install",
         "run": "npm run dev",
         "archive": ""
     }
