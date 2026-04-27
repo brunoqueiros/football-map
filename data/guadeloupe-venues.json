@@ -1,0 +1,114 @@
+[
+  {
+    "id": 617799233998,
+    "name": "Stade Pierre-Bérot",
+    "city": "Morne-à-l'Eau",
+    "capacity": 1000,
+    "latitude": 16.3332101,
+    "longitude": -61.4564956
+  },
+  {
+    "id": 536768013011,
+    "name": "Stade Emmanuel-Goubin",
+    "city": "Le Moule",
+    "capacity": 3000,
+    "latitude": 16.293618,
+    "longitude": -61.3478524
+  },
+  {
+    "id": 302350493172,
+    "name": "Stade Multiusages des Abymes",
+    "city": "Les Abymes",
+    "capacity": 3000,
+    "latitude": 16.2768587,
+    "longitude": -61.5020437
+  },
+  {
+    "id": 110919722891,
+    "name": "Stade Roger Zénon",
+    "city": "Le Gosier",
+    "capacity": 1000,
+    "latitude": 16.2099076,
+    "longitude": -61.5017834
+  },
+  {
+    "id": 21241,
+    "name": "Stade de Rivière des Pères",
+    "city": "Basse-Terre",
+    "capacity": 2000,
+    "latitude": 16.0056676656903,
+    "longitude": -61.740516702078196
+  },
+  {
+    "id": 148348795462,
+    "name": "Stade des Abymes",
+    "city": "Les Abymes",
+    "capacity": 3000,
+    "latitude": 16.2688213,
+    "longitude": -61.50857139999999
+  },
+  {
+    "id": 97456732108,
+    "name": "Stade Flesselles",
+    "city": "Baie-Mahault",
+    "capacity": 2500,
+    "latitude": 16.26164315716131,
+    "longitude": -61.52583832206511
+  },
+  {
+    "id": 903458560167,
+    "name": "Stade municipal de Gourbeyre",
+    "city": "Gourbeyre",
+    "capacity": null,
+    "latitude": 15.9916912,
+    "longitude": -61.6888051
+  },
+  {
+    "id": 339264102588,
+    "name": "Stade des Abymes",
+    "city": "Les Abymes",
+    "capacity": 3000,
+    "latitude": 16.2688213,
+    "longitude": -61.50857139999999
+  },
+  {
+    "id": 628177408439,
+    "name": "Stade du CERFA",
+    "city": "Les Abymes",
+    "capacity": null,
+    "latitude": 16.2768587,
+    "longitude": -61.5020437
+  },
+  {
+    "id": 874073822727,
+    "name": "Stade municipal du Moule",
+    "city": "Le Moule",
+    "capacity": 3000,
+    "latitude": 16.3198904,
+    "longitude": -61.3426445
+  },
+  {
+    "id": 127031648032,
+    "name": "Stade Municipal de Baie-Mahault",
+    "city": "Baie-Mahault",
+    "capacity": 3000,
+    "latitude": 16.2640031,
+    "longitude": -61.58994120000001
+  },
+  {
+    "id": 998378817883,
+    "name": "Stade Municipal de Cambrefort",
+    "city": "Grand-Bourg",
+    "capacity": null,
+    "latitude": 16.0635625,
+    "longitude": -61.5716875
+  },
+  {
+    "id": 765189399854,
+    "name": "Stade Adrien Dollin",
+    "city": "Le Moule",
+    "capacity": 3000,
+    "latitude": 16.3198904,
+    "longitude": -61.3426445
+  }
+]

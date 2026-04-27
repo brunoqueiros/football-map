@@ -60,3 +60,4 @@ export { default as germany } from './germany-teams.json';
 export { default as ghana } from './ghana-teams.json';
 export { default as gibraltar } from './gibraltar-teams.json';
 export { default as grenada } from './grenada-teams.json';
+export { default as guadeloupe } from './guadeloupe-teams.json';

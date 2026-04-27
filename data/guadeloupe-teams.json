@@ -1,0 +1,142 @@
+[
+    {
+        "id": 3173,
+        "name": "Etoile de Morne-à-l'Eau",
+        "code": null,
+        "country": "Guadeloupe",
+        "founded": null,
+        "national": false,
+        "logo": "3173.png",
+        "venue_id": 617799233998
+    },
+    {
+        "id": 3203,
+        "name": "Moulien",
+        "code": null,
+        "country": "Guadeloupe",
+        "founded": null,
+        "national": false,
+        "logo": "3203.png",
+        "venue_id": 536768013011
+    },
+    {
+        "id": 3285,
+        "name": "Phare du Canal",
+        "code": null,
+        "country": "Guadeloupe",
+        "founded": null,
+        "national": false,
+        "logo": "3285.png",
+        "venue_id": 302350493172
+    },
+    {
+        "id": 4394,
+        "name": "Gosier",
+        "code": null,
+        "country": "Guadeloupe",
+        "founded": null,
+        "national": false,
+        "logo": "4394.png",
+        "venue_id": 110919722891
+    },
+    {
+        "id": 4395,
+        "name": "La Gauloise",
+        "code": null,
+        "country": "Guadeloupe",
+        "founded": null,
+        "national": false,
+        "logo": "4395.png",
+        "venue_id": 21241
+    },
+    {
+        "id": 4397,
+        "name": "Siroco Les Abymes",
+        "code": null,
+        "country": "Guadeloupe",
+        "founded": null,
+        "national": false,
+        "logo": "4397.svg",
+        "venue_id": 148348795462
+    },
+    {
+        "id": 4401,
+        "name": "USBM",
+        "code": null,
+        "country": "Guadeloupe",
+        "founded": null,
+        "national": false,
+        "logo": "4401.svg",
+        "venue_id": 97456732108
+    },
+    {
+        "id": 4405,
+        "name": "Gourbeyre",
+        "code": null,
+        "country": "Guadeloupe",
+        "founded": null,
+        "national": false,
+        "logo": "4405.svg",
+        "venue_id": 903458560167
+    },
+    {
+        "id": 6327,
+        "name": "Jeunesse Evolution",
+        "code": null,
+        "country": "Guadeloupe",
+        "founded": null,
+        "national": false,
+        "logo": "6327.png",
+        "venue_id": 339264102588
+    },
+    {
+        "id": 15551,
+        "name": "CERFA",
+        "code": null,
+        "country": "Guadeloupe",
+        "founded": null,
+        "national": false,
+        "logo": "15551.svg",
+        "venue_id": 628177408439
+    },
+    {
+        "id": 15552,
+        "name": "Dynamo Le Moule",
+        "code": null,
+        "country": "Guadeloupe",
+        "founded": null,
+        "national": false,
+        "logo": "15552.svg",
+        "venue_id": 874073822727
+    },
+    {
+        "id": 18187,
+        "name": "Sporting Baie-Mahault",
+        "code": null,
+        "country": "Guadeloupe",
+        "founded": null,
+        "national": false,
+        "logo": "18187.png",
+        "venue_id": 127031648032
+    },
+    {
+        "id": 22101,
+        "name": "Cambrefort",
+        "code": null,
+        "country": "Guadeloupe",
+        "founded": null,
+        "national": false,
+        "logo": "22101.svg",
+        "venue_id": 998378817883
+    },
+    {
+        "id": 24906,
+        "name": "AS Le Moule",
+        "code": null,
+        "country": "Guadeloupe",
+        "founded": null,
+        "national": false,
+        "logo": "24906.svg",
+        "venue_id": 765189399854
+    }
+]
