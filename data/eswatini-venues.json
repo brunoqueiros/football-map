@@ -1,0 +1,82 @@
+[
+  {
+    "id": 20036,
+    "name": "Ka-Langa Stadium",
+    "city": "Siteki",
+    "capacity": 2500,
+    "latitude": -26.4429452,
+    "longitude": 31.2055074
+  },
+  {
+    "id": 4732,
+    "name": "Somhlolo National Stadium",
+    "city": "Lobamba",
+    "capacity": 20000,
+    "latitude": -26.4429452,
+    "longitude": 31.2055074
+  },
+  {
+    "id": 12217,
+    "name": "Mavuso Sports Centre",
+    "city": "Manzini",
+    "capacity": 5000,
+    "latitude": -26.4905685,
+    "longitude": 31.373636
+  },
+  {
+    "id": 20213,
+    "name": "Mavuso Sports Centre",
+    "city": "Manzini",
+    "capacity": 3000,
+    "latitude": -26.4905685,
+    "longitude": 31.373636
+  },
+  {
+    "id": 1500,
+    "name": "Somhlolo National Stadium",
+    "city": "Lobamba",
+    "capacity": 20000,
+    "latitude": -26.4429452,
+    "longitude": 31.2055074
+  },
+  {
+    "id": 156679438965,
+    "name": "Simunye Stadium",
+    "city": "Simunye",
+    "capacity": null,
+    "latitude": -26.208293,
+    "longitude": 31.9325213
+  },
+  {
+    "id": 20214,
+    "name": "Ka-Langa Stadium",
+    "city": "Ka-Langa",
+    "capacity": 1000,
+    "latitude": -26.481395717050177,
+    "longitude": 31.88771038288937
+  },
+  {
+    "id": 228304751122,
+    "name": "Mayaluka Stadium",
+    "city": "Big Bend",
+    "capacity": 2000,
+    "latitude": -26.7667157,
+    "longitude": 31.931702
+  },
+  {
+    "id": 294680248275,
+    "name": "Mavuso Sports Centre",
+    "city": "Manzini",
+    "capacity": 3000,
+    "latitude": -26.4905685,
+    "longitude": 31.373636
+  },
+  {
+    "id": 999730982375,
+    "name": "Unknown",
+    "city": "Mbabane",
+    "capacity": null,
+    "latitude": -26.3263561,
+    "longitude": 31.1441558
+  }
+]

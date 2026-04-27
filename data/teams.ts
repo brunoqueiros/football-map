@@ -48,3 +48,4 @@ export { default as egypt } from './egypt-teams.json';
 export { default as elSalvador } from './el-salvador-teams.json';
 export { default as england } from './england-teams.json';
 export { default as estonia } from './estonia-teams.json';
+export { default as eswatini } from './eswatini-teams.json';

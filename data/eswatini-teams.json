@@ -1,0 +1,142 @@
+[
+    {
+        "id": 6421,
+        "name": "Green Mamba",
+        "code": null,
+        "country": "Eswatini",
+        "founded": 1987,
+        "national": false,
+        "logo": "6421.png",
+        "venue_id": 20036
+    },
+    {
+        "id": 8076,
+        "name": "Young Buffaloes",
+        "code": null,
+        "country": "Eswatini",
+        "founded": 1982,
+        "national": false,
+        "logo": "8076.png",
+        "venue_id": 4732
+    },
+    {
+        "id": 8107,
+        "name": "Mbabane Swallows",
+        "code": null,
+        "country": "Eswatini",
+        "founded": 1948,
+        "national": false,
+        "logo": "8107.png",
+        "venue_id": 12217
+    },
+    {
+        "id": 16817,
+        "name": "Manzini Sea Birds",
+        "code": null,
+        "country": "Eswatini",
+        "founded": null,
+        "national": false,
+        "logo": "16817.png",
+        "venue_id": 20213
+    },
+    {
+        "id": 16821,
+        "name": "Moneni Pirates",
+        "code": null,
+        "country": "Eswatini",
+        "founded": null,
+        "national": false,
+        "logo": "16821.png",
+        "venue_id": 4732
+    },
+    {
+        "id": 16822,
+        "name": "Royal Leopards",
+        "code": null,
+        "country": "Eswatini",
+        "founded": 1979,
+        "national": false,
+        "logo": "16822.png",
+        "venue_id": 12217
+    },
+    {
+        "id": 16826,
+        "name": "Highlanders",
+        "code": null,
+        "country": "Eswatini",
+        "founded": 1952,
+        "national": false,
+        "logo": "16826.png",
+        "venue_id": 1500
+    },
+    {
+        "id": 18314,
+        "name": "Rangers FC",
+        "code": null,
+        "country": "Eswatini",
+        "founded": null,
+        "national": false,
+        "logo": "18314.svg",
+        "venue_id": 156679438965
+    },
+    {
+        "id": 20371,
+        "name": "Madlenya",
+        "code": null,
+        "country": "Eswatini",
+        "founded": null,
+        "national": false,
+        "logo": "20371.png",
+        "venue_id": 20214
+    },
+    {
+        "id": 20372,
+        "name": "Nsingizini Hotspurs",
+        "code": null,
+        "country": "Eswatini",
+        "founded": null,
+        "national": false,
+        "logo": "20372.png",
+        "venue_id": 20213
+    },
+    {
+        "id": 22220,
+        "name": "Illovo",
+        "code": null,
+        "country": "Eswatini",
+        "founded": null,
+        "national": false,
+        "logo": "22220.png",
+        "venue_id": 228304751122
+    },
+    {
+        "id": 22544,
+        "name": "Ezulwini United",
+        "code": null,
+        "country": "Eswatini",
+        "founded": null,
+        "national": false,
+        "logo": "22544.png",
+        "venue_id": 294680248275
+    },
+    {
+        "id": 25018,
+        "name": "Sidwashini United",
+        "code": null,
+        "country": "Eswatini",
+        "founded": null,
+        "national": false,
+        "logo": "25018.svg",
+        "venue_id": 999730982375
+    },
+    {
+        "id": 25019,
+        "name": "Sisonkhe",
+        "code": null,
+        "country": "Eswatini",
+        "founded": null,
+        "national": false,
+        "logo": "25019.svg",
+        "venue_id": 228304751122
+    }
+]
