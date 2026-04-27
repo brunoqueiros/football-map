@@ -1,0 +1,378 @@
+[
+  {
+    "id": 692,
+    "name": "Stadioni Erosi Manjgaladze",
+    "city": "Samtredia",
+    "capacity": 5000,
+    "latitude": 42.160828,
+    "longitude": 42.3301393
+  },
+  {
+    "id": 693,
+    "name": "Ramaz Shengelias Sakhelobis Stadioni",
+    "city": "Kutaisi",
+    "capacity": 19400,
+    "latitude": 42.2550517,
+    "longitude": 42.6832577
+  },
+  {
+    "id": 690,
+    "name": "Tsentraluri Stadioni",
+    "city": "Sachkhere",
+    "capacity": 2000,
+    "latitude": 42.3199085,
+    "longitude": 41.9047025
+  },
+  {
+    "id": 2300,
+    "name": "Adjarabet Arena",
+    "city": "Batumi",
+    "capacity": 20000,
+    "latitude": 41.6350985,
+    "longitude": 41.6189022
+  },
+  {
+    "id": 691,
+    "name": "Boris Paichadze Dinamo Arena",
+    "city": "Tbilisi",
+    "capacity": 54202,
+    "latitude": 41.7230129,
+    "longitude": 44.7897691
+  },
+  {
+    "id": 2301,
+    "name": "Stadioni Tengiz Burjanadze",
+    "city": "Gori",
+    "capacity": 8230,
+    "latitude": 41.9826616,
+    "longitude": 44.1037105
+  },
+  {
+    "id": 2302,
+    "name": "Mikheil Meskhis sakhelobis Stadioni",
+    "city": "Tbilisi",
+    "capacity": 25453,
+    "latitude": 41.7097946,
+    "longitude": 44.7462399
+  },
+  {
+    "id": 2303,
+    "name": "Teknikuri Tsentri",
+    "city": "Rustavi",
+    "capacity": 4000,
+    "latitude": 41.7239677,
+    "longitude": 44.7776467
+  },
+  {
+    "id": 2304,
+    "name": "Stadioni Tamaz Stepania",
+    "city": "Bolnisi",
+    "capacity": 3242,
+    "latitude": 41.4484029,
+    "longitude": 44.534904
+  },
+  {
+    "id": 2305,
+    "name": "Stadioni Mtskheta Parki",
+    "city": "Mtskheta",
+    "capacity": 2000,
+    "latitude": 41.8472206,
+    "longitude": 44.7214337
+  },
+  {
+    "id": 2306,
+    "name": "David Petriashvili Arena",
+    "city": "Tbilisi",
+    "capacity": 2130,
+    "latitude": 41.7921679,
+    "longitude": 44.780081
+  },
+  {
+    "id": 2307,
+    "name": "Stadioni Evgrapi Shevardnadze",
+    "city": "Lanchkhuti",
+    "capacity": 8000,
+    "latitude": 42.0947487,
+    "longitude": 42.0478749
+  },
+  {
+    "id": 2308,
+    "name": "Poti Central Stadium",
+    "city": "Poti",
+    "capacity": 6000,
+    "latitude": 42.1413889,
+    "longitude": 41.6747222
+  },
+  {
+    "id": 2309,
+    "name": "Mikheil Meskhi Stadium-2",
+    "city": "Tbilisi",
+    "capacity": 2000,
+    "latitude": 41.7097946,
+    "longitude": 44.7462399
+  },
+  {
+    "id": 2310,
+    "name": "Givi Chokheli Stadium",
+    "city": "Telavi",
+    "capacity": 12000,
+    "latitude": 41.9116857,
+    "longitude": 45.4809019
+  },
+  {
+    "id": 7053,
+    "name": "Tsentraluri Stadioni",
+    "city": "Dusheti",
+    "capacity": 2000,
+    "latitude": 42.0820101,
+    "longitude": 44.6996204
+  },
+  {
+    "id": 7054,
+    "name": "Stadioni Murtaz Khurtsilava",
+    "city": "Martvili",
+    "capacity": 2000,
+    "latitude": 42.420037,
+    "longitude": 42.3746834
+  },
+  {
+    "id": 7332,
+    "name": "Stadioni Davit Abashidze",
+    "city": "Zestaponi",
+    "capacity": 4600,
+    "latitude": 42.1115473,
+    "longitude": 43.0258727
+  },
+  {
+    "id": 8566,
+    "name": "Stadioni Vladimer Bochorishvili",
+    "city": "Tkibuli",
+    "capacity": 6000,
+    "latitude": 42.3545491,
+    "longitude": 42.9940547
+  },
+  {
+    "id": 8567,
+    "name": "Stadioni Jemal Zeinklishvili",
+    "city": "Borjomi",
+    "capacity": 3000,
+    "latitude": 41.8430804,
+    "longitude": 43.3886374
+  },
+  {
+    "id": 8570,
+    "name": "Ameris Stadioni, Khelovnursapariani Moedani",
+    "city": "Tbilisi",
+    "capacity": 500,
+    "latitude": 41.8076004,
+    "longitude": 44.8206783
+  },
+  {
+    "id": 8572,
+    "name": "Tsentraluri Stadioni",
+    "city": "Khobi",
+    "capacity": 12000,
+    "latitude": 42.3199085,
+    "longitude": 41.9047025
+  },
+  {
+    "id": 8574,
+    "name": "Baias satsvrtneli Baza",
+    "city": "Zugdidi",
+    "capacity": 2000,
+    "latitude": 42.4955765,
+    "longitude": 41.8563616
+  },
+  {
+    "id": 8575,
+    "name": "Stadium",
+    "city": "Tsalenjikha",
+    "capacity": 4000,
+    "latitude": 42.2550517,
+    "longitude": 42.6832577
+  },
+  {
+    "id": 8576,
+    "name": "Stadioni Grigol Nikoleishvili",
+    "city": "Vani",
+    "capacity": 3000,
+    "latitude": 41.7097946,
+    "longitude": 44.7462399
+  },
+  {
+    "id": 20706,
+    "name": "Stadioni Archil Partenadze",
+    "city": "Keda",
+    "capacity": 1000,
+    "latitude": 41.79914934776474,
+    "longitude": 44.800406383711405
+  },
+  {
+    "id": 8578,
+    "name": "Tsentraluri Stadioni",
+    "city": "Khelvachauri",
+    "capacity": 1000,
+    "latitude": 42.3199085,
+    "longitude": 41.9047025
+  },
+  {
+    "id": 8579,
+    "name": "Munitsipaluri Tsentraluri Stadioni",
+    "city": "Ozurgeti",
+    "capacity": 3500,
+    "latitude": 42.6318034,
+    "longitude": 42.1779332
+  },
+  {
+    "id": 8582,
+    "name": "Vitali Daraselias Sakhelobis Dinamos Sapekhburto Akademia",
+    "city": "Tbilisi",
+    "capacity": 1000,
+    "latitude": 41.7778667,
+    "longitude": 44.7735595
+  },
+  {
+    "id": 8584,
+    "name": "Chokhatauri Central Stadium",
+    "city": "Chokhatauri",
+    "capacity": 2000,
+    "latitude": 42.0104789,
+    "longitude": 42.2407685
+  },
+  {
+    "id": 349043008728,
+    "name": "Central Stadium Sagarejo",
+    "city": "Sagarejo",
+    "capacity": 1500,
+    "latitude": 41.7357752,
+    "longitude": 45.3302014
+  },
+  {
+    "id": 945622286341,
+    "name": "Tengiz Burjanadze Stadium",
+    "city": "Gori",
+    "capacity": 5000,
+    "latitude": 41.9826616,
+    "longitude": 44.1037105
+  },
+  {
+    "id": 488077924725,
+    "name": "Sinatle Stadium",
+    "city": "Tbilisi",
+    "capacity": 2500,
+    "latitude": 41.7230129,
+    "longitude": 44.7897691
+  },
+  {
+    "id": 157420987138,
+    "name": "Bendela Stadium",
+    "city": "Tbilisi",
+    "capacity": 1000,
+    "latitude": 41.7275269,
+    "longitude": 44.7521988
+  },
+  {
+    "id": 86534018208,
+    "name": "Spaeri Stadium",
+    "city": "Tbilisi",
+    "capacity": 2000,
+    "latitude": 41.7024023,
+    "longitude": 44.8367064
+  },
+  {
+    "id": 18574,
+    "name": "Varketili Stadium",
+    "city": "Tbilisi",
+    "capacity": 1000,
+    "latitude": 41.6992144,
+    "longitude": 44.874704
+  },
+  {
+    "id": 423156044527,
+    "name": "Gldani Football Centre",
+    "city": "Tbilisi",
+    "capacity": 1000,
+    "latitude": 41.8014366,
+    "longitude": 44.8375728
+  },
+  {
+    "id": 775943252947,
+    "name": "Shatilis Stadioni",
+    "city": "Tbilisi",
+    "capacity": null,
+    "latitude": 41.7784131,
+    "longitude": 44.7996968
+  },
+  {
+    "id": 21793,
+    "name": "Davit Abashidzis Sakhelobis Stadioni",
+    "city": "Zestaponi",
+    "capacity": 4558,
+    "latitude": 42.1115473,
+    "longitude": 43.0258727
+  },
+  {
+    "id": 740558082636,
+    "name": "Murtaz Khurtsilava Stadium",
+    "city": "Martvili",
+    "capacity": 2000,
+    "latitude": 42.420037,
+    "longitude": 42.3746834
+  },
+  {
+    "id": 557829779889,
+    "name": "Tskaltubo Central Stadium",
+    "city": "Tskaltubo",
+    "capacity": 1800,
+    "latitude": 42.3291737,
+    "longitude": 42.6061636
+  },
+  {
+    "id": 133700624930,
+    "name": "26 May Stadium",
+    "city": "Tskaltubo",
+    "capacity": 2000,
+    "latitude": 42.3278611,
+    "longitude": 42.6014633
+  },
+  {
+    "id": 783276015284,
+    "name": "Gonio Stadium",
+    "city": "Gonio",
+    "capacity": 2000,
+    "latitude": 41.5678579,
+    "longitude": 41.5676336
+  },
+  {
+    "id": 930356496633,
+    "name": "Saguramo Central Stadium",
+    "city": "Saguramo",
+    "capacity": 1000,
+    "latitude": 41.897518,
+    "longitude": 44.75435479999999
+  },
+  {
+    "id": 300392332652,
+    "name": "SASU School Stadium",
+    "city": "Tbilisi",
+    "capacity": null,
+    "latitude": 41.7097946,
+    "longitude": 44.7462399
+  },
+  {
+    "id": 163944738871,
+    "name": "Fazisi Stadium",
+    "city": "Poti",
+    "capacity": 6000,
+    "latitude": 42.1426539,
+    "longitude": 41.6654756
+  },
+  {
+    "id": 107632974506,
+    "name": "Mtskheta Park",
+    "city": "Mtskheta",
+    "capacity": 2000,
+    "latitude": 41.8472206,
+    "longitude": 44.7214337
+  }
+]
