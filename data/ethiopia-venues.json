@@ -1,0 +1,106 @@
+[
+  {
+    "id": 19082,
+    "name": "Adama Abebe Bikila Stadium",
+    "city": "Adama",
+    "capacity": 4000,
+    "latitude": 9.0430245,
+    "longitude": 38.724054
+  },
+  {
+    "id": 3155,
+    "name": "Hawassa International Stadium",
+    "city": "Hawassa",
+    "capacity": 15000,
+    "latitude": 7.0416127,
+    "longitude": 38.4761214
+  },
+  {
+    "id": 3149,
+    "name": "Bahir Dar Stadium",
+    "city": "Bahir Dar",
+    "capacity": 60000,
+    "latitude": 11.5845143,
+    "longitude": 37.3833912
+  },
+  {
+    "id": 3150,
+    "name": "Dire Dawa Stadium",
+    "city": "Dire Dawa",
+    "capacity": 18000,
+    "latitude": 9.582099399999999,
+    "longitude": 41.8581029
+  },
+  {
+    "id": 608,
+    "name": "Addis Ababa Stadium",
+    "city": "Addis Abeba",
+    "capacity": 35000,
+    "latitude": 9.013278,
+    "longitude": 38.7564412
+  },
+  {
+    "id": 3151,
+    "name": "Fasiledes Stadium",
+    "city": "Gondar",
+    "capacity": 20000,
+    "latitude": 12.6172542,
+    "longitude": 37.457122
+  },
+  {
+    "id": 3153,
+    "name": "Tigray Stadium",
+    "city": "Mek'ele",
+    "capacity": 35000,
+    "latitude": 13.4960787,
+    "longitude": 39.4570393
+  },
+  {
+    "id": 3156,
+    "name": "Wolaita Sodo Stadium",
+    "city": "Wolaita Sodo",
+    "capacity": 1000,
+    "latitude": 6.8547932,
+    "longitude": 37.7626487
+  },
+  {
+    "id": 3157,
+    "name": "Adigrat Stadium",
+    "city": "Adigrat",
+    "capacity": 3000,
+    "latitude": 14.2790937,
+    "longitude": 39.4641203
+  },
+  {
+    "id": 3158,
+    "name": "Arba Minch Stadium",
+    "city": "Arba Minch",
+    "capacity": 10000,
+    "latitude": 6.041922599999999,
+    "longitude": 37.5511212
+  },
+  {
+    "id": 7031,
+    "name": "Hossana Stadium",
+    "city": "Hosaena",
+    "capacity": 5000,
+    "latitude": 7.5514283,
+    "longitude": 37.857674
+  },
+  {
+    "id": 3154,
+    "name": "Shire Stadium",
+    "city": "Shire",
+    "capacity": 2000,
+    "latitude": 14.109544515526279,
+    "longitude": 38.292779303730974
+  },
+  {
+    "id": 7033,
+    "name": "Welkite Stadium",
+    "city": "Welkite",
+    "capacity": 1500,
+    "latitude": 8.2876732,
+    "longitude": 37.7880871
+  }
+]

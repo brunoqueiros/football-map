@@ -170,16 +170,6 @@
         "venue_id": 2337
     },
     {
-        "id": 13209,
-        "name": "Phoenix",
-        "code": "PHO",
-        "country": "USA",
-        "founded": null,
-        "national": false,
-        "logo": "13209.png",
-        "venue_id": 10271662486
-    },
-    {
         "id": 14283,
         "name": "Eston Villa",
         "code": null,

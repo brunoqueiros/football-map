@@ -1,0 +1,192 @@
+[
+    {
+        "id": 4110,
+        "name": "Adama Kenema",
+        "code": null,
+        "country": "Ethiopia",
+        "founded": 1993,
+        "national": false,
+        "logo": "4110.png",
+        "venue_id": 19082
+    },
+    {
+        "id": 4111,
+        "name": "Awassa Kenema",
+        "code": null,
+        "country": "Ethiopia",
+        "founded": null,
+        "national": false,
+        "logo": "4111.png",
+        "venue_id": 3155
+    },
+    {
+        "id": 4112,
+        "name": "Bahardar",
+        "code": null,
+        "country": "Ethiopia",
+        "founded": null,
+        "national": false,
+        "logo": "4112.png",
+        "venue_id": 3149
+    },
+    {
+        "id": 4115,
+        "name": "Dire Dawa Kenema",
+        "code": null,
+        "country": "Ethiopia",
+        "founded": null,
+        "national": false,
+        "logo": "4115.png",
+        "venue_id": 3150
+    },
+    {
+        "id": 4116,
+        "name": "Ethiopia Bunna",
+        "code": null,
+        "country": "Ethiopia",
+        "founded": 1975,
+        "national": false,
+        "logo": "4116.png",
+        "venue_id": 608
+    },
+    {
+        "id": 4117,
+        "name": "Fasil Ketema",
+        "code": null,
+        "country": "Ethiopia",
+        "founded": 1960,
+        "national": false,
+        "logo": "4117.png",
+        "venue_id": 3151
+    },
+    {
+        "id": 4119,
+        "name": "Kedus Giorgis",
+        "code": "GEO",
+        "country": "Ethiopia",
+        "founded": 1935,
+        "national": false,
+        "logo": "4119.png",
+        "venue_id": 608
+    },
+    {
+        "id": 4120,
+        "name": "Mekelakeya",
+        "code": null,
+        "country": "Ethiopia",
+        "founded": null,
+        "national": false,
+        "logo": "4120.png",
+        "venue_id": 608
+    },
+    {
+        "id": 4121,
+        "name": "Mekelle Kenema",
+        "code": null,
+        "country": "Ethiopia",
+        "founded": 2007,
+        "national": false,
+        "logo": "4121.png",
+        "venue_id": 3153
+    },
+    {
+        "id": 4123,
+        "name": "Sidama Bunna",
+        "code": null,
+        "country": "Ethiopia",
+        "founded": null,
+        "national": false,
+        "logo": "4123.png",
+        "venue_id": 3155
+    },
+    {
+        "id": 4124,
+        "name": "Welayta Dicha",
+        "code": null,
+        "country": "Ethiopia",
+        "founded": null,
+        "national": false,
+        "logo": "4124.png",
+        "venue_id": 3156
+    },
+    {
+        "id": 4125,
+        "name": "Welwalo Adigrat Uni",
+        "code": null,
+        "country": "Ethiopia",
+        "founded": null,
+        "national": false,
+        "logo": "4125.png",
+        "venue_id": 3157
+    },
+    {
+        "id": 4126,
+        "name": "Arba Minch Kenema",
+        "code": "ARB",
+        "country": "Ethiopia",
+        "founded": null,
+        "national": false,
+        "logo": "4126.png",
+        "venue_id": 3158
+    },
+    {
+        "id": 4127,
+        "name": "Mebrat Hayl",
+        "code": null,
+        "country": "Ethiopia",
+        "founded": 1962,
+        "national": false,
+        "logo": "4127.png",
+        "venue_id": 608
+    },
+    {
+        "id": 4130,
+        "name": "Ethiopia Nigd Bank",
+        "code": null,
+        "country": "Ethiopia",
+        "founded": null,
+        "national": false,
+        "logo": "4130.png",
+        "venue_id": 608
+    },
+    {
+        "id": 9983,
+        "name": "Hadiya Hosaena",
+        "code": null,
+        "country": "Ethiopia",
+        "founded": null,
+        "national": false,
+        "logo": "9983.png",
+        "venue_id": 7031
+    },
+    {
+        "id": 9986,
+        "name": "Suhul Shire",
+        "code": null,
+        "country": "Ethiopia",
+        "founded": null,
+        "national": false,
+        "logo": "9986.png",
+        "venue_id": 3154
+    },
+    {
+        "id": 9987,
+        "name": "Wolkite Ketema",
+        "code": null,
+        "country": "Ethiopia",
+        "founded": null,
+        "national": false,
+        "logo": "9987.png",
+        "venue_id": 7033
+    },
+    {
+        "id": 20030,
+        "name": "Ethiopian Medhin",
+        "code": null,
+        "country": "Ethiopia",
+        "founded": null,
+        "national": false,
+        "logo": "20030.png",
+        "venue_id": 608
+    }
+]
