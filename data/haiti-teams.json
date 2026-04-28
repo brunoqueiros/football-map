@@ -1,0 +1,152 @@
+[
+    {
+        "id": 4426,
+        "name": "América des Cayes",
+        "code": null,
+        "country": "Haiti",
+        "founded": null,
+        "national": false,
+        "logo": "4426.png",
+        "venue_id": 3368
+    },
+    {
+        "id": 4428,
+        "name": "Baltimore",
+        "code": null,
+        "country": "Haiti",
+        "founded": 1974,
+        "national": false,
+        "logo": "4428.png",
+        "venue_id": 3370
+    },
+    {
+        "id": 4429,
+        "name": "Capoise",
+        "code": null,
+        "country": "Haiti",
+        "founded": 1930,
+        "national": false,
+        "logo": "4429.png",
+        "venue_id": 3371
+    },
+    {
+        "id": 4430,
+        "name": "Cavaly",
+        "code": null,
+        "country": "Haiti",
+        "founded": null,
+        "national": false,
+        "logo": "4430.png",
+        "venue_id": 3372
+    },
+    {
+        "id": 4431,
+        "name": "Cosmopolites",
+        "code": null,
+        "country": "Haiti",
+        "founded": 2015,
+        "national": false,
+        "logo": "4431.png",
+        "venue_id": 922513618637
+    },
+    {
+        "id": 4433,
+        "name": "FICA",
+        "code": null,
+        "country": "Haiti",
+        "founded": 1972,
+        "national": false,
+        "logo": "4433.png",
+        "venue_id": 3371
+    },
+    {
+        "id": 4435,
+        "name": "Ouanaminthe",
+        "code": null,
+        "country": "Haiti",
+        "founded": 2011,
+        "national": false,
+        "logo": "4435.png",
+        "venue_id": 3374
+    },
+    {
+        "id": 4436,
+        "name": "Racing Club Haitien",
+        "code": null,
+        "country": "Haiti",
+        "founded": 1923,
+        "national": false,
+        "logo": "4436.png",
+        "venue_id": 2856
+    },
+    {
+        "id": 4437,
+        "name": "Racing des Gônaïves",
+        "code": null,
+        "country": "Haiti",
+        "founded": 1962,
+        "national": false,
+        "logo": "4437.png",
+        "venue_id": 3375
+    },
+    {
+        "id": 4438,
+        "name": "Real du Cap",
+        "code": null,
+        "country": "Haiti",
+        "founded": null,
+        "national": false,
+        "logo": "4438.png",
+        "venue_id": 176460006456
+    },
+    {
+        "id": 4439,
+        "name": "Tempête",
+        "code": null,
+        "country": "Haiti",
+        "founded": 1970,
+        "national": false,
+        "logo": "4439.png",
+        "venue_id": 3370
+    },
+    {
+        "id": 4440,
+        "name": "Triomphe Liancourt",
+        "code": null,
+        "country": "Haiti",
+        "founded": null,
+        "national": false,
+        "logo": "4440.png",
+        "venue_id": 3376
+    },
+    {
+        "id": 4441,
+        "name": "Violette AC",
+        "code": null,
+        "country": "Haiti",
+        "founded": null,
+        "national": false,
+        "logo": "4441.png",
+        "venue_id": 2856
+    },
+    {
+        "id": 4446,
+        "name": "Juventus",
+        "code": null,
+        "country": "Haiti",
+        "founded": null,
+        "national": false,
+        "logo": "4446.png",
+        "venue_id": 866898072956
+    },
+    {
+        "id": 14272,
+        "name": "Rivartibonitienne",
+        "code": null,
+        "country": "Haiti",
+        "founded": null,
+        "national": false,
+        "logo": "14272.png",
+        "venue_id": 379104439983
+    }
+]

@@ -1,0 +1,98 @@
+[
+  {
+    "id": 3368,
+    "name": "Parc de Foot Land des Gabions des Cayes",
+    "city": "Les Cayes",
+    "capacity": 2000,
+    "latitude": 18.1916187,
+    "longitude": -73.75452589999999
+  },
+  {
+    "id": 3370,
+    "name": "Parc Levelt",
+    "city": "Saint-Marc",
+    "capacity": 5000,
+    "latitude": 19.1066773,
+    "longitude": -72.69652889999999
+  },
+  {
+    "id": 3371,
+    "name": "Parc Saint-Victor",
+    "city": "Cap-Haïtien",
+    "capacity": 7500,
+    "latitude": 19.7536067,
+    "longitude": -72.207589
+  },
+  {
+    "id": 3372,
+    "name": "Parc Indrich de Four",
+    "city": "Léogâne",
+    "capacity": 2000,
+    "latitude": 18.5074575,
+    "longitude": -72.6269621
+  },
+  {
+    "id": 922513618637,
+    "name": "Cosmopolite Sportif Club",
+    "city": "Saint-Marc",
+    "capacity": null,
+    "latitude": 19.1080951,
+    "longitude": -72.6958868
+  },
+  {
+    "id": 3374,
+    "name": "Centre Sportif de Ouanaminthe",
+    "city": "Ouanaminthe",
+    "capacity": 1000,
+    "latitude": 19.5419828,
+    "longitude": -71.7186286
+  },
+  {
+    "id": 2856,
+    "name": "Stade Sylvio Cator",
+    "city": "Port-au-Prince",
+    "capacity": 15000,
+    "latitude": 18.5360786,
+    "longitude": -72.3424893
+  },
+  {
+    "id": 3375,
+    "name": "Parc Vincent",
+    "city": "Gonaïves",
+    "capacity": 3000,
+    "latitude": 19.447842,
+    "longitude": -72.6823174
+  },
+  {
+    "id": 176460006456,
+    "name": "Parc Saint-Victor",
+    "city": "Cap-Haïtien",
+    "capacity": 7500,
+    "latitude": 19.7536067,
+    "longitude": -72.207589
+  },
+  {
+    "id": 3376,
+    "name": "Parc Mercinus Deslouches",
+    "city": "Liancourt",
+    "capacity": 1000,
+    "latitude": 19.12039751035983,
+    "longitude": -72.52790103096318
+  },
+  {
+    "id": 866898072956,
+    "name": "Complexe Sportif Des Cayes",
+    "city": "Les Cayes",
+    "capacity": 5000,
+    "latitude": 18.2094231,
+    "longitude": -73.77218669999999
+  },
+  {
+    "id": 379104439983,
+    "name": "Parc Louis Lamartinière",
+    "city": "Petite Rivière de l'Artibonite",
+    "capacity": null,
+    "latitude": 19.1270482,
+    "longitude": -72.48684450000002
+  }
+]

@@ -64,3 +64,4 @@ export { default as guadeloupe } from './guadeloupe-teams.json';
 export { default as greece } from './greece-teams.json';
 export { default as guatemala } from './guatemala-teams.json';
 export { default as guinea } from './guinea-teams.json';
+export { default as haiti } from './haiti-teams.json';
