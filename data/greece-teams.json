@@ -1,0 +1,1292 @@
+[
+    {
+        "id": 553,
+        "name": "Olympiakos Piraeus",
+        "code": "OLY",
+        "country": "Greece",
+        "founded": 1925,
+        "national": false,
+        "logo": "553.png",
+        "venue_id": 775
+    },
+    {
+        "id": 575,
+        "name": "AEK Athens FC",
+        "code": "AEK",
+        "country": "Greece",
+        "founded": 1924,
+        "national": false,
+        "logo": "575.png",
+        "venue_id": 19785
+    },
+    {
+        "id": 617,
+        "name": "Panathinaikos",
+        "code": "PAN",
+        "country": "Greece",
+        "founded": 1908,
+        "national": false,
+        "logo": "617.png",
+        "venue_id": 19929
+    },
+    {
+        "id": 619,
+        "name": "PAOK",
+        "code": "PAO",
+        "country": "Greece",
+        "founded": 1926,
+        "national": false,
+        "logo": "619.png",
+        "venue_id": 780
+    },
+    {
+        "id": 622,
+        "name": "Panionios",
+        "code": "PAN",
+        "country": "Greece",
+        "founded": 1890,
+        "national": false,
+        "logo": "622.png",
+        "venue_id": 779
+    },
+    {
+        "id": 949,
+        "name": "Panetolikos",
+        "code": "PAN",
+        "country": "Greece",
+        "founded": 1926,
+        "national": false,
+        "logo": "949.png",
+        "venue_id": 778
+    },
+    {
+        "id": 950,
+        "name": "PAS Giannina",
+        "code": "GIA",
+        "country": "Greece",
+        "founded": 1966,
+        "national": false,
+        "logo": "950.png",
+        "venue_id": 781
+    },
+    {
+        "id": 953,
+        "name": "Larisa",
+        "code": "AEL",
+        "country": "Greece",
+        "founded": 1964,
+        "national": false,
+        "logo": "953.png",
+        "venue_id": 772
+    },
+    {
+        "id": 955,
+        "name": "Asteras Tripolis",
+        "code": "AST",
+        "country": "Greece",
+        "founded": 1930,
+        "national": false,
+        "logo": "955.png",
+        "venue_id": 766
+    },
+    {
+        "id": 956,
+        "name": "Lamia",
+        "code": "LAM",
+        "country": "Greece",
+        "founded": null,
+        "national": false,
+        "logo": "956.png",
+        "venue_id": 771
+    },
+    {
+        "id": 957,
+        "name": "Levadiakos",
+        "code": "LEV",
+        "country": "Greece",
+        "founded": 1961,
+        "national": false,
+        "logo": "957.png",
+        "venue_id": 773
+    },
+    {
+        "id": 1123,
+        "name": "Aris Thessalonikis",
+        "code": "ARI",
+        "country": "Greece",
+        "founded": 1914,
+        "national": false,
+        "logo": "1123.png",
+        "venue_id": 765
+    },
+    {
+        "id": 1124,
+        "name": "OFI",
+        "code": "CRE",
+        "country": "Greece",
+        "founded": 1925,
+        "national": false,
+        "logo": "1124.png",
+        "venue_id": 774
+    },
+    {
+        "id": 2090,
+        "name": "Panthrakikos",
+        "code": "PAN",
+        "country": "Greece",
+        "founded": 1963,
+        "national": false,
+        "logo": "2090.png",
+        "venue_id": 2735
+    },
+    {
+        "id": 2091,
+        "name": "Trikala",
+        "code": "TRI",
+        "country": "Greece",
+        "founded": 1963,
+        "national": false,
+        "logo": "2091.png",
+        "venue_id": 783
+    },
+    {
+        "id": 2095,
+        "name": "Kallithea",
+        "code": "KAL",
+        "country": "Greece",
+        "founded": 1966,
+        "national": false,
+        "logo": "2095.png",
+        "venue_id": 2732
+    },
+    {
+        "id": 2096,
+        "name": "Kissamikos",
+        "code": "KIS",
+        "country": "Greece",
+        "founded": null,
+        "national": false,
+        "logo": "2096.png",
+        "venue_id": 782
+    },
+    {
+        "id": 2099,
+        "name": "Panserraikos",
+        "code": "PAN",
+        "country": "Greece",
+        "founded": 1964,
+        "national": false,
+        "logo": "2099.png",
+        "venue_id": 2734
+    },
+    {
+        "id": 2106,
+        "name": "Panachaiki FC",
+        "code": "PAN",
+        "country": "Greece",
+        "founded": 1891,
+        "national": false,
+        "logo": "2106.png",
+        "venue_id": 777
+    },
+    {
+        "id": 2110,
+        "name": "Volos NFC",
+        "code": null,
+        "country": "Greece",
+        "founded": 2017,
+        "national": false,
+        "logo": "2110.png",
+        "venue_id": 1918
+    },
+    {
+        "id": 5030,
+        "name": "Apollon Paralimniou",
+        "code": null,
+        "country": "Greece",
+        "founded": null,
+        "national": false,
+        "logo": "5030.png",
+        "venue_id": 3808
+    },
+    {
+        "id": 5031,
+        "name": "Aris Avato",
+        "code": null,
+        "country": "Greece",
+        "founded": null,
+        "national": false,
+        "logo": "5031.png",
+        "venue_id": 3809
+    },
+    {
+        "id": 5038,
+        "name": "Episkopi",
+        "code": "EPI",
+        "country": "Greece",
+        "founded": 1962,
+        "national": false,
+        "logo": "5038.png",
+        "venue_id": 3813
+    },
+    {
+        "id": 5039,
+        "name": "Ermionida",
+        "code": "ERM",
+        "country": "Greece",
+        "founded": 2011,
+        "national": false,
+        "logo": "5039.png",
+        "venue_id": 3814
+    },
+    {
+        "id": 5040,
+        "name": "Ermis Amyntaio",
+        "code": null,
+        "country": "Greece",
+        "founded": null,
+        "national": false,
+        "logo": "5040.png",
+        "venue_id": 3815
+    },
+    {
+        "id": 5041,
+        "name": "Ethnikos Neou Keramidiou",
+        "code": null,
+        "country": "Greece",
+        "founded": null,
+        "national": false,
+        "logo": "5041.png",
+        "venue_id": 10941
+    },
+    {
+        "id": 5042,
+        "name": "Ethnikos Piraeus",
+        "code": null,
+        "country": "Greece",
+        "founded": 1923,
+        "national": false,
+        "logo": "5042.png",
+        "venue_id": 2732
+    },
+    {
+        "id": 5046,
+        "name": "Kalamata",
+        "code": "KAL",
+        "country": "Greece",
+        "founded": null,
+        "national": false,
+        "logo": "5046.png",
+        "venue_id": 3817
+    },
+    {
+        "id": 5049,
+        "name": "Kavala",
+        "code": "KAV",
+        "country": "Greece",
+        "founded": 1965,
+        "national": false,
+        "logo": "5049.png",
+        "venue_id": 3820
+    },
+    {
+        "id": 5050,
+        "name": "Kifisia",
+        "code": "KIF",
+        "country": "Greece",
+        "founded": null,
+        "national": false,
+        "logo": "5050.png",
+        "venue_id": 20340
+    },
+    {
+        "id": 5056,
+        "name": "Niki Volos",
+        "code": "NIK",
+        "country": "Greece",
+        "founded": 1924,
+        "national": false,
+        "logo": "5056.png",
+        "venue_id": 1918
+    },
+    {
+        "id": 5060,
+        "name": "Pallixouriakos",
+        "code": null,
+        "country": "Greece",
+        "founded": null,
+        "national": false,
+        "logo": "5060.png",
+        "venue_id": 3828
+    },
+    {
+        "id": 5065,
+        "name": "Thyella Kamari",
+        "code": null,
+        "country": "Greece",
+        "founded": null,
+        "national": false,
+        "logo": "5065.png",
+        "venue_id": 3832
+    },
+    {
+        "id": 6295,
+        "name": "Apollo Efpaliou",
+        "code": null,
+        "country": "Greece",
+        "founded": null,
+        "national": false,
+        "logo": "6295.svg",
+        "venue_id": 613154070711
+    },
+    {
+        "id": 6307,
+        "name": "Korinthos",
+        "code": "KOR",
+        "country": "Greece",
+        "founded": 1957,
+        "national": false,
+        "logo": "6307.png",
+        "venue_id": 4670
+    },
+    {
+        "id": 6312,
+        "name": "Nea Artaki",
+        "code": null,
+        "country": "Greece",
+        "founded": null,
+        "national": false,
+        "logo": "6312.png",
+        "venue_id": 10955
+    },
+    {
+        "id": 6315,
+        "name": "Panargiakos",
+        "code": "APO",
+        "country": "Greece",
+        "founded": 1926,
+        "national": false,
+        "logo": "6315.png",
+        "venue_id": 4674
+    },
+    {
+        "id": 6326,
+        "name": "Zakynthos",
+        "code": "ZAK",
+        "country": "Greece",
+        "founded": 1961,
+        "national": false,
+        "logo": "6326.png",
+        "venue_id": 4680
+    },
+    {
+        "id": 7510,
+        "name": "Diagoras",
+        "code": null,
+        "country": "Greece",
+        "founded": null,
+        "national": false,
+        "logo": "7510.png",
+        "venue_id": 5452
+    },
+    {
+        "id": 7511,
+        "name": "Egaleo",
+        "code": "EGA",
+        "country": "Greece",
+        "founded": 1931,
+        "national": false,
+        "logo": "7511.png",
+        "venue_id": 5453
+    },
+    {
+        "id": 7513,
+        "name": "Ionikos",
+        "code": "ION",
+        "country": "Greece",
+        "founded": null,
+        "national": false,
+        "logo": "7513.png",
+        "venue_id": 5455
+    },
+    {
+        "id": 7519,
+        "name": "Olympiakos Volos",
+        "code": "OLY",
+        "country": "Greece",
+        "founded": 1937,
+        "national": false,
+        "logo": "7519.png",
+        "venue_id": 1918
+    },
+    {
+        "id": 12260,
+        "name": "Atromitos",
+        "code": "ATR",
+        "country": "Greece",
+        "founded": 1923,
+        "national": false,
+        "logo": "12260.png",
+        "venue_id": 7804
+    },
+    {
+        "id": 12366,
+        "name": "Kilkisiakos",
+        "code": "KIL",
+        "country": "Greece",
+        "founded": null,
+        "national": false,
+        "logo": "12366.png",
+        "venue_id": 7895
+    },
+    {
+        "id": 12370,
+        "name": "Astrapi Mesopotamia",
+        "code": null,
+        "country": "Greece",
+        "founded": null,
+        "national": false,
+        "logo": "12370.svg",
+        "venue_id": 616750693215
+    },
+    {
+        "id": 12372,
+        "name": "Makedonikos Neapolis",
+        "code": null,
+        "country": "Greece",
+        "founded": 1928,
+        "national": false,
+        "logo": "12372.png",
+        "venue_id": 7898
+    },
+    {
+        "id": 12379,
+        "name": "Atromitos Palamas",
+        "code": null,
+        "country": "Greece",
+        "founded": null,
+        "national": false,
+        "logo": "12379.png",
+        "venue_id": 7902
+    },
+    {
+        "id": 12387,
+        "name": "Anagennisi Artas",
+        "code": null,
+        "country": "Greece",
+        "founded": null,
+        "national": false,
+        "logo": "12387.png",
+        "venue_id": 1806
+    },
+    {
+        "id": 12389,
+        "name": "Lefkimmi",
+        "code": null,
+        "country": "Greece",
+        "founded": null,
+        "national": false,
+        "logo": "12389.png",
+        "venue_id": 7910
+    },
+    {
+        "id": 12412,
+        "name": "PAO Vardas",
+        "code": "VAR",
+        "country": "Greece",
+        "founded": 1948,
+        "national": false,
+        "logo": "12412.png",
+        "venue_id": 7924
+    },
+    {
+        "id": 12415,
+        "name": "Thyella Patras",
+        "code": null,
+        "country": "Greece",
+        "founded": 1910,
+        "national": false,
+        "logo": "12415.svg",
+        "venue_id": 11029
+    },
+    {
+        "id": 12417,
+        "name": "Agios Nikolaos",
+        "code": "AGI",
+        "country": "Greece",
+        "founded": null,
+        "national": false,
+        "logo": "12417.png",
+        "venue_id": 7926
+    },
+    {
+        "id": 15235,
+        "name": "Ilioupoli",
+        "code": null,
+        "country": "Greece",
+        "founded": 1953,
+        "national": false,
+        "logo": "15235.png",
+        "venue_id": 10915
+    },
+    {
+        "id": 15243,
+        "name": "Evosmou",
+        "code": null,
+        "country": "Greece",
+        "founded": null,
+        "national": false,
+        "logo": "15243.png",
+        "venue_id": 10923
+    },
+    {
+        "id": 15255,
+        "name": "Thyella Katsikas",
+        "code": null,
+        "country": "Greece",
+        "founded": null,
+        "national": false,
+        "logo": "15255.png",
+        "venue_id": 10939
+    },
+    {
+        "id": 15479,
+        "name": "Eordaikos",
+        "code": null,
+        "country": "Greece",
+        "founded": 2007,
+        "national": false,
+        "logo": "15479.png",
+        "venue_id": 3824
+    },
+    {
+        "id": 17991,
+        "name": "Iraklis 1908",
+        "code": null,
+        "country": "Greece",
+        "founded": 2021,
+        "national": false,
+        "logo": "17991.png",
+        "venue_id": 769
+    },
+    {
+        "id": 20043,
+        "name": "Afantou",
+        "code": null,
+        "country": "Greece",
+        "founded": 1946,
+        "national": false,
+        "logo": "20043.png",
+        "venue_id": 21229
+    },
+    {
+        "id": 20050,
+        "name": "Byron Kavala",
+        "code": null,
+        "country": "Greece",
+        "founded": 1931,
+        "national": false,
+        "logo": "20050.png",
+        "venue_id": 20244
+    },
+    {
+        "id": 20683,
+        "name": "Kampaniakos Chalastra",
+        "code": null,
+        "country": "Greece",
+        "founded": null,
+        "national": false,
+        "logo": "20683.png",
+        "venue_id": 19333
+    },
+    {
+        "id": 22240,
+        "name": "Orestis Orestiadas",
+        "code": null,
+        "country": "Greece",
+        "founded": 1927,
+        "national": false,
+        "logo": "22240.png",
+        "venue_id": 21230
+    },
+    {
+        "id": 22241,
+        "name": "Astir Stavros",
+        "code": null,
+        "country": "Greece",
+        "founded": null,
+        "national": false,
+        "logo": "22241.svg",
+        "venue_id": 771
+    },
+    {
+        "id": 22245,
+        "name": "Erani Filiatra",
+        "code": null,
+        "country": "Greece",
+        "founded": 1935,
+        "national": false,
+        "logo": "22245.png",
+        "venue_id": 21231
+    },
+    {
+        "id": 22274,
+        "name": "Doxa Volakas",
+        "code": null,
+        "country": "Greece",
+        "founded": null,
+        "national": false,
+        "logo": "22274.svg",
+        "venue_id": 417454920711
+    },
+    {
+        "id": 24850,
+        "name": "Agios Dimitrios Agrinio",
+        "code": null,
+        "country": "Greece",
+        "founded": null,
+        "national": false,
+        "logo": "24850.svg",
+        "venue_id": 55423988574
+    },
+    {
+        "id": 24851,
+        "name": "Aigeas Plomariou",
+        "code": null,
+        "country": "Greece",
+        "founded": null,
+        "national": false,
+        "logo": "24851.svg",
+        "venue_id": 868668305340
+    },
+    {
+        "id": 24852,
+        "name": "Akadimia Platamona",
+        "code": null,
+        "country": "Greece",
+        "founded": null,
+        "national": false,
+        "logo": "24852.svg",
+        "venue_id": 997701930763
+    },
+    {
+        "id": 24853,
+        "name": "Apollon Krya Vrysi",
+        "code": null,
+        "country": "Greece",
+        "founded": 1960,
+        "national": false,
+        "logo": "24853.png",
+        "venue_id": 724911523591
+    },
+    {
+        "id": 24854,
+        "name": "Diagoras Ikaria",
+        "code": null,
+        "country": "Greece",
+        "founded": null,
+        "national": false,
+        "logo": "24854.png",
+        "venue_id": 599830514048
+    },
+    {
+        "id": 24855,
+        "name": "Ermis Kanaliou",
+        "code": null,
+        "country": "Greece",
+        "founded": null,
+        "national": false,
+        "logo": "24855.png",
+        "venue_id": 710630218365
+    },
+    {
+        "id": 24856,
+        "name": "Kydonias",
+        "code": null,
+        "country": "Greece",
+        "founded": null,
+        "national": false,
+        "logo": "24856.png",
+        "venue_id": 630086889633
+    },
+    {
+        "id": 24857,
+        "name": "Mandraikos",
+        "code": null,
+        "country": "Greece",
+        "founded": 1956,
+        "national": false,
+        "logo": "24857.png",
+        "venue_id": 21232
+    },
+    {
+        "id": 24858,
+        "name": "Naousa",
+        "code": null,
+        "country": "Greece",
+        "founded": 1934,
+        "national": false,
+        "logo": "24858.png",
+        "venue_id": 21233
+    },
+    {
+        "id": 24859,
+        "name": "Panlakonikos",
+        "code": null,
+        "country": "Greece",
+        "founded": null,
+        "national": false,
+        "logo": "24859.svg",
+        "venue_id": 169176417184
+    },
+    {
+        "id": 24860,
+        "name": "Saronikos Anavyssou",
+        "code": null,
+        "country": "Greece",
+        "founded": null,
+        "national": false,
+        "logo": "24860.svg",
+        "venue_id": 77457121758
+    },
+    {
+        "id": 24861,
+        "name": "Sartis",
+        "code": null,
+        "country": "Greece",
+        "founded": null,
+        "national": false,
+        "logo": "24861.png",
+        "venue_id": 809536604313
+    },
+    {
+        "id": 24862,
+        "name": "Smolikas Falanis",
+        "code": null,
+        "country": "Greece",
+        "founded": null,
+        "national": false,
+        "logo": "24862.svg",
+        "venue_id": 393580451137
+    },
+    {
+        "id": 24863,
+        "name": "Spartakos Graikochoriou",
+        "code": null,
+        "country": "Greece",
+        "founded": null,
+        "national": false,
+        "logo": "24863.png",
+        "venue_id": 638018145783
+    },
+    {
+        "id": 24864,
+        "name": "Thyella Chalkeiou",
+        "code": null,
+        "country": "Greece",
+        "founded": null,
+        "national": false,
+        "logo": "24864.png",
+        "venue_id": 437156583143
+    },
+    {
+        "id": 24879,
+        "name": "Nea Ionia",
+        "code": null,
+        "country": "Greece",
+        "founded": null,
+        "national": false,
+        "logo": "24879.png",
+        "venue_id": 21240
+    },
+    {
+        "id": 2102,
+        "name": "Apollon Pontou",
+        "code": "KAL",
+        "country": "Greece",
+        "founded": 1926,
+        "national": false,
+        "logo": "2102.png",
+        "venue_id": 21234
+    },
+    {
+        "id": 6323,
+        "name": "Thermaikos Thermis",
+        "code": null,
+        "country": "Greece",
+        "founded": null,
+        "national": false,
+        "logo": "6323.png",
+        "venue_id": 10926
+    },
+    {
+        "id": 12361,
+        "name": "Antheias-Aristinou",
+        "code": null,
+        "country": "Greece",
+        "founded": null,
+        "national": false,
+        "logo": "12361.png",
+        "venue_id": 4666
+    },
+    {
+        "id": 12367,
+        "name": "Nestos Chrisoupolis",
+        "code": "CHR",
+        "country": "Greece",
+        "founded": null,
+        "national": false,
+        "logo": "12367.png",
+        "venue_id": 7894
+    },
+    {
+        "id": 12375,
+        "name": "Poseidon Nea Michaniona",
+        "code": null,
+        "country": "Greece",
+        "founded": 1947,
+        "national": false,
+        "logo": "12375.png",
+        "venue_id": 10927
+    },
+    {
+        "id": 20056,
+        "name": "PAO Kristoni",
+        "code": null,
+        "country": "Greece",
+        "founded": null,
+        "national": false,
+        "logo": "20056.png",
+        "venue_id": 20220
+    },
+    {
+        "id": 20678,
+        "name": "Chaniotis",
+        "code": null,
+        "country": "Greece",
+        "founded": null,
+        "national": false,
+        "logo": "20678.png",
+        "venue_id": 20221
+    },
+    {
+        "id": 24865,
+        "name": "Aris Piges",
+        "code": null,
+        "country": "Greece",
+        "founded": null,
+        "national": false,
+        "logo": "24865.svg",
+        "venue_id": 656108226323
+    },
+    {
+        "id": 24866,
+        "name": "Iraklis Ammoudia",
+        "code": null,
+        "country": "Greece",
+        "founded": null,
+        "national": false,
+        "logo": "24866.png",
+        "venue_id": 529632829508
+    },
+    {
+        "id": 24867,
+        "name": "Moudania",
+        "code": null,
+        "country": "Greece",
+        "founded": null,
+        "national": false,
+        "logo": "24867.png",
+        "venue_id": 21235
+    },
+    {
+        "id": 24868,
+        "name": "Pontion Nea Amisos",
+        "code": null,
+        "country": "Greece",
+        "founded": null,
+        "national": false,
+        "logo": "24868.png",
+        "venue_id": 668318586974
+    },
+    {
+        "id": 2094,
+        "name": "Anagennisi Karditsas",
+        "code": null,
+        "country": "Greece",
+        "founded": null,
+        "national": false,
+        "logo": "2094.png",
+        "venue_id": 2731
+    },
+    {
+        "id": 2100,
+        "name": "Aiginiakos",
+        "code": "AIG",
+        "country": "Greece",
+        "founded": 1972,
+        "national": false,
+        "logo": "2100.png",
+        "venue_id": 1775
+    },
+    {
+        "id": 5062,
+        "name": "Thesprotos",
+        "code": "THE",
+        "country": "Greece",
+        "founded": 1948,
+        "national": false,
+        "logo": "5062.png",
+        "venue_id": 3830
+    },
+    {
+        "id": 5066,
+        "name": "Tilikratis",
+        "code": "TIL",
+        "country": "Greece",
+        "founded": 2014,
+        "national": false,
+        "logo": "5066.png",
+        "venue_id": 3833
+    },
+    {
+        "id": 12384,
+        "name": "Pierikos",
+        "code": "PIE",
+        "country": "Greece",
+        "founded": 1961,
+        "national": false,
+        "logo": "12384.png",
+        "venue_id": 7907
+    },
+    {
+        "id": 15259,
+        "name": "Kozani",
+        "code": "KOZ",
+        "country": "Greece",
+        "founded": null,
+        "national": false,
+        "logo": "15259.png",
+        "venue_id": 10946
+    },
+    {
+        "id": 20047,
+        "name": "Asteras Petriti",
+        "code": null,
+        "country": "Greece",
+        "founded": null,
+        "national": false,
+        "logo": "20047.png",
+        "venue_id": 19091
+    },
+    {
+        "id": 20680,
+        "name": "Svoronos",
+        "code": null,
+        "country": "Greece",
+        "founded": null,
+        "national": false,
+        "logo": "20680.png",
+        "venue_id": 20222
+    },
+    {
+        "id": 24869,
+        "name": "Alexandreia",
+        "code": null,
+        "country": "Greece",
+        "founded": null,
+        "national": false,
+        "logo": "24869.png",
+        "venue_id": 10932
+    },
+    {
+        "id": 24870,
+        "name": "Amvrakikos Vonitsa",
+        "code": null,
+        "country": "Greece",
+        "founded": null,
+        "national": false,
+        "logo": "24870.svg",
+        "venue_id": 611110074839
+    },
+    {
+        "id": 24871,
+        "name": "Anthoupoli",
+        "code": null,
+        "country": "Greece",
+        "founded": null,
+        "national": false,
+        "logo": "24871.png",
+        "venue_id": 7906
+    },
+    {
+        "id": 24872,
+        "name": "Aris Filiates",
+        "code": null,
+        "country": "Greece",
+        "founded": null,
+        "national": false,
+        "logo": "24872.png",
+        "venue_id": 22532
+    },
+    {
+        "id": 2097,
+        "name": "Panegialios",
+        "code": "PAN",
+        "country": "Greece",
+        "founded": 1927,
+        "national": false,
+        "logo": "2097.png",
+        "venue_id": 2733
+    },
+    {
+        "id": 12406,
+        "name": "Rodos",
+        "code": null,
+        "country": "Greece",
+        "founded": 1968,
+        "national": false,
+        "logo": "12406.png",
+        "venue_id": 5452
+    },
+    {
+        "id": 12413,
+        "name": "Pangytheatikos",
+        "code": null,
+        "country": "Greece",
+        "founded": null,
+        "national": false,
+        "logo": "12413.png",
+        "venue_id": 10948
+    },
+    {
+        "id": 18057,
+        "name": "AE Mykonos",
+        "code": null,
+        "country": "Greece",
+        "founded": 2020,
+        "national": false,
+        "logo": "18057.png",
+        "venue_id": 20224
+    },
+    {
+        "id": 22244,
+        "name": "Ellas Syros",
+        "code": null,
+        "country": "Greece",
+        "founded": 1929,
+        "national": false,
+        "logo": "22244.png",
+        "venue_id": 21236
+    },
+    {
+        "id": 24873,
+        "name": "Amarynthiakos",
+        "code": null,
+        "country": "Greece",
+        "founded": null,
+        "national": false,
+        "logo": "24873.png",
+        "venue_id": 22536
+    },
+    {
+        "id": 24874,
+        "name": "Loutraki",
+        "code": null,
+        "country": "Greece",
+        "founded": 1970,
+        "national": false,
+        "logo": "24874.png",
+        "venue_id": 21237
+    },
+    {
+        "id": 24875,
+        "name": "Malesina",
+        "code": null,
+        "country": "Greece",
+        "founded": null,
+        "national": false,
+        "logo": "24875.png",
+        "venue_id": 347854834442
+    },
+    {
+        "id": 24876,
+        "name": "Miltiadis Pyrgos",
+        "code": null,
+        "country": "Greece",
+        "founded": null,
+        "national": false,
+        "logo": "24876.png",
+        "venue_id": 22533
+    },
+    {
+        "id": 24877,
+        "name": "Pannafpliakos",
+        "code": null,
+        "country": "Greece",
+        "founded": null,
+        "national": false,
+        "logo": "24877.png",
+        "venue_id": 10947
+    },
+    {
+        "id": 5064,
+        "name": "Thyella Diastavroseos",
+        "code": "THY",
+        "country": "Greece",
+        "founded": null,
+        "national": false,
+        "logo": "5064.png",
+        "venue_id": 3831
+    },
+    {
+        "id": 6299,
+        "name": "Atsalenios",
+        "code": "ATS",
+        "country": "Greece",
+        "founded": 1951,
+        "national": false,
+        "logo": "6299.png",
+        "venue_id": 4664
+    },
+    {
+        "id": 6304,
+        "name": "Ilisiakos",
+        "code": "ILI",
+        "country": "Greece",
+        "founded": null,
+        "national": false,
+        "logo": "6304.png",
+        "venue_id": 4667
+    },
+    {
+        "id": 12403,
+        "name": "Marko",
+        "code": null,
+        "country": "Greece",
+        "founded": null,
+        "national": false,
+        "logo": "12403.png",
+        "venue_id": 7919
+    },
+    {
+        "id": 12418,
+        "name": "Giouchtas",
+        "code": "GIO",
+        "country": "Greece",
+        "founded": 1957,
+        "national": false,
+        "logo": "12418.png",
+        "venue_id": 11036
+    },
+    {
+        "id": 12421,
+        "name": "Rethymniakos",
+        "code": null,
+        "country": "Greece",
+        "founded": 2010,
+        "national": false,
+        "logo": "12421.png",
+        "venue_id": 11034
+    },
+    {
+        "id": 15229,
+        "name": "Asteras Varis",
+        "code": null,
+        "country": "Greece",
+        "founded": null,
+        "national": false,
+        "logo": "15229.svg",
+        "venue_id": 10910
+    },
+    {
+        "id": 15230,
+        "name": "Karavas",
+        "code": null,
+        "country": "Greece",
+        "founded": null,
+        "national": false,
+        "logo": "15230.svg",
+        "venue_id": 8623
+    },
+    {
+        "id": 20676,
+        "name": "Aris Petroupolis",
+        "code": null,
+        "country": "Greece",
+        "founded": null,
+        "national": false,
+        "logo": "20676.png",
+        "venue_id": 20226
+    },
+    {
+        "id": 20677,
+        "name": "Tympaki",
+        "code": null,
+        "country": "Greece",
+        "founded": null,
+        "national": false,
+        "logo": "20677.png",
+        "venue_id": 21238
+    },
+    {
+        "id": 22247,
+        "name": "Chaidari",
+        "code": null,
+        "country": "Greece",
+        "founded": null,
+        "national": false,
+        "logo": "22247.png",
+        "venue_id": 21239
+    },
+    {
+        "id": 24878,
+        "name": "Asteras Kaisariani",
+        "code": null,
+        "country": "Greece",
+        "founded": null,
+        "national": false,
+        "logo": "24878.png",
+        "venue_id": 984836586093
+    },
+    {
+        "id": 24880,
+        "name": "Thiva",
+        "code": null,
+        "country": "Greece",
+        "founded": 1968,
+        "national": false,
+        "logo": "24880.png",
+        "venue_id": 4676
+    },
+    {
+        "id": 18016,
+        "name": "AEK Athens II",
+        "code": null,
+        "country": "Greece",
+        "founded": null,
+        "national": false,
+        "logo": "18016.png",
+        "venue_id": 21635
+    },
+    {
+        "id": 18018,
+        "name": "PAOK II",
+        "code": null,
+        "country": "Greece",
+        "founded": null,
+        "national": false,
+        "logo": "18018.png",
+        "venue_id": 7898
+    },
+    {
+        "id": 25017,
+        "name": "Asteras Tripolis II",
+        "code": null,
+        "country": "Greece",
+        "founded": null,
+        "national": false,
+        "logo": "25017.png",
+        "venue_id": 364526260506
+    }
+]

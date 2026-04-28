@@ -4,7 +4,7 @@ import Image from 'next/image';
 
 const Crest: React.FC<{ src: string; name: string; }> = ({ src, name, ...rest }) => {
   return (
-    <div className="w-10 h-10 flex justify-center">
+    <div className="w-10 flex justify-center">
       <Image
         {...rest}
         src={`/logos/${src}`}

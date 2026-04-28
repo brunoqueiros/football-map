@@ -1,0 +1,986 @@
+[
+  {
+    "id": 775,
+    "name": "Stadio Georgios Karaiskáki",
+    "city": "Piraeus",
+    "capacity": 33296,
+    "latitude": 37.9464257,
+    "longitude": 23.6643956
+  },
+  {
+    "id": 19785,
+    "name": "OPAP Arena",
+    "city": "Athens",
+    "capacity": 33000,
+    "latitude": 38.0371769,
+    "longitude": 23.7415761
+  },
+  {
+    "id": 19929,
+    "name": "Stadio Apóstolos Nikolaidis",
+    "city": "Athens",
+    "capacity": 16620,
+    "latitude": 37.9871904,
+    "longitude": 23.7541828
+  },
+  {
+    "id": 780,
+    "name": "Stadio Toumbas",
+    "city": "Thessaloníki",
+    "capacity": 28803,
+    "latitude": 40.6140834,
+    "longitude": 22.9718257
+  },
+  {
+    "id": 779,
+    "name": "Stadio Néas Smírnis",
+    "city": "Athens",
+    "capacity": 11756,
+    "latitude": 37.94293680000001,
+    "longitude": 23.7082296
+  },
+  {
+    "id": 778,
+    "name": "Stadio Panetolikou",
+    "city": "Agrinio",
+    "capacity": 7200,
+    "latitude": 38.6300521,
+    "longitude": 21.4118127
+  },
+  {
+    "id": 781,
+    "name": "Stadio Zosimades",
+    "city": "Ioannina",
+    "capacity": 7652,
+    "latitude": 39.6676864,
+    "longitude": 20.8486461
+  },
+  {
+    "id": 772,
+    "name": "AEL Arena",
+    "city": "Larissa",
+    "capacity": 16118,
+    "latitude": 39.61540979999999,
+    "longitude": 22.3994121
+  },
+  {
+    "id": 766,
+    "name": "Stadio Theodoros Kolokotronis",
+    "city": "Tripoli",
+    "capacity": 7717,
+    "latitude": 37.502729,
+    "longitude": 22.3885431
+  },
+  {
+    "id": 771,
+    "name": "Dimotiko Athlitiko Kentro Lamias",
+    "city": "Lamia",
+    "capacity": 5500,
+    "latitude": 38.9098471,
+    "longitude": 22.4309711
+  },
+  {
+    "id": 773,
+    "name": "Stadio Levadias",
+    "city": "Levadia",
+    "capacity": 5915,
+    "latitude": 38.4359098,
+    "longitude": 22.8831009
+  },
+  {
+    "id": 765,
+    "name": "Stadio Harilaou Kleánthis Vikelídis",
+    "city": "Thessaloníki",
+    "capacity": 23220,
+    "latitude": 40.6000328,
+    "longitude": 22.9694709
+  },
+  {
+    "id": 774,
+    "name": "Stadio Thódoros Vardinoyánnis",
+    "city": "Heraklion",
+    "capacity": 9000,
+    "latitude": 35.33789240000001,
+    "longitude": 25.1147722
+  },
+  {
+    "id": 2735,
+    "name": "OPAP-Dimotiko Gipedo Komotinis",
+    "city": "Komotini",
+    "capacity": 6450,
+    "latitude": 41.1163664,
+    "longitude": 25.4061058
+  },
+  {
+    "id": 783,
+    "name": "Dimotiko Stadio Tríkalon",
+    "city": "Trikala",
+    "capacity": 13100,
+    "latitude": 39.552185,
+    "longitude": 21.7775651
+  },
+  {
+    "id": 2732,
+    "name": "Stadio Kallitheas Grigóris Lamprákis",
+    "city": "Athens",
+    "capacity": 4250,
+    "latitude": 37.9601642,
+    "longitude": 23.7151091
+  },
+  {
+    "id": 782,
+    "name": "Dimotiko Stadio Perivolion",
+    "city": "Perivolia",
+    "capacity": 4527,
+    "latitude": 35.48738,
+    "longitude": 24.0005441
+  },
+  {
+    "id": 2734,
+    "name": "Dimotiko Stadio Serron",
+    "city": "Serres",
+    "capacity": 9500,
+    "latitude": 41.0728334,
+    "longitude": 23.5236406
+  },
+  {
+    "id": 777,
+    "name": "Stadio Kostas Davourlis",
+    "city": "Pátra (Patras)",
+    "capacity": 11321,
+    "latitude": 38.2617493,
+    "longitude": 21.7457051
+  },
+  {
+    "id": 1918,
+    "name": "Panthessaliko Stadio",
+    "city": "Volos",
+    "capacity": 22700,
+    "latitude": 39.3874234,
+    "longitude": 22.9311916
+  },
+  {
+    "id": 3808,
+    "name": "Dimotiko Gipedo Paralímniou",
+    "city": "Paralimni",
+    "capacity": 2000,
+    "latitude": 40.98890402837186,
+    "longitude": 23.672826467937576
+  },
+  {
+    "id": 3809,
+    "name": "Stadio Xanthis",
+    "city": "Xanthi",
+    "capacity": 9503,
+    "latitude": 39.6226527910207,
+    "longitude": 22.422405002560286
+  },
+  {
+    "id": 3813,
+    "name": "Dimotiko Gipedo Episkopis",
+    "city": "Episkopi",
+    "capacity": 1500,
+    "latitude": 35.3232575,
+    "longitude": 24.3377021
+  },
+  {
+    "id": 3814,
+    "name": "Dimotiko Gipedo Kranidiou",
+    "city": "Kranidi",
+    "capacity": 2500,
+    "latitude": 37.3712105,
+    "longitude": 23.1612373
+  },
+  {
+    "id": 3815,
+    "name": "Stadio Amyntaio",
+    "city": "Aminteo",
+    "capacity": 3000,
+    "latitude": 40.6986294,
+    "longitude": 21.6846148
+  },
+  {
+    "id": 10941,
+    "name": "Gipedo Néo Keramídi Pierías",
+    "city": "Palaio Keramidi",
+    "capacity": 1000,
+    "latitude": 40.2862667,
+    "longitude": 22.4577713
+  },
+  {
+    "id": 3817,
+    "name": "Kalamata Metropolitan Stadium",
+    "city": "Kalamata",
+    "capacity": 5613,
+    "latitude": 37.0271015,
+    "longitude": 22.1244753
+  },
+  {
+    "id": 3820,
+    "name": "Dimotiko Stadio Anthi Karagianni",
+    "city": "Kavala",
+    "capacity": 12500,
+    "latitude": 40.9473669,
+    "longitude": 24.43627
+  },
+  {
+    "id": 20340,
+    "name": "Stadio Kaisarianis Michalis Kritikopoulos",
+    "city": "Athens",
+    "capacity": 4851,
+    "latitude": 37.9639988,
+    "longitude": 23.7744845
+  },
+  {
+    "id": 3828,
+    "name": "Municipal Stadium of Lixouri",
+    "city": "Lixouri",
+    "capacity": 1500,
+    "latitude": 38.2002489,
+    "longitude": 20.4384635
+  },
+  {
+    "id": 3832,
+    "name": "Gipedo Kamaríou",
+    "city": "Kamari",
+    "capacity": 1000,
+    "latitude": 36.3768808,
+    "longitude": 25.4817847
+  },
+  {
+    "id": 613154070711,
+    "name": "Δημοτικό Στάδιο Ευπαλίου",
+    "city": "Efpaliou",
+    "capacity": null,
+    "latitude": 38.4207863,
+    "longitude": 21.9323175
+  },
+  {
+    "id": 4670,
+    "name": "Gipedo Synoikismou",
+    "city": "Korinthos",
+    "capacity": 3000,
+    "latitude": 37.9371109,
+    "longitude": 22.9460262
+  },
+  {
+    "id": 10955,
+    "name": "Stadio Níkos Kílimpas",
+    "city": "Nea Artaki",
+    "capacity": 2000,
+    "latitude": 38.5175741,
+    "longitude": 23.6357856
+  },
+  {
+    "id": 4674,
+    "name": "Dimotiko Athlitiko Kentro Argous-Mykinon",
+    "city": "Argos",
+    "capacity": 7000,
+    "latitude": 37.6287146,
+    "longitude": 22.714481
+  },
+  {
+    "id": 4680,
+    "name": "Dimotiko Stadio Zakynthos",
+    "city": "Zakynthos",
+    "capacity": 3000,
+    "latitude": 37.7709283,
+    "longitude": 20.8867648
+  },
+  {
+    "id": 5452,
+    "name": "Stadio Diagora",
+    "city": "Rodos",
+    "capacity": 3693,
+    "latitude": 36.4383009,
+    "longitude": 28.2282892
+  },
+  {
+    "id": 5453,
+    "name": "Stadio Stavros Mavrothalassitis",
+    "city": "Athens",
+    "capacity": 8217,
+    "latitude": 37.98716539999999,
+    "longitude": 23.6760109
+  },
+  {
+    "id": 5455,
+    "name": "Dimotiko Gipedo Neapolis Nikaias",
+    "city": "Athína (Athens)",
+    "capacity": 4999,
+    "latitude": 37.9771354,
+    "longitude": 23.6349993
+  },
+  {
+    "id": 7804,
+    "name": "Stadio Peristeriou",
+    "city": "Athens",
+    "capacity": 9035,
+    "latitude": 38.0050303,
+    "longitude": 23.6898651
+  },
+  {
+    "id": 7895,
+    "name": "Dimotiko Stadio Kilkis",
+    "city": "Kilkis",
+    "capacity": 5000,
+    "latitude": 40.9869786,
+    "longitude": 22.8654846
+  },
+  {
+    "id": 616750693215,
+    "name": "Dimotiko Stadio Mesopotamias",
+    "city": "Mesopotamia",
+    "capacity": null,
+    "latitude": 40.50186714266137,
+    "longitude": 21.160400999588898
+  },
+  {
+    "id": 7898,
+    "name": "Gipedo Neas Efkarpias Makedonikou",
+    "city": "Thessaloníki",
+    "capacity": 8100,
+    "latitude": 40.6777862,
+    "longitude": 22.9504686
+  },
+  {
+    "id": 7902,
+    "name": "Dimotiko Stadio Palamas",
+    "city": "Palamas",
+    "capacity": 1000,
+    "latitude": 39.45681889999999,
+    "longitude": 22.0677111
+  },
+  {
+    "id": 1806,
+    "name": "Dimotiko Stadio Agion Anargyron",
+    "city": "Arta",
+    "capacity": 1961,
+    "latitude": 39.1362237,
+    "longitude": 21.0259308
+  },
+  {
+    "id": 7910,
+    "name": "Stadio Lefkímmis",
+    "city": "Lefkímmis",
+    "capacity": 3000,
+    "latitude": 39.4221224,
+    "longitude": 20.065991
+  },
+  {
+    "id": 7924,
+    "name": "Stadio Grigorios Kalakos",
+    "city": "Varda",
+    "capacity": 2000,
+    "latitude": 37.9464257,
+    "longitude": 23.6643956
+  },
+  {
+    "id": 11029,
+    "name": "Stadio Fotis Aravantinos",
+    "city": "Patra",
+    "capacity": 2000,
+    "latitude": 38.2617493,
+    "longitude": 21.7457051
+  },
+  {
+    "id": 7926,
+    "name": "Ethniko Stadio Agiou Nikolaou",
+    "city": "Agios Nikolaos",
+    "capacity": 3000,
+    "latitude": 35.1869681,
+    "longitude": 25.7142771
+  },
+  {
+    "id": 10915,
+    "name": "Stadio Ilioupolis",
+    "city": "Athens",
+    "capacity": 3000,
+    "latitude": 37.9307087,
+    "longitude": 23.7462975
+  },
+  {
+    "id": 10923,
+    "name": "Gipedo Diavaton",
+    "city": "Delta",
+    "capacity": 3000,
+    "latitude": 40.684271,
+    "longitude": 22.862777
+  },
+  {
+    "id": 10939,
+    "name": "Gípedo Kátsika",
+    "city": "Katsikas",
+    "capacity": 1000,
+    "latitude": 39.6284786,
+    "longitude": 20.8904896
+  },
+  {
+    "id": 3824,
+    "name": "Stadio Emilios Theofanidis",
+    "city": "Ptolemaida",
+    "capacity": 4000,
+    "latitude": 40.5103865,
+    "longitude": 21.6829149
+  },
+  {
+    "id": 769,
+    "name": "Kaftanzoglio Stadio",
+    "city": "Thessaloníki",
+    "capacity": 27770,
+    "latitude": 40.6255404,
+    "longitude": 22.9670024
+  },
+  {
+    "id": 21229,
+    "name": "Dimotikó Gípedo Afántou",
+    "city": "Afantou",
+    "capacity": 2500,
+    "latitude": 36.295243,
+    "longitude": 28.1622661
+  },
+  {
+    "id": 20244,
+    "name": "Dimotiko Stadio Anna Verouli",
+    "city": "Kavala",
+    "capacity": 2000,
+    "latitude": 40.9345537,
+    "longitude": 24.3927172
+  },
+  {
+    "id": 19333,
+    "name": "Gipedo Chalastras",
+    "city": "Chalastra",
+    "capacity": 2000,
+    "latitude": 40.6303007,
+    "longitude": 22.7411839
+  },
+  {
+    "id": 21230,
+    "name": "Dimotiko Stadio Orestiadas",
+    "city": "Orestiada",
+    "capacity": 2000,
+    "latitude": 41.5059834,
+    "longitude": 26.5238781
+  },
+  {
+    "id": 21231,
+    "name": "Néo Stádio Filiatrón",
+    "city": "Filiatra",
+    "capacity": 1000,
+    "latitude": 37.1619646,
+    "longitude": 21.5830594
+  },
+  {
+    "id": 417454920711,
+    "name": "Municipal Stadium of Volakas",
+    "city": "Volakas",
+    "capacity": null,
+    "latitude": 39.3553298,
+    "longitude": 22.967678
+  },
+  {
+    "id": 55423988574,
+    "name": "Municipal Stadium of Agios Dimitrios Agrinio",
+    "city": "Agrinio",
+    "capacity": null,
+    "latitude": 37.9214419,
+    "longitude": 23.7229475
+  },
+  {
+    "id": 868668305340,
+    "name": "Δημοτικό Γήπεδο Πλωμαρίου",
+    "city": "Plomari",
+    "capacity": null,
+    "latitude": 38.9704833,
+    "longitude": 26.3874164
+  },
+  {
+    "id": 997701930763,
+    "name": "Municipal Stadium of Platamonas",
+    "city": "Platamonas",
+    "capacity": null,
+    "latitude": 39.9870877,
+    "longitude": 22.626898
+  },
+  {
+    "id": 724911523591,
+    "name": "Krya Vrysi Municipal Stadium",
+    "city": "Krya Vrysi",
+    "capacity": 1500,
+    "latitude": 40.6934712,
+    "longitude": 22.3019631
+  },
+  {
+    "id": 599830514048,
+    "name": "Municipal Stadium of Evdilos",
+    "city": "Evdilos",
+    "capacity": null,
+    "latitude": 37.6134495,
+    "longitude": 26.2756276
+  },
+  {
+    "id": 710630218365,
+    "name": "Dimotiko Gipedo Kanaliou",
+    "city": "Kanali",
+    "capacity": null,
+    "latitude": 39.06803499999999,
+    "longitude": 20.6971047
+  },
+  {
+    "id": 630086889633,
+    "name": "Δημοτικό Γήπεδο Μουρνιών",
+    "city": "Chania",
+    "capacity": null,
+    "latitude": 35.4843823,
+    "longitude": 24.0130445
+  },
+  {
+    "id": 21232,
+    "name": "Gipedo Mandraikos",
+    "city": "Mándra",
+    "capacity": 3000,
+    "latitude": 38.0740663,
+    "longitude": 23.5058459
+  },
+  {
+    "id": 21233,
+    "name": "Dimotiko Gipedo Naousa",
+    "city": "Naousa",
+    "capacity": 3000,
+    "latitude": 40.6237577,
+    "longitude": 22.0735637
+  },
+  {
+    "id": 169176417184,
+    "name": "Sparta Municipal Stadium",
+    "city": "Sparti",
+    "capacity": null,
+    "latitude": 37.0798012,
+    "longitude": 22.4281765
+  },
+  {
+    "id": 77457121758,
+    "name": "Anavyssos Municipal Stadium",
+    "city": "Anavyssos",
+    "capacity": 1500,
+    "latitude": 37.747843,
+    "longitude": 23.9541251
+  },
+  {
+    "id": 809536604313,
+    "name": "Municipal Stadium of Sarti",
+    "city": "Sarti",
+    "capacity": null,
+    "latitude": 40.0878237,
+    "longitude": 23.978592
+  },
+  {
+    "id": 393580451137,
+    "name": "Municipal Stadium of Falanis",
+    "city": "Falanis",
+    "capacity": null,
+    "latitude": 39.64890166914487,
+    "longitude": 22.412013559636495
+  },
+  {
+    "id": 638018145783,
+    "name": "Δημοτικό Γήπεδο Γραικοχωρίου",
+    "city": "Graikochori",
+    "capacity": null,
+    "latitude": 39.4816178,
+    "longitude": 20.2921546
+  },
+  {
+    "id": 437156583143,
+    "name": "Municipal Stadium of Chalkeio",
+    "city": "Chalkeio",
+    "capacity": null,
+    "latitude": 37.1036456,
+    "longitude": 25.3815114
+  },
+  {
+    "id": 21240,
+    "name": "Dimotiko Stadio Neas Ionias",
+    "city": "Athína (Athens)",
+    "capacity": 720,
+    "latitude": 38.036874,
+    "longitude": 23.7615254
+  },
+  {
+    "id": 21234,
+    "name": "Dimotiko Stadio Polykastro",
+    "city": "Polykastro",
+    "capacity": 1000,
+    "latitude": 40.9916812,
+    "longitude": 22.582205
+  },
+  {
+    "id": 10926,
+    "name": "Gipedo Thermis",
+    "city": "Thermis",
+    "capacity": 1000,
+    "latitude": 40.5474006,
+    "longitude": 23.0145503
+  },
+  {
+    "id": 4666,
+    "name": "Dimotiko Stadio Fotis Kosmas",
+    "city": "Alexandroupolis",
+    "capacity": 7000,
+    "latitude": 40.8430918,
+    "longitude": 25.8657804
+  },
+  {
+    "id": 7894,
+    "name": "Dimotiko Stadio Chrysoupolis",
+    "city": "Chrysoupoli",
+    "capacity": 800,
+    "latitude": 40.9906697,
+    "longitude": 24.688704
+  },
+  {
+    "id": 10927,
+    "name": "Gipedo Podosferou",
+    "city": "Nea Michaniona",
+    "capacity": 2500,
+    "latitude": 40.4643575,
+    "longitude": 22.8662905
+  },
+  {
+    "id": 20220,
+    "name": "Gipedo Kristonis",
+    "city": "Kristoni",
+    "capacity": 1000,
+    "latitude": 40.391117,
+    "longitude": 19.4808377
+  },
+  {
+    "id": 20221,
+    "name": "Gipedo Kassandrias",
+    "city": "Kassandra",
+    "capacity": 2040,
+    "latitude": 40.0526471,
+    "longitude": 23.4212336
+  },
+  {
+    "id": 656108226323,
+    "name": "Stadio Piges",
+    "city": "Piges",
+    "capacity": null,
+    "latitude": 40.905152187469085,
+    "longitude": 24.670536351606376
+  },
+  {
+    "id": 529632829508,
+    "name": "Δημοτικό Γήπεδο Αμμουδιάς",
+    "city": "Ammoudia",
+    "capacity": null,
+    "latitude": 41.1475075,
+    "longitude": 23.3347145
+  },
+  {
+    "id": 21235,
+    "name": "Dimotiko Stadio Neon Moudanion",
+    "city": "Nea Moudania",
+    "capacity": 2000,
+    "latitude": 40.2438921,
+    "longitude": 23.2842937
+  },
+  {
+    "id": 668318586974,
+    "name": "Γήπεδο Νέας Αμισού",
+    "city": "Nea Amisos",
+    "capacity": null,
+    "latitude": 41.1317138,
+    "longitude": 24.123738
+  },
+  {
+    "id": 2731,
+    "name": "Stadio Karditsas",
+    "city": "Karditsa",
+    "capacity": 4600,
+    "latitude": 39.3624681,
+    "longitude": 21.9351803
+  },
+  {
+    "id": 1775,
+    "name": "Dimotiko Gipedo Aiginiou",
+    "city": "Aiginio",
+    "capacity": 3000,
+    "latitude": 37.7420863,
+    "longitude": 23.4316475
+  },
+  {
+    "id": 3830,
+    "name": "Stadio Igoumenitsas",
+    "city": "Igoumenitsa",
+    "capacity": 3000,
+    "latitude": 39.5119041,
+    "longitude": 20.2574496
+  },
+  {
+    "id": 3833,
+    "name": "Stadio Platonas Gligoris",
+    "city": "Lefkas",
+    "capacity": 3300,
+    "latitude": 38.8291008,
+    "longitude": 20.6998497
+  },
+  {
+    "id": 7907,
+    "name": "Stadio Katerinis",
+    "city": "Katerini",
+    "capacity": 4956,
+    "latitude": 40.2615116,
+    "longitude": 22.5119945
+  },
+  {
+    "id": 10946,
+    "name": "Dimotiko Stadio Kozanis",
+    "city": "Kozani",
+    "capacity": 1500,
+    "latitude": 40.2940265,
+    "longitude": 21.7820874
+  },
+  {
+    "id": 19091,
+    "name": "Gipedo EPS Kerkyras",
+    "city": "Corfu",
+    "capacity": 850,
+    "latitude": 39.61137859999999,
+    "longitude": 19.9160704
+  },
+  {
+    "id": 20222,
+    "name": "Athlitikó Kéntro Svorónou Lázaros Xanthópoulos",
+    "city": "Svoronos",
+    "capacity": 1500,
+    "latitude": 40.2683581,
+    "longitude": 22.4624484
+  },
+  {
+    "id": 10932,
+    "name": "Municipal Stadium of Alexandreia",
+    "city": "Alexandreia",
+    "capacity": 1000,
+    "latitude": 40.63356141122008,
+    "longitude": 22.45235749533865
+  },
+  {
+    "id": 611110074839,
+    "name": "Municipal Stadium of Vonitsa",
+    "city": "Vonitsa",
+    "capacity": null,
+    "latitude": 38.9187285,
+    "longitude": 20.8801798
+  },
+  {
+    "id": 7906,
+    "name": "Dimotiko Gipedo Neapolis",
+    "city": "Larissa",
+    "capacity": 2000,
+    "latitude": 39.6190484,
+    "longitude": 22.3978819
+  },
+  {
+    "id": 22532,
+    "name": "Dimotiko Stadio Filiaton",
+    "city": "Filiates",
+    "capacity": 2500,
+    "latitude": 37.1614634,
+    "longitude": 21.5795199
+  },
+  {
+    "id": 2733,
+    "name": "Ethniko Stadio Aigio",
+    "city": "Aigio",
+    "capacity": 7000,
+    "latitude": 38.2521235,
+    "longitude": 22.0723868
+  },
+  {
+    "id": 10948,
+    "name": "Dimotiko Stadio Gythio",
+    "city": "Gytheio",
+    "capacity": 3000,
+    "latitude": 36.7634385,
+    "longitude": 22.5658559
+  },
+  {
+    "id": 20224,
+    "name": "Dimotiko Stadio Mykonou",
+    "city": "Mykonos",
+    "capacity": 3000,
+    "latitude": 37.4256819,
+    "longitude": 25.3209451
+  },
+  {
+    "id": 21236,
+    "name": "Dimotikó Gípedo Podosfaírou Áno Sýrou",
+    "city": "Ermoupoli",
+    "capacity": 1500,
+    "latitude": 37.445089,
+    "longitude": 24.9433523
+  },
+  {
+    "id": 22536,
+    "name": "Dimotiko Stadio Amarinto",
+    "city": "Eretria",
+    "capacity": 1500,
+    "latitude": 38.3940501,
+    "longitude": 23.8760313
+  },
+  {
+    "id": 21237,
+    "name": "Thodio Stadio Loutráki",
+    "city": "Loutráki",
+    "capacity": 3000,
+    "latitude": 37.9659153,
+    "longitude": 22.9793614
+  },
+  {
+    "id": 347854834442,
+    "name": "Municipal Stadium of Malesina",
+    "city": "Malesina",
+    "capacity": null,
+    "latitude": 38.6310616,
+    "longitude": 23.2426374
+  },
+  {
+    "id": 22533,
+    "name": "Municipal Stadium of Pylos",
+    "city": "Pylos",
+    "capacity": 1500,
+    "latitude": 37.6782875,
+    "longitude": 21.4276155
+  },
+  {
+    "id": 10947,
+    "name": "Gipedo Nafplion",
+    "city": "Nafplio",
+    "capacity": 1500,
+    "latitude": 37.5682333,
+    "longitude": 22.8049102
+  },
+  {
+    "id": 3831,
+    "name": "Dimotiko Stadio Rafinas Panagiotis Skoufos",
+    "city": "Rafina",
+    "capacity": 980,
+    "latitude": 38.0149243,
+    "longitude": 24.0113671
+  },
+  {
+    "id": 4664,
+    "name": "Stadio Atsalenios",
+    "city": "Iraklio (Heraklion)",
+    "capacity": 1500,
+    "latitude": 35.3197587,
+    "longitude": 25.1367459
+  },
+  {
+    "id": 4667,
+    "name": "Stadio Zografou Grigóris Lamprákis",
+    "city": "Athína (Athens)",
+    "capacity": 2716,
+    "latitude": 37.9795361,
+    "longitude": 23.7717459
+  },
+  {
+    "id": 7919,
+    "name": "Ethniko Stadio Markopoulou",
+    "city": "Markopoulo Mesogeas",
+    "capacity": 3000,
+    "latitude": 37.8721345,
+    "longitude": 23.9324469
+  },
+  {
+    "id": 11036,
+    "name": "Giouchtas Markos Stadium",
+    "city": "Archanes",
+    "capacity": 1500,
+    "latitude": 35.2453428,
+    "longitude": 25.1656523
+  },
+  {
+    "id": 11034,
+    "name": "Δημοτικό Γήπεδο Σοχώρας",
+    "city": "Rethymno",
+    "capacity": 4000,
+    "latitude": 35.36895740000001,
+    "longitude": 24.4692856
+  },
+  {
+    "id": 10910,
+    "name": "Athlitiko Kentro Varis",
+    "city": "Vari",
+    "capacity": 2500,
+    "latitude": 37.8372895,
+    "longitude": 23.8056639
+  },
+  {
+    "id": 8623,
+    "name": "Dimotiko Stadio Nikaias",
+    "city": "Athens",
+    "capacity": 4361,
+    "latitude": 37.9777455,
+    "longitude": 23.6600252
+  },
+  {
+    "id": 20226,
+    "name": "Gípedo Alkyón",
+    "city": "Petroupoli",
+    "capacity": 1000,
+    "latitude": 38.0533181,
+    "longitude": 23.6851548
+  },
+  {
+    "id": 21238,
+    "name": "Dimotikó Gípedo Tympakíou",
+    "city": "Timpaki",
+    "capacity": 1500,
+    "latitude": 35.0729318,
+    "longitude": 24.7686207
+  },
+  {
+    "id": 21239,
+    "name": "Dimotikó Gípedo Tákis Charalampídis",
+    "city": "Chaidari",
+    "capacity": 1000,
+    "latitude": 38.0029468,
+    "longitude": 23.6593732
+  },
+  {
+    "id": 984836586093,
+    "name": "Kaisariani Municipal Stadium",
+    "city": "Kaisariani",
+    "capacity": 4850,
+    "latitude": 37.9675398,
+    "longitude": 23.7662871
+  },
+  {
+    "id": 4676,
+    "name": "Stadio Thivas",
+    "city": "Thebes",
+    "capacity": 1000,
+    "latitude": 38.3075371,
+    "longitude": 23.3202076
+  },
+  {
+    "id": 21635,
+    "name": "Proponitikó Kéntro PAE AEK",
+    "city": "Spata",
+    "capacity": 3000,
+    "latitude": 37.9565099,
+    "longitude": 23.9286847
+  },
+  {
+    "id": 364526260506,
+    "name": "Theodoros Kolokotronis Stadium",
+    "city": "Tripoli",
+    "capacity": 7442,
+    "latitude": 37.502729,
+    "longitude": 22.3885431
+  }
+]
