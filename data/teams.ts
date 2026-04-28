@@ -66,3 +66,4 @@ export { default as guatemala } from './guatemala-teams.json';
 export { default as guinea } from './guinea-teams.json';
 export { default as haiti } from './haiti-teams.json';
 export { default as honduras } from './honduras-teams.json';
+export { default as hongKong } from './hong-kong-teams.json';

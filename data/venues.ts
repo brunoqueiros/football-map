@@ -66,3 +66,4 @@ export { default as guatemala } from './guatemala-venues.json';
 export { default as guinea } from './guinea-venues.json';
 export { default as haiti } from './haiti-venues.json';
 export { default as honduras } from './honduras-venues.json';
+export { default as hongKong } from './hong-kong-venues.json';

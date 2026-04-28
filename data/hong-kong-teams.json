@@ -1,0 +1,222 @@
+[
+    {
+        "id": 4207,
+        "name": "Warriors",
+        "code": null,
+        "country": "Hong-Kong",
+        "founded": null,
+        "national": false,
+        "logo": "4207.png",
+        "venue_id": 3382
+    },
+    {
+        "id": 4451,
+        "name": "Eastern",
+        "code": null,
+        "country": "Hong-Kong",
+        "founded": 1932,
+        "national": false,
+        "logo": "4451.png",
+        "venue_id": 3384
+    },
+    {
+        "id": 4453,
+        "name": "Kitchee",
+        "code": "KIT",
+        "country": "Hong-Kong",
+        "founded": 1931,
+        "national": false,
+        "logo": "4453.png",
+        "venue_id": 3384
+    },
+    {
+        "id": 4456,
+        "name": "Southern District",
+        "code": null,
+        "country": "Hong-Kong",
+        "founded": 2002,
+        "national": false,
+        "logo": "4456.png",
+        "venue_id": 12557
+    },
+    {
+        "id": 4457,
+        "name": "Wofoo Tai Po",
+        "code": null,
+        "country": "Hong-Kong",
+        "founded": 2002,
+        "national": false,
+        "logo": "4457.png",
+        "venue_id": 3387
+    },
+    {
+        "id": 4459,
+        "name": "Rangers",
+        "code": null,
+        "country": "Hong-Kong",
+        "founded": 1960,
+        "national": false,
+        "logo": "4459.png",
+        "venue_id": 3389
+    },
+    {
+        "id": 4462,
+        "name": "Hong Kong FC",
+        "code": null,
+        "country": "Hong-Kong",
+        "founded": 1886,
+        "national": false,
+        "logo": "4462.png",
+        "venue_id": 3390
+    },
+    {
+        "id": 4470,
+        "name": "Resources Capital",
+        "code": null,
+        "country": "Hong-Kong",
+        "founded": 1982,
+        "national": false,
+        "logo": "4470.svg",
+        "venue_id": 3391
+    },
+    {
+        "id": 6401,
+        "name": "North District",
+        "code": null,
+        "country": "Hong-Kong",
+        "founded": 2003,
+        "national": false,
+        "logo": "6401.png",
+        "venue_id": 4721
+    },
+    {
+        "id": 6402,
+        "name": "Sham Shui Po",
+        "code": null,
+        "country": "Hong-Kong",
+        "founded": null,
+        "national": false,
+        "logo": "6402.png",
+        "venue_id": 3383
+    },
+    {
+        "id": 4452,
+        "name": "Hoi King",
+        "code": null,
+        "country": "Hong-Kong",
+        "founded": null,
+        "national": false,
+        "logo": "4452.png",
+        "venue_id": 3383
+    },
+    {
+        "id": 4458,
+        "name": "Yuen Long",
+        "code": null,
+        "country": "Hong-Kong",
+        "founded": 1959,
+        "national": false,
+        "logo": "4458.png",
+        "venue_id": 3388
+    },
+    {
+        "id": 4463,
+        "name": "South China",
+        "code": "SOU",
+        "country": "Hong-Kong",
+        "founded": 1904,
+        "national": false,
+        "logo": "4463.png",
+        "venue_id": 3392
+    },
+    {
+        "id": 4464,
+        "name": "Central & Western",
+        "code": null,
+        "country": "Hong-Kong",
+        "founded": null,
+        "national": false,
+        "logo": "4464.png",
+        "venue_id": 3392
+    },
+    {
+        "id": 4465,
+        "name": "Citizen AA",
+        "code": null,
+        "country": "Hong-Kong",
+        "founded": 1947,
+        "national": false,
+        "logo": "4465.png",
+        "venue_id": 3393
+    },
+    {
+        "id": 4467,
+        "name": "Eastern District",
+        "code": null,
+        "country": "Hong-Kong",
+        "founded": 2002,
+        "national": false,
+        "logo": "4467.png",
+        "venue_id": 3392
+    },
+    {
+        "id": 4471,
+        "name": "Shatin",
+        "code": null,
+        "country": "Hong-Kong",
+        "founded": 1982,
+        "national": false,
+        "logo": "4471.png",
+        "venue_id": 3396
+    },
+    {
+        "id": 4472,
+        "name": "Wing Yee",
+        "code": null,
+        "country": "Hong-Kong",
+        "founded": 2006,
+        "national": false,
+        "logo": "4472.png",
+        "venue_id": 3393
+    },
+    {
+        "id": 11690,
+        "name": "Tuen Mun FC",
+        "code": null,
+        "country": "Hong-Kong",
+        "founded": 2001,
+        "national": false,
+        "logo": "11690.png",
+        "venue_id": 3400
+    },
+    {
+        "id": 22524,
+        "name": "3 Sing",
+        "code": null,
+        "country": "Hong-Kong",
+        "founded": 2020,
+        "national": false,
+        "logo": "22524.svg",
+        "venue_id": 154911628102
+    },
+    {
+        "id": 24882,
+        "name": "WSE",
+        "code": null,
+        "country": "Hong-Kong",
+        "founded": null,
+        "national": false,
+        "logo": "24882.png",
+        "venue_id": 532672281908
+    },
+    {
+        "id": 20392,
+        "name": "Kowloon City",
+        "code": null,
+        "country": "Hong-Kong",
+        "founded": 2004,
+        "national": false,
+        "logo": "20392.png",
+        "venue_id": 3383
+    }
+]

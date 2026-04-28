@@ -1,0 +1,130 @@
+[
+  {
+    "id": 3382,
+    "name": "Tseung Kwan O Sports Ground",
+    "city": "Hong Kong",
+    "capacity": 5000,
+    "latitude": 22.3117028,
+    "longitude": 114.2633119
+  },
+  {
+    "id": 3384,
+    "name": "Mong Kok Stadium",
+    "city": "Hong Kong",
+    "capacity": 6664,
+    "latitude": 22.3260834,
+    "longitude": 114.172939
+  },
+  {
+    "id": 12557,
+    "name": "Aberdeen Sports Ground",
+    "city": "Hong Kong",
+    "capacity": 8000,
+    "latitude": 22.2494946,
+    "longitude": 114.1719559
+  },
+  {
+    "id": 3387,
+    "name": "Tai Po Sports Ground",
+    "city": "Tai Po",
+    "capacity": 3200,
+    "latitude": 22.455715,
+    "longitude": 114.1621722
+  },
+  {
+    "id": 3389,
+    "name": "Tuen Mun Tang Shiu Kin Sports Ground",
+    "city": "Tuen Mun",
+    "capacity": 2500,
+    "latitude": 22.404121,
+    "longitude": 113.9739915
+  },
+  {
+    "id": 3390,
+    "name": "Hong Kong Football Club Stadium",
+    "city": "Hong Kong",
+    "capacity": 3829,
+    "latitude": 22.2743495,
+    "longitude": 114.1816607
+  },
+  {
+    "id": 3391,
+    "name": "Tsing Yi Sports Ground",
+    "city": "Tsing Yi",
+    "capacity": 2000,
+    "latitude": 22.3561583,
+    "longitude": 114.107475
+  },
+  {
+    "id": 4721,
+    "name": "North District Sports Ground",
+    "city": "North District",
+    "capacity": 2000,
+    "latitude": 22.5063119,
+    "longitude": 114.1305155
+  },
+  {
+    "id": 3383,
+    "name": "Sham Shui Po Sports Ground",
+    "city": "Kowloon",
+    "capacity": 2194,
+    "latitude": 22.337534,
+    "longitude": 114.1516879
+  },
+  {
+    "id": 3388,
+    "name": "Yuen Long Stadium",
+    "city": "Yuen Long",
+    "capacity": 5000,
+    "latitude": 22.4427639,
+    "longitude": 114.0206527
+  },
+  {
+    "id": 3392,
+    "name": "Happy Valley Recreation Ground #1",
+    "city": "Hong Kong",
+    "capacity": 1000,
+    "latitude": 22.2737366,
+    "longitude": 114.1817642
+  },
+  {
+    "id": 3393,
+    "name": "Po Kong Village Road Park 1",
+    "city": "Hong Kong",
+    "capacity": 3000,
+    "latitude": 22.3424447,
+    "longitude": 114.2084176
+  },
+  {
+    "id": 3396,
+    "name": "Ma On Shan Recreation Ground",
+    "city": "Hong Kong",
+    "capacity": 1000,
+    "latitude": 22.419228,
+    "longitude": 114.2280009
+  },
+  {
+    "id": 3400,
+    "name": "Tsing Yi Northeast Park",
+    "city": "Tsing Yi",
+    "capacity": 1000,
+    "latitude": 22.3625166,
+    "longitude": 114.0990749
+  },
+  {
+    "id": 154911628102,
+    "name": "Shek Kip Mei Park",
+    "city": "Sham Shui Po",
+    "capacity": 1400,
+    "latitude": 22.3385762,
+    "longitude": 114.1707594
+  },
+  {
+    "id": 532672281908,
+    "name": "Kwong Fuk Park",
+    "city": "Tai Po",
+    "capacity": null,
+    "latitude": 22.4455154,
+    "longitude": 114.1739024
+  }
+]
