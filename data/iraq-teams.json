@@ -1,0 +1,212 @@
+[
+    {
+        "id": 5242,
+        "name": "Al Shorta",
+        "code": "SHO",
+        "country": "Iraq",
+        "founded": null,
+        "national": false,
+        "logo": "5242.png",
+        "venue_id": 5710
+    },
+    {
+        "id": 6689,
+        "name": "Newroz",
+        "code": null,
+        "country": "Sweden",
+        "founded": null,
+        "national": false,
+        "logo": "6689.svg",
+        "venue_id": 4885
+    },
+    {
+        "id": 8009,
+        "name": "Al Quwa Al Jawiya",
+        "code": null,
+        "country": "Iraq",
+        "founded": 1931,
+        "national": false,
+        "logo": "8009.png",
+        "venue_id": 5710
+    },
+    {
+        "id": 8010,
+        "name": "Al Zawra'a",
+        "code": null,
+        "country": "Iraq",
+        "founded": 1969,
+        "national": false,
+        "logo": "8010.png",
+        "venue_id": 21300
+    },
+    {
+        "id": 11063,
+        "name": "Al Hudod",
+        "code": null,
+        "country": "Iraq",
+        "founded": 1976,
+        "national": false,
+        "logo": "11063.png",
+        "venue_id": 5710
+    },
+    {
+        "id": 11064,
+        "name": "Al Kahrabaa",
+        "code": null,
+        "country": "Iraq",
+        "founded": 2001,
+        "national": false,
+        "logo": "11064.png",
+        "venue_id": 21300
+    },
+    {
+        "id": 11065,
+        "name": "Al Minaa Basra",
+        "code": null,
+        "country": "Iraq",
+        "founded": 1931,
+        "national": false,
+        "logo": "11065.png",
+        "venue_id": 20704
+    },
+    {
+        "id": 11066,
+        "name": "Al Najaf",
+        "code": null,
+        "country": "Iraq",
+        "founded": null,
+        "national": false,
+        "logo": "11066.png",
+        "venue_id": 7400
+    },
+    {
+        "id": 11067,
+        "name": "Al Talaba",
+        "code": null,
+        "country": "Iraq",
+        "founded": 1977,
+        "national": false,
+        "logo": "11067.png",
+        "venue_id": 21301
+    },
+    {
+        "id": 11070,
+        "name": "Erbil",
+        "code": null,
+        "country": "Iraq",
+        "founded": 1968,
+        "national": false,
+        "logo": "11070.png",
+        "venue_id": 7403
+    },
+    {
+        "id": 11071,
+        "name": "Naft",
+        "code": null,
+        "country": "Iraq",
+        "founded": 1979,
+        "national": false,
+        "logo": "11071.png",
+        "venue_id": 21301
+    },
+    {
+        "id": 11072,
+        "name": "Naft Al-Janoob",
+        "code": null,
+        "country": "Iraq",
+        "founded": null,
+        "national": false,
+        "logo": "11072.png",
+        "venue_id": 21302
+    },
+    {
+        "id": 11074,
+        "name": "Naft Maysan",
+        "code": null,
+        "country": "Iraq",
+        "founded": null,
+        "national": false,
+        "logo": "11074.png",
+        "venue_id": 7405
+    },
+    {
+        "id": 15544,
+        "name": "Al Karkh",
+        "code": null,
+        "country": "Iraq",
+        "founded": 1963,
+        "national": false,
+        "logo": "15544.png",
+        "venue_id": 21303
+    },
+    {
+        "id": 15546,
+        "name": "Al-Qasim",
+        "code": null,
+        "country": "Iraq",
+        "founded": null,
+        "national": false,
+        "logo": "15546.png",
+        "venue_id": 11076
+    },
+    {
+        "id": 15547,
+        "name": "Zakho",
+        "code": null,
+        "country": "Iraq",
+        "founded": 0,
+        "national": false,
+        "logo": "15547.png",
+        "venue_id": 11077
+    },
+    {
+        "id": 20463,
+        "name": "Duhok",
+        "code": null,
+        "country": "Iraq",
+        "founded": 1970,
+        "national": false,
+        "logo": "20463.png",
+        "venue_id": 19301
+    },
+    {
+        "id": 20464,
+        "name": "Karbala",
+        "code": null,
+        "country": "Iraq",
+        "founded": 1985,
+        "national": false,
+        "logo": "20464.png",
+        "venue_id": 19302
+    },
+    {
+        "id": 25061,
+        "name": "Diyala",
+        "code": null,
+        "country": "Iraq",
+        "founded": 1957,
+        "national": false,
+        "logo": "25061.png",
+        "venue_id": 22552
+    },
+    {
+        "id": 25062,
+        "name": "Newroz",
+        "code": null,
+        "country": "Iraq",
+        "founded": null,
+        "national": false,
+        "logo": "25062.png",
+        "venue_id": 396348762378
+    },
+    {
+        "id": 25063,
+        "name": "Al-Karma",
+        "code": null,
+        "country": "Iraq",
+        "founded": 2020,
+        "national": false,
+        "logo": "25063.png",
+        "venue_id": 22553
+    }
+]

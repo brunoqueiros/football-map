@@ -1,0 +1,138 @@
+[
+  {
+    "id": 5710,
+    "name": "Al-Shorta Stadium",
+    "city": "Baghdad",
+    "capacity": 10000,
+    "latitude": 33.3383654,
+    "longitude": 44.43582019999999
+  },
+  {
+    "id": 4885,
+    "name": "Bredängs BP 1",
+    "city": "Stockholm",
+    "capacity": 1000,
+    "latitude": 59.29612050000001,
+    "longitude": 17.9287624
+  },
+  {
+    "id": 21300,
+    "name": "Al-Zawraa Stadium",
+    "city": "Baghdad",
+    "capacity": 20000,
+    "latitude": 33.3442224,
+    "longitude": 44.3681685
+  },
+  {
+    "id": 20704,
+    "name": "Al-Minaa Olympic Stadium",
+    "city": "Basra",
+    "capacity": 30000,
+    "latitude": 30.552309,
+    "longitude": 47.7781866
+  },
+  {
+    "id": 7400,
+    "name": "Najaf International Stadium",
+    "city": "Najaf",
+    "capacity": 30000,
+    "latitude": 32.0663517,
+    "longitude": 44.3169338
+  },
+  {
+    "id": 21301,
+    "name": "Al-Madina International Stadium",
+    "city": "Baghdad",
+    "capacity": 32000,
+    "latitude": 33.3543773,
+    "longitude": 44.4555763
+  },
+  {
+    "id": 7403,
+    "name": "Franso Hariri Stadium",
+    "city": "Erbil",
+    "capacity": 25000,
+    "latitude": 36.17268749999999,
+    "longitude": 44.0113125
+  },
+  {
+    "id": 21302,
+    "name": "Al Faihaa Stadium",
+    "city": "Basra",
+    "capacity": 10000,
+    "latitude": 30.4424348,
+    "longitude": 47.7797288
+  },
+  {
+    "id": 7405,
+    "name": "Maysan International Stadium",
+    "city": "Al Amarah",
+    "capacity": 25000,
+    "latitude": 31.8353449,
+    "longitude": 47.1270276
+  },
+  {
+    "id": 21303,
+    "name": "Al Saher Ahmed Radhi Stadium",
+    "city": "Baghdād",
+    "capacity": 5150,
+    "latitude": 33.3165092,
+    "longitude": 44.364932
+  },
+  {
+    "id": 11076,
+    "name": "Al Kefal Olympic Stadium",
+    "city": "Al Kifl",
+    "capacity": 10000,
+    "latitude": 32.2244375,
+    "longitude": 44.3613125
+  },
+  {
+    "id": 11077,
+    "name": "Zakho International Stadium",
+    "city": "Zakho",
+    "capacity": 20000,
+    "latitude": 37.1459258,
+    "longitude": 42.6722562
+  },
+  {
+    "id": 19301,
+    "name": "Dohuk Stadium",
+    "city": "Dohuk",
+    "capacity": 20000,
+    "latitude": 36.8519358,
+    "longitude": 42.9963915
+  },
+  {
+    "id": 19302,
+    "name": "Karbala International Stadium",
+    "city": "Karbala",
+    "capacity": 30000,
+    "latitude": 32.5650706,
+    "longitude": 44.0042734
+  },
+  {
+    "id": 22552,
+    "name": "Al-Ba'qouba Stadium",
+    "city": "Baqubah",
+    "capacity": 10000,
+    "latitude": 33.7480589,
+    "longitude": 44.6574858
+  },
+  {
+    "id": 396348762378,
+    "name": "Newroz Stadium",
+    "city": "Sulaymaniyah",
+    "capacity": 15000,
+    "latitude": 35.5585625,
+    "longitude": 45.3680469
+  },
+  {
+    "id": 22553,
+    "name": "Al Ramadi Stadium",
+    "city": "Ar Ramādī",
+    "capacity": 15000,
+    "latitude": 33.4203923,
+    "longitude": 43.3217123
+  }
+]
