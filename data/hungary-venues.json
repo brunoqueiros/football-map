@@ -1,0 +1,1410 @@
+[
+  {
+    "id": 11902,
+    "name": "Bozsik Aréna",
+    "city": "Budapest",
+    "capacity": 8200,
+    "latitude": 47.4427121,
+    "longitude": 19.1555205
+  },
+  {
+    "id": 798,
+    "name": "MOL Aréna Sóstó",
+    "city": "Székesfehérvár",
+    "capacity": 14201,
+    "latitude": 47.17388889999999,
+    "longitude": 18.415
+  },
+  {
+    "id": 799,
+    "name": "Groupama Aréna",
+    "city": "Budapest",
+    "capacity": 23698,
+    "latitude": 47.47539889999999,
+    "longitude": 19.0952542
+  },
+  {
+    "id": 817,
+    "name": "Illovszky Rudolf Stadion",
+    "city": "Budapest",
+    "capacity": 5054,
+    "latitude": 47.5369464,
+    "longitude": 19.080491
+  },
+  {
+    "id": 814,
+    "name": "Szusza Ferenc Stadion",
+    "city": "Budapest",
+    "capacity": 13501,
+    "latitude": 47.5748956,
+    "longitude": 19.0846574
+  },
+  {
+    "id": 805,
+    "name": "Városi Stadion",
+    "city": "Mezőkövesd",
+    "capacity": 5020,
+    "latitude": 47.8020339,
+    "longitude": 20.5666933
+  },
+  {
+    "id": 809,
+    "name": "Paksi FC Stadion",
+    "city": "Paks",
+    "capacity": 4950,
+    "latitude": 46.633352,
+    "longitude": 18.8516684
+  },
+  {
+    "id": 1764,
+    "name": "Puskás Akadémia Pancho Aréna",
+    "city": "Felcsút",
+    "capacity": 3865,
+    "latitude": 47.4640467,
+    "longitude": 18.5866732
+  },
+  {
+    "id": 795,
+    "name": "Nagyerdei Stadion",
+    "city": "Debrecen",
+    "capacity": 20340,
+    "latitude": 47.5539073,
+    "longitude": 21.633776
+  },
+  {
+    "id": 796,
+    "name": "Diósgyőri Stadion",
+    "city": "Miskolc",
+    "capacity": 15325,
+    "latitude": 48.0996829,
+    "longitude": 20.7175509
+  },
+  {
+    "id": 816,
+    "name": "Várkerti Stadion",
+    "city": "Kisvárda",
+    "capacity": 2850,
+    "latitude": 48.23261000000001,
+    "longitude": 22.074567
+  },
+  {
+    "id": 2741,
+    "name": "Városi Stadion",
+    "city": "Sopron",
+    "capacity": 5800,
+    "latitude": 47.691652,
+    "longitude": 16.5837621
+  },
+  {
+    "id": 802,
+    "name": "Hidegkuti Nándor Stadion",
+    "city": "Budapest",
+    "capacity": 5322,
+    "latitude": 47.4910165,
+    "longitude": 19.1071652
+  },
+  {
+    "id": 800,
+    "name": "Alcufer Stadion",
+    "city": "Győr",
+    "capacity": 4578,
+    "latitude": 47.6328867,
+    "longitude": 17.5926923
+  },
+  {
+    "id": 1886,
+    "name": "Promontor utcai stadion",
+    "city": "Budapest",
+    "capacity": 4000,
+    "latitude": 47.4215009,
+    "longitude": 19.0277373
+  },
+  {
+    "id": 794,
+    "name": "Malomtó széli sporttelep",
+    "city": "Cegléd",
+    "capacity": 4000,
+    "latitude": 47.1850961,
+    "longitude": 19.7920609
+  },
+  {
+    "id": 797,
+    "name": "Buzánszky Jenő Stadion",
+    "city": "Dorog",
+    "capacity": 4000,
+    "latitude": 47.7224426,
+    "longitude": 18.7393911
+  },
+  {
+    "id": 801,
+    "name": "ETO Park",
+    "city": "Győr",
+    "capacity": 16000,
+    "latitude": 47.6956859,
+    "longitude": 17.6628029
+  },
+  {
+    "id": 1796,
+    "name": "Balmazújvárosi Városi Sportpálya",
+    "city": "Balmazújváros",
+    "capacity": 3500,
+    "latitude": 47.6114074,
+    "longitude": 21.3505612
+  },
+  {
+    "id": 811,
+    "name": "Szamosi Mihály Sporttelep",
+    "city": "Budapest",
+    "capacity": 5000,
+    "latitude": 47.3906673,
+    "longitude": 19.1138492
+  },
+  {
+    "id": 792,
+    "name": "Kórház utcai stadion",
+    "city": "Békéscsaba",
+    "capacity": 10432,
+    "latitude": 46.6858966,
+    "longitude": 21.1049813
+  },
+  {
+    "id": 803,
+    "name": "Rákóczi Stadion",
+    "city": "Kaposvár",
+    "capacity": 7000,
+    "latitude": 46.3565458,
+    "longitude": 17.806019
+  },
+  {
+    "id": 1737,
+    "name": "Tersztyánszky Ödön Sportközpont",
+    "city": "Csákvár",
+    "capacity": 2500,
+    "latitude": 47.4008736,
+    "longitude": 18.4684778
+  },
+  {
+    "id": 11903,
+    "name": "Kolorcity Aréna",
+    "city": "Kazincbarcika",
+    "capacity": 8000,
+    "latitude": 48.243734,
+    "longitude": 20.6104535
+  },
+  {
+    "id": 806,
+    "name": "Balassi Bálint utcai stadion",
+    "city": "Monor",
+    "capacity": 2250,
+    "latitude": 47.3534325,
+    "longitude": 19.4371528
+  },
+  {
+    "id": 807,
+    "name": "Wittmann Antal park",
+    "city": "Mosonmagyaróvár",
+    "capacity": 4000,
+    "latitude": 47.8831332,
+    "longitude": 17.2754012
+  },
+  {
+    "id": 810,
+    "name": "Révész Géza utcai stadion",
+    "city": "Siófok",
+    "capacity": 6500,
+    "latitude": 46.909277,
+    "longitude": 18.0614813
+  },
+  {
+    "id": 818,
+    "name": "ZTE-Aréna",
+    "city": "Zalaegerszeg",
+    "capacity": 11200,
+    "latitude": 46.8486573,
+    "longitude": 16.8485303
+  },
+  {
+    "id": 813,
+    "name": "Városi Stadion",
+    "city": "Tiszakécske",
+    "capacity": 4500,
+    "latitude": 46.9338274,
+    "longitude": 20.1047582
+  },
+  {
+    "id": 2743,
+    "name": "Tiszaligeti Stadion",
+    "city": "Szolnok",
+    "capacity": 10000,
+    "latitude": 47.1686138,
+    "longitude": 20.1974165
+  },
+  {
+    "id": 2742,
+    "name": "Szent Gellért Fórum",
+    "city": "Szeged",
+    "capacity": 8256,
+    "latitude": 46.2642372,
+    "longitude": 20.1206127
+  },
+  {
+    "id": 19916,
+    "name": "Cigánd Városi Stadion",
+    "city": "Cigánd",
+    "capacity": 1200,
+    "latitude": 48.26150879999999,
+    "longitude": 21.8925611
+  },
+  {
+    "id": 2746,
+    "name": "Kozármislenyi Stadion",
+    "city": "Kozármisleny",
+    "capacity": 2500,
+    "latitude": 46.0383,
+    "longitude": 18.2911282
+  },
+  {
+    "id": 3562,
+    "name": "Ajkai Városi Sportcentrum",
+    "city": "Ajka",
+    "capacity": 5000,
+    "latitude": 47.11085980000001,
+    "longitude": 17.5490858
+  },
+  {
+    "id": 371633937740,
+    "name": "SZAC pálya",
+    "city": "Budapest",
+    "capacity": 1000,
+    "latitude": 47.4457282,
+    "longitude": 19.1927843
+  },
+  {
+    "id": 3835,
+    "name": "BKV Előre Stadion",
+    "city": "Budapest",
+    "capacity": 2500,
+    "latitude": 47.4916964,
+    "longitude": 19.1069255
+  },
+  {
+    "id": 10566,
+    "name": "Szőnyi úti Stadion",
+    "city": "Budapest",
+    "capacity": 9000,
+    "latitude": 47.5241511,
+    "longitude": 19.0911481
+  },
+  {
+    "id": 3837,
+    "name": "Balatonfüredi Városi Sportpálya",
+    "city": "Balatonfüred",
+    "capacity": 2000,
+    "latitude": 46.9483745,
+    "longitude": 17.8757878
+  },
+  {
+    "id": 3839,
+    "name": "Iharosi Sporttelep",
+    "city": "Biatorbágy",
+    "capacity": 3000,
+    "latitude": 47.4647756,
+    "longitude": 18.842877
+  },
+  {
+    "id": 3840,
+    "name": "Sport úti Pálya",
+    "city": "Bonyhád",
+    "capacity": 2000,
+    "latitude": 46.2955058,
+    "longitude": 18.5266096
+  },
+  {
+    "id": 3843,
+    "name": "Debreceni Egyetemi AC Stadion",
+    "city": "Debrecen",
+    "capacity": 3200,
+    "latitude": 47.5544594,
+    "longitude": 21.6338544
+  },
+  {
+    "id": 3844,
+    "name": "FC Dabas Sporttelep",
+    "city": "Dabas",
+    "capacity": 2500,
+    "latitude": 47.18895089999999,
+    "longitude": 19.3198744
+  },
+  {
+    "id": 3846,
+    "name": "Dunaharaszti Sportpálya",
+    "city": "Dunaharaszti",
+    "capacity": 3000,
+    "latitude": 47.3598255,
+    "longitude": 19.094951
+  },
+  {
+    "id": 3847,
+    "name": "Dunaújvárosi Stadion",
+    "city": "Dunaújváros",
+    "capacity": 12000,
+    "latitude": 46.9555123,
+    "longitude": 18.9469479
+  },
+  {
+    "id": 3848,
+    "name": "ESMTK Stadion",
+    "city": "Budapest",
+    "capacity": 5000,
+    "latitude": 47.4307131,
+    "longitude": 19.0995636
+  },
+  {
+    "id": 3849,
+    "name": "Szentmarjay Tibor Városi Stadion",
+    "city": "Eger",
+    "capacity": 6500,
+    "latitude": 47.8953269,
+    "longitude": 20.3781444
+  },
+  {
+    "id": 3850,
+    "name": "Népkert Sporttelep",
+    "city": "Hatvan",
+    "capacity": 2500,
+    "latitude": 47.668448,
+    "longitude": 19.6755059
+  },
+  {
+    "id": 3852,
+    "name": "Lázár Gyula Sporttelep",
+    "city": "Füzesgyarmat",
+    "capacity": 1000,
+    "latitude": 47.0947707,
+    "longitude": 21.2064051
+  },
+  {
+    "id": 904624647338,
+    "name": "Gesztelyi Sportpálya",
+    "city": "Gesztely",
+    "capacity": null,
+    "latitude": 48.1019173,
+    "longitude": 20.9701968
+  },
+  {
+    "id": 3853,
+    "name": "Kömlei Károly Városi Sporttelep",
+    "city": "Gyöngyös",
+    "capacity": 2500,
+    "latitude": 47.7799856,
+    "longitude": 19.9342428
+  },
+  {
+    "id": 3857,
+    "name": "Hódmezővásárhelyi Városi Stadion",
+    "city": "Hódmezővásárhely",
+    "capacity": 10000,
+    "latitude": 46.4236543,
+    "longitude": 20.3310039
+  },
+  {
+    "id": 3858,
+    "name": "Hévízi úti Stadion",
+    "city": "Budapest",
+    "capacity": 3000,
+    "latitude": 47.551324,
+    "longitude": 19.0356558
+  },
+  {
+    "id": 3860,
+    "name": "Iváncsai Sportpálya",
+    "city": "Iváncsa",
+    "capacity": 1100,
+    "latitude": 47.1489989,
+    "longitude": 18.8262133
+  },
+  {
+    "id": 22069,
+    "name": "Jánoshalma Sporttelep",
+    "city": "Jánoshalma",
+    "capacity": 1000,
+    "latitude": 46.3011651,
+    "longitude": 19.3232636
+  },
+  {
+    "id": 22070,
+    "name": "Csesztreg Sportpálya",
+    "city": "Csesztreg",
+    "capacity": 1000,
+    "latitude": 46.7191154,
+    "longitude": 16.5161607
+  },
+  {
+    "id": 401623231286,
+    "name": "Városi Sporttelep",
+    "city": "Kalocsa",
+    "capacity": null,
+    "latitude": 46.5321045,
+    "longitude": 18.9754066
+  },
+  {
+    "id": 3862,
+    "name": "Széktói Stadion",
+    "city": "Kecskemét",
+    "capacity": 6296,
+    "latitude": 46.9009225,
+    "longitude": 19.6683507
+  },
+  {
+    "id": 22071,
+    "name": "Király Sportlétesítmény",
+    "city": "Szombathely",
+    "capacity": 2000,
+    "latitude": 47.2106426,
+    "longitude": 16.6004226
+  },
+  {
+    "id": 3863,
+    "name": "MOLAJ Sporttelep",
+    "city": "Komárom",
+    "capacity": 4000,
+    "latitude": 47.7347875,
+    "longitude": 18.1975034
+  },
+  {
+    "id": 10562,
+    "name": "Körösladány Sporttelep",
+    "city": "Körösladány",
+    "capacity": 1000,
+    "latitude": 46.8772427,
+    "longitude": 21.1767101
+  },
+  {
+    "id": 3868,
+    "name": "Mudin Imre Sportcentrum",
+    "city": "Nagyatád",
+    "capacity": 1000,
+    "latitude": 46.2226433,
+    "longitude": 17.366116
+  },
+  {
+    "id": 3869,
+    "name": "Olajbányász Sporttelep",
+    "city": "Nagykanizsa",
+    "capacity": 7000,
+    "latitude": 46.4520742,
+    "longitude": 16.9875894
+  },
+  {
+    "id": 3870,
+    "name": "Nyírbátori FC Sporttelep",
+    "city": "Nyírbátor",
+    "capacity": 2500,
+    "latitude": 47.8290917,
+    "longitude": 22.1330591
+  },
+  {
+    "id": 3873,
+    "name": "PMFC Stadion",
+    "city": "Pécs",
+    "capacity": 9884,
+    "latitude": 46.0687506,
+    "longitude": 18.1959232
+  },
+  {
+    "id": 3871,
+    "name": "Várady Béla Sportközpont",
+    "city": "Putnok",
+    "capacity": 3000,
+    "latitude": 48.2872038,
+    "longitude": 20.4325329
+  },
+  {
+    "id": 3872,
+    "name": "Perutz-stadion",
+    "city": "Pápa",
+    "capacity": 4561,
+    "latitude": 47.3343193,
+    "longitude": 17.4728227
+  },
+  {
+    "id": 3874,
+    "name": "Pénzügyőr SE Sporttelep",
+    "city": "Budapest",
+    "capacity": 3000,
+    "latitude": 47.4674932,
+    "longitude": 19.1272729
+  },
+  {
+    "id": 7668,
+    "name": "Szojka Ferenc Stadion",
+    "city": "Salgótarján",
+    "capacity": 7000,
+    "latitude": 48.1106352,
+    "longitude": 19.8226161
+  },
+  {
+    "id": 3880,
+    "name": "Szekszárdi Városi Stadion",
+    "city": "Szekszárd",
+    "capacity": 3000,
+    "latitude": 46.34878740000001,
+    "longitude": 18.7173938
+  },
+  {
+    "id": 3881,
+    "name": "Szentlőrinci Sportpálya",
+    "city": "Szentlőrinc",
+    "capacity": 1100,
+    "latitude": 46.0406916,
+    "longitude": 17.9905669
+  },
+  {
+    "id": 3882,
+    "name": "Dolina Stadion",
+    "city": "Sárisáp",
+    "capacity": 1500,
+    "latitude": 47.67430909414308,
+    "longitude": 18.68601524703102
+  },
+  {
+    "id": 7146,
+    "name": "Sárvári Sporttelep",
+    "city": "Sárvár",
+    "capacity": 1750,
+    "latitude": 47.258655,
+    "longitude": 16.922357
+  },
+  {
+    "id": 3883,
+    "name": "Sényői Focipálya",
+    "city": "Sényő",
+    "capacity": 3000,
+    "latitude": 48.0028211,
+    "longitude": 21.8763332
+  },
+  {
+    "id": 793,
+    "name": "Grosics Gyula Stadion",
+    "city": "Tatabánya",
+    "capacity": 4000,
+    "latitude": 47.5567615,
+    "longitude": 18.4195142
+  },
+  {
+    "id": 18955,
+    "name": "Teskándi Sportpálya",
+    "city": "Teskánd",
+    "capacity": 1000,
+    "latitude": 46.8562393,
+    "longitude": 16.7809317
+  },
+  {
+    "id": 10567,
+    "name": "Lipcsey Elemér Sporttelep",
+    "city": "Tiszafüred",
+    "capacity": 1000,
+    "latitude": 47.6151881,
+    "longitude": 20.7574809
+  },
+  {
+    "id": 658166371565,
+    "name": "Tiszasziget Sportpálya",
+    "city": "Tiszasziget",
+    "capacity": null,
+    "latitude": 46.1702696,
+    "longitude": 20.15523
+  },
+  {
+    "id": 3885,
+    "name": "Sport Park",
+    "city": "Tiszaújváros",
+    "capacity": 4000,
+    "latitude": 47.928593,
+    "longitude": 21.049375
+  },
+  {
+    "id": 10568,
+    "name": "Tállyai Sporttelep",
+    "city": "Tállya",
+    "capacity": 3500,
+    "latitude": 48.23108509999999,
+    "longitude": 21.2275651
+  },
+  {
+    "id": 20755,
+    "name": "Novák Ferenc Érdi Sportközpont",
+    "city": "Érd",
+    "capacity": 3000,
+    "latitude": 47.3697415,
+    "longitude": 18.9132876
+  },
+  {
+    "id": 22072,
+    "name": "Úrkúti focipálya",
+    "city": "Úrkút",
+    "capacity": 2000,
+    "latitude": 47.0888252,
+    "longitude": 17.6422882
+  },
+  {
+    "id": 5465,
+    "name": "Bicskei Sportpálya",
+    "city": "Bicske",
+    "capacity": 2000,
+    "latitude": 47.4821974,
+    "longitude": 18.6367564
+  },
+  {
+    "id": 5466,
+    "name": "Kocsis István Városi Sporttelep",
+    "city": "Csorna",
+    "capacity": 760,
+    "latitude": 47.6131855,
+    "longitude": 17.2428135
+  },
+  {
+    "id": 5468,
+    "name": "Kelen SC Sporttelep",
+    "city": "Budapest",
+    "capacity": 1500,
+    "latitude": 47.4490266,
+    "longitude": 19.0264432
+  },
+  {
+    "id": 22073,
+    "name": "Miskolci Vasutas SC Sporttelep",
+    "city": "Miskolc",
+    "capacity": 1000,
+    "latitude": 48.0965753,
+    "longitude": 20.8062291
+  },
+  {
+    "id": 5470,
+    "name": "Táncsics Mihály utcai Pálya",
+    "city": "Mór",
+    "capacity": 1500,
+    "latitude": 47.3711348,
+    "longitude": 18.2188474
+  },
+  {
+    "id": 5471,
+    "name": "Nagybajomi Sportpálya",
+    "city": "Nagybajom",
+    "capacity": 1000,
+    "latitude": 46.3944864,
+    "longitude": 17.5094912
+  },
+  {
+    "id": 78891929043,
+    "name": "Nagyecsed Sportpálya",
+    "city": "Nagyecsed",
+    "capacity": null,
+    "latitude": 47.86183940000001,
+    "longitude": 22.3856641
+  },
+  {
+    "id": 22074,
+    "name": "Pilisi LK Sporttelep",
+    "city": "Pilis",
+    "capacity": 1000,
+    "latitude": 47.2908827,
+    "longitude": 19.5409728
+  },
+  {
+    "id": 22075,
+    "name": "Szajol Sporttelep",
+    "city": "Szajol",
+    "capacity": 1000,
+    "latitude": 47.1782894,
+    "longitude": 20.3033704
+  },
+  {
+    "id": 2745,
+    "name": "Szegedi VSE Stadion",
+    "city": "Szeged",
+    "capacity": 3000,
+    "latitude": 46.2646051,
+    "longitude": 20.1280877
+  },
+  {
+    "id": 22076,
+    "name": "Sárbogárd Sportpálya",
+    "city": "Sárbogárd",
+    "capacity": 1000,
+    "latitude": 46.8994243,
+    "longitude": 18.6178377
+  },
+  {
+    "id": 22077,
+    "name": "Tihanyi Sportpálya",
+    "city": "Tihany",
+    "capacity": 2000,
+    "latitude": 46.916252,
+    "longitude": 17.881464
+  },
+  {
+    "id": 12071,
+    "name": "Törökszentmiklósi FC Sporttelep",
+    "city": "Törökszentmiklós",
+    "capacity": 1000,
+    "latitude": 47.1877515,
+    "longitude": 20.4218076
+  },
+  {
+    "id": 269631594093,
+    "name": "III. ker. TVE Sporttelep",
+    "city": "Budapest",
+    "capacity": null,
+    "latitude": 47.551324,
+    "longitude": 19.0356558
+  },
+  {
+    "id": 5473,
+    "name": "Városi Stadion",
+    "city": "Veszprém",
+    "capacity": 4000,
+    "latitude": 47.0839824,
+    "longitude": 17.9033316
+  },
+  {
+    "id": 447820307898,
+    "name": "Vép, Sportpálya",
+    "city": "Vép",
+    "capacity": null,
+    "latitude": 47.2214158,
+    "longitude": 16.7211233
+  },
+  {
+    "id": 22078,
+    "name": "Újfehértó Városi Sporttelep",
+    "city": "Újfehértó",
+    "capacity": 1000,
+    "latitude": 47.80769919999999,
+    "longitude": 21.6457236
+  },
+  {
+    "id": 18867,
+    "name": "Árok utcai pálya",
+    "city": "Budaörs",
+    "capacity": 1204,
+    "latitude": 47.4574034,
+    "longitude": 18.9321447
+  },
+  {
+    "id": 521376802585,
+    "name": "Algyői Sporttelep",
+    "city": "Algyő",
+    "capacity": null,
+    "latitude": 46.3286769,
+    "longitude": 20.2003963
+  },
+  {
+    "id": 56248828770,
+    "name": "Bácsa Sporttelep",
+    "city": "Győr",
+    "capacity": null,
+    "latitude": 47.7280112,
+    "longitude": 17.6679219
+  },
+  {
+    "id": 139330725453,
+    "name": "Ercsi Kinizsi Sporttelep",
+    "city": "Ercsi",
+    "capacity": null,
+    "latitude": 47.251166,
+    "longitude": 18.890046
+  },
+  {
+    "id": 10570,
+    "name": "Agárd Parkerdő Sportpálya",
+    "city": "Gárdony",
+    "capacity": 1400,
+    "latitude": 47.1858145,
+    "longitude": 18.605182
+  },
+  {
+    "id": 22323,
+    "name": "Szűcs Lajos Sportcentrum",
+    "city": "Gödöllő",
+    "capacity": 1000,
+    "latitude": 47.5985654,
+    "longitude": 19.3341819
+  },
+  {
+    "id": 22079,
+    "name": "KSE Karancslapujtő sportpálya",
+    "city": "Karancslapujtő",
+    "capacity": 2595,
+    "latitude": 48.15151729999999,
+    "longitude": 19.7306757
+  },
+  {
+    "id": 495355593872,
+    "name": "Maklári Sportpálya",
+    "city": "Maklár",
+    "capacity": null,
+    "latitude": 47.8051876,
+    "longitude": 20.4116103
+  },
+  {
+    "id": 7665,
+    "name": "Újvárosi Stadion",
+    "city": "Mohács",
+    "capacity": 4000,
+    "latitude": 45.9958907,
+    "longitude": 18.6644114
+  },
+  {
+    "id": 499574877590,
+    "name": "Nyíradony Városi Sporttelep",
+    "city": "Nyíradony",
+    "capacity": null,
+    "latitude": 47.6988017,
+    "longitude": 21.900359
+  },
+  {
+    "id": 469840206681,
+    "name": "Pécsváradi Sportpálya",
+    "city": "Pécsvárad",
+    "capacity": null,
+    "latitude": 46.1581267,
+    "longitude": 18.4197767
+  },
+  {
+    "id": 692249059220,
+    "name": "Barátság Sporttelep",
+    "city": "Budapest",
+    "capacity": null,
+    "latitude": 47.55097259999999,
+    "longitude": 19.1330824
+  },
+  {
+    "id": 7670,
+    "name": "Városi Sportpálya",
+    "city": "Baktalórántháza",
+    "capacity": 2000,
+    "latitude": 47.9952795,
+    "longitude": 22.0740559
+  },
+  {
+    "id": 7671,
+    "name": "Diósdi Sportpálya",
+    "city": "Diósd",
+    "capacity": 2000,
+    "latitude": 47.40966359999999,
+    "longitude": 18.937384
+  },
+  {
+    "id": 22080,
+    "name": "id. Christián László Városi Sporttelep",
+    "city": "Gyula",
+    "capacity": 2700,
+    "latitude": 46.6398619,
+    "longitude": 21.264367
+  },
+  {
+    "id": 22081,
+    "name": "Koroncó SE Sporttelep",
+    "city": "Koroncó",
+    "capacity": 1000,
+    "latitude": 47.603858,
+    "longitude": 17.5208917
+  },
+  {
+    "id": 559824193154,
+    "name": "Városi Sportpálya",
+    "city": "Marcali",
+    "capacity": 1500,
+    "latitude": 46.5824876,
+    "longitude": 17.4162463
+  },
+  {
+    "id": 7675,
+    "name": "Budai II László Stadion",
+    "city": "Budapest",
+    "capacity": 7500,
+    "latitude": 47.5619028,
+    "longitude": 19.12135
+  },
+  {
+    "id": 22082,
+    "name": "Balatonalmádi Sportközpont",
+    "city": "Balatonalmádi",
+    "capacity": 1000,
+    "latitude": 47.0430189,
+    "longitude": 18.0176609
+  },
+  {
+    "id": 201151797973,
+    "name": "Hidasnémeti Sportpálya",
+    "city": "Hidasnémeti",
+    "capacity": 1000,
+    "latitude": 48.503656,
+    "longitude": 21.2269297
+  },
+  {
+    "id": 22083,
+    "name": "Mátészalkai Városi sporttelep",
+    "city": "Mátészalka",
+    "capacity": 1000,
+    "latitude": 47.9469376,
+    "longitude": 22.3142654
+  },
+  {
+    "id": 574950252297,
+    "name": "Himesháza Sportpálya",
+    "city": "Himesháza",
+    "capacity": null,
+    "latitude": 46.0757137,
+    "longitude": 18.5756119
+  },
+  {
+    "id": 22084,
+    "name": "Jászfényszarui VSE Sporttelep",
+    "city": "Jászfényszarui",
+    "capacity": 1500,
+    "latitude": 47.57128770000001,
+    "longitude": 19.7257166
+  },
+  {
+    "id": 10563,
+    "name": "Majosi SE Sporttelep",
+    "city": "Bonyhád-Majos",
+    "capacity": 1000,
+    "latitude": 46.3025743,
+    "longitude": 18.498237
+  },
+  {
+    "id": 60154516348,
+    "name": "Bábolna Sportpálya",
+    "city": "Bábolna",
+    "capacity": null,
+    "latitude": 47.6406845,
+    "longitude": 17.9766669
+  },
+  {
+    "id": 805964327059,
+    "name": "Pétfürdői Sporttelep",
+    "city": "Pétfürdő",
+    "capacity": null,
+    "latitude": 47.1612546,
+    "longitude": 18.127435
+  },
+  {
+    "id": 22085,
+    "name": "Zalaszentgróti VFC Sporttelep",
+    "city": "Zalaszentgrót",
+    "capacity": 1000,
+    "latitude": 46.9384668,
+    "longitude": 17.0796026
+  },
+  {
+    "id": 671794869200,
+    "name": "Bólyi Sporttelep",
+    "city": "Bóly",
+    "capacity": null,
+    "latitude": 45.9715123,
+    "longitude": 18.513973
+  },
+  {
+    "id": 160657473545,
+    "name": "Hartai Sporttelep",
+    "city": "Harta",
+    "capacity": null,
+    "latitude": 46.69365519999999,
+    "longitude": 19.0125754
+  },
+  {
+    "id": 875008654165,
+    "name": "Abda Sportpálya",
+    "city": "Abda",
+    "capacity": null,
+    "latitude": 47.6906164,
+    "longitude": 17.5508291
+  },
+  {
+    "id": 26091039988,
+    "name": "Diósjenői Sportpálya",
+    "city": "Diósjenő",
+    "capacity": null,
+    "latitude": 47.949825,
+    "longitude": 19.021636
+  },
+  {
+    "id": 391824877594,
+    "name": "Dunavarsányi Sporttelep",
+    "city": "Dunavarsány",
+    "capacity": null,
+    "latitude": 47.3130329,
+    "longitude": 19.037648
+  },
+  {
+    "id": 648419755405,
+    "name": "Lőrinci Sporttelep",
+    "city": "Budapest",
+    "capacity": 1500,
+    "latitude": 47.7616129,
+    "longitude": 19.6759632
+  },
+  {
+    "id": 22086,
+    "name": "Tarpa Sportcentrum",
+    "city": "Tarpa",
+    "capacity": 2000,
+    "latitude": 48.1050815,
+    "longitude": 22.5199166
+  },
+  {
+    "id": 22152,
+    "name": "Molnár Lajos Sporttelep Kunszentmárton",
+    "city": "Kunszentmárton",
+    "capacity": 1000,
+    "latitude": 46.83053,
+    "longitude": 20.294483
+  },
+  {
+    "id": 812,
+    "name": "Haladás Stadion",
+    "city": "Szombathely",
+    "capacity": 8903,
+    "latitude": 47.2349659,
+    "longitude": 16.6076339
+  },
+  {
+    "id": 22088,
+    "name": "Monostorpályi Sportpálya",
+    "city": "Monostorpályi",
+    "capacity": 1000,
+    "latitude": 47.4103676,
+    "longitude": 21.7830016
+  },
+  {
+    "id": 338008394118,
+    "name": "Somogysárdi Sportpálya",
+    "city": "Somogysárd",
+    "capacity": null,
+    "latitude": 46.4123534,
+    "longitude": 17.6008504
+  },
+  {
+    "id": 760004970610,
+    "name": "Lajosmizsei Sportpálya",
+    "city": "Lajosmizse",
+    "capacity": null,
+    "latitude": 47.026908,
+    "longitude": 19.5658739
+  },
+  {
+    "id": 22090,
+    "name": "Mezőmegyeri Sporttelep",
+    "city": "Békéscsaba",
+    "capacity": 1000,
+    "latitude": 46.7127774,
+    "longitude": 21.0586568
+  },
+  {
+    "id": 22091,
+    "name": "Mezőörs KSE Sporttelep",
+    "city": "Mezőörs",
+    "capacity": 1500,
+    "latitude": 46.3159175,
+    "longitude": 20.8120904
+  },
+  {
+    "id": 22092,
+    "name": "Hajnal Tamás Sportcentrum Nyergesújfalu",
+    "city": "Nyergesújfalu",
+    "capacity": 1000,
+    "latitude": 47.7506127,
+    "longitude": 18.5646012
+  },
+  {
+    "id": 545498744943,
+    "name": "Söpte Sportpálya",
+    "city": "Söpte",
+    "capacity": null,
+    "latitude": 47.2805974,
+    "longitude": 16.6480653
+  },
+  {
+    "id": 19919,
+    "name": "Dunaföldvár FC Sporttelep",
+    "city": "Dunaföldvár",
+    "capacity": 1000,
+    "latitude": 46.8127647,
+    "longitude": 18.9117304
+  },
+  {
+    "id": 20782,
+    "name": "Martfű LSE Sporttelep",
+    "city": "Martfű",
+    "capacity": 1000,
+    "latitude": 47.0179879,
+    "longitude": 20.2727691
+  },
+  {
+    "id": 3842,
+    "name": "Béke téri Stadion",
+    "city": "Budapest",
+    "capacity": 12000,
+    "latitude": 47.4189566,
+    "longitude": 19.0728156
+  },
+  {
+    "id": 220382203737,
+    "name": "Hajdúsámsoni Sportpálya",
+    "city": "Hajdúsámson",
+    "capacity": null,
+    "latitude": 47.6029032,
+    "longitude": 21.754491
+  },
+  {
+    "id": 912466163968,
+    "name": "Városi Sporttelep",
+    "city": "Lábatlan",
+    "capacity": null,
+    "latitude": 47.7433957,
+    "longitude": 18.4901978
+  },
+  {
+    "id": 22094,
+    "name": "Orosháza Utánpótlás Sportközpont",
+    "city": "Orosháza",
+    "capacity": 1000,
+    "latitude": 46.5620912,
+    "longitude": 20.6374525
+  },
+  {
+    "id": 967672666284,
+    "name": "Alsózsolca Sporttelep",
+    "city": "Alsózsolca",
+    "capacity": null,
+    "latitude": 48.07005119999999,
+    "longitude": 20.8828757
+  },
+  {
+    "id": 402396071197,
+    "name": "Bakonycsernyei Sportpálya",
+    "city": "Bakonycsernye",
+    "capacity": null,
+    "latitude": 47.3172751,
+    "longitude": 18.0891438
+  },
+  {
+    "id": 712021269477,
+    "name": "Bödei Sportpálya",
+    "city": "Böde",
+    "capacity": null,
+    "latitude": 46.835586,
+    "longitude": 16.7163071
+  },
+  {
+    "id": 368551294848,
+    "name": "Városi Sporttelep",
+    "city": "Százhalombatta",
+    "capacity": 1000,
+    "latitude": 47.3182677,
+    "longitude": 18.9230683
+  },
+  {
+    "id": 485274323458,
+    "name": "Faddi Sportpálya",
+    "city": "Fadd",
+    "capacity": 1000,
+    "latitude": 46.4675528,
+    "longitude": 18.8256972
+  },
+  {
+    "id": 22095,
+    "name": "Füzesabonyi Sporttelep",
+    "city": "Füzesabony",
+    "capacity": 1000,
+    "latitude": 47.7570995,
+    "longitude": 20.4187936
+  },
+  {
+    "id": 599797755041,
+    "name": "Gyomaendrődi Városi Sportpálya",
+    "city": "Gyomaendrőd",
+    "capacity": null,
+    "latitude": 46.9392577,
+    "longitude": 20.8386659
+  },
+  {
+    "id": 22096,
+    "name": "Harkány SE Sporttelep",
+    "city": "Harkány",
+    "capacity": 1000,
+    "latitude": 45.8552556,
+    "longitude": 18.2268927
+  },
+  {
+    "id": 901004230769,
+    "name": "Győrszentiváni Sporttelep",
+    "city": "Győr",
+    "capacity": null,
+    "latitude": 47.6951398,
+    "longitude": 17.74678
+  },
+  {
+    "id": 748455361221,
+    "name": "Hajdúnánási Sportpálya",
+    "city": "Hajdúnánás",
+    "capacity": null,
+    "latitude": 47.8314662,
+    "longitude": 21.4163717
+  },
+  {
+    "id": 105504823097,
+    "name": "Héhalom Sportpálya",
+    "city": "Héhalom",
+    "capacity": null,
+    "latitude": 47.7791929,
+    "longitude": 19.5850501
+  },
+  {
+    "id": 682197126464,
+    "name": "Kakasdi Sportpálya",
+    "city": "Kakasd",
+    "capacity": null,
+    "latitude": 46.3461002,
+    "longitude": 18.5930233
+  },
+  {
+    "id": 330463523529,
+    "name": "Kunbajai Sportpálya",
+    "city": "Kunbaja",
+    "capacity": null,
+    "latitude": 46.0861161,
+    "longitude": 19.4197624
+  },
+  {
+    "id": 883106641116,
+    "name": "Pátkai Sportpálya",
+    "city": "Pátka",
+    "capacity": null,
+    "latitude": 47.5130375,
+    "longitude": 18.8189226
+  },
+  {
+    "id": 942535800781,
+    "name": "Rábatótfalu Sportpálya",
+    "city": "Szentgotthárd",
+    "capacity": null,
+    "latitude": 46.9452056,
+    "longitude": 16.2541675
+  },
+  {
+    "id": 619334738754,
+    "name": "Szakonyfalu Sportpálya",
+    "city": "Szakonyfalu",
+    "capacity": null,
+    "latitude": 47.7169893,
+    "longitude": 19.0901179
+  },
+  {
+    "id": 22325,
+    "name": "Sándorfalva Sportpálya",
+    "city": "Sándorfalva",
+    "capacity": 1000,
+    "latitude": 46.366587,
+    "longitude": 20.1012998
+  },
+  {
+    "id": 21012,
+    "name": "Városi Sportpálya",
+    "city": "Sárospatak",
+    "capacity": 1500,
+    "latitude": 48.3165281,
+    "longitude": 21.5621552
+  },
+  {
+    "id": 888600940455,
+    "name": "Vitnyédi Sporttelep",
+    "city": "Vitnyéd",
+    "capacity": null,
+    "latitude": 47.58012430000001,
+    "longitude": 16.9925034
+  },
+  {
+    "id": 480902379474,
+    "name": "Vizslás Sportpálya",
+    "city": "Vizslás",
+    "capacity": null,
+    "latitude": 48.0493729,
+    "longitude": 19.8184066
+  },
+  {
+    "id": 122955849979,
+    "name": "Zalalövői Sportpálya",
+    "city": "Zalalövő",
+    "capacity": 500,
+    "latitude": 46.8463471,
+    "longitude": 16.584169
+  },
+  {
+    "id": 8303,
+    "name": "DVTK Edzőcentrum Füves Edzőpálya",
+    "city": "Miskolc",
+    "capacity": 1200,
+    "latitude": 48.0985723,
+    "longitude": 20.7148899
+  },
+  {
+    "id": 10569,
+    "name": "Várkert Sportpálya",
+    "city": "Kisvárda",
+    "capacity": 3624,
+    "latitude": 48.23261000000001,
+    "longitude": 22.074567
+  },
+  {
+    "id": 330551571413,
+    "name": "Városi Stadion",
+    "city": "Nyíregyháza",
+    "capacity": 10300,
+    "latitude": 47.9704286,
+    "longitude": 21.71289
+  },
+  {
+    "id": 10564,
+    "name": "Honvéd MFA Utánpótlás Központ",
+    "city": "Budapest",
+    "capacity": 1000,
+    "latitude": 47.4331349,
+    "longitude": 19.1533411
+  },
+  {
+    "id": 21034,
+    "name": "Műkertvárosi Sportcentrum",
+    "city": "Kecskemét",
+    "capacity": 1000,
+    "latitude": 46.8987991,
+    "longitude": 19.7137903
+  },
+  {
+    "id": 10565,
+    "name": "FTC Népligeti Sportcentrum",
+    "city": "Budapest",
+    "capacity": 2000,
+    "latitude": 47.4790455,
+    "longitude": 19.1135005
+  },
+  {
+    "id": 19978,
+    "name": "Sándor Károly Labdarúgó Akadémia",
+    "city": "Budapest",
+    "capacity": 1000,
+    "latitude": 47.49071319999999,
+    "longitude": 19.0966872
+  },
+  {
+    "id": 22089,
+    "name": "Főnix Park",
+    "city": "Székesfehérvár",
+    "capacity": 1000,
+    "latitude": 47.1518592,
+    "longitude": 18.4260005
+  }
+]

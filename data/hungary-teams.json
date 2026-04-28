@@ -1,0 +1,1872 @@
+[
+    {
+        "id": 576,
+        "name": "Budapest Honved",
+        "code": "HON",
+        "country": "Hungary",
+        "founded": 1908,
+        "national": false,
+        "logo": "576.png",
+        "venue_id": 11902
+    },
+    {
+        "id": 610,
+        "name": "Fehérvár FC",
+        "code": "VID",
+        "country": "Hungary",
+        "founded": 1941,
+        "national": false,
+        "logo": "610.png",
+        "venue_id": 798
+    },
+    {
+        "id": 651,
+        "name": "Ferencvarosi TC",
+        "code": "FER",
+        "country": "Hungary",
+        "founded": 1899,
+        "national": false,
+        "logo": "651.png",
+        "venue_id": 799
+    },
+    {
+        "id": 675,
+        "name": "Vasas",
+        "code": "VAS",
+        "country": "Hungary",
+        "founded": 1911,
+        "national": false,
+        "logo": "675.png",
+        "venue_id": 817
+    },
+    {
+        "id": 2255,
+        "name": "Ujpest",
+        "code": "UJP",
+        "country": "Hungary",
+        "founded": 1885,
+        "national": false,
+        "logo": "2255.png",
+        "venue_id": 814
+    },
+    {
+        "id": 2389,
+        "name": "Mezokovesd-zsory",
+        "code": "MEZ",
+        "country": "Hungary",
+        "founded": 1975,
+        "national": false,
+        "logo": "2389.png",
+        "venue_id": 805
+    },
+    {
+        "id": 2390,
+        "name": "Paks",
+        "code": "PAK",
+        "country": "Hungary",
+        "founded": 1952,
+        "national": false,
+        "logo": "2390.png",
+        "venue_id": 809
+    },
+    {
+        "id": 2391,
+        "name": "Puskas Academy",
+        "code": "PUS",
+        "country": "Hungary",
+        "founded": 2007,
+        "national": false,
+        "logo": "2391.png",
+        "venue_id": 1764
+    },
+    {
+        "id": 2392,
+        "name": "Debreceni VSC",
+        "code": "DEB",
+        "country": "Hungary",
+        "founded": 1902,
+        "national": false,
+        "logo": "2392.png",
+        "venue_id": 795
+    },
+    {
+        "id": 2393,
+        "name": "Diosgyori VTK",
+        "code": "DVT",
+        "country": "Hungary",
+        "founded": 1910,
+        "national": false,
+        "logo": "2393.png",
+        "venue_id": 796
+    },
+    {
+        "id": 2394,
+        "name": "Kisvarda FC",
+        "code": "KIS",
+        "country": "Hungary",
+        "founded": 2003,
+        "national": false,
+        "logo": "2394.png",
+        "venue_id": 816
+    },
+    {
+        "id": 2395,
+        "name": "Szombathelyi Haladas",
+        "code": "HAL",
+        "country": "Hungary",
+        "founded": 1919,
+        "national": false,
+        "logo": "2395.png",
+        "venue_id": 2741
+    },
+    {
+        "id": 2396,
+        "name": "MTK Budapest",
+        "code": "BUD",
+        "country": "Hungary",
+        "founded": 1888,
+        "national": false,
+        "logo": "2396.png",
+        "venue_id": 802
+    },
+    {
+        "id": 2398,
+        "name": "Gyirmot SE",
+        "code": "GYI",
+        "country": "Hungary",
+        "founded": 1993,
+        "national": false,
+        "logo": "2398.png",
+        "venue_id": 800
+    },
+    {
+        "id": 2399,
+        "name": "Budafoki LC",
+        "code": null,
+        "country": "Hungary",
+        "founded": 1912,
+        "national": false,
+        "logo": "2399.png",
+        "venue_id": 1886
+    },
+    {
+        "id": 2400,
+        "name": "Cegledi VSE",
+        "code": "CEG",
+        "country": "Hungary",
+        "founded": 1935,
+        "national": false,
+        "logo": "2400.png",
+        "venue_id": 794
+    },
+    {
+        "id": 2401,
+        "name": "Dorogi FC",
+        "code": "DOR",
+        "country": "Hungary",
+        "founded": null,
+        "national": false,
+        "logo": "2401.png",
+        "venue_id": 797
+    },
+    {
+        "id": 2402,
+        "name": "Gyori ETO FC",
+        "code": "GYO",
+        "country": "Hungary",
+        "founded": 1904,
+        "national": false,
+        "logo": "2402.png",
+        "venue_id": 801
+    },
+    {
+        "id": 2403,
+        "name": "Nyiregyhaza",
+        "code": "NYI",
+        "country": "Hungary",
+        "founded": 1928,
+        "national": false,
+        "logo": "2403.png",
+        "venue_id": 1796
+    },
+    {
+        "id": 2404,
+        "name": "Soroksar",
+        "code": "SOR",
+        "country": "Hungary",
+        "founded": 1905,
+        "national": false,
+        "logo": "2404.png",
+        "venue_id": 811
+    },
+    {
+        "id": 2406,
+        "name": "Bekescsaba 1912",
+        "code": "BEK",
+        "country": "Hungary",
+        "founded": 1912,
+        "national": false,
+        "logo": "2406.png",
+        "venue_id": 792
+    },
+    {
+        "id": 2407,
+        "name": "Kaposvar",
+        "code": "KAP",
+        "country": "Hungary",
+        "founded": 1923,
+        "national": false,
+        "logo": "2407.png",
+        "venue_id": 803
+    },
+    {
+        "id": 2409,
+        "name": "Csakvar",
+        "code": "CSA",
+        "country": "Hungary",
+        "founded": 1947,
+        "national": false,
+        "logo": "2409.png",
+        "venue_id": 1737
+    },
+    {
+        "id": 2410,
+        "name": "Kazincbarcikai",
+        "code": "KAZ",
+        "country": "Hungary",
+        "founded": null,
+        "national": false,
+        "logo": "2410.png",
+        "venue_id": 11903
+    },
+    {
+        "id": 2411,
+        "name": "Monori Se",
+        "code": null,
+        "country": "Hungary",
+        "founded": 1901,
+        "national": false,
+        "logo": "2411.png",
+        "venue_id": 806
+    },
+    {
+        "id": 2412,
+        "name": "MTE 1904",
+        "code": null,
+        "country": "Hungary",
+        "founded": 1904,
+        "national": false,
+        "logo": "2412.png",
+        "venue_id": 807
+    },
+    {
+        "id": 2413,
+        "name": "Siofok",
+        "code": "SIO",
+        "country": "Hungary",
+        "founded": 1921,
+        "national": false,
+        "logo": "2413.png",
+        "venue_id": 810
+    },
+    {
+        "id": 2414,
+        "name": "Zalaegerszegi TE",
+        "code": "ZAL",
+        "country": "Hungary",
+        "founded": 1920,
+        "national": false,
+        "logo": "2414.png",
+        "venue_id": 818
+    },
+    {
+        "id": 2415,
+        "name": "Tiszakecske FC",
+        "code": null,
+        "country": "Hungary",
+        "founded": 2015,
+        "national": false,
+        "logo": "2415.png",
+        "venue_id": 813
+    },
+    {
+        "id": 2416,
+        "name": "Szolnoki MAV FC",
+        "code": "SZO",
+        "country": "Hungary",
+        "founded": 1910,
+        "national": false,
+        "logo": "2416.png",
+        "venue_id": 2743
+    },
+    {
+        "id": 2418,
+        "name": "Szeged 2011",
+        "code": "SZE",
+        "country": "Hungary",
+        "founded": 2011,
+        "national": false,
+        "logo": "2418.png",
+        "venue_id": 2742
+    },
+    {
+        "id": 2419,
+        "name": "Cigand SE",
+        "code": null,
+        "country": "Hungary",
+        "founded": 1998,
+        "national": false,
+        "logo": "2419.png",
+        "venue_id": 19916
+    },
+    {
+        "id": 2420,
+        "name": "Kozarmisleny FC",
+        "code": "KOZ",
+        "country": "Hungary",
+        "founded": 1989,
+        "national": false,
+        "logo": "2420.png",
+        "venue_id": 2746
+    },
+    {
+        "id": 4714,
+        "name": "Ajka",
+        "code": "AJK",
+        "country": "Hungary",
+        "founded": 1923,
+        "national": false,
+        "logo": "4714.png",
+        "venue_id": 3562
+    },
+    {
+        "id": 5068,
+        "name": "1908 SZAC",
+        "code": null,
+        "country": "Hungary",
+        "founded": null,
+        "national": false,
+        "logo": "5068.svg",
+        "venue_id": 371633937740
+    },
+    {
+        "id": 5070,
+        "name": "BKV Előre",
+        "code": "ELO",
+        "country": "Hungary",
+        "founded": 1912,
+        "national": false,
+        "logo": "5070.png",
+        "venue_id": 3835
+    },
+    {
+        "id": 5071,
+        "name": "BVSC",
+        "code": null,
+        "country": "Hungary",
+        "founded": null,
+        "national": false,
+        "logo": "5071.png",
+        "venue_id": 10566
+    },
+    {
+        "id": 5073,
+        "name": "Balatonfüredi",
+        "code": null,
+        "country": "Hungary",
+        "founded": 1924,
+        "national": false,
+        "logo": "5073.png",
+        "venue_id": 3837
+    },
+    {
+        "id": 5077,
+        "name": "Biatorbágy",
+        "code": null,
+        "country": "Hungary",
+        "founded": null,
+        "national": false,
+        "logo": "5077.png",
+        "venue_id": 3839
+    },
+    {
+        "id": 5078,
+        "name": "Bonyhád Völgység",
+        "code": null,
+        "country": "Hungary",
+        "founded": 2001,
+        "national": false,
+        "logo": "5078.png",
+        "venue_id": 3840
+    },
+    {
+        "id": 5082,
+        "name": "DEAC",
+        "code": null,
+        "country": "Hungary",
+        "founded": 1919,
+        "national": false,
+        "logo": "5082.png",
+        "venue_id": 3843
+    },
+    {
+        "id": 5083,
+        "name": "Dabas",
+        "code": null,
+        "country": "Hungary",
+        "founded": 1950,
+        "national": false,
+        "logo": "5083.png",
+        "venue_id": 3844
+    },
+    {
+        "id": 5085,
+        "name": "Dunaharaszti MTK",
+        "code": null,
+        "country": "Hungary",
+        "founded": 1920,
+        "national": false,
+        "logo": "5085.png",
+        "venue_id": 3846
+    },
+    {
+        "id": 5086,
+        "name": "Dunaújváros-Pálhalma",
+        "code": null,
+        "country": "Hungary",
+        "founded": 1998,
+        "national": false,
+        "logo": "5086.png",
+        "venue_id": 3847
+    },
+    {
+        "id": 5087,
+        "name": "ESMTK",
+        "code": null,
+        "country": "Hungary",
+        "founded": 1909,
+        "national": false,
+        "logo": "5087.png",
+        "venue_id": 3848
+    },
+    {
+        "id": 5089,
+        "name": "Eger",
+        "code": null,
+        "country": "Hungary",
+        "founded": 1907,
+        "national": false,
+        "logo": "5089.png",
+        "venue_id": 3849
+    },
+    {
+        "id": 5090,
+        "name": "FC Hatvan",
+        "code": null,
+        "country": "Hungary",
+        "founded": 1992,
+        "national": false,
+        "logo": "5090.png",
+        "venue_id": 3850
+    },
+    {
+        "id": 5093,
+        "name": "Füzesgyarmati",
+        "code": null,
+        "country": "Hungary",
+        "founded": null,
+        "national": false,
+        "logo": "5093.png",
+        "venue_id": 3852
+    },
+    {
+        "id": 5096,
+        "name": "Gesztely",
+        "code": null,
+        "country": "Hungary",
+        "founded": null,
+        "national": false,
+        "logo": "5096.png",
+        "venue_id": 904624647338
+    },
+    {
+        "id": 5097,
+        "name": "Gyöngyös",
+        "code": null,
+        "country": "Hungary",
+        "founded": 1906,
+        "national": false,
+        "logo": "5097.png",
+        "venue_id": 3853
+    },
+    {
+        "id": 5101,
+        "name": "Hódmezővásárhely",
+        "code": null,
+        "country": "Hungary",
+        "founded": 1996,
+        "national": false,
+        "logo": "5101.png",
+        "venue_id": 3857
+    },
+    {
+        "id": 5102,
+        "name": "III. Kerületi TUE",
+        "code": null,
+        "country": "Hungary",
+        "founded": 1887,
+        "national": false,
+        "logo": "5102.png",
+        "venue_id": 3858
+    },
+    {
+        "id": 5104,
+        "name": "Iváncsa",
+        "code": null,
+        "country": "Hungary",
+        "founded": null,
+        "national": false,
+        "logo": "5104.png",
+        "venue_id": 3860
+    },
+    {
+        "id": 5105,
+        "name": "Jánoshalmi",
+        "code": null,
+        "country": "Hungary",
+        "founded": null,
+        "national": false,
+        "logo": "5105.svg",
+        "venue_id": 22069
+    },
+    {
+        "id": 5108,
+        "name": "KSE Csesztreg",
+        "code": null,
+        "country": "Hungary",
+        "founded": null,
+        "national": false,
+        "logo": "5108.png",
+        "venue_id": 22070
+    },
+    {
+        "id": 5109,
+        "name": "Kalocsai",
+        "code": null,
+        "country": "Hungary",
+        "founded": null,
+        "national": false,
+        "logo": "5109.svg",
+        "venue_id": 401623231286
+    },
+    {
+        "id": 5111,
+        "name": "Kecskeméti TE",
+        "code": "KEC",
+        "country": "Hungary",
+        "founded": 1911,
+        "national": false,
+        "logo": "5111.png",
+        "venue_id": 3862
+    },
+    {
+        "id": 5112,
+        "name": "Király SZE",
+        "code": null,
+        "country": "Hungary",
+        "founded": null,
+        "national": false,
+        "logo": "5112.svg",
+        "venue_id": 22071
+    },
+    {
+        "id": 5113,
+        "name": "Komárom",
+        "code": null,
+        "country": "Hungary",
+        "founded": 1947,
+        "national": false,
+        "logo": "5113.png",
+        "venue_id": 3863
+    },
+    {
+        "id": 5115,
+        "name": "Körösladány",
+        "code": null,
+        "country": "Hungary",
+        "founded": null,
+        "national": false,
+        "logo": "5115.png",
+        "venue_id": 10562
+    },
+    {
+        "id": 5122,
+        "name": "Nagyatádi",
+        "code": null,
+        "country": "Hungary",
+        "founded": 1926,
+        "national": false,
+        "logo": "5122.png",
+        "venue_id": 3868
+    },
+    {
+        "id": 5123,
+        "name": "Nagykanizsai ULE",
+        "code": null,
+        "country": "Hungary",
+        "founded": 1945,
+        "national": false,
+        "logo": "5123.png",
+        "venue_id": 3869
+    },
+    {
+        "id": 5125,
+        "name": "Nyírbátori",
+        "code": null,
+        "country": "Hungary",
+        "founded": 1917,
+        "national": false,
+        "logo": "5125.png",
+        "venue_id": 3870
+    },
+    {
+        "id": 5127,
+        "name": "PTE-PEAC",
+        "code": null,
+        "country": "Hungary",
+        "founded": null,
+        "national": false,
+        "logo": "5127.png",
+        "venue_id": 3873
+    },
+    {
+        "id": 5128,
+        "name": "Putnok VSE",
+        "code": "PUT",
+        "country": "Hungary",
+        "founded": null,
+        "national": false,
+        "logo": "5128.png",
+        "venue_id": 3871
+    },
+    {
+        "id": 5129,
+        "name": "Pápai Perutz",
+        "code": null,
+        "country": "Hungary",
+        "founded": 2015,
+        "national": false,
+        "logo": "5129.png",
+        "venue_id": 3872
+    },
+    {
+        "id": 5130,
+        "name": "Pécsi MFC",
+        "code": "PEC",
+        "country": "Hungary",
+        "founded": 1950,
+        "national": false,
+        "logo": "5130.png",
+        "venue_id": 3873
+    },
+    {
+        "id": 5131,
+        "name": "Pénzügyőr",
+        "code": null,
+        "country": "Hungary",
+        "founded": 1950,
+        "national": false,
+        "logo": "5131.png",
+        "venue_id": 3874
+    },
+    {
+        "id": 5134,
+        "name": "Salgótarjáni BTC",
+        "code": null,
+        "country": "Hungary",
+        "founded": 1920,
+        "national": false,
+        "logo": "5134.png",
+        "venue_id": 7668
+    },
+    {
+        "id": 5138,
+        "name": "Szekszárd",
+        "code": null,
+        "country": "Hungary",
+        "founded": 1993,
+        "national": false,
+        "logo": "5138.png",
+        "venue_id": 3880
+    },
+    {
+        "id": 5139,
+        "name": "Szentlőrinc SE",
+        "code": null,
+        "country": "Hungary",
+        "founded": 1912,
+        "national": false,
+        "logo": "5139.png",
+        "venue_id": 3881
+    },
+    {
+        "id": 5140,
+        "name": "Sárisápi Bányász",
+        "code": null,
+        "country": "Hungary",
+        "founded": 1994,
+        "national": false,
+        "logo": "5140.png",
+        "venue_id": 3882
+    },
+    {
+        "id": 5142,
+        "name": "Sárvári",
+        "code": null,
+        "country": "Hungary",
+        "founded": 1997,
+        "national": false,
+        "logo": "5142.png",
+        "venue_id": 7146
+    },
+    {
+        "id": 5143,
+        "name": "Sényő Carnifex",
+        "code": null,
+        "country": "Hungary",
+        "founded": null,
+        "national": false,
+        "logo": "5143.png",
+        "venue_id": 3883
+    },
+    {
+        "id": 5145,
+        "name": "Tatabánya",
+        "code": "TAT",
+        "country": "Hungary",
+        "founded": 1910,
+        "national": false,
+        "logo": "5145.png",
+        "venue_id": 793
+    },
+    {
+        "id": 5146,
+        "name": "Teskánd",
+        "code": null,
+        "country": "Hungary",
+        "founded": null,
+        "national": false,
+        "logo": "5146.png",
+        "venue_id": 18955
+    },
+    {
+        "id": 5147,
+        "name": "Tiszafuredi VSE",
+        "code": null,
+        "country": "Hungary",
+        "founded": null,
+        "national": false,
+        "logo": "5147.png",
+        "venue_id": 10567
+    },
+    {
+        "id": 5148,
+        "name": "Tiszasziget",
+        "code": null,
+        "country": "Hungary",
+        "founded": null,
+        "national": false,
+        "logo": "5148.svg",
+        "venue_id": 658166371565
+    },
+    {
+        "id": 5149,
+        "name": "Tiszaújváros",
+        "code": null,
+        "country": "Hungary",
+        "founded": 1960,
+        "national": false,
+        "logo": "5149.png",
+        "venue_id": 3885
+    },
+    {
+        "id": 5151,
+        "name": "Tállya",
+        "code": null,
+        "country": "Hungary",
+        "founded": null,
+        "national": false,
+        "logo": "5151.png",
+        "venue_id": 10568
+    },
+    {
+        "id": 5153,
+        "name": "Érdi VSE",
+        "code": null,
+        "country": "Hungary",
+        "founded": 1921,
+        "national": false,
+        "logo": "5153.png",
+        "venue_id": 20755
+    },
+    {
+        "id": 5156,
+        "name": "Úrkút",
+        "code": null,
+        "country": "Hungary",
+        "founded": null,
+        "national": false,
+        "logo": "5156.svg",
+        "venue_id": 22072
+    },
+    {
+        "id": 7536,
+        "name": "Bicskei",
+        "code": null,
+        "country": "Hungary",
+        "founded": null,
+        "national": false,
+        "logo": "7536.png",
+        "venue_id": 5465
+    },
+    {
+        "id": 7538,
+        "name": "Csornai SE",
+        "code": null,
+        "country": "Hungary",
+        "founded": 1910,
+        "national": false,
+        "logo": "7538.png",
+        "venue_id": 5466
+    },
+    {
+        "id": 7544,
+        "name": "Kelen",
+        "code": null,
+        "country": "Hungary",
+        "founded": null,
+        "national": false,
+        "logo": "7544.png",
+        "venue_id": 5468
+    },
+    {
+        "id": 7548,
+        "name": "MVSC",
+        "code": null,
+        "country": "Hungary",
+        "founded": null,
+        "national": false,
+        "logo": "7548.svg",
+        "venue_id": 22073
+    },
+    {
+        "id": 7550,
+        "name": "Móri SE",
+        "code": null,
+        "country": "Hungary",
+        "founded": 1919,
+        "national": false,
+        "logo": "7550.png",
+        "venue_id": 5470
+    },
+    {
+        "id": 7551,
+        "name": "Nagybajomi AC",
+        "code": null,
+        "country": "Hungary",
+        "founded": 1914,
+        "national": false,
+        "logo": "7551.png",
+        "venue_id": 5471
+    },
+    {
+        "id": 7552,
+        "name": "Nagyecsed RSE",
+        "code": null,
+        "country": "Hungary",
+        "founded": 1968,
+        "national": false,
+        "logo": "7552.png",
+        "venue_id": 78891929043
+    },
+    {
+        "id": 7555,
+        "name": "Pilisi LK",
+        "code": null,
+        "country": "Hungary",
+        "founded": 1917,
+        "national": false,
+        "logo": "7555.svg",
+        "venue_id": 22074
+    },
+    {
+        "id": 7557,
+        "name": "SC Sopron",
+        "code": null,
+        "country": "Hungary",
+        "founded": 1921,
+        "national": false,
+        "logo": "7557.png",
+        "venue_id": 2741
+    },
+    {
+        "id": 7560,
+        "name": "Szajol",
+        "code": null,
+        "country": "Hungary",
+        "founded": null,
+        "national": false,
+        "logo": "7560.svg",
+        "venue_id": 22075
+    },
+    {
+        "id": 7561,
+        "name": "Szegedi VSE",
+        "code": null,
+        "country": "Hungary",
+        "founded": 1919,
+        "national": false,
+        "logo": "7561.png",
+        "venue_id": 2745
+    },
+    {
+        "id": 7562,
+        "name": "Sárbogárd",
+        "code": null,
+        "country": "Hungary",
+        "founded": null,
+        "national": false,
+        "logo": "7562.png",
+        "venue_id": 22076
+    },
+    {
+        "id": 7564,
+        "name": "Tihany",
+        "code": null,
+        "country": "Hungary",
+        "founded": null,
+        "national": false,
+        "logo": "7564.svg",
+        "venue_id": 22077
+    },
+    {
+        "id": 7565,
+        "name": "Törökszentmiklós",
+        "code": null,
+        "country": "Hungary",
+        "founded": null,
+        "national": false,
+        "logo": "7565.svg",
+        "venue_id": 12071
+    },
+    {
+        "id": 7566,
+        "name": "Unione",
+        "code": null,
+        "country": "Hungary",
+        "founded": null,
+        "national": false,
+        "logo": "7566.svg",
+        "venue_id": 269631594093
+    },
+    {
+        "id": 7569,
+        "name": "Veszprém",
+        "code": "VES",
+        "country": "Hungary",
+        "founded": 1912,
+        "national": false,
+        "logo": "7569.svg",
+        "venue_id": 5473
+    },
+    {
+        "id": 7571,
+        "name": "Vép",
+        "code": null,
+        "country": "Hungary",
+        "founded": null,
+        "national": false,
+        "logo": "7571.svg",
+        "venue_id": 447820307898
+    },
+    {
+        "id": 7572,
+        "name": "Újfehértó",
+        "code": null,
+        "country": "Hungary",
+        "founded": null,
+        "national": false,
+        "logo": "7572.svg",
+        "venue_id": 22078
+    },
+    {
+        "id": 10162,
+        "name": "Budaörs",
+        "code": null,
+        "country": "Hungary",
+        "founded": 1924,
+        "national": false,
+        "logo": "10162.png",
+        "venue_id": 18867
+    },
+    {
+        "id": 11691,
+        "name": "Algyő SK",
+        "code": null,
+        "country": "Hungary",
+        "founded": null,
+        "national": false,
+        "logo": "11691.png",
+        "venue_id": 521376802585
+    },
+    {
+        "id": 11693,
+        "name": "Bácsa",
+        "code": null,
+        "country": "Hungary",
+        "founded": null,
+        "national": false,
+        "logo": "11693.svg",
+        "venue_id": 56248828770
+    },
+    {
+        "id": 11698,
+        "name": "Ercsi Kinizsi",
+        "code": null,
+        "country": "Hungary",
+        "founded": null,
+        "national": false,
+        "logo": "11698.svg",
+        "venue_id": 139330725453
+    },
+    {
+        "id": 11700,
+        "name": "Gárdony",
+        "code": null,
+        "country": "Hungary",
+        "founded": null,
+        "national": false,
+        "logo": "11700.png",
+        "venue_id": 10570
+    },
+    {
+        "id": 11701,
+        "name": "Gödöllő",
+        "code": null,
+        "country": "Hungary",
+        "founded": null,
+        "national": false,
+        "logo": "11701.png",
+        "venue_id": 22323
+    },
+    {
+        "id": 11703,
+        "name": "Karancslapujtő",
+        "code": null,
+        "country": "Hungary",
+        "founded": null,
+        "national": false,
+        "logo": "11703.png",
+        "venue_id": 22079
+    },
+    {
+        "id": 11706,
+        "name": "Maklár",
+        "code": null,
+        "country": "Hungary",
+        "founded": null,
+        "national": false,
+        "logo": "11706.png",
+        "venue_id": 495355593872
+    },
+    {
+        "id": 11707,
+        "name": "Mohácsi TE",
+        "code": null,
+        "country": "Hungary",
+        "founded": 1988,
+        "national": false,
+        "logo": "11707.png",
+        "venue_id": 7665
+    },
+    {
+        "id": 11711,
+        "name": "Nyíradony",
+        "code": null,
+        "country": "Hungary",
+        "founded": null,
+        "national": false,
+        "logo": "11711.svg",
+        "venue_id": 499574877590
+    },
+    {
+        "id": 11712,
+        "name": "Pecsvarad Spartacus",
+        "code": null,
+        "country": "Hungary",
+        "founded": null,
+        "national": false,
+        "logo": "11712.png",
+        "venue_id": 469840206681
+    },
+    {
+        "id": 11720,
+        "name": "Testvériség",
+        "code": null,
+        "country": "Hungary",
+        "founded": null,
+        "national": false,
+        "logo": "11720.svg",
+        "venue_id": 692249059220
+    },
+    {
+        "id": 11724,
+        "name": "Baktalórántháza",
+        "code": null,
+        "country": "Hungary",
+        "founded": 1916,
+        "national": false,
+        "logo": "11724.png",
+        "venue_id": 7670
+    },
+    {
+        "id": 11728,
+        "name": "Diósdi TC",
+        "code": null,
+        "country": "Hungary",
+        "founded": 1919,
+        "national": false,
+        "logo": "11728.svg",
+        "venue_id": 7671
+    },
+    {
+        "id": 11729,
+        "name": "Gyulai Termál",
+        "code": null,
+        "country": "Hungary",
+        "founded": 1920,
+        "national": false,
+        "logo": "11729.png",
+        "venue_id": 22080
+    },
+    {
+        "id": 11732,
+        "name": "Koroncó",
+        "code": null,
+        "country": "Hungary",
+        "founded": null,
+        "national": false,
+        "logo": "11732.svg",
+        "venue_id": 22081
+    },
+    {
+        "id": 11733,
+        "name": "Marcali VFC",
+        "code": null,
+        "country": "Hungary",
+        "founded": null,
+        "national": false,
+        "logo": "11733.png",
+        "venue_id": 559824193154
+    },
+    {
+        "id": 11739,
+        "name": "REAC",
+        "code": null,
+        "country": "Hungary",
+        "founded": 1912,
+        "national": false,
+        "logo": "11739.png",
+        "venue_id": 7675
+    },
+    {
+        "id": 11750,
+        "name": "Balatonalmádi",
+        "code": null,
+        "country": "Hungary",
+        "founded": null,
+        "national": false,
+        "logo": "11750.png",
+        "venue_id": 22082
+    },
+    {
+        "id": 11757,
+        "name": "Hidasnémeti",
+        "code": null,
+        "country": "Hungary",
+        "founded": 1949,
+        "national": false,
+        "logo": "11757.svg",
+        "venue_id": 201151797973
+    },
+    {
+        "id": 11760,
+        "name": "Mátészalka",
+        "code": null,
+        "country": "Hungary",
+        "founded": null,
+        "national": false,
+        "logo": "11760.png",
+        "venue_id": 22083
+    },
+    {
+        "id": 11776,
+        "name": "Himesháza",
+        "code": null,
+        "country": "Hungary",
+        "founded": null,
+        "national": false,
+        "logo": "11776.svg",
+        "venue_id": 574950252297
+    },
+    {
+        "id": 11779,
+        "name": "Jászfényszarui",
+        "code": null,
+        "country": "Hungary",
+        "founded": null,
+        "national": false,
+        "logo": "11779.png",
+        "venue_id": 22084
+    },
+    {
+        "id": 11784,
+        "name": "Majosi",
+        "code": null,
+        "country": "Hungary",
+        "founded": 1989,
+        "national": false,
+        "logo": "11784.png",
+        "venue_id": 10563
+    },
+    {
+        "id": 11802,
+        "name": "Bábolna",
+        "code": null,
+        "country": "Hungary",
+        "founded": null,
+        "national": false,
+        "logo": "11802.svg",
+        "venue_id": 60154516348
+    },
+    {
+        "id": 11817,
+        "name": "Péti",
+        "code": null,
+        "country": "Hungary",
+        "founded": null,
+        "national": false,
+        "logo": "11817.svg",
+        "venue_id": 805964327059
+    },
+    {
+        "id": 11823,
+        "name": "Zalaszentgrót",
+        "code": null,
+        "country": "Hungary",
+        "founded": null,
+        "national": false,
+        "logo": "11823.svg",
+        "venue_id": 22085
+    },
+    {
+        "id": 11850,
+        "name": "Bóly",
+        "code": null,
+        "country": "Hungary",
+        "founded": null,
+        "national": false,
+        "logo": "11850.png",
+        "venue_id": 671794869200
+    },
+    {
+        "id": 11852,
+        "name": "Hartai",
+        "code": null,
+        "country": "Hungary",
+        "founded": null,
+        "national": false,
+        "logo": "11852.svg",
+        "venue_id": 160657473545
+    },
+    {
+        "id": 15181,
+        "name": "Abda",
+        "code": null,
+        "country": "Hungary",
+        "founded": null,
+        "national": false,
+        "logo": "15181.svg",
+        "venue_id": 875008654165
+    },
+    {
+        "id": 15186,
+        "name": "Diósjenő",
+        "code": null,
+        "country": "Hungary",
+        "founded": null,
+        "national": false,
+        "logo": "15186.svg",
+        "venue_id": 26091039988
+    },
+    {
+        "id": 15188,
+        "name": "Fémalk-Dunavarsány",
+        "code": null,
+        "country": "Hungary",
+        "founded": null,
+        "national": false,
+        "logo": "15188.svg",
+        "venue_id": 391824877594
+    },
+    {
+        "id": 15191,
+        "name": "Lőrinci",
+        "code": null,
+        "country": "Hungary",
+        "founded": null,
+        "national": false,
+        "logo": "15191.png",
+        "venue_id": 648419755405
+    },
+    {
+        "id": 15198,
+        "name": "Tarpa",
+        "code": null,
+        "country": "Hungary",
+        "founded": null,
+        "national": false,
+        "logo": "15198.png",
+        "venue_id": 22086
+    },
+    {
+        "id": 15199,
+        "name": "Tiszaföldvár",
+        "code": null,
+        "country": "Hungary",
+        "founded": null,
+        "national": false,
+        "logo": "15199.png",
+        "venue_id": 22152
+    },
+    {
+        "id": 17285,
+        "name": "Haladás VSE",
+        "code": null,
+        "country": "Hungary",
+        "founded": null,
+        "national": false,
+        "logo": "17285.png",
+        "venue_id": 812
+    },
+    {
+        "id": 17289,
+        "name": "Karcag SE",
+        "code": null,
+        "country": "Hungary",
+        "founded": null,
+        "national": false,
+        "logo": "17289.png",
+        "venue_id": 10567
+    },
+    {
+        "id": 17294,
+        "name": "Monostorpályi",
+        "code": null,
+        "country": "Hungary",
+        "founded": null,
+        "national": false,
+        "logo": "17294.png",
+        "venue_id": 22088
+    },
+    {
+        "id": 17298,
+        "name": "Somogysárd",
+        "code": null,
+        "country": "Hungary",
+        "founded": null,
+        "national": false,
+        "logo": "17298.svg",
+        "venue_id": 338008394118
+    },
+    {
+        "id": 19811,
+        "name": "Lajosmizse",
+        "code": null,
+        "country": "Hungary",
+        "founded": null,
+        "national": false,
+        "logo": "19811.svg",
+        "venue_id": 760004970610
+    },
+    {
+        "id": 19812,
+        "name": "Mezőmegyer",
+        "code": null,
+        "country": "Hungary",
+        "founded": null,
+        "national": false,
+        "logo": "19812.svg",
+        "venue_id": 22090
+    },
+    {
+        "id": 19813,
+        "name": "Mezőörs",
+        "code": null,
+        "country": "Hungary",
+        "founded": null,
+        "national": false,
+        "logo": "19813.png",
+        "venue_id": 22091
+    },
+    {
+        "id": 19815,
+        "name": "Nyergesújfalu",
+        "code": null,
+        "country": "Hungary",
+        "founded": null,
+        "national": false,
+        "logo": "19815.svg",
+        "venue_id": 22092
+    },
+    {
+        "id": 19820,
+        "name": "Söpte",
+        "code": null,
+        "country": "Hungary",
+        "founded": null,
+        "national": false,
+        "logo": "19820.svg",
+        "venue_id": 545498744943
+    },
+    {
+        "id": 21855,
+        "name": "Dunaföldvár",
+        "code": null,
+        "country": "Hungary",
+        "founded": 1992,
+        "national": false,
+        "logo": "21855.png",
+        "venue_id": 19919
+    },
+    {
+        "id": 21856,
+        "name": "Martfűi LSE",
+        "code": null,
+        "country": "Hungary",
+        "founded": 1942,
+        "national": false,
+        "logo": "21856.png",
+        "venue_id": 20782
+    },
+    {
+        "id": 21885,
+        "name": "Csep-Gól",
+        "code": null,
+        "country": "Hungary",
+        "founded": null,
+        "national": false,
+        "logo": "21885.svg",
+        "venue_id": 3842
+    },
+    {
+        "id": 21889,
+        "name": "Hajdúsámsoni",
+        "code": null,
+        "country": "Hungary",
+        "founded": null,
+        "national": false,
+        "logo": "21889.png",
+        "venue_id": 220382203737
+    },
+    {
+        "id": 21891,
+        "name": "Lábatlan",
+        "code": null,
+        "country": "Hungary",
+        "founded": null,
+        "national": false,
+        "logo": "21891.svg",
+        "venue_id": 912466163968
+    },
+    {
+        "id": 21895,
+        "name": "OMTK-Ule",
+        "code": null,
+        "country": "Hungary",
+        "founded": null,
+        "national": false,
+        "logo": "21895.png",
+        "venue_id": 22094
+    },
+    {
+        "id": 24488,
+        "name": "BSK Alsózsolca",
+        "code": null,
+        "country": "Hungary",
+        "founded": null,
+        "national": false,
+        "logo": "24488.svg",
+        "venue_id": 967672666284
+    },
+    {
+        "id": 24489,
+        "name": "Bakonycsernye",
+        "code": null,
+        "country": "Hungary",
+        "founded": null,
+        "national": false,
+        "logo": "24489.svg",
+        "venue_id": 402396071197
+    },
+    {
+        "id": 24490,
+        "name": "Böde",
+        "code": null,
+        "country": "Hungary",
+        "founded": null,
+        "national": false,
+        "logo": "24490.svg",
+        "venue_id": 712021269477
+    },
+    {
+        "id": 24491,
+        "name": "Duna SK",
+        "code": null,
+        "country": "Hungary",
+        "founded": null,
+        "national": false,
+        "logo": "24491.png",
+        "venue_id": 368551294848
+    },
+    {
+        "id": 24492,
+        "name": "Fadd",
+        "code": null,
+        "country": "Hungary",
+        "founded": null,
+        "national": false,
+        "logo": "24492.svg",
+        "venue_id": 485274323458
+    },
+    {
+        "id": 24493,
+        "name": "Füzesabony",
+        "code": null,
+        "country": "Hungary",
+        "founded": null,
+        "national": false,
+        "logo": "24493.png",
+        "venue_id": 22095
+    },
+    {
+        "id": 24494,
+        "name": "Gyomaendrőd",
+        "code": null,
+        "country": "Hungary",
+        "founded": null,
+        "national": false,
+        "logo": "24494.svg",
+        "venue_id": 599797755041
+    },
+    {
+        "id": 24495,
+        "name": "Gyógyfürdő Harkányi",
+        "code": null,
+        "country": "Hungary",
+        "founded": null,
+        "national": false,
+        "logo": "24495.svg",
+        "venue_id": 22096
+    },
+    {
+        "id": 24496,
+        "name": "Győrszentiván",
+        "code": null,
+        "country": "Hungary",
+        "founded": null,
+        "national": false,
+        "logo": "24496.svg",
+        "venue_id": 901004230769
+    },
+    {
+        "id": 24497,
+        "name": "Hajdúnánás",
+        "code": null,
+        "country": "Hungary",
+        "founded": null,
+        "national": false,
+        "logo": "24497.svg",
+        "venue_id": 748455361221
+    },
+    {
+        "id": 24498,
+        "name": "Héhalom",
+        "code": null,
+        "country": "Hungary",
+        "founded": null,
+        "national": false,
+        "logo": "24498.svg",
+        "venue_id": 105504823097
+    },
+    {
+        "id": 24500,
+        "name": "Kakasd",
+        "code": null,
+        "country": "Hungary",
+        "founded": 0,
+        "national": false,
+        "logo": "24500.svg",
+        "venue_id": 682197126464
+    },
+    {
+        "id": 24501,
+        "name": "Kunbaja",
+        "code": null,
+        "country": "Hungary",
+        "founded": null,
+        "national": false,
+        "logo": "24501.svg",
+        "venue_id": 330463523529
+    },
+    {
+        "id": 24502,
+        "name": "Pátka",
+        "code": null,
+        "country": "Hungary",
+        "founded": null,
+        "national": false,
+        "logo": "24502.svg",
+        "venue_id": 883106641116
+    },
+    {
+        "id": 24503,
+        "name": "Rábatótfalu",
+        "code": null,
+        "country": "Hungary",
+        "founded": null,
+        "national": false,
+        "logo": "24503.svg",
+        "venue_id": 942535800781
+    },
+    {
+        "id": 24504,
+        "name": "Szakonyfalu",
+        "code": null,
+        "country": "Hungary",
+        "founded": null,
+        "national": false,
+        "logo": "24504.svg",
+        "venue_id": 619334738754
+    },
+    {
+        "id": 24505,
+        "name": "Sándorfalva",
+        "code": null,
+        "country": "Hungary",
+        "founded": null,
+        "national": false,
+        "logo": "24505.svg",
+        "venue_id": 22325
+    },
+    {
+        "id": 24506,
+        "name": "Sárospataki TC",
+        "code": null,
+        "country": "Hungary",
+        "founded": 1945,
+        "national": false,
+        "logo": "24506.svg",
+        "venue_id": 21012
+    },
+    {
+        "id": 24507,
+        "name": "Vitnyéd",
+        "code": null,
+        "country": "Hungary",
+        "founded": null,
+        "national": false,
+        "logo": "24507.svg",
+        "venue_id": 888600940455
+    },
+    {
+        "id": 24508,
+        "name": "Vizslás",
+        "code": null,
+        "country": "Hungary",
+        "founded": null,
+        "national": false,
+        "logo": "24508.svg",
+        "venue_id": 480902379474
+    },
+    {
+        "id": 24509,
+        "name": "Zalalövő",
+        "code": null,
+        "country": "Hungary",
+        "founded": null,
+        "national": false,
+        "logo": "24509.svg",
+        "venue_id": 122955849979
+    },
+    {
+        "id": 13153,
+        "name": "Debrecen II",
+        "code": null,
+        "country": "Hungary",
+        "founded": 1902,
+        "national": false,
+        "logo": "13153.png",
+        "venue_id": 795
+    },
+    {
+        "id": 13154,
+        "name": "Diósgyőr II",
+        "code": null,
+        "country": "Hungary",
+        "founded": 2007,
+        "national": false,
+        "logo": "13154.png",
+        "venue_id": 8303
+    },
+    {
+        "id": 14122,
+        "name": "Kisvárda II",
+        "code": null,
+        "country": "Hungary",
+        "founded": null,
+        "national": false,
+        "logo": "14122.png",
+        "venue_id": 10569
+    },
+    {
+        "id": 24538,
+        "name": "Nyiregyhaza II",
+        "code": null,
+        "country": "Hungary",
+        "founded": null,
+        "national": false,
+        "logo": "24538.png",
+        "venue_id": 330551571413
+    },
+    {
+        "id": 11851,
+        "name": "Gyori ETO II",
+        "code": "GYO",
+        "country": "Hungary",
+        "founded": 1904,
+        "national": false,
+        "logo": "11851.png",
+        "venue_id": 801
+    },
+    {
+        "id": 11860,
+        "name": "Újpest II",
+        "code": "UJP",
+        "country": "Hungary",
+        "founded": null,
+        "national": false,
+        "logo": "11860.png",
+        "venue_id": 814
+    },
+    {
+        "id": 13155,
+        "name": "Puskás II",
+        "code": null,
+        "country": "Hungary",
+        "founded": null,
+        "national": false,
+        "logo": "13155.png",
+        "venue_id": 1764
+    },
+    {
+        "id": 17170,
+        "name": "Gyirmót II",
+        "code": null,
+        "country": "Hungary",
+        "founded": null,
+        "national": false,
+        "logo": "17170.png",
+        "venue_id": 800
+    },
+    {
+        "id": 11853,
+        "name": "Honvéd II",
+        "code": "HON",
+        "country": "Hungary",
+        "founded": null,
+        "national": false,
+        "logo": "11853.png",
+        "venue_id": 10564
+    },
+    {
+        "id": 19462,
+        "name": "Vasas II",
+        "code": null,
+        "country": "Hungary",
+        "founded": 1911,
+        "national": false,
+        "logo": "19462.png",
+        "venue_id": 817
+    },
+    {
+        "id": 19463,
+        "name": "Kecskeméti TE II",
+        "code": null,
+        "country": "Hungary",
+        "founded": null,
+        "national": false,
+        "logo": "19463.png",
+        "venue_id": 21034
+    },
+    {
+        "id": 21857,
+        "name": "Szeged-Csanád II",
+        "code": null,
+        "country": "Hungary",
+        "founded": null,
+        "national": false,
+        "logo": "21857.png",
+        "venue_id": 2742
+    },
+    {
+        "id": 11856,
+        "name": "Paksi SE II",
+        "code": "PAK",
+        "country": "Hungary",
+        "founded": null,
+        "national": false,
+        "logo": "11856.png",
+        "venue_id": 809
+    },
+    {
+        "id": 11861,
+        "name": "Ferencváros II",
+        "code": "FER",
+        "country": "Hungary",
+        "founded": 1899,
+        "national": false,
+        "logo": "11861.png",
+        "venue_id": 10565
+    },
+    {
+        "id": 17064,
+        "name": "MTK Budapest II",
+        "code": null,
+        "country": "Hungary",
+        "founded": null,
+        "national": false,
+        "logo": "17064.png",
+        "venue_id": 19978
+    },
+    {
+        "id": 19806,
+        "name": "Főnix",
+        "code": null,
+        "country": "Hungary",
+        "founded": null,
+        "national": false,
+        "logo": "19806.svg",
+        "venue_id": 22089
+    }
+]
