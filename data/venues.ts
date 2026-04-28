@@ -77,3 +77,4 @@ export { default as ireland } from './ireland-venues.json';
 export { default as italy } from './italy-venues.json';
 export { default as ivoryCoast } from './ivory-coast-venues.json';
 export { default as jamaica } from './jamaica-venues.json';
+export { default as japan } from './japan-venues.json';

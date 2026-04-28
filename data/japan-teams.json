@@ -1,0 +1,1002 @@
+[
+    {
+        "id": 279,
+        "name": "Consadole Sapporo",
+        "code": "SAP",
+        "country": "Japan",
+        "founded": 1935,
+        "national": false,
+        "logo": "279.png",
+        "venue_id": 21807
+    },
+    {
+        "id": 280,
+        "name": "Jubilo Iwata",
+        "code": "IWA",
+        "country": "Japan",
+        "founded": 1970,
+        "national": false,
+        "logo": "280.png",
+        "venue_id": 963
+    },
+    {
+        "id": 281,
+        "name": "Kashiwa Reysol",
+        "code": "KAS",
+        "country": "Japan",
+        "founded": 1940,
+        "national": false,
+        "logo": "281.png",
+        "venue_id": 965
+    },
+    {
+        "id": 282,
+        "name": "Sanfrecce Hiroshima",
+        "code": "HIR",
+        "country": "Japan",
+        "founded": 1938,
+        "national": false,
+        "logo": "282.png",
+        "venue_id": 20557
+    },
+    {
+        "id": 283,
+        "name": "Shimizu S-pulse",
+        "code": "SHI",
+        "country": "Japan",
+        "founded": 1991,
+        "national": false,
+        "logo": "283.png",
+        "venue_id": 976
+    },
+    {
+        "id": 284,
+        "name": "Shonan Bellmare",
+        "code": "SHO",
+        "country": "Japan",
+        "founded": 1968,
+        "national": false,
+        "logo": "284.png",
+        "venue_id": 21809
+    },
+    {
+        "id": 285,
+        "name": "V-varen Nagasaki",
+        "code": "NAG",
+        "country": "Japan",
+        "founded": 1985,
+        "national": false,
+        "logo": "285.png",
+        "venue_id": 21810
+    },
+    {
+        "id": 286,
+        "name": "Vegalta Sendai",
+        "code": "HOU",
+        "country": "Japan",
+        "founded": 1988,
+        "national": false,
+        "logo": "286.png",
+        "venue_id": 982
+    },
+    {
+        "id": 288,
+        "name": "Nagoya Grampus",
+        "code": "NAG",
+        "country": "Japan",
+        "founded": 1939,
+        "national": false,
+        "logo": "288.png",
+        "venue_id": 972
+    },
+    {
+        "id": 289,
+        "name": "Vissel Kobe",
+        "code": "KOB",
+        "country": "Japan",
+        "founded": 1966,
+        "national": false,
+        "logo": "289.png",
+        "venue_id": 984
+    },
+    {
+        "id": 290,
+        "name": "Kashima",
+        "code": "KAS",
+        "country": "Japan",
+        "founded": 1991,
+        "national": false,
+        "logo": "290.png",
+        "venue_id": 964
+    },
+    {
+        "id": 291,
+        "name": "Cerezo Osaka",
+        "code": "COS",
+        "country": "Japan",
+        "founded": 1957,
+        "national": false,
+        "logo": "291.png",
+        "venue_id": 11583
+    },
+    {
+        "id": 292,
+        "name": "FC Tokyo",
+        "code": "TOK",
+        "country": "Japan",
+        "founded": 1935,
+        "national": false,
+        "logo": "292.png",
+        "venue_id": 960
+    },
+    {
+        "id": 293,
+        "name": "Gamba Osaka",
+        "code": "GOS",
+        "country": "Japan",
+        "founded": 1980,
+        "national": false,
+        "logo": "293.png",
+        "venue_id": 18623
+    },
+    {
+        "id": 294,
+        "name": "Kawasaki Frontale",
+        "code": "KAW",
+        "country": "Japan",
+        "founded": 1955,
+        "national": false,
+        "logo": "294.png",
+        "venue_id": 20516
+    },
+    {
+        "id": 295,
+        "name": "Sagan Tosu",
+        "code": "TOS",
+        "country": "Japan",
+        "founded": 1987,
+        "national": false,
+        "logo": "295.png",
+        "venue_id": 974
+    },
+    {
+        "id": 296,
+        "name": "Yokohama F. Marinos",
+        "code": "YOK",
+        "country": "Japan",
+        "founded": 1972,
+        "national": false,
+        "logo": "296.png",
+        "venue_id": 985
+    },
+    {
+        "id": 297,
+        "name": "FC Gifu",
+        "code": "GIF",
+        "country": "Japan",
+        "founded": 2001,
+        "national": false,
+        "logo": "297.png",
+        "venue_id": 958
+    },
+    {
+        "id": 298,
+        "name": "Oita Trinita",
+        "code": "OIT",
+        "country": "Japan",
+        "founded": 1994,
+        "national": false,
+        "logo": "298.png",
+        "venue_id": 20498
+    },
+    {
+        "id": 299,
+        "name": "Tokushima Vortis",
+        "code": "TOK",
+        "country": "Japan",
+        "founded": 1955,
+        "national": false,
+        "logo": "299.png",
+        "venue_id": 979
+    },
+    {
+        "id": 300,
+        "name": "Kanazawa",
+        "code": null,
+        "country": "Japan",
+        "founded": 1956,
+        "national": false,
+        "logo": "300.png",
+        "venue_id": 987
+    },
+    {
+        "id": 301,
+        "name": "JEF United Chiba",
+        "code": "CHI",
+        "country": "Japan",
+        "founded": 1946,
+        "national": false,
+        "logo": "301.png",
+        "venue_id": 962
+    },
+    {
+        "id": 302,
+        "name": "Kyoto Sanga",
+        "code": "KYO",
+        "country": "Japan",
+        "founded": 1922,
+        "national": false,
+        "logo": "302.png",
+        "venue_id": 967
+    },
+    {
+        "id": 303,
+        "name": "Machida Zelvia",
+        "code": null,
+        "country": "Japan",
+        "founded": 1977,
+        "national": false,
+        "logo": "303.png",
+        "venue_id": 968
+    },
+    {
+        "id": 305,
+        "name": "Mito Hollyhock",
+        "code": "MIT",
+        "country": "Japan",
+        "founded": 1990,
+        "national": false,
+        "logo": "305.png",
+        "venue_id": 970
+    },
+    {
+        "id": 306,
+        "name": "Tokyo Verdy",
+        "code": "VER",
+        "country": "Japan",
+        "founded": 1969,
+        "national": false,
+        "logo": "306.png",
+        "venue_id": 960
+    },
+    {
+        "id": 307,
+        "name": "Yokohama FC",
+        "code": "YOK",
+        "country": "Japan",
+        "founded": 1998,
+        "national": false,
+        "logo": "307.png",
+        "venue_id": 11579
+    },
+    {
+        "id": 308,
+        "name": "Ventforet Kofu",
+        "code": "KOF",
+        "country": "Japan",
+        "founded": 1965,
+        "national": false,
+        "logo": "308.png",
+        "venue_id": 19675
+    },
+    {
+        "id": 309,
+        "name": "Renofa Yamaguchi",
+        "code": null,
+        "country": "Japan",
+        "founded": 1949,
+        "national": false,
+        "logo": "309.png",
+        "venue_id": 1697
+    },
+    {
+        "id": 310,
+        "name": "Fagiano Okayama",
+        "code": "OKA",
+        "country": "Japan",
+        "founded": 2004,
+        "national": false,
+        "logo": "310.png",
+        "venue_id": 21808
+    },
+    {
+        "id": 311,
+        "name": "Albirex Niigata",
+        "code": "ALB",
+        "country": "Japan",
+        "founded": 1955,
+        "national": false,
+        "logo": "311.png",
+        "venue_id": 952
+    },
+    {
+        "id": 312,
+        "name": "Montedio Yamagata",
+        "code": "MON",
+        "country": "Japan",
+        "founded": 1984,
+        "national": false,
+        "logo": "312.png",
+        "venue_id": 971
+    },
+    {
+        "id": 313,
+        "name": "Omiya Ardija",
+        "code": "OMI",
+        "country": "Japan",
+        "founded": 1964,
+        "national": false,
+        "logo": "313.png",
+        "venue_id": 19674
+    },
+    {
+        "id": 314,
+        "name": "Roasso Kumamoto",
+        "code": "KUM",
+        "country": "Japan",
+        "founded": 1969,
+        "national": false,
+        "logo": "314.png",
+        "venue_id": 1934
+    },
+    {
+        "id": 315,
+        "name": "Tochigi SC",
+        "code": "TOC",
+        "country": "Japan",
+        "founded": 1953,
+        "national": false,
+        "logo": "315.png",
+        "venue_id": 20714
+    },
+    {
+        "id": 316,
+        "name": "Avispa Fukuoka",
+        "code": "FUK",
+        "country": "Japan",
+        "founded": 1982,
+        "national": false,
+        "logo": "316.png",
+        "venue_id": 20417
+    },
+    {
+        "id": 317,
+        "name": "Kamatamare Sanuki",
+        "code": "KAM",
+        "country": "Japan",
+        "founded": 1956,
+        "national": false,
+        "logo": "317.png",
+        "venue_id": 1935
+    },
+    {
+        "id": 318,
+        "name": "Ehime FC",
+        "code": "EHI",
+        "country": "Japan",
+        "founded": 1970,
+        "national": false,
+        "logo": "318.png",
+        "venue_id": 956
+    },
+    {
+        "id": 756,
+        "name": "Thespakusatsu Gunma",
+        "code": "KUS",
+        "country": "Japan",
+        "founded": 1995,
+        "national": false,
+        "logo": "756.png",
+        "venue_id": 2774
+    },
+    {
+        "id": 805,
+        "name": "Kitakyushu",
+        "code": "GIR",
+        "country": "Japan",
+        "founded": 1973,
+        "national": false,
+        "logo": "805.png",
+        "venue_id": 2775
+    },
+    {
+        "id": 2236,
+        "name": "Kagoshima United",
+        "code": null,
+        "country": "Japan",
+        "founded": null,
+        "national": false,
+        "logo": "2236.png",
+        "venue_id": 11575
+    },
+    {
+        "id": 4314,
+        "name": "Azul Claro Numazu",
+        "code": null,
+        "country": "Japan",
+        "founded": 1990,
+        "national": false,
+        "logo": "4314.png",
+        "venue_id": 3298
+    },
+    {
+        "id": 4315,
+        "name": "Blaublitz Akita",
+        "code": null,
+        "country": "Japan",
+        "founded": 1965,
+        "national": false,
+        "logo": "4315.png",
+        "venue_id": 11576
+    },
+    {
+        "id": 4317,
+        "name": "Fujieda MYFC",
+        "code": null,
+        "country": "Japan",
+        "founded": 2004,
+        "national": false,
+        "logo": "4317.png",
+        "venue_id": 3300
+    },
+    {
+        "id": 4318,
+        "name": "Fukushima United",
+        "code": null,
+        "country": "Japan",
+        "founded": 1977,
+        "national": false,
+        "logo": "4318.png",
+        "venue_id": 3301
+    },
+    {
+        "id": 4319,
+        "name": "Gainare Tottori",
+        "code": "GAI",
+        "country": "Japan",
+        "founded": 1983,
+        "national": false,
+        "logo": "4319.png",
+        "venue_id": 11577
+    },
+    {
+        "id": 4321,
+        "name": "Grulla Morioka",
+        "code": null,
+        "country": "Japan",
+        "founded": 2004,
+        "national": false,
+        "logo": "4321.png",
+        "venue_id": 3303
+    },
+    {
+        "id": 4322,
+        "name": "Kataller Toyama",
+        "code": "TOY",
+        "country": "Japan",
+        "founded": 2007,
+        "national": false,
+        "logo": "4322.png",
+        "venue_id": 3304
+    },
+    {
+        "id": 4323,
+        "name": "Parceiro Nagano",
+        "code": "NAG",
+        "country": "Japan",
+        "founded": 1990,
+        "national": false,
+        "logo": "4323.png",
+        "venue_id": 3305
+    },
+    {
+        "id": 4324,
+        "name": "Sagamihara",
+        "code": null,
+        "country": "Japan",
+        "founded": 2008,
+        "national": false,
+        "logo": "4324.png",
+        "venue_id": 3306
+    },
+    {
+        "id": 4326,
+        "name": "Vanraure Hachinohe",
+        "code": null,
+        "country": "Japan",
+        "founded": null,
+        "national": false,
+        "logo": "4326.png",
+        "venue_id": 11578
+    },
+    {
+        "id": 7116,
+        "name": "Arterivo Wakayama",
+        "code": null,
+        "country": "Japan",
+        "founded": null,
+        "national": false,
+        "logo": "7116.png",
+        "venue_id": 10904
+    },
+    {
+        "id": 7118,
+        "name": "FC Tokushima",
+        "code": null,
+        "country": "Japan",
+        "founded": 2003,
+        "national": false,
+        "logo": "7118.png",
+        "venue_id": 10897
+    },
+    {
+        "id": 7119,
+        "name": "Fukui United",
+        "code": null,
+        "country": "Japan",
+        "founded": null,
+        "national": false,
+        "logo": "7119.png",
+        "venue_id": 11580
+    },
+    {
+        "id": 7123,
+        "name": "Honda",
+        "code": null,
+        "country": "Japan",
+        "founded": 1971,
+        "national": false,
+        "logo": "7123.png",
+        "venue_id": 5185
+    },
+    {
+        "id": 7126,
+        "name": "Institute of Fitness",
+        "code": null,
+        "country": "Japan",
+        "founded": null,
+        "national": false,
+        "logo": "7126.png",
+        "venue_id": 10898
+    },
+    {
+        "id": 7127,
+        "name": "Iwaki",
+        "code": null,
+        "country": "Japan",
+        "founded": 2012,
+        "national": false,
+        "logo": "7127.png",
+        "venue_id": 20560
+    },
+    {
+        "id": 7129,
+        "name": "Kochi United",
+        "code": null,
+        "country": "Japan",
+        "founded": 2016,
+        "national": false,
+        "logo": "7129.png",
+        "venue_id": 5189
+    },
+    {
+        "id": 7134,
+        "name": "Meiji University",
+        "code": null,
+        "country": "Japan",
+        "founded": null,
+        "national": false,
+        "logo": "7134.png",
+        "venue_id": 9413538505
+    },
+    {
+        "id": 7135,
+        "name": "Nara Club",
+        "code": null,
+        "country": "Japan",
+        "founded": 1991,
+        "national": false,
+        "logo": "7135.png",
+        "venue_id": 5191
+    },
+    {
+        "id": 7137,
+        "name": "Okinawa SV",
+        "code": null,
+        "country": "Japan",
+        "founded": null,
+        "national": false,
+        "logo": "7137.png",
+        "venue_id": 959
+    },
+    {
+        "id": 7145,
+        "name": "Tochigi City",
+        "code": null,
+        "country": "Japan",
+        "founded": null,
+        "national": false,
+        "logo": "7145.png",
+        "venue_id": 11585
+    },
+    {
+        "id": 7149,
+        "name": "Urayasu",
+        "code": null,
+        "country": "Japan",
+        "founded": null,
+        "national": false,
+        "logo": "7149.svg",
+        "venue_id": 20715
+    },
+    {
+        "id": 7150,
+        "name": "Veertien Mie",
+        "code": null,
+        "country": "Japan",
+        "founded": 2012,
+        "national": false,
+        "logo": "7150.png",
+        "venue_id": 5197
+    },
+    {
+        "id": 7153,
+        "name": "Yamanashi Gakuin",
+        "code": null,
+        "country": "Japan",
+        "founded": null,
+        "national": false,
+        "logo": "7153.svg",
+        "venue_id": 724720809643
+    },
+    {
+        "id": 10075,
+        "name": "Imabari",
+        "code": null,
+        "country": "Japan",
+        "founded": 1976,
+        "national": false,
+        "logo": "10075.png",
+        "venue_id": 19677
+    },
+    {
+        "id": 10407,
+        "name": "Sony Sendai",
+        "code": null,
+        "country": "Japan",
+        "founded": 1967,
+        "national": false,
+        "logo": "10407.png",
+        "venue_id": 7202
+    },
+    {
+        "id": 10409,
+        "name": "Tegevajaro Miyazaki",
+        "code": null,
+        "country": "Japan",
+        "founded": 1965,
+        "national": false,
+        "logo": "10409.png",
+        "venue_id": 20519
+    },
+    {
+        "id": 10410,
+        "name": "Tokyo Musashino City",
+        "code": null,
+        "country": "Japan",
+        "founded": 1939,
+        "national": false,
+        "logo": "10410.png",
+        "venue_id": 7204
+    },
+    {
+        "id": 11398,
+        "name": "Chukyo University",
+        "code": null,
+        "country": "Japan",
+        "founded": null,
+        "national": false,
+        "logo": "11398.png",
+        "venue_id": 590469570004
+    },
+    {
+        "id": 11403,
+        "name": "Mizushima",
+        "code": null,
+        "country": "Japan",
+        "founded": null,
+        "national": false,
+        "logo": "11403.png",
+        "venue_id": 11586
+    },
+    {
+        "id": 11410,
+        "name": "Tokai University Kumamot",
+        "code": null,
+        "country": "Japan",
+        "founded": null,
+        "national": false,
+        "logo": "11410.png",
+        "venue_id": 798238642605
+    },
+    {
+        "id": 11414,
+        "name": "Biwako Seikei College",
+        "code": null,
+        "country": "Japan",
+        "founded": null,
+        "national": false,
+        "logo": "11414.svg",
+        "venue_id": 333842030770
+    },
+    {
+        "id": 11423,
+        "name": "Tonan Maebashi",
+        "code": null,
+        "country": "Japan",
+        "founded": null,
+        "national": false,
+        "logo": "11423.png",
+        "venue_id": 203177825037
+    },
+    {
+        "id": 11424,
+        "name": "Tsukuba University",
+        "code": null,
+        "country": "Japan",
+        "founded": null,
+        "national": false,
+        "logo": "11424.png",
+        "venue_id": 20716
+    },
+    {
+        "id": 11429,
+        "name": "Kansai University",
+        "code": null,
+        "country": "Japan",
+        "founded": null,
+        "national": false,
+        "logo": "11429.png",
+        "venue_id": 117935138225
+    },
+    {
+        "id": 11431,
+        "name": "Kyoto Sangyo University",
+        "code": null,
+        "country": "Japan",
+        "founded": null,
+        "national": false,
+        "logo": "11431.png",
+        "venue_id": 465216435866
+    },
+    {
+        "id": 11446,
+        "name": "Japan Soccer College",
+        "code": null,
+        "country": "Japan",
+        "founded": null,
+        "national": false,
+        "logo": "11446.png",
+        "venue_id": 7570
+    },
+    {
+        "id": 15213,
+        "name": "Baleine Shimonoseki",
+        "code": null,
+        "country": "Japan",
+        "founded": null,
+        "national": false,
+        "logo": "15213.png",
+        "venue_id": 11587
+    },
+    {
+        "id": 15215,
+        "name": "Fukuyama City",
+        "code": null,
+        "country": "Japan",
+        "founded": null,
+        "national": false,
+        "logo": "15215.png",
+        "venue_id": 63309879655
+    },
+    {
+        "id": 15216,
+        "name": "Oyama",
+        "code": null,
+        "country": "Japan",
+        "founded": null,
+        "national": false,
+        "logo": "15216.svg",
+        "venue_id": 547368035789
+    },
+    {
+        "id": 15217,
+        "name": "Saruta Kogyo",
+        "code": null,
+        "country": "Japan",
+        "founded": null,
+        "national": false,
+        "logo": "15217.png",
+        "venue_id": 99457964052
+    },
+    {
+        "id": 16692,
+        "name": "Hokkaido Tokachi",
+        "code": null,
+        "country": "Japan",
+        "founded": 1995,
+        "national": false,
+        "logo": "16692.png",
+        "venue_id": 20717
+    },
+    {
+        "id": 16693,
+        "name": "Kawasoe Club",
+        "code": null,
+        "country": "Japan",
+        "founded": null,
+        "national": false,
+        "logo": "16693.png",
+        "venue_id": 20718
+    },
+    {
+        "id": 21344,
+        "name": "Beluga Rosso Iwami",
+        "code": null,
+        "country": "Japan",
+        "founded": null,
+        "national": false,
+        "logo": "21344.png",
+        "venue_id": 20719
+    },
+    {
+        "id": 23662,
+        "name": "J-Lease FC",
+        "code": null,
+        "country": "Japan",
+        "founded": null,
+        "national": false,
+        "logo": "23662.png",
+        "venue_id": 20720
+    },
+    {
+        "id": 23663,
+        "name": "Konan University",
+        "code": null,
+        "country": "Japan",
+        "founded": null,
+        "national": false,
+        "logo": "23663.svg",
+        "venue_id": 983470577735
+    },
+    {
+        "id": 287,
+        "name": "Urawa",
+        "code": "URA",
+        "country": "Japan",
+        "founded": 1950,
+        "national": false,
+        "logo": "287.png",
+        "venue_id": 980
+    },
+    {
+        "id": 304,
+        "name": "Matsumoto Yamaga",
+        "code": "MAT",
+        "country": "Japan",
+        "founded": 1965,
+        "national": false,
+        "logo": "304.png",
+        "venue_id": 969
+    },
+    {
+        "id": 2235,
+        "name": "FC Ryukyu",
+        "code": null,
+        "country": "Japan",
+        "founded": 2003,
+        "national": false,
+        "logo": "2235.png",
+        "venue_id": 959
+    },
+    {
+        "id": 4327,
+        "name": "YSCC",
+        "code": null,
+        "country": "Japan",
+        "founded": 1986,
+        "national": false,
+        "logo": "4327.png",
+        "venue_id": 11579
+    },
+    {
+        "id": 7138,
+        "name": "Osaka",
+        "code": null,
+        "country": "Japan",
+        "founded": 1996,
+        "national": false,
+        "logo": "7138.png",
+        "venue_id": 20561
+    },
+    {
+        "id": 7117,
+        "name": "Biwako Shiga",
+        "code": null,
+        "country": "Japan",
+        "founded": 2005,
+        "national": false,
+        "logo": "7117.png",
+        "venue_id": 5182
+    },
+    {
+        "id": 7124,
+        "name": "Honda Lock",
+        "code": null,
+        "country": "Japan",
+        "founded": 1964,
+        "national": false,
+        "logo": "7124.png",
+        "venue_id": 11581
+    },
+    {
+        "id": 7151,
+        "name": "Verspah Oita",
+        "code": null,
+        "country": "Japan",
+        "founded": 2003,
+        "national": false,
+        "logo": "7151.png",
+        "venue_id": 5198
+    },
+    {
+        "id": 10405,
+        "name": "Maruyasu Okazaki",
+        "code": null,
+        "country": "Japan",
+        "founded": 1968,
+        "national": false,
+        "logo": "10405.png",
+        "venue_id": 20765
+    },
+    {
+        "id": 10406,
+        "name": "Reinmeer Aomori",
+        "code": null,
+        "country": "Japan",
+        "founded": 1995,
+        "national": false,
+        "logo": "10406.png",
+        "venue_id": 21784
+    },
+    {
+        "id": 10408,
+        "name": "Suzuka Unlimited",
+        "code": null,
+        "country": "Japan",
+        "founded": null,
+        "national": false,
+        "logo": "10408.png",
+        "venue_id": 7203
+    },
+    {
+        "id": 15222,
+        "name": "TIAMO Hirakata",
+        "code": null,
+        "country": "Japan",
+        "founded": 2004,
+        "national": false,
+        "logo": "15222.svg",
+        "venue_id": 10905
+    },
+    {
+        "id": 18378,
+        "name": "Criacao Shinjuku",
+        "code": null,
+        "country": "Japan",
+        "founded": null,
+        "national": false,
+        "logo": "18378.png",
+        "venue_id": 19679
+    }
+]

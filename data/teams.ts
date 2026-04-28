@@ -77,3 +77,4 @@ export { default as ireland } from './ireland-teams.json';
 export { default as italy } from './italy-teams.json';
 export { default as ivoryCoast } from './ivory-coast-teams.json';
 export { default as jamaica } from './jamaica-teams.json';
+export { default as japan } from './japan-teams.json';

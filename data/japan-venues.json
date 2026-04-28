@@ -1,0 +1,778 @@
+[
+  {
+    "id": 21807,
+    "name": "Daiwa House Premist Dome",
+    "city": "Sapporo",
+    "capacity": 53845,
+    "latitude": 43.01513509999999,
+    "longitude": 141.4097379
+  },
+  {
+    "id": 963,
+    "name": "Yamaha Stadium",
+    "city": "Iwata",
+    "capacity": 15165,
+    "latitude": 34.7252248,
+    "longitude": 137.875152
+  },
+  {
+    "id": 965,
+    "name": "SANKYO FRONTIER Kashiwa Stadium",
+    "city": "Kashiwa",
+    "capacity": 15900,
+    "latitude": 35.8488649,
+    "longitude": 139.9754604
+  },
+  {
+    "id": 20557,
+    "name": "Edion Peace Wing Hiroshima",
+    "city": "Hiroshima",
+    "capacity": 28520,
+    "latitude": 34.4016028,
+    "longitude": 132.4538497
+  },
+  {
+    "id": 976,
+    "name": "IAI Stadium Nihondaira",
+    "city": "Shizuoka",
+    "capacity": 20339,
+    "latitude": 34.984323,
+    "longitude": 138.4813002
+  },
+  {
+    "id": 21809,
+    "name": "Lemon Gas Stadium Hiratsuka",
+    "city": "Hiratsuka",
+    "capacity": 15380,
+    "latitude": 35.343579,
+    "longitude": 139.3411793
+  },
+  {
+    "id": 21810,
+    "name": "PEACE STADIUM Connected by SoftBank",
+    "city": "Nagasaki",
+    "capacity": 20027,
+    "latitude": 32.7590485,
+    "longitude": 129.8649951
+  },
+  {
+    "id": 982,
+    "name": "Yurtec Stadium Sendai",
+    "city": "Sendai",
+    "capacity": 19694,
+    "latitude": 38.3191541,
+    "longitude": 140.8818711
+  },
+  {
+    "id": 972,
+    "name": "Toyota Stadium",
+    "city": "Toyota",
+    "capacity": 45000,
+    "latitude": 35.084669385102856,
+    "longitude": 137.17089579807634
+  },
+  {
+    "id": 984,
+    "name": "NOEVIR Stadium Kobe",
+    "city": "Kobe",
+    "capacity": 30132,
+    "latitude": 34.6568109,
+    "longitude": 135.1696229
+  },
+  {
+    "id": 964,
+    "name": "Kashima Soccer Stadium",
+    "city": "Kashima",
+    "capacity": 40728,
+    "latitude": 35.9920169,
+    "longitude": 140.6401679
+  },
+  {
+    "id": 11583,
+    "name": "Yodoko Sakura Stadium",
+    "city": "Osaka",
+    "capacity": 24481,
+    "latitude": 34.6153403,
+    "longitude": 135.5164604
+  },
+  {
+    "id": 960,
+    "name": "Ajinomoto Stadium",
+    "city": "Chōfu",
+    "capacity": 48955,
+    "latitude": 35.664058,
+    "longitude": 139.5271742
+  },
+  {
+    "id": 18623,
+    "name": "Panasonic Stadium Suita",
+    "city": "Suita",
+    "capacity": 40322,
+    "latitude": 34.8026857,
+    "longitude": 135.5381712
+  },
+  {
+    "id": 20516,
+    "name": "Uvance Todoroki Stadium by Fujitsu",
+    "city": "Kawasaki",
+    "capacity": 27495,
+    "latitude": 35.5858076,
+    "longitude": 139.6527219
+  },
+  {
+    "id": 974,
+    "name": "Ekimae Real Estate Stadium",
+    "city": "Tosu",
+    "capacity": 24130,
+    "latitude": 33.3716736,
+    "longitude": 130.5202484
+  },
+  {
+    "id": 985,
+    "name": "Nissan Stadium",
+    "city": "Yokohama",
+    "capacity": 72327,
+    "latitude": 35.5099771,
+    "longitude": 139.6064006
+  },
+  {
+    "id": 958,
+    "name": "Nagaragawa Stadium",
+    "city": "Gifu",
+    "capacity": 31000,
+    "latitude": 35.4413104,
+    "longitude": 136.7660952
+  },
+  {
+    "id": 20498,
+    "name": "Resonac Dome Oita",
+    "city": "Oita",
+    "capacity": 43254,
+    "latitude": 33.2007861,
+    "longitude": 131.6575
+  },
+  {
+    "id": 979,
+    "name": "Pocari Sweat Stadium",
+    "city": "Naruto",
+    "capacity": 17924,
+    "latitude": 34.1682889,
+    "longitude": 134.6178462
+  },
+  {
+    "id": 987,
+    "name": "Ishikawa Seibu Stadium",
+    "city": "Kanazawa",
+    "capacity": 20261,
+    "latitude": 36.5758093,
+    "longitude": 136.605252
+  },
+  {
+    "id": 962,
+    "name": "Fukuda Denshi Arena",
+    "city": "Chiba",
+    "capacity": 19470,
+    "latitude": 35.5774782,
+    "longitude": 140.1228518
+  },
+  {
+    "id": 967,
+    "name": "Sanga Stadium by Kyocera",
+    "city": "Kameoka",
+    "capacity": 21600,
+    "latitude": 35.017212,
+    "longitude": 135.5848393
+  },
+  {
+    "id": 968,
+    "name": "Machida Gion Stadium",
+    "city": "Tokyo",
+    "capacity": 15489,
+    "latitude": 35.5925675,
+    "longitude": 139.4389044
+  },
+  {
+    "id": 970,
+    "name": "K’s Denki Stadium",
+    "city": "Mito",
+    "capacity": 12000,
+    "latitude": 36.3452984,
+    "longitude": 140.41244
+  },
+  {
+    "id": 11579,
+    "name": "NHK Spring Mitsuzawa Football Stadium",
+    "city": "Yokohama",
+    "capacity": 15440,
+    "latitude": 35.4691549,
+    "longitude": 139.6038187
+  },
+  {
+    "id": 19675,
+    "name": "JIT Recycle Ink Stadium",
+    "city": "Kofu",
+    "capacity": 15853,
+    "latitude": 35.6223624,
+    "longitude": 138.5897448
+  },
+  {
+    "id": 1697,
+    "name": "Ishin Me-Life Stadium",
+    "city": "Yamaguchi",
+    "capacity": 15115,
+    "latitude": 34.1544514,
+    "longitude": 131.4375008
+  },
+  {
+    "id": 21808,
+    "name": "JFE Harenokuni Stadium",
+    "city": "Okayama",
+    "capacity": 20000,
+    "latitude": 34.6806077,
+    "longitude": 133.9186772
+  },
+  {
+    "id": 952,
+    "name": "Denka Big Swan Stadium",
+    "city": "Niigata",
+    "capacity": 41684,
+    "latitude": 37.8825487,
+    "longitude": 139.0591642
+  },
+  {
+    "id": 971,
+    "name": "ND Soft Stadium",
+    "city": "Tendo",
+    "capacity": 20772,
+    "latitude": 38.3355785,
+    "longitude": 140.3784218
+  },
+  {
+    "id": 19674,
+    "name": "NACK5 Stadium",
+    "city": "Saitama",
+    "capacity": 15491,
+    "latitude": 35.9162362,
+    "longitude": 139.6335191
+  },
+  {
+    "id": 1934,
+    "name": "Egao Kenko Stadium",
+    "city": "Kumamoto",
+    "capacity": 30504,
+    "latitude": 32.8368628,
+    "longitude": 130.8001371
+  },
+  {
+    "id": 20714,
+    "name": "Kanseki Stadium",
+    "city": "Utsunomiya",
+    "capacity": 25244,
+    "latitude": 36.5149932,
+    "longitude": 139.8576676
+  },
+  {
+    "id": 20417,
+    "name": "Best Denki Stadium",
+    "city": "Fukuoka",
+    "capacity": 22331,
+    "latitude": 33.5858921,
+    "longitude": 130.4607906
+  },
+  {
+    "id": 1935,
+    "name": "Pikara Stadium",
+    "city": "Marugame",
+    "capacity": 30099,
+    "latitude": 34.26177,
+    "longitude": 133.786025
+  },
+  {
+    "id": 956,
+    "name": "Ningineer Stadium",
+    "city": "Matsuyama",
+    "capacity": 20919,
+    "latitude": 33.7682323,
+    "longitude": 132.7975966
+  },
+  {
+    "id": 2774,
+    "name": "Shoda Shoyu Stadium",
+    "city": "Maebashi",
+    "capacity": 15190,
+    "latitude": 36.4115058,
+    "longitude": 139.0533258
+  },
+  {
+    "id": 2775,
+    "name": "Mikuni World Stadium",
+    "city": "Kitakyushu",
+    "capacity": 15300,
+    "latitude": 33.891104,
+    "longitude": 130.888718
+  },
+  {
+    "id": 11575,
+    "name": "Shiranami Stadium",
+    "city": "Kagoshima",
+    "capacity": 19934,
+    "latitude": 31.5648296,
+    "longitude": 130.5597948
+  },
+  {
+    "id": 3298,
+    "name": "Shizuoka Ashitaka Athletic Stadium",
+    "city": "Numazu",
+    "capacity": 10000,
+    "latitude": 35.1558927,
+    "longitude": 138.8536669
+  },
+  {
+    "id": 11576,
+    "name": "Soyu Stadium",
+    "city": "Akita",
+    "capacity": 20125,
+    "latitude": 39.72154039999999,
+    "longitude": 140.0958049
+  },
+  {
+    "id": 3300,
+    "name": "Fujieda City General Sports Park",
+    "city": "Fujieda",
+    "capacity": 13000,
+    "latitude": 34.8802692,
+    "longitude": 138.233052
+  },
+  {
+    "id": 3301,
+    "name": "TOHO Stadium",
+    "city": "Fukushima",
+    "capacity": 21000,
+    "latitude": 37.723236,
+    "longitude": 140.3613703
+  },
+  {
+    "id": 11577,
+    "name": "Axis Bird Stadium",
+    "city": "Tottori",
+    "capacity": 16033,
+    "latitude": 35.4582917,
+    "longitude": 134.2212868
+  },
+  {
+    "id": 3303,
+    "name": "Iwagin Stadium",
+    "city": "Morioka",
+    "capacity": 4988,
+    "latitude": 39.6477989,
+    "longitude": 141.1378371
+  },
+  {
+    "id": 3304,
+    "name": "Toyama Athletic Recreation Park Stadium",
+    "city": "Toyama",
+    "capacity": 28494,
+    "latitude": 36.6249995,
+    "longitude": 137.1956936
+  },
+  {
+    "id": 3305,
+    "name": "Minami Nagano Sports Park Stadium",
+    "city": "Nagano",
+    "capacity": 15491,
+    "latitude": 36.5799656,
+    "longitude": 138.1699234
+  },
+  {
+    "id": 3306,
+    "name": "Sagamihara Gion Stadium",
+    "city": "Sagamihara",
+    "capacity": 15300,
+    "latitude": 35.5269814,
+    "longitude": 139.3864288
+  },
+  {
+    "id": 11578,
+    "name": "Prifoods Stadium",
+    "city": "Hachinohe",
+    "capacity": 5200,
+    "latitude": 40.5903814,
+    "longitude": 141.4570859
+  },
+  {
+    "id": 10904,
+    "name": "Kamitada Stadium",
+    "city": "Kamitonda",
+    "capacity": 3000,
+    "latitude": 33.7159514,
+    "longitude": 135.4251431
+  },
+  {
+    "id": 10897,
+    "name": "Tokushimashi Field",
+    "city": "Tokushima",
+    "capacity": 5000,
+    "latitude": 34.0752393,
+    "longitude": 134.554436
+  },
+  {
+    "id": 11580,
+    "name": "Techno-Port Fukui Stadium",
+    "city": "Sakai",
+    "capacity": 21053,
+    "latitude": 36.18782660000001,
+    "longitude": 136.13185
+  },
+  {
+    "id": 5185,
+    "name": "Honda Miyakoda Soccer Stadium",
+    "city": "Hamamatsu",
+    "capacity": 4000,
+    "latitude": 34.8106245,
+    "longitude": 137.7223546
+  },
+  {
+    "id": 10898,
+    "name": "Kanoya University of Physical Education Ground",
+    "city": "Kanoya",
+    "capacity": 1000,
+    "latitude": 31.3918633,
+    "longitude": 130.7905724
+  },
+  {
+    "id": 20560,
+    "name": "Hawaiians Stadium Iwaki",
+    "city": "Iwaki",
+    "capacity": 5600,
+    "latitude": 37.0172973,
+    "longitude": 140.8643738
+  },
+  {
+    "id": 5189,
+    "name": "Kochi Haruno Athletic Stadium",
+    "city": "Kochi",
+    "capacity": 25000,
+    "latitude": 33.5100774116139,
+    "longitude": 133.5013662268853
+  },
+  {
+    "id": 9413538505,
+    "name": "Meiji University Ikuta Campus Soccer Field",
+    "city": "Kawasaki",
+    "capacity": null,
+    "latitude": 35.6125315,
+    "longitude": 139.5477937
+  },
+  {
+    "id": 5191,
+    "name": "Konoike Athletic Stadium",
+    "city": "Nara",
+    "capacity": 30600,
+    "latitude": 34.6973884,
+    "longitude": 135.8283727
+  },
+  {
+    "id": 959,
+    "name": "Tapic Kenso Hiyagon Stadium",
+    "city": "Okinawa",
+    "capacity": 10189,
+    "latitude": 26.3085155,
+    "longitude": 127.8211965
+  },
+  {
+    "id": 11585,
+    "name": "City Football Station",
+    "city": "Tochigi",
+    "capacity": 1000,
+    "latitude": 36.3377519,
+    "longitude": 139.6459742
+  },
+  {
+    "id": 20715,
+    "name": "Narashino Akitsu Soccer Stadium",
+    "city": "Akitsu",
+    "capacity": 5000,
+    "latitude": 35.669696,
+    "longitude": 140.0124136
+  },
+  {
+    "id": 5197,
+    "name": "Inabe City Agricultural Park Athletics Stadium",
+    "city": "Inabe",
+    "capacity": 4000,
+    "latitude": 35.2200753,
+    "longitude": 136.494223
+  },
+  {
+    "id": 724720809643,
+    "name": "Yamanashi Gakuin University Wado Ground",
+    "city": "Kofu",
+    "capacity": null,
+    "latitude": 35.6574557,
+    "longitude": 138.6009382
+  },
+  {
+    "id": 19677,
+    "name": "Imabari Satoyama Stadium",
+    "city": "Imabari",
+    "capacity": 6000,
+    "latitude": 34.0407781,
+    "longitude": 132.9586719
+  },
+  {
+    "id": 7202,
+    "name": "Miyagi Grand Stadium A-Ground",
+    "city": "Rifu",
+    "capacity": 6700,
+    "latitude": 38.3354303,
+    "longitude": 140.9505668
+  },
+  {
+    "id": 20519,
+    "name": "Ichigo Miyazaki Shintomi Soccer Field",
+    "city": "Shintomi",
+    "capacity": 5000,
+    "latitude": 32.0737818,
+    "longitude": 131.4909384
+  },
+  {
+    "id": 7204,
+    "name": "Musashino Municipal Stadium",
+    "city": "Musashino",
+    "capacity": 10466,
+    "latitude": 35.7177036,
+    "longitude": 139.5677607
+  },
+  {
+    "id": 590469570004,
+    "name": "Chukyo University Toyota Campus Soccer Field",
+    "city": "Toyota",
+    "capacity": null,
+    "latitude": 35.1396972,
+    "longitude": 137.1478436
+  },
+  {
+    "id": 11586,
+    "name": "Okayama Prefectural General Ground Auxiliary Athletics Stadium",
+    "city": "Okayama",
+    "capacity": 1000,
+    "latitude": 34.6787224,
+    "longitude": 133.9171824
+  },
+  {
+    "id": 798238642605,
+    "name": "Tokai University Kumamoto Campus Soccer Field",
+    "city": "Kumamoto",
+    "capacity": null,
+    "latitude": 32.8115167,
+    "longitude": 130.7433975
+  },
+  {
+    "id": 333842030770,
+    "name": "Shiga Prefectural Biwako Sports Park Main Stadium",
+    "city": "Otsu",
+    "capacity": 10000,
+    "latitude": 35.010806,
+    "longitude": 135.8667988
+  },
+  {
+    "id": 203177825037,
+    "name": "Maebashi City General Athletic Park Athletics Stadium",
+    "city": "Maebashi",
+    "capacity": 5000,
+    "latitude": 36.3759706,
+    "longitude": 139.1605571
+  },
+  {
+    "id": 20716,
+    "name": "Sekisho Challenge Stadium",
+    "city": "Tsukuba",
+    "capacity": 2000,
+    "latitude": 36.1609375,
+    "longitude": 140.0707816
+  },
+  {
+    "id": 117935138225,
+    "name": "Kansai University Senriyama Campus Soccer Field",
+    "city": "Suita",
+    "capacity": null,
+    "latitude": 34.7732731,
+    "longitude": 135.5107369
+  },
+  {
+    "id": 465216435866,
+    "name": "Kamiyama Sports Field",
+    "city": "Kyoto",
+    "capacity": null,
+    "latitude": 35.0736835,
+    "longitude": 135.7581737
+  },
+  {
+    "id": 7570,
+    "name": "JAPAN Sakkakarejji Stadium",
+    "city": "Niigata",
+    "capacity": 1000,
+    "latitude": 37.8825487,
+    "longitude": 139.0591642
+  },
+  {
+    "id": 11587,
+    "name": "Nogihama Park Natural Grass Ground",
+    "city": "Shimonoseki",
+    "capacity": 1000,
+    "latitude": 34.0428568,
+    "longitude": 131.0272556
+  },
+  {
+    "id": 63309879655,
+    "name": "Fukuyama City Takegaoka Sports Park Athletics Stadium",
+    "city": "Fukuyama",
+    "capacity": 12000,
+    "latitude": 34.4409683,
+    "longitude": 133.3951704
+  },
+  {
+    "id": 547368035789,
+    "name": "Tochigi City General Sports Park Stadium",
+    "city": "Tochigi",
+    "capacity": 5000,
+    "latitude": 36.4007912,
+    "longitude": 139.7254563
+  },
+  {
+    "id": 99457964052,
+    "name": "Soyu Stadium",
+    "city": "Akita",
+    "capacity": 20125,
+    "latitude": 39.72154039999999,
+    "longitude": 140.0958049
+  },
+  {
+    "id": 20717,
+    "name": "Obihiro no Mori Athletic Stadium",
+    "city": "Obihiro",
+    "capacity": 25000,
+    "latitude": 42.8941305,
+    "longitude": 143.1452379
+  },
+  {
+    "id": 20718,
+    "name": "SAGA Sunrise Park Ball Stadium North",
+    "city": "Saga",
+    "capacity": 1000,
+    "latitude": 33.2764654,
+    "longitude": 130.2903135
+  },
+  {
+    "id": 20719,
+    "name": "Shimane Prefectural Soccer Field",
+    "city": "Masuda",
+    "capacity": 4000,
+    "latitude": 34.6859354,
+    "longitude": 131.8576655
+  },
+  {
+    "id": 20720,
+    "name": "Oita Athletic Stadium",
+    "city": "Oita",
+    "capacity": 15943,
+    "latitude": 33.2007861,
+    "longitude": 131.6575
+  },
+  {
+    "id": 983470577735,
+    "name": "Konan University Rokko Island Ground",
+    "city": "Kobe",
+    "capacity": null,
+    "latitude": 34.7295367,
+    "longitude": 135.2686314
+  },
+  {
+    "id": 980,
+    "name": "Saitama Stadium 2002",
+    "city": "Saitama",
+    "capacity": 65000,
+    "latitude": 35.9037296,
+    "longitude": 139.7174074
+  },
+  {
+    "id": 969,
+    "name": "Sunpro Alwin Stadium",
+    "city": "Matsumoto",
+    "capacity": 20336,
+    "latitude": 36.1797099,
+    "longitude": 137.9171514
+  },
+  {
+    "id": 20561,
+    "name": "Hanazono Rugby Stadium",
+    "city": "Higashiosaka",
+    "capacity": 26544,
+    "latitude": 34.6689532,
+    "longitude": 135.626324
+  },
+  {
+    "id": 5182,
+    "name": "Nunobiki Higashiomi Stadium",
+    "city": "Higashiomi",
+    "capacity": 5000,
+    "latitude": 35.0843808,
+    "longitude": 136.1970107
+  },
+  {
+    "id": 11581,
+    "name": "Hinata Miyazaki Prefectural Sports Park Hinata Athletic Stadium",
+    "city": "Miyazaki",
+    "capacity": 20000,
+    "latitude": 31.82481809999999,
+    "longitude": 131.4466061
+  },
+  {
+    "id": 5198,
+    "name": "Oita Sports Park Soccer/Rugby Field A",
+    "city": "Oita",
+    "capacity": 5000,
+    "latitude": 33.1986536,
+    "longitude": 131.6491438
+  },
+  {
+    "id": 20765,
+    "name": "Ryuhoku Stadium",
+    "city": "Okazaki",
+    "capacity": 2500,
+    "latitude": 34.9801797,
+    "longitude": 137.1897716
+  },
+  {
+    "id": 21784,
+    "name": "Kakhiro Group Athletic Stadium",
+    "city": "Aomori",
+    "capacity": 20809,
+    "latitude": 40.8388904,
+    "longitude": 140.8414471
+  },
+  {
+    "id": 7203,
+    "name": "AGF Suzuka Athletic Stadium",
+    "city": "Suzuka",
+    "capacity": 3000,
+    "latitude": 34.857604,
+    "longitude": 136.5692945
+  },
+  {
+    "id": 10905,
+    "name": "Hirakata City Stadium",
+    "city": "Hirakata",
+    "capacity": 3500,
+    "latitude": 34.8188838,
+    "longitude": 135.6840741
+  },
+  {
+    "id": 19679,
+    "name": "Koishikawa Sports Ground",
+    "city": "Tokyo",
+    "capacity": 1000,
+    "latitude": 35.7046623,
+    "longitude": 139.7469617
+  }
+]
