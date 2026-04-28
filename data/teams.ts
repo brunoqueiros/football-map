@@ -69,3 +69,4 @@ export { default as honduras } from './honduras-teams.json';
 export { default as hongKong } from './hong-kong-teams.json';
 export { default as hungary } from './hungary-teams.json';
 export { default as iceland } from './iceland-teams.json';
+export { default as india } from './india-teams.json';

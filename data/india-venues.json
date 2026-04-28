@@ -1,0 +1,634 @@
+[
+  {
+    "id": 20465,
+    "name": "Vivekananda Yuba Bharati Krirangan Stadium",
+    "city": "Kolkata",
+    "capacity": 120000,
+    "latitude": 22.5690538,
+    "longitude": 88.40904429999999
+  },
+  {
+    "id": 2269,
+    "name": "EMS Stadium",
+    "city": "Calicut",
+    "capacity": 53000,
+    "latitude": 11.2564518,
+    "longitude": 75.7848954
+  },
+  {
+    "id": 832,
+    "name": "Jawaharlal Nehru Stadium",
+    "city": "New Delhi",
+    "capacity": 78000,
+    "latitude": 28.5829248,
+    "longitude": 77.2343521
+  },
+  {
+    "id": 2274,
+    "name": "Jawaharlal Nehru Stadium",
+    "city": "Shillong",
+    "capacity": 22000,
+    "latitude": 25.5801,
+    "longitude": 91.8940855
+  },
+  {
+    "id": 2275,
+    "name": "Sree Kanteerava Stadium",
+    "city": "Bangalore",
+    "capacity": 28001,
+    "latitude": 12.9696982,
+    "longitude": 77.5934858
+  },
+  {
+    "id": 2276,
+    "name": "Jawaharlal Nehru Stadium",
+    "city": "Chennai",
+    "capacity": 40000,
+    "latitude": 13.0855653,
+    "longitude": 80.2717282
+  },
+  {
+    "id": 20358,
+    "name": "Pandit Jawaharlal Nehru Stadium",
+    "city": "Margao",
+    "capacity": 27300,
+    "latitude": 15.2894872,
+    "longitude": 73.96238389999999
+  },
+  {
+    "id": 2277,
+    "name": "JRD Tata Sports Complex",
+    "city": "Jamshedpur",
+    "capacity": 40000,
+    "latitude": 22.806101,
+    "longitude": 86.1930647
+  },
+  {
+    "id": 2278,
+    "name": "Jawaharlal Nehru International Stadium",
+    "city": "Kochi",
+    "capacity": 75000,
+    "latitude": 9.997290699999999,
+    "longitude": 76.3008729
+  },
+  {
+    "id": 2279,
+    "name": "Mumbai Football Arena",
+    "city": "Mumbai",
+    "capacity": 20000,
+    "latitude": 19.1289872,
+    "longitude": 72.8354683
+  },
+  {
+    "id": 2280,
+    "name": "Indira Gandhi Athletic Stadium",
+    "city": "Guwahati",
+    "capacity": 30000,
+    "latitude": 26.1157454,
+    "longitude": 91.76025059999999
+  },
+  {
+    "id": 5199,
+    "name": "Kalinga Stadium",
+    "city": "Bhubaneswar",
+    "capacity": 15000,
+    "latitude": 20.2879137,
+    "longitude": 85.8238539
+  },
+  {
+    "id": 5621,
+    "name": "GMC Balayogi Stadium",
+    "city": "Hyderabad",
+    "capacity": 30000,
+    "latitude": 17.4480337,
+    "longitude": 78.34502599999999
+  },
+  {
+    "id": 20366,
+    "name": "Rajasthan University Stadium",
+    "city": "Jaipur",
+    "capacity": 6000,
+    "latitude": 26.8874692,
+    "longitude": 75.82348669999999
+  },
+  {
+    "id": 20318,
+    "name": "DYSRR International Cricket Stadium",
+    "city": "Visakhapatnam",
+    "capacity": 27500,
+    "latitude": 17.7974686,
+    "longitude": 83.3522546
+  },
+  {
+    "id": 47121189774,
+    "name": "Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium",
+    "city": "Lucknow",
+    "capacity": 50000,
+    "latitude": 26.8112598,
+    "longitude": 81.0168569
+  },
+  {
+    "id": 2271,
+    "name": "Kalyani Stadium",
+    "city": "Kalyani",
+    "capacity": 20000,
+    "latitude": 22.9747183,
+    "longitude": 88.44870069999999
+  },
+  {
+    "id": 21813,
+    "name": "Kishore Bharati Krirangan",
+    "city": "Kolkata",
+    "capacity": 12000,
+    "latitude": 22.4942723,
+    "longitude": 88.39460369999999
+  },
+  {
+    "id": 181614071087,
+    "name": "East Bengal Ground",
+    "city": "Kolkata",
+    "capacity": 23000,
+    "latitude": 22.5598128,
+    "longitude": 88.3429788
+  },
+  {
+    "id": 335167269786,
+    "name": "Gitanjali Stadium",
+    "city": "Kolkata",
+    "capacity": null,
+    "latitude": 22.5144717,
+    "longitude": 88.3941722
+  },
+  {
+    "id": 110115095456,
+    "name": "Eden Gardens",
+    "city": "Calcutá",
+    "capacity": null,
+    "latitude": 22.5645788,
+    "longitude": 88.34331480000002
+  },
+  {
+    "id": 21736,
+    "name": "Vivekananda Yuba Bharati Krirangan",
+    "city": "Kolkata",
+    "capacity": 68000,
+    "latitude": 22.5690538,
+    "longitude": 88.40904429999999
+  },
+  {
+    "id": 25915536403,
+    "name": "Vivekananda Yuba Bharati Krirangan (Salt Lake Stadium)",
+    "city": "Kolkata",
+    "capacity": 68000,
+    "latitude": 22.5690538,
+    "longitude": 88.40904429999999
+  },
+  {
+    "id": 166263935561,
+    "name": "Rabindra Sarobar Stadium",
+    "city": "Kolkata",
+    "capacity": 20000,
+    "latitude": 22.5119409,
+    "longitude": 88.35222279999999
+  },
+  {
+    "id": 921156007469,
+    "name": "Kidderpore Sporting Club Ground",
+    "city": "Kolkata",
+    "capacity": null,
+    "latitude": 22.5616486,
+    "longitude": 88.3502752
+  },
+  {
+    "id": 689373216723,
+    "name": "Dumurjala New Football Stadium",
+    "city": "Howrah",
+    "capacity": null,
+    "latitude": 22.5789554,
+    "longitude": 88.3061963
+  },
+  {
+    "id": 122550393583,
+    "name": "Barasat Stadium",
+    "city": "Kolkata",
+    "capacity": 22000,
+    "latitude": 22.7176661,
+    "longitude": 88.47863559999999
+  },
+  {
+    "id": 545561123768,
+    "name": "Rabindra Sarobar Stadium",
+    "city": "Kolkata",
+    "capacity": 20000,
+    "latitude": 22.5119409,
+    "longitude": 88.35222279999999
+  },
+  {
+    "id": 19812,
+    "name": "Rabindra Sarobar Stadium",
+    "city": "Kolkata",
+    "capacity": 26000,
+    "latitude": 22.5119409,
+    "longitude": 88.35222279999999
+  },
+  {
+    "id": 359496331173,
+    "name": "Kalyani Stadium",
+    "city": "Kolkata",
+    "capacity": null,
+    "latitude": 22.9747183,
+    "longitude": 88.44870069999999
+  },
+  {
+    "id": 472410377686,
+    "name": "Kerala Police Stadium",
+    "city": "Thiruvananthapuram",
+    "capacity": null,
+    "latitude": 8.5048058,
+    "longitude": 76.95062399999999
+  },
+  {
+    "id": 281248373576,
+    "name": "Aryan Ground",
+    "city": "Kolkata",
+    "capacity": null,
+    "latitude": 22.5600658,
+    "longitude": 88.3434042
+  },
+  {
+    "id": 228894244909,
+    "name": "Garrison Ground",
+    "city": "Jabalpur",
+    "capacity": null,
+    "latitude": 23.1552338,
+    "longitude": 79.9503974
+  },
+  {
+    "id": 341069230783,
+    "name": "Police Athletic Club Ground",
+    "city": "Kolkata",
+    "capacity": null,
+    "latitude": 22.5609625,
+    "longitude": 88.3435781
+  },
+  {
+    "id": 92336723194,
+    "name": "Rabindra Sarobar Stadium",
+    "city": "Kolkata",
+    "capacity": 20000,
+    "latitude": 22.5119409,
+    "longitude": 88.35222279999999
+  },
+  {
+    "id": 342940625326,
+    "name": "Suruchi Sangha",
+    "city": "Kolkata",
+    "capacity": null,
+    "latitude": 22.5089855,
+    "longitude": 88.3339522
+  },
+  {
+    "id": 2265,
+    "name": "Rajiv Gandhi Stadium",
+    "city": "Aizawl",
+    "capacity": 20000,
+    "latitude": 23.7139304,
+    "longitude": 92.7355709
+  },
+  {
+    "id": 2273,
+    "name": "TRC Polo Synthetic Turf Ground",
+    "city": "Srinagar",
+    "capacity": 15000,
+    "latitude": 34.0742033,
+    "longitude": 74.8275295
+  },
+  {
+    "id": 19587,
+    "name": "Minerva Academy Ground",
+    "city": "Sahibzada Ajit Singh Nagar",
+    "capacity": 1000,
+    "latitude": 30.7394301,
+    "longitude": 76.68648519999999
+  },
+  {
+    "id": 859279260436,
+    "name": "Namdhari Stadium",
+    "city": "Bhaini Sahib",
+    "capacity": 1000,
+    "latitude": 30.8710625,
+    "longitude": 76.0751875
+  },
+  {
+    "id": 316869097979,
+    "name": "South United Football Arena",
+    "city": "Bengaluru",
+    "capacity": 2000,
+    "latitude": 12.981001,
+    "longitude": 77.61444039999999
+  },
+  {
+    "id": 20463,
+    "name": "Chhatrasal Stadium",
+    "city": "New Delhi",
+    "capacity": 16000,
+    "latitude": 28.7038052,
+    "longitude": 77.1873647
+  },
+  {
+    "id": 11144,
+    "name": "Bangalore Football Stadium",
+    "city": "Bangalore",
+    "capacity": 15000,
+    "latitude": 12.9687469,
+    "longitude": 77.61091139999999
+  },
+  {
+    "id": 20464,
+    "name": "Rajarshi Shahu Football Stadium",
+    "city": "Kolhapur",
+    "capacity": 24000,
+    "latitude": 16.6931455,
+    "longitude": 74.23077169999999
+  },
+  {
+    "id": 229919154589,
+    "name": "Cooperage Football Ground",
+    "city": "Mumbai",
+    "capacity": 5000,
+    "latitude": 18.9243733,
+    "longitude": 72.8287041
+  },
+  {
+    "id": 2270,
+    "name": "Tilak Maidan Stadium",
+    "city": "Vasco da Gama",
+    "capacity": 12000,
+    "latitude": 15.4007268,
+    "longitude": 73.8152556
+  },
+  {
+    "id": 470626822497,
+    "name": "Indira Gandhi Municipal Stadium",
+    "city": "Vijayawada",
+    "capacity": 30000,
+    "latitude": 16.5052599,
+    "longitude": 80.6378945
+  },
+  {
+    "id": 785966457638,
+    "name": "Rajiv Gandhi Stadium",
+    "city": "Naharlagun",
+    "capacity": 15000,
+    "latitude": 27.1050228,
+    "longitude": 93.6924126
+  },
+  {
+    "id": 591424758453,
+    "name": "Indira Gandhi Athletic Stadium",
+    "city": "Guwahati",
+    "capacity": 24600,
+    "latitude": 26.1157454,
+    "longitude": 91.76025059999999
+  },
+  {
+    "id": 399497716313,
+    "name": "Patliputra Sports Complex",
+    "city": "Patna",
+    "capacity": 20000,
+    "latitude": 25.5947433,
+    "longitude": 85.15423849999999
+  },
+  {
+    "id": 474031885846,
+    "name": "Football Ground, Sector 42",
+    "city": "Chandigarh",
+    "capacity": null,
+    "latitude": 30.727414,
+    "longitude": 76.7471236
+  },
+  {
+    "id": 68346578506,
+    "name": "Vivekanand Sport Ground",
+    "city": "Narayanpur",
+    "capacity": null,
+    "latitude": 19.7139199,
+    "longitude": 81.22617079999999
+  },
+  {
+    "id": 262690753811,
+    "name": "Ambedkar Stadium",
+    "city": "New Delhi",
+    "capacity": 20000,
+    "latitude": 28.639035,
+    "longitude": 77.24226589999999
+  },
+  {
+    "id": 423899550426,
+    "name": "EKA Arena by TransStadia",
+    "city": "Ahmedabad",
+    "capacity": 20000,
+    "latitude": 23.0106976,
+    "longitude": 72.5993247
+  },
+  {
+    "id": 8923705682,
+    "name": "Tau Devi Lal Stadium",
+    "city": "Gurugram",
+    "capacity": 8000,
+    "latitude": 28.4429499,
+    "longitude": 77.0358187
+  },
+  {
+    "id": 669707595486,
+    "name": "Indira Gandhi Sports Complex",
+    "city": "Una",
+    "capacity": null,
+    "latitude": 31.4652266,
+    "longitude": 76.2807339
+  },
+  {
+    "id": 593374137252,
+    "name": "TRC Turf Ground",
+    "city": "Srinagar",
+    "capacity": 15000,
+    "latitude": 34.0742033,
+    "longitude": 74.8275295
+  },
+  {
+    "id": 265175134147,
+    "name": "JRD Tata Sports Complex",
+    "city": "Jamshedpur",
+    "capacity": 24424,
+    "latitude": 22.806101,
+    "longitude": 86.1930647
+  },
+  {
+    "id": 951181400454,
+    "name": "Sree Kanteerava Stadium",
+    "city": "Bengaluru",
+    "capacity": 24000,
+    "latitude": 12.9696982,
+    "longitude": 77.5934858
+  },
+  {
+    "id": 548893442947,
+    "name": "Jawaharlal Nehru Stadium",
+    "city": "Kochi",
+    "capacity": 41000,
+    "latitude": 9.997290699999999,
+    "longitude": 76.3008729
+  },
+  {
+    "id": 418561583470,
+    "name": "Stadium",
+    "city": "Kavaratti",
+    "capacity": null,
+    "latitude": 10.5570869,
+    "longitude": 72.63290479999999
+  },
+  {
+    "id": 172212071916,
+    "name": "Tatya Tope Nagar Stadium",
+    "city": "Bhopal",
+    "capacity": 20000,
+    "latitude": 23.2314342,
+    "longitude": 77.399722
+  },
+  {
+    "id": 842965486738,
+    "name": "Khuman Lampak Main Stadium",
+    "city": "Imphal",
+    "capacity": 30000,
+    "latitude": 24.8229542,
+    "longitude": 93.95252570000001
+  },
+  {
+    "id": 49998490347,
+    "name": "Jawaharlal Nehru Stadium",
+    "city": "Shillong",
+    "capacity": 30000,
+    "latitude": 25.5801,
+    "longitude": 91.8940855
+  },
+  {
+    "id": 602412953829,
+    "name": "Rajiv Gandhi Stadium",
+    "city": "Aizawl",
+    "capacity": 20000,
+    "latitude": 23.7139304,
+    "longitude": 92.7355709
+  },
+  {
+    "id": 158206620297,
+    "name": "Indira Gandhi Stadium",
+    "city": "Kohima",
+    "capacity": 20000,
+    "latitude": 25.7057993,
+    "longitude": 94.09179639999999
+  },
+  {
+    "id": 583351509437,
+    "name": "Anna Stadium",
+    "city": "Puducherry",
+    "capacity": null,
+    "latitude": 11.754132,
+    "longitude": 79.7663199
+  },
+  {
+    "id": 7102,
+    "name": "Tau Devi Lal Football Stadium",
+    "city": "Panchkula",
+    "capacity": 3000,
+    "latitude": 30.6858395,
+    "longitude": 76.8668797
+  },
+  {
+    "id": 5200,
+    "name": "Umaid Singh Stadium",
+    "city": "Jodhpur",
+    "capacity": 6000,
+    "latitude": 26.290661,
+    "longitude": 73.02982779999999
+  },
+  {
+    "id": 54449351455,
+    "name": "Karnail Singh Stadium",
+    "city": "New Delhi",
+    "capacity": null,
+    "latitude": 28.6381558,
+    "longitude": 77.2165182
+  },
+  {
+    "id": 869458792908,
+    "name": "Paljor Stadium",
+    "city": "Gangtok",
+    "capacity": 30000,
+    "latitude": 27.3341645,
+    "longitude": 88.6120306
+  },
+  {
+    "id": 464995751820,
+    "name": "Jawaharlal Nehru Stadium",
+    "city": "Chennai",
+    "capacity": 40000,
+    "latitude": 13.0855653,
+    "longitude": 80.2717282
+  },
+  {
+    "id": 266379560852,
+    "name": "Umakanta Academy Stadium",
+    "city": "Agartala",
+    "capacity": 10000,
+    "latitude": 23.8308375,
+    "longitude": 91.2748821
+  },
+  {
+    "id": 743883490107,
+    "name": "KD Singh Babu Stadium",
+    "city": "Uttar Pradesh",
+    "capacity": null,
+    "latitude": 26.8556591,
+    "longitude": 80.9376905
+  },
+  {
+    "id": 461432335169,
+    "name": "Indira Gandhi International Sports Stadium",
+    "city": "Uttarakhand",
+    "capacity": null,
+    "latitude": 29.2205006,
+    "longitude": 79.5439339
+  },
+  {
+    "id": 458595519781,
+    "name": "Vivekananda Yuba Bharati Krirangan (Salt Lake Stadium)",
+    "city": "Kolkata",
+    "capacity": 85000,
+    "latitude": 22.5690538,
+    "longitude": 88.40904429999999
+  },
+  {
+    "id": 12638,
+    "name": "Netaji Stadium",
+    "city": "Port Blair",
+    "capacity": 12000,
+    "latitude": 11.6697857,
+    "longitude": 92.74607379999999
+  },
+  {
+    "id": 532139372797,
+    "name": "Spituk Ground",
+    "city": "Leh",
+    "capacity": null,
+    "latitude": 34.1353859,
+    "longitude": 77.5314587
+  },
+  {
+    "id": 871977464209,
+    "name": "Jawaharlal Nehru Stadium",
+    "city": "Silvassa",
+    "capacity": null,
+    "latitude": 20.2717946,
+    "longitude": 73.0050014
+  }
+]

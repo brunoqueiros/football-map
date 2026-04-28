@@ -1,0 +1,902 @@
+[
+    {
+        "id": 3463,
+        "name": "East Bengal",
+        "code": "EAS",
+        "country": "India",
+        "founded": 1920,
+        "national": false,
+        "logo": "3463.png",
+        "venue_id": 20465
+    },
+    {
+        "id": 3464,
+        "name": "Gokulam",
+        "code": null,
+        "country": "India",
+        "founded": null,
+        "national": false,
+        "logo": "3464.png",
+        "venue_id": 2269
+    },
+    {
+        "id": 3466,
+        "name": "Minerva Punjab",
+        "code": null,
+        "country": "India",
+        "founded": 2005,
+        "national": false,
+        "logo": "3466.png",
+        "venue_id": 832
+    },
+    {
+        "id": 3470,
+        "name": "Shillong Lajong",
+        "code": "LAJ",
+        "country": "India",
+        "founded": 1983,
+        "national": false,
+        "logo": "3470.png",
+        "venue_id": 2274
+    },
+    {
+        "id": 3472,
+        "name": "Bengaluru",
+        "code": "BEN",
+        "country": "India",
+        "founded": 2013,
+        "national": false,
+        "logo": "3472.png",
+        "venue_id": 2275
+    },
+    {
+        "id": 3473,
+        "name": "Chennaiyin",
+        "code": null,
+        "country": "India",
+        "founded": 2014,
+        "national": false,
+        "logo": "3473.png",
+        "venue_id": 2276
+    },
+    {
+        "id": 3475,
+        "name": "Goa",
+        "code": null,
+        "country": "India",
+        "founded": 2014,
+        "national": false,
+        "logo": "3475.png",
+        "venue_id": 20358
+    },
+    {
+        "id": 3476,
+        "name": "Jamshedpur",
+        "code": null,
+        "country": "India",
+        "founded": 2017,
+        "national": false,
+        "logo": "3476.png",
+        "venue_id": 2277
+    },
+    {
+        "id": 3477,
+        "name": "Kerala Blasters",
+        "code": null,
+        "country": "India",
+        "founded": 2014,
+        "national": false,
+        "logo": "3477.png",
+        "venue_id": 2278
+    },
+    {
+        "id": 3478,
+        "name": "Mumbai City",
+        "code": null,
+        "country": "India",
+        "founded": 2014,
+        "national": false,
+        "logo": "3478.png",
+        "venue_id": 2279
+    },
+    {
+        "id": 3479,
+        "name": "NorthEast United",
+        "code": null,
+        "country": "India",
+        "founded": 2014,
+        "national": false,
+        "logo": "3479.png",
+        "venue_id": 2280
+    },
+    {
+        "id": 7177,
+        "name": "Odisha",
+        "code": null,
+        "country": "India",
+        "founded": 2014,
+        "national": false,
+        "logo": "7177.png",
+        "venue_id": 5199
+    },
+    {
+        "id": 7763,
+        "name": "Hyderabad",
+        "code": null,
+        "country": "India",
+        "founded": 2019,
+        "national": false,
+        "logo": "7763.png",
+        "venue_id": 5621
+    },
+    {
+        "id": 15516,
+        "name": "ATK Mohun Bagan",
+        "code": null,
+        "country": "India",
+        "founded": 2020,
+        "national": false,
+        "logo": "15516.png",
+        "venue_id": 20465
+    },
+    {
+        "id": 18009,
+        "name": "Rajasthan United",
+        "code": null,
+        "country": "India",
+        "founded": 2018,
+        "national": false,
+        "logo": "18009.png",
+        "venue_id": 20366
+    },
+    {
+        "id": 18305,
+        "name": "Sreenidi Deccan",
+        "code": null,
+        "country": "India",
+        "founded": 2015,
+        "national": false,
+        "logo": "18305.png",
+        "venue_id": 20318
+    },
+    {
+        "id": 22595,
+        "name": "Inter Kashi",
+        "code": null,
+        "country": "India",
+        "founded": 2023,
+        "national": false,
+        "logo": "22595.png",
+        "venue_id": 47121189774
+    },
+    {
+        "id": 3467,
+        "name": "Mohun Bagan",
+        "code": "MOH",
+        "country": "India",
+        "founded": 1889,
+        "national": false,
+        "logo": "3467.png",
+        "venue_id": 2271
+    },
+    {
+        "id": 8241,
+        "name": "United",
+        "code": null,
+        "country": "India",
+        "founded": 1927,
+        "national": false,
+        "logo": "8241.png",
+        "venue_id": 2271
+    },
+    {
+        "id": 15585,
+        "name": "Mohammedan",
+        "code": null,
+        "country": "India",
+        "founded": 1891,
+        "national": false,
+        "logo": "15585.png",
+        "venue_id": 21813
+    },
+    {
+        "id": 15749,
+        "name": "Bhawanipore",
+        "code": null,
+        "country": "India",
+        "founded": 1910,
+        "national": false,
+        "logo": "15749.png",
+        "venue_id": 2271
+    },
+    {
+        "id": 21137,
+        "name": "East Bengal II",
+        "code": null,
+        "country": "India",
+        "founded": null,
+        "national": false,
+        "logo": "21137.png",
+        "venue_id": 181614071087
+    },
+    {
+        "id": 21215,
+        "name": "Rainbow",
+        "code": null,
+        "country": "India",
+        "founded": null,
+        "national": false,
+        "logo": "21215.png",
+        "venue_id": 335167269786
+    },
+    {
+        "id": 21597,
+        "name": "BSS Sporting",
+        "code": null,
+        "country": "India",
+        "founded": null,
+        "national": false,
+        "logo": "21597.png",
+        "venue_id": 110115095456
+    },
+    {
+        "id": 21599,
+        "name": "Calcutta Customs",
+        "code": null,
+        "country": "India",
+        "founded": null,
+        "national": false,
+        "logo": "21599.png",
+        "venue_id": 110115095456
+    },
+    {
+        "id": 21601,
+        "name": "Diamond Harbour",
+        "code": null,
+        "country": "India",
+        "founded": 2022,
+        "national": false,
+        "logo": "21601.png",
+        "venue_id": 21736
+    },
+    {
+        "id": 21602,
+        "name": "Eastern Railway",
+        "code": null,
+        "country": "India",
+        "founded": 1882,
+        "national": false,
+        "logo": "21602.png",
+        "venue_id": 25915536403
+    },
+    {
+        "id": 21604,
+        "name": "George Telegraph",
+        "code": null,
+        "country": "India",
+        "founded": null,
+        "national": false,
+        "logo": "21604.png",
+        "venue_id": 110115095456
+    },
+    {
+        "id": 21605,
+        "name": "Kalighat",
+        "code": null,
+        "country": "India",
+        "founded": 1922,
+        "national": false,
+        "logo": "21605.png",
+        "venue_id": 166263935561
+    },
+    {
+        "id": 21606,
+        "name": "Kidderpore",
+        "code": null,
+        "country": "India",
+        "founded": null,
+        "national": false,
+        "logo": "21606.png",
+        "venue_id": 921156007469
+    },
+    {
+        "id": 21607,
+        "name": "Patha Chakra",
+        "code": null,
+        "country": "India",
+        "founded": null,
+        "national": false,
+        "logo": "21607.png",
+        "venue_id": 689373216723
+    },
+    {
+        "id": 21608,
+        "name": "Peerless",
+        "code": null,
+        "country": "India",
+        "founded": null,
+        "national": false,
+        "logo": "21608.png",
+        "venue_id": 122550393583
+    },
+    {
+        "id": 21609,
+        "name": "Railway",
+        "code": null,
+        "country": "India",
+        "founded": null,
+        "national": false,
+        "logo": "21609.png",
+        "venue_id": 110115095456
+    },
+    {
+        "id": 21610,
+        "name": "Southern Samity",
+        "code": null,
+        "country": "India",
+        "founded": null,
+        "national": false,
+        "logo": "21610.svg",
+        "venue_id": 545561123768
+    },
+    {
+        "id": 21611,
+        "name": "Tollygunge Agragami",
+        "code": null,
+        "country": "India",
+        "founded": 1943,
+        "national": false,
+        "logo": "21611.png",
+        "venue_id": 19812
+    },
+    {
+        "id": 21612,
+        "name": "Wari",
+        "code": null,
+        "country": "India",
+        "founded": 1949,
+        "national": false,
+        "logo": "21612.png",
+        "venue_id": 359496331173
+    },
+    {
+        "id": 21614,
+        "name": "Police",
+        "code": null,
+        "country": "India",
+        "founded": null,
+        "national": false,
+        "logo": "21614.png",
+        "venue_id": 472410377686
+    },
+    {
+        "id": 22001,
+        "name": "Aryan",
+        "code": null,
+        "country": "India",
+        "founded": 1884,
+        "national": false,
+        "logo": "22001.png",
+        "venue_id": 281248373576
+    },
+    {
+        "id": 24099,
+        "name": "Army XI",
+        "code": null,
+        "country": "India",
+        "founded": null,
+        "national": false,
+        "logo": "24099.png",
+        "venue_id": 228894244909
+    },
+    {
+        "id": 24100,
+        "name": "Calcutta Police",
+        "code": null,
+        "country": "India",
+        "founded": null,
+        "national": false,
+        "logo": "24100.svg",
+        "venue_id": 341069230783
+    },
+    {
+        "id": 24101,
+        "name": "Kalighat Club",
+        "code": null,
+        "country": "India",
+        "founded": null,
+        "national": false,
+        "logo": "24101.png",
+        "venue_id": 92336723194
+    },
+    {
+        "id": 24102,
+        "name": "Measurers",
+        "code": null,
+        "country": "India",
+        "founded": 1902,
+        "national": false,
+        "logo": "24102.png",
+        "venue_id": 110115095456
+    },
+    {
+        "id": 24103,
+        "name": "NA Suruchi Sangha",
+        "code": null,
+        "country": "India",
+        "founded": 1952,
+        "national": false,
+        "logo": "24103.png",
+        "venue_id": 342940625326
+    },
+    {
+        "id": 3460,
+        "name": "Aizawl",
+        "code": null,
+        "country": "India",
+        "founded": 1984,
+        "national": false,
+        "logo": "3460.png",
+        "venue_id": 2265
+    },
+    {
+        "id": 3462,
+        "name": "Churchill Brothers",
+        "code": "CHU",
+        "country": "India",
+        "founded": 1988,
+        "national": false,
+        "logo": "3462.png",
+        "venue_id": 20358
+    },
+    {
+        "id": 3469,
+        "name": "Real Kashmir",
+        "code": null,
+        "country": "India",
+        "founded": null,
+        "national": false,
+        "logo": "3469.png",
+        "venue_id": 2273
+    },
+    {
+        "id": 18005,
+        "name": "Delhi FC",
+        "code": null,
+        "country": "India",
+        "founded": null,
+        "national": false,
+        "logo": "18005.png",
+        "venue_id": 19587
+    },
+    {
+        "id": 21131,
+        "name": "Dempo",
+        "code": null,
+        "country": "India",
+        "founded": 1961,
+        "national": false,
+        "logo": "21131.png",
+        "venue_id": 20358
+    },
+    {
+        "id": 22596,
+        "name": "Namdhari",
+        "code": null,
+        "country": "India",
+        "founded": 1975,
+        "national": false,
+        "logo": "22596.png",
+        "venue_id": 859279260436
+    },
+    {
+        "id": 22892,
+        "name": "SC Bengaluru",
+        "code": null,
+        "country": "India",
+        "founded": null,
+        "national": false,
+        "logo": "22892.png",
+        "venue_id": 316869097979
+    },
+    {
+        "id": 15586,
+        "name": "Sudeva",
+        "code": null,
+        "country": "India",
+        "founded": 2014,
+        "national": false,
+        "logo": "15586.png",
+        "venue_id": 20463
+    },
+    {
+        "id": 15748,
+        "name": "Bengaluru United",
+        "code": null,
+        "country": "India",
+        "founded": null,
+        "national": false,
+        "logo": "15748.png",
+        "venue_id": 11144
+    },
+    {
+        "id": 18006,
+        "name": "Kenkre",
+        "code": null,
+        "country": "India",
+        "founded": 2000,
+        "national": false,
+        "logo": "18006.png",
+        "venue_id": 20464
+    },
+    {
+        "id": 22891,
+        "name": "Maharashtra Oranje",
+        "code": null,
+        "country": "India",
+        "founded": null,
+        "national": false,
+        "logo": "22891.png",
+        "venue_id": 229919154589
+    },
+    {
+        "id": 22893,
+        "name": "Sporting Goa",
+        "code": null,
+        "country": "India",
+        "founded": 1999,
+        "national": false,
+        "logo": "22893.png",
+        "venue_id": 2270
+    },
+    {
+        "id": 7154,
+        "name": "Andhra Pradesh",
+        "code": null,
+        "country": "India",
+        "founded": null,
+        "national": false,
+        "logo": "7154.png",
+        "venue_id": 470626822497
+    },
+    {
+        "id": 7155,
+        "name": "Arunachal Pradesh",
+        "code": null,
+        "country": "India",
+        "founded": null,
+        "national": false,
+        "logo": "7155.png",
+        "venue_id": 785966457638
+    },
+    {
+        "id": 7156,
+        "name": "Assam",
+        "code": null,
+        "country": "India",
+        "founded": null,
+        "national": false,
+        "logo": "7156.png",
+        "venue_id": 591424758453
+    },
+    {
+        "id": 7157,
+        "name": "Bihar",
+        "code": null,
+        "country": "India",
+        "founded": null,
+        "national": false,
+        "logo": "7157.png",
+        "venue_id": 399497716313
+    },
+    {
+        "id": 7158,
+        "name": "Chandigarh",
+        "code": null,
+        "country": "India",
+        "founded": null,
+        "national": false,
+        "logo": "7158.png",
+        "venue_id": 474031885846
+    },
+    {
+        "id": 7159,
+        "name": "Chhattisgarh",
+        "code": null,
+        "country": "India",
+        "founded": null,
+        "national": false,
+        "logo": "7159.png",
+        "venue_id": 68346578506
+    },
+    {
+        "id": 7162,
+        "name": "Delhi",
+        "code": null,
+        "country": "India",
+        "founded": null,
+        "national": false,
+        "logo": "7162.png",
+        "venue_id": 262690753811
+    },
+    {
+        "id": 7163,
+        "name": "Gujarat",
+        "code": null,
+        "country": "India",
+        "founded": null,
+        "national": false,
+        "logo": "7163.png",
+        "venue_id": 423899550426
+    },
+    {
+        "id": 7164,
+        "name": "Haryana",
+        "code": null,
+        "country": "India",
+        "founded": 1884,
+        "national": false,
+        "logo": "7164.png",
+        "venue_id": 8923705682
+    },
+    {
+        "id": 7165,
+        "name": "Himachal Pradesh",
+        "code": null,
+        "country": "India",
+        "founded": null,
+        "national": false,
+        "logo": "7165.png",
+        "venue_id": 669707595486
+    },
+    {
+        "id": 7166,
+        "name": "J & K",
+        "code": null,
+        "country": "India",
+        "founded": null,
+        "national": false,
+        "logo": "7166.png",
+        "venue_id": 593374137252
+    },
+    {
+        "id": 7167,
+        "name": "Jharkhand",
+        "code": null,
+        "country": "India",
+        "founded": null,
+        "national": false,
+        "logo": "7167.png",
+        "venue_id": 265175134147
+    },
+    {
+        "id": 7168,
+        "name": "Karnataka",
+        "code": null,
+        "country": "India",
+        "founded": null,
+        "national": false,
+        "logo": "7168.png",
+        "venue_id": 951181400454
+    },
+    {
+        "id": 7169,
+        "name": "Kerala",
+        "code": null,
+        "country": "India",
+        "founded": null,
+        "national": false,
+        "logo": "7169.png",
+        "venue_id": 548893442947
+    },
+    {
+        "id": 7170,
+        "name": "Lakshadweep",
+        "code": null,
+        "country": "India",
+        "founded": null,
+        "national": false,
+        "logo": "7170.png",
+        "venue_id": 418561583470
+    },
+    {
+        "id": 7171,
+        "name": "Madhya Pradesh",
+        "code": null,
+        "country": "India",
+        "founded": null,
+        "national": false,
+        "logo": "7171.png",
+        "venue_id": 172212071916
+    },
+    {
+        "id": 7172,
+        "name": "Maharashtra",
+        "code": null,
+        "country": "India",
+        "founded": null,
+        "national": false,
+        "logo": "7172.png",
+        "venue_id": 229919154589
+    },
+    {
+        "id": 7173,
+        "name": "Manipur",
+        "code": null,
+        "country": "India",
+        "founded": null,
+        "national": false,
+        "logo": "7173.png",
+        "venue_id": 842965486738
+    },
+    {
+        "id": 7174,
+        "name": "Meghalaya",
+        "code": null,
+        "country": "India",
+        "founded": null,
+        "national": false,
+        "logo": "7174.png",
+        "venue_id": 49998490347
+    },
+    {
+        "id": 7175,
+        "name": "Mizoram",
+        "code": null,
+        "country": "India",
+        "founded": null,
+        "national": false,
+        "logo": "7175.png",
+        "venue_id": 602412953829
+    },
+    {
+        "id": 7176,
+        "name": "Nagaland",
+        "code": null,
+        "country": "India",
+        "founded": null,
+        "national": false,
+        "logo": "7176.png",
+        "venue_id": 158206620297
+    },
+    {
+        "id": 7178,
+        "name": "Pondicherry",
+        "code": null,
+        "country": "India",
+        "founded": null,
+        "national": false,
+        "logo": "7178.png",
+        "venue_id": 583351509437
+    },
+    {
+        "id": 7179,
+        "name": "Punjab",
+        "code": null,
+        "country": "India",
+        "founded": 2005,
+        "national": false,
+        "logo": "7179.png",
+        "venue_id": 7102
+    },
+    {
+        "id": 7180,
+        "name": "Rajasthan",
+        "code": null,
+        "country": "India",
+        "founded": null,
+        "national": false,
+        "logo": "7180.png",
+        "venue_id": 5200
+    },
+    {
+        "id": 7181,
+        "name": "Services",
+        "code": null,
+        "country": "India",
+        "founded": null,
+        "national": false,
+        "logo": "7181.png",
+        "venue_id": 54449351455
+    },
+    {
+        "id": 7182,
+        "name": "Sikkim",
+        "code": null,
+        "country": "India",
+        "founded": null,
+        "national": false,
+        "logo": "7182.png",
+        "venue_id": 869458792908
+    },
+    {
+        "id": 7183,
+        "name": "Tamilnadu",
+        "code": null,
+        "country": "India",
+        "founded": null,
+        "national": false,
+        "logo": "7183.png",
+        "venue_id": 464995751820
+    },
+    {
+        "id": 7184,
+        "name": "Telangana",
+        "code": null,
+        "country": "India",
+        "founded": null,
+        "national": false,
+        "logo": "7184.png",
+        "venue_id": 5621
+    },
+    {
+        "id": 7185,
+        "name": "Tripura",
+        "code": null,
+        "country": "India",
+        "founded": null,
+        "national": false,
+        "logo": "7185.png",
+        "venue_id": 266379560852
+    },
+    {
+        "id": 7186,
+        "name": "Uttar Pradesh",
+        "code": null,
+        "country": "India",
+        "founded": null,
+        "national": false,
+        "logo": "7186.svg",
+        "venue_id": 743883490107
+    },
+    {
+        "id": 7187,
+        "name": "Uttarakhand",
+        "code": null,
+        "country": "India",
+        "founded": null,
+        "national": false,
+        "logo": "7187.svg",
+        "venue_id": 461432335169
+    },
+    {
+        "id": 7188,
+        "name": "West Bengal",
+        "code": null,
+        "country": "India",
+        "founded": null,
+        "national": false,
+        "logo": "7188.png",
+        "venue_id": 458595519781
+    },
+    {
+        "id": 18184,
+        "name": "Andamans & Nicobar",
+        "code": null,
+        "country": "India",
+        "founded": null,
+        "national": false,
+        "logo": "18184.png",
+        "venue_id": 12638
+    },
+    {
+        "id": 20725,
+        "name": "Ladakh",
+        "code": null,
+        "country": "India",
+        "founded": null,
+        "national": false,
+        "logo": "20725.png",
+        "venue_id": 532139372797
+    },
+    {
+        "id": 22565,
+        "name": "DNH & DD",
+        "code": null,
+        "country": "India",
+        "founded": null,
+        "national": false,
+        "logo": "22565.svg",
+        "venue_id": 871977464209
+    }
+]

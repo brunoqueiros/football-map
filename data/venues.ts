@@ -69,3 +69,4 @@ export { default as honduras } from './honduras-venues.json';
 export { default as hongKong } from './hong-kong-venues.json';
 export { default as hungary } from './hungary-venues.json';
 export { default as iceland } from './iceland-venues.json';
+export { default as india } from './india-venues.json';
