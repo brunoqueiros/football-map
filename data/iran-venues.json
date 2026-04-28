@@ -1,0 +1,290 @@
+[
+  {
+    "id": 1889,
+    "name": "Takhti Stadium",
+    "city": "Jam",
+    "capacity": 20000,
+    "latitude": 27.8209417,
+    "longitude": 52.3369343
+  },
+  {
+    "id": 1704,
+    "name": "Behnam Mohammadi Stadium",
+    "city": "Masjed Soleyman",
+    "capacity": 8000,
+    "latitude": 31.9342858,
+    "longitude": 49.3017311
+  },
+  {
+    "id": 1728,
+    "name": "Hafezieh Stadium",
+    "city": "Shiraz",
+    "capacity": 22460,
+    "latitude": 29.6238046,
+    "longitude": 52.5561847
+  },
+  {
+    "id": 850,
+    "name": "Shahid Bahonar Stadium",
+    "city": "Kerman",
+    "capacity": 12430,
+    "latitude": 30.270856,
+    "longitude": 56.9866027
+  },
+  {
+    "id": 855,
+    "name": "Shahid Dastgerdi Stadium",
+    "city": "Teheran",
+    "capacity": 8250,
+    "latitude": 35.7078601,
+    "longitude": 51.3116774
+  },
+  {
+    "id": 856,
+    "name": "Takhti Stadium",
+    "city": "Abadan",
+    "capacity": 22000,
+    "latitude": 30.33955509999999,
+    "longitude": 48.2922721
+  },
+  {
+    "id": 352261826378,
+    "name": "Dr. Azodi Stadium",
+    "city": "Rasht",
+    "capacity": 11000,
+    "latitude": 37.2646618,
+    "longitude": 49.5890766
+  },
+  {
+    "id": 5449,
+    "name": "Jey Stadium",
+    "city": "Tehran",
+    "capacity": 5000,
+    "latitude": 35.7244302,
+    "longitude": 51.2755698
+  },
+  {
+    "id": 12559,
+    "name": "Shohada Mes Shahrbabak Stadium",
+    "city": "Shahrbabak",
+    "capacity": 3000,
+    "latitude": 36.6509348,
+    "longitude": 51.5105139
+  },
+  {
+    "id": 7197,
+    "name": "Naft Gachsaran Stadium",
+    "city": "Gachsaran",
+    "capacity": 5000,
+    "latitude": 30.3659761,
+    "longitude": 50.79363009999999
+  },
+  {
+    "id": 19312,
+    "name": "Vahdat Stadium",
+    "city": "Astara",
+    "capacity": 1500,
+    "latitude": 38.4311511,
+    "longitude": 48.87573
+  },
+  {
+    "id": 804501159703,
+    "name": "Shahid Bahonar Stadium",
+    "city": "Noshahr",
+    "capacity": 5000,
+    "latitude": 30.270856,
+    "longitude": 56.9866027
+  },
+  {
+    "id": 21207,
+    "name": "Imam Khomeini Stadium",
+    "city": "Eslamshahr",
+    "capacity": 8000,
+    "latitude": 35.5630035,
+    "longitude": 51.2275826
+  },
+  {
+    "id": 205512615500,
+    "name": "Takhti Stadium",
+    "city": "Kermanshah",
+    "capacity": 15000,
+    "latitude": 34.3224655,
+    "longitude": 47.0692838
+  },
+  {
+    "id": 21440,
+    "name": "Shahid Qasem Soleimani Stadium",
+    "city": "Varzaghan",
+    "capacity": 5000,
+    "latitude": 29.427754,
+    "longitude": 55.67210189999999
+  },
+  {
+    "id": 268660763141,
+    "name": "Takhti Stadium",
+    "city": "Bandar Abbas",
+    "capacity": 10000,
+    "latitude": 27.2199803,
+    "longitude": 56.3436124
+  },
+  {
+    "id": 1738,
+    "name": "Imam Khomeini Stadium",
+    "city": "Arak",
+    "capacity": 15000,
+    "latitude": 34.0964002,
+    "longitude": 49.7331333
+  },
+  {
+    "id": 19369,
+    "name": "Shohada Mes Rafsanjan Stadium",
+    "city": "Rafsanjan",
+    "capacity": 10000,
+    "latitude": 30.3603624,
+    "longitude": 56.04227299999999
+  },
+  {
+    "id": 11524,
+    "name": "Gol Gohar Sport Complex",
+    "city": "Sirjan",
+    "capacity": 5000,
+    "latitude": 29.427754,
+    "longitude": 55.67210189999999
+  },
+  {
+    "id": 2755,
+    "name": "Takhti Stadium",
+    "city": "Khorramabad",
+    "capacity": 20000,
+    "latitude": 33.4970662,
+    "longitude": 48.3481713
+  },
+  {
+    "id": 849,
+    "name": "Takhti Stadium (Ebtedaye khiabane)",
+    "city": "Bandar-e-Anzalī",
+    "capacity": 15559,
+    "latitude": 37.2069867,
+    "longitude": 50.006831
+  },
+  {
+    "id": 853,
+    "name": "Vatani Stadium",
+    "city": "Ghaemshahr",
+    "capacity": 15000,
+    "latitude": 36.4663234,
+    "longitude": 52.86149899999999
+  },
+  {
+    "id": 845,
+    "name": "Azadi Stadium",
+    "city": "Teheran",
+    "capacity": 100000,
+    "latitude": 35.7244302,
+    "longitude": 51.2755698
+  },
+  {
+    "id": 19310,
+    "name": "Shohadaye Foolad Khoozestan",
+    "city": "Ahvaz",
+    "capacity": 30655,
+    "latitude": 31.2783531,
+    "longitude": 48.7806544
+  },
+  {
+    "id": 848,
+    "name": "Yadegar-e Emam Stadium",
+    "city": "Tabriz",
+    "capacity": 66833,
+    "latitude": 38.0268625,
+    "longitude": 46.2960781
+  },
+  {
+    "id": 21439,
+    "name": "Foolad Shahr Stadium",
+    "city": "Fuladshahr",
+    "capacity": 20000,
+    "latitude": 32.4828529,
+    "longitude": 51.4214595
+  },
+  {
+    "id": 20462,
+    "name": "Foolad Sport Complex",
+    "city": "Ahwaz",
+    "capacity": 3000,
+    "latitude": 31.2783531,
+    "longitude": 48.7806544
+  },
+  {
+    "id": 857,
+    "name": "Naghsh-e-Jahan Stadium",
+    "city": "Isfahan",
+    "capacity": 75000,
+    "latitude": 32.7432511,
+    "longitude": 51.6861831
+  },
+  {
+    "id": 12591,
+    "name": "Sardare Azadegan Stadium",
+    "city": "Qazvin",
+    "capacity": 15000,
+    "latitude": 36.3259951,
+    "longitude": 50.0202091
+  },
+  {
+    "id": 2754,
+    "name": "Shahid Nasiri Stadium",
+    "city": "Yazd",
+    "capacity": 15000,
+    "latitude": 31.8587515,
+    "longitude": 54.3286121
+  },
+  {
+    "id": 183591919879,
+    "name": "Takhti Stadium",
+    "city": "Qeshm",
+    "capacity": null,
+    "latitude": 26.9511656,
+    "longitude": 56.2753255
+  },
+  {
+    "id": 484707127133,
+    "name": "Enghelab Stadium",
+    "city": "Karaj",
+    "capacity": 15000,
+    "latitude": 35.84991249999999,
+    "longitude": 50.9585156
+  },
+  {
+    "id": 631708790132,
+    "name": "Takhti Stadium",
+    "city": "Bandar Abbas",
+    "capacity": 10000,
+    "latitude": 27.2199803,
+    "longitude": 56.3436124
+  },
+  {
+    "id": 301077263528,
+    "name": "Shahid Dastgerdi Stadium",
+    "city": "Tehran",
+    "capacity": 8250,
+    "latitude": 35.7078601,
+    "longitude": 51.3116774
+  },
+  {
+    "id": 21441,
+    "name": "Khalij Fars Stadium",
+    "city": "Bandar-Abbas",
+    "capacity": 20000,
+    "latitude": 27.2199803,
+    "longitude": 56.3436124
+  },
+  {
+    "id": 429173173795,
+    "name": "Ghadir Hall",
+    "city": "Tehran",
+    "capacity": null,
+    "latitude": 35.7229996,
+    "longitude": 51.3813115
+  }
+]

@@ -1,0 +1,346 @@
+[
+  {
+    "id": 7129,
+    "name": "Stadion Kanjuruhan",
+    "city": "Kepanjen",
+    "capacity": 44912,
+    "latitude": -8.1503429,
+    "longitude": 112.573991
+  },
+  {
+    "id": 838,
+    "name": "Stadion Patriot",
+    "city": "Bekasi",
+    "capacity": 30000,
+    "latitude": -6.23836,
+    "longitude": 106.9919265
+  },
+  {
+    "id": 19787,
+    "name": "Stadion Gelora B.J. Habibie",
+    "city": "Lompoe",
+    "capacity": 20000,
+    "latitude": -4.0367195,
+    "longitude": 119.6455396
+  },
+  {
+    "id": 1818,
+    "name": "Stadion Segiri",
+    "city": "Samarinda",
+    "capacity": 25000,
+    "latitude": -0.4929943,
+    "longitude": 117.1493874
+  },
+  {
+    "id": 1876,
+    "name": "Gelora Madura Ratu Pamelingan Stadium",
+    "city": "Pamekasan",
+    "capacity": 35000,
+    "latitude": -7.1944219,
+    "longitude": 113.4809412
+  },
+  {
+    "id": 837,
+    "name": "Stadion Si Jalak Harupat",
+    "city": "Soreang",
+    "capacity": 30100,
+    "latitude": -6.9954322,
+    "longitude": 107.5287832
+  },
+  {
+    "id": 835,
+    "name": "Stadion Gelora Bung Tomo",
+    "city": "Surabaya",
+    "capacity": 55000,
+    "latitude": -7.2232065,
+    "longitude": 112.6227885
+  },
+  {
+    "id": 840,
+    "name": "Stadion Kapten I Wayan Dipta",
+    "city": "Gianyar",
+    "capacity": 25312,
+    "latitude": -8.5468576,
+    "longitude": 115.306569
+  },
+  {
+    "id": 19786,
+    "name": "Stadion Jatidiri",
+    "city": "Semarang",
+    "capacity": 25000,
+    "latitude": -7.0260826,
+    "longitude": 110.4096861
+  },
+  {
+    "id": 833,
+    "name": "Stadion Demang Lehman",
+    "city": "Martapura",
+    "capacity": 10000,
+    "latitude": -3.436617,
+    "longitude": 114.8761716
+  },
+  {
+    "id": 2749,
+    "name": "Stadion GOR Haji Agus Salim",
+    "city": "Padang",
+    "capacity": 20000,
+    "latitude": -0.9294199,
+    "longitude": 100.357921
+  },
+  {
+    "id": 2751,
+    "name": "Stadion Maguwoharjo",
+    "city": "Yogyakarta",
+    "capacity": 50000,
+    "latitude": -7.750503900000001,
+    "longitude": 110.418175
+  },
+  {
+    "id": 3228,
+    "name": "Stadion Cendrawasih",
+    "city": "Biak Numfor",
+    "capacity": 15000,
+    "latitude": -1.1800201,
+    "longitude": 136.0869273
+  },
+  {
+    "id": 3237,
+    "name": "Stadion Brawijaya",
+    "city": "Kediri",
+    "capacity": 20000,
+    "latitude": -7.8170712,
+    "longitude": 112.0287768
+  },
+  {
+    "id": 3239,
+    "name": "Stadion Manahan",
+    "city": "Surakarta",
+    "capacity": 20000,
+    "latitude": -7.5555789,
+    "longitude": 110.8065334
+  },
+  {
+    "id": 3892,
+    "name": "Stadion Utama Gelora Bung Karno",
+    "city": "Jakarta",
+    "capacity": 88083,
+    "latitude": -6.218600599999999,
+    "longitude": 106.8029661
+  },
+  {
+    "id": 995209139563,
+    "name": "Indomilk Arena",
+    "city": "Tangerang",
+    "capacity": 15000,
+    "latitude": -6.2585887,
+    "longitude": 106.6042729
+  },
+  {
+    "id": 301900782049,
+    "name": "Stadion Madya PTIK",
+    "city": "Jakarta",
+    "capacity": 19000,
+    "latitude": -6.2173345,
+    "longitude": 106.7995686
+  },
+  {
+    "id": 839,
+    "name": "Stadion Sultan Agung",
+    "city": "Bantul",
+    "capacity": 35000,
+    "latitude": -7.8751653,
+    "longitude": 110.3802924
+  },
+  {
+    "id": 21270,
+    "name": "Stadion Wibawa Mukti",
+    "city": "Cikarang",
+    "capacity": 28778,
+    "latitude": -6.3114428,
+    "longitude": 107.182855
+  },
+  {
+    "id": 20295,
+    "name": "Stadion Baharuddin Siregar",
+    "city": "Lubuk Pakam",
+    "capacity": 15000,
+    "latitude": 3.5503696,
+    "longitude": 98.86450909999999
+  },
+  {
+    "id": 842,
+    "name": "Stadion Pakansari Bogor",
+    "city": "Cibinong",
+    "capacity": 31000,
+    "latitude": -6.494929099999999,
+    "longitude": 106.8333231
+  },
+  {
+    "id": 22590,
+    "name": "Stadion Bumi Wali Tuban",
+    "city": "Tuban",
+    "capacity": 5000,
+    "latitude": -6.924795,
+    "longitude": 112.0907563
+  },
+  {
+    "id": 844,
+    "name": "Stadion Gelora Sriwijaya Jakabaring",
+    "city": "Palembang",
+    "capacity": 43103,
+    "latitude": -3.0214663,
+    "longitude": 104.7891108
+  },
+  {
+    "id": 3231,
+    "name": "Stadion Mandala Krida",
+    "city": "Yogyakarta",
+    "capacity": 25000,
+    "latitude": -7.795894099999999,
+    "longitude": 110.384296
+  },
+  {
+    "id": 20293,
+    "name": "Stadion Utama Riau",
+    "city": "Pekanbaru",
+    "capacity": 43923,
+    "latitude": 0.4836069,
+    "longitude": 101.3895329
+  },
+  {
+    "id": 3235,
+    "name": "Mandala Stadium",
+    "city": "Papua",
+    "capacity": 12000,
+    "latitude": -2.5304929,
+    "longitude": 140.7234773
+  },
+  {
+    "id": 11153,
+    "name": "Stadion Harapan Bangsa",
+    "city": "Banda Aceh",
+    "capacity": 45000,
+    "latitude": 5.5226087,
+    "longitude": 95.3237899
+  },
+  {
+    "id": 7439,
+    "name": "Stadion Wiradadaha Tasikmalaya",
+    "city": "Tasikmalaya",
+    "capacity": 3000,
+    "latitude": -7.3361667,
+    "longitude": 108.2202189
+  },
+  {
+    "id": 22591,
+    "name": "Stadion Olahraga Tri Sanja",
+    "city": "Slawi",
+    "capacity": 3000,
+    "latitude": -6.9724569,
+    "longitude": 109.12549
+  },
+  {
+    "id": 7441,
+    "name": "Stadion Gelora Bumi Kartini",
+    "city": "Jepara",
+    "capacity": 20000,
+    "latitude": -6.5829989,
+    "longitude": 110.6631738
+  },
+  {
+    "id": 22592,
+    "name": "Stadion Purnawarman",
+    "city": "Purwakarta",
+    "capacity": 12000,
+    "latitude": -6.564675299999999,
+    "longitude": 107.4448348
+  },
+  {
+    "id": 11157,
+    "name": "Stadion Gelora Delta",
+    "city": "Sidoarjo",
+    "capacity": 35116,
+    "latitude": -7.447554,
+    "longitude": 112.7059434
+  },
+  {
+    "id": 20296,
+    "name": "Stadion Gelora Joko Samudro",
+    "city": "Gresik",
+    "capacity": 20000,
+    "latitude": -7.185422699999999,
+    "longitude": 112.6508156
+  },
+  {
+    "id": 11173,
+    "name": "Stadion Letjen Haji Sudirman",
+    "city": "Bojonegoro",
+    "capacity": 15000,
+    "latitude": -7.1482351,
+    "longitude": 111.9007137
+  },
+  {
+    "id": 11156,
+    "name": "Stadion Gawalise",
+    "city": "Palu",
+    "capacity": 20000,
+    "latitude": -0.9230737999999998,
+    "longitude": 119.839472
+  },
+  {
+    "id": 551884170211,
+    "name": "Stadion Demang Lehman",
+    "city": "Martapura",
+    "capacity": 15000,
+    "latitude": -3.436617,
+    "longitude": 114.8761716
+  },
+  {
+    "id": 704144033566,
+    "name": "Stadion Joyokusumo",
+    "city": "Pati",
+    "capacity": 15000,
+    "latitude": -6.7390259,
+    "longitude": 111.0253371
+  },
+  {
+    "id": 22593,
+    "name": "Stadion Maladi Sriwedari",
+    "city": "Surakarta",
+    "capacity": 6000,
+    "latitude": -7.5682226,
+    "longitude": 110.8115941
+  },
+  {
+    "id": 468505998510,
+    "name": "LAPANGAN BOLA KERA SAKTI",
+    "city": "Banten",
+    "capacity": null,
+    "latitude": -6.3539504,
+    "longitude": 106.6773359
+  },
+  {
+    "id": 319306994513,
+    "name": "Stadion Bhumi Phala",
+    "city": "Ungaran",
+    "capacity": 10000,
+    "latitude": -7.325895399999999,
+    "longitude": 110.1984769
+  },
+  {
+    "id": 999017545005,
+    "name": "Stadion Benteng Reborn",
+    "city": "Tangerang",
+    "capacity": 10000,
+    "latitude": -6.1741304,
+    "longitude": 106.6391108
+  },
+  {
+    "id": 21271,
+    "name": "Stadion Wergu Wetan",
+    "city": "Kudus",
+    "capacity": 10000,
+    "latitude": -6.8160152,
+    "longitude": 110.850885
+  }
+]

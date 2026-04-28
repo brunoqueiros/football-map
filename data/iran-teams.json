@@ -1,0 +1,402 @@
+[
+    {
+        "id": 2702,
+        "name": "Pars Jonoubi JAM",
+        "code": null,
+        "country": "Iran",
+        "founded": 2007,
+        "national": false,
+        "logo": "2702.png",
+        "venue_id": 1889
+    },
+    {
+        "id": 2707,
+        "name": "Naft Masjed Soleyman",
+        "code": "AHV",
+        "country": "Iran",
+        "founded": 1965,
+        "national": false,
+        "logo": "2707.png",
+        "venue_id": 1704
+    },
+    {
+        "id": 2713,
+        "name": "Fajr Sepasi",
+        "code": "FAJ",
+        "country": "Iran",
+        "founded": 1988,
+        "national": false,
+        "logo": "2713.png",
+        "venue_id": 1728
+    },
+    {
+        "id": 2718,
+        "name": "Mes Kerman",
+        "code": "MES",
+        "country": "Iran",
+        "founded": 1998,
+        "national": false,
+        "logo": "2718.png",
+        "venue_id": 850
+    },
+    {
+        "id": 2736,
+        "name": "Saipa",
+        "code": "SAI",
+        "country": "Iran",
+        "founded": 1989,
+        "national": false,
+        "logo": "2736.png",
+        "venue_id": 855
+    },
+    {
+        "id": 2741,
+        "name": "Paykan",
+        "code": "PAY",
+        "country": "Iran",
+        "founded": 1967,
+        "national": false,
+        "logo": "2741.png",
+        "venue_id": 855
+    },
+    {
+        "id": 2743,
+        "name": "Sanat Naft",
+        "code": "SAN",
+        "country": "Iran",
+        "founded": null,
+        "national": false,
+        "logo": "2743.png",
+        "venue_id": 856
+    },
+    {
+        "id": 7500,
+        "name": "Damash Gilanian",
+        "code": null,
+        "country": "Iran",
+        "founded": 1975,
+        "national": false,
+        "logo": "7500.png",
+        "venue_id": 352261826378
+    },
+    {
+        "id": 7502,
+        "name": "Niroye Zamini",
+        "code": "NIR",
+        "country": "Iran",
+        "founded": null,
+        "national": false,
+        "logo": "7502.svg",
+        "venue_id": 5449
+    },
+    {
+        "id": 10388,
+        "name": "Mes Shahr-e Babak",
+        "code": null,
+        "country": "Iran",
+        "founded": null,
+        "national": false,
+        "logo": "10388.png",
+        "venue_id": 12559
+    },
+    {
+        "id": 10399,
+        "name": "Naft Gachsaran",
+        "code": "NAF",
+        "country": "Iran",
+        "founded": 1967,
+        "national": false,
+        "logo": "10399.png",
+        "venue_id": 7197
+    },
+    {
+        "id": 15542,
+        "name": "Shahrdari Astara",
+        "code": null,
+        "country": "Iran",
+        "founded": null,
+        "national": false,
+        "logo": "15542.png",
+        "venue_id": 19312
+    },
+    {
+        "id": 18302,
+        "name": "Shahrdari Noshahr",
+        "code": null,
+        "country": "Iran",
+        "founded": null,
+        "national": false,
+        "logo": "18302.png",
+        "venue_id": 804501159703
+    },
+    {
+        "id": 20801,
+        "name": "Ario Eslamshahr",
+        "code": null,
+        "country": "Iran",
+        "founded": 2020,
+        "national": false,
+        "logo": "20801.png",
+        "venue_id": 21207
+    },
+    {
+        "id": 20802,
+        "name": "Be'sat Kermanshah",
+        "code": null,
+        "country": "Iran",
+        "founded": 2012,
+        "national": false,
+        "logo": "20802.png",
+        "venue_id": 205512615500
+    },
+    {
+        "id": 22236,
+        "name": "Mes Soongoun",
+        "code": null,
+        "country": "Iran",
+        "founded": 2010,
+        "national": false,
+        "logo": "22236.png",
+        "venue_id": 21440
+    },
+    {
+        "id": 22237,
+        "name": "Shahre Raz",
+        "code": null,
+        "country": "Iran",
+        "founded": 2023,
+        "national": false,
+        "logo": "22237.png",
+        "venue_id": 1728
+    },
+    {
+        "id": 24800,
+        "name": "Naft Bandar Abbas",
+        "code": null,
+        "country": "Iran",
+        "founded": null,
+        "national": false,
+        "logo": "24800.png",
+        "venue_id": 268660763141
+    },
+    {
+        "id": 2703,
+        "name": "Aluminium Arak",
+        "code": null,
+        "country": "Iran",
+        "founded": null,
+        "national": false,
+        "logo": "2703.png",
+        "venue_id": 1738
+    },
+    {
+        "id": 2706,
+        "name": "Mes Rafsanjan",
+        "code": "RAF",
+        "country": "Iran",
+        "founded": null,
+        "national": false,
+        "logo": "2706.png",
+        "venue_id": 19369
+    },
+    {
+        "id": 2714,
+        "name": "Gol Gohar",
+        "code": "SIR",
+        "country": "Iran",
+        "founded": null,
+        "national": false,
+        "logo": "2714.png",
+        "venue_id": 11524
+    },
+    {
+        "id": 2716,
+        "name": "Kheybar Khorramabad",
+        "code": null,
+        "country": "Iran",
+        "founded": 1984,
+        "national": false,
+        "logo": "2716.png",
+        "venue_id": 2755
+    },
+    {
+        "id": 2717,
+        "name": "Malavan",
+        "code": "MAL",
+        "country": "Iran",
+        "founded": 1969,
+        "national": false,
+        "logo": "2717.png",
+        "venue_id": 849
+    },
+    {
+        "id": 2719,
+        "name": "Nassaji Mazandaran",
+        "code": "MAZ",
+        "country": "Iran",
+        "founded": null,
+        "national": false,
+        "logo": "2719.png",
+        "venue_id": 853
+    },
+    {
+        "id": 2733,
+        "name": "Esteghlal FC",
+        "code": "EST",
+        "country": "Iran",
+        "founded": 1945,
+        "national": false,
+        "logo": "2733.png",
+        "venue_id": 845
+    },
+    {
+        "id": 2734,
+        "name": "Foolad FC",
+        "code": "FOO",
+        "country": "Iran",
+        "founded": 1986,
+        "national": false,
+        "logo": "2734.png",
+        "venue_id": 19310
+    },
+    {
+        "id": 2737,
+        "name": "Tractor Sazi",
+        "code": "TER",
+        "country": "Iran",
+        "founded": 1970,
+        "national": false,
+        "logo": "2737.png",
+        "venue_id": 848
+    },
+    {
+        "id": 2738,
+        "name": "ZOB Ahan",
+        "code": "AHA",
+        "country": "Iran",
+        "founded": 1969,
+        "national": false,
+        "logo": "2738.png",
+        "venue_id": 21439
+    },
+    {
+        "id": 2739,
+        "name": "Esteghlal Khuzestan",
+        "code": "EST",
+        "country": "Iran",
+        "founded": 2011,
+        "national": false,
+        "logo": "2739.png",
+        "venue_id": 20462
+    },
+    {
+        "id": 2742,
+        "name": "Persepolis FC",
+        "code": "PER",
+        "country": "Iran",
+        "founded": 1963,
+        "national": false,
+        "logo": "2742.png",
+        "venue_id": 845
+    },
+    {
+        "id": 2744,
+        "name": "Sepahan FC",
+        "code": "SEP",
+        "country": "Iran",
+        "founded": 1953,
+        "national": false,
+        "logo": "2744.png",
+        "venue_id": 857
+    },
+    {
+        "id": 15541,
+        "name": "Havadar",
+        "code": null,
+        "country": "Iran",
+        "founded": 2020,
+        "national": false,
+        "logo": "15541.png",
+        "venue_id": 855
+    },
+    {
+        "id": 18159,
+        "name": "Shams Azar Qazvin",
+        "code": null,
+        "country": "Iran",
+        "founded": null,
+        "national": false,
+        "logo": "18159.png",
+        "venue_id": 12591
+    },
+    {
+        "id": 20299,
+        "name": "Chadormalu SC",
+        "code": null,
+        "country": "Iran",
+        "founded": null,
+        "national": false,
+        "logo": "20299.png",
+        "venue_id": 2754
+    },
+    {
+        "id": 22890,
+        "name": "Shenavarsazi Qeshm",
+        "code": null,
+        "country": "Iran",
+        "founded": null,
+        "national": false,
+        "logo": "22890.svg",
+        "venue_id": 183591919879
+    },
+    {
+        "id": 25364,
+        "name": "Fard Alborz",
+        "code": null,
+        "country": "Iran",
+        "founded": null,
+        "national": false,
+        "logo": "25364.png",
+        "venue_id": 484707127133
+    },
+    {
+        "id": 25365,
+        "name": "Foolad Hormozgan",
+        "code": null,
+        "country": "Iran",
+        "founded": null,
+        "national": false,
+        "logo": "25365.png",
+        "venue_id": 631708790132
+    },
+    {
+        "id": 25366,
+        "name": "Shahin Tehran",
+        "code": null,
+        "country": "Iran",
+        "founded": null,
+        "national": false,
+        "logo": "25366.png",
+        "venue_id": 301077263528
+    },
+    {
+        "id": 25367,
+        "name": "Shahrdari Bandar Abbas",
+        "code": null,
+        "country": "Iran",
+        "founded": null,
+        "national": false,
+        "logo": "25367.png",
+        "venue_id": 21441
+    },
+    {
+        "id": 25368,
+        "name": "Yasa Tehran",
+        "code": null,
+        "country": "Iran",
+        "founded": null,
+        "national": false,
+        "logo": "25368.png",
+        "venue_id": 429173173795
+    }
+]

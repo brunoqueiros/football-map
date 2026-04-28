@@ -71,3 +71,4 @@ export { default as hungary } from './hungary-venues.json';
 export { default as iceland } from './iceland-venues.json';
 export { default as india } from './india-venues.json';
 export { default as indonesia } from './indonesia-venues.json';
+export { default as iran } from './iran-venues.json';

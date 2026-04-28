@@ -1,0 +1,442 @@
+[
+    {
+        "id": 2438,
+        "name": "Arema FC",
+        "code": "ARE",
+        "country": "Indonesia",
+        "founded": 1987,
+        "national": false,
+        "logo": "2438.png",
+        "venue_id": 7129
+    },
+    {
+        "id": 2439,
+        "name": "Persija Jakarta",
+        "code": "PER",
+        "country": "Indonesia",
+        "founded": null,
+        "national": false,
+        "logo": "2439.png",
+        "venue_id": 838
+    },
+    {
+        "id": 2441,
+        "name": "PSM Makassar",
+        "code": "PSM",
+        "country": "Indonesia",
+        "founded": 1915,
+        "national": false,
+        "logo": "2441.png",
+        "venue_id": 19787
+    },
+    {
+        "id": 2442,
+        "name": "Pusamania Borneo",
+        "code": null,
+        "country": "Indonesia",
+        "founded": 2014,
+        "national": false,
+        "logo": "2442.png",
+        "venue_id": 1818
+    },
+    {
+        "id": 2444,
+        "name": "Persepam Madura Utd",
+        "code": null,
+        "country": "Indonesia",
+        "founded": 1986,
+        "national": false,
+        "logo": "2444.png",
+        "venue_id": 1876
+    },
+    {
+        "id": 2445,
+        "name": "Persib Bandung",
+        "code": "PER",
+        "country": "Indonesia",
+        "founded": 1933,
+        "national": false,
+        "logo": "2445.png",
+        "venue_id": 837
+    },
+    {
+        "id": 2446,
+        "name": "Persebaya Surabaya",
+        "code": null,
+        "country": "Indonesia",
+        "founded": 1927,
+        "national": false,
+        "logo": "2446.png",
+        "venue_id": 835
+    },
+    {
+        "id": 2448,
+        "name": "Bali United",
+        "code": "SAM",
+        "country": "Indonesia",
+        "founded": 1989,
+        "national": false,
+        "logo": "2448.png",
+        "venue_id": 840
+    },
+    {
+        "id": 2451,
+        "name": "PSIS Semarang",
+        "code": null,
+        "country": "Indonesia",
+        "founded": 1932,
+        "national": false,
+        "logo": "2451.png",
+        "venue_id": 19786
+    },
+    {
+        "id": 2453,
+        "name": "Barito Putera",
+        "code": "BAR",
+        "country": "Indonesia",
+        "founded": 1988,
+        "national": false,
+        "logo": "2453.png",
+        "venue_id": 833
+    },
+    {
+        "id": 2456,
+        "name": "Semen Padang",
+        "code": "SEM",
+        "country": "Indonesia",
+        "founded": 1980,
+        "national": false,
+        "logo": "2456.png",
+        "venue_id": 2749
+    },
+    {
+        "id": 3882,
+        "name": "PSS Sleman",
+        "code": null,
+        "country": "Indonesia",
+        "founded": 1976,
+        "national": false,
+        "logo": "3882.png",
+        "venue_id": 2751
+    },
+    {
+        "id": 4232,
+        "name": "PSBS Biak Numfor",
+        "code": null,
+        "country": "Indonesia",
+        "founded": 1968,
+        "national": false,
+        "logo": "4232.png",
+        "venue_id": 3228
+    },
+    {
+        "id": 4241,
+        "name": "Persik Kediri",
+        "code": "PER",
+        "country": "Indonesia",
+        "founded": 1950,
+        "national": false,
+        "logo": "4241.png",
+        "venue_id": 3237
+    },
+    {
+        "id": 4243,
+        "name": "Persis Solo",
+        "code": null,
+        "country": "Indonesia",
+        "founded": null,
+        "national": false,
+        "logo": "4243.png",
+        "venue_id": 3239
+    },
+    {
+        "id": 4244,
+        "name": "Persita",
+        "code": "PER",
+        "country": "Indonesia",
+        "founded": 1953,
+        "national": false,
+        "logo": "4244.png",
+        "venue_id": 3892
+    },
+    {
+        "id": 17902,
+        "name": "Dewa United",
+        "code": null,
+        "country": "Indonesia",
+        "founded": null,
+        "national": false,
+        "logo": "17902.png",
+        "venue_id": 995209139563
+    },
+    {
+        "id": 22409,
+        "name": "Malut United",
+        "code": null,
+        "country": "Indonesia",
+        "founded": null,
+        "national": false,
+        "logo": "22409.png",
+        "venue_id": 301900782049
+    },
+    {
+        "id": 2440,
+        "name": "Persipura Jayapura",
+        "code": "PER",
+        "country": "Indonesia",
+        "founded": 1963,
+        "national": false,
+        "logo": "2440.png",
+        "venue_id": 839
+    },
+    {
+        "id": 2443,
+        "name": "Bhayangkara FC",
+        "code": null,
+        "country": "Indonesia",
+        "founded": 2016,
+        "national": false,
+        "logo": "2443.png",
+        "venue_id": 21270
+    },
+    {
+        "id": 2447,
+        "name": "PSMS Medan",
+        "code": null,
+        "country": "Indonesia",
+        "founded": 1930,
+        "national": false,
+        "logo": "2447.png",
+        "venue_id": 20295
+    },
+    {
+        "id": 2449,
+        "name": "PS TIRA",
+        "code": null,
+        "country": "Indonesia",
+        "founded": 2015,
+        "national": false,
+        "logo": "2449.png",
+        "venue_id": 842
+    },
+    {
+        "id": 2450,
+        "name": "Persela Lamongan",
+        "code": "PER",
+        "country": "Indonesia",
+        "founded": 1967,
+        "national": false,
+        "logo": "2450.png",
+        "venue_id": 22590
+    },
+    {
+        "id": 2454,
+        "name": "Sriwijaya FC",
+        "code": "SRI",
+        "country": "Indonesia",
+        "founded": 1976,
+        "national": false,
+        "logo": "2454.png",
+        "venue_id": 844
+    },
+    {
+        "id": 4229,
+        "name": "Cilegon United",
+        "code": null,
+        "country": "Indonesia",
+        "founded": null,
+        "national": false,
+        "logo": "4229.png",
+        "venue_id": 842
+    },
+    {
+        "id": 4235,
+        "name": "PSIM Yogyakarta",
+        "code": null,
+        "country": "Indonesia",
+        "founded": 1929,
+        "national": false,
+        "logo": "4235.png",
+        "venue_id": 3231
+    },
+    {
+        "id": 4236,
+        "name": "PSPS",
+        "code": "PEK",
+        "country": "Indonesia",
+        "founded": null,
+        "national": false,
+        "logo": "4236.png",
+        "venue_id": 20293
+    },
+    {
+        "id": 4239,
+        "name": "Persewar",
+        "code": null,
+        "country": "Indonesia",
+        "founded": null,
+        "national": false,
+        "logo": "4239.png",
+        "venue_id": 3235
+    },
+    {
+        "id": 4242,
+        "name": "Persiraja Banda Aceh",
+        "code": "PEA",
+        "country": "Indonesia",
+        "founded": null,
+        "national": false,
+        "logo": "4242.png",
+        "venue_id": 11153
+    },
+    {
+        "id": 11129,
+        "name": "PSKC Cimahi",
+        "code": null,
+        "country": "Indonesia",
+        "founded": null,
+        "national": false,
+        "logo": "11129.png",
+        "venue_id": 7439
+    },
+    {
+        "id": 11130,
+        "name": "Persekat",
+        "code": null,
+        "country": "Indonesia",
+        "founded": null,
+        "national": false,
+        "logo": "11130.png",
+        "venue_id": 22591
+    },
+    {
+        "id": 11132,
+        "name": "Persijap",
+        "code": "JEP",
+        "country": "Indonesia",
+        "founded": 1954,
+        "national": false,
+        "logo": "11132.png",
+        "venue_id": 7441
+    },
+    {
+        "id": 11133,
+        "name": "Bekasi City",
+        "code": null,
+        "country": "Indonesia",
+        "founded": 2022,
+        "national": false,
+        "logo": "11133.png",
+        "venue_id": 22592
+    },
+    {
+        "id": 15771,
+        "name": "Deltras",
+        "code": null,
+        "country": "Indonesia",
+        "founded": 1989,
+        "national": false,
+        "logo": "15771.png",
+        "venue_id": 11157
+    },
+    {
+        "id": 15800,
+        "name": "Persegres Gresik United",
+        "code": "GRE",
+        "country": "Indonesia",
+        "founded": 2005,
+        "national": false,
+        "logo": "15800.png",
+        "venue_id": 20296
+    },
+    {
+        "id": 15814,
+        "name": "Persibo",
+        "code": null,
+        "country": "Indonesia",
+        "founded": null,
+        "national": false,
+        "logo": "15814.png",
+        "venue_id": 11173
+    },
+    {
+        "id": 15830,
+        "name": "Persipal",
+        "code": null,
+        "country": "Indonesia",
+        "founded": 1977,
+        "national": false,
+        "logo": "15830.png",
+        "venue_id": 11156
+    },
+    {
+        "id": 20074,
+        "name": "Nusantara United",
+        "code": null,
+        "country": "Indonesia",
+        "founded": 2022,
+        "national": false,
+        "logo": "20074.png",
+        "venue_id": 551884170211
+    },
+    {
+        "id": 20076,
+        "name": "Persipa Pati",
+        "code": null,
+        "country": "Indonesia",
+        "founded": 1951,
+        "national": false,
+        "logo": "20076.png",
+        "venue_id": 704144033566
+    },
+    {
+        "id": 24993,
+        "name": "Adhyaksa",
+        "code": null,
+        "country": "Indonesia",
+        "founded": 2020,
+        "national": false,
+        "logo": "24993.png",
+        "venue_id": 22593
+    },
+    {
+        "id": 24994,
+        "name": "Dejan",
+        "code": null,
+        "country": "Indonesia",
+        "founded": null,
+        "national": false,
+        "logo": "24994.png",
+        "venue_id": 468505998510
+    },
+    {
+        "id": 24995,
+        "name": "Persikas",
+        "code": null,
+        "country": "Indonesia",
+        "founded": null,
+        "national": false,
+        "logo": "24995.png",
+        "venue_id": 319306994513
+    },
+    {
+        "id": 24996,
+        "name": "Persikota Tangerang",
+        "code": null,
+        "country": "Indonesia",
+        "founded": 0,
+        "national": false,
+        "logo": "24996.png",
+        "venue_id": 999017545005
+    },
+    {
+        "id": 24997,
+        "name": "Persiku Kudus",
+        "code": null,
+        "country": "Indonesia",
+        "founded": null,
+        "national": false,
+        "logo": "24997.png",
+        "venue_id": 21271
+    }
+]
