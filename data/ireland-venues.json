@@ -1,0 +1,322 @@
+[
+  {
+    "id": 864,
+    "name": "Oriel Park",
+    "city": "Dundalk",
+    "capacity": 4500,
+    "latitude": 53.9989281,
+    "longitude": -6.4165376
+  },
+  {
+    "id": 865,
+    "name": "Tallaght Stadium",
+    "city": "Dublin",
+    "capacity": 10500,
+    "latitude": 53.2835353,
+    "longitude": -6.3736726
+  },
+  {
+    "id": 863,
+    "name": "Turner's Cross",
+    "city": "Cork",
+    "capacity": 7485,
+    "latitude": 51.88526419999999,
+    "longitude": -8.4685816
+  },
+  {
+    "id": 1172,
+    "name": "The Ryan McBride Brandywell Stadium",
+    "city": "Derry (Londonderry)",
+    "capacity": 7000,
+    "latitude": 54.9905418,
+    "longitude": -7.3359697
+  },
+  {
+    "id": 2625,
+    "name": "Dalymount Park",
+    "city": "Dublin",
+    "capacity": 4443,
+    "latitude": 53.3618671,
+    "longitude": -6.274961299999999
+  },
+  {
+    "id": 2626,
+    "name": "Finn Park",
+    "city": "Ballybofey",
+    "capacity": 4458,
+    "latitude": 54.7979247,
+    "longitude": -7.7798178
+  },
+  {
+    "id": 2627,
+    "name": "The Showgrounds",
+    "city": "Sligo",
+    "capacity": 6100,
+    "latitude": 54.2699727,
+    "longitude": -8.487447399999999
+  },
+  {
+    "id": 2628,
+    "name": "Richmond Park",
+    "city": "Dublin",
+    "capacity": 5500,
+    "latitude": 53.3409846,
+    "longitude": -6.3167475
+  },
+  {
+    "id": 2629,
+    "name": "UCD Bowl",
+    "city": "Dublin",
+    "capacity": 3000,
+    "latitude": 53.3104548,
+    "longitude": -6.228066
+  },
+  {
+    "id": 2630,
+    "name": "Waterford Regional Sports Centre",
+    "city": "Waterford",
+    "capacity": 5500,
+    "latitude": 52.246716,
+    "longitude": -7.1263229
+  },
+  {
+    "id": 2631,
+    "name": "Athlone Town Stadium",
+    "city": "Athlone",
+    "capacity": 5000,
+    "latitude": 53.4275525,
+    "longitude": -7.919059499999999
+  },
+  {
+    "id": 2632,
+    "name": "Carlisle Grounds",
+    "city": "Bray",
+    "capacity": 3500,
+    "latitude": 53.20571589999999,
+    "longitude": -6.1027236
+  },
+  {
+    "id": 11537,
+    "name": "St. Colman's Park",
+    "city": "Cobh",
+    "capacity": 5000,
+    "latitude": 51.85217429999999,
+    "longitude": -8.3013078
+  },
+  {
+    "id": 21869,
+    "name": "Sullivan & Lambe Park",
+    "city": "Drogheda",
+    "capacity": 3500,
+    "latitude": 53.723266,
+    "longitude": -6.356725399999999
+  },
+  {
+    "id": 2636,
+    "name": "Eamonn Deacy Park",
+    "city": "Galway",
+    "capacity": 5000,
+    "latitude": 53.2845395,
+    "longitude": -9.056252299999999
+  },
+  {
+    "id": 2638,
+    "name": "Bishopsgate Stadium",
+    "city": "Longford Town",
+    "capacity": 5097,
+    "latitude": 53.7246001,
+    "longitude": -7.853338900000001
+  },
+  {
+    "id": 2639,
+    "name": "Tolka Park",
+    "city": "Dublin",
+    "capacity": 9681,
+    "latitude": 53.3674969,
+    "longitude": -6.2518634
+  },
+  {
+    "id": 2640,
+    "name": "Ferrycarrig Park",
+    "city": "Newcastle",
+    "capacity": 2609,
+    "latitude": 52.3654591,
+    "longitude": -6.515968699999999
+  },
+  {
+    "id": 20688,
+    "name": "Oldchurch Park",
+    "city": "Cobh",
+    "capacity": 1000,
+    "latitude": 51.8630686,
+    "longitude": -8.296483499999999
+  },
+  {
+    "id": 347145881123,
+    "name": "Clonshaugh Astro Park",
+    "city": "Dublin",
+    "capacity": null,
+    "latitude": 53.3971295,
+    "longitude": -6.2301426
+  },
+  {
+    "id": 4537,
+    "name": "Market Green",
+    "city": "Balbriggan",
+    "capacity": 1000,
+    "latitude": 53.6061817,
+    "longitude": -6.180015999999999
+  },
+  {
+    "id": 20689,
+    "name": "Rathcoffey Road Ground",
+    "city": "Maynooth",
+    "capacity": 1000,
+    "latitude": 53.37101149999999,
+    "longitude": -6.6151195
+  },
+  {
+    "id": 645755978084,
+    "name": "Charlie O'Donnell Sports Grounds",
+    "city": "Buncrana",
+    "capacity": 0,
+    "latitude": 55.15005799999999,
+    "longitude": -7.437463
+  },
+  {
+    "id": 980130232771,
+    "name": "The Recreation Ground",
+    "city": "Kerry",
+    "capacity": null,
+    "latitude": 51.38249580000001,
+    "longitude": -2.3551492
+  },
+  {
+    "id": 2637,
+    "name": "Markets Field",
+    "city": "Limerick",
+    "capacity": 5000,
+    "latitude": 52.6604052,
+    "longitude": -8.6148929
+  },
+  {
+    "id": 12050,
+    "name": "Corinthians Park",
+    "city": "Cork",
+    "capacity": 1000,
+    "latitude": 51.8583345,
+    "longitude": -8.4407414
+  },
+  {
+    "id": 96163629844,
+    "name": "Crosagalla",
+    "city": "Limerick",
+    "capacity": null,
+    "latitude": 52.6469878,
+    "longitude": -8.595180899999999
+  },
+  {
+    "id": 833946142403,
+    "name": "Villa F.C.",
+    "city": "Waterford",
+    "capacity": 45202,
+    "latitude": 52.2504165601972,
+    "longitude": -7.111684115039619
+  },
+  {
+    "id": 21749,
+    "name": "Knockgriffin Industrial Park",
+    "city": "Midleton",
+    "capacity": 1500,
+    "latitude": 51.91423,
+    "longitude": -8.1889001
+  },
+  {
+    "id": 899289508532,
+    "name": "Makers and Growers Field",
+    "city": "Gorey",
+    "capacity": null,
+    "latitude": 52.675822,
+    "longitude": -6.286625
+  },
+  {
+    "id": 215350931546,
+    "name": "Foxfield",
+    "city": "Dublin",
+    "capacity": null,
+    "latitude": 53.3827225,
+    "longitude": -6.1596305
+  },
+  {
+    "id": 19722,
+    "name": "Ringmahon Park",
+    "city": "Cork",
+    "capacity": 1000,
+    "latitude": 51.8921979,
+    "longitude": -8.3949585
+  },
+  {
+    "id": 218315788745,
+    "name": "Rockmount Park",
+    "city": "Whitechurch",
+    "capacity": null,
+    "latitude": 51.9839669,
+    "longitude": -8.5141641
+  },
+  {
+    "id": 20571,
+    "name": "Jackson Park",
+    "city": "Kilternan",
+    "capacity": 1000,
+    "latitude": 53.2415742,
+    "longitude": -6.1862827
+  },
+  {
+    "id": 693002826006,
+    "name": "Foxfield Road",
+    "city": "Dublin",
+    "capacity": null,
+    "latitude": 53.3824929,
+    "longitude": -6.164291899999999
+  },
+  {
+    "id": 690373056561,
+    "name": "Markiewicz Park",
+    "city": "Dublin",
+    "capacity": null,
+    "latitude": 53.3409437,
+    "longitude": -6.339826
+  },
+  {
+    "id": 163629582384,
+    "name": "Baldonnel Park",
+    "city": "Dublin",
+    "capacity": null,
+    "latitude": 53.2944393,
+    "longitude": -6.4443058
+  },
+  {
+    "id": 768661514230,
+    "name": "Pat Bowdren Park",
+    "city": "Cork",
+    "capacity": null,
+    "latitude": 51.8970332,
+    "longitude": -8.531027
+  },
+  {
+    "id": 20798,
+    "name": "Ballea Astro East",
+    "city": "Carrigaline",
+    "capacity": 1000,
+    "latitude": 51.8171135,
+    "longitude": -8.403407699999999
+  },
+  {
+    "id": 252495513099,
+    "name": "Leeds AFC",
+    "city": "Cork",
+    "capacity": null,
+    "latitude": 51.91798319999999,
+    "longitude": -8.457470299999999
+  }
+]

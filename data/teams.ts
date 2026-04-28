@@ -73,3 +73,4 @@ export { default as india } from './india-teams.json';
 export { default as indonesia } from './indonesia-teams.json';
 export { default as iran } from './iran-teams.json';
 export { default as iraq } from './iraq-teams.json';
+export { default as ireland } from './ireland-teams.json';

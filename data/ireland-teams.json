@@ -1,0 +1,402 @@
+[
+    {
+        "id": 584,
+        "name": "Dundalk",
+        "code": "DUN",
+        "country": "Ireland",
+        "founded": 1903,
+        "national": false,
+        "logo": "584.png",
+        "venue_id": 864
+    },
+    {
+        "id": 652,
+        "name": "Shamrock Rovers",
+        "code": "SHA",
+        "country": "Ireland",
+        "founded": 1899,
+        "national": false,
+        "logo": "652.png",
+        "venue_id": 865
+    },
+    {
+        "id": 653,
+        "name": "Cork City",
+        "code": "COR",
+        "country": "Ireland",
+        "founded": 1984,
+        "national": false,
+        "logo": "653.png",
+        "venue_id": 863
+    },
+    {
+        "id": 670,
+        "name": "Derry City",
+        "code": "DER",
+        "country": "Ireland",
+        "founded": 1928,
+        "national": false,
+        "logo": "670.png",
+        "venue_id": 1172
+    },
+    {
+        "id": 3840,
+        "name": "Bohemians",
+        "code": "BOH",
+        "country": "Ireland",
+        "founded": 1890,
+        "national": false,
+        "logo": "3840.png",
+        "venue_id": 2625
+    },
+    {
+        "id": 3841,
+        "name": "Finn Harps",
+        "code": "FIN",
+        "country": "Ireland",
+        "founded": 1954,
+        "national": false,
+        "logo": "3841.png",
+        "venue_id": 2626
+    },
+    {
+        "id": 3842,
+        "name": "Sligo Rovers",
+        "code": "SLI",
+        "country": "Ireland",
+        "founded": 1928,
+        "national": false,
+        "logo": "3842.png",
+        "venue_id": 2627
+    },
+    {
+        "id": 3843,
+        "name": "St Patrick's Athl.",
+        "code": "PAT",
+        "country": "Ireland",
+        "founded": 1929,
+        "national": false,
+        "logo": "3843.png",
+        "venue_id": 2628
+    },
+    {
+        "id": 3844,
+        "name": "UCD",
+        "code": "UCD",
+        "country": "Ireland",
+        "founded": 1895,
+        "national": false,
+        "logo": "3844.png",
+        "venue_id": 2629
+    },
+    {
+        "id": 3845,
+        "name": "Waterford",
+        "code": "WAT",
+        "country": "Ireland",
+        "founded": 1930,
+        "national": false,
+        "logo": "3845.png",
+        "venue_id": 2630
+    },
+    {
+        "id": 3846,
+        "name": "Athlone Town",
+        "code": "ATH",
+        "country": "Ireland",
+        "founded": 1887,
+        "national": false,
+        "logo": "3846.png",
+        "venue_id": 2631
+    },
+    {
+        "id": 3847,
+        "name": "Bray Wanderers",
+        "code": "BRA",
+        "country": "Ireland",
+        "founded": 1942,
+        "national": false,
+        "logo": "3847.png",
+        "venue_id": 2632
+    },
+    {
+        "id": 3849,
+        "name": "Cobh Ramblers",
+        "code": "COB",
+        "country": "Ireland",
+        "founded": 1922,
+        "national": false,
+        "logo": "3849.png",
+        "venue_id": 11537
+    },
+    {
+        "id": 3850,
+        "name": "Drogheda United",
+        "code": "DRO",
+        "country": "Ireland",
+        "founded": 1975,
+        "national": false,
+        "logo": "3850.png",
+        "venue_id": 21869
+    },
+    {
+        "id": 3851,
+        "name": "Galway United",
+        "code": "GAL",
+        "country": "Ireland",
+        "founded": 2013,
+        "national": false,
+        "logo": "3851.png",
+        "venue_id": 2636
+    },
+    {
+        "id": 3853,
+        "name": "Longford Town",
+        "code": "LON",
+        "country": "Ireland",
+        "founded": 1924,
+        "national": false,
+        "logo": "3853.png",
+        "venue_id": 2638
+    },
+    {
+        "id": 3854,
+        "name": "Shelbourne",
+        "code": "SHE",
+        "country": "Ireland",
+        "founded": 1895,
+        "national": false,
+        "logo": "3854.png",
+        "venue_id": 2639
+    },
+    {
+        "id": 3855,
+        "name": "Wexford",
+        "code": "WEX",
+        "country": "Ireland",
+        "founded": 2007,
+        "national": false,
+        "logo": "3855.png",
+        "venue_id": 2640
+    },
+    {
+        "id": 6116,
+        "name": "Cobh Wanderers",
+        "code": null,
+        "country": "Ireland",
+        "founded": 1981,
+        "national": false,
+        "logo": "6116.png",
+        "venue_id": 20688
+    },
+    {
+        "id": 6117,
+        "name": "Collinstown",
+        "code": "COL",
+        "country": "Ireland",
+        "founded": null,
+        "national": false,
+        "logo": "6117.png",
+        "venue_id": 347145881123
+    },
+    {
+        "id": 6119,
+        "name": "Glebe North",
+        "code": "GLE",
+        "country": "Ireland",
+        "founded": null,
+        "national": false,
+        "logo": "6119.png",
+        "venue_id": 4537
+    },
+    {
+        "id": 6125,
+        "name": "Maynooth University Town",
+        "code": null,
+        "country": "Ireland",
+        "founded": null,
+        "national": false,
+        "logo": "6125.png",
+        "venue_id": 20689
+    },
+    {
+        "id": 6128,
+        "name": "Cockhill Celtic",
+        "code": "COC",
+        "country": "Ireland",
+        "founded": 0,
+        "national": false,
+        "logo": "6128.png",
+        "venue_id": 645755978084
+    },
+    {
+        "id": 11328,
+        "name": "Kerry",
+        "code": null,
+        "country": "Wales",
+        "founded": null,
+        "national": false,
+        "logo": "11328.png",
+        "venue_id": 980130232771
+    },
+    {
+        "id": 16498,
+        "name": "Treaty United",
+        "code": null,
+        "country": "Ireland",
+        "founded": 2020,
+        "national": false,
+        "logo": "16498.png",
+        "venue_id": 2637
+    },
+    {
+        "id": 17154,
+        "name": "College Corinthians",
+        "code": "COL",
+        "country": "Ireland",
+        "founded": null,
+        "national": false,
+        "logo": "17154.png",
+        "venue_id": 12050
+    },
+    {
+        "id": 19125,
+        "name": "Pike Rovers",
+        "code": null,
+        "country": "Ireland",
+        "founded": 0,
+        "national": false,
+        "logo": "19125.png",
+        "venue_id": 96163629844
+    },
+    {
+        "id": 19127,
+        "name": "Villa",
+        "code": null,
+        "country": "Ireland",
+        "founded": null,
+        "national": false,
+        "logo": "19127.png",
+        "venue_id": 833946142403
+    },
+    {
+        "id": 20814,
+        "name": "Midleton",
+        "code": null,
+        "country": "Ireland",
+        "founded": null,
+        "national": false,
+        "logo": "20814.png",
+        "venue_id": 21749
+    },
+    {
+        "id": 21401,
+        "name": "Gorey Rangers",
+        "code": null,
+        "country": "Ireland",
+        "founded": null,
+        "national": false,
+        "logo": "21401.png",
+        "venue_id": 899289508532
+    },
+    {
+        "id": 21402,
+        "name": "Kilbarrack United",
+        "code": null,
+        "country": "Ireland",
+        "founded": null,
+        "national": false,
+        "logo": "21402.svg",
+        "venue_id": 215350931546
+    },
+    {
+        "id": 21404,
+        "name": "Ringmahon Rangers",
+        "code": null,
+        "country": "Ireland",
+        "founded": null,
+        "national": false,
+        "logo": "21404.png",
+        "venue_id": 19722
+    },
+    {
+        "id": 21405,
+        "name": "Rockmount",
+        "code": null,
+        "country": "Ireland",
+        "founded": 1924,
+        "national": false,
+        "logo": "21405.png",
+        "venue_id": 218315788745
+    },
+    {
+        "id": 22931,
+        "name": "Wayside Celtic",
+        "code": null,
+        "country": "Ireland",
+        "founded": null,
+        "national": false,
+        "logo": "22931.png",
+        "venue_id": 20571
+    },
+    {
+        "id": 23534,
+        "name": "Ayrfield United",
+        "code": null,
+        "country": "Ireland",
+        "founded": null,
+        "national": false,
+        "logo": "23534.svg",
+        "venue_id": 693002826006
+    },
+    {
+        "id": 23535,
+        "name": "Ballyfermot United",
+        "code": null,
+        "country": "Ireland",
+        "founded": null,
+        "national": false,
+        "logo": "23535.svg",
+        "venue_id": 690373056561
+    },
+    {
+        "id": 23536,
+        "name": "St. Francis",
+        "code": null,
+        "country": "Ireland",
+        "founded": 1958,
+        "national": false,
+        "logo": "23536.svg",
+        "venue_id": 163629582384
+    },
+    {
+        "id": 23537,
+        "name": "Wilton United",
+        "code": null,
+        "country": "Ireland",
+        "founded": null,
+        "national": false,
+        "logo": "23537.png",
+        "venue_id": 768661514230
+    },
+    {
+        "id": 23739,
+        "name": "Carrigaline United",
+        "code": null,
+        "country": "Ireland",
+        "founded": null,
+        "national": false,
+        "logo": "23739.png",
+        "venue_id": 20798
+    },
+    {
+        "id": 23740,
+        "name": "Leeds",
+        "code": null,
+        "country": "Ireland",
+        "founded": null,
+        "national": false,
+        "logo": "23740.svg",
+        "venue_id": 252495513099
+    }
+]
