@@ -1,0 +1,66 @@
+[
+  {
+    "id": 787,
+    "name": "Estadio Yankel Rosenthal",
+    "city": "San Pedro Sula",
+    "capacity": 15000,
+    "latitude": 15.4953694,
+    "longitude": -87.9990617
+  },
+  {
+    "id": 19208,
+    "name": "Estadio José de la Paz Herrera Uclés",
+    "city": "Tegucigalpa",
+    "capacity": 35000,
+    "latitude": 14.0984534,
+    "longitude": -87.2039188
+  },
+  {
+    "id": 2739,
+    "name": "Estadio Francisco Martínez Durón",
+    "city": "Tocoa",
+    "capacity": 10000,
+    "latitude": 15.6553232,
+    "longitude": -85.98836879999999
+  },
+  {
+    "id": 19392,
+    "name": "Estadio Juan Ramón Brevé Vargas",
+    "city": "Juticalpa",
+    "capacity": 22000,
+    "latitude": 14.6585826,
+    "longitude": -86.216308
+  },
+  {
+    "id": 790,
+    "name": "Estadio Francisco Morazán",
+    "city": "San Pedro Sula",
+    "capacity": 26781,
+    "latitude": 15.5074526,
+    "longitude": -88.0334295
+  },
+  {
+    "id": 22704,
+    "name": "Estadio Emilio Williams Agasse",
+    "city": "Choluteca",
+    "capacity": 8000,
+    "latitude": 13.2954609,
+    "longitude": -87.14911889999999
+  },
+  {
+    "id": 791,
+    "name": "Estadio Ceibeño Nilmo Edwards",
+    "city": "La Ceiba",
+    "capacity": 18000,
+    "latitude": 15.7865521,
+    "longitude": -86.7859431
+  },
+  {
+    "id": 22706,
+    "name": "Estadio Carlos Miranda",
+    "city": "Comayagua",
+    "capacity": 10000,
+    "latitude": 14.4536224,
+    "longitude": -87.6567982
+  }
+]

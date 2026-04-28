@@ -1,0 +1,102 @@
+[
+    {
+        "id": 1050,
+        "name": "CD Marathon",
+        "code": null,
+        "country": "Honduras",
+        "founded": 1925,
+        "national": false,
+        "logo": "1050.png",
+        "venue_id": 787
+    },
+    {
+        "id": 1051,
+        "name": "CD Olimpia",
+        "code": null,
+        "country": "Honduras",
+        "founded": 1912,
+        "national": false,
+        "logo": "1051.png",
+        "venue_id": 19208
+    },
+    {
+        "id": 1052,
+        "name": "CD Real Sociedad",
+        "code": null,
+        "country": "Honduras",
+        "founded": null,
+        "national": false,
+        "logo": "1052.png",
+        "venue_id": 2739
+    },
+    {
+        "id": 1053,
+        "name": "Juticalpa",
+        "code": null,
+        "country": "Honduras",
+        "founded": 2004,
+        "national": false,
+        "logo": "1053.png",
+        "venue_id": 19392
+    },
+    {
+        "id": 1055,
+        "name": "CD Motagua",
+        "code": null,
+        "country": "Honduras",
+        "founded": 1928,
+        "national": false,
+        "logo": "1055.png",
+        "venue_id": 19208
+    },
+    {
+        "id": 1058,
+        "name": "Real Espana",
+        "code": null,
+        "country": "Honduras",
+        "founded": 1929,
+        "national": false,
+        "logo": "1058.png",
+        "venue_id": 790
+    },
+    {
+        "id": 1059,
+        "name": "Lobos Upnfm",
+        "code": null,
+        "country": "Honduras",
+        "founded": 2010,
+        "national": false,
+        "logo": "1059.png",
+        "venue_id": 22704
+    },
+    {
+        "id": 11682,
+        "name": "Victoria",
+        "code": "VIC",
+        "country": "Honduras",
+        "founded": 1935,
+        "national": false,
+        "logo": "11682.png",
+        "venue_id": 791
+    },
+    {
+        "id": 19456,
+        "name": "Olancho",
+        "code": null,
+        "country": "Honduras",
+        "founded": 2010,
+        "national": false,
+        "logo": "19456.png",
+        "venue_id": 19392
+    },
+    {
+        "id": 21858,
+        "name": "Génesis",
+        "code": null,
+        "country": "Honduras",
+        "founded": 0,
+        "national": false,
+        "logo": "21858.png",
+        "venue_id": 22706
+    }
+]
