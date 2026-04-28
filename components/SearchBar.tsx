@@ -118,6 +118,8 @@ const COUNTRIES: Record<string, string> = {
   'indonesia': '🇮🇩',
   'iran': '🇮🇷',
   'iraq': '🇮🇶',
+  'new-caledonia': '🇳🇨',
+  'ivory-coast': '🇨🇮',
 };
 
 export const flag = (country: string) => COUNTRIES[country.replaceAll(' ', '-').toLocaleLowerCase()];
