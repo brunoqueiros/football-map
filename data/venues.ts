@@ -63,3 +63,4 @@ export { default as grenada } from './grenada-venues.json';
 export { default as guadeloupe } from './guadeloupe-venues.json';
 export { default as greece } from './greece-venues.json';
 export { default as guatemala } from './guatemala-venues.json';
+export { default as guinea } from './guinea-venues.json';

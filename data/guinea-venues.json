@@ -1,0 +1,66 @@
+[
+  {
+    "id": 20965,
+    "name": "Stade Général Lansana Conté",
+    "city": "Conakry",
+    "capacity": 50000,
+    "latitude": 9.6242745,
+    "longitude": -13.6266179
+  },
+  {
+    "id": 3364,
+    "name": "Stade de l'Amitié",
+    "city": "Kamsar",
+    "capacity": 2000,
+    "latitude": 10.6608205,
+    "longitude": -14.596158
+  },
+  {
+    "id": 21524,
+    "name": "Stade Municipal de Coléah",
+    "city": "Conakry",
+    "capacity": 1000,
+    "latitude": 9.5294922,
+    "longitude": -13.6806869
+  },
+  {
+    "id": 21525,
+    "name": "Stade Petit Sory",
+    "city": "Conakry",
+    "capacity": 1000,
+    "latitude": 9.625074099999999,
+    "longitude": -13.6294677
+  },
+  {
+    "id": 21526,
+    "name": "Sports Center - Yorokoguia-Horoya AC",
+    "city": "Dubreka",
+    "capacity": 5000,
+    "latitude": 9.790718799999999,
+    "longitude": -13.5147356
+  },
+  {
+    "id": 3362,
+    "name": "Stade de la Mission",
+    "city": "Conakry",
+    "capacity": 3000,
+    "latitude": 9.512237599999999,
+    "longitude": -13.7036361
+  },
+  {
+    "id": 21527,
+    "name": "Stade de Télimélé",
+    "city": "Télimélé",
+    "capacity": 1000,
+    "latitude": 10.9118375,
+    "longitude": -13.0334531
+  },
+  {
+    "id": 220336956289,
+    "name": "Academy Foot De La Réussite",
+    "city": "Conakry",
+    "capacity": null,
+    "latitude": 9.583300000000001,
+    "longitude": -13.6588196
+  }
+]

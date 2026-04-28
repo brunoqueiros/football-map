@@ -1,0 +1,142 @@
+[
+    {
+        "id": 4410,
+        "name": "Ashanti GB",
+        "code": null,
+        "country": "Guinea",
+        "founded": 1999,
+        "national": false,
+        "logo": "4410.png",
+        "venue_id": 20965
+    },
+    {
+        "id": 4411,
+        "name": "CI Kamsar",
+        "code": null,
+        "country": "Guinea",
+        "founded": null,
+        "national": false,
+        "logo": "4411.png",
+        "venue_id": 3364
+    },
+    {
+        "id": 4412,
+        "name": "CO Coyah",
+        "code": null,
+        "country": "Guinea",
+        "founded": null,
+        "national": false,
+        "logo": "4412.png",
+        "venue_id": 21524
+    },
+    {
+        "id": 4416,
+        "name": "Hafia",
+        "code": null,
+        "country": "Guinea",
+        "founded": 1966,
+        "national": false,
+        "logo": "4416.png",
+        "venue_id": 21525
+    },
+    {
+        "id": 4417,
+        "name": "Horoya",
+        "code": "HOR",
+        "country": "Guinea",
+        "founded": 1984,
+        "national": false,
+        "logo": "4417.png",
+        "venue_id": 21526
+    },
+    {
+        "id": 4418,
+        "name": "Kaloum Star",
+        "code": null,
+        "country": "Guinea",
+        "founded": 1983,
+        "national": false,
+        "logo": "4418.png",
+        "venue_id": 3362
+    },
+    {
+        "id": 4422,
+        "name": "Wakirya",
+        "code": null,
+        "country": "Guinea",
+        "founded": null,
+        "national": false,
+        "logo": "4422.png",
+        "venue_id": 3364
+    },
+    {
+        "id": 4424,
+        "name": "Milo",
+        "code": null,
+        "country": "Guinea",
+        "founded": null,
+        "national": false,
+        "logo": "4424.png",
+        "venue_id": 20965
+    },
+    {
+        "id": 9320,
+        "name": "Flamme Olympique",
+        "code": null,
+        "country": "Guinea",
+        "founded": null,
+        "national": false,
+        "logo": "9320.png",
+        "venue_id": 21525
+    },
+    {
+        "id": 9321,
+        "name": "Loubha Télimélé",
+        "code": null,
+        "country": "Guinea",
+        "founded": null,
+        "national": false,
+        "logo": "9321.png",
+        "venue_id": 21527
+    },
+    {
+        "id": 20627,
+        "name": "ASM Sangarédi",
+        "code": null,
+        "country": "Guinea",
+        "founded": null,
+        "national": false,
+        "logo": "20627.png",
+        "venue_id": 21525
+    },
+    {
+        "id": 20726,
+        "name": "Renaissance",
+        "code": null,
+        "country": "Guinea",
+        "founded": null,
+        "national": false,
+        "logo": "20726.png",
+        "venue_id": 21524
+    },
+    {
+        "id": 25447,
+        "name": "Guinée Foot Elite",
+        "code": null,
+        "country": "Guinea",
+        "founded": null,
+        "national": false,
+        "logo": "25447.png",
+        "venue_id": 220336956289
+    },
+    {
+        "id": 25448,
+        "name": "RCC Kamsar",
+        "code": null,
+        "country": "Guinea",
+        "founded": null,
+        "national": false,
+        "logo": "25448.png",
+        "venue_id": 3364
+    }
+]
