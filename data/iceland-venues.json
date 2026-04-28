@@ -1,0 +1,450 @@
+[
+  {
+    "id": 826,
+    "name": "Hásteinsvöllur",
+    "city": "Vestmannaeyjar",
+    "capacity": 3034,
+    "latitude": 63.4394138,
+    "longitude": -20.2875293
+  },
+  {
+    "id": 19615,
+    "name": "HS Orku völlurinn",
+    "city": "Keflavík",
+    "capacity": 4957,
+    "latitude": 63.9979619,
+    "longitude": -22.5585884
+  },
+  {
+    "id": 1956,
+    "name": "Extra völlurinn",
+    "city": "Reykjavík",
+    "capacity": 2000,
+    "latitude": 64.1459969,
+    "longitude": -21.9681842
+  },
+  {
+    "id": 823,
+    "name": "Mustad völlurinn",
+    "city": "Grindavík",
+    "capacity": 1750,
+    "latitude": 63.8445069,
+    "longitude": -22.4294153
+  },
+  {
+    "id": 2318,
+    "name": "Eimskipsvöllurinn",
+    "city": "Reykjavík",
+    "capacity": 5478,
+    "latitude": 64.1532869,
+    "longitude": -21.8706893
+  },
+  {
+    "id": 2320,
+    "name": "Leiknisvöllur",
+    "city": "Reykjavík",
+    "capacity": 1300,
+    "latitude": 64.10218619999999,
+    "longitude": -21.8204451
+  },
+  {
+    "id": 20542,
+    "name": "VÍS völlurinn",
+    "city": "Akureyri",
+    "capacity": 1550,
+    "latitude": 65.6766863,
+    "longitude": -18.1143565
+  },
+  {
+    "id": 2314,
+    "name": "Vivaldivöllurinn",
+    "city": "Seltjarnarnes",
+    "capacity": 1050,
+    "latitude": 64.15017139999999,
+    "longitude": -21.9957418
+  },
+  {
+    "id": 2322,
+    "name": "Hertz völlurinn",
+    "city": "Reykjavík",
+    "capacity": 800,
+    "latitude": 64.10413439999999,
+    "longitude": -21.8507464
+  },
+  {
+    "id": 2317,
+    "name": "Rafholtsvöllurinn",
+    "city": "Njarðvík",
+    "capacity": 2880,
+    "latitude": 63.99154859999999,
+    "longitude": -22.5620846
+  },
+  {
+    "id": 20543,
+    "name": "Fagverksvöllurinn Varmá Gervigras",
+    "city": "Mosfellsbær",
+    "capacity": 1000,
+    "latitude": 64.1704334,
+    "longitude": -21.6890997
+  },
+  {
+    "id": 3187,
+    "name": "Dalvíkurvöllur",
+    "city": "Dalvík",
+    "capacity": 1300,
+    "latitude": 65.9667125,
+    "longitude": -18.5351862
+  },
+  {
+    "id": 2313,
+    "name": "Ólafsvíkurvöllur",
+    "city": "Ólafsvik",
+    "capacity": 900,
+    "latitude": 64.89600709999999,
+    "longitude": -23.712479
+  },
+  {
+    "id": 2321,
+    "name": "JÁVERK-völlurinn",
+    "city": "Selfoss",
+    "capacity": 2000,
+    "latitude": 63.9334576,
+    "longitude": -20.9941896
+  },
+  {
+    "id": 21596,
+    "name": "BIRTU völlurinn",
+    "city": "Hafnarfjörður",
+    "capacity": 2120,
+    "latitude": 64.0787953,
+    "longitude": -21.9617836
+  },
+  {
+    "id": 3178,
+    "name": "Ólafsfjarðarvöllur",
+    "city": "Ólafsfjörður",
+    "capacity": 1500,
+    "latitude": 66.0681225,
+    "longitude": -18.652591
+  },
+  {
+    "id": 21598,
+    "name": "PCC völlurinn Húsavík",
+    "city": "Húsavík",
+    "capacity": 3000,
+    "latitude": 66.05070669999999,
+    "longitude": -17.3437093
+  },
+  {
+    "id": 21599,
+    "name": "GeoSalmo völlurinn",
+    "city": "Þorlákshöfn",
+    "capacity": 1000,
+    "latitude": 63.8512012,
+    "longitude": -21.3802243
+  },
+  {
+    "id": 3186,
+    "name": "Vogabæjarvöllur",
+    "city": "Vogar",
+    "capacity": 1000,
+    "latitude": 63.986167209403774,
+    "longitude": -22.38163266133391
+  },
+  {
+    "id": 829,
+    "name": "Samsung völlurinn",
+    "city": "Garðabær",
+    "capacity": 2300,
+    "latitude": 64.0874286,
+    "longitude": -21.92897
+  },
+  {
+    "id": 20546,
+    "name": "Fellavöllur",
+    "city": "Fellabær",
+    "capacity": 1100,
+    "latitude": 65.2849854,
+    "longitude": -14.4285479
+  },
+  {
+    "id": 3183,
+    "name": "Sauðárkróksvöllur",
+    "city": "Sauðárkrókur",
+    "capacity": 300,
+    "latitude": 65.7450812,
+    "longitude": -19.6453461
+  },
+  {
+    "id": 20548,
+    "name": "Brons völlurinn",
+    "city": "Sandgerði",
+    "capacity": 1500,
+    "latitude": 64.0310271,
+    "longitude": -22.6993824
+  },
+  {
+    "id": 2747,
+    "name": "Fjarðabyggðarhöllin",
+    "city": "Reyðarfjörður",
+    "capacity": 400,
+    "latitude": 65.0339551,
+    "longitude": -14.2114669
+  },
+  {
+    "id": 822,
+    "name": "Würth völlurinn",
+    "city": "Reykjavík",
+    "capacity": 2872,
+    "latitude": 64.1036297,
+    "longitude": -21.7732309
+  },
+  {
+    "id": 821,
+    "name": "Kaplakrikavöllur",
+    "city": "Hafnarfjörður",
+    "capacity": 6738,
+    "latitude": 64.075745,
+    "longitude": -21.9365289
+  },
+  {
+    "id": 10591,
+    "name": "KR-völlur",
+    "city": "Reykjavík",
+    "capacity": 2801,
+    "latitude": 64.1459969,
+    "longitude": -21.9681842
+  },
+  {
+    "id": 827,
+    "name": "Akureyrarvöllur",
+    "city": "Akureyri",
+    "capacity": 1770,
+    "latitude": 65.6859451,
+    "longitude": -18.0953293
+  },
+  {
+    "id": 830,
+    "name": "Origovöllurinn",
+    "city": "Reykjavík",
+    "capacity": 2489,
+    "latitude": 64.1472943,
+    "longitude": -21.9396686
+  },
+  {
+    "id": 820,
+    "name": "Kópavogsvöllur",
+    "city": "Kópavogur",
+    "capacity": 5501,
+    "latitude": 64.10376409999999,
+    "longitude": -21.895581
+  },
+  {
+    "id": 831,
+    "name": "Víkingsvöllur",
+    "city": "Reykjavík",
+    "capacity": 1613,
+    "latitude": 64.1169705,
+    "longitude": -21.852667
+  },
+  {
+    "id": 825,
+    "name": "Norðurálsvöllurinn",
+    "city": "Akranes",
+    "capacity": 3054,
+    "latitude": 64.317616,
+    "longitude": -22.0597932
+  },
+  {
+    "id": 824,
+    "name": "Kórinn",
+    "city": "Kópavogur",
+    "capacity": 1452,
+    "latitude": 64.0825935,
+    "longitude": -21.8237219
+  },
+  {
+    "id": 2319,
+    "name": "Framvöllur",
+    "city": "Reykjavík",
+    "capacity": 1600,
+    "latitude": 64.13140659999999,
+    "longitude": -21.7340714
+  },
+  {
+    "id": 21597,
+    "name": "Boginn",
+    "city": "Akureyri",
+    "capacity": 400,
+    "latitude": 65.6918123,
+    "longitude": -18.1168921
+  },
+  {
+    "id": 20544,
+    "name": "Jökulfellsvöllurinn",
+    "city": "Höfn í Hornafirði",
+    "capacity": 2000,
+    "latitude": 64.2530452,
+    "longitude": -15.2063808
+  },
+  {
+    "id": 3180,
+    "name": "Olísvöllurinn",
+    "city": "Hnífsdalur",
+    "capacity": 800,
+    "latitude": 66.0737876,
+    "longitude": -23.1185705
+  },
+  {
+    "id": 3184,
+    "name": "Nesfisk-völlurinn",
+    "city": "Garður",
+    "capacity": 2000,
+    "latitude": 64.07328199999999,
+    "longitude": -22.6642478
+  },
+  {
+    "id": 3185,
+    "name": "Akraneshöllin",
+    "city": "Akranes",
+    "capacity": 1000,
+    "latitude": 64.3175281,
+    "longitude": -22.0569676
+  },
+  {
+    "id": 20545,
+    "name": "Fífan",
+    "city": "Kópavogur",
+    "capacity": 2000,
+    "latitude": 64.1032395,
+    "longitude": -21.8991131
+  },
+  {
+    "id": 4521,
+    "name": "Grýluvöllur",
+    "city": "Hveragerði",
+    "capacity": 2000,
+    "latitude": 64.01021159999999,
+    "longitude": -21.1920807
+  },
+  {
+    "id": 4524,
+    "name": "SS-völlurinn",
+    "city": "Hvolsvöllur",
+    "capacity": 1000,
+    "latitude": 63.75502950000001,
+    "longitude": -20.2324597
+  },
+  {
+    "id": 4525,
+    "name": "Týsvöllur",
+    "city": "Vestmannaeyjar",
+    "capacity": 1000,
+    "latitude": 63.43949409999999,
+    "longitude": -20.2855358
+  },
+  {
+    "id": 20547,
+    "name": "N1-völlurinn Hlíðarenda",
+    "city": "Reykjavík",
+    "capacity": 2489,
+    "latitude": 64.1330556,
+    "longitude": -21.9222223
+  },
+  {
+    "id": 20549,
+    "name": "AVIS völlurinn",
+    "city": "Reykjavík",
+    "capacity": 3000,
+    "latitude": 64.1415484,
+    "longitude": -21.877581
+  },
+  {
+    "id": 4529,
+    "name": "Hrafnagilsvöllur",
+    "city": "Hrafnagil",
+    "capacity": 1000,
+    "latitude": 65.5762182,
+    "longitude": -18.092715
+  },
+  {
+    "id": 4530,
+    "name": "Skallagrímsvöllur",
+    "city": "Borgarnes",
+    "capacity": 1000,
+    "latitude": 64.5394651,
+    "longitude": -21.9201788
+  },
+  {
+    "id": 4519,
+    "name": "Fjölnisvöllur Gervigras",
+    "city": "Reykjavík",
+    "capacity": 1000,
+    "latitude": 64.1384504,
+    "longitude": -21.788185
+  },
+  {
+    "id": 4522,
+    "name": "Tungubakkavöllur",
+    "city": "Mosfellsbær",
+    "capacity": 1000,
+    "latitude": 64.1823812,
+    "longitude": -21.695188
+  },
+  {
+    "id": 20550,
+    "name": "OnePlus völlurinn",
+    "city": "Álftanes",
+    "capacity": 1000,
+    "latitude": 64.1051071,
+    "longitude": -22.021478
+  },
+  {
+    "id": 11562,
+    "name": "Skessan",
+    "city": "Hafnarfjörður",
+    "capacity": 1000,
+    "latitude": 64.07545189999999,
+    "longitude": -21.9319395
+  },
+  {
+    "id": 4535,
+    "name": "Framvöllur Úlfarsárdal",
+    "city": "Reykjavík",
+    "capacity": 1722,
+    "latitude": 64.13140659999999,
+    "longitude": -21.7340714
+  },
+  {
+    "id": 4532,
+    "name": "Fagrilundur Gervigras",
+    "city": "Kópavogur",
+    "capacity": 1000,
+    "latitude": 64.1163174,
+    "longitude": -21.8762305
+  },
+  {
+    "id": 7123,
+    "name": "Stokkseyrarvöllur",
+    "city": "Stokkseyri",
+    "capacity": 1000,
+    "latitude": 63.8380127,
+    "longitude": -21.062514
+  },
+  {
+    "id": 18455,
+    "name": "Nettóhöllin",
+    "city": "Keflavík",
+    "capacity": 1000,
+    "latitude": 63.99395380000001,
+    "longitude": -22.5580268
+  },
+  {
+    "id": 534785948767,
+    "name": "Þorlákshafnarvöllur",
+    "city": "Þorlákshöfn",
+    "capacity": null,
+    "latitude": 63.85117939999999,
+    "longitude": -21.3802324
+  }
+]

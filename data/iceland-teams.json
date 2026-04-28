@@ -1,0 +1,762 @@
+[
+    {
+        "id": 268,
+        "name": "IBV Vestmannaeyjar",
+        "code": "VES",
+        "country": "Iceland",
+        "founded": 1945,
+        "national": false,
+        "logo": "268.png",
+        "venue_id": 826
+    },
+    {
+        "id": 269,
+        "name": "Keflavik",
+        "code": "KEF",
+        "country": "Iceland",
+        "founded": 1929,
+        "national": false,
+        "logo": "269.png",
+        "venue_id": 19615
+    },
+    {
+        "id": 273,
+        "name": "Fjolnir",
+        "code": "FJO",
+        "country": "Iceland",
+        "founded": 1988,
+        "national": false,
+        "logo": "273.png",
+        "venue_id": 1956
+    },
+    {
+        "id": 277,
+        "name": "Grindavik",
+        "code": "GRI",
+        "country": "Iceland",
+        "founded": 1935,
+        "national": false,
+        "logo": "277.png",
+        "venue_id": 823
+    },
+    {
+        "id": 829,
+        "name": "Throttur Reykjavik",
+        "code": "THR",
+        "country": "Iceland",
+        "founded": 1949,
+        "national": false,
+        "logo": "829.png",
+        "venue_id": 2318
+    },
+    {
+        "id": 2114,
+        "name": "Leiknir R.",
+        "code": "LEI",
+        "country": "Iceland",
+        "founded": 1973,
+        "national": false,
+        "logo": "2114.png",
+        "venue_id": 2320
+    },
+    {
+        "id": 2116,
+        "name": "Thor Akureyri",
+        "code": "THO",
+        "country": "Iceland",
+        "founded": 1915,
+        "national": false,
+        "logo": "2116.png",
+        "venue_id": 20542
+    },
+    {
+        "id": 2121,
+        "name": "Grotta",
+        "code": "GRO",
+        "country": "Iceland",
+        "founded": 1967,
+        "national": false,
+        "logo": "2121.png",
+        "venue_id": 2314
+    },
+    {
+        "id": 2122,
+        "name": "IR Reykjavik",
+        "code": null,
+        "country": "Iceland",
+        "founded": 1907,
+        "national": false,
+        "logo": "2122.png",
+        "venue_id": 2322
+    },
+    {
+        "id": 2123,
+        "name": "Njardvik",
+        "code": "NJA",
+        "country": "Iceland",
+        "founded": 1944,
+        "national": false,
+        "logo": "2123.png",
+        "venue_id": 2317
+    },
+    {
+        "id": 3514,
+        "name": "Afturelding",
+        "code": "ALF",
+        "country": "Iceland",
+        "founded": 1909,
+        "national": false,
+        "logo": "3514.png",
+        "venue_id": 20543
+    },
+    {
+        "id": 4172,
+        "name": "Dalvík / Reynir",
+        "code": "DAV",
+        "country": "Iceland",
+        "founded": 2006,
+        "national": false,
+        "logo": "4172.png",
+        "venue_id": 3187
+    },
+    {
+        "id": 828,
+        "name": "Vikingur Olafsiik",
+        "code": "VIK",
+        "country": "Iceland",
+        "founded": 1928,
+        "national": false,
+        "logo": "828.png",
+        "venue_id": 2313
+    },
+    {
+        "id": 2115,
+        "name": "Selfoss",
+        "code": "SEL",
+        "country": "Iceland",
+        "founded": 1936,
+        "national": false,
+        "logo": "2115.png",
+        "venue_id": 2321
+    },
+    {
+        "id": 2118,
+        "name": "Haukar",
+        "code": "HAU",
+        "country": "Iceland",
+        "founded": 1931,
+        "national": false,
+        "logo": "2118.png",
+        "venue_id": 21596
+    },
+    {
+        "id": 4162,
+        "name": "KF",
+        "code": "FJA",
+        "country": "Iceland",
+        "founded": 2006,
+        "national": false,
+        "logo": "4162.png",
+        "venue_id": 3178
+    },
+    {
+        "id": 4166,
+        "name": "Völsungur",
+        "code": "VOL",
+        "country": "Iceland",
+        "founded": 1927,
+        "national": false,
+        "logo": "4166.png",
+        "venue_id": 21598
+    },
+    {
+        "id": 4167,
+        "name": "Ægir",
+        "code": "AEG",
+        "country": "Iceland",
+        "founded": 1987,
+        "national": false,
+        "logo": "4167.png",
+        "venue_id": 21599
+    },
+    {
+        "id": 4171,
+        "name": "Thróttur Vogar",
+        "code": null,
+        "country": "Iceland",
+        "founded": 1932,
+        "national": false,
+        "logo": "4171.png",
+        "venue_id": 3186
+    },
+    {
+        "id": 4173,
+        "name": "KFG",
+        "code": null,
+        "country": "Iceland",
+        "founded": null,
+        "national": false,
+        "logo": "4173.png",
+        "venue_id": 829
+    },
+    {
+        "id": 6087,
+        "name": "Höttur / Huginn",
+        "code": null,
+        "country": "Iceland",
+        "founded": 2018,
+        "national": false,
+        "logo": "6087.png",
+        "venue_id": 20546
+    },
+    {
+        "id": 6093,
+        "name": "Kormákur / Hvöt",
+        "code": null,
+        "country": "Iceland",
+        "founded": null,
+        "national": false,
+        "logo": "6093.png",
+        "venue_id": 3183
+    },
+    {
+        "id": 6101,
+        "name": "Reynir",
+        "code": "REY",
+        "country": "Iceland",
+        "founded": 1935,
+        "national": false,
+        "logo": "6101.png",
+        "venue_id": 20548
+    },
+    {
+        "id": 18366,
+        "name": "Fjardabyggd / Leiknir",
+        "code": null,
+        "country": "Iceland",
+        "founded": 2022,
+        "national": false,
+        "logo": "18366.png",
+        "venue_id": 2747
+    },
+    {
+        "id": 267,
+        "name": "Fylkir",
+        "code": "FYL",
+        "country": "Iceland",
+        "founded": 1967,
+        "national": false,
+        "logo": "267.png",
+        "venue_id": 822
+    },
+    {
+        "id": 270,
+        "name": "FH hafnarfjordur",
+        "code": "HAF",
+        "country": "Iceland",
+        "founded": 1929,
+        "national": false,
+        "logo": "270.png",
+        "venue_id": 821
+    },
+    {
+        "id": 271,
+        "name": "KR Reykjavik",
+        "code": "REY",
+        "country": "Iceland",
+        "founded": 1899,
+        "national": false,
+        "logo": "271.png",
+        "venue_id": 10591
+    },
+    {
+        "id": 272,
+        "name": "KA Akureyri",
+        "code": "AKU",
+        "country": "Iceland",
+        "founded": 1928,
+        "national": false,
+        "logo": "272.png",
+        "venue_id": 827
+    },
+    {
+        "id": 274,
+        "name": "Valur Reykjavik",
+        "code": "VAL",
+        "country": "Iceland",
+        "founded": 1911,
+        "national": false,
+        "logo": "274.png",
+        "venue_id": 830
+    },
+    {
+        "id": 275,
+        "name": "Stjarnan",
+        "code": "STJ",
+        "country": "Iceland",
+        "founded": 1960,
+        "national": false,
+        "logo": "275.png",
+        "venue_id": 829
+    },
+    {
+        "id": 276,
+        "name": "Breidablik",
+        "code": "BRE",
+        "country": "Iceland",
+        "founded": 1950,
+        "national": false,
+        "logo": "276.png",
+        "venue_id": 820
+    },
+    {
+        "id": 278,
+        "name": "Vikingur Reykjavik",
+        "code": "VIK",
+        "country": "Iceland",
+        "founded": 1908,
+        "national": false,
+        "logo": "278.png",
+        "venue_id": 831
+    },
+    {
+        "id": 827,
+        "name": "IA Akranes",
+        "code": "AKR",
+        "country": "Iceland",
+        "founded": 1946,
+        "national": false,
+        "logo": "827.png",
+        "venue_id": 825
+    },
+    {
+        "id": 2113,
+        "name": "HK Kopavogur",
+        "code": "KOP",
+        "country": "Iceland",
+        "founded": 1970,
+        "national": false,
+        "logo": "2113.png",
+        "venue_id": 824
+    },
+    {
+        "id": 2117,
+        "name": "Fram Reykjavik",
+        "code": "FRA",
+        "country": "Iceland",
+        "founded": 1908,
+        "national": false,
+        "logo": "2117.png",
+        "venue_id": 2319
+    },
+    {
+        "id": 2124,
+        "name": "Magni",
+        "code": "MAG",
+        "country": "Iceland",
+        "founded": 1915,
+        "national": false,
+        "logo": "2124.png",
+        "venue_id": 21597
+    },
+    {
+        "id": 4163,
+        "name": "KV",
+        "code": "KV",
+        "country": "Iceland",
+        "founded": 2004,
+        "national": false,
+        "logo": "4163.png",
+        "venue_id": 10591
+    },
+    {
+        "id": 4164,
+        "name": "Sindri",
+        "code": "SIN",
+        "country": "Iceland",
+        "founded": 1934,
+        "national": false,
+        "logo": "4164.png",
+        "venue_id": 20544
+    },
+    {
+        "id": 4165,
+        "name": "Vestri",
+        "code": null,
+        "country": "Iceland",
+        "founded": 2016,
+        "national": false,
+        "logo": "4165.png",
+        "venue_id": 3180
+    },
+    {
+        "id": 4168,
+        "name": "Tindastóll",
+        "code": "TIN",
+        "country": "Iceland",
+        "founded": null,
+        "national": false,
+        "logo": "4168.png",
+        "venue_id": 3183
+    },
+    {
+        "id": 4169,
+        "name": "Vídir",
+        "code": "VID",
+        "country": "Iceland",
+        "founded": 1936,
+        "national": false,
+        "logo": "4169.png",
+        "venue_id": 3184
+    },
+    {
+        "id": 4170,
+        "name": "Kári",
+        "code": null,
+        "country": "Iceland",
+        "founded": null,
+        "national": false,
+        "logo": "4170.png",
+        "venue_id": 3185
+    },
+    {
+        "id": 6076,
+        "name": "Afríka",
+        "code": null,
+        "country": "Iceland",
+        "founded": null,
+        "national": false,
+        "logo": "6076.png",
+        "venue_id": 2320
+    },
+    {
+        "id": 6077,
+        "name": "Augnablik",
+        "code": "AUG",
+        "country": "Iceland",
+        "founded": null,
+        "national": false,
+        "logo": "6077.png",
+        "venue_id": 20545
+    },
+    {
+        "id": 6081,
+        "name": "Ellidi",
+        "code": null,
+        "country": "Iceland",
+        "founded": null,
+        "national": false,
+        "logo": "6081.png",
+        "venue_id": 822
+    },
+    {
+        "id": 6084,
+        "name": "Hamar",
+        "code": "HAM",
+        "country": "Iceland",
+        "founded": 1992,
+        "national": false,
+        "logo": "6084.png",
+        "venue_id": 4521
+    },
+    {
+        "id": 6085,
+        "name": "Hvíti riddarinn",
+        "code": null,
+        "country": "Iceland",
+        "founded": null,
+        "national": false,
+        "logo": "6085.png",
+        "venue_id": 20543
+    },
+    {
+        "id": 6086,
+        "name": "Hörður Í.",
+        "code": null,
+        "country": "Iceland",
+        "founded": null,
+        "national": false,
+        "logo": "6086.png",
+        "venue_id": 3180
+    },
+    {
+        "id": 6089,
+        "name": "KFR",
+        "code": null,
+        "country": "Iceland",
+        "founded": 1997,
+        "national": false,
+        "logo": "6089.png",
+        "venue_id": 4524
+    },
+    {
+        "id": 6090,
+        "name": "KFS",
+        "code": null,
+        "country": "Iceland",
+        "founded": null,
+        "national": false,
+        "logo": "6090.png",
+        "venue_id": 4525
+    },
+    {
+        "id": 6091,
+        "name": "KH",
+        "code": null,
+        "country": "Iceland",
+        "founded": null,
+        "national": false,
+        "logo": "6091.png",
+        "venue_id": 20547
+    },
+    {
+        "id": 6092,
+        "name": "KM",
+        "code": null,
+        "country": "Iceland",
+        "founded": null,
+        "national": false,
+        "logo": "6092.png",
+        "venue_id": 10591
+    },
+    {
+        "id": 6094,
+        "name": "Kría",
+        "code": null,
+        "country": "Iceland",
+        "founded": null,
+        "national": false,
+        "logo": "6094.png",
+        "venue_id": 2314
+    },
+    {
+        "id": 6095,
+        "name": "KÁ Hafnarfjördur",
+        "code": null,
+        "country": "Iceland",
+        "founded": null,
+        "national": false,
+        "logo": "6095.png",
+        "venue_id": 21596
+    },
+    {
+        "id": 6098,
+        "name": "Léttir",
+        "code": null,
+        "country": "Iceland",
+        "founded": null,
+        "national": false,
+        "logo": "6098.png",
+        "venue_id": 2322
+    },
+    {
+        "id": 6099,
+        "name": "Mídas",
+        "code": null,
+        "country": "Iceland",
+        "founded": null,
+        "national": false,
+        "logo": "6099.png",
+        "venue_id": 831
+    },
+    {
+        "id": 6102,
+        "name": "SR",
+        "code": null,
+        "country": "Iceland",
+        "founded": null,
+        "national": false,
+        "logo": "6102.png",
+        "venue_id": 20549
+    },
+    {
+        "id": 6103,
+        "name": "Samherjar",
+        "code": null,
+        "country": "Iceland",
+        "founded": null,
+        "national": false,
+        "logo": "6103.png",
+        "venue_id": 4529
+    },
+    {
+        "id": 6104,
+        "name": "Skallagrímur",
+        "code": null,
+        "country": "Iceland",
+        "founded": null,
+        "national": false,
+        "logo": "6104.png",
+        "venue_id": 4530
+    },
+    {
+        "id": 6107,
+        "name": "Vængir Júpiters",
+        "code": null,
+        "country": "Iceland",
+        "founded": null,
+        "national": false,
+        "logo": "6107.png",
+        "venue_id": 4519
+    },
+    {
+        "id": 6108,
+        "name": "Álafoss",
+        "code": null,
+        "country": "Iceland",
+        "founded": null,
+        "national": false,
+        "logo": "6108.png",
+        "venue_id": 4522
+    },
+    {
+        "id": 6109,
+        "name": "Álftanes",
+        "code": "ALF",
+        "country": "Iceland",
+        "founded": null,
+        "national": false,
+        "logo": "6109.png",
+        "venue_id": 20550
+    },
+    {
+        "id": 6110,
+        "name": "Árborg",
+        "code": null,
+        "country": "Iceland",
+        "founded": null,
+        "national": false,
+        "logo": "6110.png",
+        "venue_id": 2321
+    },
+    {
+        "id": 6112,
+        "name": "ÍH",
+        "code": "IHH",
+        "country": "Iceland",
+        "founded": null,
+        "national": false,
+        "logo": "6112.png",
+        "venue_id": 11562
+    },
+    {
+        "id": 6114,
+        "name": "Úlfarnir",
+        "code": null,
+        "country": "Iceland",
+        "founded": null,
+        "national": false,
+        "logo": "6114.png",
+        "venue_id": 4535
+    },
+    {
+        "id": 6115,
+        "name": "Ýmir",
+        "code": null,
+        "country": "Iceland",
+        "founded": null,
+        "national": false,
+        "logo": "6115.png",
+        "venue_id": 824
+    },
+    {
+        "id": 10116,
+        "name": "Blix",
+        "code": null,
+        "country": "Iceland",
+        "founded": null,
+        "national": false,
+        "logo": "10116.png",
+        "venue_id": 4532
+    },
+    {
+        "id": 10119,
+        "name": "Stokkseyri",
+        "code": null,
+        "country": "Iceland",
+        "founded": null,
+        "national": false,
+        "logo": "10119.png",
+        "venue_id": 7123
+    },
+    {
+        "id": 10120,
+        "name": "ÍBU",
+        "code": null,
+        "country": "Iceland",
+        "founded": null,
+        "national": false,
+        "logo": "10120.png",
+        "venue_id": 2321
+    },
+    {
+        "id": 16443,
+        "name": "RB",
+        "code": null,
+        "country": "Iceland",
+        "founded": null,
+        "national": false,
+        "logo": "16443.png",
+        "venue_id": 18455
+    },
+    {
+        "id": 16444,
+        "name": "Reynir Hellissandur",
+        "code": null,
+        "country": "Iceland",
+        "founded": null,
+        "national": false,
+        "logo": "16444.png",
+        "venue_id": 2313
+    },
+    {
+        "id": 18476,
+        "name": "Hafnir",
+        "code": null,
+        "country": "Iceland",
+        "founded": null,
+        "national": false,
+        "logo": "18476.svg",
+        "venue_id": 18455
+    },
+    {
+        "id": 18477,
+        "name": "KFK Kópavogur",
+        "code": null,
+        "country": "Iceland",
+        "founded": null,
+        "national": false,
+        "logo": "18477.png",
+        "venue_id": 4532
+    },
+    {
+        "id": 18478,
+        "name": "Spyrnir",
+        "code": null,
+        "country": "Iceland",
+        "founded": null,
+        "national": false,
+        "logo": "18478.svg",
+        "venue_id": 20546
+    },
+    {
+        "id": 18479,
+        "name": "Árbær",
+        "code": null,
+        "country": "Iceland",
+        "founded": null,
+        "national": false,
+        "logo": "18479.png",
+        "venue_id": 822
+    },
+    {
+        "id": 22959,
+        "name": "Thorlákur",
+        "code": null,
+        "country": "Iceland",
+        "founded": null,
+        "national": false,
+        "logo": "22959.png",
+        "venue_id": 534785948767
+    }
+]
