@@ -1,0 +1,50 @@
+[
+  {
+    "id": 2241,
+    "name": "Stadium East",
+    "city": "Kingston",
+    "capacity": 3000,
+    "latitude": 18.0017963,
+    "longitude": -76.7706216
+  },
+  {
+    "id": 21285,
+    "name": "Stadium East",
+    "city": "Kingston",
+    "capacity": 3000,
+    "latitude": 18.0017963,
+    "longitude": -76.7706216
+  },
+  {
+    "id": 2240,
+    "name": "Anthony Spaulding Sports Complex",
+    "city": "Kingston",
+    "capacity": 2200,
+    "latitude": 17.988903,
+    "longitude": -76.79946830000002
+  },
+  {
+    "id": 2244,
+    "name": "Effortville Community Centre",
+    "city": "May Pen",
+    "capacity": 3000,
+    "latitude": 17.9769083,
+    "longitude": -77.2284804
+  },
+  {
+    "id": 20384,
+    "name": "Catherine Hall Sports Complex",
+    "city": "Montego Bay",
+    "capacity": 9000,
+    "latitude": 18.4575208,
+    "longitude": -77.92200439999999
+  },
+  {
+    "id": 4725,
+    "name": "Wembley Centre of Excellence",
+    "city": "Hayes",
+    "capacity": 1000,
+    "latitude": 17.8932812,
+    "longitude": -77.2433807
+  }
+]

@@ -1,0 +1,142 @@
+[
+    {
+        "id": 3436,
+        "name": "Arnett Gardens",
+        "code": null,
+        "country": "Jamaica",
+        "founded": 1977,
+        "national": false,
+        "logo": "3436.png",
+        "venue_id": 2241
+    },
+    {
+        "id": 3437,
+        "name": "Cavalier",
+        "code": null,
+        "country": "Jamaica",
+        "founded": 1962,
+        "national": false,
+        "logo": "3437.png",
+        "venue_id": 21285
+    },
+    {
+        "id": 3438,
+        "name": "Dunbeholden",
+        "code": null,
+        "country": "Jamaica",
+        "founded": null,
+        "national": false,
+        "logo": "3438.png",
+        "venue_id": 2240
+    },
+    {
+        "id": 3439,
+        "name": "Harbour View",
+        "code": null,
+        "country": "Jamaica",
+        "founded": 1974,
+        "national": false,
+        "logo": "3439.png",
+        "venue_id": 2240
+    },
+    {
+        "id": 3440,
+        "name": "Humble Lions",
+        "code": null,
+        "country": "Jamaica",
+        "founded": 1974,
+        "national": false,
+        "logo": "3440.png",
+        "venue_id": 2244
+    },
+    {
+        "id": 3441,
+        "name": "Montego Bay United",
+        "code": null,
+        "country": "Jamaica",
+        "founded": 1972,
+        "national": false,
+        "logo": "3441.png",
+        "venue_id": 20384
+    },
+    {
+        "id": 3442,
+        "name": "Mount Pleasant Academy",
+        "code": null,
+        "country": "Jamaica",
+        "founded": null,
+        "national": false,
+        "logo": "3442.png",
+        "venue_id": 2241
+    },
+    {
+        "id": 3443,
+        "name": "Portmore United",
+        "code": null,
+        "country": "Jamaica",
+        "founded": null,
+        "national": false,
+        "logo": "3443.png",
+        "venue_id": 2240
+    },
+    {
+        "id": 3445,
+        "name": "Tivoli Gardens",
+        "code": null,
+        "country": "Jamaica",
+        "founded": 1970,
+        "national": false,
+        "logo": "3445.png",
+        "venue_id": 2241
+    },
+    {
+        "id": 3447,
+        "name": "Waterhouse",
+        "code": null,
+        "country": "Jamaica",
+        "founded": 1968,
+        "national": false,
+        "logo": "3447.png",
+        "venue_id": 2240
+    },
+    {
+        "id": 6407,
+        "name": "Molynes United",
+        "code": null,
+        "country": "Jamaica",
+        "founded": null,
+        "national": false,
+        "logo": "6407.png",
+        "venue_id": 2241
+    },
+    {
+        "id": 6408,
+        "name": "Vere United",
+        "code": null,
+        "country": "Jamaica",
+        "founded": 2010,
+        "national": false,
+        "logo": "6408.png",
+        "venue_id": 4725
+    },
+    {
+        "id": 20597,
+        "name": "Chapelton",
+        "code": null,
+        "country": "Jamaica",
+        "founded": null,
+        "national": false,
+        "logo": "20597.png",
+        "venue_id": 2240
+    },
+    {
+        "id": 25020,
+        "name": "Racing United",
+        "code": null,
+        "country": "Jamaica",
+        "founded": null,
+        "national": false,
+        "logo": "25020.png",
+        "venue_id": 2240
+    }
+]
