@@ -1,0 +1,250 @@
+[
+  {
+    "id": 2437,
+    "name": "Estadio Municipal Manuel Ariza",
+    "city": "El Progreso",
+    "capacity": 2773,
+    "latitude": 14.3513106,
+    "longitude": -89.8495432
+  },
+  {
+    "id": 2444,
+    "name": "Estadio Marquesa de la Ensenada",
+    "city": "San Marcos",
+    "capacity": 11000,
+    "latitude": 14.9670148,
+    "longitude": -91.79170719999999
+  },
+  {
+    "id": 2446,
+    "name": "Estadio Julio Armando Cóbar",
+    "city": "San Miguel Petapa",
+    "capacity": 10000,
+    "latitude": 14.5020897,
+    "longitude": -90.5578499
+  },
+  {
+    "id": 2456,
+    "name": "Estadio Pensativo",
+    "city": "Antigua Guatemala",
+    "capacity": 10000,
+    "latitude": 14.5676473,
+    "longitude": -90.7381336
+  },
+  {
+    "id": 2457,
+    "name": "Estadio Verapaz Jose Angel Rossi",
+    "city": "Cobán",
+    "capacity": 15000,
+    "latitude": 15.4762226,
+    "longitude": -90.3769099
+  },
+  {
+    "id": 2441,
+    "name": "Estadio Cementos Progreso",
+    "city": "Ciudad de Guatemala",
+    "capacity": 17000,
+    "latitude": 14.6761293,
+    "longitude": -90.4883257
+  },
+  {
+    "id": 2460,
+    "name": "Estadio David Cordón Hichos",
+    "city": "Guastatoya",
+    "capacity": 6789,
+    "latitude": 14.8600121,
+    "longitude": -90.07193550000001
+  },
+  {
+    "id": 2462,
+    "name": "Estadio Municipal Santa Lucía",
+    "city": "Malacatán",
+    "capacity": 7000,
+    "latitude": 14.9118627,
+    "longitude": -92.0601575
+  },
+  {
+    "id": 2463,
+    "name": "Estadio El Trébol",
+    "city": "Ciudad de Guatemala",
+    "capacity": 15218,
+    "latitude": 14.6165288,
+    "longitude": -90.53495509999999
+  },
+  {
+    "id": 2465,
+    "name": "Estadio Mario Camposeco",
+    "city": "Quetzaltenango",
+    "capacity": 13331,
+    "latitude": 14.8417644,
+    "longitude": -91.5170802
+  },
+  {
+    "id": 2458,
+    "name": "Estadio Los Cuchumatanes",
+    "city": "Huehuetenango",
+    "capacity": 5433,
+    "latitude": 15.3204923,
+    "longitude": -91.48169469999999
+  },
+  {
+    "id": 8600,
+    "name": "Estadio David Ordóñez Bardales",
+    "city": "Zacapa",
+    "capacity": 8000,
+    "latitude": 14.9668877,
+    "longitude": -89.52675909999999
+  },
+  {
+    "id": 2445,
+    "name": "Estadio La Asunción",
+    "city": "Asunción Mita",
+    "capacity": 8000,
+    "latitude": 14.337927,
+    "longitude": -89.71422249999999
+  },
+  {
+    "id": 2447,
+    "name": "Estadio José Luis Ibarra",
+    "city": "Nueva Concepción",
+    "capacity": 3000,
+    "latitude": 14.1897127,
+    "longitude": -91.310699
+  },
+  {
+    "id": 2448,
+    "name": "Estadio Municipal de Santa Cruz del Quiché",
+    "city": "Santa Cruz del Quiché",
+    "capacity": 3000,
+    "latitude": 15.0254737,
+    "longitude": -91.1463977
+  },
+  {
+    "id": 2449,
+    "name": "Estadio Municipal de San Pedro Sacatepéquez",
+    "city": "San Pedro Sacatepéquez",
+    "capacity": 4000,
+    "latitude": 14.6814195,
+    "longitude": -90.63240569999999
+  },
+  {
+    "id": 2453,
+    "name": "Estadio Municipal Carlos Salazar Hijo",
+    "city": "Mazatenango",
+    "capacity": 12000,
+    "latitude": 14.5317611,
+    "longitude": -91.50921799999999
+  },
+  {
+    "id": 2454,
+    "name": "Estadio Revolución USAC",
+    "city": "Ciudad de Guatemala",
+    "capacity": 8000,
+    "latitude": 14.5864888,
+    "longitude": -90.5478114
+  },
+  {
+    "id": 2455,
+    "name": "Estadio Las Victorias",
+    "city": "Chiquimula",
+    "capacity": 9000,
+    "latitude": 14.7952281,
+    "longitude": -89.5443185
+  },
+  {
+    "id": 2461,
+    "name": "Estadio Municipal El Morón",
+    "city": "Puerto Iztapa",
+    "capacity": 3000,
+    "latitude": 13.9378925,
+    "longitude": -90.7151221
+  },
+  {
+    "id": 7048,
+    "name": "Estadio Israel Barrios",
+    "city": "Coatepeque",
+    "capacity": 20000,
+    "latitude": 14.6911371,
+    "longitude": -91.8732816
+  },
+  {
+    "id": 7133,
+    "name": "Estadio Municipal Santa Lucía Cotzumalguapa",
+    "city": "Cotzumalguapa",
+    "capacity": 9000,
+    "latitude": 14.3366645,
+    "longitude": -91.01583749999999
+  },
+  {
+    "id": 7141,
+    "name": "Estadio del Ejército",
+    "city": "Ciudad de Guatemala",
+    "capacity": 12453,
+    "latitude": 14.6166786,
+    "longitude": -90.50948029999999
+  },
+  {
+    "id": 21018,
+    "name": "Complejo Deportivo Municipal Barberena",
+    "city": "Barberena",
+    "capacity": 3000,
+    "latitude": 14.2994361,
+    "longitude": -90.3538997
+  },
+  {
+    "id": 18610,
+    "name": "Estadio Marco Antonio Fión Castellanos",
+    "city": "Santa Elena",
+    "capacity": 2000,
+    "latitude": 16.9234755,
+    "longitude": -89.8953827
+  },
+  {
+    "id": 594023716148,
+    "name": "Estadio Municipal La Democracia",
+    "city": "La Democracia",
+    "capacity": null,
+    "latitude": 15.6284715,
+    "longitude": -91.8931956
+  },
+  {
+    "id": 505854074675,
+    "name": "Estadio Comunal de La Esperanza",
+    "city": "La Esperanza",
+    "capacity": 2000,
+    "latitude": 14.519227852450392,
+    "longitude": -90.18184958253549
+  },
+  {
+    "id": 21019,
+    "name": "Estadio Los Conacastes",
+    "city": "Chiquimulilla",
+    "capacity": 1000,
+    "latitude": 14.0767843,
+    "longitude": -90.3814567
+  },
+  {
+    "id": 766870620577,
+    "name": "Estadio Roy Fernández",
+    "city": "Gualán",
+    "capacity": 1000,
+    "latitude": 15.4762226,
+    "longitude": -90.3769099
+  },
+  {
+    "id": 21020,
+    "name": "Estadio Club Social y Deportivo La Libertad",
+    "city": "Rivadavia",
+    "capacity": 700,
+    "latitude": -33.2143507,
+    "longitude": -68.5045416
+  },
+  {
+    "id": 46920895525,
+    "name": "Estadio Municipal de Pajapita",
+    "city": "Pajapita",
+    "capacity": 1000,
+    "latitude": 14.7193812,
+    "longitude": -92.0373584
+  }
+]

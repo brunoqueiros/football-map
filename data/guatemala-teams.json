@@ -1,0 +1,322 @@
+[
+    {
+        "id": 3636,
+        "name": "Achuapa",
+        "code": null,
+        "country": "Guatemala",
+        "founded": null,
+        "national": false,
+        "logo": "3636.png",
+        "venue_id": 2437
+    },
+    {
+        "id": 3643,
+        "name": "Marquense",
+        "code": "MAR",
+        "country": "Guatemala",
+        "founded": 1958,
+        "national": false,
+        "logo": "3643.png",
+        "venue_id": 2444
+    },
+    {
+        "id": 3645,
+        "name": "Mixco",
+        "code": null,
+        "country": "Guatemala",
+        "founded": null,
+        "national": false,
+        "logo": "3645.png",
+        "venue_id": 2446
+    },
+    {
+        "id": 3656,
+        "name": "Antigua GFC",
+        "code": null,
+        "country": "Guatemala",
+        "founded": 1958,
+        "national": false,
+        "logo": "3656.png",
+        "venue_id": 2456
+    },
+    {
+        "id": 3657,
+        "name": "Cobán Imperial",
+        "code": null,
+        "country": "Guatemala",
+        "founded": 1924,
+        "national": false,
+        "logo": "3657.png",
+        "venue_id": 2457
+    },
+    {
+        "id": 3658,
+        "name": "Comunicaciones",
+        "code": null,
+        "country": "Guatemala",
+        "founded": 1949,
+        "national": false,
+        "logo": "3658.png",
+        "venue_id": 2441
+    },
+    {
+        "id": 3662,
+        "name": "Guastatoya",
+        "code": null,
+        "country": "Guatemala",
+        "founded": null,
+        "national": false,
+        "logo": "3662.png",
+        "venue_id": 2460
+    },
+    {
+        "id": 3664,
+        "name": "Malacateco",
+        "code": "MAL",
+        "country": "Guatemala",
+        "founded": 1962,
+        "national": false,
+        "logo": "3664.png",
+        "venue_id": 2462
+    },
+    {
+        "id": 3665,
+        "name": "Municipal",
+        "code": "MUN",
+        "country": "Guatemala",
+        "founded": 1936,
+        "national": false,
+        "logo": "3665.png",
+        "venue_id": 2463
+    },
+    {
+        "id": 3667,
+        "name": "Xelajú",
+        "code": "XEL",
+        "country": "Guatemala",
+        "founded": 1928,
+        "national": false,
+        "logo": "3667.png",
+        "venue_id": 2465
+    },
+    {
+        "id": 4904,
+        "name": "Xinabajul",
+        "code": null,
+        "country": "Guatemala",
+        "founded": 1968,
+        "national": false,
+        "logo": "4904.png",
+        "venue_id": 2458
+    },
+    {
+        "id": 15293,
+        "name": "Zacapa Tellioz",
+        "code": null,
+        "country": "Guatemala",
+        "founded": 2020,
+        "national": false,
+        "logo": "15293.png",
+        "venue_id": 8600
+    },
+    {
+        "id": 3644,
+        "name": "Mictlán",
+        "code": "MIC",
+        "country": "Guatemala",
+        "founded": 1960,
+        "national": false,
+        "logo": "3644.png",
+        "venue_id": 2445
+    },
+    {
+        "id": 3646,
+        "name": "Nueva Concepción",
+        "code": null,
+        "country": "Guatemala",
+        "founded": null,
+        "national": false,
+        "logo": "3646.png",
+        "venue_id": 2447
+    },
+    {
+        "id": 3647,
+        "name": "Quiché",
+        "code": null,
+        "country": "Guatemala",
+        "founded": null,
+        "national": false,
+        "logo": "3647.png",
+        "venue_id": 2448
+    },
+    {
+        "id": 3649,
+        "name": "San Pedro",
+        "code": null,
+        "country": "Guatemala",
+        "founded": 1992,
+        "national": false,
+        "logo": "3649.png",
+        "venue_id": 2449
+    },
+    {
+        "id": 3653,
+        "name": "Suchitepéquez",
+        "code": "SUC",
+        "country": "Guatemala",
+        "founded": 1960,
+        "national": false,
+        "logo": "3653.png",
+        "venue_id": 2453
+    },
+    {
+        "id": 3654,
+        "name": "Universidad San Carlos",
+        "code": "UNI",
+        "country": "Guatemala",
+        "founded": null,
+        "national": false,
+        "logo": "3654.png",
+        "venue_id": 2454
+    },
+    {
+        "id": 3655,
+        "name": "Sacachispas",
+        "code": null,
+        "country": "Guatemala",
+        "founded": 1949,
+        "national": false,
+        "logo": "3655.png",
+        "venue_id": 2455
+    },
+    {
+        "id": 3663,
+        "name": "Iztapa",
+        "code": "IZT",
+        "country": "Guatemala",
+        "founded": 1960,
+        "national": false,
+        "logo": "3663.png",
+        "venue_id": 2461
+    },
+    {
+        "id": 10008,
+        "name": "Coatepecano IB",
+        "code": null,
+        "country": "Guatemala",
+        "founded": null,
+        "national": false,
+        "logo": "10008.png",
+        "venue_id": 7048
+    },
+    {
+        "id": 10141,
+        "name": "Santa Lucía",
+        "code": null,
+        "country": "Guatemala",
+        "founded": 2014,
+        "national": false,
+        "logo": "10141.png",
+        "venue_id": 7133
+    },
+    {
+        "id": 10154,
+        "name": "Aurora",
+        "code": null,
+        "country": "Guatemala",
+        "founded": 1945,
+        "national": false,
+        "logo": "10154.png",
+        "venue_id": 7141
+    },
+    {
+        "id": 19163,
+        "name": "Deportivo Barberena",
+        "code": null,
+        "country": "Guatemala",
+        "founded": null,
+        "national": false,
+        "logo": "19163.svg",
+        "venue_id": 21018
+    },
+    {
+        "id": 19164,
+        "name": "San Benito",
+        "code": null,
+        "country": "Guatemala",
+        "founded": null,
+        "national": false,
+        "logo": "19164.svg",
+        "venue_id": 18610
+    },
+    {
+        "id": 21506,
+        "name": "Democracia",
+        "code": null,
+        "country": "Guatemala",
+        "founded": null,
+        "national": false,
+        "logo": "21506.svg",
+        "venue_id": 594023716148
+    },
+    {
+        "id": 21508,
+        "name": "Juventud Copalera",
+        "code": null,
+        "country": "Guatemala",
+        "founded": null,
+        "national": false,
+        "logo": "21508.svg",
+        "venue_id": 505854074675
+    },
+    {
+        "id": 24525,
+        "name": "AFF Guatemala",
+        "code": null,
+        "country": "Guatemala",
+        "founded": 1995,
+        "national": false,
+        "logo": "24525.svg",
+        "venue_id": 2446
+    },
+    {
+        "id": 24526,
+        "name": "Chiquimulilla",
+        "code": null,
+        "country": "Guatemala",
+        "founded": null,
+        "national": false,
+        "logo": "24526.svg",
+        "venue_id": 21019
+    },
+    {
+        "id": 24527,
+        "name": "Gualan",
+        "code": null,
+        "country": "Guatemala",
+        "founded": null,
+        "national": false,
+        "logo": "24527.svg",
+        "venue_id": 766870620577
+    },
+    {
+        "id": 24528,
+        "name": "La Libertad",
+        "code": null,
+        "country": "Argentina",
+        "founded": null,
+        "national": false,
+        "logo": "24528.png",
+        "venue_id": 21020
+    },
+    {
+        "id": 24529,
+        "name": "Pajapita",
+        "code": null,
+        "country": "Guatemala",
+        "founded": null,
+        "national": false,
+        "logo": "24529.svg",
+        "venue_id": 46920895525
+    }
+]
