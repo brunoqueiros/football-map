@@ -1,0 +1,172 @@
+[
+    {
+        "id": 4511,
+        "name": "AFAD",
+        "code": null,
+        "country": "Ivory-Coast",
+        "founded": 2005,
+        "national": false,
+        "logo": "4511.png",
+        "venue_id": 3421
+    },
+    {
+        "id": 4512,
+        "name": "ASEC Mimosas",
+        "code": "ASE",
+        "country": "Ivory-Coast",
+        "founded": 1948,
+        "national": false,
+        "logo": "4512.png",
+        "venue_id": 3421
+    },
+    {
+        "id": 4514,
+        "name": "Africa Sports",
+        "code": null,
+        "country": "Ivory-Coast",
+        "founded": 1948,
+        "national": false,
+        "logo": "4514.png",
+        "venue_id": 3421
+    },
+    {
+        "id": 4516,
+        "name": "Bouaké",
+        "code": null,
+        "country": "Ivory-Coast",
+        "founded": 2004,
+        "national": false,
+        "logo": "4516.png",
+        "venue_id": 3421
+    },
+    {
+        "id": 4517,
+        "name": "Lys Sassandra",
+        "code": null,
+        "country": "Ivory-Coast",
+        "founded": null,
+        "national": false,
+        "logo": "4517.png",
+        "venue_id": 3421
+    },
+    {
+        "id": 4519,
+        "name": "Racing d'Abidjan",
+        "code": null,
+        "country": "Ivory-Coast",
+        "founded": 2006,
+        "national": false,
+        "logo": "4519.png",
+        "venue_id": 3421
+    },
+    {
+        "id": 4520,
+        "name": "SOA",
+        "code": null,
+        "country": "Ivory-Coast",
+        "founded": 1932,
+        "national": false,
+        "logo": "4520.png",
+        "venue_id": 3421
+    },
+    {
+        "id": 4521,
+        "name": "San-Pédro",
+        "code": null,
+        "country": "Ivory-Coast",
+        "founded": 2004,
+        "national": false,
+        "logo": "4521.png",
+        "venue_id": 3421
+    },
+    {
+        "id": 4525,
+        "name": "Stade d'Abidjan",
+        "code": null,
+        "country": "Ivory-Coast",
+        "founded": 1936,
+        "national": false,
+        "logo": "4525.png",
+        "venue_id": 3421
+    },
+    {
+        "id": 4527,
+        "name": "Denguélé",
+        "code": null,
+        "country": "Ivory-Coast",
+        "founded": 1972,
+        "national": false,
+        "logo": "4527.png",
+        "venue_id": 3421
+    },
+    {
+        "id": 6346,
+        "name": "SOL",
+        "code": null,
+        "country": "Ivory-Coast",
+        "founded": null,
+        "national": false,
+        "logo": "6346.png",
+        "venue_id": 3421
+    },
+    {
+        "id": 16588,
+        "name": "Stella",
+        "code": null,
+        "country": "Ivory-Coast",
+        "founded": 1953,
+        "national": false,
+        "logo": "16588.png",
+        "venue_id": 3421
+    },
+    {
+        "id": 18179,
+        "name": "Korhogo",
+        "code": null,
+        "country": "Ivory-Coast",
+        "founded": null,
+        "national": false,
+        "logo": "18179.png",
+        "venue_id": 3421
+    },
+    {
+        "id": 22583,
+        "name": "Mouna",
+        "code": null,
+        "country": "Ivory-Coast",
+        "founded": null,
+        "national": false,
+        "logo": "22583.png",
+        "venue_id": 3421
+    },
+    {
+        "id": 22584,
+        "name": "Zoman",
+        "code": null,
+        "country": "Ivory-Coast",
+        "founded": null,
+        "national": false,
+        "logo": "22584.png",
+        "venue_id": 3421
+    },
+    {
+        "id": 24756,
+        "name": "Olympique Sport d'Abobo",
+        "code": null,
+        "country": "Ivory-Coast",
+        "founded": null,
+        "national": false,
+        "logo": "24756.png",
+        "venue_id": 3421
+    },
+    {
+        "id": 25587,
+        "name": "ISCA",
+        "code": null,
+        "country": "Ivory-Coast",
+        "founded": null,
+        "national": false,
+        "logo": "25587.svg",
+        "venue_id": 840460679391
+    }
+]
